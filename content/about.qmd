@@ -1,0 +1,26 @@
+---
+title: About
+comments: false
+page-layout: full
+---
+
+## Project Director
+
+::: {layout="[[30,70], [30,70]]"}
+![](images/image-1982633316.png){width="184"}
+
+[J Andrés Gannon](https://jandresgannon.com/) is an Assistant Professor of [Political Science at Vanderbilt University](https://www.vanderbilt.edu/political-science/) and a Faculty Affiliate at the [Data Science Institute](https://www.vanderbilt.edu/datascience/). He earned his PhD in [[Political Science]{.underline}](http://polisci.ucsd.edu/) from UC San Diego in 2021.\
+[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:andres.gannon@gmail.com) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon) [![](images/image-1576385032.png){width="51"}](https://twitter.com/AndresGannon)
+:::
+
+## Research Assistants
+
+::: {layout-ncol="3"}
+:::
+
+## Financial and Administrative Support
+
+The authors are grateful to the following institutions and their directors for financial, administrative, and technical support.
+
+::: {layout-ncol="2"}
+:::

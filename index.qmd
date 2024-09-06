@@ -1,0 +1,29 @@
+---
+title: "Military Doctrines Dataset"
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
+---
+
+```{r knitr_options}
+library(knitr)
+library(kableExtra)
+library(magrittr)
+library(ggplot2)
+```
+
+```{r}
+# Load main data
+
+```
+
+# Purpose
