@@ -1,0 +1,111 @@
+---
+title: "ROCCA Word Clouds"
+author: "Allie Sniezek"
+date: "2024-09-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Part 1: 2013
+
+```{r}
+# Define the path to the CSV file
+csv_path <- "/Users/alexandrasniezek/Desktop/DS 3262/taiwan_2013_NationalDefenseReport_subset.csv"
+
+# Read the CSV file into a data frame
+csv_df <- read.csv(csv_path, stringsAsFactors = FALSE)
+
+
+```
+
+```{r}
+
+docs <- tm::Corpus(tm::VectorSource(csv_df$Line))
+
+
+
+docs_clean <- docs |>
+  tm::tm_map(tm::removeNumbers) |>
+  tm::tm_map(tm::removeWords, tm::stopwords("english")) |>
+  tm::tm_map(tm::stripWhitespace) |>
+  tm::tm_map(tm::removePunctuation) |>
+  tm::tm_map(tm::stemDocument) |>
+  tm::tm_map(tm::removePunctuation)
+
+
+```
+
+# Document Term Matrix
+
+```{r}
+library(tm)
+
+
+dtm <- DocumentTermMatrix(docs_clean,
+                                    control = list(weighting = weightTfIdf,
+                                                   stopwords = TRUE,
+                                                   tolower = TRUE,
+                                                   removeNumbers = TRUE,
+                                                   removePunctuation = TRUE,
+                                                   stemming = TRUE))
+
+```
+
+# Word Cloud:
+
+```{r}
+library(wordcloud)
+freq <- colSums(as.matrix(dtm))
+wordcloud(names(freq), freq, max.words = 100)
+```
+
+# Part 2:
+
+```{r}
+# Define the path to the CSV file
+csv_path2 <- "/Users/alexandrasniezek/Desktop/DS 3262/taiwan_2023_NationalDefenseReport_subset.csv"
+
+# Read the CSV file into a data frame
+csv_df2 <- read.csv(csv_path2, stringsAsFactors = FALSE)
+
+
+```
+
+```{r}
+
+docs_p <- tm::Corpus(tm::VectorSource(csv_df2$Line))
+
+
+
+docs_clean <- docs_p |>
+  tm::tm_map(tm::removeNumbers) |>
+  tm::tm_map(tm::removeWords, tm::stopwords("english")) |>
+  tm::tm_map(tm::stripWhitespace) |>
+  tm::tm_map(tm::removePunctuation) |>
+  tm::tm_map(tm::stemDocument)
+
+
+
+
+dtm <- DocumentTermMatrix(docs_clean,
+                                    control = list(weighting = weightTfIdf,
+                                                   stopwords = TRUE,
+                                                   tolower = TRUE,
+                                                   removeNumbers = TRUE,
+                                                   removePunctuation = TRUE,
+                                                   stemming = TRUE))
+
+
+
+```
+
+# Word Cloud:
+
+```{r}
+library(wordcloud)
+freq <- colSums(as.matrix(dtm))
+wordcloud(names(freq), freq, max.words = 100)
+```

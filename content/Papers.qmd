@@ -1,0 +1,22 @@
+---
+title: "Papers"
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
+---
+
+### \[paper 1: East Asia\]
+
+### \[paper 2: NATO Expansion\]
+
+\
+![]()

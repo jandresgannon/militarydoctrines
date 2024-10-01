@@ -26,4 +26,16 @@ library(ggplot2)
 
 ```
 
-# Purpose
+## Purpose
+
+\[Insert purpose statement here\]
+
+## [Word Clouds](content/wordcloud.qmd)
+
+::: {layout="[[50,50], [50,50]]"}
+![Taiwan NSS Word Cloud (2013)](content/images/taiwan_wc_2013.png){fig-align="left" width="500"}
+
+![Taiwan NSS World Cloud (2023)](content/images/taiwan_wc_2023.png){fig-align="left" width="500"}
+:::
+
+
