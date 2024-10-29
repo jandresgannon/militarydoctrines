@@ -1,5 +1,5 @@
 ---
-title: "Data"
+title: "Interactive Visuals"
 page-layout: full
 format:
   html:
@@ -14,5 +14,55 @@ execute:
   cache: false
 ---
 
+```{r}
+library(plotly)
 
-[Word Clouds](wordcloud.qmd)
+# Sample data for demonstration
+data <- data.frame(
+  Category = c("A", "B", "C", "D"),
+  Value = c(10, 15, 13, 17)
+)
+
+# Plotly bar chart
+fig <- plot_ly(data, x = ~Category, y = ~Value, type = 'bar')
+fig
+
+```
+
+```{r}
+
+library(leaflet)
+
+# Create a basic leaflet map
+
+
+library(leaflet)
+
+# Define custom icons
+nato_icon <- makeIcon(
+  iconUrl = "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+  iconWidth = 32, iconHeight = 32
+)
+
+east_asia_icon <- makeIcon(
+  iconUrl = "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+  iconWidth = 32, iconHeight = 32
+)
+
+# Create the map
+leaflet() %>%
+  addTiles() %>%
+  setView(lng = 60, lat = 50, zoom = 3) %>%
+  
+  # NATO countries (example markers)
+  addMarkers(lng = -0.1276, lat = 51.5074, popup = "London, United Kingdom (NATO)", icon = nato_icon) %>%
+  addMarkers(lng = 2.3522, lat = 48.8566, popup = "Paris, France (NATO)", icon = nato_icon) %>%
+  addMarkers(lng = 12.4964, lat = 41.9028, popup = "Rome, Italy (NATO)", icon = nato_icon) %>%
+  
+  # East Asian countries (example markers)
+  addMarkers(lng = 139.6917, lat = 35.6895, popup = "Tokyo, Japan (East Asia)", icon = east_asia_icon) %>%
+  addMarkers(lng = 126.9780, lat = 37.5665, popup = "Seoul, South Korea (East Asia)", icon = east_asia_icon) %>%
+  addMarkers(lng = 121.4737, lat = 31.2304, popup = "Shanghai, China (East Asia)", icon = east_asia_icon)
+
+
+```

@@ -1,0 +1,13 @@
+---
+title: "CSV Data"
+description: "Download data in CSV format"
+editor: source
+---
+
+- [Country Year Coverage](data_copy/country_year_coverage.csv)
+- [DTM](data_copy/document_term_matrix.csv)
+- [First Nato Mention](data_copy/first_nato_mention.csv)
+- [First Taiwan Mention](data_copy/first_taiwan_mention.csv)
+- [nss_metadata_all_txts.csv](data_copy/nss_metadata_all_txts.csv)
+- [nss_metadata_all_txts.csv](data_copy/nss_metadata_all_txts.csv)
+- [nss_metadata](data_copy/nss_metadata.csv)

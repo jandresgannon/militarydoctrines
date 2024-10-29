@@ -1,0 +1,11 @@
+---
+title: "Penguins"
+editor: visual
+---
+
+
+```{ojs}
+data = FileAttachment("palmer-penguins.csv").csv({ typed: true })
+```
+
+

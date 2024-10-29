@@ -16,19 +16,24 @@ page-layout: full
 ## Research Assistants
 
 ::: {layout="[[33,33,33], [33,33,33], [33,33,33]]"}
+
+![Name](images/blank_image.png){fig-align="left" width="180"}
+
+![Name](images/blank_image.png){fig-align="left" width="180"}
+
+![Name](images/blank_image.png){fig-align="left" width="180"}
+
+![Name](images/blank_image.png){fig-align="left" width="180"}
+
+![Name](images/blank_image.png){fig-align="left" width="180"}
+
+
 ![Alexandra Sniezek](images/image-109284903.png){fig-align="left" width="180"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
 
 ![Name](images/blank_image.png){fig-align="left" width="180"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
-
-![Name](images/blank_image.png){fig-align="left" width="180"}
-
-![Name](images/blank_image.png){fig-align="left" width="180"}
-
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Alexandra Sniezek](images/image-109284903.png){fig-align="left" width="180"}
 
 :::
 

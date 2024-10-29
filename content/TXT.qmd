@@ -1,0 +1,22 @@
+---
+title: "TXT Data"
+description: "Download data in TXT format"
+editor: source
+---
+
+Taiwan's National Defense Reports:
+
+- [2002](data_copy/text_files/taiwan_2002_NationalDefenseReport.txt)
+- [2006](data_copy/text_files/taiwan_2006_NationalDefenseReport.txt)
+- [2008](data_copy/text_files/taiwan_2008_NationalDefenseReport.txt)
+- [2009](data_copy/text_files/taiwan_2009_NationalDefenseReport.txt)
+- [20011](data_copy/text_files/taiwan_2011_NationalDefenseReport.txt)
+- [20013](data_copy/text_files/taiwan_2013_NationalDefenseReport.txt)
+- [20015](data_copy/text_files/taiwan_2015_NationalDefenseReport.txt)
+- [20017](data_copy/text_files/taiwan_2017_NationalDefenseReport.txt)
+- [20019](data_copy/text_files/taiwan_2019_NationalDefenseReport.txt)
+- [20021](data_copy/text_files/taiwan_2021_NationalDefenseReport.txt)
+- [20023](data_copy/text_files/taiwan_2023_NationalDefenseReport.txt)
+
+
+*idea: interactive table/chart to find text files more easily

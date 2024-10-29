@@ -1,0 +1,12 @@
+---
+title: "PDF Data"
+description: "Download data in PDF format"
+editor: source
+---
+
+
+- [Australia 2022 Defence Information](data_copy/nss_pdf/australia_2022_DefenceInformationAndCommunicationsTechnologyStrategy.pdf)
+- [Australia 2023 Cybersecurity Strategy](.data_copy/nss_pdf/australia_2023_AustralianCybersecurityStrategy.pdf)
+
+
+

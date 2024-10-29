@@ -27,6 +27,16 @@ website:
         text: Papers
       - href: content/Data.qmd
         text: Data
+      - section: "Data"
+        contents:
+          - href: content/PDF.qmd
+            text: PDF
+          - href: content/CSV.qmd
+            text: CSV
+          - href: content/TXT.qmd
+            text: TXT
+      - href: content/penguins.qmd
+        Text: penguins
       - section: "Visuals"
         contents:
           - href: content/NATO_data.qmd

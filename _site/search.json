@@ -32,7 +32,7 @@
     "href": "content/about.html#research-assistants",
     "title": "About",
     "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\n\n\nName"
+    "text": "Research Assistants\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\n\n\nName"
   },
   {
     "objectID": "content/about.html#financial-and-administrative-support",
@@ -74,14 +74,14 @@
     "href": "content/NATO_data.html",
     "title": "NATO Data",
     "section": "",
-    "text": "insert visuals"
+    "text": "interactive visuals:\n\nlibrary(plotly)\n\nLoading required package: ggplot2\n\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\n# Sample data for demonstration\ndata &lt;- data.frame(\n  Category = c(\"A\", \"B\", \"C\", \"D\"),\n  Value = c(10, 15, 13, 17)\n)\n\n# Plotly bar chart\nfig &lt;- plot_ly(data, x = ~Category, y = ~Value, type = 'bar')\nfig\n\n\n\n\n\n\n# Create a basic leaflet map\n\n\nlibrary(leaflet)\n\n# Define custom icons\nnato_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/blue-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\neast_asia_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/red-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\n# Create the map\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(lng = 60, lat = 50, zoom = 3) %&gt;%\n  \n  # NATO countries (example markers)\n  addMarkers(lng = -0.1276, lat = 51.5074, popup = \"London, United Kingdom (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 2.3522, lat = 48.8566, popup = \"Paris, France (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 12.4964, lat = 41.9028, popup = \"Rome, Italy (NATO)\", icon = nato_icon) %&gt;%\n  \n  # East Asian countries (example markers)\n  addMarkers(lng = 139.6917, lat = 35.6895, popup = \"Tokyo, Japan (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 126.9780, lat = 37.5665, popup = \"Seoul, South Korea (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 121.4737, lat = 31.2304, popup = \"Shanghai, China (East Asia)\", icon = east_asia_icon)"
   },
   {
     "objectID": "content/EastAsia_data.html",
     "href": "content/EastAsia_data.html",
     "title": "East Asia",
     "section": "",
-    "text": "East Asia Visuals"
+    "text": "Australia\n\n\n\n\n\n\n\n\n\n\n\n\nJapan:\n\n\n\n2010\n\n\n\n\n\n2012\n\n\n:::"
   },
   {
     "objectID": "index.html#purpose",
@@ -96,5 +96,54 @@
     "title": "Military Doctrines Dataset",
     "section": "Word Clouds",
     "text": "Word Clouds\n\n\n\n\n\n\nTaiwan NSS Word Cloud (2013)\n\n\n\n\n\n\n\nTaiwan NSS World Cloud (2023)"
+  },
+  {
+    "objectID": "content/penguins.html",
+    "href": "content/penguins.html",
+    "title": "Penguins",
+    "section": "",
+    "text": "penguins\n\ndata = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })"
+  },
+  {
+    "objectID": "content/TXT.html",
+    "href": "content/TXT.html",
+    "title": "TXT Data",
+    "section": "",
+    "text": "Taiwan’s National Defense Reports:\n\n2002\n2006\n2008\n2009\n20011\n20013\n20015\n20017\n20019\n20021\n20023\n\n*idea: interactive table/chart to find text files more easily"
+  },
+  {
+    "objectID": "content/PDF.html",
+    "href": "content/PDF.html",
+    "title": "PDF Data",
+    "section": "",
+    "text": "Australia 2022 Defence Information\nAustralia 2023 Cybersecurity Strategy"
+  },
+  {
+    "objectID": "content/CSV.html",
+    "href": "content/CSV.html",
+    "title": "CSV Data",
+    "section": "",
+    "text": "Country Year Coverage\nDTM\nFirst Nato Mention\nFirst Taiwan Mention\nnss_metadata_all_txts.csv\nnss_metadata_all_txts.csv\nnss_metadata"
+  },
+  {
+    "objectID": "content/PDF.html#download-csv-files",
+    "href": "content/PDF.html#download-csv-files",
+    "title": "PDF Data",
+    "section": "Download CSV Files",
+    "text": "Download CSV Files\nYou can download the following CSV files:\n\nAustralia 2022 Defence Information\nAustralia 2023 Cybersecurity Strategy"
+  },
+  {
+    "objectID": "content/TXT.html#download-csv-files",
+    "href": "content/TXT.html#download-csv-files",
+    "title": "TXT Data",
+    "section": "Download CSV Files",
+    "text": "Download CSV Files\nYou can download the following CSV files:\nTaiwan’s National Defense Reports:\n\n2002\n2006\n2008\n2009\n20011\n20013\n20015\n20017\n20019\n20021\n20023"
+  },
+  {
+    "objectID": "content/CSV.html#csv-downloads",
+    "href": "content/CSV.html#csv-downloads",
+    "title": "CSV Data",
+    "section": "",
+    "text": "Country Year Coverage\nDTM\nFirst Nato Mention\nFirst Taiwan Mention\nnss_metadata_all_txts.csv\nnss_metadata_all_txts.csv\nnss_metadata"
   }
 ]

@@ -3,4 +3,22 @@ title: "East Asia"
 editor: visual
 ---
 
-# East Asia Visuals
+# Australia
+
+::: {layout="[[33,33,33], [33,33,33], [33,33,33]]"}
+
+![](images/figures_/fig-country-mention-australia-2019-1.png){width="349"}
+
+![](images/figures_/fig-country-mention-australia-temporal-1.png){width="349"}
+:::
+
+
+# Japan:
+![2010](images/figures_/fig-country-mention-japan-2010-1.png)
+
+
+
+![2012](images/figures_/fig-country-mention-japan-2012-1.png)
+
+:::
+
