@@ -1,0 +1,1173 @@
+---
+title: "Affinity"
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
+---
+
+
+```{r}
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(countrycode)
+library(DT)
+library(dplyr)
+library(htmltools)
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rworldmap)
+library(RColorBrewer)
+library(htmltools)
+library(crosstalk)
+```
+
+```{r}
+library(plotly)
+```
+
+
+```{r knitr_options}
+coverage_df <- read.csv("data_copy/country_year_coverage.csv")
+metadata <- read.csv("data_copy/nss_metadata.csv")
+```
+
+```{r}
+affective_salience <- read.csv("data_copy/affective_salience.csv")
+
+```
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
+all_country_aliases <- readRDS("data_copy/country_aliases.rds")
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+   filter(target_country == "Taiwan", origin_country %in% c("South Korea", 
+                                                                 "United States", 
+                                                                 "Japan", 
+                                                                 "Australia")) %>%
+  mutate(year = as.numeric(year))
+
+
+ ggplot(filtered_data, aes(x = year, y = avg_directed_vader, color = origin_country)) +
+   geom_point(size = 1) +
+   geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader, 
+                     ymax = avg_directed_vader + se_directed_vader), 
+                 width =1) +
+  scale_color_manual(values = c(
+    "South Korea" = "#0072B2",  # Blue
+    "United States" = "#009E73",  # Green
+    "Australia" = "#D55E00",  # Orange
+    "Japan" = "#CC79A7"   # Pink/Magenta
+  )) + 
+   facet_wrap(~origin_country, ncol = 2) +
+  # scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 2)) +
+   labs(
+     title = "Affinity Towards Taiwan",
+     x = "Year",
+     y = "Affinity",
+     color = "Origin Country"
+   ) +
+   theme_classic() +
+   theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+     axis.title = element_text(size = 12),
+     axis.text = element_text(size = 10),
+     legend.title = element_text(size = 12),
+     legend.text = element_text(size = 10)
+   )
+```
+
+
+
+```{r}
+ ## SENSE CHECK PLOT 
+filtered_data <- all_summary_df %>%
+   filter(origin_country == "South Korea", target_country %in% c("North Korea", 
+                                                                 "United States", 
+                                                                 "Japan", 
+                                                                 "China"))
+
+
+ ggplot(filtered_data, aes(x = year, y = avg_directed_vader, color = target_country)) +
+   geom_line(size = 1) + 
+   geom_point(size = 3) +
+   geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader, 
+                     ymax = avg_directed_vader + se_directed_vader), 
+                 width = 0.2) +
+  scale_color_manual(values = c(
+    "North Korea" = "#0072B2",  # Blue
+    "United States" = "#009E73",  # Green
+    "China" = "#D55E00",  # Orange
+    "Japan" = "#CC79A7"   # Pink/Magenta
+  )) + 
+   labs(
+     title = "Affinity from South Korea NSS Dcouments",
+     x = "Year",
+     y = "Average Directed Vader",
+     color = "Target Country"
+   ) +
+   theme_minimal() +
+   theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+     axis.title = element_text(size = 12),
+     axis.text = element_text(size = 10),
+     legend.title = element_text(size = 12),
+     legend.text = element_text(size = 10)
+   )
+```
+
+
+
+```{r}
+baltic_data <- all_summary_df %>%
+  filter(origin_country %in% c("Estonia", "Latvia", "Lithuania"),
+         target_country %in% c("Russia")) %>%
+  mutate(year = as.numeric(year))
+
+ggplot(baltic_data, aes(x = year, y = avg_directed_vader, color = origin_country)) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2) +
+  scale_color_manual(values = c("Estonia" = "#4B9CD3",
+                               "Latvia" = "#9D2235",
+                               "Lithuania" = "#FDB913")) +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 2)) +
+  labs(
+    title = "Baltic States' Sentiment Towards Russia",
+    x = "Year",
+    y = "Average Directed Vader",
+    color = "Origin Country"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.title = element_text(size = 12),
+    legend.text = element_text(size = 10)
+  )
+```
+
+```{r}
+baltic_data <- all_summary_df %>%
+  filter(origin_country %in% c("Estonia", "Latvia", "Lithuania"),
+         target_country %in% c("United States")) %>%
+  mutate(year = as.numeric(year))
+
+ggplot(baltic_data, aes(x = year, y = avg_directed_vader, color = origin_country)) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2) +
+  scale_color_manual(values = c("Estonia" = "#4B9CD3",
+                               "Latvia" = "#9D2235",
+                               "Lithuania" = "#FDB913")) +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 2)) +
+  labs(
+    title = "Baltic States' Sentiment Towards United States",
+    x = "Year",
+    y = "Average Directed Vader",
+    color = "Origin Country"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.title = element_text(size = 12),
+    legend.text = element_text(size = 10)
+  )
+```
+
+```{r}
+baltic_data <- all_summary_df %>%
+  filter(origin_country %in% c("Estonia", "Latvia", "Lithuania"),
+         target_country %in% c("Russia", "United States")) %>%
+  mutate(year = as.numeric(year))
+
+ggplot(baltic_data, aes(x = year, y = avg_directed_vader, color = origin_country)) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2) +
+  scale_color_manual(values = c("Estonia" = "#4B9CD3",
+                               "Latvia" = "#9D2235",
+                               "Lithuania" = "#FDB913")) +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 5)) +
+  facet_wrap(~target_country, ncol = 1) +
+  labs(
+    title = "Baltic States' Directed Sentiment Towards Russia and United States",
+    x = "Year",
+    y = "Average Directed Vader",
+    color = "Origin Country"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 10)
+  )
+```
+
+
+
+
+```{r}
+estonia_data <- all_summary_df %>%
+  filter(origin_country %in% c("Estonia"),
+         target_country %in% c("Russia", "United States")) %>%
+  mutate(year = as.numeric(year))
+
+ggplot(estonia_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "#4B9CD3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "#4B9CD3") +
+  geom_vline(xintercept = 2007, linetype = "dotted") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 5)) +
+  facet_wrap(~target_country, ncol = 1) +
+  labs(
+    title = "Estonia's Directed Sentiment Towards Russia and United States",
+    x = "Year",
+    y = "Average Directed Vader",
+    caption = "Dotted line indicates 2007 Russian cyber attack"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10)
+  )
+```
+
+```{r}
+georgia_data <- all_summary_df %>%
+  filter(origin_country %in% c("Georgia"),
+         target_country %in% c("Russia", "United States")) %>%
+  mutate(year = as.numeric(year))
+
+ggplot(georgia_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "#4B9CD3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "#4B9CD3") +
+  geom_vline(xintercept = 2008, linetype = "dotted") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(breaks = function(x) seq(ceiling(min(x)), floor(max(x)), by = 5)) +
+  facet_wrap(~target_country, ncol = 1) +
+  labs(
+    title = "Georgia's Directed Sentiment Towards Russia and United States",
+    x = "Year",
+    y = "Average Directed Vader",
+    caption = "Dotted line indicates 2008 cyber attack, special operations, and ground troops"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10)
+  )
+```
+
+
+
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Ukraine" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Ukraine")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Ukraine to Russia", "Russia to Ukraine"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Ukraine and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates Russian invasion of Ukraine (2014)\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Georgia" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Georgia")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Georgia to Russia", "Russia to Georgia"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2008, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Georgia and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates 2008 cyber attack, special operations, and ground troops\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Ukraine" & target_country == "United States") |
+         (origin_country == "United States" & target_country == "Ukraine")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Ukraine to United States", "United States to Ukraine"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2008, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year), y = -1, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between United States and Ukraine",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates Russian invasion of Ukraine (2014)\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")
+  )
+```
+
+
+
+
+
+```{r}
+ukraine_data <- all_summary_df %>%
+  filter(origin_country %in% c("Ukraine"),
+         target_country %in% c("Russia", "United States")) %>%
+  mutate(year = as.numeric(year))
+ggplot(ukraine_data, aes(x = year, y = avg_directed_vader)) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50") +  # Added horizontal line
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(ukraine_data$year)), floor(max(ukraine_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = max(ukraine_data$year) - 0.5, y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = max(ukraine_data$year) - 0.5, y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  facet_wrap(~target_country, ncol = 1) +
+  labs(
+    title = "Affinity toward great powers in\nUkrainian National Security Strategy",
+    x = "Year",
+    y = "Affinity",
+    caption = "Dotted line indicates Russian invasion of Ukraine (2014)\nAffinity measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE (Burnham, Michael, et al., 2024)"
+  ) +
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Latvia" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Latvia")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Latvia to Russia", "Russia to Latvia"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Latvia and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates Russian invasion of Ukraine\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Estonia" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Estonia")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Estonia to Russia", "Russia to Estonia"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Estonia and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates Russian invasion of Ukraine\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Georgia" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Georgia")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Georgia to Russia", "Russia to Georgia"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Georgia and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted line indicates Russian invasion of Ukraine\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "South Korea" & target_country == "Japan") |
+         (origin_country == "Japan" & target_country == "South Korea")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("South Korea to Japan", "Japan to South Korea"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(0, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 2),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between South Korea and Japan",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Directed sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "South Korea" & target_country == "United States") |
+         (origin_country == "United States" & target_country == "South Korea")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("South Korea to United States", "United States to South Korea"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(0, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 2),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between United States and South Korea",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Directed sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Germany" & target_country == "Russia") |
+         (origin_country == "Russia" & target_country == "Germany")) %>%
+  mutate(year = as.numeric(year))
+
+# Create a new facet label column
+filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c("Germany to Russia", "Russia to Germany"))
+
+# Plot
+ggplot(filtered_data, aes(x = year, y = avg_directed_vader)) +
+  geom_point(size = 3, color = "blue3") +
+  geom_errorbar(aes(ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +  # Added horizontal line
+  geom_vline(xintercept = 2014, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), floor(max(filtered_data$year)), by = 2),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Add sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  labs(
+    title = "Directed Sentiment Between Germany and Russia",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Directed sentiment measured using VADER (Hutto & Gilbert, 2014) and fine-tuned Political \nDEBATE(Burnham, Michael, et al., 2024)"
+  ) +
+  facet_wrap(~facet_label, 
+             ncol = 1) +  # Facet in a single column
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 10),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),  #  
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+
+
+
+
+```{r}
+create_bilateral_sentiment_plot <- function(data, country_a, country_b, nato_year) {
+  # First identify years where each country has documents
+  document_years <- data %>%
+    group_by(origin_country) %>%
+    distinct(year) %>%
+    mutate(year = as.numeric(year))
+  
+  # Create sequence of all possible years
+  year_range <- seq(min(data$year), max(data$year), by = 1)
+  
+  # Create missing years dataset for each origin country
+  country_a_missing_years <- data.frame(
+    year = year_range[!year_range %in% document_years$year[document_years$origin_country == country_a]],
+    facet_label = paste(country_a, "to", country_b)
+  )
+  
+  country_b_missing_years <- data.frame(
+    year = year_range[!year_range %in% document_years$year[document_years$origin_country == country_b]],
+    facet_label = paste(country_b, "to", country_a)
+  )
+  
+  # Combine missing years
+  missing_years <- rbind(country_a_missing_years, country_b_missing_years)
+  
+  # Filter data for your dyad of interest
+  filtered_data <- data %>%
+    filter((origin_country == country_a & target_country == country_b) |
+           (origin_country == country_b & target_country == country_a)) %>%
+    mutate(year = as.numeric(year))
+  
+  # Create facet labels
+  filtered_data$facet_label <- factor(paste(filtered_data$origin_country, "to", filtered_data$target_country),
+                                    levels = c(paste(country_a, "to", country_b), 
+                                             paste(country_b, "to", country_a)))
+  
+  # Get min and max years from filtered data
+  min_year <- min(filtered_data$year)
+  max_year <- max(filtered_data$year)
+  
+  # Plot
+  ggplot() +
+    # Add grey rectangles for missing years specific to each origin country
+    geom_rect(data = missing_years,
+              aes(xmin = year - 0.5, xmax = year + 0.5,
+                  ymin = -1, ymax = 1),
+              fill = "grey90", alpha = 0.5) +
+    # Your existing layers
+    geom_point(data = filtered_data, 
+               aes(x = year, y = avg_directed_vader),
+               size = 3, color = "blue3") +
+    geom_errorbar(data = filtered_data,
+                  aes(x = year,
+                      ymin = avg_directed_vader - se_directed_vader,
+                      ymax = avg_directed_vader + se_directed_vader),
+                  width = 0.2, color = "blue3") +
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    geom_vline(xintercept = nato_year, linetype = "dashed") +
+    scale_y_continuous(limits = c(-1, 1)) +
+    scale_x_continuous(
+      limits = c(min_year, max_year),
+      breaks = seq(min_year, max_year, by = 1),
+      labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+    ) +
+    annotate("text", x = min_year, y = 1, 
+             label = "positive", hjust = 0, vjust = 0.5, size = 3,
+             fontface = "italic", color = "grey50") +
+    annotate("text", x = min_year, y = -0.95, 
+             label = "negative", hjust = 0, vjust = 0.5, size = 3,
+             fontface = "italic", color = "grey50") +
+    labs(
+      title = paste("Directed Sentiment Between", country_a, "and", country_b),
+      x = "Year",
+      y = "Average Annual Directed Sentiment",
+      caption = paste0("Dotted vertical line indicates ", country_a, "'s NATO accession in ", nato_year,
+                      "\nGrey shaded areas indicate years with no available documents from the origin country",
+                      "\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and Political DEBATE (Burnham et al., 2024)")
+    ) +
+    facet_wrap(~facet_label, ncol = 1) +
+    theme_classic() +
+    theme(
+      plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+      axis.title = element_text(size = 12),
+      axis.text = element_text(size = 10, color = "black"),
+      legend.position = "none",
+      plot.caption = element_text(hjust = 0, size = 9),
+      strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+      strip.background = element_blank(),
+      strip.placement = "inside",
+      axis.line.x.top = element_line(color = "black"),
+      panel.spacing = unit(1, "lines")  
+    )
+}
+```
+
+
+```{r}
+create_bilateral_sentiment_plot(
+  data = all_summary_df,
+  country_a = "Czech Republic",
+  country_b = "United States",
+  nato_year = 1999
+)
+```
+
+```{r}
+create_bilateral_sentiment_plot(
+  data = all_summary_df,
+  country_a = "Albania",
+  country_b = "United States",
+  nato_year = 2009
+)
+```
+
+```{r}
+create_bilateral_sentiment_plot(
+  data = all_summary_df,
+  country_a = "Hungary",
+  country_b = "United States",
+  nato_year = 1999
+)
+```
+
+
+```{r}
+create_nato_sentiment_plot <- function(data, country, nato_year) {
+  # First identify years where the country has documents
+  document_years <- data %>%
+    filter(origin_country == country) %>%
+    distinct(year) %>%
+    mutate(year = as.numeric(year))
+  
+  # Create sequence of all possible years
+  year_range <- seq(min(data$year), max(data$year), by = 1)
+  
+  # Create missing years dataset
+  missing_years <- data.frame(
+    year = year_range[!year_range %in% document_years$year]
+  )
+  
+  # Filter data for country-NATO relationship
+  filtered_data <- data %>%
+    filter(origin_country == country & target_country == "NATO") %>%
+    mutate(year = as.numeric(year))
+  
+  # Get min and max years from filtered data
+  min_year <- min(filtered_data$year)
+  max_year <- max(filtered_data$year)
+  
+  # Plot
+  ggplot() +
+    # Add grey rectangles for missing years
+    geom_rect(data = missing_years,
+              aes(xmin = year - 0.5, xmax = year + 0.5,
+                  ymin = -1, ymax = 1),
+              fill = "grey90", alpha = 0.5) +
+    geom_point(data = filtered_data, 
+               aes(x = year, y = avg_directed_vader),
+               size = 3, color = "blue3") +
+    geom_errorbar(data = filtered_data,
+                  aes(x = year,
+                      ymin = avg_directed_vader - se_directed_vader,
+                      ymax = avg_directed_vader + se_directed_vader),
+                  width = 0.2, color = "blue3") +
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    geom_vline(xintercept = nato_year, linetype = "dashed") +
+    scale_y_continuous(limits = c(-1, 1)) +
+    scale_x_continuous(
+      limits = c(min_year, max_year),
+      breaks = seq(min_year, max_year, by = 1),
+      labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+    ) +
+    annotate("text", x = min_year, y = 1, 
+             label = "positive", hjust = 0, vjust = 0.5, size = 3,
+             fontface = "italic", color = "grey50") +
+    annotate("text", x = min_year, y = -0.95, 
+             label = "negative", hjust = 0, vjust = 0.5, size = 3,
+             fontface = "italic", color = "grey50") +
+    labs(
+      title = paste("Directed Sentiment from", country, "towards NATO"),
+      x = "Year",
+      y = "Average Annual Directed Sentiment",
+      caption = paste0("Dotted vertical line indicates ", country, "'s NATO accession in ", nato_year,
+                      "\nGrey shaded areas indicate years with no available documents from ", country,
+                      "\nDirected sentiment measured using VADER (Hutto & Gilbert, 2014) and Political DEBATE (Burnham et al., 2024)")
+    ) +
+    theme_classic() +
+    theme(
+      plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+      axis.title = element_text(size = 12),
+      axis.text = element_text(size = 10, color = "black"),
+      legend.position = "none",
+      plot.caption = element_text(hjust = 0, size = 9),
+      axis.line.x.top = element_line(color = "black"),
+      panel.spacing = unit(1, "lines")  
+    )
+}
+```
+
+
+```{r}
+create_nato_sentiment_plot(
+  data = all_summary_df,
+  country = "Albania",
+  nato_year = 2009
+)
+
+```
+
+```{r}
+create_nato_sentiment_plot(
+  data = all_summary_df,
+  country = "Estonia",
+  nato_year = 2004
+)
+
+```
+
+```{r}
+filtered_data <- all_summary_df %>%
+  filter((origin_country == "Lithuania" & target_country == "NATO")) %>%
+  mutate(year = as.numeric(year))
+
+year_range <- seq(min(filtered_data$year), max(filtered_data$year), by = 1)
+missing_years <- data.frame(
+  year = year_range[!year_range %in% filtered_data$year]
+)
+
+# Add the grey panels to your existing plot
+ggplot() +
+  # Add grey rectangles for missing years
+  geom_rect(data = missing_years,
+            aes(xmin = year - 0.5, xmax = year + 0.5,
+                ymin = -1, ymax = 1),
+            fill = "grey90", alpha = 0.5) +
+  # Your existing layers
+  geom_point(data = filtered_data, 
+             aes(x = year, y = avg_directed_vader),
+             size = 3, color = "blue3") +
+  geom_errorbar(data = filtered_data,
+                aes(x = year,
+                    y = avg_directed_vader,
+                    ymin = avg_directed_vader - se_directed_vader,
+                    ymax = avg_directed_vader + se_directed_vader),
+                width = 0.2, color = "blue3") +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  geom_vline(xintercept = 2004, linetype = "dashed") +
+  scale_y_continuous(limits = c(-1, 1)) +
+  scale_x_continuous(
+    breaks = seq(ceiling(min(filtered_data$year)), 
+                floor(max(filtered_data$year)), by = 1),
+    labels = function(x) paste0("'", substr(as.character(x), 3, 4))
+  ) +
+  # Sentiment annotations
+  annotate("text", x = min(filtered_data$year) , y = 1, 
+           label = "positive", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+  annotate("text", x = min(filtered_data$year) , y = -0.95, 
+           label = "negative", hjust = 0, vjust = 0.5, size = 3,
+           fontface = "italic", color = "grey50") +
+labs(
+    title = "Directed Sentiment Between Lithuania and NATO",
+    x = "Year",
+    y = "Average Annual Directed Sentiment",
+    caption = "Dotted vertical line indicates Lithuania's NATO accession in 2009\nGrey shaded areas indicate years with no available documents\nDirected sentiment measured with VADER(Hutto & Gilbert, 2014) and fine-tuned Political DEBATE(Burnham et al., 2024)"
+  )+
+  theme_classic() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10, color = "black"),
+    legend.position = "none",
+    plot.caption = element_text(hjust = 0, size = 9),
+    strip.text = element_text(face = "bold", hjust = 0, size = 13),     
+    strip.background = element_blank(),
+    strip.placement = "inside",
+    axis.line.x.top = element_line(color = "black"),
+    panel.spacing = unit(1, "lines")  
+  )
+```
+
+
+```{r}
+YEAR = 2017
+```
+
+```{r}
+WorldData <- map_data('world')
+theme_map <- function(base_size = 9, base_family = "") {
+  theme_bw(base_size = base_size, base_family = base_family) %+replace%
+    theme(axis.line = element_blank(),
+          axis.text = element_blank(),
+          axis.ticks = element_blank(),
+          axis.title = element_blank(),
+          panel.background = element_blank(),
+          panel.border = element_blank(),
+          panel.grid = element_blank(),
+          panel.spacing = unit(0, "lines"),
+          plot.background = element_blank(),
+          legend.justification = c(0, 0)#,
+          #legend.position = c(1,1)
+    )
+  }
+```
+
+```{r}
+# Create data for scaled mentions map
+ukr_affinity <- all_summary_df %>%
+  filter(year == YEAR, origin_country == "Ukraine") %>%
+  # Add Ukraine with a special category for coloring
+  bind_rows(tibble(
+    target_country = "Ukraine",
+    all_summary_df = NA,  # NA so it doesn't affect the gradient
+    year = YEAR,
+    origin_country = "Ukraine",
+    is_origin = TRUE
+  )) %>%
+  # Convert 0 mentions to NA so they'll be colored white
+  mutate(
+    is_origin = ifelse(target_country == "Ukraine", TRUE, FALSE)
+  )
+
+ukr_affinity$region <- countrycode::countrycode(
+  ukr_affinity$target_country, 
+  origin = "country.name",
+  destination = "country.name",
+  custom_match = c("Germany" = "Germany",
+                  "United States" = "USA",
+                  "United Kingdom" = "United Kingdom",
+                  "Democratic Republic of the Congo" = "Democratic Republic of the Congo",
+                  "Republic of Congo" = "Republic of Congo",
+                  "Czech Republic" = "Czech Republic",
+                  "Ukraine" = "Ukraine")
+)
+```
+

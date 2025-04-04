@@ -1,5 +1,5 @@
 ---
-title: "Interactive Visuals"
+title: "Data Inventory"
 page-layout: full
 format:
   html:
@@ -15,54 +15,529 @@ execute:
 ---
 
 ```{r}
-library(plotly)
-
-# Sample data for demonstration
-data <- data.frame(
-  Category = c("A", "B", "C", "D"),
-  Value = c(10, 15, 13, 17)
-)
-
-# Plotly bar chart
-fig <- plot_ly(data, x = ~Category, y = ~Value, type = 'bar')
-fig
-
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(countrycode)
+library(DT)
+library(dplyr)
+library(htmltools)
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rworldmap)
+library(RColorBrewer)
+library(htmltools)
+library(crosstalk)
 ```
 
 ```{r}
-
-library(leaflet)
-
-# Create a basic leaflet map
+library(plotly)
+```
 
 
-library(leaflet)
+```{r knitr_options}
+coverage_df <- read.csv("data_copy/country_year_coverage.csv")
+metadata <- read.csv("data_copy/nss_metadata.csv")
+```
 
-# Define custom icons
-nato_icon <- makeIcon(
-  iconUrl = "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-  iconWidth = 32, iconHeight = 32
-)
-
-east_asia_icon <- makeIcon(
-  iconUrl = "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-  iconWidth = 32, iconHeight = 32
-)
-
-# Create the map
-leaflet() %>%
-  addTiles() %>%
-  setView(lng = 60, lat = 50, zoom = 3) %>%
-  
-  # NATO countries (example markers)
-  addMarkers(lng = -0.1276, lat = 51.5074, popup = "London, United Kingdom (NATO)", icon = nato_icon) %>%
-  addMarkers(lng = 2.3522, lat = 48.8566, popup = "Paris, France (NATO)", icon = nato_icon) %>%
-  addMarkers(lng = 12.4964, lat = 41.9028, popup = "Rome, Italy (NATO)", icon = nato_icon) %>%
-  
-  # East Asian countries (example markers)
-  addMarkers(lng = 139.6917, lat = 35.6895, popup = "Tokyo, Japan (East Asia)", icon = east_asia_icon) %>%
-  addMarkers(lng = 126.9780, lat = 37.5665, popup = "Seoul, South Korea (East Asia)", icon = east_asia_icon) %>%
-  addMarkers(lng = 121.4737, lat = 31.2304, popup = "Shanghai, China (East Asia)", icon = east_asia_icon)
-
+```{r}
+affective_salience <- read.csv("data_copy/affective_salience.csv")
 
 ```
+
+
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
+all_country_aliases <- readRDS("data_copy/country_aliases.rds")
+```
+
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# First, create the country summary
+country_summary <- metadata %>%
+  filter(keep == TRUE) %>%
+  group_by(country_name) %>%
+  summarise(
+    num_documents = n(),
+    years_range = paste(min(year, na.rm = TRUE), "-", max(year, na.rm = TRUE)),
+    languages = paste(unique(language), collapse = ", ")
+  ) %>%
+  arrange(desc(num_documents))
+
+# Generate collapsible panels for each country
+generate_country_panels <- function() {
+  # Create a container div for all countries
+  panels_html <- tags$div(class = "country-accordion")
+  
+  # Loop through each country
+  for (i in 1:nrow(country_summary)) {
+    country_data <- country_summary[i, ]
+    
+    # Create a clean ID for the country (no spaces, special chars)
+    country_id <- gsub("[^a-zA-Z0-9]", "", tolower(country_data$country_name))
+    
+    # Format display name with proper capitalization
+    display_name <- case_when(
+      country_data$country_name == "southkorea" ~ "South Korea",
+      country_data$country_name == "southafrica" ~ "South Africa",
+      country_data$country_name == "centralafricanrepublic" ~ "Central African Republic",
+      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
+      country_data$country_name == "czechrepublic" ~ "Czech Republic",
+      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
+      country_data$country_name == "us" ~ "United States",
+      country_data$country_name == "newzealand" ~ "New Zealand",     
+      country_data$country_name == "northmacedonia" ~ "North Macedonia",    
+      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "solomonislands" ~ "Solomon Islands",       
+        country_data$country_name == "Timor Leste" ~ "Timor Leste",  
+      country_data$country_name == "trinidadandtobago" ~ "Trinidad and Tobago",        
+      # Add any other special cases here
+      TRUE ~ tools::toTitleCase(country_data$country_name)  # Default case with proper capitalization
+    )
+    
+    # Use the original country_name for filtering documents
+    original_country_name <- country_data$country_name
+    
+    # Get documents for this country
+    country_docs <- metadata %>%
+      filter(keep == TRUE, country_name == original_country_name) %>%
+      select(title, language, year) %>%
+      arrange(year)
+    
+    # Create the accordion panel
+    panel <- tags$div(
+      class = "accordion-item",
+      
+      # Header (always visible)
+      tags$div(
+        class = "accordion-header",
+        onclick = sprintf("toggleAccordion('%s')", country_id),
+        tags$span(class = "country-name", display_name),
+        tags$span(
+          class = "badge",
+          sprintf("%d documents", country_data$num_documents)
+        ),
+        tags$i(class = "arrow-icon")
+      ),
+      
+      # Content (hidden by default)
+      tags$div(
+        id = paste0("content-", country_id),
+        class = "accordion-content",
+        tags$div(
+          class = "country-summary",
+          tags$p(
+            tags$strong("Period:"), country_data$years_range,
+            tags$br(),
+            tags$strong("Languages:"), country_data$languages
+          )
+        ),
+        tags$div(
+          class = "document-list",
+          tags$h4("Documents:"),
+          tags$ul(
+            lapply(1:nrow(country_docs), function(j) {
+              doc <- country_docs[j, ]
+              tags$li(
+                tags$span(class = "doc-title", doc$title),
+                tags$span(class = "doc-lang", sprintf("(%s, %s)", doc$language, doc$year))
+              )
+            })
+          )
+        )
+      )
+    )
+    
+    # Add this panel to the container
+    panels_html <- tagAppendChild(panels_html, panel)
+  }
+  
+  return(panels_html)
+}
+
+# CSS and JS are already in the HTML block below
+```
+
+```{=html}
+<style>
+.country-accordion {
+  width: 100%;
+  margin: 20px 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.accordion-item {
+  margin-bottom: 8px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.accordion-header {
+  background-color: #f5f5f5;
+  padding: 12px 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: background-color 0.2s;
+}
+
+.accordion-header:hover {
+  background-color: #e8e8e8;
+}
+
+.country-name {
+  font-weight: 600;
+  font-size: 16px;
+  flex-grow: 1;
+}
+
+.badge {
+  background-color: #4c78a8;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin: 0 15px;
+}
+
+.arrow-icon {
+  border: solid #666;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  transition: transform 0.3s;
+}
+
+.accordion-item.active .arrow-icon {
+  transform: rotate(-135deg);
+}
+
+.accordion-content {
+  display: none;
+  padding: 15px;
+  background-color: white;
+  border-top: 1px solid #e0e0e0;
+}
+
+.country-summary {
+  margin-bottom: 15px;
+}
+
+.document-list ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.document-list li {
+  margin-bottom: 6px;
+}
+
+.doc-title {
+  font-weight: 500;
+}
+
+.doc-lang {
+  color: #666;
+  margin-left: 6px;
+  font-size: 13px;
+}
+</style>
+
+<script>
+function toggleAccordion(countryId) {
+  // Get the content element for this country
+  const contentId = 'content-' + countryId;
+  const content = document.getElementById(contentId);
+  
+  if (!content) {
+    console.error('Could not find element with id:', contentId);
+    return;
+  }
+  
+  const item = content.parentElement;
+  
+  // Toggle active class on the item
+  item.classList.toggle('active');
+  
+  // Toggle content visibility
+  if (content.style.display === 'block') {
+    content.style.display = 'none';
+  } else {
+    content.style.display = 'block';
+  }
+}
+</script>
+```
+
+```{r}
+#| echo: false
+#| results: 'asis'
+
+# Use htmltools::HTML instead of html_print
+accordion_html <- generate_country_panels()
+htmltools::HTML(as.character(accordion_html))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ##### INTERACTIVE IN PROGRESS  -->
+
+<!-- ## Affective Salience Map -->
+
+<!-- ```{r affective-map, echo=FALSE} -->
+<!-- # Prepare the full dataset for client-side filtering -->
+<!-- # This approach sends the data to the browser for client-side processing -->
+<!-- # More efficient than pre-computing all maps -->
+
+<!-- # Join the full dataset with the world map -->
+<!-- # This creates all possible country-ISO_A3 matches -->
+<!-- full_data <- tidyr::crossing( -->
+<!--   iso = world_map$ISO_A3, -->
+<!--   country_name = world_map$cc_name, -->
+<!--   origin_country = all_countries, -->
+<!--   year = all_years -->
+<!-- ) %>% -->
+<!--   left_join( -->
+<!--     affective_salience %>%  -->
+<!--       select(origin_country, year, ccode2, target_country, affective_salience), -->
+<!--     by = c("origin_country", "year", "iso" = "ccode2") -->
+<!--   ) -->
+
+<!-- # Add hover text -->
+<!-- full_data <- full_data %>% -->
+<!--   mutate( -->
+<!--     hover_text = case_when( -->
+<!--       !is.na(affective_salience) ~ paste0( -->
+<!--         "<b>", country_name, "</b><br>", -->
+<!--         "Mentioned as: ", target_country, "<br>", -->
+<!--         "Affective Salience: ", round(affective_salience, 3) -->
+<!--       ), -->
+<!--       TRUE ~ paste0(country_name, ": Not mentioned") -->
+<!--     ), -->
+<!--     # Replace NA with 0 for z values -->
+<!--     z = ifelse(is.na(affective_salience), 0, affective_salience) -->
+<!--   ) -->
+
+<!-- # Convert to a format for JSON serialization -->
+<!-- # Group by origin_country and year -->
+<!-- json_data <- full_data %>% -->
+<!--   group_by(origin_country, year) %>% -->
+<!--   summarize( -->
+<!--     iso = list(iso), -->
+<!--     z = list(z), -->
+<!--     hover_text = list(hover_text), -->
+<!--     # Get max value for each group for color scaling -->
+<!--     max_val = max(z, na.rm = TRUE), -->
+<!--     .groups = "drop" -->
+<!--   ) %>% -->
+<!--   # Convert to a nested list structure -->
+<!--   nest_by(origin_country) %>% -->
+<!--   deframe() %>% -->
+<!--   lapply(function(country_data) { -->
+<!--     result <- country_data %>% -->
+<!--       select(year, iso, z, hover_text, max_val) %>% -->
+<!--       nest_by(year) %>% -->
+<!--       deframe() -->
+<!--     return(result) -->
+<!--   }) -->
+
+<!-- # Create the base map -->
+<!-- base_map <- plot_geo() %>% -->
+<!--   layout( -->
+<!--     title = "Select a country and year", -->
+<!--     geo = list( -->
+<!--       showframe = FALSE, -->
+<!--       showcoastlines = TRUE, -->
+<!--       projection = list(type = "natural earth") -->
+<!--     ) -->
+<!--   ) -->
+
+<!-- # Add JavaScript to handle the filtering and map updates -->
+<!-- js_code <- paste0(" -->
+<!-- function(el, x) { -->
+<!--   // Parse the JSON data -->
+<!--   var mapData = ", jsonlite::toJSON(json_data), "; -->
+
+<!--   // Create dropdowns container -->
+<!--   var container = document.createElement('div'); -->
+<!--   container.style.display = 'flex'; -->
+<!--   container.style.justifyContent = 'center'; -->
+<!--   container.style.margin = '10px 0'; -->
+
+<!--   // Create country dropdown -->
+<!--   var countryLabel = document.createElement('label'); -->
+<!--   countryLabel.textContent = 'Origin Country: '; -->
+<!--   countryLabel.style.marginRight = '5px'; -->
+
+<!--   var countrySelect = document.createElement('select'); -->
+<!--   countrySelect.id = 'country-select'; -->
+<!--   countrySelect.style.marginRight = '20px'; -->
+<!--   countrySelect.style.padding = '5px'; -->
+
+<!--   var countries = Object.keys(mapData).sort(); -->
+<!--   countries.forEach(function(country) { -->
+<!--     var option = document.createElement('option'); -->
+<!--     option.value = country; -->
+<!--     option.text = country; -->
+<!--     countrySelect.appendChild(option); -->
+<!--   }); -->
+
+<!--   // Create year dropdown -->
+<!--   var yearLabel = document.createElement('label'); -->
+<!--   yearLabel.textContent = 'Year: '; -->
+<!--   yearLabel.style.marginRight = '5px'; -->
+
+<!--   var yearSelect = document.createElement('select'); -->
+<!--   yearSelect.id = 'year-select'; -->
+<!--   yearSelect.style.padding = '5px'; -->
+
+<!--   // Get years from the first country (assuming all countries have the same years) -->
+<!--   var years = Object.keys(mapData[countries[0]]).sort(); -->
+<!--   years.forEach(function(year) { -->
+<!--     var option = document.createElement('option'); -->
+<!--     option.value = year; -->
+<!--     option.text = year; -->
+<!--     yearSelect.appendChild(option); -->
+<!--   }); -->
+
+<!--   // Add elements to container -->
+<!--   container.appendChild(countryLabel); -->
+<!--   container.appendChild(countrySelect); -->
+<!--   container.appendChild(yearLabel); -->
+<!--   container.appendChild(yearSelect); -->
+
+<!--   // Insert container before the map -->
+<!--   el.parentElement.insertBefore(container, el); -->
+
+<!--   // Function to update the map -->
+<!--   function updateMap() { -->
+<!--     var country = countrySelect.value; -->
+<!--     var year = yearSelect.value; -->
+
+<!--     if (!mapData[country] || !mapData[country][year]) { -->
+<!--       console.error('Data not found for', country, year); -->
+<!--       return; -->
+<!--     } -->
+
+<!--     var data = mapData[country][year]; -->
+<!--     var maxVal = data.max_val || 1;  // Default to 1 if no max value -->
+
+<!--     // Create choropleth trace -->
+<!--     var trace = { -->
+<!--       type: 'choropleth', -->
+<!--       locationmode: 'ISO-3', -->
+<!--       locations: data.iso, -->
+<!--       z: data.z, -->
+<!--       text: data.hover_text, -->
+<!--       hoverinfo: 'text', -->
+<!--       colorscale: [ -->
+<!--         [0, '#EEEEEE'],  // Gray for 0 values (not mentioned) -->
+<!--         [0.001, '#FFFF00'],  // Yellow for low values -->
+<!--         [1, '#FF0000']   // Red for high values -->
+<!--       ], -->
+<!--       zmin: 0, -->
+<!--       zmax: maxVal, -->
+<!--       marker: { -->
+<!--         line: { -->
+<!--           color: '#888888', -->
+<!--           width: 0.5 -->
+<!--         } -->
+<!--       }, -->
+<!--       colorbar: { -->
+<!--         title: 'Affective<br>Salience', -->
+<!--         thickness: 15 -->
+<!--       } -->
+<!--     }; -->
+
+<!--     // If all values are 0, hide the colorbar -->
+<!--     if (maxVal <= 0) { -->
+<!--       trace.showscale = false; -->
+<!--     } -->
+
+<!--     // Update the layout -->
+<!--     var layout = { -->
+<!--       title: 'Affective Salience: ' + country + ' (' + year + ')', -->
+<!--       geo: { -->
+<!--         showframe: false, -->
+<!--         showcoastlines: true, -->
+<!--         projection: { -->
+<!--           type: 'natural earth' -->
+<!--         } -->
+<!--       }, -->
+<!--       margin: { -->
+<!--         l: 0, -->
+<!--         r: 0, -->
+<!--         b: 0, -->
+<!--         t: 50, -->
+<!--         pad: 4 -->
+<!--       } -->
+<!--     }; -->
+
+<!--     // Get the Plotly element -->
+<!--     var gd = document.getElementById(el.id); -->
+
+<!--     // Create a new plot or update existing -->
+<!--     Plotly.react(gd, [trace], layout); -->
+<!--   } -->
+
+<!--   // Add event listeners to dropdowns -->
+<!--   countrySelect.addEventListener('change', updateMap); -->
+<!--   yearSelect.addEventListener('change', updateMap); -->
+
+<!--   // Initial update -->
+<!--   updateMap(); -->
+<!-- } -->
+<!-- ") -->
+
+<!-- # Render the map with the JavaScript -->
+<!-- map_widget <- htmlwidgets::onRender(base_map, js_code) -->
+
+<!-- # Set widget dimensions -->
+<!-- map_widget <- map_widget %>% -->
+<!--   layout( -->
+<!--     autosize = TRUE, -->
+<!--     height = 600 -->
+<!--   ) -->
+
+<!-- # Display the map -->
+<!-- map_widget -->
+<!-- ``` -->
+
+
+

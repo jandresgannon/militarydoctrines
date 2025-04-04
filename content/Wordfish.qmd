@@ -1,0 +1,1526 @@
+---
+title: "Wordfish"
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
+---
+
+# You will need to read this data in from dropbox or Box but renders locally if you have nss_doctrine_text.csv in the data_copy folder 
+
+(https://vanderbilt.app.box.com/folder/298186581061)
+
+```{r}
+library(peacesciencer)
+library(tidyverse)
+library(stringr)
+library(countrycode)
+library(ggplot2)
+library(dplyr)
+library(maps)
+library(ggthemes)
+library(sf)
+library(rnaturalearth)
+library(terra)
+library(quanteda)
+library(quanteda.textmodels)
+library(quanteda.textplots)
+```
+
+
+
+```{r}
+all_doctrine_df <- read_csv("data_copy/nss_doctrine_text.csv")
+```
+
+```{r}
+library(googlesheets4)
+metadata  <- read.csv("data_copy/nss_metadata.csv")
+```
+
+
+
+```{r}
+all_metadata <- metadata %>% 
+  dplyr::filter((keep == 1 ) & (language == "eng" | is.na(language)))
+```
+
+```{r}
+all_doctrine_df  <- all_doctrine_df %>% filter(doc_name %in% str_replace(all_metadata$file_names, ".pdf", ""))
+```
+
+
+```{r}
+all_doctrine_df  <- all_doctrine_df %>% filter(doc_name %in% str_replace(all_metadata$file_names, ".pdf", "")) 
+```
+
+
+
+```{r}
+## Defining country dfs of interest
+df_japan_2014 <- all_doctrine_df%>% filter(country == "Japan", year == 2014)
+df_southkorea_2014 <-all_doctrine_df%>% filter(country == "South Korea", year == 2014)
+
+df_japan_2019 <- all_doctrine_df%>% filter(country == "Japan", year == 2019)
+df_taiwan_2019 <-all_doctrine_df%>% filter(country == "Taiwan", year == 2019)
+
+df_slovakia_2001<- all_doctrine_df%>% filter(country == "Slovakia", year == 2001)
+df_slovakia_2005<-all_doctrine_df %>% filter(country == "Slovakia", year == 2005)
+
+df_lithuania_2002<- all_doctrine_df %>% filter(country == "Lithuania", year == 2002)
+df_lithuania_2011<-all_doctrine_df %>% filter(country == "Lithuania", year == 2011)
+
+df_estonia_2001<-all_doctrine_df %>% filter(country == "Estonia", year == 2001, doc_name == "estonia_2001_NationalSecurityConcept")
+df_estonia_2004<-all_doctrine_df %>% filter(country == "Estonia", year == 2004, doc_name == "estonia_2004_NationalSecurityConcept")
+df_estonia_2010<-all_doctrine_df %>% filter(country == "Estonia", year == 2010, doc_name == "estonia_2010_NationalSecurityConcept")
+
+df_latvia_2003<-all_doctrine_df%>% filter(country == "Latvia", year == 2003)
+df_latvia_2008<-all_doctrine_df %>% filter(country == "Latvia", year == 2008)
+
+df_albania_2005<-all_doctrine_df %>% filter(country == "Albania", year == 2005)
+df_albania_2012<-all_doctrine_df %>% filter(country == "Albania", year == 2012)
+```
+
+```{r}
+prepare_for_wordfish <- function(df, country) {
+  df %>%
+    group_by(doc_name) %>%
+    summarise(text = paste(doc_text, collapse = " ")) %>%
+    mutate(
+      country = country
+    ) %>%
+    corpus(text_field = "text", docid_field = "doc_name")
+}
+
+```
+
+```{r}
+corpus_japan_2014 <- prepare_for_wordfish(df_japan_2014, "Japan")
+corpus_southkorea_2014 <- prepare_for_wordfish(df_southkorea_2014, "SouthKorea")
+
+corpus_japan_2019 <- prepare_for_wordfish(df_japan_2019, "Japan")
+corpus_taiwan_2019 <- prepare_for_wordfish(df_taiwan_2019, "Taiwan")
+
+corpus_slovakia_2001 <- prepare_for_wordfish(df_slovakia_2001, "Slovakia")
+corpus_slovakia_2005 <- prepare_for_wordfish(df_slovakia_2005, "Slovakia")
+
+corpus_lithuania_2002 <- prepare_for_wordfish(df_lithuania_2002, "Lithuania")
+corpus_lithuania_2011 <- prepare_for_wordfish(df_lithuania_2011, "Lithuania")
+
+corpus_latvia_2003 <- prepare_for_wordfish(df_latvia_2003, "Latvia")
+corpus_latvia_2008 <- prepare_for_wordfish(df_latvia_2008, "Latvia")
+
+corpus_estonia_2001 <- prepare_for_wordfish(df_estonia_2001, "Estonia")
+corpus_estonia_2004 <- prepare_for_wordfish(df_estonia_2004, "Estonia")
+corpus_estonia_2010 <- prepare_for_wordfish(df_estonia_2010, "Estonia")
+
+corpus_albania_2005 <- prepare_for_wordfish(df_albania_2005, "Albania")
+corpus_albania_2012 <- prepare_for_wordfish(df_albania_2012, "Albania")
+```
+
+```{r}
+# Combine corpora
+corpus_sk_japan_2014 <- corpus_japan_2014 + corpus_southkorea_2014 
+
+corpus_taiwan_japan_2019 <- corpus_japan_2019 + corpus_taiwan_2019
+
+corpus_slovakia_2001_2005 <- corpus_slovakia_2001 + corpus_slovakia_2005
+
+corpus_lithuania_2002_2011 <- corpus_lithuania_2002 + corpus_lithuania_2011
+
+corpus_latvia_2003_2008 <- corpus_latvia_2003 + corpus_latvia_2008
+
+corpus_estonia_2001_2004 <- corpus_estonia_2001 + corpus_estonia_2004
+
+corpus_estonia_2001_2010 <- corpus_estonia_2001 + corpus_estonia_2010
+
+corpus_albania_2005_2012 <- corpus_albania_2005 + corpus_albania_2012
+```
+
+
+
+```{r}
+df_military_capabilities <- read_csv("data_copy/rDMC_long_v1.csv")
+tek_list <- df_military_capabilities$tek
+```
+
+```{r}
+all_country_aliases <- readRDS("data_copy/country_aliases.rds")
+```
+
+```{r}
+multiword_tek_list <- c("air to air missiles",
+    "surface to air artillery",
+    "surface to air missiles",
+    "air missiles",
+    "air artillery",
+    "aircraft_aew",
+    "aew aircraft",
+    "attack aircraft",
+    "bomber aircraft",
+    "comm aircraft",
+    "ew aircraft",
+    "fighter aircraft",
+    "maritime patrol aircraft",
+    "paramilitary aircraft",
+    "recon-surveil aircraft",
+    "tanker aircraft",
+    "transport aircraft",
+    "utility aircraft",
+    "amphibious landing craft",
+    "amphibious landing ship",
+    "landing craft",
+    "landing ship",
+    "anti-tank/anti-infrastructure artillery",
+    "anti-tank artillery",
+    "anti-infrastructure artillery",
+    "attack armoured fighting vehicles",
+    "transport armoured fighting vehicles",
+    "armoured fighting vehicles",
+    "intercontinental ballistic missiles",
+    "medium-range ballistic missiles",
+    "short-range ballistic missiles",
+    "ballistic missiles",
+    "attack helicopters",
+    "maritime helicopters",
+    "search and rescue helicopters",
+    "transport helicopters",
+    "utility helicopters",
+    "search and rescue",
+    "air to surface ordnance",
+    "surface to surface artillery",
+    "surface to surface missiles",
+    "surface artillery",
+    "surface missiles",
+    "command and support",
+    "special purpose",
+    "surveillance and intelligence",
+    "logistics and support",
+    "land/sea defence",
+    "mine warfare",
+    "mine countermeasures",
+    "mine layers",
+    "patrol and coastal combatants",
+    "navigation radars",
+    "environmental radars",
+    "communications radar",
+    "yard craft",
+    "unmanned aerial vehicles",
+    "combat unmanned aerial vehicles",
+    "recon-surveil unmanned aerial vehicles",
+    "engineering and maintenance",
+    "armoured fighting vehicles",
+    "engineering and maintenance armoured fighting vehicles",
+    "ew helicopters",
+    "observation helicopter",
+    "anti-tank/anti-infrastructure missiles",
+    "anti-tank missiles",
+    "anti-infrastructure missiles",
+    "aircraft carrier",
+    "ISR/battlefield surveil",
+    "battlefield surveil",
+    "ISR surveil",
+    "defense/early warning",
+    "early warning",
+    "early warning radar",
+    "defense radar",
+    "fire control",
+    "fire control radar",
+    "attack submarines",
+    "ballistic submarines",
+    "coastal submarines",
+    "other submarines", 
+    "nuclear threat", 
+    "nuclear weapons", 
+    "atomic bomb", 
+    "training aircraft", 
+    "combat aircraft", 
+    "carrier-based aircraft", 
+    "Unmanned Ground Vehicle", 
+    "Unmanned Maritime Vehicle", 
+    "Unmanned Undersea Vehicle", 
+    "Unmanned Surface Vehicle", 
+    "SCUD missile", 
+    "Ground-to-ground missiles", 
+    "Combatants", 
+    "Maneuver brigades", 
+    "Cannons", 
+    "Surveillance & Control aircraft", 
+    "Amphibious ships", 
+    "mine counter measure",
+    "mine sweepers",
+    "Surface Combatants", 
+    "Auxiliary Vessels", 
+    "Surveillance and Control", 
+    "air defence", "engineer support", 
+     "anti-ballistic defence", 
+    "Air Force", 
+    "security corps", 
+    "civil emergency planning", 
+  "defence infrastructure", 
+  "civil protection",  
+  "rescue corps", 
+  "rescue services", 
+  "defence preparation", 
+  "Cyber threats", 
+  "cyber-terrorism", 
+  "cyber crime", 
+  "cyber units",
+  "weapons of mass destruction", 
+  "Special Services", 
+  "ionized radiation", 
+  "counter terrorism", 
+  "counter intelligence",
+   "surface to ship", 
+    "ship to ship", 
+   "force on force",
+    "long range", 
+    "short range", 
+    "medium range"
+)
+
+single_word_tek_list <- c(
+    "mine",
+    "corvette",
+    "offshore",
+    "cruiser",
+    "destroyer",
+    "frigate",
+    "control",
+    "ballistic",
+    "coastal",
+    "navigation",
+    "radars",
+    "amphibious",
+    "aircraft",
+    "attack",
+    "bomber",
+    "ew",
+    "fighter",
+    "tanker",
+    "transport",
+    "utility",
+    "artillery",
+    "maritime",
+    "maintenance",
+    "replenishment",
+    "research",
+    "transport", 
+    "nuclear", 
+    "wmd", 
+    "surface-to-ship", 
+    "ship-to-ship", 
+    "tank", 
+    "carrier", 
+    "airspace",
+    "wmd", 
+    "uwav",
+    "ugv", 
+    "umv", 
+    "usv", 
+    "uuv",
+    "bomb", 
+    "atomic", 
+    "missile", 
+    "cyber", 
+    "cybersecurity", 
+    "force-on-force", 
+    "weapon", 
+    "manpower", 
+    "modernization", 
+    "denuclearization", 
+    "long-range", 
+    "short-range", 
+    "medium-range", 
+    "reconnaissance", 
+    "mobilization", 
+    "wmd",   
+    "non-military", 
+    "tactical", 
+    "fighting" , 
+    "intelligence", 
+    "nuclear", 
+    "nuclear_threat",
+    "corps", 
+    "communication", 
+    "deployment",
+    "warfare", 
+    "troops", 
+    "opcom",
+    "chemical",
+    "airspace",
+    "air_force",
+    "counter",
+    "air_defence",
+    "navy",
+    "mcm",
+    "ndv",
+    "infantry",
+    "squadron",
+    "engineer",
+    "nco", 
+    "cyberspace", 
+    "chemical", 
+    "radioactive",
+    "microbiological", 
+    "terrorist", 
+    "counter-terrorism", 
+    "counterintelligence", 
+    "counterterrorism"
+)
+```
+
+```{r}
+all_country_years <-  peacesciencer::create_stateyears()
+
+df_country_years <- all_country_years %>% filter(year == 2014)
+
+unique_multi_word_statenames <- df_country_years %>%
+  filter(str_count(statenme, "\\w+") > 1) %>%
+  distinct(statenme) %>%
+  pull(statenme)
+```
+
+```{r}
+unique_multi_word_statenames <- c(unique_multi_word_statenames, 
+                                  "United Nations", 
+                                  "North Atlantic Treaty Organization", 
+                                  "North Atlantic Treaty Organisation", 
+                                  "North Atlantic Alliance", 
+                                  "China-North Korea", 
+                                  "North Korea-China", 
+                                  "Council of Europe", 
+                                  "Organisation for Security and Cooperation in Europe")
+```
+
+```{r}
+process_multiword_name <- function(name) {
+  name <- tolower(name)
+  name <- gsub(" ", "_", name)
+  return(name)
+}
+compounded_actors <- unname(sapply(unique_multi_word_statenames, process_multiword_name))
+
+compounded_tek <- unname(sapply(multiword_tek_list,  process_multiword_name))
+```
+
+```{r}
+all_military_tek <- c(single_word_tek_list, tek_list, compounded_tek )
+```
+
+```{r}
+stemmed_tek <- tokens_wordstem(tokens(all_military_tek))
+
+military_tek_with_stems <- c(all_military_tek ,stemmed_tek )
+```
+
+```{r}
+alias_replacement <- unlist(lapply(names(all_country_aliases), function(country) {
+  setNames(rep(country, length(all_country_aliases[[country]])), 
+           all_country_aliases[[country]])
+}))
+```
+
+```{r}
+names(alias_replacement) <- tolower(names(alias_replacement))
+alias_replacement <- setNames(tolower(alias_replacement), names(alias_replacement))
+```
+
+```{r}
+remove_plurals <- function(tokens) {
+  types <- types(tokens)
+  
+  singular_forms <- types[!endsWith(types, "s")]
+  plural_forms <- paste0(singular_forms, "s")
+  
+  valid_pairs <- plural_forms[plural_forms %in% types]
+  singular_pairs <- substr(valid_pairs, 1, nchar(valid_pairs) - 1)
+  
+  # Create replacement dictionary
+  replacement_dict <- setNames(singular_pairs, valid_pairs)
+  
+  # Apply replacements
+  tokens <- tokens_replace(tokens, 
+                           pattern = names(replacement_dict),
+                           replacement = replacement_dict,
+                           valuetype = "fixed")
+  
+  return(tokens)
+}
+
+remove_possessives <- function(tokens) {
+  types <- types(tokens)
+  
+  # Find potential singular-possessive pairs
+  singular_forms <- types[!endsWith(types, "'s")]
+  possessive_forms <- paste0(singular_forms, "'s")
+  
+  valid_pairs <- possessive_forms[possessive_forms %in% types]
+  singular_pairs <- substr(valid_pairs, 1, nchar(valid_pairs) - 2)
+  
+  # Create replacement dictionary
+  replacement_dict <- setNames(singular_pairs, valid_pairs)
+  
+  # Apply replacements
+  tokens <- tokens_replace(tokens, 
+                           pattern = names(replacement_dict),
+                           replacement = replacement_dict,
+                           valuetype = "fixed")
+  
+  return(tokens)
+}
+
+```
+
+```{r}
+# handle_north_korea_compounds <- function(x) {
+#   x %>%
+#     tokens_replace(
+#       pattern = c("north korea south korea", "northeastern north korea","north north korea"),
+#       replacement = c("north_korea south_korea", "northeastern north_korea", "north north_korea"),
+#       valuetype = "fixed",
+#       case_insensitive = TRUE
+#     )
+# }
+```
+
+```{r}
+nato_related_organizations <- c(
+  "North Atlantic Treaty Organization",
+  "North Atlantic Treaty Organisation",
+  "Partnership for Peace",
+  "Membership Action Plan",
+  "Euro-Atlantic Partnership Council",
+  "Euroatlantic Partnership Council",
+  "Individual Partnership Action Plan",
+  "Collective Security Treaty Organization",
+  "Commonwealth of Independent States",
+  "European Union", 
+  "Eastern Bloc", 
+  "member states", 
+  "member state"
+)
+```
+
+```{r}
+combined_nato_related_organizations <-  unname(sapply(nato_related_organizations,  process_multiword_name))
+```
+
+
+
+```{r}
+## Tokenization
+tokens_albania_2005_2012<- tokens(corpus_albania_2005_2012,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+tokens_replace(pattern = names(alias_replacement),
+               replacement = alias_replacement,
+               valuetype = "fixed",
+               case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_estonia_2001_2004<- tokens(corpus_estonia_2001_2004,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+tokens_replace(pattern = names(alias_replacement),
+               replacement = alias_replacement,
+               valuetype = "fixed",
+               case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_estonia_2001_2010<- tokens(corpus_estonia_2001_2010,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_latvia_2003_2008 <- tokens(corpus_latvia_2003_2008,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_lithuania_2002_2011 <- tokens(corpus_lithuania_2002_2011,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_slovakia_2001_2005 <- tokens(corpus_slovakia_2001_2005,
+                          remove_punct = FALSE,
+                          remove_symbols = FALSE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+  tokens_remove(stopwords(language = "en")) |>
+  remove_plurals() |> remove_possessives()
+```
+
+```{r}
+tokens_sk_japan_2014 <- tokens(corpus_sk_japan_2014,
+                               remove_punct = FALSE,
+                               remove_symbols = FALSE,
+                               remove_numbers = TRUE,
+                               remove_url = TRUE,
+                               remove_separators = FALSE) %>%
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+    tokens_replace(pattern = c("north korea's", "North Korea's", "north korea’s", "North Korea’s"), 
+             replacement = c("north korea", "north korea", "north korea", "north korea"),
+             valuetype = "fixed",
+             case_insensitive = TRUE ) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list))  |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_replace(pattern = c("japan-u.s", "japan—u.s"),
+                 replacement = c("japan-u.s","japan-u.s"),
+                 valuetype = "fixed") %>%
+  tokens_remove(stopwords(language = "en")) %>%
+  tokens_remove(min_nchar = 2) #%>%
+#  handle_north_korea_compounds()
+```
+
+```{r}
+tokens_taiwan_japan_2019 <- tokens(corpus_taiwan_japan_2019, 
+                          remove_punct = FALSE,
+                          remove_symbols = TRUE,
+                          remove_numbers = TRUE,
+                          remove_url = TRUE,
+                          remove_separators = TRUE) |>
+    tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+    tokens_replace(pattern = c("mcm"), 
+               replacement = c("mine counter measure"),
+             valuetype ="fixed") |>
+        tokens_replace(pattern = c("co-operation"), 
+               replacement = c("cooperation"),
+             valuetype ="fixed")|>
+  tokens_compound(phrase(nato_related_organizations)) |>
+    tokens_replace(pattern = c("north_atlantic_treaty_organization"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+    tokens_replace(pattern = c("north_atlantic_treaty_organisation"), 
+             replacement = c("nato"),
+           valuetype ="fixed")|>
+  tokens_compound(phrase(multiword_tek_list)) |>
+  tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed") |>
+  tokens_replace(pattern = c("european_union"), 
+         replacement = c("eu"),
+       valuetype ="fixed")|>
+      tokens_replace(pattern = c("defence", "defense"), 
+         replacement = c("defence", "defence"),
+       valuetype ="fixed")|>
+  tokens_remove(min_nchar = 2) |>
+    tokens_replace(pattern = c("terrorist", "terrorism"), 
+         replacement = c("terrorism", "terrorism"),
+       valuetype ="fixed")|>
+  tokens_replace(pattern = c("japan-u.s", "japan—u.s"),
+                 replacement = c("japan-u.s","japan-u.s"),
+                 valuetype = "fixed") %>%
+  tokens_replace(pattern = c("prc's"), 
+                 replacement = c("prc"),
+                 valuetype = "fixed") %>%
+    tokens_replace(pattern = names(alias_replacement),
+                 replacement = alias_replacement,
+                 valuetype = "fixed",
+                 case_insensitive = TRUE) |>
+  tokens_remove(stopwords(language = "en")) %>%
+  tokens_remove(min_nchar = 2)
+```
+
+```{r}
+dfm_sk_japan_2014 <- dfm(tokens_sk_japan_2014) |> dfm_trim(min_termfreq = 20, verbose = FALSE)
+wordfish_sk_japan_2014 <- textmodel_wordfish(dfm_sk_japan_2014, dir = c(1, 2))
+```
+
+```{r}
+dfm_taiwan_japan_2019 <- dfm(tokens_taiwan_japan_2019) |> dfm_trim(min_termfreq = 30, verbose = FALSE)
+wordfish_taiwan_japan_2019 <- textmodel_wordfish(dfm_taiwan_japan_2019, dir = c(1, 2))
+```
+
+```{r}
+dfm_slovakia_2001_2005<- dfm(tokens_slovakia_2001_2005) |> dfm_trim(min_termfreq = 5, verbose = FALSE)
+wordfish_slovakia_2001_2005<- textmodel_wordfish(dfm_slovakia_2001_2005, dir = c(1, 2))
+```
+
+```{r}
+dfm_lithuania_2002_2011<- dfm(tokens_lithuania_2002_2011) |> dfm_trim(min_termfreq = 5, verbose = FALSE)
+wordfish_lithuania_2002_2011<- textmodel_wordfish(dfm_lithuania_2002_2011, dir = c(1, 2))
+```
+
+```{r}
+dfm_latvia_2003_2008<- dfm(tokens_latvia_2003_2008) |> dfm_trim(min_termfreq = 3, verbose = FALSE)
+wordfish_latvia_2003_2008<- textmodel_wordfish(dfm_latvia_2003_2008, dir = c(1, 2))
+```
+
+```{r}
+dfm_estonia_2001_2004<- dfm(tokens_estonia_2001_2004) |> dfm_trim(min_termfreq = 10, verbose = FALSE)
+wordfish_estonia_2001_2004<- textmodel_wordfish(dfm_estonia_2001_2004, dir = c(1, 2))
+```
+
+```{r}
+dfm_estonia_2001_2010<- dfm(tokens_estonia_2001_2010) |> dfm_trim(min_termfreq = 10, verbose = FALSE)
+wordfish_estonia_2001_2010<- textmodel_wordfish(dfm_estonia_2001_2010, dir = c(1, 2))
+```
+
+```{r}
+dfm_albania_2005_2012<- dfm(tokens_albania_2005_2012) |> dfm_trim(min_termfreq = 11, verbose = FALSE)
+wordfish_albania_2005_2012<- textmodel_wordfish(dfm_albania_2005_2012, dir = c(1, 2))
+```
+
+```{r}
+word_weights_sk_japan_2014 <- data.frame(
+  word = featnames(dfm_sk_japan_2014),
+  beta = wordfish_sk_japan_2014$beta,
+  psi = wordfish_sk_japan_2014$psi
+)
+```
+
+```{r}
+word_weights_taiwan_japan_2019 <- data.frame(
+  word = featnames(dfm_taiwan_japan_2019),
+  beta = wordfish_taiwan_japan_2019$beta, 
+  psi = wordfish_taiwan_japan_2019$psi
+)
+```
+
+```{r}
+word_weights_slovakia_2001_2005<- data.frame(
+  word = featnames(dfm_slovakia_2001_2005),
+  beta =wordfish_slovakia_2001_2005$beta, 
+  psi = wordfish_slovakia_2001_2005$psi
+)
+```
+
+```{r}
+
+word_weights_lithuania_2002_2011<- data.frame(
+  word = featnames(dfm_lithuania_2002_2011),
+  beta =wordfish_lithuania_2002_2011$beta, 
+  psi = wordfish_lithuania_2002_2011$psi
+)
+```
+
+```{r}
+word_weights_latvia_2003_2008<- data.frame(
+  word = featnames(dfm_latvia_2003_2008),
+  beta =wordfish_latvia_2003_2008$beta, 
+  psi = wordfish_latvia_2003_2008$psi
+)
+```
+
+```{r}
+word_weights_estonia_2001_2004<- data.frame(
+  word = featnames(dfm_estonia_2001_2004),
+  beta =wordfish_estonia_2001_2004$beta, 
+  psi = wordfish_estonia_2001_2004$psi
+)
+```
+
+```{r}
+word_weights_estonia_2001_2010<- data.frame(
+  word = featnames(dfm_estonia_2001_2010),
+  beta =wordfish_estonia_2001_2010$beta, 
+  psi = wordfish_estonia_2001_2010$psi
+)
+```
+
+```{r}
+word_weights_albania_2005_2012 <- data.frame(
+  word = featnames(dfm_albania_2005_2012),
+  beta = wordfish_albania_2005_2012$beta,
+  psi = wordfish_albania_2005_2012$psi
+)
+```
+
+```{r}
+actors <- c(combined_nato_related_organizations, compounded_actors, tolower(unique_multi_word_statenames), c("euroatlantic", "membership", "european", "allies", "nato", "pfp", "map", "eapc", "ipap", "csto", "sco", "cis",   "north-atlantic-treaty-organization",
+  "partnership-for-peace",
+  "membership-action-plan",
+  "euro-atlantic-partnership-council",
+  "individual-partnership-action-plan",
+  "collective-security-treaty-organization",
+  "shanghai-cooperation-organisation",
+  "kremlin",
+  "soviet",
+  "soviet-union",
+  "osce", 
+  "oecd",
+  "eu",
+  "european-union", 
+   "non-state",
+  "bloc", 
+  "baltic", 
+  "alliance", 
+  "eastern-bloc", 
+  "euro-atlantic", 
+  "european",
+  "western", "laf", "miv", "balkans", 
+  "asylum-seekers",
+  "jihad",
+  "nordic", 
+  "nordics",
+  "commonwealth-of-independent-states", "un", "international", "multinational",
+  "taiwan", "rok-u.s",  "inter-korean",  
+   "nato",  "iaea", "nrc", "prc", "japan-u.s",  "japan-australia", "japan-china", "japan-rok", "japan-u.s"),
+  tolower(names(all_country_aliases)))
+```
+
+$\beta$ (word weights) identifies the words that are informative in distinguishing between political actors - represents the discriminatory power of a word. Words with higher $\beta$ values are more effective in distinguishing between the political positions of the actors or documents.
+
+$\psi$ represents the word fixed effects, accounting account for the fact that certain words are used more frequently across all actors (or documents), regardless of the actor's political position.represents the general frequency of a word across all documents or actors. It shows how often a word is used, regardless of its discriminatory power.
+
+Since $\psi$ (word fixed effects) captures the baseline frequency of a word across all documents, a negative value indicates that the word is used below the average frequency compared to other words in the corpus
+
+```{r}
+library(ggtext) 
+```
+
+## Plots
+
+```{r}
+military_tek_with_stems_albania_2005_2012 <- military_tek_with_stems[! military_tek_with_stems %in% c("control", "non-military", "information")]
+#actors <- actors[! actors %in% c("alliance", "somalia", "membership", "euro-atlantic")]
+
+military_tek_with_stems_albania_2005_2012 <- c( military_tek_with_stems_albania_2005_2012 , "infrastructure", "counterintelligence", "refugee", "migration", "illegal", "training", "environmental", "social", "military", "crime", "terrorism", "peacekeeping", "arms")
+actors_albania_2005_2012 <- c(actors, "naf", "satversme", "non-governmental",  "non-governmental", "weu", 
+            "baltbat", "baltron", "baltsea", "baltnet", "baltdefcol", "cbss", "bspc", "cso", "eu-baltic", "bsssc", "ncm", "nc", "bcm", "ba", "wnc", "beac", "bearc", "balkan", "seebrig", "stanag", "shqiptar")
+
+plot_data <- data.frame(
+  word = wordfish_albania_2005_2012$features,
+  beta =wordfish_albania_2005_2012$beta,
+  psi = wordfish_albania_2005_2012$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_albania_2005_2012 ~ "darkgreen",
+  plot_data$word %in% actors_albania_2005_2012 ~ "blue",
+  TRUE ~ "none"
+)
+
+plot_data <- plot_data %>% filter(!word %in% c("capable"))
+```
+
+```{r}
+#| label: fig-volcano-albania-2005-2012
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Albania Military Strategy Reviews pre- and post- NATO \nmembership (2009)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  # Remove the legend
+    axis.text.x = element_text(color = "black", face = "bold", size = 12), 
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)),  
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2005", "2012"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic") 
+```
+
+```{r}
+military_tek_with_stems_estonia_2001_2010 <- military_tek_with_stems[! military_tek_with_stems %in% c("control", "non-military")]
+actors_estonia_2001_2010 <- actors[! actors %in% c("alliance", "somalia", "membership", "euro-atlantic")]
+
+military_tek_with_stems_estonia_2001_2010 <- c( military_tek_with_stems_estonia_2001_2010 , "infrastructure", "counterintelligence", "refugee", "migration", "illegal", "training", "environmental", "information", "social", "military", "crime", "terrorism", "peacekeeping", "arms")
+actors_estonia_2001_2010 <- c(actors_estonia_2001_2010, "naf", "satversme", "non-governmental",  "non-governmental", "weu", 
+            "baltbat", "baltron", "baltsea", "baltnet", "baltdefcol", "riigikogu", "cbss", "bspc", "cso", "eu-baltic", "bsssc", "ncm", "nc", "bcm", "ba", "wnc", "beac", "bearc", "edf")
+
+plot_data <- data.frame(
+  word = wordfish_estonia_2001_2010$features,
+  beta =wordfish_estonia_2001_2010$beta,
+  psi = wordfish_estonia_2001_2010$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_estonia_2001_2010 ~ "darkgreen",
+  plot_data$word %in% actors_estonia_2001_2010 ~ "blue",
+  TRUE ~ "none"
+)
+
+```
+
+```{r}
+#| label: fig-volcano-estonia-2001-2010
+
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Estonia National Security Concepts pre- and post- NATO \nmembership (2004)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)),  
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2001", "2010"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic") 
+```
+
+```{r}
+military_tek_with_stems_estonia_2001_2004 <- military_tek_with_stems[! military_tek_with_stems %in% c("control", "non-military")]
+actors_estonia_2001_2004 <- actors[! actors %in% c("alliance", "somalia", "membership", "euro-atlantic")]
+
+military_tek_with_stems_estonia_2001_2004 <- c( military_tek_with_stems_estonia_2001_2004, "infrastructure", "counterintelligence", "refugee", "migration", "illegal", "training", "environmental", "information", "social", "military", "crime", "terrorism", "peacekeeping", "arms")
+actors_estonia_2001_2004 <- c(actors_estonia_2001_2004 , "naf", "satversme", "non-governmental",  "non-governmental", "weu", "baltbat", "baltron", "baltsea", "baltnet", "baltdefcol", "riigikogu", "cbss", "bspc", "cso", "eu-baltic", "bsssc", "ncm", "nc", "bcm", "ba", "wnc", "beac", "bearc", "edf")
+
+plot_data <- data.frame(
+  word = wordfish_estonia_2001_2004$features,
+  beta =wordfish_estonia_2001_2004$beta,
+  psi = wordfish_estonia_2001_2004$psi
+)
+
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_estonia_2001_2004  ~ "darkgreen",
+  plot_data$word %in% actors_estonia_2001_2004  ~ "blue",
+  TRUE ~ "none"
+)
+
+#plot_data <- plot_data %>% filter(!word %in% c("estonia", "guard"))
+```
+
+```{r}
+#| label: fig-volcano-estonia-2001-2004
+
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Estonia National Security Concepts pre- and post- NATO \nmembership (2004)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)),  
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2001", "2004"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic") 
+```
+
+```{r}
+military_tek_with_stems_latvia_2003_2008 <- military_tek_with_stems[! military_tek_with_stems %in% c("control", "non-military")]
+actors_latvia_2003_2008 <- actors[! actors %in% c("alliance", "somalia", "membership")]
+
+military_tek_with_stems_latvia_2003_2008 <- c( military_tek_with_stems_latvia_2003_2008 , "infrastructure", "counterintelligence", "refugee", "migration", "illegal", "training", "environmental", "information", "social", "military", "crime", "terrorism")
+actors_latvia_2003_2008 <- c(actors_latvia_2003_2008, "naf", "satversme", "non-governmental", "europe", "non-governmental")
+
+plot_data <- data.frame(
+  word = wordfish_latvia_2003_2008$features,
+  beta =wordfish_latvia_2003_2008$beta,
+  psi = wordfish_latvia_2003_2008$psi
+)
+
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_latvia_2003_2008 ~ "darkgreen",
+  plot_data$word %in% actors_latvia_2003_2008 ~ "blue",
+  TRUE ~ "none"
+)
+```
+
+```{r}
+#| label: fig-volcano-latvia-2003-2008
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Latvia National Security Concepts pre- and post- NATO \nmembership (2004)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)),  
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2003", "2008"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic")
+```
+
+```{r}
+lowest_psi_countries <- plot_data %>%
+  filter(word %in% tolower(names(all_country_aliases))) %>%
+  arrange(psi) %>%
+  distinct(word, .keep_all = TRUE) %>%
+  slice_head(n = 35) %>%
+  select(word, psi)
+```
+
+```{r}
+military_tek_with_stems_taiwan_japan_2019 <- military_tek_with_stems[! military_tek_with_stems %in% c("weapon","education", "academic")]
+actors_taiwan_japan_2019 <- c(actors, "self-reliant", "japan-russia", "independent", "ccp")
+actors_taiwan_japan_2019 <- actors_taiwan_japan_2019[!actors_taiwan_japan_2019 %in% lowest_psi_countries$word]
+
+plot_data <- data.frame(
+  word = wordfish_taiwan_japan_2019$features,
+  beta = wordfish_taiwan_japan_2019$beta,
+  psi = wordfish_taiwan_japan_2019$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_taiwan_japan_2019 ~ "darkgreen",
+  plot_data$word %in% actors_taiwan_japan_2019 ~ "blue",
+  TRUE ~ "none"
+)
+
+plot_data <- plot_data %>%  filter(!word %in% c("defense", "mnd", "sdf"))
+```
+
+```{r}
+#| label: fig-volcano-japan-taiwan-2019
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Cross Sectional Comparison of Japan and Taiwan Defense Documents (2019)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)), 
+    plot.caption.position = "plot" 
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("Japan\n(SDF)", "Taiwan\n(MND)"),
+  ) +
+  annotate("text", x = 0, y = 2.2, 
+           label = "No Discrimination", 
+           hjust = 0.5, size = 2, color = "black", fontface = "italic") + ylim(1.36, 6.92) + ylim(2.11, 6.8)
+```
+
+```{r}
+military_tek_with_stems_2002_2011 <- military_tek_with_stems[! military_tek_with_stems %in% c("engineer", "research", "tactical", "intelligence","education", "counter", "airspace", "fighter")]
+actors_2002_2011 <- actors[! actors %in% c("republic", "lithuania", "belarus", "ndv", "latvia", "afghanistan", "iraq")]
+
+plot_data <- data.frame(
+  word = wordfish_lithuania_2002_2011$features,
+  beta =wordfish_lithuania_2002_2011$beta,
+  psi = wordfish_lithuania_2002_2011$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_2002_2011 ~ "darkgreen",
+  plot_data$word %in% actors_2002_2011 ~ "blue",
+  TRUE ~ "none"
+)
+
+plot_data <- plot_data %>% filter(!word %in% c("lithuania"))
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Lithuania NSS Documents pre- and post- NATO \nmembership (2004)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none", 
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)), 
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2002", "2011"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic")
+```
+
+```{r}
+military_tek_with_stems_slovakia_2001_2005 <- c( military_tek_with_stems_albania_2005_2012 , "infrastructure", "counterintelligence", "refugee", "migration", "illegal", "training", "environmental", "social", "military", "crime", "terrorism", "peacekeeping", "arms", "political-military")
+actors_slovakia_2001_2005 <- c(actors, "naf", "satversme", "non-governmental",  "non-governmental", "weu", 
+            "baltbat", "baltron", "baltsea", "baltnet", "baltdefcol", "cbss", "bspc", "cso", "eu-baltic", "bsssc", "ncm", "nc", "bcm", "ba", "wnc", "beac", "bearc", "balkan", "seebrig", "stanag", "shqiptar")
+
+
+plot_data <- data.frame(
+  word = wordfish_slovakia_2001_2005$features,
+  beta =wordfish_slovakia_2001_2005$beta,
+  psi = wordfish_slovakia_2001_2005$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems_slovakia_2001_2005 ~ "darkgreen",
+  plot_data$word %in% actors_slovakia_2001_2005 ~ "blue",
+  TRUE ~ "none"
+)
+```
+
+```{r}
+#| label: fig-volcano-slovakia-2001-2005
+
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.5,
+            size = 2) +
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most associated with Slovakia Defense Strategy Documents pre- and post- NATO membership (2004)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none", 
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  # Style the x-axis text
+    plot.caption = element_markdown(hjust = 0, size = 8, margin = margin(t = 10)),  
+    plot.caption.position = "plot"  
+  ) + 
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("2001", "2005"),
+  ) +
+  annotate("text", x = 0, y = min(plot_data$psi),
+           label = "No Discrimination",
+           hjust = 0.5, size = 2, color = "black", fontface = "italic")
+
+```
+
+
+```{r}
+plot_data <- data.frame(
+  word = wordfish_sk_japan_2014$features,
+  beta = wordfish_sk_japan_2014$beta,
+  psi = wordfish_sk_japan_2014$psi
+)
+
+plot_data$highlight <- case_when(
+  plot_data$word %in% military_tek_with_stems ~ "darkgreen",
+  plot_data$word %in% actors ~ "blue",
+  TRUE ~ "none"
+)
+
+plot_data <- plot_data %>% filter(!word %in% c("defense", "mnd", "sdf", "inter-korean", "forc", "defens", "thailand","united kingdom", "germany", "singapore", "ukraine", "pakistan","cambodia", "libya", "environmental", "new zealand", "somalia", "canada", "malaysia","sudan", "syria", "south sudan", "reconnaissance"))
+
+plot_data <- plot_data %>% filter(!word %in% c("defense", "mnd"))
+```
+
+```{r}
+ggplot(plot_data, aes(x = beta, y = psi, label = word)) +
+  # First layer: non-highlighted words
+  geom_text(data = subset(plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.3,
+            size = 2) +
+  
+  # Second layer: highlighted words
+  geom_text(data = subset(plot_data, highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most uniquely associated with Japan and South Korea annual defense strategy \ndocuments (2014)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  # Remove the legend
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8) 
+  ) +
+  scale_x_continuous(
+    limits = c(min(plot_data$beta), max(plot_data$beta)),
+    breaks = c(min(plot_data$beta), max(plot_data$beta)),
+    labels = c("Japan\n(SDF)", "S Korea\n(MND)"),
+  ) +
+  # Add annotation for the center
+  annotate("text", x = 0, y = min(plot_data$psi), 
+           label = "No Discrimination", 
+           hjust = 0.5, size = 2, color = "black", fontface = "italic")
+```

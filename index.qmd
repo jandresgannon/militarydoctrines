@@ -21,13 +21,11 @@ library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(countrycode)
+library(DT)
+library(dplyr)
+library(htmltools)
 ```
 
-
-```{r}
-# Load main dataset
-
-```
 
 ## Purpose
 
@@ -46,30 +44,6 @@ coverage_df <- read.csv("content/data_copy/country_year_coverage.csv")
 metadata <- read.csv("content/data_copy/nss_metadata.csv")
 ```
 
-
-```{r}
-coverage_df <- coverage_df |>
-  mutate(
-   cname = case_when(is.na(cname) ~ countrycode(sourcevar = COW,
-                                     origin = "cowc",  
-                                     destination = "country.name.en"),
-                     cname == "Bosnia & Herzegovina" ~ "Bosnia and Herzegovina",
-                     cname == "Micronesia (Federated States of)" ~ "Federated States of Micronesia",
-                     cname == "Czechia" ~ "Czech Republic",
-                      cname == "Congo - Kinshasa" ~ "Democratic Republic of the Congo",
-                      cname == "Congo" ~ "Republic of Congo",
-                      cname == "Antigua & Barbuda" ~ "Antigua and Barbuda", 
-                      cname == "China" ~ "People's Republic of China", 
-                      cname == "Gambia" ~ "The Gambia",
-                      cname == "St. Lucia" ~ "Saint Lucia",
-                      cname == "St. Kitts & Nevis" ~ "Saint Kitts and Nevis",
-                      cname == "St. Vincent and the Grenadines" ~ "Saint Vincent and the Grenadines",
-                      cname == "St. Vincent & Grenadines" ~ "Saint Vincent and the Grenadines",
-                      cname == "São Tomé & Príncipe" ~ "São Tomé and Príncipe", 
-                     TRUE ~ cname)
-  )
-```
-
 ```{r}
 # Get world map data as sf object
 world_map <- ne_countries(scale = "medium", returnclass = "sf")
@@ -81,6 +55,25 @@ document_counts <- coverage_df %>%
   ungroup()
 
 ```
+
+
+```{r}
+world_map <- world_map |> 
+  mutate(cc_name = countrycode(sourcevar = name,
+                               origin = "country.name.en.regex",  
+                               destination = "cown")) |>
+  mutate(name = case_when(
+    name == "Micronesia" ~ "Federated States of Micronesia",
+    name == "S. Sudan" ~ "South Sudan",
+    name == "St. Vin. and Gren" ~ "St. Vincent & Grenadines",
+    name == "Côte d'Ivoire" ~ "Ivory Coast", 
+    name == "Dem. Rep. Congo" ~  "Democratic Republic of the Congo", 
+    name == "Marshall Is." ~ "Marshall Islands",
+    name == "Czechia" ~ "Czech Republic", 
+    TRUE ~ name  # Keep other names unchanged
+  ))
+```
+
 
 ```{r}
 country_match <- data.frame(
@@ -94,6 +87,10 @@ country_match <- data.frame(
 doc_counts_matched <- document_counts %>%
   left_join(country_match, by = "cname")
 ```
+
+
+
+
 
 ## Basic Coverage Plot 
 
@@ -142,6 +139,3 @@ leaflet(world_data) %>%
     opacity = 0.7
   )
 ```
-
-
-
