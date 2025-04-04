@@ -1,7 +1,8 @@
 {
-  "hash": "9631a796663791a1b3475b8f4f9ac86e",
+  "hash": "4b3d9d4bf12146a66990929336b34456",
   "result": {
-    "markdown": "---\ntitle: \"Military Doctrines Dataset\"\npage-layout: full\nformat:\n  html:\n    html-math-method: katex\n    css: styles.css\n    citations-hover: true\n    footnotes-hover: true\neditor: visual\nexecute:\n  echo: false\n  warning: false\n  cache: false\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n## Purpose\n\n\\[Insert purpose statement here\\]\n\n## [Word Clouds](content/wordcloud.qmd)\n\n::: {layout=\"[[50,50], [50,50]]\"}\n![Taiwan NSS Word Cloud (2013)](content/images/taiwan_wc_2013.png){fig-align=\"left\" width=\"500\"}\n\n![Taiwan NSS World Cloud (2023)](content/images/taiwan_wc_2023.png){fig-align=\"left\" width=\"500\"}\n:::\n\n\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Military Doctrines Dataset\"\npage-layout: full\nformat:\n  html:\n    html-math-method: katex\n    css: styles.css\n    citations-hover: true\n    footnotes-hover: true\neditor: visual\nexecute:\n  echo: false\n  warning: false\n  cache: false\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n\n\n## Purpose\n\nThis is the website for the military doctrines dataset of National Security Strategies\n\n## [Word Clouds](content/wordcloud.qmd)\n\n::: {layout=\"[[50,50], [50,50]]\"}\n![Taiwan NSS Word Cloud (2013)](content/images/taiwan_wc_2013.png){fig-align=\"left\" width=\"500\"}\n\n![Taiwan NSS World Cloud (2023)](content/images/taiwan_wc_2023.png){fig-align=\"left\" width=\"500\"}\n:::\n\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

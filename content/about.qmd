@@ -33,13 +33,11 @@ page-layout: full
 
 ![Name](images/blank_image.png){fig-align="left" width="180"}
 
-![Alexandra Sniezek](images/image-109284903.png){fig-align="left" width="180"}
-
 :::
 
 ## Financial and Administrative Support
 
-The authors are grateful to the following institutions and their directors for financial, administrative, and technical support.
+The authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.
 
 ::: {layout-ncol="2"}
 :::

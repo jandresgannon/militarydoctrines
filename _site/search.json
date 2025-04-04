@@ -4,7 +4,10 @@
     "href": "index.html",
     "title": "Military Doctrines Dataset",
     "section": "",
-    "text": "[Insert purpose statement here]"
+    "text": "This is the website for the military doctrines dataset of National Security Strategies",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about.html",
@@ -88,14 +91,20 @@
     "href": "index.html#purpose",
     "title": "Military Doctrines Dataset",
     "section": "",
-    "text": "[Insert purpose statement here]"
+    "text": "This is the website for the military doctrines dataset of National Security Strategies",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#word-clouds",
     "href": "index.html#word-clouds",
     "title": "Military Doctrines Dataset",
     "section": "Word Clouds",
-    "text": "Word Clouds\n\n\n\n\n\n\nTaiwan NSS Word Cloud (2013)\n\n\n\n\n\n\n\nTaiwan NSS World Cloud (2023)"
+    "text": "Word Clouds\n\n\n\n\n\n\n\n\n\nTaiwan NSS Word Cloud (2013)\n\n\n\n\n\n\n\nTaiwan NSS World Cloud (2023)",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "content/penguins.html",
