@@ -22,13 +22,13 @@ library(ggplot2)
 ```
 
 ```{r}
-# Load main data
+# Load main dataset
 
 ```
 
 ## Purpose
 
-\[Insert purpose statement here\]
+This is the website for the military doctrines dataset of National Security Strategies
 
 ## [Word Clouds](content/wordcloud.qmd)
 
