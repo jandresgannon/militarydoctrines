@@ -14,12 +14,15 @@ execute:
   cache: false
 ---
 
-```{r knitr_options}
-library(knitr)
-library(kableExtra)
-library(magrittr)
-library(ggplot2)
+```{r}
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(countrycode)
 ```
+
 
 ```{r}
 # Load main dataset
@@ -37,5 +40,108 @@ This is the website for the military doctrines dataset of National Security Stra
 
 ![Taiwan NSS World Cloud (2023)](content/images/taiwan_wc_2023.png){fig-align="left" width="500"}
 :::
+
+```{r knitr_options}
+coverage_df <- read.csv("content/data_copy/country_year_coverage.csv")
+metadata <- read.csv("content/data_copy/nss_metadata.csv")
+```
+
+
+```{r}
+coverage_df <- coverage_df |>
+  mutate(
+   cname = case_when(is.na(cname) ~ countrycode(sourcevar = COW,
+                                     origin = "cowc",  
+                                     destination = "country.name.en"),
+                     cname == "Bosnia & Herzegovina" ~ "Bosnia and Herzegovina",
+                     cname == "Micronesia (Federated States of)" ~ "Federated States of Micronesia",
+                     cname == "Czechia" ~ "Czech Republic",
+                      cname == "Congo - Kinshasa" ~ "Democratic Republic of the Congo",
+                      cname == "Congo" ~ "Republic of Congo",
+                      cname == "Antigua & Barbuda" ~ "Antigua and Barbuda", 
+                      cname == "China" ~ "People's Republic of China", 
+                      cname == "Gambia" ~ "The Gambia",
+                      cname == "St. Lucia" ~ "Saint Lucia",
+                      cname == "St. Kitts & Nevis" ~ "Saint Kitts and Nevis",
+                      cname == "St. Vincent and the Grenadines" ~ "Saint Vincent and the Grenadines",
+                      cname == "St. Vincent & Grenadines" ~ "Saint Vincent and the Grenadines",
+                      cname == "São Tomé & Príncipe" ~ "São Tomé and Príncipe", 
+                     TRUE ~ cname)
+  )
+```
+
+```{r}
+# Get world map data as sf object
+world_map <- ne_countries(scale = "medium", returnclass = "sf")
+
+# Aggregate document counts by country
+document_counts <- coverage_df %>%
+  group_by(cname) %>%
+  summarise(num_documents = sum(coded, na.rm = TRUE)) %>%
+  ungroup()
+
+```
+
+```{r}
+country_match <- data.frame(
+  cname = unique(coverage_df$cname),
+  name = unique(coverage_df$cname)  
+)
+```
+
+
+```{r}
+doc_counts_matched <- document_counts %>%
+  left_join(country_match, by = "cname")
+```
+
+## Basic Coverage Plot 
+
+```{r}
+# Join with world map
+world_data <- world_map %>%
+  left_join(doc_counts_matched, by = c("name" = "name"))
+
+# Replace NA values with 0 for countries with no documents
+world_data$num_documents[is.na(world_data$num_documents)] <- 0
+
+# Create color palette
+bins <- c(0, 1, 5, 10, 20, 50, 100, Inf)
+pal <- colorBin("Purples", domain = world_data$num_documents, bins = bins)
+
+# Create the leaflet map
+leaflet(world_data) %>%
+  addTiles() %>%
+  setView(lng = 0, lat = 30, zoom = 2) %>%
+  addPolygons(
+    fillColor = ~pal(num_documents),
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7,
+    highlightOptions = highlightOptions(
+      weight = 2,
+      color = "#666",
+      dashArray = "",
+      fillOpacity = 0.7,
+      bringToFront = TRUE
+    ),
+    label = ~paste0(name, ": ", num_documents, " documents"),
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    position = "bottomright",
+    pal = pal,
+    values = ~num_documents,
+    title = "Number of Documents",
+    opacity = 0.7
+  )
+```
+
 
 
