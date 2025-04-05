@@ -26,7 +26,6 @@ library(dplyr)
 library(htmltools)
 ```
 
-
 ## Purpose
 
 This is the website for the military doctrines dataset of National Security Strategies
@@ -56,7 +55,6 @@ document_counts <- coverage_df %>%
 
 ```
 
-
 ```{r}
 world_map <- world_map |> 
   mutate(cc_name = countrycode(sourcevar = name,
@@ -74,7 +72,6 @@ world_map <- world_map |>
   ))
 ```
 
-
 ```{r}
 country_match <- data.frame(
   cname = unique(coverage_df$cname),
@@ -82,17 +79,12 @@ country_match <- data.frame(
 )
 ```
 
-
 ```{r}
 doc_counts_matched <- document_counts %>%
   left_join(country_match, by = "cname")
 ```
 
-
-
-
-
-## Basic Coverage Plot 
+## Basic Coverage Plot
 
 ```{r}
 # Join with world map

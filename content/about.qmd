@@ -7,37 +7,46 @@ page-layout: full
 ## Project Director
 
 ::: {layout="[[30,70], [30,70]]"}
-![](images/image-1982633316.png){width="184"}
+![](images/image-1982633316.png){width="200"}
 
-[J Andrés Gannon](https://jandresgannon.com/) is an Assistant Professor of [Political Science at Vanderbilt University](https://www.vanderbilt.edu/political-science/) and a Faculty Affiliate at the [Data Science Institute](https://www.vanderbilt.edu/datascience/). He earned his PhD in [[Political Science]{.underline}](http://polisci.ucsd.edu/) from UC San Diego in 2021.\
-[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:andres.gannon@gmail.com) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon) [![](images/image-1576385032.png){width="51"}](https://twitter.com/AndresGannon)
-:::
+[J Andrés Gannon](https://jandresgannon.com/) is an Assistant Professor of [Political Science at Vanderbilt University](https://www.vanderbilt.edu/political-science/) and a Faculty Affiliate at the [Data Science Institute](https://www.vanderbilt.edu/datascience/).\
+
+[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:juan.gannon@vanderbilt.edu) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon) :::
 
 ## Research Assistants
 
 ::: {layout="[[33,33,33], [33,33,33], [33,33,33]]"}
+![Isabel Arvelo](images/arvelo_isabel.png){fig-align="center" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Sorin Caldararu](images/caldararu_sorin.png){fig-align="left" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Claire Cho](images/cho_claire.png){fig-align="left" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Jacqueline Huang](images/huang_jacqueline.png){fig-align="left" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Junhao Luo](images/luo_junhao.png){fig-align="left" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Emerson McCarthy](images/mccarthy_emerson.png){fig-align="left" width="200"}
 
+![Blaire Richards](images/richards_blaire.jpg){fig-align="left" width="200"}
 
-![Alexandra Sniezek](images/image-109284903.png){fig-align="left" width="180"}
+![Anthony Rodas](images/rodas_anthony.png){fig-align="left" width="200"}
 
+![Simon Rosenbaum](images/rosenbaum_simon.png){fig-align="left" width="200"}
 
-![Name](images/blank_image.png){fig-align="left" width="180"}
+![Alexandra Sniezek](images/sniezek_alexandra.png){fig-align="left" width="200"}
 
+![Harmony Wang](images/wang_harmony.jpg){fig-align="left" width="200"}
+
+![Nikki Weitzenhoffer](images/weitzenhoffer_nikki.png){fig-align="left" width="200"}
+
+![Ethan Xu](images/xu_ethan.jpg){fig-align="left" width="200"}
+
+![Jenny Yang](images/yang_jenny.png){fig-align="left" width="200"}
 :::
 
 ## Financial and Administrative Support
 
 The authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.
 
-::: {layout-ncol="2"}
-:::
+![](images/rocca.png){fig-align="left" width="200"}
