@@ -1,0 +1,17 @@
+{
+  "hash": "6641d7ca58344843c954f1e0fece8434",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Affinity\"\npage-layout: full\nformat:\n  html:\n    html-math-method: katex\n    css: styles.css\n    citations-hover: true\n    footnotes-hover: true\neditor: visual\nexecute:\n  echo: false\n  warning: false\n  cache: false\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-6-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-7-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-8-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-9-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-10-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-11-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-12-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-13-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-14-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-15-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-16-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-17-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-18-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-19-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-20-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-21-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-22-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-24-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-25-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-26-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-28-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-29-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](Affinity_files/figure-html/unnamed-chunk-30-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n",
+    "supporting": [
+      "Affinity_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
