@@ -3,4 +3,7 @@
 .RData
 .Ruserdata
 
+/content/data_copy/nss_doctrine_text.csv
+
 /.quarto/
+/_site/
