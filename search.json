@@ -4,37 +4,7 @@
     "href": "index.html",
     "title": "Military Doctrines Dataset",
     "section": "",
-    "text": "This is the website for the military doctrines dataset of National Security Strategies",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#purpose",
-    "href": "index.html#purpose",
-    "title": "Military Doctrines Dataset",
-    "section": "",
-    "text": "This is the website for the military doctrines dataset of National Security Strategies",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#word-clouds",
-    "href": "index.html#word-clouds",
-    "title": "Military Doctrines Dataset",
-    "section": "Word Clouds",
-    "text": "Word Clouds\n\n\n\n\n\n\n\n\n\nTaiwan NSS Word Cloud (2013)\n\n\n\n\n\n\n\nTaiwan NSS World Cloud (2023)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#basic-coverage-plot",
-    "href": "index.html#basic-coverage-plot",
-    "title": "Military Doctrines Dataset",
-    "section": "Basic Coverage Plot",
-    "text": "Basic Coverage Plot",
+    "text": "The Military Doctrines dataset is a catalog of over 819 National Security Strategy (NSS) documents spanning 112 countries from 1962 to 2024. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse or download from this website.\nThe Military Doctrines project is led by J Andrés Gannon of Vanderbilt University.",
     "crumbs": [
       "Home"
     ]
@@ -54,11 +24,7 @@
     "href": "content/EastAsia_data.html",
     "title": "East Asia",
     "section": "",
-    "text": "Australia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJapan:\n\n\n\n2010\n\n\n\n\n\n2012\n\n\n:::",
-    "crumbs": [
-      "Visuals",
-      "East Asia"
-    ]
+    "text": "Australia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJapan:\n\n\n\n2010\n\n\n\n\n\n2012\n\n\n:::"
   },
   {
     "objectID": "content/Papers.html",
@@ -67,7 +33,7 @@
     "section": "",
     "text": "[paper 1: East Asia]\n\n\n[paper 2: NATO Expansion]",
     "crumbs": [
-      "Papers"
+      "Paper"
     ]
   },
   {
@@ -111,11 +77,7 @@
     "href": "content/NATO_data.html",
     "title": "NATO Data",
     "section": "",
-    "text": "interactive visuals:\n\nlibrary(plotly)\n\nLoading required package: ggplot2\n\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\n# Sample data for demonstration\ndata &lt;- data.frame(\n  Category = c(\"A\", \"B\", \"C\", \"D\"),\n  Value = c(10, 15, 13, 17)\n)\n\n# Plotly bar chart\nfig &lt;- plot_ly(data, x = ~Category, y = ~Value, type = 'bar')\nfig\n\n\n\n\n\n\n# Create a basic leaflet map\n\n\nlibrary(leaflet)\n\n# Define custom icons\nnato_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/blue-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\neast_asia_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/red-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\n# Create the map\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(lng = 60, lat = 50, zoom = 3) %&gt;%\n  \n  # NATO countries (example markers)\n  addMarkers(lng = -0.1276, lat = 51.5074, popup = \"London, United Kingdom (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 2.3522, lat = 48.8566, popup = \"Paris, France (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 12.4964, lat = 41.9028, popup = \"Rome, Italy (NATO)\", icon = nato_icon) %&gt;%\n  \n  # East Asian countries (example markers)\n  addMarkers(lng = 139.6917, lat = 35.6895, popup = \"Tokyo, Japan (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 126.9780, lat = 37.5665, popup = \"Seoul, South Korea (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 121.4737, lat = 31.2304, popup = \"Shanghai, China (East Asia)\", icon = east_asia_icon)",
-    "crumbs": [
-      "Visuals",
-      "NATO"
-    ]
+    "text": "interactive visuals:"
   },
   {
     "objectID": "content/Wordfish.html",
@@ -147,9 +109,9 @@
     "href": "content/about.html",
     "title": "About",
     "section": "",
-    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute. He earned his PhD in Political Science from UC San Diego in 2021.",
+    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute.",
     "crumbs": [
-      "About Us"
+      "About"
     ]
   },
   {
@@ -157,9 +119,9 @@
     "href": "content/about.html#project-director",
     "title": "About",
     "section": "",
-    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute. He earned his PhD in Political Science from UC San Diego in 2021.",
+    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute.",
     "crumbs": [
-      "About Us"
+      "About"
     ]
   },
   {
@@ -167,9 +129,9 @@
     "href": "content/about.html#research-assistants",
     "title": "About",
     "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nName\n\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\n\n\nName",
+    "text": "Research Assistants\n\n\n\n\n\n\n\n\n\nIsabel Arvelo\n\n\n\n\n\n\n\nSorin Caldararu\n\n\n\n\n\n\n\nClaire Cho\n\n\n\n\n\n\n\n\n\nJacqueline Huang\n\n\n\n\n\n\n\nJunhao Luo\n\n\n\n\n\n\n\nEmerson McCarthy\n\n\n\n\n\n\n\n\n\nBlaire Richards\n\n\n\n\n\n\n\nAnthony Rodas\n\n\n\n\n\n\n\nSimon Rosenbaum\n\n\n\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\nHarmony Wang\n\n\n\n\n\n\n\nNikki Weitzenhoffer\n\n\n\n\n\n\n\n\n\nEthan Xu\n\n\n\n\n\n\n\nJenny Yang",
     "crumbs": [
-      "About Us"
+      "About"
     ]
   },
   {
@@ -179,7 +141,7 @@
     "section": "Financial and Administrative Support",
     "text": "Financial and Administrative Support\nThe authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.",
     "crumbs": [
-      "About Us"
+      "About"
     ]
   }
 ]
