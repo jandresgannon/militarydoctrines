@@ -30,7 +30,7 @@ coverage_df <- read.csv("content/data_copy/country_year_coverage.csv")
 metadata <- read.csv("content/data_copy/nss_metadata.csv")
 ```
 
-The Military Doctrines dataset is a catalog of over `r metadata |> nrow()` National Security Strategy (NSS) documents spanning `r metadata |> dplyr::summarise(dplyr::n_distinct(country_name)) |> dplyr::pull()` countries from `r metadata |> dplyr::summarize(min = min(year)) |> pull()` to `r metadata |> dplyr::summarize(max = max(year)) |> pull()`. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse or download from this website.
+The Military Doctrines dataset is a catalog of `r metadata |> nrow()` National Security Strategy (NSS) documents spanning `r metadata |> dplyr::summarise(dplyr::n_distinct(country_name)) |> dplyr::pull()` countries from `r metadata |> dplyr::summarize(min = min(year)) |> pull()` to `r metadata |> dplyr::summarize(max = max(year)) |> pull()`. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse and download from this website.
 
 The Military Doctrines project is led by [J Andrés Gannon](http://jandresgannon.com/) of Vanderbilt University.
 
