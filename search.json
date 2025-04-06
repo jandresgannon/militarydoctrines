@@ -66,9 +66,9 @@
   {
     "objectID": "content/Papers.html",
     "href": "content/Papers.html",
-    "title": "Papers",
+    "title": "Paper",
     "section": "",
-    "text": "[paper 1: East Asia]\n\n\n[paper 2: NATO Expansion]",
+    "text": "Gannon, J Andrés. (2025) “Fighting Words: A computational text analysis of affective salience in national security strategies”. Working paper.\nAbstract: States produce detailed public accounts of their defense priorities through NSS documents and white papers. But do these reveal meaningful insights into interstate relations or are these merely bureaucratic rhetoric? This paper redefines NSS documents as dynamic, performative texts constructing state social intimacy. Using large language models, sentiment analysis, and advanced stance detection, I develop an asymmetric index of affective salience capturing both the prominence of states in NSS texts (salience) and their evaluative orientations (affinity). An analysis of over 400 documents from 92 countries (1962–2024) shows that salience is best explained by economic interdependence, that affinity mirrors traditional indicators of alliance and rivalry, and that affective salience predicts international crises as well as interstate diplomacy. Ultimately, the study challenges the cheap talk narrative and offers a robust framework for anticipating emerging security dynamics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPre-print\n\n\n\n\n\n\n\n\n\n\n\nGithub Repo",
     "crumbs": [
       "Paper"
     ]
