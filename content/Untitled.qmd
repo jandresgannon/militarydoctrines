@@ -1,6 +1,0 @@
----
-title: "NATO Data"
-editor: visual
----
-
-# NATO Data

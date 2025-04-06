@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  navbar: false
+  navbar: true
   title: "Military Doctrines"
   favicon: images/favicon.ico
 
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
+    right: "This page is built with [Quarto](https://quarto.org/) by Isabel Arvelo, Andres Gannon, and Alexandra Sniezek."
     left: "&copy; CC-1.0"
 
   sidebar:
@@ -25,10 +25,10 @@ website:
         text: About
       - href: content/Papers.qmd
         text: Paper
-      - href: content/Data.qmd
-        text: Data
       - section: "Data"
         contents:
+          - href: content/Data.qmd
+            text: Data
           - href: content/PDF.qmd
             text: PDF
           - href: content/CSV.qmd
@@ -48,5 +48,3 @@ filters:
 
 execute:
   freeze: auto
-
-

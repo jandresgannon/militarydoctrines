@@ -7,43 +7,43 @@ page-layout: full
 ## Project Director
 
 ::: {layout="[[30,70], [30,70]]"}
-![](images/image-1982633316.png){width="200"}
+![](images/headshots/gannon_andres.png){width="200"}
 
 [J Andrés Gannon](https://jandresgannon.com/) is an Assistant Professor of [Political Science at Vanderbilt University](https://www.vanderbilt.edu/political-science/) and a Faculty Affiliate at the [Data Science Institute](https://www.vanderbilt.edu/datascience/).\
 
-[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:juan.gannon@vanderbilt.edu) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon)
+[![](images/stock/googlescholar.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/stock/linkedin.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/stock/email.png){width="41"}](mailto:juan.gannon@vanderbilt.edu) [![](images/stock/github.png){width="43"}](https://github.com/jandresgannon)
 :::
 
 ## Research Assistants
 
 ::: {layout="[[33,33,33], [33,33,33], [33,33,33]]"}
-![Isabel Arvelo](images/arvelo_isabel.png){fig-align="left" width="200"}
+![Isabel Arvelo](images/headshots/arvelo_isabel.png){fig-align="left" width="200"}
 
-![Sorin Caldararu](images/caldararu_sorin.png){fig-align="left" width="200"}
+![Sorin Caldararu](images/headshots/caldararu_sorin.png){fig-align="left" width="200"}
 
-![Claire Cho](images/cho_claire.png){fig-align="left" width="200"}
+![Claire Cho](images/headshots/cho_claire.png){fig-align="left" width="200"}
 
-![Jacqueline Huang](images/huang_jacqueline.png){fig-align="left" width="200"}
+![Jacqueline Huang](images/headshots/huang_jacqueline.png){fig-align="left" width="200"}
 
-![Junhao Luo](images/luo_junhao.png){fig-align="left" width="200"}
+![Junhao Luo](images/headshots/luo_junhao.png){fig-align="left" width="200"}
 
-![Emerson McCarthy](images/mccarthy_emerson.png){fig-align="left" width="200"}
+![Emerson McCarthy](images/headshots/mccarthy_emerson.png){fig-align="left" width="200"}
 
-![Blaire Richards](images/richards_blaire.jpg){fig-align="left" width="200"}
+![Blaire Richards](images/headshots/richards_blaire.jpg){fig-align="left" width="200"}
 
-![Anthony Rodas](images/rodas_anthony.png){fig-align="left" width="200"}
+![Anthony Rodas](images/headshots/rodas_anthony.png){fig-align="left" width="200"}
 
-![Simon Rosenbaum](images/rosenbaum_simon.png){fig-align="left" width="200"}
+![Simon Rosenbaum](images/headshots/rosenbaum_simon.png){fig-align="left" width="200"}
 
-![Alexandra Sniezek](images/sniezek_alexandra.png){fig-align="left" width="200"}
+![Alexandra Sniezek](images/headshots/sniezek_alexandra.png){fig-align="left" width="200"}
 
-![Harmony Wang](images/wang_harmony.jpg){fig-align="left" width="200"}
+![Harmony Wang](images/headshots/wang_harmony.jpg){fig-align="left" width="200"}
 
-![Nikki Weitzenhoffer](images/weitzenhoffer_nikki.png){fig-align="left" width="200"}
+![Nikki Weitzenhoffer](images/headshots/weitzenhoffer_nikki.png){fig-align="left" width="200"}
 
-![Ethan Xu](images/xu_ethan.jpg){fig-align="left" width="200"}
+![Ethan Xu](images/headshots/xu_ethan.jpg){fig-align="left" width="200"}
 
-![Jenny Yang](images/yang_jenny.png){fig-align="left" width="200"}
+![Jenny Yang](images/headshots/yang_jenny.png){fig-align="left" width="200"}
 :::
 
 ## Financial and Administrative Support
