@@ -37,7 +37,6 @@ library(crosstalk)
 library(plotly)
 ```
 
-
 ```{r knitr_options}
 coverage_df <- read.csv("data_copy/country_year_coverage.csv")
 metadata <- read.csv("data_copy/nss_metadata.csv")
@@ -48,9 +47,6 @@ affective_salience <- read.csv("data_copy/affective_salience.csv")
 
 ```
 
-
-
-
 ```{r}
 library(tidyverse)
 library(ggplot2)
@@ -60,8 +56,6 @@ library(ggplot2)
 all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
 all_country_aliases <- readRDS("data_copy/country_aliases.rds")
 ```
-
-
 
 ```{r}
 #| echo: false
@@ -296,248 +290,388 @@ accordion_html <- generate_country_panels()
 htmltools::HTML(as.character(accordion_html))
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ##### INTERACTIVE IN PROGRESS  -->
 
 <!-- ## Affective Salience Map -->
 
 <!-- ```{r affective-map, echo=FALSE} -->
+
 <!-- # Prepare the full dataset for client-side filtering -->
+
 <!-- # This approach sends the data to the browser for client-side processing -->
+
 <!-- # More efficient than pre-computing all maps -->
 
 <!-- # Join the full dataset with the world map -->
+
 <!-- # This creates all possible country-ISO_A3 matches -->
+
 <!-- full_data <- tidyr::crossing( -->
+
 <!--   iso = world_map$ISO_A3, -->
+
 <!--   country_name = world_map$cc_name, -->
+
 <!--   origin_country = all_countries, -->
+
 <!--   year = all_years -->
+
 <!-- ) %>% -->
+
 <!--   left_join( -->
+
 <!--     affective_salience %>%  -->
+
 <!--       select(origin_country, year, ccode2, target_country, affective_salience), -->
+
 <!--     by = c("origin_country", "year", "iso" = "ccode2") -->
+
 <!--   ) -->
 
 <!-- # Add hover text -->
+
 <!-- full_data <- full_data %>% -->
+
 <!--   mutate( -->
+
 <!--     hover_text = case_when( -->
+
 <!--       !is.na(affective_salience) ~ paste0( -->
+
 <!--         "<b>", country_name, "</b><br>", -->
+
 <!--         "Mentioned as: ", target_country, "<br>", -->
+
 <!--         "Affective Salience: ", round(affective_salience, 3) -->
+
 <!--       ), -->
+
 <!--       TRUE ~ paste0(country_name, ": Not mentioned") -->
+
 <!--     ), -->
+
 <!--     # Replace NA with 0 for z values -->
+
 <!--     z = ifelse(is.na(affective_salience), 0, affective_salience) -->
+
 <!--   ) -->
 
 <!-- # Convert to a format for JSON serialization -->
+
 <!-- # Group by origin_country and year -->
+
 <!-- json_data <- full_data %>% -->
+
 <!--   group_by(origin_country, year) %>% -->
+
 <!--   summarize( -->
+
 <!--     iso = list(iso), -->
+
 <!--     z = list(z), -->
+
 <!--     hover_text = list(hover_text), -->
+
 <!--     # Get max value for each group for color scaling -->
+
 <!--     max_val = max(z, na.rm = TRUE), -->
+
 <!--     .groups = "drop" -->
+
 <!--   ) %>% -->
+
 <!--   # Convert to a nested list structure -->
+
 <!--   nest_by(origin_country) %>% -->
+
 <!--   deframe() %>% -->
+
 <!--   lapply(function(country_data) { -->
+
 <!--     result <- country_data %>% -->
+
 <!--       select(year, iso, z, hover_text, max_val) %>% -->
+
 <!--       nest_by(year) %>% -->
+
 <!--       deframe() -->
+
 <!--     return(result) -->
+
 <!--   }) -->
 
 <!-- # Create the base map -->
+
 <!-- base_map <- plot_geo() %>% -->
+
 <!--   layout( -->
+
 <!--     title = "Select a country and year", -->
+
 <!--     geo = list( -->
+
 <!--       showframe = FALSE, -->
+
 <!--       showcoastlines = TRUE, -->
+
 <!--       projection = list(type = "natural earth") -->
+
 <!--     ) -->
+
 <!--   ) -->
 
 <!-- # Add JavaScript to handle the filtering and map updates -->
+
 <!-- js_code <- paste0(" -->
+
 <!-- function(el, x) { -->
+
 <!--   // Parse the JSON data -->
+
 <!--   var mapData = ", jsonlite::toJSON(json_data), "; -->
 
 <!--   // Create dropdowns container -->
+
 <!--   var container = document.createElement('div'); -->
+
 <!--   container.style.display = 'flex'; -->
+
 <!--   container.style.justifyContent = 'center'; -->
+
 <!--   container.style.margin = '10px 0'; -->
 
 <!--   // Create country dropdown -->
+
 <!--   var countryLabel = document.createElement('label'); -->
+
 <!--   countryLabel.textContent = 'Origin Country: '; -->
+
 <!--   countryLabel.style.marginRight = '5px'; -->
 
 <!--   var countrySelect = document.createElement('select'); -->
+
 <!--   countrySelect.id = 'country-select'; -->
+
 <!--   countrySelect.style.marginRight = '20px'; -->
+
 <!--   countrySelect.style.padding = '5px'; -->
 
 <!--   var countries = Object.keys(mapData).sort(); -->
+
 <!--   countries.forEach(function(country) { -->
+
 <!--     var option = document.createElement('option'); -->
+
 <!--     option.value = country; -->
+
 <!--     option.text = country; -->
+
 <!--     countrySelect.appendChild(option); -->
+
 <!--   }); -->
 
 <!--   // Create year dropdown -->
+
 <!--   var yearLabel = document.createElement('label'); -->
+
 <!--   yearLabel.textContent = 'Year: '; -->
+
 <!--   yearLabel.style.marginRight = '5px'; -->
 
 <!--   var yearSelect = document.createElement('select'); -->
+
 <!--   yearSelect.id = 'year-select'; -->
+
 <!--   yearSelect.style.padding = '5px'; -->
 
 <!--   // Get years from the first country (assuming all countries have the same years) -->
+
 <!--   var years = Object.keys(mapData[countries[0]]).sort(); -->
+
 <!--   years.forEach(function(year) { -->
+
 <!--     var option = document.createElement('option'); -->
+
 <!--     option.value = year; -->
+
 <!--     option.text = year; -->
+
 <!--     yearSelect.appendChild(option); -->
+
 <!--   }); -->
 
 <!--   // Add elements to container -->
+
 <!--   container.appendChild(countryLabel); -->
+
 <!--   container.appendChild(countrySelect); -->
+
 <!--   container.appendChild(yearLabel); -->
+
 <!--   container.appendChild(yearSelect); -->
 
 <!--   // Insert container before the map -->
+
 <!--   el.parentElement.insertBefore(container, el); -->
 
 <!--   // Function to update the map -->
+
 <!--   function updateMap() { -->
+
 <!--     var country = countrySelect.value; -->
+
 <!--     var year = yearSelect.value; -->
 
 <!--     if (!mapData[country] || !mapData[country][year]) { -->
+
 <!--       console.error('Data not found for', country, year); -->
+
 <!--       return; -->
+
 <!--     } -->
 
 <!--     var data = mapData[country][year]; -->
+
 <!--     var maxVal = data.max_val || 1;  // Default to 1 if no max value -->
 
 <!--     // Create choropleth trace -->
+
 <!--     var trace = { -->
+
 <!--       type: 'choropleth', -->
+
 <!--       locationmode: 'ISO-3', -->
+
 <!--       locations: data.iso, -->
+
 <!--       z: data.z, -->
+
 <!--       text: data.hover_text, -->
+
 <!--       hoverinfo: 'text', -->
+
 <!--       colorscale: [ -->
+
 <!--         [0, '#EEEEEE'],  // Gray for 0 values (not mentioned) -->
+
 <!--         [0.001, '#FFFF00'],  // Yellow for low values -->
+
 <!--         [1, '#FF0000']   // Red for high values -->
+
 <!--       ], -->
+
 <!--       zmin: 0, -->
+
 <!--       zmax: maxVal, -->
+
 <!--       marker: { -->
+
 <!--         line: { -->
+
 <!--           color: '#888888', -->
+
 <!--           width: 0.5 -->
+
 <!--         } -->
+
 <!--       }, -->
+
 <!--       colorbar: { -->
+
 <!--         title: 'Affective<br>Salience', -->
+
 <!--         thickness: 15 -->
+
 <!--       } -->
+
 <!--     }; -->
 
 <!--     // If all values are 0, hide the colorbar -->
+
 <!--     if (maxVal <= 0) { -->
+
 <!--       trace.showscale = false; -->
+
 <!--     } -->
 
 <!--     // Update the layout -->
+
 <!--     var layout = { -->
+
 <!--       title: 'Affective Salience: ' + country + ' (' + year + ')', -->
+
 <!--       geo: { -->
+
 <!--         showframe: false, -->
+
 <!--         showcoastlines: true, -->
+
 <!--         projection: { -->
+
 <!--           type: 'natural earth' -->
+
 <!--         } -->
+
 <!--       }, -->
+
 <!--       margin: { -->
+
 <!--         l: 0, -->
+
 <!--         r: 0, -->
+
 <!--         b: 0, -->
+
 <!--         t: 50, -->
+
 <!--         pad: 4 -->
+
 <!--       } -->
+
 <!--     }; -->
 
 <!--     // Get the Plotly element -->
+
 <!--     var gd = document.getElementById(el.id); -->
 
 <!--     // Create a new plot or update existing -->
+
 <!--     Plotly.react(gd, [trace], layout); -->
+
 <!--   } -->
 
 <!--   // Add event listeners to dropdowns -->
+
 <!--   countrySelect.addEventListener('change', updateMap); -->
+
 <!--   yearSelect.addEventListener('change', updateMap); -->
 
 <!--   // Initial update -->
+
 <!--   updateMap(); -->
+
 <!-- } -->
+
 <!-- ") -->
 
 <!-- # Render the map with the JavaScript -->
+
 <!-- map_widget <- htmlwidgets::onRender(base_map, js_code) -->
 
 <!-- # Set widget dimensions -->
+
 <!-- map_widget <- map_widget %>% -->
+
 <!--   layout( -->
+
 <!--     autosize = TRUE, -->
+
 <!--     height = 600 -->
+
 <!--   ) -->
 
 <!-- # Display the map -->
+
 <!-- map_widget -->
+
 <!-- ``` -->
-
-
-

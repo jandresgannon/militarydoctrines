@@ -7,7 +7,7 @@ website:
   favicon: images/favicon.ico
 
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/) by Isabel Arvelo, Andres Gannon, and Alexandra Sniezek."
+    right: "This website is built with [Quarto](https://quarto.org/) by Isabel Arvelo, Andres Gannon, and Alexandra Sniezek."
     left: "&copy; CC-1.0"
 
   sidebar:
@@ -39,8 +39,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
+      light: [simplex, theme.scss]
+      dark: [simplex, theme-dark.scss]
 
 filters:
   - include-files.lua
