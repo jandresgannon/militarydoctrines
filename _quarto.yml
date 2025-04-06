@@ -22,9 +22,9 @@ website:
       - href: index.qmd
         text: Home
       - href: content/about.qmd
-        text: About Us
+        text: About
       - href: content/Papers.qmd
-        text: Papers
+        text: Paper
       - href: content/Data.qmd
         text: Data
       - section: "Data"
@@ -35,13 +35,6 @@ website:
             text: CSV
           - href: content/TXT.qmd
             text: TXT
-      - section: "Visuals"
-        contents:
-          - href: content/NATO_data.qmd
-            text: NATO
-          - href: content/EastAsia_data.qmd
-            text: East Asia
-
 
 format:
   html:

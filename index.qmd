@@ -22,26 +22,17 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 library(countrycode)
 library(DT)
-library(dplyr)
 library(htmltools)
 ```
-
-## Purpose
-
-This is the website for the military doctrines dataset of National Security Strategies
-
-## [Word Clouds](content/wordcloud.qmd)
-
-::: {layout="[[50,50], [50,50]]"}
-![Taiwan NSS Word Cloud (2013)](content/images/taiwan_wc_2013.png){fig-align="left" width="500"}
-
-![Taiwan NSS World Cloud (2023)](content/images/taiwan_wc_2023.png){fig-align="left" width="500"}
-:::
 
 ```{r knitr_options}
 coverage_df <- read.csv("content/data_copy/country_year_coverage.csv")
 metadata <- read.csv("content/data_copy/nss_metadata.csv")
 ```
+
+The Military Doctrines dataset is a catalog of over `r metadata |> nrow()` National Security Strategy (NSS) documents spanning `r metadata |> dplyr::summarise(dplyr::n_distinct(country_name)) |> dplyr::pull()` countries from `r metadata |> dplyr::summarize(min = min(year)) |> pull()` to `r metadata |> dplyr::summarize(max = max(year)) |> pull()`. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse or download from this website.
+
+The Military Doctrines project is led by [J Andrés Gannon](http://jandresgannon.com/) of Vanderbilt University.
 
 ```{r}
 # Get world map data as sf object
@@ -52,7 +43,6 @@ document_counts <- coverage_df %>%
   group_by(cname) %>%
   summarise(num_documents = sum(coded, na.rm = TRUE)) %>%
   ungroup()
-
 ```
 
 ```{r}
@@ -83,8 +73,6 @@ country_match <- data.frame(
 doc_counts_matched <- document_counts %>%
   left_join(country_match, by = "cname")
 ```
-
-## Basic Coverage Plot
 
 ```{r}
 # Join with world map

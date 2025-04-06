@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Military Doctrines Dataset",
     "section": "",
-    "text": "This is the website for the military doctrines dataset of National Security Strategies",
+    "text": "The Military Doctrines dataset is a catalog of over 819 National Security Strategy (NSS) documents spanning 112 countries from 1962 to 2024. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse or download from this website.\nThe Military Doctrines project is led by J Andrés Gannon of Vanderbilt University.",
     "crumbs": [
       "Home"
     ]
@@ -111,7 +111,7 @@
     "href": "content/NATO_data.html",
     "title": "NATO Data",
     "section": "",
-    "text": "interactive visuals:\n\nlibrary(plotly)\n\nLoading required package: ggplot2\n\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\n# Sample data for demonstration\ndata &lt;- data.frame(\n  Category = c(\"A\", \"B\", \"C\", \"D\"),\n  Value = c(10, 15, 13, 17)\n)\n\n# Plotly bar chart\nfig &lt;- plot_ly(data, x = ~Category, y = ~Value, type = 'bar')\nfig\n\n\n\n\n\n\n# Create a basic leaflet map\n\n\nlibrary(leaflet)\n\n# Define custom icons\nnato_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/blue-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\neast_asia_icon &lt;- makeIcon(\n  iconUrl = \"https://maps.google.com/mapfiles/ms/icons/red-dot.png\",\n  iconWidth = 32, iconHeight = 32\n)\n\n# Create the map\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(lng = 60, lat = 50, zoom = 3) %&gt;%\n  \n  # NATO countries (example markers)\n  addMarkers(lng = -0.1276, lat = 51.5074, popup = \"London, United Kingdom (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 2.3522, lat = 48.8566, popup = \"Paris, France (NATO)\", icon = nato_icon) %&gt;%\n  addMarkers(lng = 12.4964, lat = 41.9028, popup = \"Rome, Italy (NATO)\", icon = nato_icon) %&gt;%\n  \n  # East Asian countries (example markers)\n  addMarkers(lng = 139.6917, lat = 35.6895, popup = \"Tokyo, Japan (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 126.9780, lat = 37.5665, popup = \"Seoul, South Korea (East Asia)\", icon = east_asia_icon) %&gt;%\n  addMarkers(lng = 121.4737, lat = 31.2304, popup = \"Shanghai, China (East Asia)\", icon = east_asia_icon)",
+    "text": "interactive visuals:",
     "crumbs": [
       "Visuals",
       "NATO"
@@ -147,7 +147,7 @@
     "href": "content/about.html",
     "title": "About",
     "section": "",
-    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute. He earned his PhD in Political Science from UC San Diego in 2021.",
+    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute.",
     "crumbs": [
       "About Us"
     ]
@@ -157,7 +157,7 @@
     "href": "content/about.html#project-director",
     "title": "About",
     "section": "",
-    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute. He earned his PhD in Political Science from UC San Diego in 2021.",
+    "text": "J Andrés Gannon is an Assistant Professor of Political Science at Vanderbilt University and a Faculty Affiliate at the Data Science Institute.",
     "crumbs": [
       "About Us"
     ]
@@ -177,9 +177,19 @@
     "href": "content/about.html#financial-and-administrative-support",
     "title": "About",
     "section": "Financial and Administrative Support",
-    "text": "Financial and Administrative Support\nThe authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.\n\n\n\n\n\n\n\n\n\nROCCA",
+    "text": "Financial and Administrative Support\nThe authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.",
     "crumbs": [
       "About Us"
+    ]
+  },
+  {
+    "objectID": "index.html#military-doctrines-dataset",
+    "href": "index.html#military-doctrines-dataset",
+    "title": "Military Doctrines Dataset",
+    "section": "",
+    "text": "The Military Doctrines dataset is a catalog of over X National Security Strategy (NSS) documents spanning Y countries from T1 to T2. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv format, which you can browse or download from this website.\nThe Military Doctrines project is led by J Andrés Gannon.\n\n\n\n\n\n\n\n\n\nTaiwan NSS Word Cloud (2013)\n\n\n\n\n\n\n\nTaiwan NSS World Cloud (2023)",
+    "crumbs": [
+      "Home"
     ]
   }
 ]

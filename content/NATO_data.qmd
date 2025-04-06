@@ -1,6 +1,10 @@
 ---
 title: "NATO Data"
 editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
 ---
 
 ### interactive visuals:

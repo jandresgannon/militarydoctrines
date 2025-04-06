@@ -11,12 +11,13 @@ page-layout: full
 
 [J Andrés Gannon](https://jandresgannon.com/) is an Assistant Professor of [Political Science at Vanderbilt University](https://www.vanderbilt.edu/political-science/) and a Faculty Affiliate at the [Data Science Institute](https://www.vanderbilt.edu/datascience/).\
 
-[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:juan.gannon@vanderbilt.edu) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon) :::
+[![](images/image-913165350.png){width="69"}](https://scholar.google.com/citations?user=81aHcOgAAAAJ&hl=en) [![](images/image-597146610.png){width="46"}](https://www.linkedin.com/in/j-andres-gannon-14906850/) [![](images/image-1865313780.png){width="41"}](mailto:juan.gannon@vanderbilt.edu) [![](images/image-1960859350.png){width="43"}](https://github.com/jandresgannon)
+:::
 
 ## Research Assistants
 
 ::: {layout="[[33,33,33], [33,33,33], [33,33,33]]"}
-![Isabel Arvelo](images/arvelo_isabel.png){fig-align="center" width="200"}
+![Isabel Arvelo](images/arvelo_isabel.png){fig-align="left" width="200"}
 
 ![Sorin Caldararu](images/caldararu_sorin.png){fig-align="left" width="200"}
 
