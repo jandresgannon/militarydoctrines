@@ -5,6 +5,7 @@ website:
   navbar: true
   title: "Military Doctrines"
   favicon: images/favicon.ico
+  bread-crumbs: true
 
   page-footer:
     right: "This website is built with [Quarto](https://quarto.org/) by Isabel Arvelo, Andres Gannon, and Alexandra Sniezek."
