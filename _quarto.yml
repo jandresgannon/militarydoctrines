@@ -36,6 +36,8 @@ website:
             text: CSV
           - href: content/TXT.qmd
             text: TXT
+      - href: content/Selected_Viz.qmd
+        text: Selected Visualizations         
 
 format:
   html:

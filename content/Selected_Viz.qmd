@@ -1,0 +1,377 @@
+---
+title: "Selected Visualizations"
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
+---
+
+```{r}
+library(leaflet)
+library(dplyr)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(countrycode)
+library(DT)
+library(htmltools)
+library(leaflet)
+library(rworldmap)
+library(RColorBrewer)
+library(htmltools)
+library(crosstalk)
+library(peacesciencer)
+library(tidyverse)
+library(stringr)
+library(ggplot2)
+library(maps)
+library(ggthemes)
+library(terra)
+library(quanteda)
+library(quanteda.textmodels)
+library(quanteda.textplots)
+library(ggrepel)
+library(gghighlight)
+library(cowplot)
+library(ggtext)
+```
+
+```{r}
+all_summary_df <- read.csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
+```
+
+
+```{r}
+# Define highlighted countries
+countries_to_highlight <- c("United States", "North Korea", "Japan", "China")
+
+# Filter South Korea's view and ensure enough documents
+south_korea_view <- all_summary_df |>
+  filter(origin_country == "South Korea") |>
+  group_by(target_country) |>
+  mutate(total_docs_mentioned = n()) |>
+  filter(total_docs_mentioned > 10)
+
+# Calculate global average
+global_avg <- south_korea_view %>%
+  group_by(year) %>%
+  summarize(avg_affinity = mean(avg_directed_vader, na.rm = TRUE)) %>%
+  mutate(target_country = "Global Average")
+
+# Combine the datasets for plotting
+plot_data <- bind_rows(
+  south_korea_view %>% select(year, target_country, value = avg_directed_vader),
+  global_avg %>% select(year, target_country, value = avg_affinity)
+)
+
+# Create custom labels (USA instead of United States)
+plot_data <- plot_data %>%
+  mutate(display_name = case_when(
+    target_country == "United States" ~ "USA",
+    target_country == "North Korea" ~ "North Korea",
+    target_country == "Global Average" ~ "Global Average",
+    TRUE ~ target_country
+  ))
+
+# Create the plot
+sk_mention_plot <- ggplot(plot_data, aes(x = year, 
+                                         y = value, 
+                                         color = display_name, 
+                                         group = target_country)) +
+  geom_line() +
+  
+  # Add horizontal line at 0
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", size = 0.5) +
+  
+  # Use gghighlight to highlight specific countries
+  gghighlight(
+    target_country %in% c(countries_to_highlight, "Global Average"),
+    use_direct_label = TRUE,
+    label_params = list(
+      nudge_x = 1,
+      hjust = 0,
+      segment.color = NA
+    ),
+    unhighlighted_params = list(
+      color = "lightgray",
+      size = 0.5,
+      alpha = 0.7
+    )
+  ) +
+  
+  # Customize colors
+  scale_color_manual(
+    values = c(
+      "USA" = "#66a61e", 
+      "North Korea" = "#e6ab02", 
+      "Global Average" = "black", 
+      "China" = "#1b9e77", 
+      "Russia" = "#d95f02", 
+      "Japan" = "#e7298a"
+    )
+  ) +
+  
+  # Customize the plot
+  scale_x_continuous(breaks = seq(2000, 2022, 2), limits = c(2000, 2023)) +
+  labs(
+    title = "South Korea",
+    x = "Year",
+    y = "Affinity"
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.minor = element_blank(),
+    legend.position = "none",
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+  )
+```
+
+
+```{r}
+# Define highlighted countries
+countries_to_highlight <- c("Russia", "China", "Iran", "Japan")
+
+us_view <- all_summary_df |>
+  filter(origin_country == "United States") |>
+  group_by(target_country) |>
+  mutate(total_docs_mentioned = n()) |>
+  filter(total_docs_mentioned > 10)
+
+# Calculate global average
+global_avg <- us_view %>%
+  group_by(year) %>%
+  summarize(avg_affinity = mean(avg_directed_vader, na.rm = TRUE)) %>%
+  mutate(target_country = "Global Average")
+
+plot_data <- bind_rows(
+  us_view %>% select(year, target_country, value = avg_directed_vader),
+  global_avg %>% select(year, target_country, value = avg_affinity)
+)
+
+us_mention_plot <- ggplot(plot_data, aes(x = year, y = value, color = target_country, group = target_country)) +
+  geom_line() +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", size = 0.5) +
+  gghighlight(
+    target_country %in% c(countries_to_highlight, "Global Average"),
+    use_direct_label = TRUE,
+    label_params = list(
+      nudge_x = 1,
+      hjust = 0,
+      segment.color = NA
+    ),
+    unhighlighted_params = list(
+      color = "lightgray",
+      size = 0.5,
+      alpha = 0.7
+    )
+  ) +
+  
+  # Customize colors
+  scale_color_manual(
+    values = c(
+      "China" = "#1b9e77", 
+      "Russia" = "#d95f02", 
+      "Global Average" = "black" , 
+      "Iran" = "#7570b3", 
+      "Japan" = "#e7298a"
+    )
+  ) +
+  scale_x_continuous(breaks = seq(2000, 2022, 2), limits = c(2000, 2023)) +
+  labs(
+    title = "United States",
+    x = "Year",
+    y = "Affinity"
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.minor = element_blank(),
+    legend.position = "none",
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5)
+  )
+```
+
+## Directed Dyad Affinity Over Time 
+
+```{r fig.width=12, fig.height=6, fig.fullwidth=TRUE}
+plot_grid(sk_mention_plot, us_mention_plot, labels = "AUTO")
+```
+
+## Text Scaling 
+
+```{r}
+all_doctrine_df <- read_csv("data_copy/nss_doctrine_text.csv")
+```
+
+
+```{r}
+sk_japan_2014_plot_data <- read.csv("data_copy/sk_japan_2014_plot_data.csv")
+metadata  <- read.csv("data_copy/nss_metadata.csv")
+```
+
+
+```{r}
+show(ggplot(sk_japan_2014_plot_data, aes(x = beta, y = psi, label = word)) +
+  # First layer: non-highlighted words
+  geom_text(data = subset(sk_japan_2014_plot_data, highlight == "none"),
+            aes(color = highlight), 
+            alpha = 0.3,
+            size = 2) +
+  # Second layer: highlighted words
+  geom_text(data = sk_japan_2014_plot_data |> filter(highlight != "none"),
+            aes(color = highlight), 
+            size = 2) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black", size = 0.5, alpha = 0.5) +
+  geom_vline(xintercept = c(-2, 2), linetype = "solid", color = "grey80", size = 0.5, alpha = 0.5) + 
+  scale_color_manual(values = c("darkgreen" = "darkgreen", "blue" = "blue", "none" = "grey")) +
+  labs(
+    title = "Terms most uniquely associated with Japan and South Korea annual\ndefense strategy documents (2014)",
+    x = "Word Discriminatory Power",
+    y = "Word Frequency",
+    caption = "Select <span style='color:blue;'><b>actors</b></span> and <span style='color:darkgreen;'><b>military capabilities</b></span> highlighted."
+  ) +
+  theme_minimal() +
+  theme(
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    axis.text.y = element_blank(),
+    axis.text = element_text(size = 8),
+    axis.title = element_text(size = 10, face = "bold"),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "none",  # Remove the legend
+    axis.text.x = element_text(color = "black", face = "bold", size = 12),  
+    plot.caption = element_markdown(hjust = 0, size = 8) 
+  ) +
+  scale_x_continuous(
+    limits = c(min(sk_japan_2014_plot_data$beta), max(sk_japan_2014_plot_data$beta)),
+    breaks = c(min(sk_japan_2014_plot_data$beta), max(sk_japan_2014_plot_data$beta)),
+    labels = c("Japan\n(SDF)", "S Korea\n(MND)"),
+  ) +
+  scale_y_continuous(
+    limits = c(min(sk_japan_2014_plot_data$psi), 7),
+  ) +
+  # Add annotation for the center
+  annotate("text", x = 0, y = min(sk_japan_2014_plot_data$psi), 
+           label = "No Discrimination", 
+           hjust = 0.5, size = 2, color = "black", fontface = "italic"))
+```
+
+## New NATO State Documents 
+
+
+
+```{r}
+russia_mention_levels <- c("Albania", "Bulgaria", "Croatia", "Czech Republic", "Estonia", "Finland",         "Hungary", "Latvia", "Lithuania", "Montenegro", "North Macedonia", "Poland", "Romania", "Slovakia", 
+                           "Slovenia", "Sweden")  
+russia_merged_data <- read.csv("data_copy/new_nato_russia_mention.csv")
+russia_merged_data <- russia_merged_data %>%
+  mutate(doc_country = factor(doc_country, levels = russia_mention_levels))
+```
+
+```{r}
+nato_mention_levels <- c("Albania", "Bulgaria", "Croatia", "Czech Republic", "Estonia", "Finland",         "Hungary", "Latvia", "Lithuania", "Montenegro", "North Macedonia", "Poland", "Romania", "Slovakia", 
+                           "Slovenia", "Sweden")   
+
+nato_merged_data <- read.csv("data_copy/new_nato_russia_mention.csv")
+every_other_year <- unique(nato_merged_data $doc_year)[seq(1, length(unique(nato_merged_data$doc_year)), 2)]
+nato_merged_data <- nato_merged_data  %>%
+  mutate(doc_country = factor(doc_country, levels = nato_mention_levels))
+```
+
+
+```{r}
+russia_mentions <- ggplot(russia_merged_data , aes(x = year_position, y = doc_country, fill = normalized_mention_count)) +
+  geom_tile(color = "white", size = 0.25) +
+  scale_fill_gradientn(
+    colors = c("white", "lightblue", "#87CEEB", "blue", "darkblue", "navy"),
+    na.value = "grey",
+    limits = c(0.000, quantile(russia_merged_data$normalized_mention_count, 0.95, na.rm = TRUE)),
+    oob = scales::squish
+  ) +
+  geom_rect(data = russia_merged_data %>%
+            filter(doc_year == join_year & !is.na(join_year)) %>%
+            group_by(doc_country) %>%
+            slice_min(order_by = doc_year, n = 1) %>% 
+            distinct(),
+          aes(xmin = year_position - 0.5, xmax = year_position + 0.5,
+              ymin = as.numeric(doc_country) - 0.5, ymax = as.numeric(doc_country) + 0.5),
+          fill = NA, color = "red", size = 0.5) +
+  scale_x_continuous(breaks = which(unique(russia_merged_data$doc_year) %in% every_other_year), 
+                     labels = every_other_year) +
+  scale_y_discrete(breaks = levels(russia_merged_data$doc_country),   
+                   labels = levels(russia_merged_data$doc_country)) +  
+  theme_minimal() +
+  theme(
+    panel.grid = element_blank(),
+    axis.text.x = element_text(angle = 0, hjust = 0.5, vjust = 0.5, size = 8),
+    axis.text.y = element_text(size = 8), 
+    plot.caption = element_text(size = 8, face = "italic", hjust = 0) , 
+    legend.title = element_text(size = 8) 
+  ) +
+  labs(
+    title = "Frequency of Russia Mentions",
+    fill = "Normalized Count",
+    x = "Year",
+    y = "Country", 
+    caption = "Red cells indicate the year that state joined NATO.\nCounts normalized by mentions per 1000 words to account for differing document lengths"
+  ) +
+  coord_equal()
+```
+
+
+
+```{r}
+nato_mentions <- ggplot(nato_merged_data, aes(x = year_position, y = doc_country, fill = normalized_mention_count)) +
+  geom_tile(color = "white", size = 0.25) +
+  scale_fill_gradientn(
+    colors = c("white", "lightblue", "blue", "darkblue"),
+    na.value = "grey",
+    limits = c(0.000, quantile(nato_merged_data$normalized_mention_count, 0.95, na.rm = TRUE)),
+    oob = scales::squish
+  ) +
+  geom_rect(data = nato_merged_data %>%
+            filter(doc_year == join_year & !is.na(join_year)) %>%
+            group_by(doc_country) %>%
+            slice_min(order_by = doc_year, n = 1) %>% 
+            distinct(),
+          aes(xmin = year_position - 0.5, xmax = year_position + 0.5,
+              ymin = as.numeric(doc_country) - 0.5, ymax = as.numeric(doc_country) + 0.5),
+          fill = NA, color = "red", size = 0.5) +
+  scale_x_continuous(breaks = which(unique(nato_merged_data$doc_year) %in% every_other_year), 
+                     labels = every_other_year) +
+  scale_y_discrete(breaks = levels(nato_merged_data$doc_country),   
+                   labels = levels(nato_merged_data$doc_country)) +  
+  theme_minimal() +
+  theme(
+    panel.grid = element_blank(),
+    axis.text.x = element_text(angle = 0, hjust = 0.5, vjust = 0.5, size = 8),
+    axis.text.y = element_text(size = 8), 
+    plot.caption = element_text(size = 8, face = "italic", hjust = 0) , 
+    legend.title = element_text(size = 8) 
+  ) +
+  labs(
+    title = "Frequency of NATO Mentions",
+    fill = "Normalized Count",
+    x = "Year",
+    y = "Country", 
+    caption = "Red cells indicate the year that state joined NATO.\nCounts normalized by mentions per 1000 words to account for differing document lengths"
+  ) +
+  coord_equal()
+
+```
+
+
+```{r fig.width=14, fig.height=8,  fig.fullwidth=TRUE}
+plot_grid(russia_mentions, nato_mentions, labels = "AUTO", nrow = 2)
+```
+
+
