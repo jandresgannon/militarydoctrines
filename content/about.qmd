@@ -50,4 +50,4 @@ page-layout: full
 
 The authors are grateful to the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab for administrative and research support.
 
-![](images/rocca.png){fig-align="left" width="200"}
+![](images/stock/rocca.png){fig-align="left" width="200"}

@@ -23,3 +23,26 @@ execute:
 
 [![Github Repo](images/stock/github.png){alt="Github Repo" fig-align="left" width="55"}](https://github.com/jandresgannon/nss)
 :::
+
+```{r}
+#| eval: false
+
+library(ellmer)
+
+df <- read.csv(paste0(here::here(), "/content/data_copy/nss_doctrine_text.csv")) |>
+  dplyr::select(year, country, doc_number, doc_text)
+
+text <- df |>
+  dplyr::filter(country == "United States" & year == 2017) |>
+  dplyr::pull(doc_text)
+
+type_summary <- type_object("Summary of the article.",
+                            source = type_string('Name of the country that wrote the article and the year in which it was written'),
+                            summary = type_string("Summary of the article. One or two paragraphs max"))
+
+chat <- chat_ollama(model = "gemma3")
+
+data <- chat$extract_data(text, type = type_summary)
+cat(data$summary)
+str(data)
+```
