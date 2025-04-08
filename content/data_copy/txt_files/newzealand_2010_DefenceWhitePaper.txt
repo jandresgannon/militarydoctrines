@@ -1,0 +1,5060 @@
+# DEFENCE WHITE PAPER 2010
+
+
+-----
+
+-----
+
+## Contents
+
+Foreword from the Prime Minister 4
+
+Preface from the Minister of Defence 6
+
+**Chapter 1: Executive Summary** 9
+
+**Chapter 2: National Security and Defence** 15
+
+**Chapter 3: New Zealand’s Strategic Outlook to 2035** 23
+
+**Chapter 4: Tasks for the NZDF** 35
+
+**Chapter 5: The NZDF’s Military Capabilities** 45
+
+**Chapter 6: A People-Centred NZDF** 57
+
+**Chapter 7: Infrastructure** 67
+
+**Chapter 8: Affordability** 75
+
+**Chapter 9: Organisational Reform** 83
+
+Abbreviations 90
+
+Glossary 92
+
+Annex - Facts and Figures 96
+
+
+-----
+
+### Foreword                   
+## From the    Prime Minister  
+
+It is a great pleasure to introduce the Government’s Defence White Paper.
+
+This Government is committed to making sure New Zealand has a strong and effective
+
+defence force. That’s why, before the 2008 general election, we promised to undertake a
+
+comprehensive defence review.
+
+This White Paper delivers on that promise. It is the first White Paper we’ve had for 13 years,
+
+and it is an excellent step forward for defence policy in New Zealand.
+
+It sets out the future strategic direction for the New Zealand Defence Force, provides a
+
+framework for reform, and outlines how we can get the best value for money from our
+
+defence budget.
+
+The White Paper looks at global security, the challenges New Zealand is likely to face, and
+
+what resources and capabilities our defence force will need to protect us and advance our
+
+interests.
+
+It’s vital that we have a blueprint of the strategic and defence challenges for New Zealand
+
+over the next 25 years. Many challenges will come our way and we need to be ready to face
+
+them.
+
+For example, we are likely to see growing pressures on our maritime resources, and an
+
+increase in illegal migration attempts. Some Pacific Island states will look to us for help as
+
+instability continues there, and the strategic balance in East Asia is shifting.
+
+To meet the challenges of the future, we need to preserve, and in some cases enhance, the
+
+current capabilities of the New Zealand Defence Force.
+
+The White Paper sets out our approach to do that. In particular, it addresses the capabilities
+
+needed for operations at home and abroad — such as ground forces, self-protection, air
+
+transport, air and surface maritime surveillance, and naval combat.
+
+
+-----
+
+A key theme running through this White Paper is financial sustainability. The Government
+
+wants to get the most out of the defence budget, and put as many resources as possible into
+
+the frontline.
+
+To this end, the New Zealand Defence Force is undertaking a comprehensive redistribution
+
+and investment programme. This programme will transfer the Defence Force’s resources to
+
+the frontline and enhance its deployable military capabilities.
+
+This is important because our defence personnel serving us proudly overseas face significant
+
+challenges and risks.
+
+This Government wants to make sure that they are appropriately trained and equipped to
+
+undertake the tasks required of them, often under exceptionally difficult conditions.
+
+This White Paper provides the framework for a strong and effective Defence Force in the
+
+years ahead.
+
+Rt Hon John Key
+Prime Minister
+
+
+-----
+
+### Preface
+## From the  Minister of Defence
+
+This White Paper presents the Government’s plan for a modern Defence Force that will meet
+
+our security needs over the coming 25 years.
+
+Our future Defence Force must complete a range of roles. It must protect New Zealand’s
+
+territory and citizens. It must conduct and lead missions in the South Pacific. The Defence
+
+Force must also enable New Zealand to contribute meaningfully to regional and international
+
+security with partners and friends. The White Paper will produce a New Zealand Defence
+
+Force (NZDF) well equipped to complete all of these roles.
+
+Our Navy, Army, and Air Force serve New Zealand well. The White Paper will develop and
+
+enhance these forces. The combat effectiveness and sustainability of our land forces will be
+
+enhanced. This will allow the NZDF to deploy more troops and for longer. Our air and sea
+
+transport capabilities will be maintained and improved. We will invest in the ANZAC frigates to
+
+ensure they continue to add value to coalition operations.
+
+The White Paper will prioritise intelligence, surveillance and reconnaissance (ISR)
+
+capabilities. A new satellite imagery capability and the proposed addition of short-range
+
+maritime patrol aircraft will provide a more diverse fleet of ISR assets.
+
+The White Paper addresses financial issues in detail. Forecasts show a gap between current
+
+defence funding and projected costs. We need to plan now so that we can replace the
+
+strategic air transport and air surveillance fleets and the Naval Combat Force.
+
+NZDF resources will be redistributed to sustain and build front line capabilities. This
+
+redistribution process is already underway, led by the Chief of Defence Force. It will result in
+
+new ways of doing business.
+
+
+-----
+
+Defence requires a skilled and disciplined workforce. The NZDF’s servicemen and women
+
+have always been its greatest asset. This White Paper introduces a new approach to
+
+managing the NZDF’s workforce. The over-riding goal is to fill positions with staff who
+
+possess appropriate skills. This means employing military personnel in military roles.
+
+The Defence Review was consulted across New Zealand. Over 600 written submissions were
+
+received from individuals and organisations, including the Royal New Zealand Returned and
+
+Services’ Association. Public meetings were held across the country, and workshops were
+
+held with the wider defence community. The Government also appointed an independent
+
+panel of experts to test key assumptions underpinning the Review.
+
+This White Paper sets the overall direction for Defence over the next 25 years. Each major
+
+proposal will be fully scrutinised before approval to proceed is given. Moreover, a fresh
+
+review will occur every five years to take account of strategic, fiscal, and other developments.
+
+Hon Dr Wayne Mapp
+Minister of Defence
+
+
+-----
+
+New Zealand Defence Force personnel on patrol in Afghanistan
+
+
+-----
+
+### Chapter 1
+
+## Executive Summary
+
+#### Introduction
+
+1.1 This is the first Defence White Paper in over a decade. It is a comprehensive
+
+document, which balances the Government's policy objectives, the strategic outlook,
+
+and the fiscal context.
+
+1.2 The White Paper reflects the Defence Assessment which was earlier prepared by the
+
+Secretary of Defence. It has been shaped by extensive Ministerial consideration, and
+
+informed by public and academic consultation, and by the views of an independent
+
+advisory panel.
+
+1.3 An independent Value for Money review (VfM) led by Dr Roderick Deane
+
+complemented the process. So, too, did separate Companion Studies on
+
+New Zealand’s Defence Industry, Voluntary National Service, and the role of the
+
+New Zealand Defence Force (NZDF) in Youth Programmes and the New Zealand
+
+Cadet Force.
+
+#### New Zealand's national security and defence
+
+1.4 Acting in a lead role or in support of other New Zealand agencies, Defence contributes
+
+to the following national security interests:
+
+   - a safe and secure New Zealand, including its border and approaches;
+
+   - a rules-based international order which respects national sovereignty;
+
+   - a network of strong international linkages; and
+
+   - a sound global economy underpinned by open trade routes.
+
+
+-----
+
+1.5 In a sometimes violent world there will be occasions when the use of military force is
+
+appropriate. It is likely that New Zealand would consider the possible use of military
+
+force in the following circumstances:
+
+   - in response to a direct threat to New Zealand and its territories;
+
+   - in response to a direct threat to Australia;
+
+   - as part of collective action in support of a member of the Pacific Islands Forum
+
+facing a direct threat;
+
+   - as part of New Zealand's contribution to the Five Power Defence Arrangements
+
+(FPDA);[1] or
+
+   - if requested or mandated by the United Nations (UN), especially in support of
+
+peace and security in the Asia-Pacific region.
+
+1.6 It is also likely that ad hoc coalitions prepared to use force in response to security
+
+concerns will arise in the future, and that New Zealand might be asked to contribute.
+
+The Government would consider a range of factors in determining the possible scale
+
+and nature of any such contribution.
+
+1.7 An international order based on values to which New Zealand is sympathetic has been
+
+of lasting benefit to us. Bilateral relationships, treaty commitments, and activities
+
+mandated by the UN are central to New Zealand’s security. We also benefit from other
+
+linkages which build confidence and are consistent with the rule of international law.
+
+Sustaining such a range of international linkages involves obligations and takes effort.
+
+#### New Zealand's strategic outlook to 2035
+
+1.8 The next 25 years are likely to be more challenging than the 25 years just past.
+
+1.9 The rules-based international order is under pressure. Key international institutions are
+
+struggling to forge consensus on a range of trans-boundary issues. Economic weight is
+
+shifting. New military technologies are emerging and the threat of proliferation is
+
+growing. Terrorism is a continuing challenge to state authority.
+
+1.10 New Zealand and its associated states are highly unlikely to face a direct military threat
+
+over the next 25 years. But increased pressure on maritime resources and an
+
+increased risk of illegal migration are likely.
+
+1.11 The outlook for the South Pacific is one of fragility. The resilience of Pacific Island
+
+states and the effectiveness of regional institutions will remain under pressure. With
+
+Australia, which will remain our most important security partner, we will continue to play
+
+1
+The Five Power Defence Arrangements (FPDA) provide a framework for defence co-operation
+between Australia, Malaysia, New Zealand, Singapore and the United Kingdom, and came into
+being on 1 November 1971.
+
+
+-----
+
+a leadership role in the region, acting as a trusted friend to our South Pacific
+
+neighbours.
+
+1.12 The United States (US) is likely to remain the pre-eminent military power for the next 25
+
+years, but its relative technological and military edge will diminish. Tensions related to
+
+the Korean Peninsula, Taiwan and the South China Sea will continue, as will pressure
+
+points in South and Southeast Asia. Security structures in the Asia-Pacific region will
+
+continue to evolve. The Middle East will remain a region of instability.
+
+#### Tasks for the NZDF
+
+1.13 Our security interests and the strategic outlook suggest that the principal tasks for the
+
+NZDF over the next 25 years will remain much as they have been, but potentially with
+
+intensified demands.
+
+1.14 Tasks in and around New Zealand and the South Pacific will be the starting point for
+
+choosing the military capabilities of the NZDF. This means, with Australia, being able
+
+to deal with any reasonably foreseeable contingency in the South Pacific.
+
+1.15 The capabilities required for the range of possible operations in our near region would
+
+also allow us to make a credible contribution to stability in Asia, as well as further afield.
+
+1.16 The NZDF will need to remain interoperable with our principal partners. It will also need
+
+to be deployable, sufficiently self-reliant, versatile, and adaptable. Our international
+
+interests mean that the NZDF will retain the ability to contribute combat capabilities
+
+when required. [2]
+
+#### The NZDF’s military capabilities
+
+1.17 This White Paper sets out a pathway to retain and enhance existing NZDF capabilities
+
+so it can perform the tasks expected of it to 2035.
+
+1.18 To conduct such tasks, the NZDF will focus on deployable ground forces, strategic
+
+projection and logistic capacity, network-enabled intelligence, surveillance and
+
+reconnaissance capabilities, and capabilities able to fulfil a credible combat role.
+
+1.19 It is proposed that the combat effectiveness, protection, sustainability, and mobility of
+
+land forces be improved, and that the critical enabling capabilities of long-range air and
+
+sea transport be maintained. These measures will allow the NZDF to deploy more
+
+troops on overseas operations, and for longer.
+
+2
+‘Capability’ is used to describe the personnel, equipment, platforms and/or other matériel that
+affect the capacity to undertake military operations.
+
+
+-----
+
+1.20 It is also proposed that naval combat capabilities be upgraded, to ensure that the
+
+ANZAC frigates continue to provide a valued contribution to coalition operations. Short
+range maritime patrol aircraft and satellite imagery are also part of the proposed force
+
+structure, to enhance New Zealand's domestic and regional border and maritime
+
+resource protection capability.
+
+1.21 The result will be a future force structure which will see the NZDF retain and enhance
+
+its current mix of capabilities, enabling it to operate in places similar to where it is today,
+
+alongside current partners and friends.
+
+1.22 Major capabilities such as air transport, maritime air surveillance, and naval combat
+
+(currently provided by the C-130 and P-3 aircraft and the two ANZAC frigates) will be
+
+replaced at the end of their life.
+
+#### A people-centred NZDF
+
+1.23 Heavy demands are placed on those in uniform. The NZDF must therefore continue to
+
+recruit people who are dedicated to service. It must train, retain, and develop them. It
+
+must provide support for their safety and welfare, especially on operations. And it must
+
+do these things in ways which are cost-effective and which anticipate the demands of
+
+tomorrow.
+
+1.24 The NZDF will adopt a 'Total Defence Workforce' approach, better matching positions
+
+to skills, and enabling smooth transitions between uniformed, civilian, full-time, part
+time, and private sector positions. The NZDF will also civilianise a significant number of
+
+posts currently filled by uniformed personnel who are not required to deploy
+
+operationally, thereby enabling it to shift uniformed personnel to the front of the
+
+organisation.
+
+1.25 The State Services Commission and Treasury will help ensure that NZDF remuneration
+
+policies and practices, including allowances, are consistent with best practice in the
+
+state sector.
+
+1.26 A review of the most cost-effective way for the Reserves to support NZDF operations
+
+will be presented in early 2011.
+
+#### Infrastructure
+
+1.27 This White Paper provides for a smaller, modernised and upgraded Defence estate,
+
+increased investment in routine maintenance, and a Defence-wide ICT (Information,
+
+and Communications Technology) strategic plan. These initiatives will reduce
+
+duplication and improve the focus of infrastructure investment.
+
+
+-----
+
+1.28 The Defence estate will be overhauled, with a particular focus on consolidating bases
+
+(particularly by creating a joint Army and Air Force facility at Ohakea), optimising
+
+facilities and off-base housing (including by accelerating the sale of surplus stock), and
+
+exploring Public Private Partnerships.
+
+1.29 Investment in corporate ICT systems will be essential to improving organisational
+
+performance and achieving savings, especially in logistics, human resources, and
+
+finance areas. This will be a particular focus of strategic leadership in the period ahead.
+
+#### Affordability
+
+1.30 The various initiatives set out in this White Paper will require additional operating and
+
+capital spending in order to maintain and enhance front line capabilities and
+
+infrastructure.
+
+1.31 Given the Government's overall fiscal strategy, the NZDF will need to play its part over
+
+the long run to find the funding needed, by reprioritising and reallocating existing
+
+resources, and by prioritising the capability programme.
+
+1.32 NZDF resources will be redistributed to sustain and build front line capabilities. This
+
+redistribution process is already underway, led by the Chief of Defence Force (CDF).
+
+The Government expects that by 2014/15 the NZDF will free up $100 million from
+
+the Defence Transformation Programme and $250 million to $300 million from
+
+other VfM initiatives, on an annual recurring basis, for front line capabilities.
+
+1.33 Cabinet will be presented with a detailed business case for each significant capital
+
+acquisition before it is finally approved. This means that Ministers will have
+
+opportunities at various steps in the process to test the need and composition of each
+
+proposed acquisition against the strategic and fiscal context.
+
+#### Organisational reform
+
+1.34 The organisational management of the NZDF will be improved by strengthening the
+
+authority and accountability of the CDF in his role as chief executive. A new position of
+
+Chief Operating Officer will be established to support the CDF in the organisational
+
+management of the NZDF and in the realisation of the Government’s affordability
+
+objectives.
+
+1.35 The Ministry of Defence and the NZDF will in future work together more closely on a
+
+wider range of tasks, including the whole-of-life management of military capabilities.
+
+The Secretary of Defence and CDF will be accountable for putting in place new
+
+organisational arrangements to achieve this. An independent Defence Advisory Board
+
+appointed by the Minister of Defence will also be established.
+
+
+-----
+
+1.36 Information management will be enhanced and a new regime for the free exchange of
+
+information between the two organisations will be mandated and introduced.
+
+1.37 The Ministry’s policy and evaluation functions will be strengthened to enable it to
+
+undertake the wider range of tasks which will be expected of it.
+
+#### Conclusion
+
+1.38 The uncertain strategic outlook underscores the need for an NZDF which is responsive,
+
+versatile, and professional, able to conduct the range of tasks set for it by the
+
+Government, particularly in the South Pacific but also alongside partners and friends
+
+further afield. The fiscal outlook requires an NZDF which is affordable now and in the
+
+future.
+
+1.39 The capability pathway which has been mapped out in this White Paper is an
+
+appropriate response to the strategic context. It will put the NZDF on a sustainable
+
+growth trajectory, and takes proper account of New Zealand's fiscal circumstance.
+
+New Zealand Defence Force P-3 Orion patrolling the New Zealand Exclusive Economic Zone
+
+
+-----
+
+### Chapter 2
+
+## National Security and Defence 
+
+2.1 This chapter sets out the national security interests which shape New Zealand’s
+
+Defence policy. These interests are enduring. They are not affected by daily concerns
+
+but change only slowly. They reliably guide the way in which Defence responds to
+
+security challenges and opportunities.
+
+2.2 The content of this chapter needs to be read alongside the strategic outlook which
+
+follows. Taken together, these two chapters inform the tasks which the Government
+
+expects the NZDF to be able to perform over the next 25 years, and the capabilities it
+
+will require to do so.
+
+#### Security interests and the role of Defence
+
+2.3 Acting in a lead or supporting role, Defence makes a particular contribution to the
+
+following national security interests:
+
+   - a safe and secure New Zealand, including its border and approaches;
+
+   - a rules-based international order which respects national sovereignty;
+
+   - a network of strong international linkages; and
+
+   - a sound global economy underpinned by open trade routes.
+
+2.4 The NZDF is the only agency of state that maintains disciplined forces available at short
+
+notice and that operates large-scale and integrated fleets of vehicles, ships, and
+
+aircraft. It is therefore able to undertake or support a range of tasks, including maritime
+
+resource protection, humanitarian assistance and disaster relief, and search and
+
+rescue, as part of a whole-of-government effort directed by civil authorities.
+
+2.5 But the core task of the NZDF is to conduct military operations.
+
+
+-----
+
+2.6 In a sometimes violent world there will be occasions when the use of military force is
+
+appropriate. Although situations and requests need to be carefully weighed, it is likely
+
+that New Zealand would consider the use of military force in the following
+
+circumstances:[3]
+
+#### • in response to a direct threat to New Zealand and its territories;
+
+ • in response to a direct threat to Australia;
+
+ • as part of collective action in support of a member of the Pacific Islands Forum
+
+facing a direct threat;
+
+#### • as part of New Zealand’s contribution to the FPDA; or
+
+ • if requested or mandated by the UN, especially in support of peace and security
+
+in the Asia-Pacific region.
+
+2.7 It also seems likely that ad hoc coalitions prepared to use force will arise in the future,
+
+and that New Zealand might be asked to contribute. The possible scale and nature of
+
+such a contribution would depend on our assessment of the merits; the extent to which
+
+New Zealand’s interests were directly involved; the international legality; the conditions
+
+on the ground; and whether we would be acting in the company of like-minded states.
+
+#### A safe and secure New Zealand 
+
+2.8 It is the fundamental duty of any New Zealand Government to protect the territorial
+
+integrity and resources of New Zealand; to meet our constitutional obligations to the
+
+Cook Islands, Niue, and Tokelau; and to maintain New Zealand’s right of sovereignty in
+
+the Ross Dependency.[4]
+
+2.9 In the highly unlikely event of a direct threat to our territory or seas by a hostile state,
+
+the NZDF would be called upon to respond. It would be expected to provide at least a
+
+level of deterrence sufficient for New Zealand to be able to seek international
+
+assistance if required.
+
+2.10 A safe and secure New Zealand also includes a domestic environment in which those
+
+living here can conduct their business with confidence. In support of this, the NZDF
+
+undertakes a range of domestic security tasks. These include counter-terrorism and
+
+bomb disposal, and extend to providing a national capability to support domestic
+
+agencies in times of need, such as natural disasters.[ 5]
+
+3
+See also section 5 of the Defence Act 1990.
+4
+This was supported by the majority of respondents to the public consultation.
+5
+See section 9 of the Defence Act 1990.
+
+
+-----
+
+2.11 Ninety-six percent of New Zealand lies underwater, if our extended continental shelf is
+
+included. Our Exclusive Economic Zone (EEZ) contains rich marine resources, and
+
+further valuable resources may be contained in the seabed. We need to ensure that
+
+entry and exit to our territory, and the exploitation of New Zealand’s resources, are by
+
+legal means only. The NZDF contributes to these security objectives through its
+
+surveillance efforts and interdiction capabilities.
+
+#### A rules-based international order
+
+2.12 Physical isolation remains New Zealand’s principal source of protection against direct
+
+military threats from another state. It also offers some protection from non-state
+
+challenges. But New Zealanders recognise that distance is not insulation, especially
+
+given globalisation and technological reach. New Zealand’s security is therefore
+
+underwritten by working with others to reinforce the norms of state sovereignty.
+
+2.13 A rules-based international order based on values sympathetic to New Zealand’s own
+
+constitutional and legal heritage has been of lasting benefit to us. Such values include
+
+the primacy of the rule of law, constraints on the unilateral exercise of force, and
+
+extending the same rights and responsibilities to all nations regardless of size or
+
+allegiance. We therefore want the current rules-based order to continue as the basis of
+
+inter-state relations.
+
+2.14 There are obligations associated with belonging to this rules-based international order,
+
+including being willing to play a constructive role in preventing or resolving conflict. War
+
+between states, while increasingly uncommon, does remain a feature of the
+
+international strategic environment. New Zealand therefore supports institutions and
+
+arrangements which reinforce global stability and which bring states together to resolve
+
+conflict peacefully.
+
+
+-----
+
+2.15 New Zealand’s defence contributions in this context include support for collective
+
+security, participating in peacekeeping and stabilisation activities, and working
+
+alongside others in various multilateral and plurilateral settings to limit the risks of
+
+terrorism and proliferation.
+
+2.16 The UN is the principal source of legitimacy for the use of force in international affairs,
+
+either through UN-led operations or through operations authorised by the UN but led by
+
+others. It is in our interest to support the UN in its efforts to maintain international
+
+peace and security (an interest which has seen the NZDF deployed to conflicts across
+
+the globe, in locations as far flung as Bosnia and Somalia).
+
+#### Strong international linkages
+
+2.17 New Zealand’s security is also enhanced by maintaining a variety of international
+
+linkages, including bilateral relationships with like-minded states. Such relationships
+
+help to reinforce shared international norms and amplify New Zealand’s reach and
+
+influence. They thus benefit New Zealand. But they also bring with them expectations,
+
+including being willing to play our part to advance shared security objectives.
+
+2.18 Most notably, New Zealand has longstanding and close security partnerships with
+
+Australia, the US, the United Kingdom, and Canada.[6]
+
+2.19 These partnerships are grounded in common traditions, experiences, and values. They
+
+are maintained and strengthened by dialogue, personnel exchanges, training,
+
+exercises, technology transfer, intelligence sharing, and the application of military
+
+doctrine. They are made concrete by the sharing of risk in operations around the globe.
+
+These various connections magnify the capabilities of the NZDF and will remain
+
+valuable to New Zealand in the future.
+
+2.20 Australia is our principal defence and security partner. We have no better friend and no
+
+closer ally. A wide range of political, economic, social, and security connections
+
+underpin what has become a common trans-Tasman space. We would therefore
+
+immediately respond to any direct attack on Australia.
+
+2.21 New Zealand’s own security is enhanced by the investment which Australia has made
+
+in its national defence. Australia has military capabilities that we do not have, but which
+
+are essential for higher-end contingencies. The ANZAC relationship enhances the
+
+overall depth and reach of the NZDF. It is therefore in our interest to add to Australia’s
+
+strategic weight.
+
+6
+This was recognised by the majority of respondents to the public consultation.
+
+
+-----
+
+2.22 Our security also benefits from New Zealand being an engaged, active, and stalwart
+
+partner of the US. The recent US review of bilateral defence relations was welcome.
+
+Consistent with the many interests and values shared by New Zealand and the US,
+
+there has been a steady increase in military contact and co-operation between us.
+
+2.23 It is in New Zealand’s interests to play a leadership role in the South Pacific for the
+
+foreseeable future, acting in concert with our South Pacific neighbours. A weak or
+
+unstable South Pacific region poses demographic, economic, criminal, and reputational
+
+risks to New Zealand. Active and stabilising involvement by New Zealand in the region,
+
+and our readiness to respond to natural disasters and humanitarian crises, is something
+
+which New Zealanders and the wider international community expect.[7] It will remain in
+
+our interests for Pacific Island states to view New Zealand as a trusted member and
+
+friend of the Pacific community.
+
+2.24 Peace and security in East Asia rests significantly on the actions of the major powers.
+
+Of these, China, Japan, Korea, and the US are pivotal — and all are important
+
+relationships for New Zealand. Our interests are best served by a region in which all
+
+countries and especially the major powers agree on the importance of stability and
+
+prosperity, and share a common understanding of how these goals should be secured.
+
+We contribute to that stability and prosperity, including by working alongside partners
+
+and friends in structures such as the FPDA, the ASEAN Regional Forum, and the
+
+ASEAN Defence Ministers’ Meeting-Plus.
+
+2.25 Bilateral relationships, treaty commitments, and activities mandated by the UN are thus
+
+central to New Zealand’s security, but we also benefit from other linkages which build
+
+confidence and are consistent with the rule of international law. Most of the security
+
+structures to which we belong or aspire are in our own region, but New Zealand’s new
+
+and strengthening connection with the North Atlantic Treaty Organisation (NATO) is
+
+also of value to us.
+
+2.26 Sustaining such a range of international linkages takes effort. We must be prepared to
+
+recognise and understand the interests and perspectives of partners and friends both
+
+old and new. We must be prepared to contribute to the protection and advancement of
+
+shared objectives. And we must do these things in ways which reflect the values and
+
+long-term interests of New Zealand.
+
+#### Open trade routes
+
+2.27 The Government is committed to promoting trade and open markets as the most
+
+effective way to improve the prosperity of New Zealanders. A key focus for both the
+
+7
+Ninety-one submissions to the public consultation process saw the South Pacific as our second
+international defence relations priority, after Australia.
+
+
+-----
+
+Government and the private sector is on improving market access and reducing
+
+regulatory barriers to trade.
+
+2.28 Reliable access to global markets requires a stable international order. As much as
+
+ninety-nine percent of New Zealand’s exports of merchandise goods (by volume) travel
+
+by sea. Our economic outlook would thus be adversely affected by any physical
+
+disruption to the security of international trade, whether through civil disorder, piracy, or
+
+inter-state conflict.
+
+2.29 We therefore have a national interest, additional to our role as a good regional and
+
+international citizen, in supporting efforts to safeguard freedom of commerce and
+
+navigation. This is particularly the case in Southeast Asia where as much as a quarter
+
+of the world’s commerce passes through the Straits of Malacca each year, but also in
+
+the Middle East and the Horn of Africa, where sea lines of communication are more
+
+vulnerable.
+
+#### Magnifying the national security effort
+
+2.30 New Zealand does not currently have a formal national security policy, but the
+
+Government intends to address this. Work on developing a comprehensive national
+
+security framework, led by the Department of Prime Minister and Cabinet, is already
+
+underway.
+
+2.31 The NZDF and the Ministry of Defence are not the only organisations contributing to
+
+national security. Many agencies support what must necessarily be a whole-of
+government effort, often involving central co-ordination at the highest level. It is in our
+
+national interest to use scarce resources optimally, to keep core skills in good order by
+
+applying them to a range of tasks, and to amplify the efforts of agencies by expecting
+
+them to co-operate to the greatest extent possible.
+
+
+-----
+
+2.32 The table below provides a broad sense of how the NZDF supports the work of other
+
+government agencies both at home and abroad.
+
+#### Conclusion
+
+2.33 New Zealand’s prosperity and our success as a nation depend on safety and security at
+
+home and a resilient rules-based international order that serves our wider interests.
+
+2.34 New Zealanders expect to conduct their domestic and international business with
+
+confidence, free from fear. The NZDF has a role to play in guaranteeing that freedom
+
+— by working with other agencies to protect our territory, our maritime domains, and
+
+our resources; by providing domestic security and disaster relief capabilities; by
+
+contributing to international order and international linkages; by supporting the
+
+conditions necessary for our global trade; and by carrying out these tasks in a way
+
+which is consistent with its constitutional responsibilities.
+
+2.35 The national security interests identified in this chapter are enduring. They will remain
+
+central to New Zealand as an independent nation state no matter what changes might
+
+occur in the international order. As such, they are of fundamental importance in helping
+
+to define what will be expected of the NZDF over the next 25 years.
+
+
+-----
+
+Royal New Zealand Navy personnel in an ANZAC frigate operations room
+
+
+-----
+
+### Chapter 3
+
+## New Zealand’s Strategic Outlook to 2035 
+
+3.1 Decisions on how much we choose to invest in Defence, and on what priorities, must
+
+also be determined by the likely level of strategic risk. We therefore need to have a
+
+clear view of how the international environment might evolve in the years to 2035.
+
+3.2 The central theme of this chapter is that of an increasingly uncertain strategic outlook.
+
+The international order which has served us well is under pressure, and it seems likely
+
+that the next 25 years will be more challenging than the 25 years just past.  It is not
+
+only the direct impact of such uncertainty on New Zealand that we need to consider.
+
+There will also be an impact on our neighbours, and on our wider international interests.
+
+It is this range of challenges that the NZDF must be ready to meet.
+
+3.3 The underlying resilience of the international system and of the state should not be
+
+under-estimated. Tectonic shifts in global power tend to be slow. But nor should the
+
+challenges likely to be thrown up in the next 25 years be taken lightly. The issues
+
+discussed below have been selected on the basis of relevance to New Zealand,
+
+magnitude of risk, and likelihood.
+
+3.4 The structure of this chapter echoes that of chapter two. It surveys the overarching
+
+security context and then examines the future strategic environment in the light of the
+
+four enduring national security interests to which Defence especially contributes.
+
+#### Overarching security context
+
+3.5 The underlying stability and predictability which has characterised international relations
+
+since at least the end of the Cold War is now being tested. Economic weight is shifting.
+
+New technologies are emerging, capable of narrowing some aspects of the military
+
+advantage enjoyed by New Zealand’s traditional partners. And the state itself is being
+
+
+-----
+
+challenged by non-state actors fuelled by hostile ideologies and able to harness
+
+asymmetric means of attack.
+
+##### Shifts in economic power
+
+3.6 Recent years have seen a major shift in the distribution of global economic power.
+
+China is now the world’s second-largest economy, and although it is many years away
+
+from overtaking the US as the largest economy, the global financial crisis has
+
+accelerated the speed of this shift.
+
+3.7 China’s growth is only one aspect of a much broader trend. Economies in North
+
+America, Europe, and Japan have grown slowly (or in some cases shrunk) in recent
+
+years, whilst economies in Asia, Latin America, and the Middle East have become more
+
+significant. Russia’s economy has also seen substantial growth over the past decade,
+
+fuelled by the boom in energy prices.
+
+3.8 The economic growth witnessed in these states is to be welcomed as it underpins
+
+increased prosperity and social progress, and presents trade and economic
+
+opportunities for New Zealand. It also carries a potential security benefit. The world’s
+
+population is projected to reach 9.3 billion by 2050 (up from 6.8 billion currently). Rising
+
+national wealth can help to mitigate potential increases in social tensions and resource
+
+pressures as population growth becomes ever more concentrated in the urbanised
+
+developing world.
+
+3.9 These shifts in economic power are not superficial but structural. Although the US
+
+economy is likely to show more resilience than many expect, and the strength of
+
+China’s economic growth will ebb and flow, the relative shift in economic weight is
+
+expected to continue. This will have implications for the distribution of global military
+
+power, as those states with growing economies are able to allocate more resources to
+
+military spending.
+
+##### Narrowing the military advantage gap
+
+3.10 Just as the economic gap between key states is narrowing so it is likely that the
+
+proliferation of chemical, biological, radiological, and nuclear technologies will narrow
+
+parts of the military advantage gap between major and aspiring powers.
+
+3.11 Over the next 25 years, the number of states with access to weapons of mass
+
+destruction (WMD) will increase. The international nuclear non-proliferation regime,
+
+centred on the Nuclear Non-Proliferation Treaty (NPT), will remain under strain as a
+
+result, its relevance increasingly tested. Access to dual-use technology will also rise,
+
+increasing the number of states with a latent WMD capability.
+
+
+-----
+
+3.12 Other technologies such as new generation anti-ship missiles also have the potential to
+
+close parts of the military advantage gap.
+
+3.13 The spiralling cost of modern military capabilities is a related trend. Only wealthy
+
+countries or those which put a high premium on military spending will be able to field
+
+the latest technologies, with implications for the ability of like-minded countries to
+
+remain interoperable.
+
+3.14 The threat of cyber attacks will continue to grow, with potentially crippling
+
+consequences. Critical national infrastructure is increasingly reliant on web-based
+
+information and communication networks for its effective operation. Modern defence
+
+forces and intelligence services are integrated into these networks.
+
+3.15 State actors already possess the capability to conduct remote cyber attacks. This trend
+
+is likely to increase, and could reduce the comparative advantage held by developed
+
+states over their competitors. If New Zealand does not keep up with the pace of
+
+change in this area there is a risk that we could become a weak link in the shared effort
+
+to deter hostile cyber intrusions.
+
+3.16 These various technologies and trends are expected to increase the level of
+
+international tension but need not necessarily result in conflict. A widely (but not
+
+universally) shared interest in global stability will continue to shape state behaviour.
+
+Moves to develop and strengthen regional political and security architectures will also
+
+offer a way of mitigating the risks. And non-proliferation efforts inside the NPT — and
+
+outside the NPT but within the framework of international law (for example, the
+
+Proliferation Security Initiative)[8] — are likely to continue.
+
+3.17 On balance, however, the international community seems poised on the edge of a new
+
+and potentially more unpredictable age of proliferation, accentuated by emerging
+
+military technologies.
+
+##### Challenges from weak states and terrorism
+
+3.18 Terrorism is a direct threat to human security and a test to state authority. Many states
+
+are sufficiently robust to withstand such challenges — the system of government in the
+
+US and the UK was not put at risk by the attacks of 11 September 2001 or 7 July 2005,
+
+although anxiety was heightened — but there are other states which are less resilient.
+
+3.19 Weaker states will continue to provide havens for terrorists, either with or without the
+
+consent of such local authorities as may exist. The prospect of renewed state failure in
+
+8 The Proliferation Security Initiative (PSI) is a global effort that aims to stop trafficking of weapons
+of mass destruction, their delivery systems, and related materials to and from states and nonstate actors of proliferation concern.
+
+
+-----
+
+Afghanistan, and the potential return of Al Qaida and the export of terrorism, will
+
+continue to be a risk to the international system. Preventing this will remain a principal
+
+reason for New Zealand’s involvement there, alongside others in the international
+
+community.
+
+3.20 Although international action against terrorist activity has had some success on a range
+
+of fronts — military, financial, transport, trade, commercial — it seems likely that
+
+terrorism will remain a pervasive feature of the international landscape for the
+
+foreseeable future, and a continuing challenge to the authority of the state.  The risk of
+
+WMD falling into terrorist hands cannot be ruled out in the coming decades, and would
+
+raise the stakes markedly. Hostile non-state actors will also seek to exploit whatever
+
+comparative advantage they can from cyber-warfare capabilities.
+
+#### A safe and secure New Zealand
+
+3.21 Although New Zealand’s land, maritime, and air domains are not expected to face a
+
+direct military threat over the next 25 years, we will nevertheless continue to face the
+
+risk of illegal incursions within our own territorial spaces and those of the Cook Islands,
+
+Niue, and Tokelau.
+
+##### Resource pressures
+
+3.22 As the world’s population increases, resources (water, food, energy and minerals) are
+
+likely to become scarce in some regions, leading to increased competition for their
+
+allocation.
+
+3.23 The world as a whole is expected to have enough food and water to supply this growing
+
+population, but the uneven distribution of these key resources and others is likely to
+
+generate strategic tensions. Protection of the resources in New Zealand’s maritime
+
+region is already a priority and will become more so.
+
+3.24 Recent years have seen increased attempts at illegal fishing and other illegal resource
+
+extraction in the EEZs of New Zealand and its associated states. This trend will
+
+continue over the next 25 years, especially as New Zealand may have one of the few
+
+remaining sustainable fisheries. At worst it would involve the military presence of
+
+another state in or near our EEZ, although this risk is not seen as likely.
+
+3.25 Given the pressures which neighbouring fisheries are expected to come under, we will
+
+continue with our efforts to implement monitoring, control, and surveillance regimes
+
+within various regional fisheries management and conservation organisations.
+
+
+-----
+
+##### Unregulated movement of people
+
+3.26 Another potential concern is the unregulated movement of people into New Zealand,
+
+whether asylum seekers, illegal migrants, or criminal elements. The likelihood of more
+
+such people reaching our shores is increasing.
+
+##### Terrorism
+
+3.27 Because of our geographic isolation, sea border, and relatively small international
+
+footprint, the possibility of a terrorist attack on New Zealand is likely to remain lower
+
+than in other western states but will rise if we are seen as an easy target.
+
+##### Antarctica 
+
+3.28 The Antarctic Treaty System is in good order, but there is heightened interest in
+
+Antarctica’s resources, including the fisheries of the adjacent Southern Ocean where
+
+competition can be expected to intensify.
+
+3.29 It will remain in our interest for the Antarctic Treaty System, which seeks to ensure that
+
+Antarctica shall not become the ‘scene or object of international discord’, to remain
+
+credible, relevant, and effective.
+
+#### A rules-based international order
+
+3.30 The post-war international system — including the UN, the World Trade Organisation
+
+and the Bretton Woods international financial institutions — has served New Zealand
+
+well for several generations. But supporters of the system are now struggling to forge
+
+consensus amongst its diverse membership on a range of trans-boundary issues.
+
+3.31 This is not new. The use of the veto in the UN Security Council, and tensions between
+
+developed and developing countries, have long been features of bodies such as the
+
+UN. But the difficulty of securing a common response to shared problems has
+
+increased as membership numbers have risen, as issues have become more complex,
+
+and as economic development has become central to the debate.
+
+3.32 Many of the trans-boundary challenges listed in this chapter — proliferation, terrorism,
+
+the emergence of new technologies, illegal resource extraction, the unregulated
+
+movement of people — will continue to prove difficult for the international community to
+
+manage. So too will climate change, which has the potential to exacerbate existing
+
+tensions and pressures and create new fracture lines, increasing the risk of conflict both
+
+within states and between them.
+
+
+-----
+
+3.33 These challenges, tensions, and pressures might be felt most acutely in developing
+
+countries (including those in the South Pacific) which are more easily exploited and
+
+which lack internal resilience. But the forces of globalisation and inter-connectedness
+
+are such that New Zealand will not automatically be immune.
+
+3.34 Notwithstanding the difficulty it faces in grappling with trans-boundary issues, the UN
+
+will remain the pre-eminent body for maintaining international peace and security. The
+
+number of international peacekeeping interventions mandated (although not necessarily
+
+led) by the UN has increased substantially and this trend is likely to continue.
+
+New Zealand will continue to be looked to by the UN as a troop-contributing nation.
+
+#### Strong international linkages
+
+##### Australia
+
+3.35 Australia will remain New Zealand’s most important security partner. Closer Defence
+
+Relations will continue to be central to New Zealand’s security interests, and we will
+
+continue to work closely with Australia in areas such as training, combined exercises,
+
+logistic support, intelligence sharing, and capability development.
+
+3.36 We will continue to work as a partner with Australia in maintaining peace and security
+
+especially in the South Pacific.
+
+3.37 New Zealand will also work closely with Australia to identify areas of common interest in
+
+ensuring peace and security beyond our region. At times this might mean that
+
+New Zealand will combine with Australia in an extra-regional action.
+
+3.38 The significant differences between the defence forces of Australia and New Zealand
+
+are likely to grow over the next 25 years as Australia continues to invest more heavily in
+
+high-end military capabilities.
+
+##### United States
+
+3.39 Notwithstanding shifts in the international strategic balance, the US is expected to
+
+remain the pre-eminent military power in the world over the next 25 years and a close
+
+security partner of New Zealand. Other powers may test its regional preponderance but
+
+only the US will retain a truly global military reach. It will continue to anchor NATO and
+
+a host of other bilateral and regional security arrangements.
+
+3.40 Although the US will remain absolutely powerful, its technological and military edge will
+
+diminish as other states seek to catch up. The costs of maintaining even this
+
+diminishing technological edge will continue to rise.
+
+
+-----
+
+3.41 The success of most major international military coalitions will continue to depend on
+
+US involvement. It is likely, however, that the US may look to reduce its discretionary
+
+international commitments, increasingly expecting partners to share more of the
+
+security and stabilisation load.
+
+##### South Pacific
+
+3.42 Today, many Pacific Island states face chronic social, economic, environmental, and
+
+governance stresses. Few countries in the region can claim to have mastered the
+
+difficult challenges of globalisation, and the cumulative nature of these stresses means
+
+that the outlook for the South Pacific over the next 25 years is one of fragility.
+
+3.43 The people of the South Pacific will remain open and optimistic but they have few
+
+strategic resources to fall back on, and their control over those resources is being
+
+tested. It is therefore likely that the resilience of Pacific Island states and the
+
+effectiveness of regional institutions will remain under pressure.
+
+3.44 Along with Australia, we will continue to contribute to stability, capacity strengthening
+
+and economic development, regional maritime surveillance, search and rescue,
+
+humanitarian aid, and disaster relief when required. In pursuing these objectives, we
+
+will work with France in the context of FRANZ;[9] with the countries of the Pacific Islands
+
+Forum (PIF) in the context of the PIF Pacific Plan and the Biketawa Declaration; and
+
+with a range of development partners.
+
+3.45 Many more outside countries and non-governmental organisations are now involved in
+
+the South Pacific. This trend is likely to continue. Much of this involvement is
+
+constructive and co-operative, but it may test our continuing ability, alongside Australia,
+
+to remain at the forefront of international efforts to support Pacific Island states. Very
+
+little of this external involvement is expected to have a military dimension, other than
+
+offers of defence co-operation.
+
+3.46 The fragility of the South Pacific may lead to a more complex operating environment for
+
+the NZDF in the future. Our military engagement with the region will be most effective if
+
+it enjoys the consent and support of the receiving state. This places a premium on
+
+New Zealand working hard, including through the NZDF, to remain a trusted friend to
+
+Pacific Island states.
+
+3.47 The problems facing Pacific Island states are even more acute in neighbouring Timor
+Leste. The Government of Timor-Leste is likely to continue to require substantial
+
+9
+The FRANZ Statement, signed by representatives of the Governments of France, Australia and
+New Zealand in December 1992, commits its signatories to ‘exchange information to ensure the
+best use of their assets and other resources for relief operations … in the [South Pacific] region’.
+
+
+-----
+
+foreign assistance in the coming decades to sustain itself as a viable state,
+
+notwithstanding substantial oil and gas revenues.
+
+##### Southeast Asia
+
+3.48 Economic growth has enabled substantial military modernisation programmes in
+
+Southeast Asia, including naval and submarine fleets. ASEAN states generally
+
+recognise that their interests are best served by continued peace, but future security
+
+challenges will include Islamist and other forms of terrorism, weapons proliferation, and
+
+piracy.
+
+3.49 There are tensions within and between some ASEAN countries which regional
+
+structures can help ameliorate but not remove. Economic growth, economic integration,
+
+intra-ASEAN ties, and shared concerns over the strategic balance in the region will help
+
+to underwrite regional stability. But points of abrasion will nonetheless remain.
+
+3.50 The outlook for parts of mainland Southeast Asia has some uncertainty, with various
+
+points of tension having the potential to ripple more widely. The situation in maritime
+
+Southeast Asia is ostensibly more stable but there will remain a number of unresolved
+
+territorial disputes. The terrorist presence in Southeast Asia will remain a significant
+
+regional risk.
+
+3.51 New Zealand’s security relationships with Singapore and Malaysia, founded on the
+
+FPDA, are likely to remain our most enduring in the region. So long as these regional
+
+states maintain their support for the FPDA then New Zealand will continue to do so. As
+
+New Zealand’s most significant operational security link to Southeast Asia, the FPDA
+
+will continue to provide a valuable anchor for the presence of our defence assets in the
+
+region.
+
+##### North Asia
+
+3.52 The strategic balance in North Asia is shifting. China both benefits from and contributes
+
+to regional stability and prosperity, but there will be a natural tendency for it to define
+
+and pursue its interests in a more forthright way on the back of growing wealth and
+
+power. The pace of China’s military modernisation and force projection programme,
+
+and the response this could prompt from neighbouring states, may test the relationships
+
+of the major regional powers.
+
+3.53 The Korean Peninsula, Taiwan, and the South China Sea will remain points where a
+
+range of regional and international interests converge. Tension in these spaces is likely
+
+to continue, fuelled by multiple protagonists, some of them unpredictable. Any conflict
+
+in these areas would have a serious impact on security and confidence in the wider
+
+region.
+
+
+-----
+
+##### South Asia
+
+3.54 India’s growing economic and military power will continue to give it a stronger voice in
+
+the region and internationally. New Zealand’s engagement with India both bilaterally
+
+and in regional institutions will continue to expand. The rise in power of both China and
+
+India could put some strain on neighbouring countries — especially Burma, but also
+
+Pakistan, Nepal, and Bangladesh.
+
+3.55 Relations between states in the sub-continent will remain fraught. The possibility of
+
+miscalculation leading to military conflict has been heightened by the actions of violent
+
+non-state actors. Conflict would have a serious impact on the region, and would
+
+intensify the threat from international terrorism. Confidence-building measures should
+
+be supported.
+
+##### Middle East and Africa
+
+3.56 New Zealand’s strategic interests extend beyond the Asia-Pacific region. The Middle
+
+East provides a persistent challenge to stability. Its fractured politics, the risks of
+
+nuclear proliferation, the prevalence of Islamist and other forms of terrorism, and the
+
+presence of the world’s largest reserves of hydrocarbons, mean that the international
+
+community is regularly engaged in preventing conflict or dealing with the consequences
+
+of conflict in this region.
+
+3.57 The NZDF has had a presence of one kind or another in the Middle East for much of
+
+the last seventy years. It is a persistent reminder of the longstanding value
+
+New Zealanders place on international engagement and peace-building. We expect that
+
+New Zealand, whether under the UN flag or in international coalitions, is likely to be
+
+asked to contribute to future regional stability operations in the Middle East.
+
+3.58 Sub-Saharan Africa does not have the same strategic significance as the Middle East.
+
+But weak governments, civil strife, and ethnic conflicts have regularly called for an
+
+international response. Currently, Africa is the largest theatre of UN peacekeeping
+
+operations. This is likely to continue.
+
+#### Regional and multilateral linkages
+
+3.59 In addition to its bilateral relationships, New Zealand will continue actively to participate
+
+in regional and international structures to promote peace and security.
+
+
+-----
+
+3.60 It is likely that New Zealand’s involvement in international security operations will almost
+
+always be as a partner in a coalition, mandated or endorsed by the UN or by a regional
+
+organisation. Our contribution could vary widely from peacekeeping and peace
+
+enforcement, to disaster relief and humanitarian assistance, to demining, to maritime
+
+security operations, through to state building.
+
+3.61 Security structures in the Asia-Pacific region will continue to evolve, with the focus
+
+slowly shifting more towards concrete security-related activities as confidence between
+
+members grows. The ASEAN Regional Forum will remain a significant body, but it will
+
+need to remain relevant as new entities such as the East Asia Summit and the ASEAN
+
+Defence Ministers' Meeting-Plus emerge, and as the security architecture in North Asia
+
+responds to the changing strategic balance.
+
+3.62 Recent initiatives from Japan and Australia have demonstrated that the path to an
+
+inclusive and comprehensive regional community is not straightforward, but the impetus
+
+towards such a community is likely to continue, as shown by ASEAN’s decision to
+
+expand the East Asia Summit to include the US and Russia. We will retain our ability to
+
+project a focused and constructive diplomatic and military presence in the region.
+
+3.63 NATO will remain a benchmark for military doctrine. It has been redefining its mission
+
+since the end of the Cold War. Carrying the mandate of the international community in
+
+Afghanistan, NATO has reached out to like-minded countries in the Asia-Pacific region.
+
+It is unlikely that NATO will retreat from this expanded role in international peace and
+
+security. We expect that New Zealand will continue gradually to develop its relationship
+
+with NATO.
+
+#### Open trade routes
+
+3.64 Competing territorial claims mean that parts of maritime Asia will remain a contested
+
+space over the next 25 years, and this could potentially be expressed militarily. The
+
+shared economic benefits to be gained from regional stability will help to mitigate this
+
+risk. So, too, will various regional confidence-building measures. But the combination
+
+of resource competition and narrowly defined national interest will continue to be a
+
+volatile mix.
+
+3.65 Piracy in major sea-lanes will remain a feature of the global outlook. This will
+
+particularly be so in areas such as the Horn of Africa, where weak states can be used
+
+as staging points, but also in well-regulated spaces such as the Straits of Malacca. The
+
+movement of people and goods will continue to face rigorous standards of inspection
+
+and interdiction. Hostile actors will continue to look for ways to circumvent these.
+
+
+-----
+
+3.66 Given the inventiveness of those with malign intent, key trading partners will want to be
+
+confident that New Zealand (like other countries) does not become a transit point for the
+
+illicit movement of capital, goods, or people. As a result there will be a continuing
+
+expectation that New Zealand will comply with international and bilateral standards, that
+
+we will support the implementation of such standards in the South Pacific, that our
+
+borders will be well monitored and protected, and that we will actively support ad hoc
+
+efforts such as the Proliferation Security Initiative.
+
+#### Unseen risks
+
+3.67 Major shifts in the strategic context are sometimes difficult to predict. They can be a
+
+single event, such as the 11 September 2001 terrorist attacks on the US. Or they can
+
+be a gradual change, such as the events leading to the collapse of the Berlin Wall in
+
+1989.
+
+3.68 New Zealand security and intelligence bodies will maintain their horizon-scanning
+
+capabilities, and work with others to identify the early signs of a possible shift. This will
+
+buy time for reorientation, decision, and action. But it also argues for maintaining depth
+
+within the NZDF such that it can respond flexibly and with resilience to changes in the
+
+strategic context.
+
+#### Conclusion
+
+3.69 New Zealand faces an increasingly uncertain strategic outlook over the next 25 years.
+
+In our near environment — where we have little choice but to address security
+
+challenges — we can expect growing strain on the resilience of Pacific Island states,
+
+and increased pressure on ocean resources.
+
+3.70 It is highly unlikely that New Zealand will face a direct military threat, but other
+
+significant security events are possible. New Zealand needs to be alert to unseen risks,
+
+and maintain depth and resilience in our military capabilities.
+
+3.71 The wider international context is also changing, and not necessarily to our advantage.
+
+The international order and institutions which have served us well are under pressure.
+
+So too, in places, is the state itself. New Zealand’s response will include efforts to
+
+strengthen international structures and contribute directly to peace and security.
+
+3.72 All of these factors directly impact on how the Government expects to use the NZDF
+
+over the next 25 years, as described in the next chapter.
+
+
+-----
+
+An RNZAF Hercules delivering disaster relief on Aitutaki in the Cook Islands
+
+
+-----
+
+### Chapter 4
+
+## Tasks for the NZDF
+
+#### Attributes of the NZDF
+
+4.1 The long-standing sense of connection and responsibility which New Zealand has to
+
+our region and the wider international community means that the NZDF must have the
+
+capabilities necessary to undertake a wide range of tasks, from disaster relief to armed
+
+interventions. This despite it being a force of relatively small size.
+
+4.2 To make a meaningful and valued contribution towards shared security objectives, the
+
+NZDF needs to be interoperable with our principal partners. This is an increasing
+
+burden as the cost of maintaining a modern military force continues to grow.
+
+New Zealand cannot afford a wide range of capabilities, but those which we do have
+
+must be effective.
+
+4.3 Given our interests and obligations, operations in New Zealand’s maritime zone and the
+
+South Pacific are the starting point for choosing military capabilities. This means that
+
+the NZDF needs to be a deployable force — able to send troops and equipment by sea
+
+and air over thousands of kilometres. This capability is essential to operate effectively
+
+in the South Pacific, but it also enables the NZDF to conduct operations further afield.
+
+The NZDF must be mobile within operational areas, too.
+
+4.4 It is not enough just to arrive. The NZDF must be equipped sufficiently such that it does
+
+not need to depend on partners and friends for basic forms of operating support. It
+
+must have reliable and high quality equipment so that it is both effective and safe, and
+
+not a liability to those alongside us.
+
+
+-----
+
+4.5 The NZDF must be versatile and adaptable. This is as much about people as
+
+equipment. The skills and character of those serving in the NZDF help to explain why,
+
+since the end of the Cold War, New Zealand forces have been continuously engaged
+
+around the world in a diverse range of operations.
+
+4.6 The uncertainty of the future strategic environment means that the NZDF must retain
+
+these attributes in the coming 25 years. That will require continued investment in the
+
+NZDF, to ensure that it can influence and operate in the changing regional and global
+
+environment.
+
+4.7 But that investment must be in the right priorities, to maximise the value of the
+
+taxpayer’s dollar and to ensure that the NZDF is best configured to meet the
+
+Government’s objectives. We therefore next need to consider in more detail what
+
+specific tasks the NZDF is likely to be asked to conduct over the next 25 years.
+
+
+-----
+
+#### Principal tasks for the NZDF
+
+4.8 Taking the policy context set out in chapter two, and the strategic outlook contained in
+
+chapter three, the principal tasks which the Government expects the NZDF to be able to
+
+conduct over the next 25 years are:
+
+   - to defend New Zealand’s sovereignty;
+
+   - to discharge our obligations as an ally of Australia;
+
+   - to contribute to and, where necessary, lead peace and security operations in the
+
+South Pacific;
+
+   - to make a credible contribution in support of peace and security in the Asia-Pacific
+
+region;
+
+   - to protect New Zealand’s wider interests by contributing to international peace and
+
+security, and the international rule of law;
+
+   - to contribute to whole-of-government efforts at home and abroad in resource
+
+protection, disaster relief, and humanitarian assistance;
+
+   - to participate in whole-of-government efforts to monitor the international strategic
+
+environment; and
+
+   - to be prepared to respond to sudden shifts and other disjunctions in the strategic
+
+environment.
+
+4.9 The order of these tasks reflects the extent to which we have choice over any
+
+deployment of the NZDF. The following paragraphs discuss these principal tasks in
+
+more detail.
+
+##### Defend New Zealand’s sovereignty
+
+4.10 The NZDF needs to maintain a military capability in the land and maritime environs of
+
+New Zealand sufficient to indicate that we would act to deter a potential aggressor and
+
+to provide time for any international assistance that might be sought by us.
+
+4.11 New Zealand also requires military forces with sufficient utility to conduct a range of
+
+surveillance, patrol, resource protection, and border security tasks within its maritime
+
+zone and the Southern Ocean.
+
+4.12 New Zealand’s interests in Antarctica will continue to be upheld, in part, by our
+
+continuous presence at Scott Base. Sustaining our presence in this difficult and
+
+resource-intensive environment depends on our ability to access critical support
+
+through the joint logistics pool with the US, to which New Zealand contributes military
+
+airlift and other services. It is important that our contribution to the pool remains
+
+credible.
+
+
+-----
+
+##### Support our alliance with Australia
+
+4.13 We are working closely with Australia to give the ANZAC tradition greater contemporary
+
+relevance. Building on our joint security and stabilisation activities in places such as
+
+Solomon Islands, we have committed to the creation of a Pacific-focused ANZAC
+
+Ready Response Force. This Force will respond to short-notice security events,
+
+including stabilisation operations, humanitarian assistance, and disaster relief.
+
+4.14 Continued and close interaction with the Australian Defence Force (ADF) at all levels is
+
+important to ensure that levels of interoperability are sustained. It also offers potential
+
+efficiencies. Much is already done in this area through the mechanism of Closer
+
+Defence Relations (CDR).
+
+4.15 New Zealand remains firmly committed to CDR by:
+
+   - promoting military interoperability;
+
+   - interacting with the Australian Department of Defence/ADF at every level;
+
+   - identifying areas where New Zealand and Australia should have different but
+
+complementary capabilities;
+
+   - undertaking co-ordinated responses to regional issues; and
+
+   - actively pursuing opportunities for new ways of working with Australia.
+
+4.16 This commitment to CDR will require sufficient investment in the NZDF for it to keep
+
+pace with relevant aspects of the evolution in military technology over the next 25
+
+years.
+
+##### Contribute to peace and security in the South Pacific
+
+4.17 New Zealanders will continue to expect this country to play a significant security and
+
+assistance role in the South Pacific, especially in respect of our constitutional
+
+obligations to the Cook Islands, Niue, and Tokelau but also within the wider region.
+
+These expectations are matched in the region itself, and in Australia.
+
+4.18 New Zealand, with Australia, needs to be able to deal with any reasonably foreseeable
+
+contingency in the South Pacific. Our involvement in initiatives such as the Regional
+
+Assistance Mission to Solomon Islands (RAMSI) will continue, as will humanitarian
+
+efforts of the kind shown after the 2009 tsunami in Samoa and Tonga. In those parts of
+
+the region where other states might be expected to take the lead (the US in the case of
+
+Micronesia, and France in New Caledonia and French Polynesia), New Zealand should
+
+be ready to assist.
+
+
+-----
+
+4.19 There are a variety of means by which the NZDF can support New Zealand government
+
+efforts to maintain and restore peace and security in the South Pacific:
+
+   - contributing to stability operations (as in Solomon Islands and elsewhere as
+
+required);
+
+   - contributing to international and whole-of-government development and capacity
+building efforts;
+
+   - providing humanitarian assistance and disaster relief;
+
+   - assisting with maritime surveillance, and search and rescue; and
+
+   - supporting the professional development of indigenous defence and security forces.
+
+4.20 There may be circumstances in the future where we would want the NZDF to lead an
+
+operation in the South Pacific or to operate there without needing to rely on others.
+
+4.21 Looking further afield, New Zealand and Australia are likely to remain at the forefront of
+
+providing security assistance to Timor-Leste.
+
+##### Support peace and security in the Asia-Pacific Region
+
+4.22 New Zealand derives significant benefits from a stable and prosperous Asia. It is in our
+
+national interest to uphold and contribute to that favourable environment by supporting
+
+regional peace and security.
+
+4.23 There are a variety of defence and diplomatic activities which enable us to do this,
+
+including:
+
+   - supporting open and inclusive regional security and defence structures;
+
+   - maintaining our contribution to defence arrangements in Malaysia and Singapore
+
+through the FPDA;
+
+   - developing good bilateral defence relations with other states, encouraging them to
+
+operate constructively in the region;
+
+   - supporting a continuing US security presence as a contribution to regional stability;
+
+   - exercising and training with regional armed forces;
+
+   - maintaining a naval and air presence in support of freedom of commerce and
+
+navigation;
+
+   - contributing to efforts to prevent the proliferation of WMD and related delivery
+
+systems, and to achieve nuclear disarmament in the region;
+
+   - supporting regional efforts to deal with terrorism and other transnational security
+
+threats; and
+
+   - being willing and able to assist in times of natural or humanitarian disasters.
+
+
+-----
+
+4.24 Some of these activities are region-wide and collective in nature. Others are geared
+
+towards bilateral links or particular relationships, such as the FPDA. In all of them, the
+
+NZDF has a role to play — either by leading New Zealand’s engagement, or in support
+
+of the New Zealand Ministry of Foreign Affairs and Trade (MFAT) or other New Zealand
+
+government agencies.
+
+##### Contribute to international peace and security 
+
+4.25 New Zealand has a history of contributing to international efforts to resolve conflict. We
+
+will continue to contribute in this way.
+
+4.26 Any NZDF contribution will always face the limits of it being a small force. The
+
+Government must also take into account factors such as availability, location, tasks,
+
+risk, and international expectations. Such a contribution may extend to a combat role.
+
+Our preparedness to assume such a role, when appropriate, will always be valued by
+
+our partners.
+
+4.27 New Zealand will also contribute to regional and international peace and security by
+
+building various defence linkages. These can range from the assignment of defence
+
+attachés, through to formal military-to-military talks, and participation in bilateral and
+
+multilateral exercises.
+
+4.28 Defence linkages add value by:
+
+   - building influence with security partners and friends so that our interests are taken
+
+into account, including support for New Zealand in extremis;
+
+   - helping to keep us informed of security issues through dialogue and intelligence
+
+exchanges;
+
+   - providing professional development for the NZDF through exercises, exchanges,
+
+and other interactions;
+
+   - enabling the NZDF to be well-informed about defence technology and military
+
+doctrinal developments; and
+
+   - adding another strand of engagement to our bilateral relationships, especially
+
+where partner countries place a particular value on defence relations.
+
+
+-----
+
+##### Resource protection, disaster relief and humanitarian assistance
+
+4.29 The NZDF partners a number of agencies in the promotion of economic, security,
+
+environmental, and social objectives. The defining characteristic of these partnerships
+
+is the use of military forces to perform essentially non-combat roles.[10]
+
+4.30 At home, these roles include counter-terrorism; support to the Antarctic programme;
+
+ensuring that NZDF information and communication networks are protected;
+
+contributing, where appropriate, to any whole-of-government response to the threat of
+
+cyber attack; providing logistic support to events of national significance; and providing
+
+infrastructure for activities such as the Limited Service Volunteer scheme.
+
+4.31 Tasks conducted at home and overseas include search and rescue; disaster relief;
+
+resource protection in the EEZ; maritime border security; and evacuating New Zealand
+
+and approved foreign nationals from high-risk environments.
+
+##### Monitor the strategic environment
+
+4.32 The collection and assessment of intelligence, and the provision of diplomatic reporting,
+
+are important ways by which New Zealand builds its understanding of the strategic
+
+environment. This is not solely, or even primarily, a role for Defence. Other agencies
+
+within government have assessment as an important component of their activities.
+
+4.33 That said, being able to discern any serious deterioration in the strategic environment in
+
+time will allow the NZDF to adjust its posture and inform operational decision-making.
+
+Analysis indicating a potential security event in the region, for example, may lead the
+
+Government to bring forces to a higher state of readiness in response, or to forgo
+
+commitments beyond the region in order to be in a position to respond to the regional
+
+event.
+
+#### The starting point for choosing NZDF military capabilities
+
+4.34 Meeting our security objectives in our maritime zone and the South Pacific should be
+
+the starting point for selecting New Zealand’s military capabilities. Not only is this the
+
+area where we have least discretion for our interventions, but structuring our
+
+capabilities in this way would provide the resources needed to address New Zealand’s
+
+own likely security requirements. It would also add weight to Australia in an area of
+
+continuing common interest.
+
+10
+One hundred and thirty-four submissions to the public consultation process saw a significant role
+for the NZDF in non-military tasks.
+
+
+-----
+
+4.35 The challenges of deploying, operating, and sustaining forces in the South Pacific are
+
+considerable. The trends identified in chapter three indicate that they could become
+
+even more so over the next 25 years. This uncertainty means the NZDF will need to be
+
+equipped for a range of situations, potentially including armed conflict.
+
+4.36 The capabilities required for the range of possible operations in our near region would
+
+also allow us to make a credible contribution to stability in Asia, as well as further afield.
+
+#### Capabilities and conflict
+
+4.37 The cost of the capabilities required to contribute to high-end combat between large
+
+and sophisticated military forces is increasingly beyond our means. Even middle
+
+powers struggle to maintain the range of such capabilities. We could devote
+
+considerable resources trying to maintain advanced warfare capabilities and still fall
+
+short.
+
+4.38 Conflict within fragile, failing, or failed states is in any event likely to remain the most
+
+common form of conflict in the period covered by this White Paper. Operations in
+
+Solomon Islands, Timor-Leste, and Afghanistan are contemporary examples. Our
+
+forces should therefore largely be optimised for the conduct of such intra-state
+
+operations.
+
+4.39 But the distinction between intra-state and inter-state conflict should not be
+
+exaggerated. The risks to personnel serving in intra-state operations can be high, as
+
+the war in Afghanistan has shown. Moreover, we cannot exclude the possibility that
+
+hostile regular forces could work alongside insurgents and other irregular forces in a
+
+‘hybrid’ intra-state/inter-state scenario. To contribute to the restoration of peace and
+
+security in such environments, New Zealand requires a combat-capable force.
+
+4.40 Nor can the possibility of traditional inter-state conflict be excluded, or that a
+
+New Zealand Government may want to contribute militarily to such a conflict. We
+
+therefore have, and should retain, some particular high-end capabilities which would
+
+enable the NZDF to play a meaningful role in an inter-state conflict.
+
+4.41 Military forces can stabilise a conflict situation. But finding an enduring solution must
+
+also involve the establishment of the rule of law, good governance, economic activity,
+
+capacity development, and confidence-building. This means that New Zealand must
+
+continue to retain and build its non-military peace-making and state-building
+
+capabilities.
+
+
+-----
+
+4.42 This requires a co-ordinated whole-of-government effort involving a broad range of
+
+agencies, including New Zealand Police, NZAID, Customs, Justice and Corrections, as
+
+well as MFAT and Defence.
+
+#### Managing unseen risks
+
+4.43 New Zealand’s strategic outlook suggests an uncertain future. We do not have the
+
+resources to respond to all conceivable contingencies. We therefore need to have a
+
+clear sense of what our priorities are, where the likely risks lie, and how we can best
+
+position ourselves to manage risks as yet unseen.
+
+4.44 Appropriate Defence strategies for managing unforeseen risks include:
+
+   - participating in whole-of-government efforts so that the risks of being surprised by
+
+strategic shocks are reduced;
+
+   - ensuring that vital components of the Defence infrastructure are protected;
+
+   - maintaining combat-capable forces so that the full range of military responses is
+
+available at short notice; and
+
+   - ensuring that the NZDF can be enlarged at relatively short notice if necessary.
+
+#### Conclusion
+
+4.45 Its military equipment and the high quality of its people makes the NZDF a disciplined
+
+national asset of considerable utility. It provides the Government with a range of policy
+
+options up to and including the use of military force.
+
+4.46 Using military force is an option of last resort. But in a sometimes violent world there
+
+are occasions when its use is appropriate. The uncertain strategic outlook for the next
+
+25 years means that this is not a time to be reducing the utility of the NZDF, or
+
+narrowing the capabilities which can currently be provided.
+
+
+-----
+
+Live firing of a Maverick missile from a Seasprite helicopter launched from HMNZS Te Kaha
+
+
+-----
+
+### Chapter 5
+
+## The NZDF’s  Military Capabilities
+
+5.1 This chapter identifies the capabilities needed to ensure that the NZDF remains a
+
+useful, versatile, and cost-effective force now and in the future, able to execute the
+
+range of tasks identified in chapter four.
+
+#### Tasks as a determinant of capability
+
+5.2 New Zealand’s defence circumstances are unique. No other country of comparable
+
+size and political and economic standing has at a minimum to be able to deploy
+
+defence equipment and personnel from the equator to Antarctica. This is a low-threat
+
+environment but a vast space.
+
+5.3 In our immediate region, the NZDF needs to be able to deploy forces across distant
+
+shores into unstable, potentially hostile but not high-intensity environments,[11] and
+
+sustain them there until the task of restoring peace and security has been
+
+accomplished. We should also be prepared to lead operations in the region, if
+
+necessary.
+
+5.4 Operations beyond our immediate region are likely to involve the NZDF in higher
+intensity environments. We must therefore have capabilities which can be integrated
+
+with, and operate alongside, our international partners in such operations.
+
+5.5 New Zealand’s contributions beyond our region will ordinarily be scaled to the size of
+
+the NZDF. Their operational and diplomatic value will be assessed by where they sit on
+
+the scale of military credibility. Having effective combat capabilities is therefore critical.
+
+11
+See glossary under ‘intensity of conflict’ for a definition of high, mid, and low intensity.
+
+
+-----
+
+5.6 NZDF capabilities will also be used for tasks such as humanitarian assistance, disaster
+
+relief, or the evacuation of nationals.
+
+#### Mutually reinforcing capabilities
+
+5.7 To conduct the tasks set out in chapter four, the NZDF needs to focus on maintaining:
+
+   - deployable ground forces — suitably equipped and in sufficient numbers —
+
+including supporting elements such as engineers and medics;
+
+   - strategic projection and logistic capacity to get the force to where it is needed and
+
+to sustain it once there;
+
+   - network-enabled intelligence, surveillance and reconnaissance (ISR) capabilities to
+
+understand and interpret the operational environment; and
+
+   - capabilities able to fulfil a credible combat role in support of our sovereignty, our
+
+obligations to Australia, and in other operations as determined by the Government.
+
+5.8 To maximise the effectiveness of NZDF interventions, these mutually-reinforcing
+
+capabilities must be embedded in command and control structures which support:
+
+   - joint activity between the Services;
+
+   - independent action by New Zealand in certain circumstances;
+
+   - interoperability with security partners; and
+
+   - responsiveness to whole-of-government requirements.
+
+#### Building on strong foundations
+
+5.9 The existing range of NZDF capabilities has served the Government well. Over the last
+
+20 years the NZDF has successfully discharged a wide variety of missions both near to
+
+home and further afield, with significant numbers of personnel deployed on operations.
+
+
+-----
+
+5.10 The NZDF has sustained extensive operational commitments, especially over the past
+
+decade or so. Although there has been some increase in personnel numbers in the
+
+past few years, compared with 20 years ago the size of the regular NZDF has fallen by
+
+over 2,000 (especially Army) personnel, with a related fall in the NZDF’s share of Gross
+
+Domestic product (GDP) and government expenditure.[12]
+
+5.11 Operational experience over the past decade has underlined the importance of
+
+ensuring that the NZDF has sufficient depth in its capability. NZDF personnel have
+
+performed well, but at times the quality and quantity of equipment has restricted the
+
+options of governments or necessitated a high level of dependence on partners.
+
+Sustainability has been a challenge.
+
+5.12 The Government is committed to maintaining an NZDF that is able to deliver the range
+
+of policy outcomes expected of it.
+
+#### The Future NZDF
+
+##### Military capability workshops
+
+5.13 To ensure that the capabilities recommended for the future NZDF are not simply an
+
+extrapolation from the present, a number of specific military tasks were examined
+
+systematically through military capability workshops.
+
+12
+The NZDF’s share of GDP fell from 1.7% in 1990 to 1.0% in 2009; its share of government
+expenditure fell from 4.6% in 1990 to 3.4% in 2009.
+
+
+-----
+
+5.14 Military and civilian personnel considered a range of potential security events which the
+
+NZDF might be expected to undertake over the next 25 years. Particular (but not
+
+exclusive) emphasis was placed on New Zealand’s EEZ and the South Pacific.
+
+Different force configurations were tested in these events, to help identify the
+
+capabilities best suited to New Zealand’s strategic and fiscal context.
+
+5.15 The result is a future force structure which will see the NZDF retain and enhance its
+
+current mix of capabilities, enabling it to operate in places similar to where it is today,
+
+alongside current partners and friends.
+
+##### Value for Money and Ministerial choices 
+
+5.16 This White Paper establishes an NZDF which is consonant with the expected strategic
+
+outlook and flexible enough to be reconfigured should that outlook change.
+
+5.17 Such a force structure will, however, require the NZDF to realise the level of internal
+
+resource redistribution set out in chapter eight. As the VfM review made clear, there is
+
+scope to transfer significant resources from the NZDF’s ‘middle’ and ‘back’ support
+
+functions to its deployable military capabilities. This must occur if the capabilities
+
+contained in this White Paper are to be achieved.
+
+5.18 Significant capabilities proposed for the next five years include a replacement pilot
+
+training capability; the introduction of short-range maritime patrol aircraft; an ANZAC
+
+frigate self-defence upgrade; _HMNZS Endeavour replacement; Seasprite upgrade or_
+
+replacement; a rolling renewal of the land transport fleet; a land command and control
+
+system; and a replacement littoral warfare support ship.
+
+5.19 Significant capabilities proposed for beyond the next five years include replacements for
+
+the C-130 Hercules and P-3 Orion aircraft, and the ANZAC frigates. These are core
+
+capabilities. The weighty strategic and fiscal considerations involved will be subject to
+
+further examination in the Defence Review to take place in 2015.
+
+5.20 Cabinet will be presented with a detailed business case for each significant capital
+
+acquisition before it is finally approved, as required by the Government’s Capital Asset
+
+Management process. This means that Ministers will have various opportunities
+
+formally to test the need and composition of each proposed acquisition against the
+
+strategic and fiscal context.
+
+5.21 Given the need for rigorous fiscal management, the capability programme proposed for
+
+the next five years and thereafter will need to be carefully prioritised and phased.
+
+
+-----
+
+##### Proposed force structure
+
+5.22 Subject to the processes outlined in the paragraphs immediately above, key elements
+
+of the proposed force structure are as follows:
+
+
+-----
+
+-----
+
+#### Developing NZDF capability 
+
+##### Land Combat and Combat Support forces
+
+5.23 At present, the deployment of land forces is limited by personnel numbers, and by
+
+shortages in self-protection and support capabilities.
+
+5.24 The planned force structure will see the Army reshaped to increase the combat utility,
+
+sustainability, and potential scale of deployments. This reconfiguration will provide
+
+sufficient depth to sustain a maximum land force deployment of 800 personnel of two
+
+rotations per year (each lasting six months) for up to three years in a mid-intensity
+
+environment. This increase will help ensure that the NZDF can conduct its tasks in a
+
+way which is consistent with recent operational experience.
+
+5.25 One infantry company will be trained with a wider range of higher-end skills, allowing it
+
+not only to operate as a regular infantry company but also to undertake some more
+
+demanding tasks and, if needed, support Special Forces operations.
+
+5.26 The Special Forces themselves will be enhanced to alleviate the strain caused by
+
+current operational demands.
+
+5.27 These various improvements will require an increase in front line Army personnel. This
+
+increase will, at least in part, be achieved by redistributing existing resources from the
+
+middle and back, as recommended in the VfM review.
+
+5.28 The current Light Armoured Vehicle (LAV) fleet of 105 will be reduced to around 90
+
+vehicles, and some will be reconfigured to provide variants such as battlefield
+
+ambulances and command and control vehicles. Vehicles from this reduced fleet will
+
+be upgraded as operational requirements require. This will allow them to remain
+
+effective in a range of tasks, including in higher-end conflict environments.
+
+5.29 Supporting firepower to deployed land forces will be maintained, with the existing Light
+
+Guns and Mortars replaced with like capabilities at end of life.
+
+5.30 There will also be sustained investment in capabilities that support deployed land
+
+forces. These include programmes to provide a battlefield Command and Control
+
+system (with its supporting communications and ISR sensor network), and to replace
+
+the NZDF's general service vehicle fleet (including medium and heavy vehicles, trailers,
+
+and mechanical handling equipment).
+
+
+-----
+
+5.31 Over the next two years, the programme to bring the new helicopter fleet into service
+
+will continue. These new helicopters will represent a step-change in the support given
+
+to land forces. The NH90 will be the primary tactical troop transport aircraft, with the
+
+A109 conducting lighter roles. It is planned that both will be fitted with self-protection to
+
+enable them to operate in more hostile environments.
+
+5.32 To maximise the utility of the relatively inexpensive A109s, a further three will be
+
+acquired to provide an operationally deployable output plus training.
+
+##### Strategic Lift 
+
+5.33 The NZDF will have a small but adequate airlift capability once the C-130 upgrade is
+
+complete. It has only one sealift ship (HMNZS Canterbury), which is being
+
+progressively modified to improve its operational effectiveness.
+
+5.34 The current upgrade programme for the five C-130H Hercules aircraft will continue,
+
+maintaining the NZDF’s independent airlift capability. The aircraft will be replaced at
+
+end of life (around 2020) with an equivalent — or better — capability. Decisions on the
+
+appropriate replacement will be informed by a study to be concluded before the next
+
+Defence Review in 2015.
+
+5.35 In considering the most appropriate airlift fleet mix, this study will also take account of
+
+the most effective use of the jet airlift currently provided by the two B757s. The roles,
+
+capabilities, and cost effectiveness of the current B757 fleet will be assessed, and the
+
+optimal configuration of any strategic jet transport capability will be determined.
+
+5.36 The sealift ship (HMNZS Canterbury) will receive remedial work to address the existing
+
+deficiencies in operational capability. The operational effectiveness of the ship will be
+
+maintained, and it will be replaced with a similar capability at end of life.
+
+##### Intelligence, Surveillance and Reconnaissance (including maritime patrol) 
+
+5.37 Non-defence maritime patrol requirements cannot currently be met by the NZDF.[13]
+
+Capabilities have been enhanced by the introduction of the Offshore and Inshore Patrol
+
+Vessels, but the lack of an effective wide-area surveillance network hinders efficiency,
+
+and the asset mix is unbalanced.
+
+5.38 A satellite imagery capability will be introduced to provide sustained and longer-range
+
+surveillance, and to ensure that maritime patrol assets are more effectively targeted on
+
+areas of interest.
+
+13
+A review study in 2009 indicated a shortfall in the number of annual P-3 Orion flying hours
+available for effective aerial surveillance of the EEZ, and noted that earlier studies had identified
+a potential lack of sea-going days available from the Inshore Patrol Vessels for the inshore
+domain.
+
+
+-----
+
+5.39 The current upgrade of the six P-3 Orions will continue. The aircraft may then
+
+progressively be fitted with self-protection and anti-submarine sensors, improving their
+
+combat capability and enhancing the ability of New Zealand to contribute more robustly
+
+to global efforts. The P-3 Orions will be replaced with an equivalent level of capability,
+
+manned or unmanned, in about 2025. Studies closer to this date will determine the
+
+types of replacement platform.
+
+5.40 A number of low-end regional surveillance tasks (for both defence and other agencies)
+
+could be performed more cost-effectively by using maritime patrol aircraft with short
+
+takeoff and landing and sufficient range. The introduction of this capability would
+
+increase our surveillance capacity in both the EEZ and the South Pacific.
+
+5.41 To maximise its cost-effectiveness, this new aircraft would also be expected to perform
+
+a transport and multi-engine flying training and consolidation function, as currently
+
+provided by the B200 King Air. An indicative business case is being prepared, with the
+
+intention of acquiring this new capability as soon as practicable.
+
+5.42 A study of Pilot Training options is scheduled to be completed by early 2011. It will take
+
+into account the capabilities to be provided by the proposed new maritime patrol aircraft
+
+and the need for training to match the full range of operational demands made on
+
+aircrew. The merits of acquiring a simulator for some aspects of pilot training will also
+
+be explored.
+
+5.43 The Offshore Patrol Vessels and Inshore Patrol Vessels will be replaced at the
+
+appropriate date. In the meantime the merits of enhancing the sensors and armaments
+
+of these vessels are being investigated.
+
+5.44 The two ships currently used for diving, mine counter measures, and military
+
+hydrographic operations will be replaced by one ship. The new ship will consolidate a
+
+number of linked capabilities, and will have the speed to provide timely support to
+
+operations. Hydrographic work, which is currently conducted by both the Navy and the
+
+National Institute of Water and Atmospheric Research (NIWA), will be rationalised.
+
+5.45 To make best use of the information flows that the new ISR capabilities will provide, a
+
+corresponding increase in the capacity of the NZDF and the National Maritime
+
+Coordination Centre to process and analyse collected information will need to be
+
+considered.
+
+##### Combat Capability 
+
+5.46 Army land combat units, Special Forces, and ANZAC frigates currently provide
+
+effective, credible combat capabilities which the Government can deploy alongside
+
+
+-----
+
+partner forces if it so chooses. The combat capability of the ANZAC frigates will rapidly
+
+degrade without a self-defence upgrade.
+
+5.47 This force structure will see the ANZAC frigates given a self-defence upgrade to
+
+address obsolescence and to improve their defensive capability against contemporary
+
+air and surface threats. The two frigates will be replaced at end of life (projected at
+
+around 2030), taking account of the wider range of naval combat options then expected
+
+to be available.
+
+5.48 Naval helicopters will continue to provide extended reach, surveillance, and air
+delivered weapon capabilities (air-to-surface missile and anti-submarine torpedo) for the
+
+frigates. A review will determine whether it is more cost-effective to upgrade or replace
+
+the existing Seasprite helicopters when they are due for an upgrade in the middle of this
+
+decade.
+
+5.49 Detailed descriptions of capability developments for other combat-capable elements of
+
+the NZDF are covered in earlier sections. They are not repeated here.
+
+##### Command and Control
+
+5.50 The NZDF currently relies on the creation of ad hoc command and control
+
+arrangements for operational deployments. These take time to establish, placing
+
+limitations on the readiness, scale, duration, and effectiveness of the headquarters
+
+organisation the NZDF can deploy.
+
+5.51 A trained, equipped, and deployable headquarters organisation will be created, to be
+
+activated and staffed when required. This will improve the NZDF’s ability to lead
+
+operations, as well as its capacity to contribute to a combined headquarters.
+
+##### Joint Logistics
+
+5.52 The current Fleet Replenishment Ship (HMNZS Endeavour) will, after 2013, no longer
+
+comply with international maritime regulations. A shortfall in logistics personnel
+
+currently hampers the NZDF's ability to support deployed land forces.
+
+5.53 _HMNZS Endeavour will be replaced, possibly with a more versatile vessel incorporating_
+
+some sealift capability (to supplement that provided by HMNZS Canterbury).
+
+5.54 A third Land Combat Service Support Group will be established, to mirror the new
+
+structure of land combat forces. The Support Groups will also be rebalanced to
+
+increase efficiency of support elements, improve the ‘teeth to tail’ ratio, and reduce
+
+costs.
+
+
+-----
+
+##### Joint Health
+
+5.55 The NZDF needs an extended period of notice and substantial augmentation from
+
+civilian medical specialists in order to provide a life- and limb-saving surgical capability
+
+to deployed forces.
+
+5.56 A Forward Surgical Team (surgeon, anaesthetist, emergency doctor, and nurses) will
+
+be resourced from within the NZDF, including the Reserves. This will enable the NZDF
+
+to provide a surgical capability quickly, and to conduct evacuation to out-of-theatre
+
+medical facilities.  Additional equipment will also be procured.
+
+#### Conclusion 
+
+5.57 The future force set out in this White Paper will increase the sustainability of the NZDF
+
+and update a range of capabilities so that they will better meet contemporary threats.
+
+5.58 Applying the lessons of recent operational experience, we will improve the combat
+
+effectiveness, protection, and sustainability of land forces, including key supporting
+
+capabilities. This should allow the NZDF to deploy troops in greater number, and for
+
+longer, than it can at present. This applies to both the regular Army and the Special
+
+Forces — whose effectiveness will be further enhanced by improving the support they
+
+receive from the regular Army. The mobility of the land forces will be enhanced by the
+
+introduction and expansion of the support helicopter fleet.
+
+5.59 This force will ensure that we maintain the ability to deploy and sustain forces across
+
+our extensive territorial domain, and beyond it. Strategic air and sealift will remain
+
+critical supporting capabilities, and will be maintained and improved. More emphasis
+
+will be placed on the effectiveness of a joint, deployable logistics capability.
+
+5.60 It will also see a significant investment made to ensure that the ANZAC frigates
+
+continue to provide a valued contribution to coalition operations.
+
+5.61 The effectiveness of the NZDF on operations will be enhanced by the creation of a
+
+deployable headquarters capability. Combined with investments in creating a
+
+networked Command and Control capability, the NZDF will be better placed to link with
+
+partners and — crucially — to lead operations independently.
+
+5.62 There will also be a step-change to the intelligence, surveillance and reconnaissance
+
+capability of the NZDF. The introduction of satellite imagery will increase the ability of
+
+the NZDF to monitor and protect our borders and resources, and will ensure effective
+
+direction of maritime patrol assets through the inter-agency National Maritime
+
+Coordination Centre.  The proposed addition of short-range maritime patrol aircraft will
+
+provide a more diverse fleet of ISR assets.
+
+
+-----
+
+5.63 This force strengthens the capabilities most likely to be deployed by the NZDF on
+
+operations, both at home and abroad, over the next 25 years.
+
+5.64 It will ensure that the NZDF remains well-placed to protect New Zealand territory and
+
+citizens from possible threats, to conduct and lead missions in the South Pacific region,
+
+and to make a meaningful contribution to peace and security in the international
+
+environment. It will also be equipped to support whole-of government efforts in
+
+humanitarian assistance and disaster relief, at home and overseas.
+
+5.65 It will provide a firm foundation for adapting to any shock in the strategic environment.
+
+New Zealand Defence Force assisting the local community during the Manawatu floods in 2003
+
+
+-----
+
+### Chapter 6
+
+## A People-Centred NZDF 
+
+6.1 The capabilities set out in the previous chapter will enable the NZDF to perform the
+
+tasks expected of it over the next 25 years, assuming no serious deterioration in the
+
+strategic context. But if having the right equipment is always important, and can be
+
+crucial, the core capability of the NZDF will remain its people and their training,
+
+discipline, and professionalism.
+
+6.2 Military service must attract enthusiastic and committed young people. It must then
+
+train them, and integrate them within a disciplined and supportive community. Service
+
+personnel can then be deployed on tasks and to places that are potentially dangerous,
+
+where they are expected to serve the interests of New Zealand with distinction. The
+
+challenge is to grow enough of these skilled people and to keep them for long enough
+
+to ensure the continuation of a professional, well led, and effective force.
+
+#### Total Defence Workforce
+
+6.3 As a small but heavily deployed force, the NZDF must be optimally configured if it is to
+
+deliver on government policy. This especially means improving the ratio between front
+
+line personnel and those in the middle and back. It also means making sure that it has
+
+the right balance between full-time and part-time military personnel, and between
+
+uniformed personnel and civilians.
+
+6.4 A major outcome of this White Paper will be the adoption of a ‘Total Defence Workforce’
+
+approach, as a new way to manage personnel flows within the NZDF and improve
+
+organisational performance.
+
+
+-----
+
+6.5 The core principle of Total Defence Workforce is that any person in the NZDF (whether
+
+uniformed or civilian, full-time or part-time) will be able to apply for any non-operational
+
+position, with the essential determinants for selection being competencies and
+
+availability. The aim will be to ensure the best match of position to skills, no matter from
+
+where those skills come.
+
+6.6 This approach will enable a greater number of roles in the corporate parts of the NZDF
+
+to be filled by civilians, who can often provide specialist organisational skills at a lower
+
+cost. It will free up uniformed personnel to fill more front line military positions. It may
+
+allow for more stability in the wider NZDF workforce, by providing all staff with a greater
+
+range of career opportunities. And it will underpin the modernisation of the Reserve
+
+Force, focusing more on the skills required than on numbers (while recognising the
+
+value of maintaining a Reserve Force presence in regional New Zealand).
+
+6.7 Total Defence Workforce will also enable and encourage former Regular Force,
+
+Reserve Force, and civilian personnel to return to service in the future. It will be made
+
+much easier to exit and re-engage.
+
+##### Career patterns
+
+6.8 People increasingly want variety in their careers, either by tackling different roles within
+
+an existing organisation or by looking for new challenges altogether. This is also true in
+
+the NZDF, where the trend is one of shorter service engagements and a concern that
+
+the careers and plans of partners and families not be excessively disrupted by the
+
+frequent postings that have tended to characterise service life.
+
+6.9 This means that the NZDF must provide those it wishes to recruit and retain, whether
+
+uniformed or civilian, with an attractive range of opportunities and challenges. It must
+
+make it easier for people to leave and re-enter the NZDF, while at the same time
+
+ensuring a core of well-trained and experienced staff who have chosen to make a long
+term career in the NZDF. And it must be a flexible enough employer to meet the
+
+expectations of modern family life while still retaining the characteristics of a deployable
+
+force.
+
+6.10 Total Defence Workforce will help to achieve these goals by removing procedural and
+
+cultural rigidities which hinder the movement of personnel between full-time and part
+time uniformed positions and between uniformed and civilian positions. This will include
+
+a process to recognise formally (through remuneration and rank) experience gained
+
+outside the NZDF.
+
+
+-----
+
+##### Senior roles 
+
+6.11 Today’s leadership environment is increasingly complex. As well as military expertise,
+
+senior military personnel need enhanced skills in areas such as strategic policy,
+
+specialist human resource (HR) management, contract management, organisational
+
+management, and machinery of government.
+
+6.12 Whereas senior military personnel today typically have spent their working lives within
+
+the NZDF, in future they are likely also to have worked in other organisations. Such a
+
+career may involve periods of employment in the NZDF interspersed with periods of
+
+employment in other government departments, including central agencies, and in the
+
+private sector.
+
+6.13 Total Defence Workforce will make it easier for those who aspire to senior military
+
+positions, as well as for senior civilians (many of whom already have a more varied
+
+career background), to move in and out of the NZDF, and in and out of various roles
+
+within the NZDF, as a way to build their skills and experience.
+
+#### The NZDF and its people
+
+6.14 Heavy demands are placed on many of those in uniform. They can be called upon to
+
+act at short notice. They can spend extended periods of time away from loved ones.
+
+They can be placed in stressful or dangerous situations, sometimes unexpectedly.
+
+They can be asked to perform a wide range of tasks, in various circumstances and
+
+alongside various others. And they carry with them the expectations and reputation of
+
+New Zealand.
+
+6.15 The NZDF must therefore continue to recruit people dedicated to service. It must train,
+
+retain, and develop them. It must provide support for their safety and welfare,
+
+especially on operations. And it must look at ways to keep in touch with them once they
+
+have left.
+
+6.16 It must do these things in ways which are cost-effective and which anticipate the
+
+demands of tomorrow.
+
+##### Recruitment
+
+6.17 Economic conditions have seen the NZDF in recent years meet most of its recruitment
+
+targets. The size of the NZDF when compared with the overall population of
+
+New Zealand, and the NZDF’s recruitment efforts, including through various youth
+related programmes, means that it should be able to meet future requirements.
+
+
+-----
+
+6.18 But more effort will need to be put into recruiting personnel from non-traditional sources,
+
+including from ethnic groups which are under-represented in the NZDF. We want an
+
+NZDF which is valued by all New Zealanders not only for what it does but also because
+
+it reflects contemporary New Zealand society.
+
+6.19 The way in which potential recruits are managed may also need to be adjusted, to
+
+facilitate entry into service by those with potential but who would fail to meet the NZDF’s
+
+current standards of fitness and literacy.
+
+6.20 To address the specific problem of trade shortages, the NZDF will better market the
+
+practical and post-academic training which the NZDF offers. It will provide more
+
+training opportunities that offer industry-recognised qualifications. And it will build
+
+closer relationships with tertiary education providers as a way to boost the recruitment
+
+of technically-skilled graduates. Some of those recruited to fill non-operational gaps in
+
+technical roles need not be in uniform.
+
+6.21 There is scope to reduce the costs of recruitment by a greater use of information
+
+technology (IT) and on-line strategies, and by exploring the possibility of outsourcing
+
+the initial stages of recruitment, as is done in Australia. To reduce competition from the
+
+individual Services for the same pool of recruits, recruitment practices have been
+
+centralised and new personnel will be channelled to where the overall NZDF need is
+
+greatest.
+
+##### Training
+
+6.22 Recruits must be trained in the basic skills they need to perform in the military.[14] They
+
+may then move to more specialised training, such as learning a particular trade or
+
+profession. These skills will then be updated and refreshed to ensure continued
+
+effectiveness.
+
+6.23 The NZDF spends more than $150 million each year on training. This expenditure
+
+needs to be cost-effective. The VfM review concluded that the NZDF training system
+
+has excess capacity. A 10% reduction in the cost of training and other related
+
+operating expenditure is therefore achievable, with these resources being redistributed
+
+to operational roles.
+
+14
+Recruits are often drawn to the NZDF by the prospect of training and personal development — a
+point highlighted in the survey of young people that was undertaken as part of the public
+consultation process
+
+
+-----
+
+6.24 To improve the effectiveness of training, the NZDF has recently established a
+
+centralised Training and Education Directorate. It will streamline costs and increase
+
+learning opportunities, including by assessing what training should be delivered within
+
+the NZDF and what should be outsourced to competitive training providers. Generic
+
+skills will be taught centrally, with the three Services focusing on a narrower range of
+
+Service-specific training.
+
+6.25 Time spent training is not spent directly delivering an output. A major focus of the
+
+NZDF is therefore to reduce the period spent on achieving the required skills, known as
+
+‘time to competence’. One way to reduce time to competence is by the increased use
+
+of simulators, and over the next few years the NZDF will seek to increase its capability
+
+in this area.
+
+6.26 By blending face-to-face instruction with ‘e-learning’, the NZDF will shift as much
+
+training as possible out of the classroom. This will involve the Learning Management
+
+System, which will eventually become available to all NZDF personnel.
+
+##### Retention
+
+6.27 A failure to retain personnel can lead to gaps in key skills and weaken the leadership
+
+base of the NZDF. A high rate of departure by experienced commissioned and non
+commissioned officers, in particular, is not easily compensated for, and represents a
+
+loss of the NZDF’s investment in their training and development.
+
+6.28 Currently the attrition rate across the three Services for Regular Force personnel is low
+
+by historic standards.[15] Although still moderate, the Reserve Force attrition rate is a
+
+little higher. The main reasons given by Regular Force personnel for leaving the NZDF
+
+include employment and personal development opportunities outside the NZDF, or
+
+family and work/life balance issues. Attrition is higher for other ranks than for officers,
+
+and higher for women than men.
+
+6.29 Notwithstanding this improved overall picture, attrition in the first year of service
+
+remains undesirably high, ranging from 10% to 25% across the Services. A study
+
+reviewing attrition in the first year has now been completed and will inform the
+
+recruitment strategy, criteria, and practices of the NZDF, including the way it manages
+
+new recruits.
+
+15
+The top three reasons reported by Regular Force personnel for staying in the NZDF are
+consistent across the Services: challenging and interesting work, job security, and job
+satisfaction. Civilians report the same top three reasons, although not in the same order. The
+NZDF does not currently capture data for the Reserve Forces, but will shortly do so by including
+them in its continuous Ongoing Attitude Survey.
+
+
+-----
+
+6.30 Too much retention can also be an organisational problem, resulting in a stagnant
+
+workforce and potentially leading to larger gaps as cohorts of people reach the point of
+
+retirement.
+
+6.31 Total Defence Workforce will help to address this, by making it easier for NZDF
+
+personnel to spend time working in other organisations and so potentially build the
+
+foundations for a future second career. Existing efforts to help NZDF service personnel
+
+make a smooth transition at the end of their service life from military to civilian careers
+
+will also continue. Specific retraining opportunities will be supported, and where
+
+possible a flexible approach will be taken on matters of timing.
+
+##### Development
+
+6.32 Concern over career management has in the past been a major reason for leaving the
+
+NZDF. To address this, the NZDF is reviewing the systems and tools that support
+
+career management, giving individuals a greater role in planning their career path and
+
+professional development — provided it is consistent with organisational needs.
+
+6.33 The NZDF will further promote career pathways for specialists (whether uniformed or
+
+civilian) in particular trades, for whom extensive training and development is required. It
+
+will also seek to increase opportunities for all members of the NZDF to obtain externally
+
+recognised qualifications and skills, including by offering a wider range of non-military
+
+courses.
+
+##### Support
+
+6.34 The NZDF places emphasis on providing adequate psycho-social support for deployed
+
+personnel and their families. This includes bridging the transition between the
+
+operational theatre and life in New Zealand by providing debriefings for deployed
+
+personnel at or close to the point of exit from theatre.
+
+6.35 Service organisations, units, and chaplains provide welfare support to the families of
+
+personnel serving overseas. This is consistent with the findings and recommendations
+
+of the War Pensions Review, which encouraged a holistic approach to supporting
+
+service personnel and their families.
+
+6.36 The NZDF will continue to invest in the resources needed to support service personnel
+
+and their families following any incident involving loss of life or serious injury.
+
+##### Veterans
+
+6.37 Through Veterans’ Affairs New Zealand, the NZDF aims for a seamless transition of
+
+support to eligible personnel after they have left full-time service.
+
+
+-----
+
+6.38 A holistic health care and management service has been introduced, to provide support
+
+to those veterans who have complex psychological or medical issues as a result of their
+
+time in uniform. It also covers those who are frail and need support to manage in their
+
+own homes.
+
+6.39 The War Pensions Act 1954 has been reviewed by the Law Commission, and the
+
+Government is considering the Commission’s report. It is envisaged that new
+
+legislation recognising contemporary and future needs of veterans will result from the
+
+review.
+
+#### Shifting resources to the front line
+
+6.40 Personnel are the core capability of the NZDF. They are also a major driver of costs.
+
+This White Paper has identified a number of initiatives which are intended to reinforce
+
+the importance of those working for the NZDF while also looking at ways to shift
+
+resources to where they are needed most.
+
+##### Civilianisation
+
+6.41 By one calculation, those in uniform earn additional benefits worth on average about
+
+$18,500[16] per year for all ranks. As such, the principle applied by the NZDF is that any
+
+position that does not deploy, or that does not need to be filled by a military specialist,
+
+or that is not providing operational respite, should be filled by a civilian, because they
+
+are less expensive.
+
+6.42 The NZDF’s R5 Project (right people, right job, right time, right capabilities, right cost)
+
+will help the NZDF to determine the scope for employing civilian or former Regular
+
+Force personnel in non-deployable positions. Increased internal competition for
+
+positions will also make it easier to place civilians in non-deployable roles which might
+
+formerly have been filled by uniformed personnel.
+
+6.43 This need for a more vigorous commitment to civilianisation has been advocated by the
+
+leadership of the NZDF. It will see uniformed personnel shifted to the front of the
+
+organisation, where they are needed, and enable the NZDF to free up resources for the
+
+purchase or sustainment of military capabilities.
+
+##### Remuneration
+
+6.44 The NZDF has recently revised its strategy so that total remuneration is better aligned
+
+to the market. The aim is to retain skilled and motivated personnel in the NZDF.
+
+16
+This figure comprises allowances which reflect the demands of military service, plus an
+accommodation allowance (the Universal Accommodation Component), and subsidised health
+and dental care
+
+
+-----
+
+6.45 One issue to be considered in the context of redistributing resources within the NZDF is
+
+the extent to which remuneration should be linked to whether a position or job family or
+
+rank is deployable or not. A distinction can be made between deployable and military
+
+specialist roles, and civilians. Remuneration policies should reflect these distinctions.
+
+6.46 In principle, for both uniformed and civilian personnel, remuneration should relate to the
+
+primary position or job family or rank a person holds and their ability and willingness to
+
+fulfill the expectations associated with the position. Within this principle, temporary
+
+incapacity generally would not affect remuneration.
+
+6.47 The State Services Commission and Treasury will help ensure that NZDF remuneration
+
+strategies and actions, including as they relate to allowances, are integrated into the
+
+Total Defence Workforce approach and are consistent with best practice in the state
+
+sector.
+
+##### Civilians and contractors 
+
+6.48 Roles currently performed by the NZDF’s civilian personnel could in a number of cases
+
+be performed by contractors. Decisions about whether a requirement should be
+
+outsourced will be based primarily on need, certainty of supply, and cost. In some
+
+instances it will also be relevant to consider the importance of retaining certain skills
+
+and capabilities in New Zealand rather than risk them migrating off-shore. If
+
+outsourcing offers an acceptable level of support, and can be provided at lower cost,
+
+then it should ordinarily be adopted.
+
+6.49 When outsourcing any function, it will be essential to retain enough in-house expertise
+
+to manage contracts and invigilate performance. It will also be prudent to avoid
+
+becoming so dependent on any one contractor that the NZDF is strategically exposed
+
+to either service interruption or price gouging.
+
+##### Reserve Forces
+
+6.50 The Defence Act 1990 permits the NZDF to call up former members of the Regular
+
+Force as a strategic Reserve.
+
+6.51 There is, however, confusion between this ‘Reserve’ and the part-time members of the
+
+Naval Volunteer Reserve, the Territorial Force of the New Zealand Army, and the Air
+
+Force Territorial Force, who are often collectively known as the ‘Reserve Forces’.  To
+
+clear up this confusion, the terminology will be reviewed and, if necessary, updated
+
+through an amendment to the Defence Act.
+
+
+-----
+
+6.52 In recent years the Territorial Force has been called upon to support a wide range of
+
+operations. For example, it provided a surge capacity of approximately 400 for Timor
+Leste in 2002, where its personnel performed well. Reserve Forces also provide a
+
+valuable contingency resource within New Zealand, able to assist in natural disasters
+
+and civil defence emergencies such as the 2010 Canterbury earthquake.
+
+6.53 That said, the overall utility of Reserve Forces personnel can be limited — over the past
+
+year only one in every 20 of the Territorial Force (or 88 personnel) have deployed on
+
+operations. And annual expenditure on the Reserve Forces is currently greater than
+
+the total budget of the Regular Force Light Infantry Battalion at Burnham.
+
+6.54 There is no disagreement over the desirability of the NZDF having a reserve capability.
+
+But there are a number of issues which require further deliberation. These include: the
+
+size of the Reserve Forces, and whether its members should be treated as part-time
+
+NZDF personnel; whether it should be general or specialist in nature, and the extent to
+
+which it should be deployable; whether it should be of military utility only or have a
+
+community-building function; the extent to which it should be integrated into Regular
+
+Force units; and the cost of such a force.
+
+6.55 It is clear that modernisation of the existing reserves is required, a key tenet of which
+
+would be the greater integration of the Reserve Forces with the Regular Force. The
+
+Chief of Defence Force will therefore provide the Government with a report by the end
+
+of March 2011, setting out how the reserves should be configured so that they support
+
+the operational requirements of the NZDF in the most cost-effective way.
+
+#### Cadets 
+
+6.56 The New Zealand Cadet Forces (NZCF) was established in 1971. Led by local adults
+
+who have taken on cadet force commissions, and other unit supporters, cadets
+
+undertake a nationally co-ordinated and well regarded annual programme, which aims
+
+to:
+
+   - foster adventure and teamwork;
+
+   - provide challenging and disciplined training activities; and
+
+   - promote an awareness of the Armed Forces and the role they play in the
+
+community.
+
+6.57 There are currently nearly 4,000 Cadets in more than 100 units across the country. A
+
+key focus in recent years has been to develop recognised skills and qualifications by
+
+working with organisations such as the Mountain Safety Council, St Johns, the
+
+New Zealand Qualifications Authority, Yachting New Zealand, and the Outdoor Pursuits
+
+Centre.
+
+
+-----
+
+6.58 NZDF support for the New Zealand Cadet Forces is set out in the New Zealand Cadet
+
+Forces Charter of Support. This states that the overarching philosophy of the NZCF is
+
+‘youth development and leadership training with a military flavour’. There is scope to
+
+grow NZCF numbers, although additional funding would be required.
+
+#### Youth service 
+
+6.59 Also at the national level, the NZDF currently has arrangements with the Ministry of
+
+Social Development (both Work and Income New Zealand and Child, Youth and
+
+Family), the Ministry of Education, the Tertiary Education Commission, and the ‘Blue
+
+Light’ scheme to deliver a range of youth training and social intervention programmes.
+
+These specialist services are managed by Youth Development Units responsible for
+
+delivering the Limited Service Volunteer and the Youth Life Skills schemes, and are well
+
+regarded.
+
+6.60 The Limited Service Volunteer scheme is focused on young people aged 18-25 who are
+
+registered with Work and Income New Zealand. The aim is to help unemployed young
+
+people build their skills and confidence, so that they might enter employment or work
+related training. The Youth Life Skills scheme targets at-risk youth aged 13-17, with the
+
+aim of encouraging participants to remain in mainstream education.
+
+6.61 The NZDF is a key partner in these two schemes, as well as in the Service Academies
+
+(targeting year 12 and 13 students in a number of low-decile secondary schools) and
+
+the Fresh Start programme (aimed at persistent youth offenders). Funding pressures
+
+and identifying personnel with the right mix of skills are issues that require active
+
+management, but such successful programmes reflect well on the NZDF.
+
+#### Conclusion
+
+6.62 The skills, commitment, and service of those serving within the NZDF have a value
+
+which goes beyond the financial balance sheet of the organisation. At the same time, it
+
+is important to ensure that the resources of the NZDF are allocated in a way which
+
+supports the creation of deployable and useful military capability.
+
+6.63 This means harnessing the skills available across the total defence workforce, including
+
+by maximising the value of the reserves to the NZDF, and using outside civilian
+
+expertise where it can add value to the NZDF’s effectiveness.
+
+6.64 This White Paper is committed to recognising the vocational quality of military service,
+
+and to retaining a professional, disciplined, effective, and highly regarded NZDF. It
+
+supports the continuing efforts of the NZDF to put the weight of its workforce policies
+
+towards the construction of a military force which is both deployable and cost-effective.
+
+
+-----
+
+### Chapter 7
+
+## Infrastructure
+
+7.1 Infrastructure needs to be considered alongside military capabilities and personnel as
+
+one of the central pillars supporting the outputs of the NZDF. Within the broad heading
+
+of ‘infrastructure’, real estate and ICT deserve particular attention. They are core
+
+enablers but expensive and have suffered from under-investment in recent years.
+
+7.2 This White Paper provides for a smaller, modernised and upgraded Defence estate,
+
+increased investment in routine maintenance, and an NZDF-wide ICT strategic plan to
+
+be managed by an empowered Chief Information Officer (CIO). Opportunities for
+
+improving the cost-effectiveness of Defence infrastructure through Public Private
+
+Partnerships (PPPs) have been identified and will be pursued.
+
+7.3 These initiatives will reduce duplication and improve the focus of infrastructure
+
+investment. Although capital investment will be required in the years immediately
+
+ahead, the medium-term result will be the reallocation of resources to support front line
+
+activities.
+
+#### Real estate
+
+7.4 The NZDF administers approximately 76,000 hectares and 5,000 buildings spread
+
+across nine main bases and two large training areas. The estate encompasses a large
+
+number of smaller outlying properties including, for example, those associated with
+
+Reserve and Cadet Forces, as well as rifle ranges, ammunition storage facilities, and
+
+communication sites.
+
+7.5 The estimated replacement cost of Defence real estate in 2009 stood at $2.2 billion.
+
+The current running costs are substantial, but fall considerably short of what is needed
+
+to maintain an estate of such a size and condition.
+
+
+-----
+
+7.6 This under-investment has resulted in a Defence estate which is generally in average
+
+condition, but facing a significant risk of rapid deterioration. Unless remedial action is
+
+taken, there is a risk that the Defence estate will become increasingly unfit for purpose.
+
+##### Consolidation 
+
+7.7 A diverse estate gives the NZDF a visible presence across the country. It can also
+
+provide local economic benefits, especially in some rural communities where other
+
+employment opportunities are scarce.  But the VfM review made it clear that this
+
+diversity brings with it costs, which the NZDF can no longer afford.
+
+
+-----
+
+7.8 The NZDF has been disposing of surplus estate since the 1980s. This process has
+
+been slow, partly complicated by local economic factors, Treaty of Waitangi settlement
+
+issues, and the clean-up work needed on some sites. Nevertheless, since 1999 it has
+
+generated over $200 million in disposal receipts. Further disposals currently in train
+
+include the sale of NZDF off-base housing, Watts Peninsula, and several Treaty of
+
+Waitangi settlement actions. Together these are worth some $230 million, and are
+
+being progressed as quickly as possible. But more needs to be done.
+
+7.9 Significant economies of scale could be achieved by concentrating Defence activities
+
+on fewer sites. The gains will go beyond direct efficiencies in estate running costs: the
+
+time and cost of travelling between sites will also be reduced, and equipment
+
+inventories can be consolidated rather than duplicated.
+
+7.10 The NZDF will therefore broaden and accelerate the process of estate rationalisation
+
+which is already underway.  The greatest potential benefits are likely to come from
+
+bringing together Air Force and Army activities at a single Manawatu ‘hub’ centred on
+
+the Air Force base at Ohakea. A business case will be developed to advance this
+
+option. This will result in some or all of the activities currently undertaken at Linton
+
+being relocated to Ohakea.
+
+7.11 Activities currently undertaken at Burnham, Trentham, Waiouru, Tekapo, and
+
+Woodbourne will also be examined to see if they can be delivered more efficiently from
+
+rationalised bases. The major land training and exercise areas will be retained, but
+
+permanent personnel may be relocated.
+
+7.12 There will be similar consolidation opportunities elsewhere. The NZDF will explore the
+
+scope for extending the ‘hub’ concept to Auckland, Wellington, and Canterbury, with
+
+redundant sites similarly rationalised or disposed of. This will require up-front
+
+investment, but significant operating savings are anticipated as units move into modern
+
+facilities that meet contemporary needs, and as old buildings and infrastructure are
+
+demolished or removed.
+
+##### Housing
+
+7.13 In the past, the NZDF typically provided housing and accommodation for most of its
+
+personnel. This was done to facilitate postings around the country, help establish a
+
+sense of shared community, and support the families of those posted overseas on
+
+operations.
+
+7.14 These drivers are no longer as strong as they once were. Families want to move less.
+
+Many want the option of living in their own accommodation, outside the base. And
+
+
+-----
+
+under-investment means that the NZDF is no longer able to provide service housing to
+
+all those who might wish to take it up.
+
+7.15 A new housing policy was therefore introduced in 2008. Its starting principle was that
+
+service personnel and their families should live among the communities they serve,
+
+and that an accommodation allowance (the Universal Accommodation Component)
+
+would be paid to bridge the cost difference between subsidised service housing and
+
+market prices. The aim of the policy is to reduce the ownership costs associated with
+
+Defence housing, and to reinvest any sale proceeds in front line capabilities.
+
+7.16 Under the new policy, Defence housing will ordinarily be provided only to personnel in
+
+specific circumstances (such as being required to live on base for training) or where
+
+there is no private housing market for personnel to access (as around many of the
+
+NZDF bases located in rural areas). In such cases, however, it may not be necessary
+
+or sensible for the NZDF to own or manage the stock itself. It could, for example,
+
+lease or rent property from the commercial market, or work within a PPP.
+
+7.17 The sale of Defence housing and land in the Hobsonville area to Housing New Zealand
+
+was a positive result of the new policy. But the NZDF still owns nearly 2,500 houses.
+
+Some of these will be retained for operational purposes, but some it would make sense
+
+to sell, or to place within a PPP arrangement.
+
+7.18 If necessary, this could mean providing an additional financial incentive for NZDF
+
+personnel to shift out of Defence properties and into the private market. The merits of
+
+any such incentive will be considered along with other options as part of an overall
+
+review of the cost-effectiveness of the Universal Accommodation Component.
+
+##### Estate management
+
+7.19 A Chief Operating Officer of the NZDF will have complete oversight of and
+
+responsibility for the management of the Defence estate, answerable to the CDF.[17]
+
+7.20 The NZDF has already moved to consolidate its property management functions. The
+
+case for outsourcing some or all of these functions will be considered, and a Defence
+
+Estate Strategic Plan will be completed.
+
+7.21 Notwithstanding these organisational improvements, the future management of the
+
+Defence estate will require increased investment, at least for the next few years.
+
+Under-investment needs to be addressed, and future plans for the Defence estate
+
+need to be put on a sustainable footing.
+
+17 For more detail on the Chief Operating Officer position see chapter nine
+
+
+-----
+
+7.22 This increased investment will in part be funded by disposals and base rationalisation,
+
+as well as by other VfM initiatives (including PPPs). Together, these measures will
+
+help achieve the aim of a Defence estate which is less expensive and in better
+
+condition.
+
+##### Public Private Partnerships (PPPs) 
+
+7.23 The NZDF has almost always purchased or leased the land and facilities it uses. But
+
+the alternative model of a PPP will feature more comprehensively in the future
+
+management of the Defence estate.
+
+7.24 Initial analysis suggests that using a PPP approach in the provision and management
+
+of the Defence estate as it relates to housing, and also more extensively, could offer
+
+significant financial and output benefits.
+
+7.25 The creation of a ‘hub’ at Ohakea will provide an opportunity to test the PPP approach.
+
+The business case to be presented to Cabinet will include a range of options (including
+
+a PPP) for providing infrastructure development, facilities maintenance, and the
+
+provision of support services at the proposed new hub. There are also other sites,
+
+including Whenuapai, where potentially significant efficiencies might be realised by
+
+following a PPP approach.
+
+7.26 Given the substantial efficiencies and additional benefits that a PPP is likely to offer,
+
+the NZDF will also explore the scope for extending this model beyond the Defence
+
+estate. Using private equity partners for the development of other infrastructure, and
+
+for the provision of some support elements for front line forces, will be investigated as
+
+a priority.
+
+#### Information and Communications Technology [18]
+
+7.27 ICT is a key enabler for an organisation as diverse as the NZDF, underpinning its
+
+effectiveness by linking communications, human resources, logistics, and finance.
+
+7.28 The value of ICT lies as much in making effective use of information as in gathering it.
+
+Storage, retrieval, organization, and analysis provide the basis for processing and
+
+communicating information to decision-makers — without them, ICT serves little
+
+purpose.
+
+7.29 ICT is therefore of central importance to the NZDF. It has not, however, attracted the
+
+necessary level of investment. This is in part because of budgetary constraints but
+
+18 This chapter considers the organisational ICT needs of the NZDF. It does not deal with
+operational ICT requirements
+
+
+-----
+
+also because the NZDF has, in the past, taken a fragmented approach to ICT projects.
+
+The result has been deficiencies in management information, weaknesses in the
+
+NZDF’s ICT infrastructure, and a lack of strategic coherence in ICT project selection
+
+and management.
+
+##### Priorities 
+
+7.30 There is an urgent need to replace the NZDF data centre. This could be developed as
+
+a resource shared by a range of government departments, built and operated by a
+
+professional IT services company. A robust disaster recovery component should be
+
+part of the project. The NZDF is currently working to address this need, as part of a
+
+wider inter-agency effort.
+
+7.31 Improved offshore communications capabilities also need to be improved, so that
+
+personnel deployed overseas can be better supported. Options for renting this extra
+
+capacity when required will be explored by the NZDF.
+
+7.32 Existing projects to strengthen IT capability in the core NZDF organisational functions
+
+of HR and payroll, logistics, and finance will be sustained and accelerated. Investment
+
+will be required in the short term in order to realise the long term efficiencies and
+
+resource redistribution.
+
+##### Governance  
+
+7.33 The NZDF’s Communications and Information Systems Branch (CIS) governs,
+
+manages, or delivers some ICT projects across the organisation, but a significant
+
+number of other projects rest within the single Services, especially where they have a
+
+front line focus. To succeed, major ICT change needs to be driven by the end user
+
+who, with CIS support, should be responsible for identifying and realising the business
+
+benefits of any proposed ICT expenditure.
+
+7.34 There is currently a risk of duplication of purpose and resource on ICT matters, and
+
+productivity gains that could be realised by the NZDF as a whole are at risk of being
+
+missed. Strategic oversight and a greater degree of centralisation will improve the
+
+scrutiny, co-ordination, and management of ICT.
+
+7.35 To achieve this, all projects will come under the purview of the CIO, whose
+
+responsibilities will include vetting any project with an ICT component.
+
+7.36 There will be increased transparency of ICT spending and greater scrutiny of the
+
+proposed costs and benefits of any ICT package.  The Executive Leadership Team of
+
+the NZDF will consider ICT issues on a regular basis.
+
+
+-----
+
+7.37 For his part, the CDF will have a continuing involvement in ICT projects, and will be the
+
+final NZDF decision-maker on funding and resource allocations, major policy decisions,
+
+and the realisation of benefits.
+
+##### Future investment
+
+7.38 Set against benchmarks of other militaries, or the private sector, the NZDF is under
+investing in the maintenance and renewal of its ICT. This has implications not only for
+
+the daily operations of the NZDF but also for its ability to realise efficiencies which
+
+have been identified by the VfM review. These issues must be tackled.
+
+7.39 Financial resources will be increased for the maintenance of ICT. A capital investment
+
+programme, with appropriate risk reduction strategies, will be initiated to ensure ICT
+
+infrastructure is refreshed and updated. Given the size and budget of the NZDF, off
+the-shelf package solutions should be the first choice for all system implementations.
+
+7.40 All major ICT investments will be based on a strong business case in which the risks
+
+are identified, the benefits are quantified, and the timelines are clear. This is important
+
+not only for a successful outcome but to ensure that the organisation is focused on its
+
+objectives.
+
+#### Conclusion
+
+7.41 A central plank for modernising and improving the effectiveness and efficiency of the
+
+NZDF is to ensure an appropriate level of attention to the supporting infrastructure of
+
+Defence estate and ICT.
+
+7.42 Some progress towards remedying existing shortcomings has already been made. But
+
+more will need to be done over the next few years.
+
+7.43 In particular, the NZDF will centralise decision-making and increase senior-level
+
+scrutiny of infrastructure investment. Efforts to streamline resources, such as base
+
+rationalisation and eliminating duplication of ICT programmes, will be driven with
+
+renewed vigour. And opportunities for PPPs and other innovative approaches will be
+
+explored.
+
+7.44 But organisational oversight and prioritisation alone will not be sufficient. A greater
+
+level of investment in these enabling assets of the NZDF is required, especially if
+
+efficiencies are to be realised over time and resources moved to front line capabilities.
+
+
+-----
+
+_HMNZS Canterbury in the South Pacific, participating in Exercise Tropic Twilight 2009_
+
+
+-----
+
+### Chapter 8
+
+## Affordability 
+
+8.1 One feature which distinguishes this White Paper from its predecessors is the level of
+
+scrutiny which has been given to financial issues.
+
+8.2 The strategic outlook underscores the need for an NZDF which is responsive, versatile,
+
+and professional, able to conduct the range of tasks set for it by the Government,
+
+particularly in the South Pacific but also alongside friends and partners further afield.
+
+The fiscal outlook requires an NZDF which is affordable now and in the future.
+
+8.3 Responsible policy means that these strategic and fiscal requirements must be
+
+reconciled.
+
+#### The fiscal situation
+
+8.4 The Crown is already committed to a number of acquisition and upgrade programmes
+
+contracted for over the past decade, including new helicopters and the upgrade of the
+
+C-130 Hercules and P-3 Orion fleets. These programmes are putting pressure on the
+
+budget of the NZDF. Depreciation alone is expected to rise by about $100 million over
+
+the next two years.
+
+8.5 New and more sophisticated equipment coming into service will create additional
+
+funding pressures on the operating budget. The need to set aside accumulated
+
+depreciation to fund future capability replacements also means that the capability
+
+programme proposed for the next ten years and thereafter will need to be carefully
+
+prioritised and phased.
+
+8.6 Price rises and disadvantageous exchange rate movements can also lead to increases
+
+in costs. These cost increases, too, will need to be managed, including by prioritisation
+
+across the capability programme.
+
+8.7 Finally, the future capability pathway set out in this White Paper will require additional
+
+operating and capital spending for front line capabilities and infrastructure.
+
+
+-----
+
+8.8 In short, and given the Government’s overall fiscal strategy, the NZDF will need to play
+
+its part over the long run to find the funding needed to meet these various demands, by
+
+redistributing existing resources and by prioritising the capability programme.
+
+#### Value for money
+
+8.9 The NZDF has in place a number of internal efficiency programmes, including the
+
+Defence Transformation Programme (DTP). This is a comprehensive effort to
+
+redistribute resources from within the existing budget of the NZDF.
+
+8.10 The DTP has already redistributed a total of $84 million through a number of “quick win”
+
+projects. Organisational changes which have been implemented in areas such as
+
+logistics, training, and HR will see this amount rise in future years. It is expected that
+
+resources worth around $100 million per year will be freed up by 2014/15 as a result of
+
+the DTP.
+
+8.11 But these measures will not in themselves be sufficient to meet the costs of maintaining
+
+and enhancing current capabilities.  It is for this reason that a comprehensive and
+
+independent VfM review of the NZDF, conducted by Dr Roderick Deane and Pacific
+
+Road Corporate Finance, was commissioned.
+
+8.12 The VfM team examined all major areas of NZDF organisational activity, with a
+
+particular focus on support functions. They consulted widely within the NZDF, and
+
+used international practice (from other military forces and from the corporate sector) as
+
+benchmarks. In total, over 100 work-streams were established with the aim of
+
+identifying opportunities to redistribute existing resources to front line activities while
+
+maintaining or enhancing operational outputs.
+
+#### VfM key findings
+
+8.13 Overall, VfM concluded that although the NZDF is small by international standards, in
+
+the field it is ably led, well trained, in the main well equipped, highly professional, able
+
+to work closely with our military partners, and respected by them. The VfM team were
+
+also satisfied that for deployments and related operations and support functions, the
+
+NZDF is delivering value for money, with a culture of excellence, speedy decision
+making, and a focus on being world class.
+
+
+-----
+
+8.14 But VfM concluded that this excellence in front line delivery is not being replicated
+
+elsewhere in the organisation. Close to 55% of the NZDF’s operating costs are
+
+incurred in the middle and back, with only 45% spent on front line activities. Most
+
+defence forces have as a core objective spending more on front line capabilities than in
+
+support areas, and the NZDF should be no exception.
+
+8.15 The VfM team was confident that this core objective can be achieved by the NZDF, but
+
+emphasised that there would have to be an appropriate level of commitment throughout
+
+the organisation to a clear and ambitious target.
+
+#### The target and affordability
+
+8.16 NZDF resources will therefore be redistributed to sustain and build front line
+
+capabilities. This redistribution process is already underway, led by the CDF. The
+
+Government expects that by 2014/15 the NZDF will free up $100 million from the DTP
+
+and $250 million to $300 million from other VfM initiatives, on an annual recurring basis,
+
+for front line capabilities.
+
+8.17 Such a redistribution from within the existing budget will make the capability proposals
+
+contained in this White Paper more affordable, but they will not remove the need for the
+
+Government still to contribute new money over time.
+
+8.18 The estimated additional money needed over the next ten years, even after the VfM
+
+and DTP outcomes have been achieved, is expected to fall broadly within the overall
+
+amount of the Government’s historical annual funding allowances for Defence. But this
+
+should not invite complacency. Not only are the costs incurred by Defence likely to
+
+increase over time, but the redistribution targets identified in this White Paper need to
+
+be realised.
+
+#### Hitting the target
+
+8.19 Although the VfM review identified many parts of the middle and back of the NZDF
+
+where resources can be freed up, it should not be regarded as a detailed prescription
+
+which the CDF must follow. The CDF will instead be given flexibility in the ways to
+
+achieve the target, subject to Ministerial expectations.
+
+8.20 That said, a number of actual and potential opportunities to redistribute existing
+
+resources have been identified, many from within the NZDF itself:
+
+   - Chapter six sets out workforce initiatives designed to shift resources towards the
+
+deployable front line.
+
+   - A number of support functions (including HR, finance, procurement, corporate,
+
+administration, and shared services) can be centralised and made more efficient,
+
+underpinned by upgraded ICT systems and HR processes.
+
+
+-----
+
+   - When comparing NZDF practices with international or commercial benchmarks, as
+
+much as 10% of current expenditure on training and 6% of expenditure on the
+
+procurement of non-military equipment (or non-specialised military equipment)
+
+could be redistributed to other priorities.
+
+   - The NZDF has already moved to follow international defence force trends by
+
+establishing a single logistics command structure, which is expected to free up
+
+more than $330 million over ten years.
+
+   - Reprioritisation will be pursued in areas such as Defence diplomacy (where more
+
+than $22 million per year is spent in direct costs), the Defence Technology Agency
+
+(which could be structured on a more commercial basis), bands, libraries, and
+
+museums.
+
+   - Capital expenditure could be saved through innovative ownership options for a
+
+range of capital assets. Leasing arrangements could offer cash management
+
+advantages in acquiring capital. The NZDF could also explore contracting out even
+
+more of its non-core services on a pan-NZDF basis, and look to promote strategic
+
+alliances with key private sector providers.
+
+   - Additional VfM recommendations in areas such as the Defence estate and ICT are
+
+contained in chapter seven.
+
+8.21 It is expected that the 2010/11 financial year will focus on accelerating existing
+
+initiatives for the more efficient delivery of education and training, non-military
+
+procurement, recruitment, and logistics. It is also expected that the number of external
+
+consultant and contractors employed by the NZDF will be reduced.
+
+8.22 The following years will see these initiatives intensified. Other areas such as the more
+
+efficient delivery of HR and finance services, and the implementation of Total Defence
+
+Workforce (including civilianisation and the rationalisation of non-operational
+
+allowances), will also be pursued. At the same time, there will need to be reinvestment
+
+in the key enabling functions of ICT, Defence infrastructure, and buildings so that the
+
+redistribution of resources within the wider NZDF can be supported.
+
+8.23 By 2013/14 it is expected that the redistribution strategy will be delivering very
+
+significant outcomes, and that internal policies, practices, and efficiencies will be
+
+supplemented by various contracting out and PPP initiatives.
+
+8.24 These proposals reflect a strong appetite from within the NZDF for organisational
+
+improvement. The Government is confident that those within the NZDF will bring to this
+
+task the same kind of enthusiasm and imagination they apply to military operations.
+
+
+-----
+
+8.25 This redistribution programme will be comprehensive and flexible. Some initiatives will
+
+free up more resources than expected, some fewer. But achieving the target in a way
+
+which builds the sense of purpose, effectiveness, and morale of the NZDF will require
+
+care. A strengthened level of corporate expertise will therefore support the CDF in the
+
+task of managing the NZDF. This will include appointing a Chief Operating Officer and
+
+strengthening the role of the Chief Information Officer.
+
+8.26 The VfM review concluded that the redistribution target is achievable, with determined
+
+leadership. The Government shares this view. The best way of bringing change to the
+
+NZDF while maintaining morale is to make it clear that the resources which are
+
+released by the DTP and VfM from the middle and back of the organisation will be
+
+redistributed to front line capabilities.
+
+#### Guiding principles
+
+8.27 The fundamental basis of this White Paper is an agreed strategy whereby existing
+
+resources will be redistributed towards the capabilities needed to deliver policy. CDF
+
+will be empowered to realise that strategy.
+
+8.28 To assist the CDF, and realising that it will be challenging, the following guidelines have
+
+been established:
+
+a) By 2014/15 the NZDF will free up $100 million from the DTP and $250 million to
+
+$300 million from other VfM initiatives, on an annual recurring basis, for front line
+
+capabilities.
+
+b) The NZDF will have flexibility in the way it pursues this target, but:
+
+i clear expectations will be set out in the performance agreement of the CDF;
+
+and
+
+ii clear savings milestones will be agreed and reported to Cabinet.
+
+c) Existing resources freed up by the NZDF will be reinvested in the capabilities set
+
+out in this White Paper, as an incentive for reform.
+
+d) As part of realising the target, the NZDF has been given the core objective of
+
+spending more on front line capabilities than it does in support areas from 2014/15.
+
+e) The business case for any new capital acquisition will:
+
+i be fully costed (including whole-of-life capital and operating expenditure, as
+
+well as options for ownership);
+
+
+-----
+
+ii show the impact of that acquisition on the affordability of the rest of the rolling
+
+capability programme over the next ten years, and the impact on capability
+
+replacements after 2020; and
+
+iii ensure that all internal sources of funding (including from savings realised
+
+and scheduled) have been identified before making any request for new
+
+money.
+
+f) Any cost over-runs incurred after Cabinet has approved a new capital acquisition
+
+will be absorbed by the NZDF.
+
+g) The capacity of the NZDF to meet the redistribution target while also absorbing
+
+inflation, asset revaluation costs, and adverse exchange rate movements will be
+
+assessed by the NZDF and Treasury jointly in the course of each annual budget
+
+cycle.
+
+h) The NZDF will continue to be funded separately for all marginal costs related to
+
+Cabinet-approved operational deployments, as well as for cadet and youth
+
+programmes.
+
+#### Balancing capability and funding
+
+8.29 The NZDF will ordinarily be expected to free up the necessary resources before new
+
+capital acquisitions are approved. This will, however, not always be possible. It is
+
+expected that some capital expenditure (on infrastructure, as well as on capabilities) will
+
+be required before the full extent of the redistribution target can be realised.
+
+8.30 Any resulting gap between realising the longer-term target and meeting the shorter
+term capital requirements will therefore need to be managed.
+
+8.31 Such management will include adjusting the sequencing and timing of platform
+
+upgrades and capital acquisitions wherever possible to ensure that the necessary
+
+funding is available.  There will be flexibility to reallocate to capital expenditure any of
+
+the operating expenditure resources which are freed up. Different models of ownership
+
+(such as leasing equipment, or working with private equity partners) will also be looked
+
+at for all capital investments, and especially those which do not have a requirement to
+
+deploy on operations.
+
+8.32 The overall NZDF capability mix will also be scrutinised in an updated Defence Review
+
+every five years, to ensure that the balance between policy requirements, strategic
+
+outlook, and fiscal context is being maintained.
+
+
+-----
+
+8.33 Many of the major acquisitions foreshadowed in this White Paper are due to take place
+
+in fifteen or twenty years. The White Paper therefore needs to be seen as setting the
+
+policy framework for a capability programme which is reassessed and refreshed on a
+
+regular basis.
+
+#### Future financial management
+
+8.34 To help the NZDF and other agencies manage the demands and fluctuations in the
+
+capital and operating budgets of the NZDF, a modified funding and financial
+
+management regime will be introduced.
+
+8.35 This regime will make clearer the linkages between capital and operating expenditure,
+
+including how capital acquisitions impact on operating spending outside the forecast
+
+period. It will also improve management and visibility of the overall capability
+
+programme over the long term.
+
+8.36 Transparency, predictability, and completeness lie at the heart of this regime. The
+
+overarching objective is to ensure that Ministers have good visibility of the future capital
+
+and operating expenditure implications of all capital funding requests, and that the
+
+NZDF’s spending intentions remain aligned with the Government’s policy and fiscal
+
+objectives.
+
+8.37 NZDF contributions to supporting other agencies in non-military activities, and their
+
+costs, will also be separately identified, as recommended by the VfM review.
+
+#### Conclusion
+
+8.38 The Government is confident that the capability pathway mapped out in this White
+
+Paper is both an appropriate response to an uncertain strategic context and takes
+
+proper account of New Zealand’s fiscal circumstances.
+
+8.39 To meet the requirement to balance policy, capability, and money, the Government has
+
+set the NZDF an ambitious but realisable target for redistributing resources from within
+
+the existing budget of the NZDF.
+
+8.40 The incentive for doing so is simple — such resources will be reinvested in the front line
+
+capabilities of the NZDF, so that it can continue to deliver the range of policy outcomes
+
+expected of it by the Government.
+
+
+-----
+
+Senior members of the NZDF at a Defence Transformation Programme meeting
+
+
+-----
+
+### Chapter 9
+
+## Organisational Reform
+
+9.1 The NZDF and the Ministry of Defence (the Ministry) need not only to operate
+
+efficiently as two separate organisations but also to work together as effectively as
+
+possible.
+
+9.2 To achieve this, the management structure of the NZDF will be reconfigured, and the
+
+ability of the two organisations to undertake joint activities when it makes sense for
+
+them to do so will be strengthened.
+
+#### Management of the NZDF
+
+9.3 There is a need to reinforce the authority of the CDF as chief executive over the
+
+NZDF, not least because the CDF will be accountable for realising the resource
+
+redistribution target which has been set by the Government. The CDF therefore
+
+needs unambiguously to have the authority to achieve this.
+
+9.4 To assist the CDF in the execution of that authority, the expertise of the NZDF
+
+Executive Leadership Team will be broadened. In particular, additional senior and
+
+experienced civilian management skills will be introduced. This will be accompanied
+
+by an enhancement of specialist management skills at lower levels.
+
+##### Authority of the CDF
+
+9.5 There are important constitutional reasons why the exercise of the CDF’s military
+
+authority should have checks and balances placed around it. At the same time, these
+
+checks and balances should not constrain the CDF’s internal management authority.
+
+Any organisational arrangements which impact on that authority should be removed.
+
+9.6 Recognising these constitutional interests, and to ensure continuity in command of
+
+the NZDF, the Vice Chief of Defence Force (VCDF) will now become the statutory
+
+deputy of the CDF, to be appointed by the Governor-General in Council.  The
+
+
+-----
+
+selection process for the VCDF will be the same as that which currently applies to the
+
+appointment of the CDF.
+
+9.7 At the same time, the mode of appointment of the three Service Chiefs will be
+
+changed, to clarify the extent and nature of their authority. Appointments to these
+
+positions are currently made by the Governor-General in Council. In future the CDF
+
+will appoint the Service Chiefs, in consultation with the Minister of Defence. Cabinet
+
+will be advised of the CDF’s intended appointment, and could exercise a right of veto
+
+if it so determined.
+
+9.8 In this way the authority of the CDF as chief executive, and the authority of the VCDF
+
+as the military deputy, would be reinforced, while at the same time ensuring that
+
+those holding senior command positions within the NZDF enjoy the confidence of the
+
+Government.
+
+9.9 These changes will not alter the responsibilities of the Service Chiefs to raise, train,
+
+and maintain their respective forces. They will not diminish their command
+
+responsibilities, nor will they dilute the unique character of each Service. They will,
+
+however, make it clear both within the NZDF and to those outside that the CDF has
+
+overall accountability for (and so the ultimate authority over) the management and
+
+operation of the entire NZDF.
+
+9.10 The Commander Joint Forces New Zealand (COMJFNZ) will be appointed by the
+
+CDF in consultation with the Minister of Defence. This different set of arrangements
+
+recognises not only the operational nature of the COMJFNZ role but also that
+
+COMJFNZ exercises his operational authority essentially as an agent of the CDF.
+
+##### Strengthened management 
+
+9.11 In terms of broadening the expertise of the Executive Leadership Team, a new
+
+civilian post of Chief Operating Officer (COO) will be established. The person
+
+appointed to this position will be the CDF’s deputy in managing the NZDF as an
+
+organisation, and will drive the reforms needed to redistribute existing resources to
+
+front line capability. Working to the CDF, the COO will ensure that such reforms are
+
+planned, executed, and monitored comprehensively and with vigour.
+
+9.12 The COO position will sit alongside and be equal in status to the VCDF, who will
+
+continue to be primarily responsible for military functions. The CDF will appoint the
+
+COO, in consultation with the State Services Commissioner and following
+
+endorsement by Cabinet.
+
+9.13 As well as strengthening the membership of the Executive Leadership Team in this
+
+way, steps will be taken to provide the CDF with improved performance management
+
+
+-----
+
+data (including on the reform programme) and better quality financial information,
+
+including a capital investment plan.
+
+##### Accountability of the CDF
+
+9.14 The State Services Commissioner manages the process of appointing public service
+
+chief executives, including the Secretary of Defence (the Secretary), and takes the
+
+lead in assessing and managing their performance.
+
+9.15 These arrangements do not currently apply to the CDF. Although the State Services
+
+Commissioner assists the Minister in the process of appointing the CDF, and will
+
+continue to do so, the Commissioner in future will also assist the Minister in the
+
+evaluation and management of the CDF’s performance.
+
+9.16 Performance expectations relating to military leadership and the effective
+
+management of the NZDF will be set for the CDF, including achieving the resource
+
+redistribution targets in this White Paper. The CDF will be accountable for achieving
+
+these expectations.
+
+#### Working together
+
+9.17 The functions and accountabilities of the CDF and the Secretary are set out in current
+
+legislation, most notably the Defence Act 1990, the State Sector Act 1988, and the
+
+Public Finance Act 1989.
+
+9.18 The NZDF and the Ministry are each charged with undertaking specific roles and
+
+tasks.  If the best results are to be achieved, it is essential that the Secretary, as the
+
+Government’s principal civilian adviser on defence matters, and the CDF, as the
+
+Government’s principal military adviser, work closely together.
+
+##### Defence policy
+
+9.19 The Defence Act requires that the Secretary consult with the Chief of Defence Force
+
+in the formulation of advice on defence policy. This requirement acknowledges the
+
+different areas of expertise that must be brought together if the Government is to
+
+receive complete and coherent advice.
+
+9.20 The Ministry’s resources for this task will be strengthened to ensure that it is able to
+
+offer a comprehensive view of the links between policy on the one hand and
+
+capability and funding on the other. This strengthening will focus on depth rather
+
+than breadth, with an increase in the number of experienced staff.
+
+9.21 Reciprocal access to information between the Ministry and the NZDF will be
+
+mandated, as a way to ensure that Defence policy advice is a coherent and seamless
+
+reflection of all the relevant material which is available within the two organisations.
+
+
+-----
+
+9.22 The role and capability of the Evaluation Division of the Ministry will also be
+
+strengthened.
+
+##### Defence capability life cycle
+
+9.23 The Defence Act tasks the Secretary to procure, replace, or repair ships, vehicles,
+
+aircraft, and equipment for use by the NZDF, where they have major significance to
+
+military capability.
+
+9.24 Although the Act gives this responsibility solely to the Secretary, in practice the
+
+Secretary and CDF work closely together through all phases of a capability’s life
+
+cycle. Indeed, they must work together. Not only does each life cycle phase (see
+
+following diagram) require both policy and military expertise, but the overall success
+
+of any major procurement demands that the Secretary and the CDF retain oversight
+
+of the process as a whole.
+
+9.25 In a very real sense, then, these phases are not distinct and separate but rather part
+
+of a seamless and dynamic process of management which covers the whole
+
+operational life of a capability from policy specification, through to acquisition and
+
+operational use, and then eventual disposal. And just as the end-user (the NZDF)
+
+has an interest in every step in this process, so the Ministry must ensure that
+
+decisions taken throughout the process are informed by policy considerations.
+
+##### Existing arrangements
+
+9.26 The existing procurement process can work well — New Zealand has for the most
+
+part bought useable equipment at a good price. But there are also examples of
+
+problems. The 2008 reports from the Office of the Auditor-General and from John
+
+Coles (on _HMNZS Canterbury) identified shortcomings in the management of some_
+
+procurement projects.
+
+9.27 For this reason, the Secretary, as part of his Defence Assessment, commissioned
+
+Michael Wintringham and Aurecon Ltd to examine aspects of Defence organisational
+
+arrangements and the procurement process respectively, and to recommend ways to
+
+improve them. Procurement was also considered by the VfM team.
+
+9.28 The reviews all highlighted what was seen as disjointed and fragmented management
+
+across the capability life cycle, with confusion particularly acute at the transition point
+
+
+-----
+
+between the policy and acquisition phases (led by the Ministry) and the in-service use
+
+and disposal phases (led by the NZDF).
+
+##### Whole-of-life capability management
+
+9.29 In looking to remedy these problems, the Government recognises that the NZDF and
+
+the Ministry must work together across all phases of the capability life cycle. The
+
+continuous and effective co-operation which is needed must be driven from the top of
+
+the two organisations, and must be reflected in the formal accountabilities of the
+
+Secretary and CDF. These accountabilities will exist not only for the individual
+
+phases of a capability project but also for the management of the capability life cycle
+
+as a whole.
+
+9.30 The Ministry will ordinarily lead and be accountable for the policy, capability
+
+development, and acquisition phases, and the NZDF will ordinarily lead and be
+
+accountable for the introduction into service, in-service, and disposal phases, unless
+
+the Minister directs otherwise.
+
+9.31 Each phase will be executed through a clearly identified (and accountable) project
+
+director or manager, operating within a co-operative framework. In many instances
+
+this will be given effect through the creation of joint staffs, with NZDF and Ministry
+
+personnel working together as part of a formally constituted team.
+
+9.32 A ‘capability sponsor’ will also be formally identified for each major acquisition. This
+
+will usually be a Service Chief, but could for example also be the Commander Joint
+
+Forces New Zealand or the Chief Information Officer. The ‘capability sponsor’ will
+
+ensure that the requirements of the chief executives in each phase of the capability
+
+life cycle are met, including by providing all necessary personnel.
+
+9.33 Notwithstanding these working level arrangements, the accountability for each
+
+individual phase of the capability life cycle will rest with the relevant chief executive.
+
+9.34 Recognising that the overall success for managing the life cycle of any major
+
+acquisition requires close co-operation between the two organisations, the Minister of
+
+Defence (and the Cabinet) will expect any problem which threatens the overall
+
+success of that life cycle to be identified by either or both of the two chief executives
+
+and addressed by them both, acting collaboratively. Such collaboration will in future
+
+also be assisted by advice from outside experts who will be appointed to Defence’s
+
+internal capability management body.
+
+9.35 This approach is a less radical option than some alternatives, such as reuniting the
+
+Ministry and the NZDF within a ‘diarchy’ (the model which prevails in Australia,
+
+Canada, and the United Kingdom). Instead, it retains the benefits of having clear and
+
+
+-----
+
+separate accountabilities for each of the two chief executives while encouraging
+
+collaborative activity where that matters.
+
+#### Defence Advisory Board
+
+9.36 The Defence Review profited from the skills and insights provided by experts outside
+
+of Defence as well as within. This will be made a standing arrangement.
+
+9.37 External contributions to Defence’s business will be provided through a new
+
+independent Defence Advisory Board to be appointed by the Minister of Defence.
+
+The Board will provide the Minister with independent advice.
+
+#### Conclusion 
+
+9.38 The NZDF needs the right equipment, people, and infrastructure if it is to deliver the
+
+policy outcomes identified in this White Paper. It also needs a modern, focused, and
+
+responsive organisation to support that delivery.
+
+9.39 The current structures have a number of strengths. But they can also be improved.
+
+CDF lacks some of the authority and accountability of other public service chief
+
+executives. The split between the Ministry and the NZDF can at times be a barrier to
+
+effectiveness. And the focus of the NZDF on the effective delivery of military outputs
+
+in a demanding environment has seen less attention paid to organisational matters.
+
+9.40 These issues will be addressed. The CDF will be given more authority and more
+
+clearly defined accountability as chief executive. The new COO will drive the reform
+
+programme. And corporate management skills throughout the organisation will be
+
+strengthened.
+
+9.41 The changes in organisational arrangements will be backed up by strengthening
+
+internal monitoring mechanisms and by creating an independent Defence Advisory
+
+Board.
+
+9.42 These initiatives, taken cumulatively, will be a step-change in how Defence is
+
+managed, and will facilitate the reforms needed to ensure that the NZDF is not only
+
+modern, professional, and effective in the field but also in its organisation. Indeed,
+
+strengthening the organisation in this way will deliver the NZDF the operational
+
+capabilities it needs — now and into the future.
+
+
+-----
+
+-----
+
+## Abbreviations
+
+- ASEAN Association of Southeast Asian Nations
+
+- ADF Australian Defence Force
+
+- CDF Chief of Defence Force
+
+- CDR Closer Defence Relations (Australia and New Zealand)
+
+- CIO Chief Information Officer
+
+- COO Chief Operating Officer
+
+- CIS Communications and Information Systems
+
+- DTP Defence Transformation Programme
+
+- EEZ Exclusive Economic Zone
+
+- FPDA Five Power Defence Arrangements (Australia, Malaysia, New Zealand,
+
+Singapore, and the United Kingdom)
+
+- FRANZ France, Australia, and New Zealand
+
+- GDP Gross Domestic Product
+
+- HR Human Resources
+
+- ICT Information and Communications Technology
+
+- IPV Inshore Patrol Vessel
+
+- ISR Intelligence, Surveillance, and Reconnaissance
+
+- IT Information Technology
+
+- LAV Light Armoured Vehicle
+
+- MFAT New Zealand Ministry of Foreign Affairs and Trade
+
+- NATO North Atlantic Treaty Organisation
+
+- NPT Nuclear Non-Proliferation Treaty
+
+- NZCF New Zealand Cadet Force
+
+- NZDF New Zealand Defence Force
+
+- OPV Offshore Patrol Vessel
+
+- PPP Public Private Partnership
+
+
+-----
+
+- PIF Pacific Islands Forum
+
+- RAMSI Regional Assistance Mission to Solomon Islands
+
+- VfM Value for Money
+
+- VCDF Vice Chief of Defence Force
+
+- UN United Nations
+
+- UK United Kingdom
+
+- US United States
+
+- WMD Weapons of Mass Destruction
+
+
+-----
+
+## Glossary
+
+#### • Airlift (Strategic and Tactical): the capability to transport and deliver forces and matériel
+
+by air in support of strategic and/or tactical objectives.
+
+#### • Attrition: the loss of personnel and/or matériel.
+
+ • Baseline: the level of operating funding provided to a Department each year so that it
+
+can produce its normal outputs. It does not include additional funding that may be
+
+provided for specific outputs or activities that will not recur.
+
+#### • Capability: the personnel, equipment, platforms, and/or other matériel that affect the
+
+capacity to undertake military operations.
+
+#### • Capability Life Cycle: the ‘life cycle’ that begins with the identification of the need to
+
+address a capability gap. This need is progressively translated into a working capability
+
+system that is operated and supported until it reaches the end of its life and is ultimately
+
+withdrawn from service.
+
+#### • Capital expenditure (capex): capital used to acquire or upgrade physical assets such as
+
+military equipment, infrastructure, and other capital items.
+
+#### • Coalition: a force composed of military elements of more than one nation that have
+
+formed a temporary alliance for some specific purpose.
+
+#### • Collective security: the principle that all members of a collectivity of states are jointly
+
+responsible for the physical security of each of them.
+
+#### • Combat: military operations involving the use or threat of force, including lethal force, in
+
+order to impose will on an opponent or to accomplish a mission.
+
+#### • Combat service support: the support supplied to combat forces, primarily in the fields of
+
+administration and logistics (supply, maintenance, transportation, health services, and
+
+other services).
+
+#### • Combat support: the provision of fire support and operational assistance to combat
+
+elements, including intelligence and communications.
+
+
+-----
+
+#### • Command and Control: the exercise of authority and direction by a properly designated
+
+commander over assigned and attached forces. Command and control functions are
+
+performed through an arrangement of personnel, equipment, communications, and
+
+procedures employed by a commander in planning, directing, co-ordinating, and
+
+controlling forces in the accomplishment of a mission.
+
+#### • Commercial off-the-shelf: technology and/or equipment that is ready-made and
+
+available for sale.
+
+#### • Counter-proliferation: activities to combat proliferation, including diplomacy, arms
+
+control, export controls, intelligence collection, and interdiction.
+
+#### • Defence: the Ministry of Defence and the New Zealand Defence Force, taken together.
+
+ • Defence Attaché: a military officer based in some New Zealand Embassies whose role
+
+is to provide liaison between New Zealand defence and security interests and those of
+
+the nation in which they reside. A military officer attached to a New Zealand High
+
+Commission and performing the same role is known as a Defence Adviser.
+
+#### • Defence Estate: the land and buildings administered by the NZDF.
+
+ • Deployability: the extent to which someone or something can be used on operations. 
+
+ • Depreciation: the amount by which the value of an asset reduces each year over its life
+
+due to usage, the passage of time, wear and tear, and/or other such factors.
+
+Depreciation is allocated as an operating expense.
+
+#### • Diarchy: an organisational arrangement by which the Chief of Defence Force and the
+
+Secretary of Defence would jointly manage a single Defence organisation, reporting
+
+jointly to the Minister of Defence.
+
+#### • Doctrine: the fundamental principles by which military forces or elements guide their
+
+actions in support of national objectives.
+
+#### • Force element: units which directly contribute to the delivery of defence force outputs,
+
+and which may form part of an operational force.
+
+#### • Force protection: actions taken to prevent or mitigate hostile actions against NZDF
+
+personnel, resources, platforms, and critical information. Can be defensive or
+
+offensive, and passive or active.
+
+
+-----
+
+#### • Intelligence, surveillance and reconnaissance (ISR): the capability to collect, process,
+
+exploit, and disseminate accurate and timely information so as to provide force
+
+elements with the situational awareness necessary successfully to plan and conduct
+
+operations.
+
+#### • Intensity of conflict (high, medium, low): the overall tempo, and degree of violence
+
+employed and/or encountered. The rate of consumption of _matériel can also be a_
+
+measure of intensity. The intensity of a conflict is high when the violence is continuous
+
+or when encounters between combatants are particularly violent; **medium when**
+
+violence is frequent; and **low when violence is occasional. The intensity may vary**
+
+during the course of a particular conflict and across parts of an operational theatre. It
+
+will also vary for individual participants, depending on their particular role or function.
+
+#### • Interoperability: the ability of systems, units, or forces to provide services to, and accept
+
+services from, other systems, units, or forces, and to use the services exchanged to
+
+enable them to operate effectively together.
+
+#### • Inter-state conflict: conflict or warfare between states, and involving opposing regular
+
+armed forces.
+
+#### • Intra-state conflict: conflict or warfare between organised groups within the same state. 
+
+Intra-state conflict can be high-intensity, and often involves both regular and irregular
+
+armed forces.
+
+#### • Job family: a set of jobs that share a degree of similarity but which may differ in terms of
+
+knowledge and levels of expertise.
+
+#### • Joint activity: activities, operations, and/or organisations in which elements of more one
+
+Service — a joint force — from the same nation participate.
+
+#### • Jointness/Joint effect: an integrated approach which allows combined force elements to
+
+be more than the sum of its components.
+
+#### • Matériel: material and equipment used in warfare.
+
+ • Networked enabled capability: the ability to link sensors, decision-makers, and weapons
+
+systems so that information can better deliver a military outcome.
+
+
+-----
+
+#### • Non-combat operations: military operations where weapons may be present, but their
+
+use or threatened use is for self-protection purposes and not essential to the
+
+accomplishment of the mission.
+
+#### • Operating expenditure (opex): defence operating expenditure is categorised under four
+
+headings — _personnel, which includes human resource costs;_ _depreciation_ (see
+
+above); capital charge, which is a fee charged of Departments by the Crown for holding
+
+capital (analogous to interest on borrowed money); and other operating.
+
+#### • Operational tempo: the rate or rhythm of military operations. Can be low, medium, or
+
+high.
+
+#### • Peace support operations: a generic term describing operations that make use of
+
+diplomatic, civil, and military means to restore or maintain peace. Such operations may
+
+include conflict prevention, peace making, peace-enforcement, peace keeping, and
+
+peace building.
+
+#### • Platform: any vessel, vehicle, aircraft, and/or other delivery system from which
+
+weapons, personnel, and/or matériel can be deployed.
+
+#### • Proliferation Security Initiative (PSI): a global effort that aims to stop trafficking of
+
+weapons of mass destruction, their delivery systems, and related materials to and from
+
+states and non-state actors of proliferation concern.
+
+#### • Public Private Partnerships: usually involve a contract between a public sector authority
+
+and a private party, in which the private party provides a service or project and
+
+assumes the financial, technical, and operational risk for it.
+
+#### • Sealift: the capability to transport and deliver forces and matériel by sea in support of
+
+strategic and/or tactical objectives.
+
+
+-----
+
+### Annex - Facts and Figures
+(as at 30 June 2010)
+
+## New Zealand Defence Force
+
+
+-----
+
+-----
+
+## Royal New Zealand Navy
+
+
+-----
+
+## New Zealand Army
+
+
+-----
+
+## Royal New Zealand Air Force
+
+
+-----
+

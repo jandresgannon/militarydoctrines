@@ -1,0 +1,2731 @@
+**B E L F E R C E N T E R S P E C I A L R E P O R T**
+
+# Deterring Terror
+
+## How Israel Confronts the Next Generation of Threats
+
+#### English Translation of the Official Strategy of the Israel Defense Forces
+
+ Foreword by Graham Allison
+
+**SPECIAL REPORT**
+
+AUGUST 2016
+
+
+-----
+
+**Belfer Center for Science and International Affairs**
+
+Harvard Kennedy School
+79 JFK Street
+Cambridge, MA 02138
+
+**www.belfercenter.org**
+
+Cover image: Soldiers from the IDF Home Front Command’s Search and Rescue Brigade complete
+
+their beret march in southern Israel after finishing eight months of training, October 4, 2014.
+
+(Alexi Rosenfeld, IDF Spokesperson Unit CC BY-NC 2.0)
+
+Translation by Susan Rosenberg
+
+Research Assistance by Henry Rome
+
+Design & Layout by Andrew Facini
+
+Copyright 2016, President and Fellows of Harvard College
+
+Printed in the United States of America
+
+
+-----
+
+**B E L F E R C E N T E R S P E C I A L R E P O R T**
+
+
+# Deterring Terror
+
+## How Israel Confronts the Next Generation of Threats
+
+#### English Translation of the Official Strategy of the Israel Defense Forces
+
+ Foreword by Graham Allison
+
+**SPECIAL REPORT**
+
+AUGUST 2016
+
+
+-----
+
+In August 2015, the Israel Defense Forces (IDF) published its first-ever
+
+public defense doctrine. Authored by new IDF Chief of General Staff Lt. Gen.
+
+Gadi Eizenkot, the doctrine outlines the military’s strategic and operational
+
+responses to the main threats facing Israel.
+
+To make this document, published only in Hebrew, accessible to the American
+
+strategic community, the Belfer Center commissioned Susan Rosenberg to
+
+provide an English translation.
+
+The Center also annotated the doctrine to provide context for readers less
+
+familiar with the Israeli national security environment. Selected annotations
+
+are included in this print version, with the fully-annotated version available
+
+online at belfercenter.org/IDFStrategy.
+
+
+-----
+
+### Foreword
+
+The U.S. is often called a “laboratory of democracy.” Each of its 50 states
+address common challenges from education and public safety to promoting
+economic growth. When one finds a better way to skin a cat, others can learn
+from its experience. Israel might analogously be called a “laboratory of secu­
+rity.” Facing multiple threats from all directions 24/7, Israeli national security
+professionals have demonstrated a remarkable capacity for learning. They
+experiment, recognize failures, explore alternatives, and apply lessons to the
+next case. Israel’s current approach to national security thus reflects lessons
+learned from many iterations of experience.
+
+Much of Israel’s tactical and strategic thinking occurs behind a veil of secrecy.
+But in 2015, for the first time in Israel’s history, Chief of the General Staff
+of the Israel Defense Forces Lt. Gen. Gadi Eizenkot issued a public version
+of Israel’s national security doctrine. Unfortunately, it was released only in
+Hebrew. Harvard Kennedy School’s Belfer Center for Science and Interna­
+tional Affairs is now pleased to be able to present an English translation.
+
+The U.S. is not Israel. Not every security strategy that works for Israel is appro­
+priate for America. But by making this document available for the American
+strategic community, the Belfer Center hopes to encourage a debate about how
+the lessons learned by Israel can inform and enrich our own national security
+strategy. The online translation of the doctrine includes annotations to provide
+context for readers less familiar with the Israeli national security environment,
+as well as an article that highlights the IDF’s decision to make deterrence the
+centerpiece of its strategy to prevent ISIL attacks in Israel.
+
+**Graham Allison**
+Director, Belfer Center for Science and International Affairs
+
+
+-----
+
+### From the Office of the Chief of Staff
+
+Many changes have taken place in the strategic environment in recent years,
+which have led to changes in the nature and potency of the threat facing the
+State of Israel, spreading outward from the first circle to more distant threats.
+The doctrine as formulated here is based on an understanding that the con­
+ventional and nonconventional threats in the first circle are on the decline
+while there has been an increase in nonconventional threats (terrorist organi­
+zations, subterranean infrastructure, high trajectory weapons, etc.) and cyber
+threats. At the same time, we are aware that underlying the multi-year plan
+is the need to build the IDF’s might both in multi-theater and in multi-di­
+mensional defense and for simultaneous attacks on a number of fronts in
+preparation for D-Day.
+
+The “IDF Strategy” document presents the changes the IDF needs to
+undergo in light of the future challenges and changes in the characteristics
+of the enemy, such as reinforcing and improving the effectiveness of ground
+maneuvers, diversifying operational capabilities in campaigns between wars,
+strengthening the cyber dimension, and preserving intelligence, aerial, and
+naval superiority. As to the use of the force, the strategy is based on unchang­
+ing principles — deterrence, early warning, defense, defeating the enemy, and
+victory. In addition, the approach sets out the command and control doctrine
+for combat with the aim of enabling the effective use of the IDF’s capabilities
+in the entire war theater.
+
+
+-----
+
+Dealing with the IDF’s Strategy has been part of the IDF’s operational activ­
+ities for many years. The approach as formulated in this document will be
+the basis for the processes that the IDF will lead within the framework of the
+“Gideon” multi-year plan and will be the compass for building and operating
+the force with the aim of realizing its capabilities while studying the changes in
+the enemy’s characteristics and being conscious of the IDF’s might.
+
+Formulating the strategy is not the supreme test, the proof lies in the imple­
+mentation of the task in Routine, Emergencies, and War (REW). The IDF will
+succeed in facing each and every task and challenge and in carrying out its
+mission: to defend and to be victorious.
+
+**Lt. General Gadi Eisenkot**
+Chief of the General Staff
+
+Av 5775
+August 2015
+
+
+-----
+
+### Table of Contents
+
+###### Introduction...........................................................................................1
+
+ Chapter 1: The Strategic Framework.................................................. 3
+
+National Objectives ................................................................................................ 3
+
+Threats..................................................................................................................... 4
+
+Principles of the national security doctrine.......................................................... 4
+
+The link between national goals and the use of force........................................... 6
+
+###### Chapter 2: The Strategic and Operational Environment 7
+
+Characteristics of the international and strategic environment......................... 7
+
+Characteristics of the operational environment .................................................. 8
+
+Other outlines that are not the focus of the doctrine......................................... 10
+
+###### Chapter 3: Deploying the IDF’s Force................................................. 11
+
+General principles for deploying the IDF’s force ................................................. 11
+
+The purpose of military deployment in the IDF’s functional situations �����������12
+
+Campaigns in Emergency and War situations.....................................................14
+
+Principles in the use of force in Emergency and War situations.........................17
+
+Main capabilities and efforts in War and Emergency situations.........................19
+
+Details of the efforts..............................................................................................20
+
+Principles underlying the use of force during Routine.......................................23
+
+Deterrence ............................................................................................................24
+
+Campaign between wars (CBW).......................................................................... 25
+
+Operations against states without a common border .......................................28
+
+###### Chapter 4: The Command and Control Concept and Preparing the IDF for Combat   .......................................................30
+
+General Headquarters (GHQ)...............................................................................30
+
+Chief of the General Staff as battle commander.................................................31
+
+Main headquarters (HQs).....................................................................................32
+
+Principles of command and control ...................................................................32
+
+
+-----
+
+###### Chapter 5: Building the IDF’s Force...................................................34
+
+Guiding principles for building the force.............................................................34
+
+Building the IDF’s relative advantage .................................................................35
+
+Planning and implementing the building of the force........................................36
+
+Utilization of resources......................................................................................... 37
+
+Critical mass.......................................................................................................... 37
+
+Prioritization in principle in building the force.................................................... 37
+
+Core capabilities required by the IDF...................................................................38
+
+Capabilities needed in the field of defense .........................................................39
+
+Defending the borders in Emergencies and War.................................................39
+
+Defending the borders in Routine........................................................................40
+
+Defense against high trajectory weapons ..........................................................40
+
+Capabilities needed in the field of attack ...........................................................40
+
+Ground maneuvering.............................................................................................41
+
+System-wide fire....................................................................................................42
+
+Infantry ORBAT incursion from the air................................................................43
+
+Deployment of special forces deep behind enemy lines ...................................43
+
+Building capability for CBW..................................................................................44
+
+Building cyberspace capability.............................................................................44
+
+Building enabling capabilities...............................................................................45
+
+Risk management for scenarios that are not the focus of the doctrine ����������48
+
+Developing capabilities against states without a common border  �����������������48
+
+###### Conclusion..........................................................................................49
+
+
+-----
+
+Soldiers from the IDF Home Front Command’s
+Search and Rescue Brigade complete their
+beret march in southern Israel after finishing
+eight months of training, October 4, 2014.
+
+(Alexi Rosenfeld, IDF Spokesperson Unit
+
+CC BY-NC 2.0)
+
+
+-----
+
+### Introduction
+
+1. **The IDF Strategy document is the basis for guiding and building**
+
+**up the use of force and deals with the following issues: [1]**
+
+A. **How the IDF analyzes the domestic and external operational**
+
+**environment.**
+
+i. Describes the State of Israel’s security doctrine (as reflected
+
+in earlier work and the way in which Israel operates.)
+
+ii. Describes the IDF’s operational environment— international,
+
+operative-strategic, and domestic.
+
+
+B. **Strategy for the use of the force focusing on**
+
+the common foundations of the various oper­
+ational arenas in which the conflict is fought
+against a substate enemy (such as Hezbollah
+and Hamas). The unique context of the area of
+operation needs to be developed in a parallel
+process, the main point being to impose the
+general principles in various situations to the
+unique operative challenge in a particular
+theater.
+
+C. **The command and control doctrine and**
+
+
+—
+HAMAS
+
+**Israeli Minister of Defense**
+**Moshe Ya’alon on deterring**
+**Hamas:**
+
+
+and Hamas). The unique context of the area of “Hamas is interested to maintain
+operation needs to be developed in a parallel peace and quiet and not to bring
+
+about escalation. But parallel
+
+process, the main point being to impose the to that, they make rockets, they
+
+dig tunnels etc. They improve
+
+general principles in various situations to the their capabilities; of course we
+unique operative challenge in a particular deal with it, I’m not going to go
+
+into detail. But it’s deterred.
+
+theater. And deterrence derives from
+
+the price that this organization
+paid in [Operation] Protective
+Edge and the policy that we have
+
+**The command and control doctrine and** today. Anybody that raises his
+
+**preparing the IDF for combat by defining the** head, Hamas is responsible at
+
+the end of the day.”
+
+roles of the General Staff and the headquarters
+of the operational theaters, defining the Chief of
+the General Staff as the IDF’s sole commander of the campaign
+and the principles of command and control.
+
+
+D. **Principles for building up the force and the capabilities**
+
+**needed by the IDF with prioritization in principle derived from**
+an analysis of the operational environment and the principles
+guiding the use of force.
+
+1 This document is the unclassified version of the IDF Strategy document formulated within the
+framework of the “Gideon” multi-year plan.
+
+
+-----
+
+2. **These are the next steps as derived from this document:**
+
+A. Formulate an overall approach to the use of force and approaches
+
+for using the force in the theaters of operation and having these
+principles written up by the commanders of the operating force
+headquarters.
+
+B. Formulate and write up concepts for building up the force in the
+
+divisions and branches.
+
+C. Continue to prioritize the capabilities needed by the IDF and the
+
+plans to fortify it as derived from the IDF Strategy — a process that
+should be led by the Planning Division and the Operations Division
+in collaboration with the branches and the divisions within the
+framework of their preparations for the “Gideon” multi-year plan.
+
+
+-----
+
+### Chapter 1:
+ The Strategic Framework
+
+1. The IDF Strategy is the conceptual and practical foundation for all
+
+basic military documents. As such, it is based on vital national inter­
+ests, the basic assumptions of national security, and the principles of
+military thinking and action. It guides us on how to incorporate the
+basic assumptions of national security into the principles and rules of
+military doctrines.
+
+##### National Objectives
+
+2. These are the national objectives of the States of Israel:[2]
+
+A. Secure the existence of the State of Israel, defend its territorial
+
+integrity and the security of its citizens and inhabitants.
+
+B. Uphold the values of the State of Israel and its character as a Jewish
+
+and democratic state and as the homeland of the Jewish people.
+
+C. Ensure the State of Israel’s social and economic strength.
+
+D. Strengthen the State of Israel’s international and regional status
+
+while striving toward peace with its neighbors.
+
+2 From the staff work to develop a national security doctrine (Meridor document, 2007-5767)
+
+
+-----
+
+##### Threats
+
+3. The threats facing the State of Israel are
+
+the following: States — distant (Iran) and
+nearby (Lebanon), failed states and states in
+a process of disintegration (Syria); substate
+**organizations (Hezbollah, Hamas); terrorist**
+**organizations without links to a particular**
+**state or community (Islamic Jihad, Palestinian**
+Islamic Jihad, ISIS, and others).
+
+
+—
+IRAN
+
+**Eizenkot on Iran:**
+
+“Without a doubt the nuclear
+deal between Iran and the West
+is a turning point, historically. It
+is a big change in terms of the
+direction that Iran was headed
+towards, and the way that we
+saw things. It has many risks,
+but also many opportunities
+that it presents. The IDF’s role
+and my role is to look at the
+risk prism and the capability
+prism and to judge from that—
+not because we assume that
+the worst-case scenario will
+take place, because I think that
+is as dangerous as imagining
+the best case scenarios.”
+
+
+##### Principles of the national security doctrine
+
+4. The military aspect of the security doctrine—deterrence, early warning,
+
+defense, and decision—find expression in these principles:
+
+A. **Reliance on a defensive security strategy based on assuring Israel’s**
+
+existence, creating effective deterrence, neutralizing threats as
+necessary and avoiding confrontations.
+
+B. **Offensive military concept — the basic assumption is that the**
+
+enemy cannot be defeated through a defensive posture. Therefore, it
+is necessary to use force in an offensive posture to achieve clear-cut
+military results. The use of force will be carried out with resolve in
+order to achieve the political goals while operating in accordance
+with the rules of international law with an emphasis on the rules of
+war,[3] and safeguarding the State of Israel’s legitimacy.
+
+3 Rules of war are founded on basic principles whose implementation depends on the context: mili­
+tary necessity, judgment, proportionality, and humanity.
+
+
+-----
+
+C. **Strategic cooperation — strengthening the**
+
+relations with the United States and developing
+strategic ties with other key states in addition to
+establishing and reinforcing centers of support
+around the world.
+
+D. **Strengthening Israel’s regional status — reinforc­**
+
+ing the peace accords and maximizing the potential
+for cooperation with moderate elements in the
+region.
+
+E. **Maintaining the relative advantage based on**
+
+human quality, advanced technological capabilities
+(weaponry) and various types of intelligence.
+
+5. Premise underlying the security concept is:
+
+
+—
+STRATEGIC COOPERATION
+
+Secretary of Defense Ash
+Carter and Israel’s Minister of
+Defense Moshe Ya’alon looks
+out on the Hussein lookout at
+the Israel-Lebanon border on
+July 20, 2015. (DoD photo by
+U.S. Army Sgt. 1st Class Clydell
+Kinchen)
+
+
+A. **Maintaining long periods of security calm to enable the devel­**
+
+opment of society, science and the economy, and to improve the
+preparedness for Emergencies and War.
+
+B. **Creating deterrence in the regional environment and against**
+
+elements that could become threats based on augmenting a strong
+and relevant military force and resolving to use the full might of the
+military force when required.
+
+C. **During Routine — implementing, enhancing, and maintaining**
+
+deterrence by building the force and creating a credible threat
+relative to our willingness and readiness to use it. At the same time,
+using all the defense organizations in coordinated action to impede
+the enemy’s capabilities to build up its force.
+
+D. **In Emergencies and War — speedily removing the threat while**
+
+minimizing the damage to the State of Israel and enhancing Israel’s
+deterrence in the region.
+
+
+-----
+
+##### The link between national goals and the use of force
+
+6. When the political echelon finds it must use the army it should draft
+
+the guidelines as follows:
+
+A. What are the goals and strategic conditions necessary to end the
+
+conflict?
+
+B. What is the role of the army and how is it integrated into achieving
+
+these goals?
+
+C. In what contingencies force would be employed?
+
+D. Defining the additional efforts (political, economic, media, social)
+
+and the IDF’s role in relation to them.
+
+7. Instructions from the political echelon require clarifications and
+
+ongoing dialogue between the senior military echelon (Chief of the
+General Staff) and the political echelon. The guidance from the govern­
+ment is the basis for strategic thinking processes in the General Staff
+but is also influenced by them — there is reciprocal impact.
+
+
+-----
+
+### Chapter 2:
+ The Strategic and Operational Environment
+
+1. In recent years there has been a change in the threat against the State of
+
+Israel. Previously, the enemy sought to advance a vision stressing Arab
+nationalism and aspired mainly to defeat Israel using regular armies,
+while today the enemy carries a local, ethnic and religious banner
+and has switched to actions that combine military activities, guerrilla
+actions, terror, and “soft” warfare.
+
+##### Characteristics of the international and strategic environment
+
+2. In the environment outside Israel the following strategic logic can be
+
+observed:
+
+A. The enemy aspires to impose Islamic rule in the Middle East,
+
+including inside Israel. It works to erode and exhaust Israeli society
+on the assumption that its steadfastness is low.
+
+B. The “resistance” Islamic movements aspire to replace the regimes
+
+in the states and try to establish themselves in outlying areas where
+governance is weak.
+
+C. Problems with Western states which impact Israel’s international
+
+legitimacy.
+
+3. In Israel’s domestic environment:
+
+A. Israel is a peace-seeking nation that aspires to avoid confrontations.
+
+B. If a confrontation is forced on Israel, it will concentrate its capabili­
+
+ties and will win.
+
+
+-----
+
+C. The changes in the national order of
+
+priorities lead to a reduced investment in
+defense in favor of social and economic
+development. At the same time, the
+expectation remains that there will be a
+speedy resolution of conflicts and defense
+against all threats.
+
+##### Characteristics of the operational environment
+
+
+—
+UNREST
+
+Doctrine is likely referring to large
+protests in Israeli cities in 2011
+that called for economic reforms.
+
+
+4. The characteristics of the enemy’s use of force have changed and pose
+
+new challenges for the IDF:
+
+
+A. Decline in threats from regular national
+
+armies and a rise in threats from irregular
+or semiregular substate organizations
+supported by Iran which aspire to become
+governmental entities (a decline in the
+threat of maneuvers into our territory
+with a limited threat of infiltration to
+carry out hostile terrorist activity or for
+propaganda purposes).
+
+
+—
+INFILTRATION
+
+An example of terrorist
+infiltration used for propaganda
+purposes is this 2014 Hamas
+attack, perpetrated using a
+tunnel into Israeli territory. Five
+Israelis were killed and Hamas TV
+released the video of the attack.
+
+
+B. Increased threat of fire on the home front (volume, pace, accuracy,
+
+size of the payload, survivability) and an attempt to create a stra­
+tegic threat against national weak spots and the national economy.
+This is in addition to an ongoing endeavor by the enemy to assure
+the survival of its firepower through decentralization, camouflage,
+protection and the use of the civilian environment to provide it
+with a bargaining chip and “victory photographs.”
+
+
+-----
+
+C. The enemy is deployed and integrated in
+
+inhabited civilian areas in order to make it more
+difficult for the IDF to fight it, to increase the
+attacks on noncombatants, and to hinder the
+IDF’s freedom of action.
+
+D. Combat capabilities (explosive charges, con­
+
+
+—
+ROE CHALLENGES
+
+In 2011, the Israeli military
+provided to The Washington
+_Post a map showing Hezbollah_
+installations in the town of
+Khiyam in southern Lebanon.
+
+
+ventional warheads, short-range missiles, anti-tank weapons,
+surface-to-air missiles, anti-ship missiles, electronic warfare,
+subconventional warfare) are aimed at deterring and disrupting
+the IDF’s efforts on the ground, in the air and at sea, offsetting its
+technological advantages, maximizing civilian and military losses,
+and intensifying the strategic pressure on Israel.
+
+E. A multi-dimensional approach during a campaign and between
+
+campaigns, including cyber-attacks, public perception and legal
+efforts, and terrorist activity in Israel and abroad, such as kidnap­
+ping civilians and soldiers for bargaining purposes, etc.
+
+5. In the context of operational capabilities:
+
+A. The IDF’s costs for weapons, intelligence and defense escalate
+
+because of the operational challenges posed by the enemy which
+has significantly lower costs.
+
+B. Ensuring the IDF’s continued technological advantage is being put
+
+to the test due to the availability in civilian markets of some of the
+technologies that used to be available exclusively to state defense
+industries.
+
+6. In its counter-fire campaigns against substate Islamic organizations, the
+
+IDF will have to:
+
+A. End the warfare with a victory and dictate the conditions for
+
+ending the fighting.
+
+B. Significantly reduce damage to the home front.
+
+
+-----
+
+C. Create an improved security situation after the fighting that makes
+
+it difficult for the enemy to regain strength.
+
+D. Preserve the legitimacy to use force.
+
+7. On the military level, the confrontation will require a decision on the
+
+best ways to integrate and prioritize the various means — defensive,
+offensive, special operations, and the other support endeavors — in
+order to conduct a battle that best supports the political and strategic
+goals and corresponds with the resources allocated to it.
+
+##### Other outlines that are not the focus of the doctrine
+
+8. When assessing all the risks and opportunities, possible shifts due to
+
+the high level of uncertainty in the region must be taken into account.
+
+
+-----
+
+### Chapter 3:
+ Deploying the IDF’s Force
+
+1. In this chapter, we will present the general principles for the use of
+
+force by the IDF during Routine, in War, and in Emergencies; the
+principal political and strategic goals required of the IDF; the IDF’s
+basic functioning situations; and the operational characteristics and
+their rationale.
+
+##### General principles for deploying the IDF’s force
+
+2. The following are the general principles for the use of force by the IDF:
+
+A. **Prevent confrontation and deter the enemy:**
+
+i. A campaign to weaken negative forces, harm the enemy’s capa­
+
+bility, and demonstrate a high and immediate level of readiness
+to carry out the army’s mission — to defend and to win.
+
+ii. Expand and deepen regional and international cooperation
+
+against the enemies.
+
+B. **Early warning and intelligence[4] on the enemy’s capabilities and**
+
+**intentions:**
+
+i. Maintain intelligence superiority that will provide sufficient
+
+early warning on the enemy’s capabilities and intentions.
+
+4 National intelligence — intelligence that enables the formulation of a national security strategy,
+defining the reference threats and reference scenarios for building the force, that allows for optimal
+utilization of resources at any point in time in accordance with developments on the ground, and
+enables the shifting of resources between readiness and strengthening, as well as identifying shifts
+which call for the IDF to change its deployment. This includes an ability to identify such shifts and
+to respond to the concerns at all levels involving national security (not only in the military context).
+
+Strategic intelligence — intelligence that enables the design and planning of campaigns, the draft­
+ing of an achievable strategic goal in military and measurable language, which reflects the goals of
+the political echelon in the war theater and is coordinated with it.
+
+Systemic intelligence — intelligence that enables the use of force at the system-wide level (follow­
+ing an analysis of the enemy’s centers of gravity) and tactical level, in order to maximize damage to
+the enemy and to achieve a tactical advantage in all dimensions. This intelligence will come from all
+the collection agencies up to the level of a battalion, a single aircraft or a single vessel (depending
+on relevance).
+
+
+-----
+
+ii. Maintain early warning on states, substate military organiza­
+
+tions and terrorist organizations, including identifying shifts at
+all levels: strategic, system-wide, and tactical.
+
+iii. Intelligence that enables operational planning and qualitative
+
+harm to the enemy.
+
+C. **Defense and protection:**
+
+i. Defense in all four dimensions (land, sea, air, and cyber).
+
+ii. Defense of Israel’s citizens and inhabitants, infrastructure, and
+
+its physical integrity (securing its sovereignty).
+
+iii. Prevent the enemy from making any territorial gain at the con­
+
+clusion of a confrontation and reduce the enemy’s achievements
+in all other dimensions.
+
+D. **Victory and defeat:**
+
+i. Use military superiority to achieve the objectives of the oper­
+
+ation as defined by the political echelon in order to improve
+Israel’s strategic situation.
+
+ii. Maintain the continuity of the economic and war efforts
+
+through effective and multi-dimensional defense (land, sea, air,
+cyber).
+
+iii. At the tactical level, defeat the enemy at every encounter.
+
+##### The purpose of military deployment in the IDF’s functional situations
+
+3. A number of key political and strategic goals can be defined for the use
+
+of force:
+
+A. **Defer the next confrontation by using force in Routine.**
+
+B. **Maintain or improve the strategic situation after the enemy has**
+
+started a hostile action characterized by a change in the modus
+operandi and intentions.
+
+
+-----
+
+C. **Radically change the situation until there is a shift in the strategic**
+
+balance which finds expression in neutralizing players or in a
+significant change in their capabilities or status.
+
+4. Alongside the range of operations there is a defined continuum of
+
+military functional situations which differentiates between three situa­
+tions: Routine, Emergency, and War (REW). The functional situation
+is defined by the Chief of the General Staff depending on the military
+situation being faced. This definition helps to express an understanding
+of the confrontation on the battlefield, to conduct a dialogue with the
+political echelon, to define the basic political situation, and to make
+decisions on enlisting state resources:
+
+A. A Routine situation refers to ongoing security, a limited and
+
+ongoing confrontation, and the campaign between wars (CBW).
+
+B. An Emergency situation refers to campaigns and limited opera­
+
+tions that are not within a war framework.
+
+C. A War situation.
+
+5. IDF Strategy is based on operations that enable it to achieve what it
+
+has set out to do. This is accomplished by organizing the tasks, the
+resources, and the command authority in a way that permits optimal
+action and achievement of the defined goals.
+
+6. The IDF will respond to sudden initiated moves and will operate to find
+
+strategic opportunities in the region.
+
+7. Characteristics of actions in the various situations and their operational
+
+rationale:
+
+A. In a Routine situation — defensive and offensive activities,
+
+creating legitimacy and nonmilitary actions aimed at reducing
+
+
+-----
+
+the enemy’s freedom of action and increasing Israel’s freedom of
+action.[5]
+
+B. In an Emergency situation — using limited military force (com­
+
+pared to a War situation). The purpose of the use of force is to show
+the futility of using force against Israel and returning to a situation
+of quiet and calm without aspiring to an immediate strategic
+change. Disruption to daily life on the home front will be as limited
+as possible. In addition, the campaign will focus on a limited/
+circumscribed achievement.[6]
+
+C. In a War situation — use of the force in war is characterized by a
+
+significant mobilization of military and state resources for action
+together with a readiness to take high risks, and using force at a
+continuous high level in order to achieve victory.
+
+##### Campaigns in Emergency and War situations
+
+
+8. The basic scenario to which this section refers
+
+is a confrontation with substate military
+organizations (such as Hezbollah and Hamas,
+with the characteristics as described above).
+Despite the focus of the scenario, the response
+to it — approaches to the use of force and
+capabilities that will be developed to build the
+force — is usually also appropriate for cam­
+paigns waged against armies and states.
+
+
+—
+HEZBOLLAH
+
+**Eizenkot on Hezbollah:**
+
+“The main rival the IDF has
+at this time is Hezbollah.
+That is our main rival. It is an
+organization that for many
+years, dozens of years, has been
+building a strategic idea that is
+very simple and is challenging
+the intelligence, aerial and
+ground superiority of the IDF.”
+
+
+9. Any use of force is carried out in context, using logic and unique
+
+operational patterns. Presented here will be two main patterns with a
+rationale that is clear but different both politically and militarily, on the
+basis of which concrete operational approaches can be developed for
+the different battle zones.
+
+5 Such a campaign would include all the efforts and would be conducted at the national level, and
+would include legal, economic, and public perception and information campaigns.
+
+6 Circumscribed — relative to the maximum possible achievement of a decisive victory. The achieve­
+ment is circumscribed at the strategic and system-wide level. At the tactical level the achievement
+required from the units will be the full achievement of a tactical victory.
+
+
+-----
+
+10. At the strategic level, in all types of campaigns, we must strive for
+
+**victory, which means achieving the political goals decided on for the**
+**campaign in a way that will lead to the improvement of the security**
+situation after the confrontation.
+
+11. The IDF will provide answers to two types of requirements from
+
+**the political echelon: First — to achieve a complete and clear-cut**
+**military victory against the military organization on the other side.[7]**
+Second — to strike at the enemy in a limited and circumscribed
+**manner.**
+
+12. A campaign to achieve a victory
+
+A. At the strategic level in the rationale for this operation is the aim is
+
+to strive for victory by creating a situation in which a cease-fire or
+political arrangement can be forced on the enemy from a position
+**of strength, based on its military defeat or on its inability or lack**
+of desire to continue fighting. A victory based on defeat makes an
+important contribution towards creating or restoring deterrence.
+
+B. In the operational theater and when using force a clear tactical
+
+defeat is necessary, which will be defined by eliminating the
+enemy’s desire and ability to continue fighting and operating
+against our forces. The main achievements in defeating an enemy
+like Hezbollah and Hamas will be:
+
+i. Eliminating the enemy’s capability by destroying its forces.
+
+ii. Reducing the effectiveness of the enemy’s capability against the
+
+Israeli home front.
+
+iii. Achieving goals that the enemy regards as being valuable.
+
+iv. Crushing the enemy’s desire to continue fighting.
+
+C. Furthermore, in an offensive operation significant weight will be
+
+given to the defensive component and protecting the borders as a
+
+7 Generally, in order to achieve a clear and obvious political victory or to destroy or seriously damage
+the military capabilities of an organization or state.
+
+
+-----
+
+central element aimed at minimizing the enemy’s achievements and
+increasing the IDF’s freedom of action.
+
+D. The IDF’s principal approach to achieving victory is the maneuver
+
+**approach.[8] This approach is based on components of pin-pointed**
+offensive actions against the enemy’s weak spots, while exploiting
+the relative advantages with emphasis put on momentum, speed
+of action, and initiative, the combination of which achieve shock
+and awe. These are designed to harm the enemy’s decision-making
+process in order to disrupt the effectiveness of its operations as
+early as possible both in time and in relation to the resources at its
+disposal and while using minimum IDF resources.
+
+13. Limited campaign
+
+A. The IDF will sometimes be required to conduct campaigns in
+
+which the achievement sought is limited or circumscribed. In most
+cases, this type of campaign will result in a limited outcome in the
+harm it does to the enemy with the aim of returning calm and to
+serve as a deterrent in the future.
+
+B. The operational rationale is characterized by pin-pointed and
+
+limited operations against targets of strategic value combined with
+a defensive effort and the presentation of the potential for realizing
+a military victory. These actions demonstrate to the enemy the
+extent of the potential damage it can expect from a deterioration
+in the situation and the limited benefit its action will bring if it
+does not change its policy, and will exert pressure on it to stop its
+activity.[9]
+
+C. The operational achievements of this campaign are based on a
+
+combination of:
+
+i. Partially neutralizing specific abilities of the enemy.
+
+ii. Significant damage to targets of strategic value and government
+
+institutions which contribute to the war effort.
+
+8 The maneuver approach from the concept of maneuvering the enemy.
+
+9 This type of activity is known as enforcement.
+
+
+-----
+
+iii. Reducing the effectiveness of the enemy’s capability against the
+
+home front.
+
+iv. Restraining the enemy from making a decision to employ
+
+combat means or methods — preventing escalation by threat­
+ening a response to an escalation.
+
+D. To demonstrate the expected damage if the enemy continues to
+
+fight it will be necessary to incorporate public perception methods
+to change the enemy’s expectations.
+
+##### Principles in the use of force in Emergency and War situations
+
+14. The IDF operates according to principles of war and values that
+
+embody the IDF spirit, and of these stress will be put on the principle
+of persevering with the mission keeping the goal in mind, maximizing
+force, and striving for victory.
+
+15. The underlying principles in the IDF’s use of force with an emphasis on
+
+Emergency and War situations will be based on:
+
+A. **Quality of the commanders’ decisions and initiative.**
+
+B. **Performing missions fully, quickly and with a minimum of**
+
+resources.
+
+C. **Fighting spirit of commanders and forces.**
+
+16. In Emergency and War situations, the IDF will operate on the basis of a
+
+number of fundamental principles that will guide the planning for the
+use of force in all circumstances. Nevertheless, there will be differences
+in the strength and scope in the use of the offensive force (depending
+on the purpose of the force, whether it is a limited campaign or a cam­
+paign to defeat the enemy), while the defensive effort at all levels will be
+operated fully and completely in all types of campaign:
+
+
+-----
+
+A. **An immediate and simultaneous combined blow using two basic**
+
+components: First — an immediate maneuver whose purpose
+is to hit the enemy, conquer territory, reduce the fire from the
+occupied territory, seize and destroy military infrastructures and
+attack the sustainability of the enemy’s government. Second — use
+**strategic and systems-wide fire based on freedom of action in the**
+air and high quality intelligence.
+
+B. **Special operations effort.**
+
+C. **High quality intelligence to deal the enemy a significant blow**
+
+starting with the opening of the campaign and throughout the cam­
+paign, both in terms of defensive efforts to neutralize the enemy’s
+offensive capabilities, and by supporting offensive countermeasures
+(fire) and engaging the enemy (maneuver).
+
+D. **Effective defense against high trajectory weapons.**
+
+E. **War economy that permits the IDF to maximize its capabilities**
+
+throughout all the phases of the fighting in such a way as to assure
+the execution of the mission in the most effective way.
+
+F. **Networking between a very large range of capabilities, resources,**
+
+and knowledge.
+
+G. **Integration between branches to maximize the IDF’s capabilities.**
+
+H. **Flexibility in all aspects of the use of force as a means to enable**
+
+the IDF to switch effectively between the necessary operational
+situations and operational theater, and to adapt the activities to
+developments in all levels of fighting.
+
+
+-----
+
+##### Main capabilities and efforts in War and Emergency situations
+
+17. The strategic level is unique in its ability to conduct multi-discipline,
+
+multi-theater operations, and a combined effort.[10] The efforts and the
+main capabilities to be used in wartime and in emergencies for the two
+purposes and using the two operational rationales described are as
+follows (not in order of priority):
+
+A. **Simultaneous defense in all operational theaters and in all**
+
+dimensions.
+
+B. **Offensive capability on several fronts simultaneously using:**
+
+i. Immediate ground maneuver that is rapid, fatal, survivable,
+
+and flexible for transfer between the theaters and fronts.
+
+ii. Use of fire that is effective, powerful and superior, accurate,
+
+multi-dimensional, in all theaters of war, at all times, and which
+includes the element of surprise.
+
+iii. **Deep attacks and operations that include weapons fire, focused**
+
+maneuvers, and special operations.
+
+C. High quality intelligence at all levels for the purpose of formulating
+
+a national defense strategy, for designing and planning campaigns,
+and for the use of force at the system-wide and tactical level.
+
+D. Maintaining a continuous effort in the war and the economy
+
+(home front) through a multi-layer defense (intelligence for attack,
+early warning, blocking and disruption, aerial defense, fortifica­
+tions, etc.).
+
+10 **Effort (see Operations Division Doctrine and Training 1.22 dated 1 October 2014) — (at the**
+campaign and military strategic levels) in the operational sphere this is a term for the temporary
+unification of forces and resources under a single authority in order to carry out a mission.
+
+Effort has three components: mission — the task imposed on the commander of the effort;
+**military resources — means and sources of military force (order of battle, headquarters, and**
+weaponry from various service arms) allocated to the commander of the effort to accomplish the
+mission; authority — the legal power given to the commander of the effort to assign tasks to his
+subordinates in order to delegate his authority to them over all the allocated resources.
+
+
+-----
+
+E. Total integration on the basis of combat networks among all
+
+elements of the IDF force.
+
+F. **Logistics response (economic and military) by multiple branches**
+
+and flexible throughout the entire war theater.
+
+G. Constant investigation and study of the strategic and operational
+
+environment while implementing the changeability required of the
+IDF.
+
+H. Ability to conduct effective public relations and legal efforts
+
+during and after the fighting with the aim of generating legitimacy
+for the operation.
+
+##### Details of the efforts
+
+18. Intelligence effort for early warning before a confrontation and for
+
+planning operations
+
+A. Point to a risk or a threat that might materialize and call for prepa­
+
+ration for a response.
+
+B. Provide early warning of a surprise attack on the Israeli home front
+
+that uses high trajectory weapons and ground infiltrations across
+the border, early warning about significant change in the envi­
+ronment, and early warning about technological and perceptual
+changes that the enemy is preparing.
+
+C. Intelligence for planning and conducting campaigns as required at
+
+all levels of operation.
+
+19. Offensive efforts: Maneuver, fire, special efforts, and cyber
+
+Using the offensive force in War and Emergency situations for the two
+purposes and the two rationales described will be based on an offensive
+use of force by means of: maneuver, fire, and special efforts simultane­
+ously and immediately while maximizing intelligence, command and
+
+
+-----
+
+control systems, and network capability. The basic components of these
+operations are:
+
+A. **Maneuver effort at the front and deep into the fighting zone: A**
+
+pin-pointed ground offensive operation will be carried out against
+the enemy’s centers of gravity while aspiring to speedily reach the
+final lines of the fighting. When these have been reached the forces
+will operate to stabilize the defense lines and sanitize the area.
+
+B. **Firing effort: Using continuous system-wide fire power at**
+
+maximum capacity from the moment the confrontation starts
+both deep behind enemy lines and at the front. The use of fire will
+be tested against the principles of proportionality and ethics, and
+considerations of legitimacy will be secondary. Conducting “a
+munitions economy” and using a variety of munitions in various
+combinations will be a main component in planning the use of the
+firing effort from the start of the fighting.
+
+C. **Special operations effort.**
+
+D. **Cyber effort within the framework of a War or Emergency situa­**
+
+tion will support the defensive and offensive efforts at all levels of
+fighting — strategic, operative, and tactical.
+
+20. Defensive efforts
+
+
+A. **Defense** to prevent the enemy from attaining
+
+territorial gains in the border areas.[11] Against
+organizations that are the focus of this approach,
+this refers to defense against raids, attacks, and
+complex terrorist attacks, including from the air
+and sea. This defense capability will be based on:
+
+i. Flexibility in using IDF forces in the border
+
+areas.
+
+11 Preventing a gain will be measured at the end of the defensive combat.
+
+
+—
+RESPONSIVENESS
+
+**Amir Oren, senior correspondent**
+for Israeli newspaper Ha’aretz,
+summarized this approach as
+such: “A basic term in Eizenkot’s
+doctrine is prioritizing, giving
+up the pretense of maintaining
+forces for every possible need. The
+Eizenkot line is the opposite of the
+Bar-Lev line on the Suez Canal:
+not standing outposts between
+which the enemy can break
+through, surround and destroy, not
+desperate defense of every acre,
+but forces relying on sophisticated
+means used with flexibility.”
+
+
+-----
+
+ii. Reducing civilian weak spots (including
+
+the evacuation of civilians from threatened
+communities) in the border area.
+
+iii. Collecting intelligence and early warning
+
+systems.
+
+B. **Protecting the home front (defense): Defense**
+
+
+—
+EVACUATIONS
+
+IDF Brig. General (reserve)
+**Michael Herzog notes**
+that evacuation of civilians
+represents “a departure
+from the Israeli ethos.”
+
+
+of the civilian home front and the military rear against high trajec­
+tory weapons attack together with ensuring continuity of the attack
+function, in which the order of priorities for protection will be:
+
+i. Protection that permits the continuous use of military force
+
+both for defense and for attack — including core systems in the
+military rear and the civilian home front.
+
+ii. Protection of vital national infrastructures and governmental
+
+institutions in order to maintain continuity of the functioning
+of state institutions.
+
+iii. Protecting population centers.
+
+iv. In operations that require a limited achievement, a need to give
+
+priority to direct protection of the civilian home front will be
+considered.
+
+v. The main components in the ability to protect the home front
+
+are effective defense, early warning systems, and physical
+protection.
+
+C. Cyber defense in Wartime and in Emergencies is vital to enable the
+
+operation of state institutions in a confrontation and to enable the
+effective operation of the IDF, which is based on networking.
+
+21. Enabling efforts are supposed to support offensive and defensive
+
+efforts, such as logistics and computer technology efforts.
+
+22. National, public perception, and legal efforts to maintain and
+
+**improve the legitimacy of the operation will begin already in the**
+preparations stage and will continue during the campaign to maintain
+and improve the legitimacy of the operation both in Israel and in the
+
+
+-----
+
+international community. Use will be made of domestic and external
+public perception efforts, as well as efforts in the international arena at
+the diplomatic level, in the media, and in the legal sphere.
+
+##### Principles underlying the use of force during Routine
+
+23. As stated, the goal in Routine is to maintain security, deter the enemy
+
+from operating against Israel, and to delay the next confrontation as
+much as possible by a combination of covert and overt actions.
+
+24. Use of force during Routine includes the following actions:
+
+A. A continuous defensive effort by Israel that enables the population
+
+to lead a normal life (ongoing security, defending the borders and
+inside the borders, cyber defense).
+
+B. Early warning through an ongoing offensive effort (CBW). This
+
+effort is mostly covert and undercover and incorporates a public
+perception effort.
+
+C. Civilian aid operations.
+
+D. Creating legitimacy that would enable Israel to initiate a con­
+
+frontation, give our forces freedom of operation while depriving
+the enemy of freedom of operation during Routine, War, and
+Emergency situations.
+
+
+-----
+
+##### Deterrence
+
+25. Deterrence is created in perception but
+
+is based also on physical and concrete
+elements that constitute part of the enemy’s
+considerations, such as the outcome
+of previous confrontations, activities
+during Routine that stress the futility of a
+confrontation and constant threat of the
+use of force.
+
+26. Israel’s general and basic deterrence
+
+
+—
+DETERRENCE
+
+**Amos Yadlin, the former chief of**
+Military Intelligence and one of
+Israel’s foremost strategic thinkers,
+has explained: “Vis-a-vis Hamas and
+Hezbollah, we haven’t destroyed
+their capabilities, but we were able
+to establish deterrence. This is
+basically because we hit them hard,
+and because the terrorists, in a way,
+became non-full-state-entities, but
+half-state entities…. The terrorists
+have discovered that when they are
+responsible for their economy, for
+education, for the life of their people,
+suddenly they are not daring to use
+terror all day.”
+
+
+which relies on the IDF’s advantage and
+might still exists, but its relevance is more restricted than in the past
+because the threat has changed.
+
+27. Deterrence must be specific and adapted to each enemy; it must be
+
+based on an ongoing analysis of the enemy’s characteristics, consider­
+ations, capabilities, identity, and decision-making processes.
+
+28. Deterrence against any enemy must be:
+
+A. Without a specific context — generalized and cumulative over
+
+**time in order to maintain the existing situation and frame “rules of**
+the game” favorable to Israel.
+
+B. In the context of a particular crisis — specific and pinpointed, in
+
+order to force the enemy to act or to avoid acting in order to stop
+deterioration in the situation and prevent war.
+
+
+-----
+
+C. These are the components of deterrence:
+
+i. A credible threat of severe offensive operations
+
+that will exact a heavy toll if we are attacked.
+This component is based on 
+a. **Building a force that is partially visible to**
+
+the enemy, which shows our capability and
+readiness to cause it damage.
+
+b. **Public perception actions that show our**
+
+readiness to take risks.
+
+c. **Limited offensive actions to signal that**
+
+the “rules of the game” have been broken
+and there is a readiness to take risks.
+
+ii. **Building a force that illustrates to the enemy**
+
+the futility of continuing to fight (e.g. defensive
+systems).
+
+iii. **Foiling and disrupting capabilities.**
+
+29. Many of the actions meant to deter will be carried out
+
+within the framework of a campaign between wars
+(CBW).
+
+##### Campaign between wars (CBW)
+
+30. The rationale behind the use of force in CBW is
+
+to maintain and enhance the achievements of the
+previous campaign in a series of secondary goals
+and objectives designed to prevent war:
+
+A. To weaken the components of the negative
+
+forces.
+
+B. Minimize the enemies’ abilities to strengthen
+
+themselves.
+
+
+—
+NEW READINESS
+
+**Eizenkot on a “Different Situation”:**
+
+“In the past we had the army is in one
+of two situations: either prepared for
+war, or at war. But at the moment this
+is not the reality. We are not preparing
+for war, and we’re not at war. We’re
+in a different situation where we hold
+a whole campaign with a different
+perception that relies on intelligence
+and covert and overt possibilities
+to prevent the strengthening of our
+opponents, to try to weaken the
+enemies in a way that will not bring
+about acceleration.”
+
+
+—
+DETERRENCE 2
+
+**Eizenkot on Deterrence:**
+
+“Another interest is to…
+maintain the deterrence and
+the image and capability of IDF
+as an unpredictable enemy that
+can react in a very severe way.”
+
+
+—
+OFFENSIVE ACTIONS
+
+Israel periodically conducts
+airstrikes in Syria and Lebanon
+to enforce “red lines” against
+terrorist organizations, such as
+the December 2015 airstrike
+against Samir Kuntar, a top
+Hezbollah operative.
+(AP Photo/Hussein Malla)
+
+
+-----
+
+C. Create optimal conditions for victory in a future war.
+
+D. Create legitimacy for Israeli action and deny a legitimate basis for
+
+the enemy’s action.
+
+31. Conducting operations in this framework is based on the multidisci­
+
+pline concept (military, economic, legal, media, and political). In other
+words, CBW is an expression of the idea of operations based on a single
+strategic rationale.
+
+32. The basic idea behind the use of an offensive force in CBW is a combi­
+
+nation of:
+
+A. **Covert and clandestine[12] action in all fronts and dimensions**
+
+outside Israel’s borders; this policy is based on intelligence and is
+directed at harming the enemy’s efforts and initiatives.
+
+B. **Overt actions to create deterrence — underlines the limits of**
+
+Israel’s restraint. All of this — while creating legitimacy for Israel’s
+action and while maintaining an ongoing defensive effort on Israel’s
+sovereignty.
+
+33. These are the guiding principles for the use of force in CBW in the
+
+**covert and clandestine campaign:**
+
+A. An initiated, continuous and controlled operation in which forces
+
+operate in a covert and clandestine manner for short periods of
+time.
+
+B. Inter-organizational cooperation both on the operational and
+
+intelligence levels.
+
+12 **Covert operations — operations whose outcomes are visible to the enemy and are intended and**
+carried out in such a way that the identity of those behind them are hidden or have the possibility
+of deniability.
+
+**Clandestine operations — operations conducted in a way that ensures secrecy or concealment. A**
+covert operation is different from a clandestine operation in that the emphasis here is on conceal­
+ing the operation rather than the identity of the person behind it.
+
+
+-----
+
+C. International cooperation for the purpose of intelligence and to
+
+thwart the enemy and to preserve the legitimacy of the IDF’s action
+and to reduce the legitimacy of the enemy’s action.
+
+D. Operating in the public perception, economic, and legal areas as
+
+part of the effort to reduce the enemy’s capabilities and legitimacy.
+
+E. The need for accessible and precise intelligence at all the required
+
+levels of operation.
+
+##### Achieving and maintaining legitimacy
+
+34. The enemy is also active in dimensions that are not military-kinetic
+
+and has succeeded in the past to offset the IDF’s achievements in these
+fields. This campaign has both defensive and offensive aspects. It is
+aimed at creating legitimacy for Israel (including freedom of action
+for the IDF) and simultaneously delegitimizing the enemy (thereby
+restricting its moves).
+
+35. Modes of operation in the campaign require us to fully exploit the
+
+expertise of the various elements within the IDF and outside it, and
+to ensure the flow of information and synergy between them. These
+methods include, among other things, intelligence, public relations,
+professional information, psychological warfare, diplomatic and polit­
+ical channels, etc. Furthermore, we should take into consideration the
+state of legitimacy in assessing the overall situation and adapt relevant
+components from the processes involved in building the force and
+operating it.
+
+36. The public perception effort will have three secondary efforts on the
+
+timeline based on the functioning of the IDF:
+
+A. **Effort during Routine is designed to build the ideal conditions**
+
+for creating legitimacy for the IDF and international support. This
+effort is fundamental and is meant to have a long-term impact, and
+changes and improves the IDF’s situation and method of operation
+in light of the challenges posed by the claims of those who want to
+
+
+-----
+
+delegitimize Israel’s military action, which are based chiefly on a
+critical analysis of Israel’s actions.
+
+B. **Efforts in context include activities that exist during Routine**
+
+as part of CBW and are directed toward having a medium-term
+impact. This effort advances legitimacy for IDF operational activity
+in the field during a specific operation and time frame.
+
+C. **Efforts during or after an Emergency or War, accompanying the**
+
+operation and the efforts after it. This effort is directed at having
+both a short-term impact — advancing legitimacy during the mili­
+tary operation until its completion under favorable conditions — as
+well medium and long term impact — preserving the operation’s
+strategic achievements and freedom of action to use force again in
+the area when needed.
+
+
+##### Operations against states without a common border
+
+37. This type of operation is not in the focus of
+
+this approach but appears here because of
+its uniqueness.
+
+
+—
+DISTANT RIVALS
+
+Israeli military observers assess this
+as a thinly veiled reference to Iran,
+although historic enemies Saudi
+Arabia and Iraq, among others, also
+do not share a border with Israel.
+
+
+38. The achievement required against states without a common border
+
+will be based mainly on a continuous multidisciplinary action in all
+situations. The purpose of the action will be directed towards a limited
+concrete achievement aimed at deterring escalation.
+
+39. The underlying idea is based on action within the CBW framework
+
+that is supported by continuous and ongoing intelligence and takes
+place using air power together with special forces. This activity is based
+on covert and clandestine operations up to the point of attacking the
+enemy’s efforts at strengthening its forces and its offensive initiatives in
+its territory and on reducing its freedom of operation that will disrupt
+and foil its capabilities and intentions.
+
+
+-----
+
+40. These principles guide the use of force:
+
+A. Effective, accessible, and precise intelligence in all necessary opera­
+
+tional dimensions.
+
+B. Initiated and controlled action below the war threshold for short
+
+periods of time.
+
+C. Offensive action in the target country.
+
+D. Inter-organizational cooperation — operational and intelligence.
+
+E. International cooperation for intelligence purposes.
+
+F. International cooperation to maintain the legitimacy of the IDF’s
+
+operation and to reduce the legitimacy of the enemy’s action.
+
+G. Continuous public perception effort to reduce the legitimacy of the
+
+enemy’s action and its freedom of action up to the point of foiling
+and disrupting its initiatives.
+
+
+-----
+
+### Chapter 4:
+ The Command and Control Concept and Preparing the IDF for Combat  
+
+##### General Headquarters (GHQ)
+
+
+1. The GHQ is the IDF’s supreme
+
+headquarters and includes the
+Chief of the General Staff and the
+General Staff.
+
+2. The GHQ is the only echelon in the
+
+IDF that is in permanent contact
+with the political echelon, and is
+the only unit authorized to trans­
+late its instructions into military
+operations.
+
+
+—
+GHQ, TEL AVIV
+
+(CC-BY 2.0; Dr. Avishai Teicher)
+
+
+3. The GHQ is the IDF’s multi-armed strategic headquarters (HQ) and its
+
+purpose is to command and control the deployment of IDF forces on
+all war fronts and to build the IDF force.
+
+4. **The Chief of the General Staff is the supreme commander of the**
+
+**IDF, and commands all IDF operations through the GHQ. The GHQ**
+is responsible for coordinating and synchronizing all efforts, including
+those exercised by the main HQs to use force in the war theater and in
+all the operational theaters.
+
+5. The GHQ also serves as the supreme operational HQ for the operation
+
+of ground forces.
+
+
+-----
+
+6. Operational resources are held by the GHQ and it allocates them to
+
+the main HQs to carry out their missions according to an order of pri­
+orities that depends on the missions imposed on them. The GHQ will
+balance the missions imposed on the HQs with the resources allocated
+to them.
+
+7. **This GHQ responsibility cannot be decentralized or transferred to**
+
+**the main HQs.**
+
+##### Chief of the General Staff as battle commander
+
+8. The Chief of the General Staff commands all IDF battlefields and
+
+decides on all the efforts and missions imposed on the main HQs.
+The Chief of the General Staff determines the concept and the way to
+achieve the mission, and consequently the efforts to be made by the
+main HQs and the reciprocal relations between them.
+
+9. The Chief of the General Staff commands the campaign through the
+
+main HQs, which exercise various efforts. These efforts could be inde­
+pendent, that is, operated by a single HQ or through a combination of
+several HQs (multi-HQ). There are reciprocal relations between efforts
+which are regulated as part of the battle command and control.
+
+10. An appropriate command and control architecture must be built
+
+**for each campaign. The command and control architecture will be**
+planned in a way that maximizes the use of force. The command and
+control architecture will make use of the IDF’s capabilities through
+independent efforts and in combined efforts. That is why it should be
+planned in the standard operating procedure, be decided on at the
+outset of the event (“transition from plan to order”), be examined
+during the course of the event, and even be changed if necessary.
+
+
+-----
+
+##### Main headquarters (HQs)
+
+11. Campaign arenas are areas of operation allocated to the commanders
+
+of the main HQs. These commanders have overall responsibility for
+achieving the missions in their areas of responsibility.
+
+12. Commanders of the main HQs are required to exercise their authority
+
+over the operational arenas under their authorities and the three
+states of Routine, Emergency and War. Within this framework they
+are expected to fulfill two basic missions: One, to defend Israel’s sov­
+**ereignty in their (geographic/dimensional) area, and two, to develop**
+**operational know-how on the area for which they are responsible in**
+all its aspects.
+
+13. It is the responsibility of the main HQ to develop know-how in
+
+wide-ranging connections both for itself and for the other main HQs.
+The process will be implemented as a collaborative effort by the HQs.
+
+##### Principles of command and control 
+
+14. Mission command — is the basis for the command and control
+
+concept and must be maintained despite the multiplicity of means of
+command and control and information flow processes between the
+various levels.
+
+15. Uniformity of command — each commander is subject to the
+
+authority of one commander at any point in time. Orders will be given
+according to the chain of command and on the principle that the last
+order is the decisive one — and the superior officer has the authority to
+revoke an order of his subordinate.
+
+16. Defining the mission — the command echelon defines: mission,[13]
+
+**resources, command authority.**
+
+13 Constraints of implementation will always be defined within the framework of the mission, among
+them time and the borders of the arena.
+
+
+-----
+
+17. Consolidated command and control processes in the IDF — the
+
+processes and management of combat procedures will be uniform
+throughout the IDF and will be based on the basic combat doctrine of
+the IDF and on a simple and clear common language.
+
+18. Creating optimal conditions — each level of command has the
+
+responsibility to create for its subordinate ranks the optimal condi­
+**tions to carry out the mission by optimal planning of the force and**
+its operation, allocation of resources, and reducing the constraints.
+Within this framework the area of responsibility of each commander
+(in the home front and in deep operations) should be limited in order
+to enable him to focus on fulfilling his missions.
+
+19. Decision making in the course of the fighting — each commander
+
+has the possibility and the duty to make decisions that differ from the
+initial planning in the course of the fighting.
+
+20. Dialogue between commanders, HQs — great importance is given to
+
+a constant process of dialogue between commanders and HQs aimed at
+developing shared knowledge, war games, study sessions and exercises.
+All these can create a joint infrastructure that will serve as a basis for
+D-Day. The dialogue will take place on the principle of transparency of
+information and hierarchy of command.
+
+
+-----
+
+### Chapter 5: Building the IDF’s Force
+
+1. The purpose of the military force is to defend the integrity of the State
+
+of Israel, provide security for its inhabitants, and enable the political
+echelon to advance its national security policy and the state’s vital
+national interests. In the military sphere, these objectives will be
+achieved through the IDF’s ability to deal with threats, deter Israel’s
+potential enemies, prevent and foil developing threats and defend the
+strategic and civilian home front.
+
+2. Building the force is aimed at creating the capabilities needed to fulfill
+
+the IDF’s mission and use it against its enemies, and in that way, build­
+ing the force contributes to deterrence and shapes the characteristics of
+the fighting in the future.
+
+3. The goals for building the force are readiness, which is the ability of the
+
+forces and units to meet the goals of operation, and buildup, which is
+the future capability of the force. Building the force is subject to tension
+between the defense needed and restrictions on the resources, and
+between slowness of buildup and the speed of changes in the strategic
+and operative environment.
+
+##### Guiding principles for building the force
+
+4. The guiding principles for building the force combine the principles
+
+for operating the force as stated above, as well as additional principles
+which are unique to building the force.
+
+
+-----
+
+##### Building the IDF’s relative advantage 
+
+5. In order to develop a capability to overpower the enemy, the IDF needs
+
+to develop these components:
+
+A. Maneuvering.
+
+B. Effective use of fire.
+
+C. Maximizing good quality intelligence to cause significant damage
+
+to the enemy.
+
+D. Defense against high trajectory weapons.
+
+E. Networking.
+
+F. Consolidated command and control processes throughout the IDF.
+
+G. Maintaining the appropriate order of forces in the IDF.
+
+H. Learning processes in the course of the fighting.
+
+I. Maintaining and developing technological capabilities (basic or
+
+preliminary) and infrastructure, which will enable expansion
+within a short period of time in order to provide answers to unan­
+ticipated strategic changes.
+
+6. Building the force must be developed through these actions:
+
+A. Develop an overall concept to operating the force in the war zone
+
+in addition to concepts to operating the force in the operational
+arenas adapted to the rapid changes in the characteristics of the
+threats and the fighting.
+
+B. Strengthen the ability to identify changes and to change in the
+
+course of the confrontation by means of these actions:
+
+
+-----
+
+i. Training and exercises to strengthen the independence, initia­
+
+tive, and creativity of the commanders.
+
+ii. Learning processes in the midst of the fighting.[14]
+
+C. Accelerate the rate of development, replenishment and assimilating
+
+new technological solutions while taking risks to shorten develop­
+ment time by these actions:
+
+i. Increasing off-the-shelf procurement of existing products.
+
+ii. Develop technological infrastructures that will enable adapting
+
+the solution to the problem over time and not at the outset.
+
+iii. Networking that supports the operation of the force.
+
+D. A high level of capability to change in accordance with developing
+
+problems based on a high level of basic fitness and the ability to
+change directions in development and replenishment in the wake
+of the development of threats and changes in the order of priorities
+not foreseen at the outset.
+
+##### Planning and implementing the building of the force
+
+7. The force will be built on the basis of compatibility between the
+
+different fields in building the force and reaching a full operational
+capability:
+
+A. Concept and doctrine — the cornerstone of each capability
+
+required.
+
+B. Weaponry — emphasizing components of the order of battle
+
+(ORBAT) and inventory.
+
+C. Infrastructures.
+
+D. Personnel development.
+
+14 IDF networking enables it to disseminate learning process insights during the fighting faster than
+the enemy, which is limited in its ability due to its need to conceal communication.
+
+
+-----
+
+E. IDF organization.
+
+F. Training (exercises and training) — the basis for skills and
+
+capabilities.
+
+##### Utilization of resources
+
+8. The IDF as an organization, and IDF units in all their missions, operate
+
+under a permanent constraint on resources which is accentuated in
+Emergencies and Wartime. Dealing with this limitation has a number
+of aspects: Utilization of resources through multi-year planning,
+creating a basis for inter-organizational and inter-state cooperation in
+the development of weapons, and the development of weapons with the
+highest possible number of characteristics.[15]
+
+##### Critical mass
+
+9. Building capabilities will be carried out by creating or maintaining a
+
+critical mass.[16] In addition to the importance of achieving a qualitative
+and technological advantage, the quantity of means that can be
+operated is very important. Quantity impacts quality and flexibility in
+operation. Mass together with flexibility is the way to deal with uncer­
+tainty over future challenges on the battlefield.
+
+##### Prioritization in principle in building the force
+
+10. As a rule, building the force will focus on a War scenario and will be
+
+adapted as required to Emergency and Routine. Designated capabilities
+for a scenario that is not War will be as restricted as possible and will
+include the essential components to assure normal civilian life in
+Routine.
+
+11. The force building process presented in this chapter is directed toward
+
+a concrete scenario of fighting a sub-state enemy. At the same time,
+
+15 General development — suitable for a wide range of uses by different consumers.
+
+16 [Translator’s note: Footnote missing]
+
+
+-----
+
+technological infrastructures will have to be developed in order to
+respond to strategic changes in the arena, which if they take place, will
+require reprioritization of capabilities.
+
+12. The IDF’s order of priorities in principle will continue to be to develop
+
+**offensive capabilities before defensive capabilities despite the central­**
+ity of defense and overcoming threats to the home front.[17]
+
+##### Core capabilities required by the IDF
+
+For the sake of convenience and coherence of the discussion, we will
+present the capabilities in this format:
+
+**Attack** **Defense**
+
+An assault ORBAT enables ground Defensive capabilities enable:
+operations by:
+
+                           - Defense of the borders in
+
+ - Ground maneuvers Emergency and War
+
+ - Firepower capabilities - Defense of the borders in Routine
+
+ - Special operations - Defense against high trajectory
+
+ - CBWs weapons
+
+**Defense and attack in cyberspace**
+
+Capabilities enable:
+
+ - Utilization of intelligence
+
+ - Continuity of performance
+
+ - Networking enabling cooperation
+
+ - Logistics response
+
+ - Investigation and learning
+
+ - Operating in a coalition
+
+ - Influence on perception
+
+ - Achieving legitimacy
+
+ - Legal response
+
+17 [Translator’s note: Footnote missing]
+
+|Attack|Defense|
+|---|---|
+|An assault ORBAT enables ground operations by: • Ground maneuvers • Firepower capabilities • Special operations • CBWs|Defensive capabilities enable: • Defense of the borders in Emergency and War • Defense of the borders in Routine • Defense against high trajectory weapons|
+|Defense and attack in cyberspace||
+|Capabilities enable: • Utilization of intelligence • Continuity of performance • Networking enabling cooperation • Logistics response • Investigation and learning • Operating in a coalition • Influence on perception • Achieving legitimacy • Legal response||
+
+
+-----
+
+##### Capabilities needed in the field of defense
+
+13. It is necessary to have simultaneous defense capability in all the oper­
+
+ational arenas, in all Routine, Emergency and War situations and in all
+dimensions (ground, air, sea, and cyber). The IDF’s primary mission is
+to defend Israel’s territorial integrity and sovereignty.
+
+14. The order of priorities to deal with the threats on the borders:
+
+A. Prevent the enemy from making a territorial gain at the end of the
+
+confrontation.
+
+B. Foiling terror and attacks on the borders.
+
+C. Defense against high trajectory weapons and precision fire, includ­
+
+ing statistical fire in large numbers.
+
+D. Defend air, sea, and cyber space.
+
+E. Foil mega-attacks.
+
+
+##### Defending the borders in Emergencies and War
+
+15. The pinpointed threat in this field is an
+
+attempt at infiltration and occupying
+Israeli territory, on the ground,
+subterranean, and by air and sea.
+
+
+—
+SUBTERRANEAN THREATS
+
+Subterranean infiltration refers to the tunnel
+threat posed primarily by Hamas in the Gaza Strip.
+
+(AP Photo/Jack Guez)
+
+
+-----
+
+##### Defending the borders in Routine
+
+
+16. The border area should be considered a —
+
+permanently threatened area. The threat REINFORCING THE BORDER
+includes advanced capabilities (anti-tank, In December, the Israeli military
+
+fortified the border with Lebanon
+
+ground-to-air missiles, high trajectory with new concrete barriers, in
+
+anticipation of a Hezbollah attack.
+
+weapons, etc.) which make it possible to
+harm our forces from a large distance.
+Therefore, preparations must be made to defend our forces and the
+communities in the area adjacent to the border in a number of ways.
+
+
+##### Defense against high trajectory weapons
+
+17. High trajectory weapons are the dominant component in the enemy’s
+
+offensive capabilities. The threat includes harm to the civilian home
+front, strategic damage to national infrastructures, and damage to mil­
+itary installations and the deployed military units. Building the force in
+this field will be based on these actions:
+
+A. Continuous integrated defense[18] capable of dealing with a high
+
+flow of threats, which combines “soft” and kinetic capabilities to
+neutralize the enemy’s precision firepower systems.
+
+B. Maximum defense of strategic assets on the ground and offshore.
+
+C. Ability to create operational control over a large area in order to
+
+suppress fire directed from it.
+
+D. Pinpointed early warning on launchings.
+
+##### Capabilities needed in the field of attack
+
+18. There must be an offensive capability on a number of fronts
+
+**simultaneously.**
+
+18 Integrated defense — defense based on multiple layers and capabilities from various fields.
+
+
+-----
+
+A. Carry out a simultaneous and highly powerful attack on the
+
+ground, in the air and at sea in an integrated manner in the relevant
+operational theaters.
+
+B. Shifting air and intelligence efforts between the theaters.
+
+##### Ground maneuvering
+
+19. Ground maneuvering capabilities are required. A distinction will be
+
+made between two types of maneuvering.
+
+A. Deeply focused maneuvering to political/governmental centers of
+
+gravity.
+
+B. Decentralized and simultaneous maneuvering against the enemy’s
+
+wide tactical deployment.
+
+20. Building the force will be carried out through coordination between
+
+the ground, air, and sea arms and by utilizing maneuvering to expose
+the enemy and cause damage through the use of accurate firepower.
+Building the force will focus on lethality, mobility, and survivability
+of the force. Building the force in this area will be based on these
+capabilities:
+
+A. Employing a lethal maneuver with a low attrition rate by using
+
+advanced defense systems.
+
+B. In terms of ORBAT, time, and depth:
+
+C. Operating a ground force in any available ORBAT at the outset of
+
+the fighting[19] and gathering forces for a full offensive across a time
+
+19 The purpose of the maneuvering (even if limited in scope and making do with seizing controlling
+positions close to the border) is to create immediately a situation on the ground that “neutralizes”
+the obstacles to carrying out a ground maneuver and creates a feeling of pursuit by the enemy, on
+the one hand, while on the other — makes it possible to retreat to the border line and prevent an
+escalation in the sector, if such a decision is made.
+
+This competency calls for practice, decentralized command and control that will enable the
+commander to analyze the situation and decide in real time, HQ fitness, and provides enabling
+instruction to commanders, and the appropriate routine orders (e.g., in a kidnapping incident).
+
+
+-----
+
+axis while maintaining a logistics capability that allows for action
+over time.
+
+i. Use of effective supporting firepower against an entrenched
+
+enemy with high availability, operating air support at short
+ranges and small safety ranges.
+
+ii. Building the force on the ground in a differential manner. Pref­
+
+erence will be given to the IDF’s vanguard divisions.
+
+##### System-wide fire
+
+21. It is necessary to have the capability to operate effective system-wide
+
+**firepower (air, ground, and sea) in each war theater, at full strength,**
+with any force, at any time, and with a capacity to hit thousands of
+targets in a single combat day, and for the rest of the time — the ability
+to attack hundreds of targets in a day. Three characteristics for use of
+fire:
+
+A. **Fire at pre-planned targets —** building the force will enable an
+
+accurate multi-dimensional burst of fire, in the shortest time possi­
+ble and at a large bank of targets. The objective of building the force
+in the northern arena: tens of thousands of targets, the objective for
+building the force in the Gaza arena: thousands of targets.
+
+B. **Fire at targets of opportunity —** the ability to use intelligence and
+
+disseminate it over short periods of time to the fire range. Building
+the force will make operational processes possible starting with col­
+lecting and processing data, setting up the target and attacking it,
+and damage assessment. This requires a high speed network which
+combines multi-dimensional fire, ground and air data collection,
+processing and prioritizing engines, advanced planning tools and
+wide dissemination in all units.
+
+C. **Fire to support maneuvering —** synergy must be created between
+
+air, ground, and sea firepower and ground forces by means of
+supporting operational systems, a consolidated network, and joint
+exercises which will lead to trust between the parties and permit
+attacks with small safety ranges.
+
+
+-----
+
+i. Ability to launch a surprise burst of massive fire within several
+
+hours.
+
+ii. Strengthen the planning and control entities and base them on
+
+manpower that is available at short time periods.
+
+iii. Use quality intelligence that supports the use of fire against stra­
+
+tegic targets.
+
+iv. Joint exercise and getting to know one another in order to
+
+create inter-branch trust.
+
+v. Develop fire capability to damage all the above types of targets.
+
+##### Infantry ORBAT incursion from the air
+
+22. The ability to parachute or fly in infantry forces for an incursion onto
+
+the enemy’s centers of gravity will be built. The purpose of building the
+force includes the following capabilities:
+
+A. Flying a significant infantry ORBAT (helicopters and aircraft with
+
+high survivability).
+
+B. Autonomy for the force’s activities, without logistics.
+
+##### Deployment of special forces deep behind enemy lines
+
+23. A capability to carry out special operations deep behind enemy lines
+
+and on a wide scale will be built.
+
+A. Planning and implementation of the special operations in the war
+
+theaters and in the operational theaters.
+
+B. Carry out an “unplanned operation.”
+
+C. Build a “bank” of pre-prepared special operations.
+
+
+-----
+
+D. Standardize special means, weaponry and combat doctrine
+
+(common language), among all special units, in support of imple­
+mentation of large ORBAT special operations.
+
+##### Building capability for CBW
+
+24. Building the force for CBW is required in order to give freedom of
+
+operation to the existing and developing operation while maximizing
+the use of the existing capabilities. As a rule, building the force for
+CBW is included in the building of the overall force in the IDF. In a
+pinpointed context, it is necessary to act as follows:
+
+A. To set up a coordination center for CBW operations in the
+
+Operations Branch, to include inter-organizational and inter-min­
+isterial elements.
+
+B. Develop capabilities for covert and clandestine operations for CBW
+
+use.
+
+##### Building cyberspace capability
+
+25. Cyberspace is another area of combat. Defense, intelligence collection,
+
+and assault activities will be carried out in this space. Building the IDF’s
+force in this sphere will be based on these actions:
+
+A. Establish a cyber arm that will constitute the main HQ subordinate
+
+to the Chief of the General Staff to operate and build the IDF’s
+cyber capabilities and will be responsible for planning and imple­
+menting combat in cyberspace.
+
+B. Develop technological capabilities for cyber defense of all oper­
+
+ational systems and defense capabilities of the support systems
+(manpower, logistics).
+
+
+-----
+
+##### Building enabling capabilities
+
+26. Develop a uniform joint language for command and control in all
+
+IDF HQs that operate or function in the inter-arm sphere. Building the
+force in this field will be based on the establishment of the principal
+school for command and control.
+
+27. Develop the capability to use quality intelligence at all levels of
+
+operation: national intelligence, strategic intelligence, and operational
+intelligence. Building the force in the field of intelligence will be based
+on these actions:
+
+A. Develop and refine the ability to integrate information from all
+
+sensors, in all dimensions and all disciplines, to create information
+systems communications in large areas and with the required
+output.
+
+B. Develop the ability to hold onto contiguous territory based on
+
+integrating intelligence information from various disciplines which
+enable the creation of targets with high accuracy and in short time
+periods.
+
+C. Monitor the enemy’s combat doctrine with emphasis on advanced
+
+means.
+
+D. Utilize the intelligence, analyze it, and make it accessible (as
+
+needed) to all levels: from the GHQ, the district command, to the
+tactical levels in the battalions and the commands that operate the
+force.
+
+E. Present a picture of the status of the enemy’s formations and
+
+measure the effectiveness of the IDF’s offensive efforts against them.
+
+28. Maintain continuity of the war and economic effort through
+
+multi-layer protection. Building the force for developing capabilities
+supporting continuity of functioning will be based on these actions:
+
+
+-----
+
+A. Protection for national and strategic infrastructures.
+
+B. Continuous operation of the economic and war effort through the
+
+effective protection of strategic military infrastructures.
+
+C. Protection and maintaining a routine of REW in the home front
+
+(few casualties on the home front):
+
+i. The ability to respond quickly to the site of an incident based on
+
+networking all rescue and communications services with civil­
+ians and the local authorities.
+
+ii. Selective early warning to the home front that permits the
+
+highest focus on the hit area and maintains a normal routine in
+most of the areas that are out of range.
+
+D. Ability to operate under cyber-attack.
+
+29. Networked combat capability by all firepower elements in the IDF
+
+enables lethal utilization of accurate fire and creates synergy between
+fire and maneuver against various enemies using a range of tactics.
+
+30. Combining information collection networks and simultaneous air,
+
+ground, and sea fire to enable the IDF to create superiority even against
+a concealed enemy. Building the force in the field of network capability
+will be based on the following:
+
+A. A high-speed network infrastructure that enables multi-arm and
+
+inter-organizational sharing of information.
+
+B. Networking that enables rapid integration of information from
+
+various disciplines and its processing into targets in short time
+periods.
+
+C. Make the appropriate information accessible to each level.
+
+D. Manage uniform information databases and geographic infrastruc­
+
+tures throughout the IDF, which are continuously being updated in
+all the operational systems.
+
+
+-----
+
+31. Maintain a multi-arm and flexible logistic response (economic and
+
+military) in all REW situations for all the arms and branches and in all
+aspects.
+
+32. Logistic capability that enables ORBAT ground maneuver, while over­
+
+coming the threat of high trajectory weapons fired at the Israeli home
+front and the threat of guerrilla warfare threat along the arteries.
+
+A. Speedy organization for maneuvering of vanguard divisions.
+
+B. Logistic supplies.
+
+C. Mobility between the theaters.
+
+33. The ability to impact the shaping of perception in all the circles
+
+associated with the conflict is required by using system-wide measures.
+Focused attention on developing capabilities in the perception-infor­
+mation effort as follows:
+
+A. Develop a well-ordered approach to impacting the enemy’s percep­
+
+tion in all REW situations.
+
+B. Ability to plan and synchronize the perception effort with the
+
+other government ministries (Prime Minister’s Office, Ministry of
+Foreign Affairs, Ministry of Justice, etc.).
+
+34. Ability to manage effective public relations and legal efforts during
+
+Routine, and during and after combat in order to enable the IDF to
+achieve its goals, including legitimization of its actions. Building this
+force should take into account the power of the media through mecha­
+nisms operating in the short term and by planning and synchronization
+between operations on the battlefield, the perception-public relations
+effort and the legal effort. Focusing efforts on developing capabilities to
+achieve legitimacy will include these actions:
+
+A. Operational planning supported by legal knowledge.
+
+
+-----
+
+B. Strengthen mechanisms for inter-ministerial (Ministry for Foreign
+
+Affairs, Ministry of Justice, etc.) cooperation in order to shorten
+decision-making and response times.
+
+C. Cooperation with states with similar interests.
+
+##### Risk management for scenarios that are not the focus of the doctrine
+
+35. Although the concept is focused on a sub-state enemy, the IDF must
+
+also consider the capabilities needed in the face of extreme scenarios
+that are not part of the referenced concept in order to manage risks,
+which on the one hand will focus building the force on the referred
+scenario, and on the other — will not expose Israel to unreasonable
+risks to its existence.
+
+##### Developing capabilities against states without a common border 
+
+36. In the face of the challenge to uphold its qualitative advantage, the IDF
+
+will maintain the safeguarding of basic readiness, based on a balance of
+deterrence, while preserving mechanisms to speed up procurement.[20]
+Building the force in this context will be based on these actions:
+
+
+A. Strengthening strategic and tactical deterrence
+
+via cyber warfare.
+
+B. Early warning intelligence at suitable periods of
+
+time for launching a preventive strike.
+
+C. Preemptive strike capability in accordance with
+
+early warning indications in order to foil an
+attempted attack on Israel.
+
+20 As detailed in the subsection: Principles for building the force.
+
+
+—
+STUXNET
+
+An example of an
+offensive cyber operation
+conducted by Israel is
+Stuxnet, which was jointly
+developed with the United
+States and targeted
+Iranian nuclear facilities.
+
+
+-----
+
+### Conclusion
+
+1. Developments in the region lead the IDF to deal with a broad range
+
+of threats that challenge its operating concept and the processes for
+building the force derived from this concept. The main change is the
+development of the sub-state enemy, such as Hezbollah and Hamas,
+and threats from states that do not share a border with Israel.
+
+2. This document provides the approach in principle to operate the force
+
+in contexts that are common to all operational theaters against a semistate enemy and in the IDF’s various functional situations: Routine,
+Emergency, and War.
+
+3. The document of principles for building the force is derived from these
+
+principles for operating the force. These principles should serve the
+IDF’s force building elements when planning how to strengthen the
+IDF in the coming years.
+
+4. This document requires the necessary follow-up action, the main one
+
+being the development of special operational concepts in the battlefield
+and developing operational concepts for the operational theaters and
+the commands that operate the force. At the same time, the force
+building elements must formulate special force building concepts
+derived from this document.
+
+5. The IDF has always based its power on the quality of its people and the
+
+deep understanding that the IDF is the guarantor of Israel’s national
+existence. Therefore, the IDF will take steps to provide defense for the
+state in all situations, by utilizing the basic qualities of its commanders
+and fighters, chief among them being: fighting spirit, initiative and
+quality of action, and carrying out missions fully and in an uncompro­
+mising manner.
+
+
+-----
+
+-----
+
+-----
+
+**Belfer Center for Science and International Affairs**
+
+Harvard Kennedy School
+79 JFK Street
+Cambridge, MA 02138
+
+www.belfercenter.org
+
+Copyright 2016, President and Fellows of Harvard College
+
+Printed in the United States of America
+
+
+-----
+

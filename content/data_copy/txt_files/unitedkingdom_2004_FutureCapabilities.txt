@@ -1,0 +1,2310 @@
+#### Delivering Security in a Changing World
+##### Future Capabilities
+
+
+-----
+
+-----
+
+## Delivering Security in a Changing World
+### Future Capabilities
+
+###### Presented to Parliament by The Secretary of State for Defence By Command of Her Majesty
+
+ July 2004
+
+ £7.00
+
+ Cm 6269
+
+
+-----
+
+-----
+
+## Chapter 1
+###### Introduction
+
+## Chapter 2
+###### Force Structure Changes
+
+## Chapter 3
+###### Organisation and Efficiency
+
+## Chapter 4
+###### Conclusions
+
+## Annex
+###### Determining the Force Structure
+
+**© Crown Copyright 2004**
+
+The text in this document (excluding the Royal Arms and departmental logos) may be reproduced
+
+free of charge in any format or medium providing that it is reproduced accurately and not used in a misleading context.
+
+The material must be acknowledged as Crown copyright and the title of the document specified.
+
+Any enquiries relating to the copyright in this document should be addressed to
+
+The Licensing Division, HMSO, St Clements House, 2-16 Colegate, Norwich, NR3 1BQ.
+
+Fax: 01603 723000 or e-mail: licensing@cabinet-office.x.gsi.gov.uk
+
+
+-----
+
+-----
+
+###### Foreword by the Secretary of State for Defence
+ the Right Honourable Geoff Hoon MP
+
+In the Defence White Paper of last December I set out the need to defend against
+
+the principal security challenges of the future: international terrorism, the proliferation
+of Weapons of Mass Destruction, and weak and failing states. Our need in the future is
+for flexible and adaptable armed forces properly supported to carry out the most likely
+expeditionary operations. To create a more sustainable and affordable force structure
+which better meets these operational requirements we have secured additional resources:
+the 2004 Spending Review allocated £3.7 billion to defence across the Spending Review
+period, which represents an average real terms increase of 1.4% a year. Additionally,
+we shall also generate resources to strengthen the front line through our comprehensive
+efficiency and rationalisation plans, the benefits of which will be ploughed back into the
+defence budget. As indicated in the White Paper, we are pursuing radical change in the
+future force structure, reducing force levels in some capabilities in order to invest more
+in higher priority capabilities better able to achieve the effects we will require. We will
+increase our capacity to undertake expeditionary operations alongside an equipment
+programme that is delivering, and will continue to deliver, an advanced range of
+capabilities. The result will ensure that the resources the Government commits to Defence
+are deployed to optimum effect. The Chiefs of Staff support the radical change we are
+pursuing and have been instrumental in its preparation.
+
+
+-----
+
+###### Future Capabilities
+
+# Chapter 1
+
+###### Introduction
+
+
+1.1 The Defence White Paper set
+
+out our analysis of the future security
+environment, the implications for
+defence, our strategic priorities and
+how we intend to adapt our planning
+and force structures to meet potential
+threats. This policy was an evolution
+of the strategy contained in the 1998
+Strategic Defence Review (SDR),
+and built on the conclusions of the
+2002 SDR New Chapter and recent
+operational experience. Crucially, it
+demonstrated the need to adapt to the
+more pronounced threats presented
+by international terrorism and the
+proliferation of weapons of mass
+destruction (WMD) and the challenges
+posed to the international community by
+weak and failing states.
+
+1.2 The White Paper set out a revised
+
+set of assumptions which underpin
+future planning. These include:
+
+- An expanded regional focus beyond
+
+the core regions set out in the
+Strategic Defence Review of Europe,
+the Near East, North Africa and the
+Gulf, to reflect the requirement to
+operate further afield across subSaharan Africa and South Asia,
+and to meet the wider threat from
+international terrorism on a global
+basis.
+
+- The need to strike the right balance
+
+of capabilities for expeditionary
+operations to meet the demands of
+our eight strategic effects - Prevent,
+Stabilise, Contain, Deter, Coerce,
+Disrupt, Defeat and Destroy.
+
+
+
+- The need to optimise our force
+
+structure to support three concurrent
+small and medium scale[1] operations
+(rather than two in the SDR) including
+the capability to lead or be framework
+nation for coalition operations where
+the US is not involved.
+
+- The retention of the flexibility to
+
+reconfigure for less frequent large
+scale operations, while concurrently
+conducting a small scale operation.
+The full spectrum of capabilities is not
+required for large scale operations,
+as the most demanding operations
+could only conceivably be undertaken
+alongside the US, either as a NATO
+operation or a US led coalition,
+where we have choices as to what to
+contribute.
+
+- The importance of the continued
+
+transformation of our forces to
+concentrate on the characteristics of
+speed, precision, agility, deployability,
+reach and sustainability. Key to this
+is our ability to exploit the benefits of
+Network Enabled Capability, precision
+munitions and the development of
+effects-based planning and operations.
+
+- The importance of those capabilities
+
+which can rapidly come together to
+achieve specific military effect and then
+rapidly adapt with other capabilities to
+achieve what is required by the next
+operation. By doing so decisive military
+effect may be achieved through a
+smaller number of more capable, linked
+assets acting quickly and precisely to
+achieve a desired outcome.
+
+
+
+- The need to ensure that the
+
+organisation of our Armed Forces
+reflects the reasonable aspirations
+of our people in the 21st Century
+in terms, for example, of greater
+geographic stability in their home
+lives.
+
+- Continued support to the Home Office
+
+and other civil authorities charged
+with the safety and security of the UK,
+both through routine military tasks
+and our preparedness to support
+them in a time of crisis.
+
+1.3 Based on this analysis the White
+
+Paper set out a revised set of 18 Military
+Tasks, both standing and contingent,
+with the range of strategic effects
+our armed forces need to be capable
+of delivering. Extensive work has
+been undertaken to identify the future
+force structure and the development
+of capability in the longer term. An
+illustration of how we match capability
+against military tasks is attached at
+Annex. As new capabilities come into
+service such calculations will change,
+particularly with our increasing focus
+on effects achieved by combinations of
+flexible and adaptable forces.
+
+
+_1  An example of a small scale operation was the UK’s deployment to Macedonia in_
+_2001; Afghanistan (2001) was at medium scale; and Operation TELIC large scale._
+
+
+-----
+
+**Force Structure Changes - Key**
+**Judgements**
+
+1.4 In determining where we have
+
+the most scope for change within the
+force structure to allow necessary
+rebalancing and continued investment
+in transformational capabilities we have
+focused on key policy judgements from
+the White Paper, in particular:
+
+- The need to rebalance and optimise
+
+our Armed Forces to meet the
+demands of the more likely multiple
+concurrent and enduring small and
+medium scale operations. This
+requires the capability to form a third
+line of communication including
+deployable Headquarters, and
+Command, Control, Communications,
+Computers, Intelligence and
+Surveillance and Reconnaissance
+(C4ISR) assets and logistics. It also
+demands that all deployable units
+should be fully manned, minimising
+the requirement for individual
+reinforcements and backfilling.
+
+- The requirement to enhance our
+
+ability to lead or be the framework
+nation for European (and other
+coalition) operations where the US
+is not engaged. To do so we must
+
+
+continue to have the full spectrum
+of military capabilities to achieve the
+desired effects at medium scale. For
+some of our assets such operations
+have now become the principal driver
+in determining the size of the force
+needed.
+
+- The assumption, based on the
+
+experience of the last 10 years, that
+on enduring operations, once the joint
+force has been deployed and stability
+established, lower force levels and
+generally lighter forces are required.
+This has particular implications for the
+levels of maritime sea control, air and
+heavier offensive land forces required
+on an enduring basis.
+
+- The assumption that the most
+
+complex large scale operations will
+only be conducted as part of a USled coalition. Our primary goal is
+to maximise our ability to influence
+at all levels the planning, execution
+and management of the operation
+and its aftermath, in support of our
+wider security policy objectives. Our
+force structure at large scale should
+therefore focus on those capabilities
+which add real weight to the
+campaign and hence the UK’s ability
+to influence its outcome. The most
+important capabilities are those which
+contribute to:
+
+  - initial theatre entry and shaping
+
+operations;
+
+  - intelligence, surveillance and
+
+reconnaissance;
+
+
+
+  - precision attack of strategic targets;
+
+  - joint land and air offensive
+
+operations; and
+
+  - post-conflict stabilisation.
+
+- Our aim at large scale is therefore to
+
+contribute:
+
+ - Special Forces;
+
+ - a range of C4ISR assets, forming
+
+our own network and integrated
+with the US network;
+
+ - amphibious and carrier strike task
+
+groups;
+
+  - an air expeditionary task force
+
+capable of both long range strike
+and support to land operations; and
+
+ - a land manoeuvre division capable
+
+of conducting offensive operations.
+
+
+-----
+
+###### Future Capabilities
+
+ Improved Effect through Improved Improved Accuracy
+
+**During the Vietnam War over**
+800 sorties were flown against
+the Thanh Hoa bridge before it
+was destroyed by aircraft using
+precision weapons. Today we
+would aim to destroy a similar
+target with a single formation of
+6 Tornado aircraft with Enhanced
+Precision guided bombs.
+
+Improved accuracy on target translates into
+a direct improvement on the desired kinetic
+effect and therefore we can more accurately
+and more efficiently achieve our military aim
+with minimum risk of collateral damage.
+
+**We therefore need fewer munitions,**
+**sorties and aircraft per target to achieve**
+**the desired effect.**
+
+- Although the serious impact that
+
+the presence of a hostile submarine
+could have on maritime operations
+requires us to retain the capability to
+neutralise such a threat, the potential
+threat from hostile submarines to
+most future UK operations is likely
+to be very low. We have therefore
+judged it appropriate to reduce the
+numbers of platforms optimised for
+anti-submarine operations, while
+continuing to enhance the quality of
+those that remain and ensure that
+they are able to contribute fully in
+other capability areas.
+
+
+###### Improved Effect through Improved Improved Accuracy 1980 - 200ft
+
+**1970 - 400ft**
+
+**2004 - 20ft**
+
+###### 1970 1980 1990 2000
+
+Improved Effect Through
+Improved Accuracy over the
+
+**During the Vietnam War over** last 30 years.
+800 sorties were flown against
+the Thanh Hoa bridge before it
+was destroyed by aircraft using
+precision weapons. Today we
+would aim to destroy a similar **In the 1991 Gulf War, fewer than 20% of air dropped**
+target with a single formation of munitions were precision guided. In Operation
+6 Tornado aircraft with Enhanced **TELIC, greater than 80% were precision guided,**
+Precision guided bombs. greatly improving accuracy.
+
+A Tornado GR4 dropping a
+precision guided munition, such
+
+Improved accuracy on target translates into as Enhanced Paveway II, will be
+a direct improvement on the desired kinetic around 10 times more accurate than
+effect and therefore we can more accurately it would be with a “dumb” bomb.
+and more efficiently achieve our military aim
+with minimum risk of collateral damage.
+
+**We therefore need fewer munitions,**
+**sorties and aircraft per target to achieve**
+**the desired effect.**
+
+
+
+- Similarly, the air threat to deployed
+
+forces has greatly reduced and
+the capability of our air superiority
+aircraft and other air defence assets
+is continuing to improve. So we need
+fewer aircraft and fewer ground-based
+air defence systems to meet the
+threat.
+
+- The effectiveness of modern precision
+
+weapons and sensors, which can
+be used in all weathers, day and
+night, mean that highly accurate air
+delivered offensive effects can be
+achieved with fewer fast jets than
+before (see diagram above).
+
+- While recognising the need to
+
+continue to provide appropriate levels
+of support to the Police Service of
+Northern Ireland, the more favourable
+security situation in Northern Ireland
+allows further reductions in the
+forces permanently committed to the
+Province, while retaining an ability to
+reinforce at short notice.
+
+
+A Tornado GR4 dropping a
+precision guided munition, such
+as Enhanced Paveway II, will be
+around 10 times more accurate than
+it would be with a “dumb” bomb.
+
+
+**Methodology**
+
+1.5 In addition to routine planning,
+
+in January this year the Department
+set up multi-disciplinary Service and
+civilian teams to examine 16 thematic
+workstrands, using the policy baseline
+established by the Defence White Paper
+and focusing on the key judgements
+set out above. The aim was to identify
+the optimum sustainable and affordable
+force structure to deliver the revised
+policy requirement, while releasing
+resources to invest in our future
+priorities. The workstrands involved a
+rigorous examination of force structure,
+specific equipment requirements and
+supporting infrastructure, manpower
+and organisational structure. Set out in
+the following chapter, by capability area,
+are the changes we have concluded
+we should make to the current force
+structure and our key capability
+requirements for the future.
+
+
+-----
+
+# Chapter 2
+
+###### Force Structure Changes
+
+
+**Network Enabled Capability**
+
+2.1 At the heart of this transformation
+
+is Network Enabled Capability (NEC).
+NEC is about the coherent integration of
+sensors, decision-makers and weapon
+systems along with support capabilities.
+NEC will enable us to operate more
+effectively in the future strategic
+environment through the more efficient
+sharing and exploitation of information
+within the UK Armed Forces and with
+our coalition partners. This will lead to
+better situational awareness across the
+board, facilitating improved decisionmaking, and bringing to bear the right
+military capabilities at the right time to
+achieve the desired military effect. This
+enhanced capability is about more than
+equipment; we will exploit the benefits
+to be obtained from transformed
+doctrine and training, and optimised
+command and control structures. The
+ability to respond more quickly and
+precisely will act as a force multiplier
+enabling our forces to achieve the
+desired effect through a smaller number
+of more capable linked assets. (An
+illustrative scenario showing the benefits
+NEC will bring to the delivery of military
+effect is overleaf.)
+
+
+2.2 We recognise that as technology
+
+and our understanding of NEC change
+over time, our military capability will
+have to evolve. We have defined a clear
+set of priorities to deliver NEC over
+three interconnected phases, which will
+improve the connectivity of currently
+planned equipment, further integrate
+organisations and systems, and then
+synchronise all aspects of military effect.
+
+2.3 Within the next five years there are
+
+several major programmes which will
+contribute to the high capacity network
+required to support NEC: Skynet 5
+delivers the next generation of military
+satellite communications services to
+support all UK operations; Cormorant
+will link the strategic satellite based
+communications with operationally
+deployed headquarters, and Falcon will
+provide a secure communication system
+at the operational level; Bowman meets
+tactical voice and data communications
+needs. Building on these foundations,
+the Defence Information Infrastructure
+will provide the capability to exchange
+and share electronic information across
+Defence from foxhole to stores depot
+and from sensor to shooter. Elsewhere
+in the network, the MOD is continuing to
+
+
+invest in developing stand-off sensors,
+such as Watchkeeper, an Unmanned
+Air Vehicle and improved electronic
+warfare capabilities such as Soothsayer.
+The recently trialled ASTOR airborne
+surveillance system will meet the Army
+and RAF requirement for surveillance,
+reconnaissance and target acquisition
+information, as well as providing the
+UK’s contribution to NATO’s Alliance
+Ground Surveillance project. Improved
+stand-off sensors will not, however,
+remove the requirement for timely and
+accurate human intelligence (HUMINT),
+particularly in the field at the operational
+and tactical levels. We intend, therefore,
+to provide additional deployable
+HUMINT teams.
+
+
+-----
+
+###### Future Capabilities
+
+
+**NEC – A SCENARIO**
+
+Autumn 2010, UK maritime, land and air forces are engaged in a focused intervention
+
+somewhere in sub-Saharan Africa.
+
+13.54 Two fast-moving light utility vehicles carrying heavily armed terrorists with shoulder
+launched surface-to-air missiles and rocket-propelled grenades are detected by an army
+reconnaissance squadron on patrol. They classify it as a possible target, and immediately
+report it to their Unit HQ using their Bowman digitally encrypted radios. 1
+
+2 13.57 This information is quickly relayed to Brigade HQ and supporting land forces
+
+and then on to Joint Forces Land Component Command (JFLCC). Within minutes a
+Watchkeeper UAV, operated remotely, has been diverted to find and positively identify the
+target using its own sensors.
+
+3 14.08 Meanwhile, the JFLCC has reassigned the on-station ASTOR battlefield surveillance
+
+aircraft to track the moving target and briefs the Joint Task Force HQ (JTFHQ).
+
+4 14.10 The JFLCC and in conjunction with the Joint Forces Air Component Command
+
+(JFACC), develops a plan for engaging the target on the basis of an intelligence picture
+updated in real-time from numerous sources, which include the reconnaissance team on the
+ground, the UAV and ASTOR, even intelligence reports relayed from the UK by the Skynet 5
+satellite system.
+
+5 14.15 Authorisation for the strike may be required from JTFHQ or from the UK, depending
+
+on the rules of engagement in force.
+
+6 14.16 Using Tactical Information Exchange Capability (TIEC) and secure voice radio, the
+
+JFACC directs an E3D Sentry to re-task two Harrier GR9 aircraft, from the nearby carrier
+group, who have been on stand-by in a holding pattern.
+
+7 14.24 The Harriers engage the terrorists with Maverick precision-guided munitions using
+
+updated co-ordinates received over TIEC.
+
+8 14.29 The Watchkeeper UAV provides a battle damage assessment, and confirm the
+
+destruction of the target – a little over 30 minutes from when it was first observed.
+
+
+**Skynet 5**
+**E3 Sentry**
+
+###### 6
+
+**Harrier GR9**
+
+###### 4
+
+**ASTOR**
+
+**JTFHQ** **JFACC**
+
+###### 3
+ 7
+
+**JFLCC** **2**
+
+**Watchkeeper**
+
+**Brigade HQ**
+
+###### 1
+ 5 Unit HQ Patrol
+
+
+-----
+
+**Special Forces**
+
+2.4 We are increasing the strength
+
+of our Special Forces and investing in
+new equipment for them. These are
+significant enhancements, but the
+details of these changes must remain
+classified.
+
+**Maritime**
+
+2.5 As set out in the White Paper,
+
+the future Navy will provide a versatile
+and expeditionary force with an
+increased emphasis on delivering effect
+onto land at a time and place of our
+choosing. The future force structure
+will be focused on the carrier strike and
+amphibious capabilities, including the
+Commando Brigade. In the short term,
+the capability will be built around the
+existing carriers and Joint Force Harrier
+operating the upgraded Harrier GR9.
+The new carriers deploying the Joint
+Combat Aircraft (JCA) will transform
+our capability to project power from
+the sea. They will have greater reach,
+sustainability and survivability than
+the existing carriers and will be able to
+deploy a much more powerful mix of
+fast jets and helicopters. The stateof-the-art, multi-role JCA will provide
+significantly increased performance,
+improving strike and reconnaissance
+capabilities, as well as incorporating
+stealth technology. Similarly, a robust
+and modern amphibious capability
+based around two new ships, HMS
+ALBION and BULWARK, supported by
+the Bay Class landing ships will provide
+a step change in our ability to launch
+and support forces ashore.
+
+2.6 Destroyers and frigates provide a
+
+range of effects, both from within a task
+group, protecting the carrier, amphibious
+and strategic lift capability, and also
+at smaller scales in their own right. In
+future, these platforms, in particular
+Type 45, will provide far greater
+capability to counter modern threats
+
+
+through improved and networked
+sensors, command and control and
+weapons, as well as greater versatility
+when individually deployed on smaller
+operations. A Co-operative Engagement
+Capability to link sensors and weapons
+systems of the Type 45 destroyers will
+provide much more effective maritime
+air defence, and on the Type 23 frigates
+will improve their point defence and
+situational awareness. In the light of
+the reduced conventional threat, our
+revised concurrency assumptions and
+improved networked capability, we
+assess that we need fewer of these
+platforms. Consequently we have a
+requirement for 8 Type 45 destroyers
+and will need 25 destroyers and frigates
+overall. This will be achieved by payingoff our oldest Type 42 destroyers HMS
+CARDIFF, NEWCASTLE and GLASGOW,
+and reducing the number of Type 23
+frigates by paying-off HMS NORFOLK,
+MARLBOROUGH and GRAFTON earlier
+than currently planned by March 2006.
+The numbers of ships remaining will
+continue to be sufficient to carry out
+our high priority standing tasks, and
+will maintain the technological edge
+to counter threats if and when they
+arise, through continuing development,
+including the introduction of the Type
+2087 Low Frequency Active Sonar.
+
+2.7 We judge in the light of the
+
+reduced threat that an attack submarine
+fleet of 8 SSNs will be sufficient to meet
+the full range of tasks. This force size
+will be achieved when HMS SUPERB
+and TRAFALGAR pay-off as planned
+by December 2008. For the future,
+the introduction of the ASTUTE class
+submarines will represent a significant
+addition to the delivery of effects based
+warfare. Their increased weapons
+payload coupled with our investment in
+the latest generation of Tomahawk land
+attack missiles will give each submarine
+even greater flexible precision firepower
+for land attack.
+
+2.8 The changes in the scale of the
+
+anti-submarine capability will allow us
+to reduce the current Nimrod MR2 fleet
+from 21 to 16 and shift their primary role
+towards wider surveillance in support
+of joint military and security operations.
+The MRA4 aircraft should offer greater
+range and endurance to support
+operations over a wider area coupled
+with improved sensors providing greater
+surveillance utility in the land, as well
+as the maritime environment. Subject
+to industry demonstrating satisfactory
+performance at acceptable prices, the
+requirement could in future be met by a
+
+
+fleet of about 12 aircraft.
+
+2.9 The reduced threat and changed
+
+requirement for large scale operations
+means we can meet our operational
+and standing tasks with a reduced fleet
+of 16 mine counter-measure vessels,
+through paying-off HMS INVERNESS,
+BRIDPORT and SANDOWN by April
+2005. The improved security situation
+in Northern Ireland makes it possible to
+pay off the Hunt class patrol vessels,
+HMS BRECON, DULVERTON and
+COTTESMORE by April 2007. Our
+continued investment in oceanographic
+survey and environmental technology,
+with the new ships HMS ECHO and
+ENTERPRISE, has delivered a unique,
+world-class capability providing direct
+support to both our own forces and our
+allies.
+
+2.10 In summary, we are building
+a versatile, expeditionary maritime
+capability with far greater and
+more flexible “punch” into the land
+environment, delivered at range
+from the UK and a time and place of
+our choosing. This will comprise a
+transformed strike capability based
+around future carriers, with Joint
+Combat Aircraft, and nuclear powered
+submarines alongside a robust
+amphibious capability including 3
+Commando Brigade. We will also be
+able to provide appropriate independent
+forces to smaller scale operations
+through more individually capable
+frigates and destroyers, which will also
+offer networked force protection to the
+carrier and amphibious task groups.
+In total, this means a maritime force
+transformed in its ability to conduct
+maritime operations and contribute to
+the land environment in terms of strike,
+amphibious capability and surveillance.
+
+**Land**
+
+2.11 As previously announced in the
+White Paper, our priority is to rebalance
+Land forces so that they are better
+structured and equipped to conduct the
+full range of military tasks on concurrent
+small and medium scale operations.
+This will involve a major restructuring of
+the Army to better enable brigade level
+operations. The plan is to ensure that
+each deployable brigade is fully manned
+and has its own integral enablers and
+logistics to allow it, or battlegroups
+drawn from it, to undertake the most
+likely tasks. The balanced Land force
+of the future will consist of two heavy
+armoured brigades, three medium
+weight brigades and a Light Brigade,
+
+
+-----
+
+###### Future Capabilities
+
+in addition to the Air Assault and Royal
+Marine Commando Brigades. The new
+emphasis on Medium Weight Forces,
+based around the Future Rapid Effects
+System (FRES) family of vehicles,
+means that we will re-role heavy
+capabilities and establish additional
+surveillance, target acquisition and
+enabling capabilities, including manned
+reconnaissance, and an additional
+Unmanned Air Vehicle battery. FRES
+will operate alongside a new generation
+of command and liaison vehicles, which
+will begin entering service in 2007.
+
+2.12 The shift in emphasis to Light
+and Medium Weight Forces means that
+we will establish an additional three
+light armoured squadrons; re-role a
+Challenger 2 regiment as an armoured
+reconnaissance regiment; re-role an
+AS90 regiment into a light gun regiment;
+and in the medium term, equip three
+artillery regiments with the new Light
+Mobile Artillery Weapon System when
+it enters service. At the same time,
+we will increase our ability to engage
+land targets with precision and at
+range with the introduction into service
+of the Apache attack helicopter this
+Autumn and future improvements to our
+missile inventory, beginning with entry
+into service of the new infantry antitank guided weapon (Javelin) in 2005.
+Collectively these improvements will
+allow a reduction of seven Challenger
+2 armoured squadrons and six AS90
+batteries by March 2007.
+
+2.13 The need to fight at close quarters
+will remain an enduring requirement.
+Our forces have recently received
+
+
+upgrades to personnel protection,
+firepower and night vision equipment
+and 3 Commando Brigade are currently
+receiving a new protected vehicle,
+the Viking. Our dismounted infantry
+capability will be further enhanced
+through the Future Integrated Soldier
+Technology Programme.
+
+2.14 Northern Ireland has been the
+largest single operational demand on
+the Army since the end of the Cold
+War, but the security situation is now
+significantly improved. This has already
+made it possible to reduce the number
+of infantry battalions committed to
+operations there by two. The Chief
+Constable of the Police Service of
+Northern Ireland (PSNI) and the General
+Officer Commanding (GOC) have now
+conducted a further review of security
+requirements and concluded that from
+the Autumn the number of battalions
+assigned to the GOC can be reduced by
+a further two, while still providing in full
+the support the PSNI requires. Neither
+unit is routinely based in Northern
+Ireland. Taken together, the 4 infantry
+battalion tasks which will cease this
+year required the commitment of a total
+of 16 infantry battalions to maintain 24
+month tour intervals. We judge that
+cessation of these tasks will reduce our
+future requirement for infantry battalions
+from 40 to 36. This change in long
+term operational demands will enable
+the Army to enhance significantly the
+balanced all-arms capability it needs for
+future expeditionary operations.
+
+2.15 A central element in the Army’s
+restructuring will be a fundamental
+change to the way it organises the
+infantry. The practice of arms plotting
+– moving infantry battalions and their
+families en bloc between roles and
+geographical locations every few
+years – will be phased out. This will
+enable individual Servicemen and their
+families to plan on being based within
+a particular geographical area. Not
+only will this be a more efficient use of
+infantry battalions, it will also enable
+Service families to put down roots in the
+community within which they are based.
+
+2.16 The new infantry structure
+will continue to be organised on a
+
+
+divisional basis, but a critical change
+will be made with the adoption of large
+regiments of two or more battalions,
+making it possible for individuals
+to move between units within their
+division, thus enhancing the advantages
+of geographical association, while
+preserving the opportunity at an
+individual level to move between
+different roles. Both regular and reserve
+forces will be incorporated into the
+new structure, enabling the Army to
+improve the links between regular units
+and the reserves who reinforce them.
+The reduction in the number of regular
+battalions from 40 to 36 will comprise
+one battalion recruited in Scotland and
+three recruited in England. Details of the
+new organisation will be worked out by
+the Army and announced by the end of
+the year.
+
+2.17 All of the manpower freed up by
+the restructuring of the infantry will
+be reinvested, enabling the Army to
+achieve the robust formation and unit
+establishments needed to meet current
+and future requirements. Rebalancing
+will give the Army:
+
+- Stronger and more resilient infantry
+
+battalions;
+
+- Sufficient engineers to create an
+
+additional Explosive Ordnance
+Disposal squadron, and to improve
+combat engineer support for mobility
+and counter-mobility tasks, such
+as bridge-building and obstacle
+crossing, at brigade level;
+
+- More signallers to enhance network
+
+access in 16 Air Assault Brigade, to
+bolster our logistic communications
+capability, and to provide additional
+strategic communications for the
+Allied Rapid Reaction Corps (ARRC);
+
+- Additional intelligence staff, to
+
+enhance our deployable intelligence
+and security units and to provide a
+
+
+-----
+
+fully operational human intelligence
+gathering (man on the ground)
+capability; and
+
+- Extra logistics support, including
+
+additional fuel sections within each
+brigade and a greater port and
+maritime capability.
+
+2.18 As a result of the reduced air threat
+to our forces on operations, we intend
+reducing Rapier anti-aircraft missile
+launchers from 48 to 24 fire units which
+will mean disbanding four RAF Regiment
+Ground Based Air Defence (GBAD)
+Squadrons. Rapier will be operated by
+the Army and GBAD will be commanded
+by a new Joint Headquarters within
+the RAF Command Structure. We
+will also reduce the High Velocity
+Missile capability from 156 to 84 fire
+units, by reducing the size of Regular
+batteries and deleting the roles of two
+TA regiments.  These latter regiments
+will be re-roled, although plans for rebalancing are still being finalised.
+
+**Air**
+
+2.19 The UK’s air capabilities have
+been significantly enhanced since the
+SDR. Advances in weapons, networking
+and in the aircraft themselves will see
+continuing substantial improvements in
+the decade to come. Our future combat
+air power will be built around multi-role
+Typhoon and Joint Combat Aircraft
+able to deliver the offensive air and air
+defence capabilities currently delivered
+by single role aircraft. As we make the
+transition towards a force structure
+based on these types, total numbers
+of fast jet crews and aircraft will vary
+year by year, but we have revised our
+air component requirements to take
+account of developing capabilities and
+to establish a firm baseline for force
+
+
+levels over the next decade.
+
+2.20 Recent upgrades to the Tornado
+GR4 and continuing development of
+the Harrier GR9 force ensure a potent
+current offensive air and tactical
+reconnaissance capability. We are
+assessing how best to enable these
+platforms to connect to the wider
+network through the Tactical Information
+Exchange Capability programme. The
+new Storm Shadow long range air-tosurface missile, Brimstone and Maverick
+anti-armour weapons and new precision
+guided bombs considerably enhance
+our offensive ability to achieve precise
+effects. We judge that, as a result of
+these and other improvements, an air
+expeditionary task group capable of
+deploying up to 64 offensive fast jets will
+enable the full range of small, medium
+and large scale contingent operations
+to be conducted. Under these revised
+requirements the offensive force will
+require around 170 front line crews,
+rather than about 210 at present. This
+will enable us to draw down the Jaguar
+force two years earlier than planned,
+closing 54(F) Squadron in April 2005 and
+41(F) Squadron in April 2006, with the
+final Jaguar squadron, 6 Squadron, to
+be disbanded in 2007.
+
+2.21 The Tornado F3 force has
+substantially improved in capability
+through the introduction of Advanced
+Medium Range Air-Air Missile
+(AMRAAM), the world-leading Advanced
+Short Range Air-Air Missile (ASRAAM),
+and the Joint Tactical Information
+Distribution System. Typhoon, equipped
+in due course with the Meteor beyond
+visual range missile in addition to
+ASRAAM, will represent a further step
+change in capabilities. We judge that,
+given these enhanced capabilities and
+the reduced air threat to our forces on
+deployed operations, we will need the
+ability to deploy up to 16 air defence
+fighters within the air expeditionary task
+group. When standing quick reaction
+alert tasks are taken into account this
+translates into a front line force of 55
+crews, compared to about 80 crews at
+present. This will allow the disbandment
+of XI(F) Tornado F3 squadron in October
+2005.
+
+2.22 The overall reduction in the
+number of fast jet aircrew required will
+
+
+reduce requirements for fast jet training
+and the number of training aircraft. We
+remain committed to the procurement of
+the Hawk 128. Final numbers, beyond
+the initial 20, will be determined over the
+next year.
+
+2.23 Helicopters provide a key
+capability in the battlefield and maritime
+environments, and their flexibility means
+that they contribute to the majority
+of the Military Tasks. The recent
+report on battlefield helicopters by the
+National Audit Office assessed that
+the UK helicopter fleet was arguably
+the most capable in Europe. Certainly,
+it is one of the most experienced,
+with recent operations spanning from
+the towns and villages of Northern
+Ireland to the Iraqi desert, from the
+mountains of Afghanistan to the jungles
+of Sierra Leone, and from the Gulf
+to the Caribbean. Over the next ten
+years, we plan to invest some £3bn
+in helicopter platforms to replace and
+enhance our existing capability. In light
+of the improved security situation in
+Northern Ireland we plan to make some
+reductions in overall helicopter numbers.
+
+2.24 This substantial investment within
+a relatively condensed timeframe
+offers an opportunity to maximise
+efficiencies and coherence across
+our future helicopter fleet in the key
+capability areas of lift, reconnaissance
+and attack, which will be central to
+future expeditionary operations. We
+have accordingly been working with
+industry, to review thoroughly both our
+capability requirements and our forward
+plans. This work continues, and we aim
+to report on progress in the next few
+months.
+
+
+-----
+
+###### Future Capabilities
+
+**Strategic Enablers and Logistics**
+
+2.25 Operational experience since the
+SDR has shown the key role of logistics
+and the importance of sustainability as
+an enabler across all elements of military
+capability. As with other capability
+areas, logistics requires strengthening
+in order to meet the demands of
+concurrent operations. There will be
+further significant investment in this
+area. As part of the re-balancing of our
+Army structure we are strengthening our
+logistic capability at brigade level, and
+improving deployable port and maritime
+capabilities, which will help meet the
+demands of expeditionary operations.
+And drawing on our experience from
+Operation TELIC, we are also applying
+the latest technology to our logistic
+visibility and asset tracking capability to
+ensure the right materiel is in the right
+place at the right time.
+
+2.26 Fundamental to expeditionary
+operations is having sea and air
+transport, with the capacity to lift
+oversized loads. The core of this
+capability remains the fleet of C-130
+aircraft, and, from 2011, the A400M.
+We have already announced that
+we are considering the options for
+retention of a small force of C-17s
+after A400M enters service, in order to
+maintain a capability to lift the largest air
+transportable items. We now intend to
+buy the current fleet of four leased C-17
+aircraft at the conclusion of the current
+lease arrangement together with one
+additional aircraft.
+
+2.27 The value of our fleet of six
+Roll-on/Roll-off vessels was amply
+demonstrated in the period leading up
+to operations in the Gulf and is crucial to
+achieving the rapid build up for medium
+scale operations. In addition the Bay
+Class landing ships under construction
+
+
+will each be capable of deploying twice
+the quantity of vehicles and stores
+than the older landing ships which they
+replace.
+
+**Reserves**
+
+2.28 As set out in the Defence White
+Paper, the Reserves will continue to
+play a key role in current and future
+operations. In the past 10 years there
+has been a major change in the role
+and structure of the UK’s Reserve
+forces. We are continuing this process
+of development and we shall remain
+closely engaged with Reservists and
+their employers (through SaBRE“Supporting Britain’s Reservists and
+their Employers”) to ensure that the
+support that we provide them and the
+frequency of calls upon them take
+account of their requirements as well
+as our own. Our Reserve forces have
+evolved from a large but little used
+force to one that is ready and capable
+of providing an integrated component
+of Defence, structured to support more
+frequent expeditionary operations either
+as individual reinforcements in key
+specialist areas, or as formed sub-units.
+To date nearly 11,000 Reservists have
+deployed on Operation TELIC, with
+striking effect. They continue to play an
+invaluable part in ongoing operations,
+both in Iraq and across the globe.
+
+
+-----
+
+# Chapter 3
+
+###### Organisation and Efficiency
+
+
+3.1 In the Budget, the Chancellor
+
+of the Exchequer announced that the
+Ministry of Defence, in common with other
+Departments, was committed to a target
+of efficiency improvements amounting
+to at least 2.5% of the total Defence
+budget for each of the three years of the
+Spending Review – amounting to a target
+of £2.8bn by 2007/08.
+
+3.2 It is indeed vital that we spend
+
+money wisely and make every pound
+count towards our defence objectives.
+We have constructed a robust efficiency
+programme that meets this target, and we
+are determined that the target will be met,
+and if possible exceeded.
+
+3.3 Following Spending Review 2002,
+
+the key business change programmes
+in the Department have been brought
+together into a single, coherent and
+prioritised Defence Change Programme
+with strong central direction and
+guidance. The Programme aims to
+maximise investment in the front-line
+by modernising business systems
+and processes in all the areas that
+come together to produce operational
+capability. We are also developing an
+MOD-wide Business Management
+System to provide us with a framework
+for delivering continuous improvement
+in all Departmental business processes.
+This will enable us to drive further gains
+in efficiency and effectiveness, releasing
+more resources to the front line.
+
+3.4 The Defence Change Programme,
+
+together with other savings identified
+by the thematic workstrands, form the
+Department’s response to the crossGovernment Efficiency Review. The
+programmes within the Defence Change
+Programme have been thoroughly
+reviewed, and plans are now in place for
+these programmes to deliver efficiency
+benefits in excess of £1.4bn (compared
+with 2004/05) by 2007/08. Major items
+include:
+
+
+
+- The Defence Logistics Transformation
+
+Programme, which aims to improve
+the operational effectiveness,
+efficiency and flexibility of logistics
+support by revolutionising the
+delivery of support to all three
+Services. It incorporates the
+continuing work on the ‘end-toend’ review of Air and Land logistic
+support, which examined how
+best to streamline support across
+organisational boundaries, from
+industry to the frontline. A successful
+demonstration phase validating
+the recommendations in the review
+was completed in April 2004. Work
+continues to develop options for the
+future support of military aircraft. We
+are also taking a new approach to
+the management of the Defence land
+vehicle fleet by adopting industry best
+practice, enabling a reduction of over
+2,000 vehicles.
+
+- The modernisation of military
+
+and civilian human resources
+management, which will deliver
+an enhanced service at lower cost
+through new systems and harmonised
+and simplified personnel policies
+and processes. These programmes
+will deliver considerable financial
+savings, chiefly through a leaner
+administrative function, as well
+as significant practical benefits,
+including improved tracking of Service
+personnel deployed on operations.
+For example, the rollout of the Joint
+Personnel Administration remains
+on track, starting in 2006. This
+will enable marked improvements,
+replacing legacy human resources
+systems and saving some 1,400
+military and civilian posts.
+
+- The Defence Information
+
+Infrastructure (DII) programme,
+which will provide a single modern
+information infrastructure across the
+Department, replacing over 300
+
+
+separate information systems across
+
+2,000 locations worldwide. This
+programme is an essential enabler for
+other modernisation programmes. It
+is also a fundamental component of
+Network Enabled Capability.
+
+- Defence estate modernisation
+
+through rationalisation, more effective
+contractual arrangements to raise
+its condition and through building
+new accommodation for Service
+personnel. Our aim is to rationalise
+onto fewer, larger sites over the next
+twenty years. As part of this we will
+be examining our future requirements
+for airfields, with a view to making
+substantial reductions. All proposals
+will be subject to the normal
+consultation processes and the
+details announced once the outcome
+of the work is available.
+
+
+-----
+
+###### Future Capabilities
+
+3.5 An important element of
+
+the thematic workstrands was to
+look at opportunities for achieving
+efficiencies through the rationalisation
+and relocation of headquarters and
+supporting staffs. The Royal Navy will
+merge the Fleet and Naval Personnel
+headquarters in Portsmouth. The Army
+is considering the scope for collocating
+its Land and Adjutant General
+headquarters. The RAF is planning
+to collocate its Strike and Personnel
+and Training Commands. Investment
+appraisals of the various options will
+be carried out in the near future to
+determine the most suitable locations of
+these collocated headquarters. We will
+reduce the number of MOD buildings in
+Central London to two; have already
+reduced the numbers employed in
+Central London to 4,900, and will
+continue to seek further reductions. We
+are considering the scope for moving
+elements of the Defence Logistics
+Organisation (DLO) to Bristol alongside
+the Defence Procurement Agency. We
+expect to reduce the number of DLO
+maintenance locations and make greater
+use of capacity freed up on operational
+bases that need to be retained.
+Changes in fast jet numbers will allow
+us to close RAF Coltishall airfield by
+December 2006 and the reduced
+requirement for Air Defence squadrons
+will permit Tornado operations at RAF
+Leeming to cease from 2008.
+
+
+**Manpower Implications**
+
+3.6 Transforming and restructuring the
+
+Armed Forces to meet the challenges
+of the 21st Century will inevitably lead
+to reductions in manpower. Royal
+Navy manpower will reduce from
+37,500 to around 36,000 by April 2008,
+reflecting force level reductions and
+efficiencies. Once full normalisation in
+Northern Ireland is achieved, the bulk of
+the manpower from the Northern Ireland
+task will be available for contingent
+operations, allowing effective rebalancing across the Army structure
+and ensuring longer intervals between
+tours. Under these circumstances, we
+would expect to see an army of around
+102,000, with significantly more capacity
+to meet the challenges of concurrent
+operations overseas than it has today.
+RAF manpower will reduce from 48,500
+to around 41,000 by April 2008. This
+takes into account planned manpower
+savings arising from the introduction
+of new aircraft types. It also includes
+savings from various existing efficiency
+programmes such as End to End
+Logistics, and from the implementation
+of multi- and adaptive skilling, whereby
+individuals will be trained to undertake
+a variety of specialist tasks across
+their career, increasing flexibility. It
+recognises changed assumptions
+relating to the requirement for RAF
+personnel for contingent operations.
+
+
+Civilian numbers will reduce by more
+than 10,000 by April 2008, largely as a
+consequence of changes introduced as
+part of the Defence Change Programme.
+
+3.7 The reductions will take place
+
+over a number of years. For some of
+our people the changes will mean retraining. Some will leave as a result
+of the natural turnover of personnel
+but unfortunately some will need to
+be made redundant. We will do all we
+can to minimise such measures while
+preserving the effective age structure of
+the Services. We do not underestimate
+the impact that these changes could
+cause at an individual level. We will
+do everything possible to ease the
+difficulties while investing in the skills
+of our people at every level. It will take
+some time to work these measures
+through, but we will announce details as
+soon as possible. All these changes will
+be subject to consultation in the normal
+way.
+
+
+-----
+
+# Chapter 4
+
+###### Conclusions
+
+
+4.1 The Defence White Paper
+
+explained how we should exploit the
+opportunities presented by effects
+based planning and operations
+combined with highly networked and
+adaptable forces across all three
+Services. It also set out the complex
+nature of future threats and challenges
+to our security which would require
+our forces continually to adapt and
+modernise. The benchmark against
+which modern systems will be measured
+will be their ability to link up with others
+and exploit real time intelligence to
+
+
+achieve rapid and precise effects,
+across the full range of threats and
+environments. The 2003 Iraq Conflict
+showed the dramatic advances our
+forces have made in their ability to
+launch expeditionary operations,
+achieving rapid and precise military
+effects in the combat phase before
+moving seamlessly into stabilisation
+and reconstruction phases. These
+advances have been made possible
+by the changes set in hand by the
+Strategic Defence Review, the New
+Chapter, and confirmed by the White
+
+
+Paper of December 2003. The force
+structure changes set out in this
+document continue this process of
+modernisation, investing our resources
+in the capabilities and structures which
+provide flexible and adaptable high
+quality Armed Forces, equipped to deal
+with the challenges and threats of the
+future.
+
+
+and exploit real time intelligence to Chapter, and confirmed by the White
+
+
+-----
+
+###### Future Capabilities
+
+# Annex
+
+###### Determining the Force Structure
+
+
+In Supporting Essay 2 to the Defence
+White Paper “Delivering Security in
+a Changing World”, we concluded
+that a single Defence Aim and 18
+Military Tasks, would help to clarify
+the planning process. In order to
+translate this policy framework into a
+detailed basis for determining the force
+structure required to deliver Britain’s
+defence needs, we have used the
+methodology developed during the
+SDR.
+
+**Military Tasks and Strategic Effects**
+
+The first stage of this methodology
+is “force summation”. This involves
+assigning force elements to the full
+set of Military Tasks, taking account
+of the strategic effects that we plan to
+be able to deliver. This includes both
+those force elements committed to
+standing tasks and those that are held
+contingent for overseas operations.
+We use an effects-based approach,
+which enables us to be more flexible
+in our long-term force planning,
+recognising that the force structure
+needed to deliver effects may change
+over time, as threats, technology and
+coalitions evolve. It encourages a
+realistic, up to date assessment of
+the capability required, rather than
+the fixed force structure approach
+of the past. Analysis is based on a
+combination of military estimating
+by operational staffs and operational
+analysis by the Defence Science and
+Technology Laboratory.
+
+**Concurrency**
+
+Having established what is needed
+to undertake particular operational
+scenarios, we map the conclusions
+against the number of operations, of
+a given scale of effort and duration,
+that we should be able to conduct at
+any time - what we call concurrency. In
+Supporting Essay 2 we also set out our
+concurrency assumptions as follows:
+
+
+
+- That as a norm, and without creating
+
+overstretch, we should be able to
+mount:
+
+ - an enduring Medium Scale
+
+operation simultaneously with
+
+ - an enduring Small Scale operation
+
+and
+
+ - a one-off Small Scale intervention
+
+operation.
+
+- That we should be able to
+
+reconfigure our forces rapidly to
+carry out:
+
+ - the enduring Medium Scale
+
+operation and
+
+ - an enduring Small Scale operation
+
+simultaneously with
+
+ - a limited duration Medium Scale
+
+intervention operation.
+
+- That, given time to prepare, we
+
+should be capable of undertaking:
+
+ - a demanding one-off Large Scale
+
+operation while still maintaining a
+commitment to
+
+ - a simple Small Scale peace
+
+support operation.
+
+- Additionally, we must take account
+
+of the need to meet standing
+commitments with permanently
+committed forces, eg Quick Reaction
+Alert aircraft for integrity of UK
+Airspace.
+
+**Planned Force Levels**
+
+The force structure resulting from
+the force summation process is set
+out in the attached tables, showing
+each of the three concurrency suites.
+The total requirement for each force
+element is determined by the largest
+figure derived from these concurrency
+
+
+permutations. The results are set out
+on the final table, which shows the
+planned force structure.
+
+**Generation Factors**
+
+A range of what are termed generation
+factors are required to take account
+of our experience of the numbers of
+units or force elements required to be
+held in the force structure to generate
+the number to be deployed. The main
+elements of these factors are:
+
+- Generation.
+
+ - For the Royal Navy this covers the
+
+ships’ training and maintenance
+requirement to make a ship
+available for scheduling.
+
+ - For the Army this allows for those
+
+additional sub-units required to
+support formation training within
+readiness preparation times.
+
+  - For the Royal Air Force the driving
+
+factor for fast jets is the availability
+of combat ready crews. This varies
+depending on the scale of effort
+and duration of commitment, and
+is influenced by the rotation factor
+described below. The number of
+crews required to meet any of the
+possible concurrency scenarios
+assumed for planning purposes
+is broadly similar, and equates to
+those required to meet a large scale
+commitment of all Fast Jet Force
+Elements.
+
+- Rotation. To meet enduring operations
+
+whilst ensuring operational effectiveness
+and without placing undue strain on
+the personnel concerned, we must
+retain a pool of forces to rotate through
+the deployed force. Experience shows
+that the optimum ratio for prolonged
+commitments is in the region of 3 or 4
+ships and 5 Army and RAF units or crew
+for each one deployed.
+
+
+-----
+
+**FORCE STRUCTURE - MEDIUM/SMALL/SMALL CONCURRENCY**
+
+Force Element Enduring Enduring Small Small Scale Standing Factors[2]
+Medium Scale Scale Operation Intervention CommitOperation ments
+
+**Maritime**
+
+Aircraft Carriers 0 0 0 0 0
+
+Destroyers and Frigates 2 2 2 1 9
+
+Amphibious Shipping 0 0 2 0 0
+
+Minewarfare Vessels 0 0 0 2 1
+
+Strategic Deterrent Submarines 4
+
+Attack Submarines 0 1 1 1 3
+
+Maritime Patrol Aircraft (Nimrod 2 2 4 6 2
+MR2)
+
+**Land**
+
+Armoured Squadrons 3 0 0 0 9
+
+Armoured Recce Squadrons 2 0.25 0.25 0 9
+
+AS 90 Batteries 3 0 0 0 9
+
+Lt Gun Batteries 0 1 1 0 1
+
+AD Artillery Batteries 0 0 1 0.5 2
+
+GS Artillery Batteries 2 0 2 0 4
+
+Engineer Regiments 1.5 1 1 1 6.5
+
+Infantry Battalions 3 1 1 7.33 23.33
+
+RM Commandos 0 1 1 0 0
+
+Equipment Support Battalions 1 0.25 0.25 0 4.5
+(REME)
+
+Royal Logistic Corps Regiments 1 0.25 0.25 0 4.5
+
+Support Helicopters[4] 8 5 12 24 N/A
+
+Attack Helicopters 8 0 8 0 18
+
+**Air[5]**
+
+Air Defence Aircraft 0 0 6 8 N/A
+
+Offensive Support Aircraft 10 10 10 0 N/A
+
+**C4ISR**
+
+Signal Regiments 2 0.3 0.5 0 6
+
+Airborne Early Warning Aircraft 0 2 2 0 2
+
+Reconnaissance Aircraft 1 0 1 0 1
+
+**Logistics and Strategic Enablers**
+
+Transport and Tanker Aircraft 23 7 26 2 25
+
+Royal Fleet Auxiliary Vessels 1 2 3 0 2
+
+NBC Regiment 0 0 0.5 0 0
+
+RAF Regiment Field Squadrons 2 1 1 0 5
+
+Field Hospitals 0.5 0.25 0.5 0 1.25
+
+_2 The factors include the number of units required in the force structure to allow generation of the deployed force and_
+
+_the units held to rotate the enduring operations._
+_3 The sum of preceding columns rounded to the nearest whole number._
+_4 There is an element of choice in the type of aircraft deployed from the pool held at readiness. The actual numbers of_
+
+_aircraft are driven by peacetime training and maintenance requirements. Aircrew numbers are driven by rotation_
+_5 The fast jet numbers reflect aircraft required at readiness. The actual numbers of aircraft are driven by peacetime_
+
+|Force Element|Enduring Medium Scale Operation|Enduring Small Scale Operation|Small Scale Intervention|Standing Commit- ments|Factors2|Total3|
+|---|---|---|---|---|---|---|
+|Maritime|||||||
+|Aircraft Carriers|0|0|0|0|0|0|
+|Destroyers and Frigates|2|2|2|1|9|16|
+|Amphibious Shipping|0|0|2|0|0|2|
+|Minewarfare Vessels|0|0|0|2|1|3|
+|Strategic Deterrent Submarines||||4||4|
+|Attack Submarines|0|1|1|1|3|6|
+|Maritime Patrol Aircraft (Nimrod MR2)|2|2|4|6|2|16|
+||||||||
+|Land|||||||
+|Armoured Squadrons|3|0|0|0|9|12|
+|Armoured Recce Squadrons|2|0.25|0.25|0|9|12|
+|AS 90 Batteries|3|0|0|0|9|12|
+|Lt Gun Batteries|0|1|1|0|1|3|
+|AD Artillery Batteries|0|0|1|0.5|2|4|
+|GS Artillery Batteries|2|0|2|0|4|8|
+|Engineer Regiments|1.5|1|1|1|6.5|11|
+|Infantry Battalions|3|1|1|7.33|23.33|36|
+|RM Commandos|0|1|1|0|0|2|
+|Equipment Support Battalions (REME)|1|0.25|0.25|0|4.5|6|
+|Royal Logistic Corps Regiments|1|0.25|0.25|0|4.5|6|
+|Support Helicopters4|8|5|12|24|N/A|49|
+|Attack Helicopters|8|0|8|0|18|34|
+||||||||
+|Air5|||||||
+|Air Defence Aircraft|0|0|6|8|N/A|14|
+|Offensive Support Aircraft|10|10|10|0|N/A|30|
+||||||||
+|C4ISR|||||||
+|Signal Regiments|2|0.3|0.5|0|6|9|
+|Airborne Early Warning Aircraft|0|2|2|0|2|6|
+|Reconnaissance Aircraft|1|0|1|0|1|3|
+||||||||
+|Logistics and Strategic Enablers|||||||
+|Transport and Tanker Aircraft|23|7|26|2|25|83|
+|Royal Fleet Auxiliary Vessels|1|2|3|0|2|8|
+|NBC Regiment|0|0|0.5|0|0|1|
+|RAF Regiment Field Squadrons|2|1|1|0|5|9|
+|Field Hospitals|0.5|0.25|0.5|0|1.25|3|
+
+
+-----
+
+**FORCE STRUCTURE - MEDIUM/MEDIUM/SMALL CONCURRENCY**
+
+Force Element Enduring Enduring Medium Standing Factors[6] **Total**
+Medium Scale Small Scale Scale CommitOperation Operation Intervention ments
+
+**Maritime**
+
+Aircraft Carriers 0 0 1 0 1 **2**
+
+Destroyers and Frigates 2 2 9 1 11 **25**
+
+Amphibious Shipping 0 0 8 0 0 **8**
+
+Minewarfare Vessels 0 0 8 2 3 **13**
+
+Strategic Deterrent Submarines 4 **4**
+
+Attack Submarines 0 1 2 1 4 **8**
+
+Maritime Patrol Aircraft (MR2) 2 2 4 6 2 **16**
+
+**Land**
+
+Armoured Squadrons 3 0 8 0 3 **14**
+
+Armoured Recce Squadrons 2 0.25 2 0 2.25 **7**
+
+AS90 Batteries 3 0 4 0 3 **10**
+
+Lt Gun Batteries 0 1 3 0 1 **5**
+
+AD Artillery Batteries 0 0 3 0.5 2 **6**
+
+GS Artillery Batteries 2 0 3 0 2 **7**
+
+Engineer Regiments 1.5 1 4.66 0.66 2.5 **11**
+
+Infantry Battalions 3 1 4 7.33 5.33 **21**
+
+RM Commandos 0 0 3 0 0 **3**
+
+Equipment Support Battalions 1 0.25 1 0 1.25 **4**
+(REME)
+
+Royal Logistic Corps Regiments 1 0.25 1 0 1.25 **4**
+
+Support Helicopters[8] 8 5 28 24 N/A **65**
+
+Attack Helicopters 8 0 20 0 8 **36**
+
+**Air[9]**
+
+Air Defence Aircraft 0 0 16 4 N/A **20**
+
+Offensive Support Aircraft 10 10 32 0 N/A **52**
+
+**C4ISR**
+
+Signal Regiments 2 0.3 3 0 2.3 **8**
+
+Airborne Early Warning Aircraft 0 2 3 0 1 **6**
+
+Reconnaissance Aircraft 1 0 2 0 0 **3**
+
+**Logistics and Strategic Enablers**
+
+Transport and Tanker Aircraft 23 7 47 2 4 **83**
+
+Royal Fleet Auxiliary Vessels 1 2 9 0 3 **15**
+
+NBC Regiment 0 0 1 0 0 **1**
+
+RAF Regiment Field Squadrons 2 1 3 0 3 **9**
+
+Field Hospitals 0.5 0.25 2 0 0.25 **3**
+
+_6 The factors include the number of units required in the force structure to allow generation of the deployed force and_
+
+_the units held to rotate the enduring operations._
+_7 The sum of preceding columns rounded to the nearest whole number._
+_8 There is an element of choice in the type of aircraft deployed from the pool held at readiness. The actual numbers of_
+_aircraft are driven by peacetime training and maintenance requirements. Aircrew numbers are driven by rotation_
+_9 The fast jet numbers reflect aircraft required at readiness. The actual numbers of aircraft are driven by peacetime_
+
+_t_ _i i_ _d_ _i t_ _i_ _t_ _Ai_ _b_ _d i_ _b_ _t ti_
+
+|Force Element|Enduring Medium Scale Operation|Enduring Small Scale Operation|Medium Scale Intervention|Standing Commit- ments|Factors6|Total7|
+|---|---|---|---|---|---|---|
+|Maritime|||||||
+|Aircraft Carriers|0|0|1|0|1|2|
+|Destroyers and Frigates|2|2|9|1|11|25|
+|Amphibious Shipping|0|0|8|0|0|8|
+|Minewarfare Vessels|0|0|8|2|3|13|
+|Strategic Deterrent Submarines||||4||4|
+|Attack Submarines|0|1|2|1|4|8|
+|Maritime Patrol Aircraft (MR2)|2|2|4|6|2|16|
+||||||||
+|Land|||||||
+|Armoured Squadrons|3|0|8|0|3|14|
+|Armoured Recce Squadrons|2|0.25|2|0|2.25|7|
+|AS90 Batteries|3|0|4|0|3|10|
+|Lt Gun Batteries|0|1|3|0|1|5|
+|AD Artillery Batteries|0|0|3|0.5|2|6|
+|GS Artillery Batteries|2|0|3|0|2|7|
+|Engineer Regiments|1.5|1|4.66|0.66|2.5|11|
+|Infantry Battalions|3|1|4|7.33|5.33|21|
+|RM Commandos|0|0|3|0|0|3|
+|Equipment Support Battalions (REME)|1|0.25|1|0|1.25|4|
+|Royal Logistic Corps Regiments|1|0.25|1|0|1.25|4|
+|Support Helicopters8|8|5|28|24|N/A|65|
+|Attack Helicopters|8|0|20|0|8|36|
+||||||||
+|Air9|||||||
+|Air Defence Aircraft|0|0|16|4|N/A|20|
+|Offensive Support Aircraft|10|10|32|0|N/A|52|
+||||||||
+|C4ISR|||||||
+|Signal Regiments|2|0.3|3|0|2.3|8|
+|Airborne Early Warning Aircraft|0|2|3|0|1|6|
+|Reconnaissance Aircraft|1|0|2|0|0|3|
+||||||||
+|Logistics and Strategic Enablers|||||||
+|Transport and Tanker Aircraft|23|7|47|2|4|83|
+|Royal Fleet Auxiliary Vessels|1|2|9|0|3|15|
+|NBC Regiment|0|0|1|0|0|1|
+|RAF Regiment Field Squadrons|2|1|3|0|3|9|
+|Field Hospitals|0.5|0.25|2|0|0.25|3|
+
+
+-----
+
+**FORCE STRUCTURE – LARGE SCALE CONCURRENCY**
+
+Force Element Large Scale Enduring Small Standing Factors[10] **Total[11]**
+operation Scale peace Commitments
+
+support
+
+**Maritime**
+
+Aircraft Carriers 2 0 0 1 **3**
+
+Destroyers and Frigates 12 0 1 4 **17**
+
+Amphibious Shipping 8 0 0 0 **8**
+
+Minewarfare Vessels 10 0 2 4 **16**
+
+Strategic Deterrent Submarines 4 **4**
+
+Attack Submarines 3 0 1 4 **8**
+
+Maritime Patrol Aircraft (Nimrod MR2) 8 0 6 0 **14**
+
+**Land**
+
+Armoured Squadrons 16 0 0 2 **18**
+
+Armoured Recce Squadrons 9 0.25 0 3.75 **13**
+
+AS90 Batteries 10 0 0 5 **15**
+
+Lt Gun Batteries 6 1 0 2 **9**
+
+AD Artillery Batteries 8 0 0 3 **11**
+
+GS Artillery Batteries 11 0 0 0 **11**
+
+Engineer Regiments 6.66 1 0.66 1 **10**
+
+Infantry Battalions 15 1 7.33 2.33 **26**
+
+RM Commandos 3 0 0 0 **3**
+
+Equipment Support Battalions 4 0.25 0 0.25 **5**
+(REME)
+
+Royal Logistic Corps Regiments 3.66 0.25 0 0.25 **5**
+
+Support Helicopters[12] 81 5 24 N/A **110**
+
+Attack Helicopters 36 0 0 12 **48**
+
+**Air[13]**
+
+Air Defence Aircraft 16 0 4 N/A **20**
+
+Offensive Support Aircraft 64 0 0 N/A **64**
+
+**C4ISR**
+
+Signal Regiments 8 0.3 0 0.3 **9**
+
+Airborne Early Warning Aircraft 4 0 0 2 **6**
+
+Reconnaissance Aircraft 3 0 0 0 **3**
+
+**Logistics and Strategic Enablers**
+
+Transport and Tanker Aircraft 74 7 2 0 **83**
+
+Royal Fleet Auxiliary Vessels 12 0 0 3 **15**
+
+NBC Regiment 1 0 0 0 **1**
+
+RAF Regiment Field Squadrons 4 0 0 0 **4**
+
+Field Hospitals 3 TA[14] 0 0 **3**
+
+_10 The factors include the number of units required in the force structure to allow generation of the deployed force and the_
+_units held to rotate the enduring operations._
+_11 The sum of preceding columns rounded to the nearest whole number._
+_12 There is an element of choice in the type of aircraft deployed from the pool held at readiness. The actual numbers of_
+_aircraft are driven by peacetime training and maintenance requirements. Aircrew numbers are driven by rotation_
+_13 The fast jet numbers reflect aircraft required at readiness. The actual numbers of aircraft are driven by peacetime_
+
+_t_ _i i_ _d_ _i t_ _i_ _t_ _Ai_ _b_ _d i_ _b_ _t ti_
+
+|Force Element|Large Scale operation|Enduring Small Scale peace support|Standing Commitments|Factors10|Total11|
+|---|---|---|---|---|---|
+|Maritime||||||
+|Aircraft Carriers|2|0|0|1|3|
+|Destroyers and Frigates|12|0|1|4|17|
+|Amphibious Shipping|8|0|0|0|8|
+|Minewarfare Vessels|10|0|2|4|16|
+|Strategic Deterrent Submarines|||4||4|
+|Attack Submarines|3|0|1|4|8|
+|Maritime Patrol Aircraft (Nimrod MR2)|8|0|6|0|14|
+|||||||
+|Land||||||
+|Armoured Squadrons|16|0|0|2|18|
+|Armoured Recce Squadrons|9|0.25|0|3.75|13|
+|AS90 Batteries|10|0|0|5|15|
+|Lt Gun Batteries|6|1|0|2|9|
+|AD Artillery Batteries|8|0|0|3|11|
+|GS Artillery Batteries|11|0|0|0|11|
+|Engineer Regiments|6.66|1|0.66|1|10|
+|Infantry Battalions|15|1|7.33|2.33|26|
+|RM Commandos|3|0|0|0|3|
+|Equipment Support Battalions (REME)|4|0.25|0|0.25|5|
+|Royal Logistic Corps Regiments|3.66|0.25|0|0.25|5|
+|Support Helicopters12|81|5|24|N/A|110|
+|Attack Helicopters|36|0|0|12|48|
+|||||||
+|Air13||||||
+|Air Defence Aircraft|16|0|4|N/A|20|
+|Offensive Support Aircraft|64|0|0|N/A|64|
+|||||||
+|C4ISR||||||
+|Signal Regiments|8|0.3|0|0.3|9|
+|Airborne Early Warning Aircraft|4|0|0|2|6|
+|Reconnaissance Aircraft|3|0|0|0|3|
+|||||||
+|Logistics and Strategic Enablers||||||
+|Transport and Tanker Aircraft|74|7|2|0|83|
+|Royal Fleet Auxiliary Vessels|12|0|0|3|15|
+|NBC Regiment|1|0|0|0|1|
+|RAF Regiment Field Squadrons|4|0|0|0|4|
+|Field Hospitals|3|TA14|0|0|3|
+
+
+-----
+
+**OVERALL FORCE LEVELS**
+
+Force Element **Planned Force Level**
+
+**Maritime**
+
+Aircraft Carriers **3[15]**
+
+Destroyers and Frigates **25**
+
+Amphibious Shipping **8[16]**
+
+Minewarfare Vessels **16**
+
+Strategic Deterrent Submarines **4**
+
+Attack Submarines **8**
+
+Maritime Patrol Aircraft (Nimrod MR2) **16**
+
+**Land**
+
+Armoured Squadrons **18**
+
+Armoured Recce Squadrons **13**
+
+AS 90 Batteries **15**
+
+Light Gun Batteries **9**
+
+AD Artillery Batteries **11[17]**
+
+General Support Artillery Batteries **11[18]**
+
+Engineer Regiments **11**
+
+Infantry Battalions **36**
+
+RM Commandos **3**
+
+Equipment Support Battalions (REME) **6**
+
+Royal Logistic Corps Divisional / Brigade Regiments **6**
+
+Support Helicopters[19] **115**
+
+Attack Helicopters **48**
+
+**Air**
+
+Air Defence Aircraft **20[20]**
+
+Offensive Support Aircraft **64[21]**
+
+**C4ISR**
+
+Signal Regiments **9**
+
+Sentry E3D Airborne Early Warning Aircraft **6**
+
+Reconnaissance Aircraft **3**
+
+**Logistics and Strategic Enablers**
+
+Transport and Tanker Aircraft **83**
+
+Royal Fleet Auxiliary Vessels[22] **15**
+
+NBC Regiment **1**
+
+RAF Regiment Field Squadrons **9**
+
+Field Hospitals **3**
+
+_15 We plan to replace the Invincible Class with two larger vessels in the longer term._
+_16 4 LSD(A)s, 2 LPD(R)s, 1 LPH and LSL (Sir Bedivere which is currently planned to retire from Service in 2011)_
+_17 7 HVM and 4 Rapier_
+_18 3 STA, 4 UAV and 4 Rocket._
+_19 37 Chinook, 18 Merlin SH, 31 Puma and 29 Sea King 4_
+_20 This covers both the number of deployable aircraft and the aircraft held at readiness for the QRA air defence of the UK_
+_task, the number of the latter being unchanged._
+_21 This is the number of deployable Force Elements._
+_22 Excludes the amphibious ships shown separately in the maritime component._
+
+|OVERALL FORCE LEVELS|Col2|
+|---|---|
+|Force Element|Planned Force Level|
+|Maritime||
+|Aircraft Carriers|315|
+|Destroyers and Frigates|25|
+|Amphibious Shipping|816|
+|Minewarfare Vessels|16|
+|Strategic Deterrent Submarines|4|
+|Attack Submarines|8|
+|Maritime Patrol Aircraft (Nimrod MR2)|16|
+|||
+|Land||
+|Armoured Squadrons|18|
+|Armoured Recce Squadrons|13|
+|AS 90 Batteries|15|
+|Light Gun Batteries|9|
+|AD Artillery Batteries|1117|
+|General Support Artillery Batteries|1118|
+|Engineer Regiments|11|
+|Infantry Battalions|36|
+|RM Commandos|3|
+|Equipment Support Battalions (REME)|6|
+|Royal Logistic Corps Divisional / Brigade Regiments|6|
+|Support Helicopters19|115|
+|Attack Helicopters|48|
+|||
+|Air||
+|Air Defence Aircraft|2020|
+|Offensive Support Aircraft|6421|
+|||
+|C4ISR||
+|Signal Regiments|9|
+|Sentry E3D Airborne Early Warning Aircraft|6|
+|Reconnaissance Aircraft|3|
+|||
+|Logistics and Strategic Enablers||
+|Transport and Tanker Aircraft|83|
+|Royal Fleet Auxiliary Vessels22|15|
+|NBC Regiment|1|
+|RAF Regiment Field Squadrons|9|
+|Field Hospitals|3|
+
+
+-----
+
+-----
+
+###### Future Capabilities
+
+
+-----
+
+Printed in the UK for The Stationery Office Limited
+
+on behalf of the Controller of Her Majesty’s Stationery Office
+
+7/04, C161471
+
+Printed on recycled paper containing 75% post consumer waste and 25% ECF Pulp
+
+
+-----
+
+������������������
+
+
+-----
+

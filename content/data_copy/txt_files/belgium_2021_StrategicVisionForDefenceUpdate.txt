@@ -1,0 +1,902 @@
+# Recommendations
+
+
+-----
+
+### Table of contents
+
+##### Foreword 1
+
+ Executive Summary 2
+
+ 1. Why update the Vision 2030 of the Belgian Armed Forces? 3
+
+ 2. Vital and strategic interests 4
+
+ 3. Missions 6
+
+ 4. Capability mix 9
+
+ 5. Personnel 14
+
+ 6. Budgetary capacity 16
+
+ 7. Defence- Research & Development-Industry Strategy 18
+
+ Conclusion 20
+
+
+-----
+
+### Foreword
+
+In December 2020, the Belgian Defence Minister Ludivine Dedonder mandated Colonel Eric Kalajzic (RHID)
+and Tanguy Struye de Swielande (UCLouvain) to formulate recommendations with the aim of updating the
+2016 Strategic Vision. They selected ten academics, respecting linguistic, gender and academic balance:
+
+ Sven Biscop (UGent & Egmont Institute)
+
+ David Criekemans (UAntwerpen & KU Leuven)
+
+ Cind Du Bois (KMS)
+
+ Joseph Henrotin (CAPRI & ISC)
+
+ Jonathan Holslag (VUB)
+
+ Alexander Mattelaer (VUB & Egmont Institute)
+
+ Delphine Resteigne (ERM & UMons)
+
+ Dorothée Vandamme (UMons & UCLouvain)
+
+ Nina Wilen (Egmont Institute & Lund University)
+
+ Caroline Zickgraf (ULiège)
+
+Also in attendance at the meetings were a member of the Cabinet, one member of the Defence Staff and
+two interns.
+
+The group acted as an independent expert group and met in person on nine occasions between February and
+May at the Royal Military Academy and virtually. Prior to every session, those who wished to do so submitted
+a contribution in writing to the coordinators to structure the discussion of the session of the day. The
+coordinators also organised 10 online sessions with several experts on the following themes: strategic visions
+of neighbourhood countries, hybrid and information warfare, military medical support, AI & quantum
+computing, cybersecurity, terrorism in Belgium, special operations, intelligence, nuclear deterrence (future
+of treaties & evolution) and dirty weapons, the NATO development planning process and EU Planning
+Defence Capability and innovation and research led by RHID.
+
+The following document is a synthesis of all the discussions, written contributions and exchanges of the last
+few months.
+
+The members of the committee, while not necessarily supporting each individual statement, all subscribe to
+the general thrust of this report.
+
+
+-----
+
+### Executive Summary
+
+ The evolving security environment will demand more involvement and commitment from Belgian
+Defence, for which it is not yet sufficiently prepared. There is a need to develop a more proactive
+and anticipatory strategic culture as a result of increasing uncertainties and geopolitical changes.
+
+ Belgian Defence needs to be able to fulfil its five missions - national readiness and resilience,
+collective defence, projecting forces abroad contributing to collective security, defence diplomacy
+and aid to Belgian society – which are interconnected with Belgium’s vital and strategic interests.
+
+ Belgium cannot further reduce its range of capabilities. Belgian Defence needs to be able to play its
+role in all domains – land, air, sea, space, cyber and information. Despite major acquisitions during
+the preceding legislature, there are still shortfalls in our capabilities. Furthermore, capabilities need
+to be rebalanced between collective security and collective territorial defence.
+
+ To meet the requirements for missions and capabilities, there is an urgent need of recapitalisation in
+personnel. The decrease in personnel needs to be reversed and shifted towards increasing
+recruitment and profile diversity.
+
+ The current government will increase the defence expenditure to 1.24% of pre-COVID-19 GDP and
+future governments should align with the average of NATO non-nuclear European members, an
+average that has already surpassed 1.7%.
+
+ There is a need to strike the right balance between missions, capacities, personnel and budget.
+
+ A vibrant security and defence industry will enable Belgium to participate in multilateral research
+projects and capability initiatives that further the needs of Defence
+
+ Belgium has to demonstrate to its partners that it will take its share of the burden and accept
+collective risks. Belgium acting as a free-rider would not be acceptable to its NATO and EU partners
+and allies.
+
+
+-----
+
+### 1. Why update the Vision 2030 of the Belgian Armed Forces?
+
+Since the publication of “Vision 2030” in 2016, based on analyses carried out in 2014 and 2015, international
+tensions have increased and the pace of strategic change has accelerated.
+
+Both state and non-state threats are challenging the stability and security of our country and our allies. It is
+therefore important to assess the implications of these trends for our national defence strategy. On a
+systemic level, international cooperation has, to a certain extent, been overtaken by competition between
+the major powers, particularly between China, Russia and the United States. This has weakened international
+organisations and undermined multilateralism as the organising principle of international order. Under the
+Trump administration, the United States was characterised by an inward retreat, an increase in nationalism
+and a withdrawal from international organisations.
+
+Faced with this, China and Russia were able to increase their influence, promote authoritarianism and
+weaken democracy worldwide, primarily through subversion and coercion. This has led to a weakening of
+international norms and rules and multilateralism, the founding principles of Belgian policy, and a resurgence
+of proxy wars and potential flashpoints, particularly in Eastern Europe, the East and South China Seas and in
+the Middle East and Africa. These factors of instability are aggravated by the superimposition of nuclear
+proliferation and, more broadly, by the weaponisation of advanced technologies. Other trends, such as
+climate change, increased food insecurity and the destabilisation of energy supply, the difficult management
+of migratory flows and demographic pressure, the intensification of transnational organised crime, the rise
+of populism, nationalism, and terrorism, are exacerbating these tensions and general volatility. The
+development of new, unregulated technologies is aggravating the situation, whether by means of
+cyberattacks, disinformation, or competition for resources (including big data digital resources).
+
+Confronting these factors of instability, the EU is struggling to develop a common foreign and security policy,
+despite an increasingly volatile neighbourhood (Belarus, Ukraine, Syria, Caucasus, Mediterranean, Turkey,
+Pan-Sahel).
+
+It is vital to avoid a strategic vacuum that would leave our country unable to anticipate phenomena and
+trends and would lead us to reactive policies. Such a situation would lead to an overall weakening of our
+institutions and a deterioration of the socio-economic situation, already undermined by the current health
+crisis.
+
+In the face of these plural, heterogeneous and yet interconnected threats, the Belgian Armed Forces are one
+of the main pillars of the stability and security of the State. As such, it is essential that they remain relevant
+and resilient. The Armed Forces must therefore accelerate the implementation of the 2030 vision and
+develop and integrate new areas of capability and skills such as Robotics, Cyber and AI in order to contribute
+to collective defence and security. Finally, an essential precondition for the implementation of these
+objectives is a recapitalisation in personnel to enable the execution of different missions and tasks.
+
+
+-----
+
+### 2. Vital and strategic interests 
+
+Vital and strategic interests guide any decision by the Belgian government to commit its defence capabilities
+at home or abroad.
+
+#### Vital interests
+
+Belgium’s vital interests are those that guarantee the very existence of our society and way of life. When
+threatened, they trigger immediate and forceful reactions. In our democracy, these vital interests form part
+of the social contract concluded between the population and governmental authorities. The following
+interests are identified as vital to Belgium: security, political sovereignty, social and economic prosperity.
+
+##### Security:
+
+ La sécurité physique des habitants de la Belgique ;
+
+ L'intégrité territoriale, y compris la zone économique exclusive (ZEE), l'espace aérien et le
+cyberespace ;
+
+ La sécurité et l'indépendance des infrastructures critiques et des chaînes d'approvisionnement.
+
+##### Political sovereignty:
+
+ Political independence and the integrity of the democratic process;
+
+ Securing individual and collective freedoms and dignity according to the Constitution;
+
+ Maintenance of the Rule of law.
+
+##### Social and economic prosperity:
+
+ The ability of the Belgian people to enjoy a high level of economic and social well-being, to support
+their families and those close to them and to have opportunities to improve their lives;
+
+ Equality of opportunity, regardless of gender, race or sexuality;
+
+ The ability of the country to secure its economic prosperity and maintain independent decisionmaking capacity;
+
+ Safeguarding access to vital resources, securing critical infrastructure and domains, guaranteeing
+that foreign direct investments in strategic sectors are secure and present no threat to the
+continuity of said actors;
+
+ Maintaining capabilities and opportunities for innovation, scientific research and R&D.
+
+#### Strategic interests
+
+Belgium’s strategic interests are those that help the country secure its vital interests and safeguard them.
+While not vital per se, strategic interests can, if threatened, have a direct impact on the safeguarding of our
+vital interest. They include supporting and promoting multilateralism and alliances, securing our direct
+neighbourhood, SLOCs[1] and addressing transnational challenges.
+
+1 Sea Lines of Communications
+
+
+-----
+
+##### Multilateralism and alliances:
+
+Promoting and defending a rules-based international order is of strategic importance to Belgium, in order to
+guarantee a stable and secure international environment that is conducive to safeguarding our vital interests,
+in particular because of the return of competition between major powers. Multilateralism is a foundation of
+our international status, and alliances guarantee our inclusion and integration within the international
+system as well as our political independence and international security and prosperity. In that regard, the EU
+and NATO are cornerstones of our strategic interests: their effective functioning is fundamental to Belgium’s
+functioning and security. In the EU, we have pooled key elements of our political and economic sovereignty.
+This means promoting and ensuring the consolidation and further deepening of EU integration. NATO
+guarantees our fundamental security needs and our inclusion in the largest defence alliance. This is also the
+case for our membership and commitments to international peace and security in the context of the UN, as
+well as the OSCE, two stepping stones towards protecting and defending our interests.
+
+##### Immediate neighbourhood: 
+
+In order to ensure a stable and secure environment for our political independence and our economic growth
+and prosperity, it is essential to safeguard the stability of our immediate neighbourhood and the free
+movement of goods to our coast and ports. This includes the stability and security of the Channel and the
+Northern Atlantic area, the Eastern flank, and the Mediterranean region (Southern flank).
+
+The Channel and Northern Atlantic area are essential for guaranteeing safe access to natural resources and
+markets for our products. On the Eastern flank, the deterioration of security directly impacts upon NATO and
+the EU, thereby affecting Belgium, mostly because of Russia’s ongoing destabilisation of Ukraine and its
+threatening behaviour towards EU Member States and NATO allies. In the Southern flank, the Mediterranean
+shores from North Africa to the Near and Middle East are highly unstable and insecure, which raises
+traditional security issues (growing military presence of great and regional powers) as well as human security
+challenges (terrorism, refugees, human trafficking).
+
+##### Lines of communications:
+
+Guaranteeing the freedom of navigation, the security of maritime routes and open trade worldwide means
+that the global maritime environment needs to be secured from geo-strategic rivalries, piracy and organised
+crime (for example in the Mediterranean, the Gulf of Guinea, the South China Sea). Securing lines of
+communications so that they can operate effectively is not limited to the maritime domain but also concerns
+other domains (cyber, air, land and space).
+
+##### Transnational challenges:
+
+Climate change, demographics and migration, pandemics, scarcity of resources and disruptive technologies
+will challenge our security environment in the decades to come. In particular, the intersection of these forces
+will have a profound impact on our security environment. As threat multipliers, they impact both our vital
+and our strategic interests. They can pose a direct threat to our way of life, economy and prosperity, and also
+pose an indirect threat due to their exacerbating effect on existing instabilities or tensions. In that regard,
+managing those forces and their impact is central to securing Belgium’s national interests.
+
+
+-----
+
+### 3. Missions
+
+Our defence policy should define the missions that the Belgian Armed Forces engage in. Their readiness to
+take on different missions and tasks rests on a core of inner strength: a well-resourced national defence
+establishment that is firmly anchored within Belgian society. The nurturing of such an establishment
+constitutes the long-term foundation for executing all other missions. These range from the honouring of
+Belgium’s collective defence commitments and conducting expeditionary operations supporting collective
+security and/or national objectives to engagement in defence diplomacy and supporting civil authorities
+when temporarily overwhelmed at times of crisis.
+
+These five different missions shield the Belgian population from threats both near and far. Maintaining the
+strength of the inner core is paramount: it is the national defence establishment that provides the Belgian
+government with the ability to act and protect the interests of all Belgian citizens. This ability is ultimately
+measured in terms of its readiness to employ and sustain forces in all geospatial domains, drawing on a pool
+of human and material resources that is sufficient not only to meet national requirements but also to
+shoulder a proportional share of the burden in a NATO and EU context in order to be a loyal and committed
+member state.
+
+#### National readiness: establishing the force, enabling a resilient society
+
+The military ability to act does not appear out of thin air: it is painstakingly built from a variety of parameters.
+On a national level this requires the ability to _analyse the security environment, to_ _plan and_ _command_
+operations, and to _decide on the employment of the force – and to_ _resource_ it accordingly. As such, the
+national defence establishment is key to maintaining the required level of readiness to execute all other
+missions and to nurture the resilience of society writ large. These two dimensions – readiness and resilience
+– are intimately intertwined. Military readiness provides society with the means to absorb shock and respond
+to any emergency. Societal resilience therefore relies to a considerable extent on the military providing the
+backbone for the continuity of government. Vice versa, military readiness builds on the armed forces being
+fully embedded in the society they are meant to defend. A high state of readiness requires sufficient
+personnel, the security of supply with respect to equipment, and a command and training system for
+transforming human, material and financial resources into useable capabilities.
+
+Maintaining national military readiness and thus enabling societal resilience is the foundational mission
+defined by our defence policy. This is the mission that ensures that any Belgian government – be it now or a
+generation from now – will have the ability and freedom to act whenever it wants to act. Without that
+foundation, none of the other missions can be undertaken successfully. The military intelligence system and
+the defence staff informs and enables decision-making in the National Security Council and the Council of
+Ministers. The force structure, encompassing all geospatial domains, provides decision-makers with the
+means to act when called for. At the same time, this national defence establishment contributes to
+employment, industrial activity, research & development and societal resilience. By virtue of being fully
+embedded in the society, the armed forces can generate the numbers of personnel and the secure supply of
+materiel it requires for maintaining the appropriate degree of readiness for all other missions.
+
+#### Collective defence: to deter and to defend
+
+After the Cold War, collective defence shifted into the background, and the focus of Belgian Defence
+gradually shifted to collective security, with expeditionary operations outside EU and NATO territory
+becoming the primary mission. In practice, collective deterrence and defence have always remained vital;
+the Russian invasion of Ukraine only underlined this.
+
+
+-----
+
+In view of Russia’s assertiveness, and the US strategic shift from Europe to Asia, European states, including
+Belgium, must significantly enhance their contribution to NATO’s deterrence and defence. Belgium’s vital
+security interests are anchored within, and therefore fundamentally dependent on, the system of collective
+defence.
+
+Collective defence is more demanding than collective security and therefore has to be prioritised in terms of
+equipment, manpower, doctrine, planning, training, readiness and stockpiles.
+
+NATO will remain a collective defence organisation based on deterrence and the ability to counter aggression
+with all possible means. NATO’s overall strategy is based on an appropriate mix of conventional, nuclear and
+missile defence capabilities. This implies that the conventional component cannot be reduced any further
+without increasing the already substantial degree of reliance on nuclear deterrence. If anything, boosting
+conventional firepower and as well the hybrid capabilities of European allies will be critical to maintain
+credible deterrence across all possible scenarios. In addition, there exists a growing need for greater flexibility
+and the ability to deploy reinforcements to remote areas. Mobility, secure communication and supply access
+are priorities.
+
+Belgium constitutes one of the key arteries for reinforcing and sustaining combat forces in Central and
+Eastern Europe due to the presence of various North Sea ports. With NATO's eastward expansion, distances
+have increased; demarcation lines are blurred; a network of territorial depots no longer exists and stocks
+have to be mobile; different logics of confrontation are combined and cover very diverse domains ranging
+from the cognitive domain to the domain of the highest intensity at different locations. The speed of reaction
+and decision making gives a substantial advantage in the five dimensions, sea, land, air, space, and
+cyberspace. NATO’s forward presence alongside the Eastern flank and the ability to respond flexibly to all
+conceivable scenarios – requiring the readiness to ‘fight tonight’ if need be – is key. Belgium must assume its
+fair share of the burden and the risk that this entails if it is to genuinely support the architecture of European
+security.
+
+#### Projecting force abroad: contributing to collective security
+
+Belgium’s strategic interests include a stable and rules-based international environment; it must therefore
+continue to contribute to collective security as well. This entails actively participating in international crisis
+management operations, security force assistance missions, peace support operations and when necessary,
+combat operations against adversaries which threaten to destabilise the international order.
+
+Belgium and the other European states must increase their capacity to deal with any crisis in their periphery
+that falls below the threshold of NATO’s Article 5. Whenever necessary, Belgium and its European partners
+must be able to launch autonomous expeditionary operations to prevent security threats from spilling over
+into the EU, to provide humanitarian support to partner states in need, and or to stop external powers from
+steering EU’s neighbours in a direction that runs contrary to its security.
+
+In this context, EU-NATO coordination is crucial. In terms of capability-development, Belgium can strengthen,
+when possible, its force posture for collective defence through cooperation and integration with other
+countries, along the lines of the BENESAM[2] and CaMo[3] frameworks. If the choice were made to re-build a
+second, mechanised brigade, for example, that could not be done on a purely national basis in a cost-effective
+way. Belgium’s investment in major new platforms for all components is an opportunity to pursue further
+integration. By investing in its armed forces and in their integration with partners, Belgium could contribute
+to some of PESCO’s[4] core building-blocks and assume a role in its further development.
+
+2 BENESAM: ‘Belgisch-Nederlandse Samenwerking’ – ‘Belgium-Netherlands Cooperation Agreement’ is the name of the Belgian-Dutch
+naval cooperation.
+3 CaMo: ‘Capacité motorisée’ – Strategic partnership between Belgium and France in the framework of the Motorised Capacity
+(CaMo) cooperation project.
+4 PESCO: Permanent Structured Cooperation
+
+
+-----
+
+In addition to building the capacity for autonomous operations in the neighbourhood, the EU should focus
+on building solidarity and effective deterrence (and, when necessary, retaliation or coercive actions) in the
+non-military dimensions of Art. 42.7 TEU.
+
+#### Defence diplomacy: to interact with partners outside the operational realm
+
+Our network of defence attachés, our military representation within the different international organisations
+(NATO, EU, OSCE and UN) and Belgium’s contribution to the military staffs at different levels allow Belgian
+Defence to support our national diplomacy abroad.
+
+Long-term relationships are also developed by maintaining and nurturing foreign partnerships to help and
+contribute to a safe and secure environment through Military educational and training exchanges[5] (the Royal
+Military Academy, the Royal Defence College, dedicated training centres). Developing additional activities
+such as military dialogues, military partnerships programmes, military assistance and common exercises is
+essential to an effective defence diplomacy. These collaborations and partnerships are mutually beneficial
+not only to Belgium but also to our partners, especially to Belgium's neighbouring countries, by contributing
+to the development of the nucleus of a renewed European strategic culture.
+
+#### Aid to Belgian society: to support and enable civilian authorities in need
+
+Defence can support civilian authorities in the form of resources and capabilities if the latter are temporarily
+overwhelmed in a crisis. As such, the armed forces contribute to the collective solidarity effort for a limited
+_period._
+
+In order to be able to fulfil these numerous missions in various contexts (National, European, NATO and UN),
+Belgium must continue to invest in the capabilities of its different components and in the future cyberinfluence dimension.
+
+5 e.g. European Security and Defence College, NATO Defence College, NATO School, Oberammergau, 4th Cycle of the High Security
+and Defence Studies (HSDS)…
+
+
+-----
+
+### 4. Capability mix
+
+#### Warfare is changing
+
+Our global and regional security environment will continue to evolve during the next decade. Hence, our
+Belgian Armed Forces will face persistent and simultaneous challenges in physical and non-physical domains.
+Increasing uncertainties and geopolitical changes therefore require us to develop a more proactive and
+anticipatory strategic culture.
+
+Together with our allies and partners, we need to be prepared to operate across the full spectrum of conflict.
+The keys to success are cognitive superiority, resilience, influence and power projection, integrated multidomain defence and cross-domain command. We also have to achieve comprehensive interoperability, and
+this can only be realised by fielding a C4I[6] architecture that allows operational commanders to sense, decide
+and act more wisely than the adversary, both now and in the future.
+
+An effective conventional deterrence and defence requires the capacity to fight a high intensity war. This
+implies enhancing the intelligence and the firepower of our armed forces. These currently have a primarily
+expeditionary posture. We need thus to rebalance our efforts between collective territorial defence and the
+projection of forces in the framework of expeditionary crisis response operations. Furthermore, in each of
+our operational commitments, we need to develop cyber and information warfare capabilities. Effective
+contributions to operations abroad require the capacity to sustain significant units in operations on a
+permanent, year-round basis. So that contributions to ongoing operations do not need to be interrupted,
+sufficiently large forces will be required. These will need to be in a high state of readiness and must offer an
+increased depth in terms of logistics. This cannot be achieved within the 25 000 FTE personnel envelope that
+was previously envisaged for a more benevolent security environment.
+
+Belgium cannot further reduce its range of capabilities and its troop numbers– it is already highly specialised
+and has been downsized too much. The time has come to expand the range and the numbers, in light of the
+needs of national readiness, collective defence and collective security. The multiplication of synergies with
+other NATO and EU countries is indispensable, starting with our increased partnerships with our neighbours
+– and will not only involve furthering existing partnerships (e.g. between the Belgian Navy and the
+Netherlands, CaMo with France, C-SOCC[7] with the Netherlands and Denmark), but developing new ones.
+
+Despite major acquisitions during the preceding legislature, our capabilities still have important shortfalls.
+These are well known to our allies and have been highlighted in the capability development processes, both
+in NATO (NDPP[8]) and the EU (CARD[9]). Our reliability and reputation as a trustworthy partner depend on this.
+In the absence of such investments and capability development, measures instituted by our allies and
+partners as a means of exerting pressure could target our country– including in its socio-economic wellbeing.
+
+#### Intelligence
+
+Intelligence is essential to ensure that available assets are committed appropriately and efficiently. Analysis
+and information gathering capabilities, both human and technical (signal, imagery, artificial intelligence,
+quantum computing, big data exploitation and storage), are required to strengthen autonomy in decisionmaking and crisis or conflict preparedness. To that end, we must guarantee our ISR[10] capabilities.
+
+6 C4I: Command, Control, Communications, Computers, & Intelligence
+7 C-SOCC: Composite Special Operations Component Command - combines national capabilities from the three participating nations
+into a deployable multinational headquarters, specifically designed for commanding several Special Operations Forces task groups.
+8 NDPP: NATO Defence Planning Process.
+9 CARD: Coordinated Annual Review on Defence.
+10 ISR: Intelligence, Surveillance and Reconnaissance
+
+
+-----
+
+Moreover, one of Belgium’s assets, but also one of its vulnerabilities is the fact that the main institutions of
+the European Union and NATO are based in Brussels. To maintain our position as a host state and maintain
+the secure functioning of these institutions, Belgium needs to strengthen TESSOC[11] capabilities.
+
+#### Land
+
+Our land component is the one with the most shortfalls. Belgium’s NATO partners expect from our country
+one fully operational motorised brigade that is combat ready, sustainable and deployable. This is not met by
+means of the CaMo[12] project. We mainly lack indirect and direct fire support and tactical air defence systems.
+Furthermore, the brigade’s full realisation requires that all related systems (ammunition, communications,
+cyber-electronic warfare, tactical ISR, logistics, etc.) be available. Yet the current composition of our sole
+brigade does not correspond to that of a typical combined arms motorised infantry brigade as defined by
+NATO or the French Army. CaMo offers significant capabilities in expeditionary operations and could also be
+engaged in a collective defence mission in Europe if adequate support systems are acquired – including but
+not limited to, bridge laying capabilities.
+
+At present, the Belgian Land Component cannot meet the growing NATO Capability Targets that result from
+the need to be able to reinforce the Eastern Flank in crisis scenarios. To mitigate this shortfall, it needs to
+grow in terms of both unit and personnel numbers.
+
+This requires:
+
+ The continued application of the 2016 Strategic Vision and its capability development plan. This is
+particularly the case with regard to the application of indirect fire (artillery) but also ground-based
+air defence (GBAD)/counter-unmanned aerial systems (C-UAS) and their associated sensors.
+
+ Considering a potential Belgian involvement in the future Franco-German Main Ground Combat
+System (MGCS).
+
+Special operation capabilities should be developed in accordance with the 2016 Strategic Vision, including
+with the indispensable SOF Air assets (rotary wings and V/STOL[13] aircraft; see later).
+
+#### Air
+
+As far as our air capabilities for multi-role combat and transport platforms and strategic enablers are
+concerned, recent acquisitions cover the requirements only partially (34 x F-35, 7 x A400M, 1 x Airbus A330
+MRTT[14], 4 x MQ-9B).
+
+The following capabilities ought to be considered to face current and coming operations:
+
+ Contributing to NATO’s ALTBMD15 through antiballistic capabilities, taking into account the
+changes induced by hypersonic systems;
+
+ Acquiring the capability to engage time-sensitive targets by arming MQ-9B drones16;
+
+ Augmenting the envisioned small mass of 34 F-35 by means of additional multi-role platforms and
+loyal wingmen drones, very long-range air to air missiles and cruise missiles.
+
+In terms of rapid reaction capability, the Special Operation Regiment is severely lacking in airmobile tactical
+mobility.
+
+11 TESSOC: Terrorism, Espionage, Subversion, Sabotage and Organised Crime.
+12 CaMo: Motorised Capacity (in French)
+13 VSTOL: Vertical or Short Take Off and Landing
+14 MRTT: Multi-role Tanker Transport.
+15 ALTBMD: Active Layered Theatre Ballistic Missile Defence
+16 Being tele-operated, they will not have the capacity to target or launch weapons autonomously. Therefore, arming the drone would
+not contradict the spirit or the letter of the 2018 resolution.
+
+
+-----
+
+We lack ground-based air defence assets against cruise, hypersonic and ballistic missiles to protect our
+governmental bodies, our critical infrastructures, the international decision-making centres established on
+our territory, and the infrastructure intended to facilitate the arrival of reinforcements and cargo from across
+the Atlantic or the Channel. Increasing our capacities is crucial since our partners and allies do not have
+enough ground-based air defence capabilities and airborne air defence to provide support and protect our
+population and territory.
+
+#### Sea
+
+As far as maritime capabilities are concerned, agreements were concluded during the previous legislature for
+the acquisition of two ASWF (Anti-Submarine Warfare Frigate) and six MCM systems (Mines
+Countermeasures vessels) for mine hunting.
+
+As it stands, we do not have the necessary platforms to guarantee a permanent presence at sea. As part of
+the EU's maritime strategy review and given the importance of freedom of navigation for an open economy
+such as Belgium, it is essential to reassess the necessary means to contribute to and assume our international
+responsibilities.
+
+This would allow Belgium to contribute more regularly to the EU’s permanent presence in areas of interest
+(Mediterranean, Red Sea/Gulf of Aden/Indian Ocean, Strait of Hormuz/Gulf of Oman, Gulf of Guinea) and to
+participate to NATO deterrence and operations.
+
+#### Medical
+
+Our capacity to provide medical support to deployed troops is limited, as is our reach-back capability (Queen
+Astrid Military Hospital-QAMH). Therefore, we need either to rely on another nation’s help or have to limit
+the number of simultaneous operations in various areas. Defence lacks sufficient protected evacuation assets
+to follow land manoeuvre or air platforms for medical transport to guarantee compliance with NATO and EU
+standards[17]. Other medical support capabilities are needed, such as mobile laboratories for operations
+deployed in high-risk areas, and a medical intelligence capability. The ability to operate in CBRNcontaminated environments constitutes a key element of resilience in national and collective defence
+missions.
+
+#### Cyber-influence
+
+Major efforts must be made in cyberspace and information warfare in order to satisfy both our national
+missions and those of collective defence and security. We recommend developing a cyber-influence
+command to support our military operations as well as our national resilience. The multidimensional nature
+of cyberspace calls for the coupling of the cyber and information/influence domains, as well as for
+cooperation and coordination on a national level. Homeland cyberspace operations should be
+complemented by deployed and remote cyberspace operations. This will require recruiting enough
+technicians, analysts, staff members specialised in that field. Technological watch on emerging technologies
+and innovations needs to be implemented and incorporated with procurement processes in simplified
+administrative procedures. Enhancing these capacities will also reinforce the EU and NATO capacities, and
+improve readiness for joint and combined operations both at the domestic and the international levels.
+
+Cyber capacity will also include influence operations and information warfare (IO/IW). This includes
+identifying the threat, countering it, fighting it or influencing our adversaries, including those that have robust
+and effective information warfare strategies and a whole-of-government approach to information operations
+(most notably Russia, China and Iran).
+
+17 Strategic medical evacuation as defined by NATO remains a national responsibility
+
+
+-----
+
+The cyber-influence command should be established based on benchmarking which would be reflected in a
+continuous study involving the analysis and adaptation of the organisational modes of partners and allies in
+order to improve performance.
+
+#### Space
+
+Defence should gain and guarantee access to resilient and secure space-based services (satellite
+communications, space-based ISR, PNT[18]) supported by trained staff and R&D programmes. Defence will
+contribute to the security[19] and resilience of national and allied space assets by developing its national and
+international duties in terms of Space Domain Awareness[20] and Space Traffic Management.
+
+#### Technical innovation and anticipation
+
+The development of advanced weapons systems implies rapid technological developments that will impact
+Defence and need to be closely and continuously monitored. Technological anticipation and investment will
+be key to guaranteeing our security and success. Regular investment in RT&D is required, as well as a
+proactive capacity to operationalise and industrialise the outcomes of fundamental and applied scientific
+research. Robotics, AI and quantum computing will penetrate and accelerate warfare. Combined with Big
+Data and advanced analytical capabilities, these technologies will significantly improve C4ISTAR[21] systems.
+
+In addition, investment in green technologies and energies will be required in order to address environmental
+challenges and decrease our logistical footprint, as a means of encouraging reduced energy consumption,
+reducing the number of refuelling convoys, or recycling, amongst other things.
+
+#### Outsourcing
+
+In order to preserve their operational capability, states have to privatise some functions. While the partial
+outsourcing of areas such catering, the security of installations and maintenance of equipment on Belgian
+territory does not appear to be problematic, more advanced outsourcing, particularly in theatres of
+operation, could pose major problems. In this respect, Belgium may also want to reflect on developing a legal
+framework enabling the requisition of privately owned materiel and infrastructure in cases of grave
+emergency.
+
+In conclusion, Belgium has to demonstrate to its partners that it will take its share of the burden and collective
+risk. The new threats we face imply a combination of deterrence and force projection, with interoperable
+capabilities. Belgium therefore needs an adapted defence toolbox in all operational domains, which provides
+a wide range of combat capabilities, the necessary means of support and capabilities in order to guarantee
+that the government has decision-making autonomy and a number of options that will enable it to provide a
+concrete demonstration of its solidarity with our partners, in proportion to our size and means.
+
+This toolbox should be flexible and deployable, available at short notice (enhanced readiness), with enough
+certified combat ready units that can be deployed without lengthy preparation for collective defence and
+security. The toolbox must also be dimensioned in line with our international obligations, most notably those
+commitments related to the agreed Political Guidance in a NATO framework (i.e., meeting the apportioned
+NDPP targets) and the EU’s permanent Structure Cooperation (i.e., the 20% defence investment expenditure
+and 2% defence R&T targets).
+
+18 PNT: Positioning, Navigation and Timing
+19 For example, developing cyber for space services in synergy with the ESA Cyber Center of Excellence in Redu, microsatellites
+monitoring services, etc.
+20 This can take several forms: contribution to international organisations or pooled capacities, development of Space Weather
+services or sensors, autonomous national niche capacity, etc.
+21 C4ISTAR: Command, Control, Communications, Computer, Intelligence, Surveillance, Targeting Acquisition and Reconnaissance.
+
+
+-----
+
+To facilitate future capability acquisitions, we need to invest in strategic foresight analysis on a structural
+level by creating a foresight cell.
+
+Finally, freedom of action should be guaranteed for successive Belgian governments so that they can
+significantly contribute to operations or scenarios as they see fit.
+
+
+-----
+
+### 5. Personnel 
+
+One of the most important challenges for Defence up to 2030 is the recapitalisation in personnel due to a
+decrease in personnel, caused both by the retirement of almost half of the current workforce and by attrition.
+This needs to be compensated both by an increase in recruitment, including to levels that exceed the current
+total workforce, but also by efforts to retain its personnel. Existing measures notwithstanding, the rapid
+reduction of personnel is accompanied by a significant loss of knowledge, experience and know-how. This is
+placing increasing pressure on the remaining workforce. Efforts to increase its motivation, but also to develop
+its creativity, empathy and adaptability while guaranteeing its diversity, are all essential pillars when it comes
+to developing and retaining a well-functioning workforce. More effective consideration should therefore be
+given to the aspirations of both military and civilian personnel throughout their careers, although this is a
+political matter that extends beyond strict HR management. As developed in the 2016 Strategic Vision, a
+more flexible personnel policy will be required to meet the needs of the organisation and the expectations
+of its personnel. Career management should be more flexible and should be informed by military and civilian
+expertise in HRM.
+
+Four transversal axes should constitute the guidelines of our personnel strategy:
+
+_Proximity_
+
+In order to be attractive and close to its citizens, Belgian Defence should remain closely connected to its
+society, both in order to retain a societal support base, but also to promote career opportunities in its ranks.
+
+In order to enable sustainable growth of the force structure, Belgian Defence should offer a balanced regional
+presence, thereby guaranteeing an improved work-life balance for its members. The expansion of regional
+_quartiers du futur to all Defence districts should allow Defence to regain a place in the local socio-economic_
+fabric and to be an integral part of the post-COVID-19 socio-economic revival. This proximity should allow
+Defence, as a socially responsible actor, to increase societal resilience which is indispensable in the current
+and projected security environment. Societal changes and evolving family configurations require improving
+the reconciliation of private and professional life, including for personnel serving abroad. Given the changes
+induced by the COVID-19 crisis, the hierarchical authorities should encourage and support new work models.
+
+_Openness_
+
+Defence should explore the possibilities for partnerships with both the private and the public segments that
+bring an added value, so as to ensure greater flexibility for its personnel, especially for the NEET (Not in
+_Education, Employment or Training) but also for jobs and skills that are in high demand in Defence as well as_
+in society at large. The role played by reservists in this respect is a considerable advantage, particularly with
+regard to niche skills or in case of crises. Increasing the size of the reserve force is necessary both for
+organisational efficiency and for strengthening Defence’s societal base, but also in order to address current
+and future security challenges. To this end, the status of the reserve should be made more attractive and
+flexible and should allow to engage reservists in operational missions. Reservists should be able to combine
+their status with another job in a more flexible and modular manner. Specific capabilities (cyber, technicians,
+mechanics, medical-technical staff, and logistical profiles) should be acquired by increasing the use of civilian
+service providers (through sourcing). Diversification could also take the form of a non-deployable civilian
+reserve specifically trained for the job. Further studies by Defence Staff will be needed in order to exploit this
+path of personnel diversification.
+
+_Diversity_
+
+Taking into account the reality of current operations and considering the variety of profiles within the
+organisation, Defence should strive to offer a working environment in which respect and the appreciation of
+differences prevails. It should therefore seek to strengthen the development of a positive and inclusive
+organisational culture in order to attract and retain a workforce that reflects the diversity of our society, at
+all hierarchical levels. A diversified workforce will better reflect Belgium’s multicultural society; it will also
+improve its operational effectiveness in complex environments. Greater staff diversity should be achieved
+
+
+-----
+
+through increased recruitment of underrepresented groups, in particular women and ethnic minorities, and
+members of the LGBTQIA+ community.
+
+_Complementarity between military and civilian personnel_
+
+Defence should contribute to social mobility and therefore strengthen its societal role, thereby improving its
+relationship with the society which it serves and boosting its recruitment possibilities. Providing a first
+professional experience to unemployed youth and NEETs, participating in federal and regional campaigns to
+stimulate young people’s interest in STEM (science, technology, engineering, and mathematics)-related
+careers; continuing to organise a third level of qualifying secondary education preparing for jobs in the
+security sector and reassessing the effects and attractiveness of the Life Time Employment concept are only
+some examples of the important efforts that need to be made in this domain. Furthermore, improving the
+attractiveness of careers in Defence should also favour its competitiveness on the job market. The
+organisation’s deficit in a number of skills (e.g. technicians in all components, specialised medical personnel,
+infantrymen and women) will require special recruitment and retention measures.
+
+In addition to military personnel, the role of civilian personnel should be strengthened for those tasks that
+do not require specific military expertise. Civilians bring specialised expertise to Defence in both operational
+capabilities and support services. Organisational continuity and complementary can be improved by putting
+civilians in specific functions, primarily in the education, personnel, budgetary, cyber and legal areas, bringing
+specialised expertise and providing sourcing oversight and support management services. The neighbouring
+countries’ Armed Forces consist of approximately 20% civilian personnel[22] while the Belgian Defence barely
+reaches 5% (1540 FTE in January 2021). Emphasis on the recruitment of civilian personnel is indispensable to
+reach the threshold of 15% of civilian personnel by 2024 and similar partner’s levels by 2030. The creation of
+a specific status for civilians and its possible alignment to the current statutes and salaries of military
+personnel would also improve the attractiveness and retention of civilians. Five common values will unite
+civilian and military personnel around their job: professionalism, respect, integrity, courage and trust.
+Learning and appropriating these values will prepare Defence personnel to execute their missions in an
+increasingly culturally complex environment, both in Belgium and abroad.
+
+22 NATO STO HFM-226 Task Group, Civilian and Military Personnel Integration and Collaboration in Defence Organizations, STO
+Technical Report, March 2018, 456p.
+
+
+-----
+
+### 6. Budgetary capacity
+
+Expressed in constant euros, our Defence budget decreased on average by 1.26% a year between 1981 and
+2019. Following the policy note of our Minister of Defence, the goal is to increase our defence expenditure
+to 1.24% of pre-COVID-19 GDP. While today’s governmental budgetary cutbacks impact Defence (in 2021,
+the budget will decrease by 0.89%), this increase in purchasing power will be pivotal if we want to keep on
+performing our core tasks and if we want to remain a reliable partner for our allies. Keeping our budget in
+line with our missions and tasks will be the main challenge.
+
+The benchmark used in the 2016 Strategic vision for Belgium’s defence expenditures of 1.3% of GDP by 2030
+was the average of NATO non-nuclear European members, but, as shown in graph 1, that average has already
+surpassed 1.7%. Given that Belgium’s defence expenditure is only just above 1% of GDP, the Belgian growth
+path will have to be re-assessed, therefore, to ensure that Belgium can maintain its military relevance and
+stay in line with our European allies.
+
+At the same time, a percentage of GDP is to some extent an arbitrary metric, particularly in times when the
+GDP has shrunk in the wake of the COVID-19 crisis. The real aim should be to ensure sufficient funding to
+meet Belgium’s apportioned capability targets as well as to use that capability, whenever needed, to remain
+a credible partner. We recommend a benchmark that designates a minimum of 20% of total defence
+spending for the purchase of military equipment in order to fill strategic capability gaps (according to the
+NATO guidelines on deployability and sustainability and to the PESCO commitments). As shown in graph 2,
+Belgium scores considerably worse than the majority of NATO allies.
+
+
+-----
+
+_Note: figures are estimates_
+
+Finally, our defence budget is not the only criterion. We should also benchmark ourselves against our
+European allies in terms of the ratio between size of our armed forces and the size of the population – and
+this shows that we have fallen below the threshold.
+
+
+-----
+
+### 7. Defence- Research & Development-Industry Strategy
+
+Innovative, local and contributing to the reduction of trade balance deficit, the defence industry sector
+(Belgian Security & Defence Industry – BSDI) is an asset for the Belgian economy (with 15,400 direct jobs) but
+also for Belgian Defence and the country’s contribution to European strategic autonomy. Belgian Defence
+historically supports the industry through the protection of its economic, scientific and industrial potential
+against foreign interference and industrial espionage. Evolving threats, in particular in the cyber domain,
+require reinvigorating this mission, including in the prevention of threats that executives face abroad.
+
+Belgian Defence already cooperates with the industry on a variety of topics, including research and testing.
+It also works in cooperation with the Federal Public Service economy aeronautics-defence direction and
+supports the Regions engaged in exportation processes. Beside these existing roles that need to be
+maintained, more could be done.
+
+The Defence leadership should play a leading role in the triple helix partnership scheme by coordinating
+Belgian defence procurement with relevant industrial actors and research institutions. This scheme needs to
+be implemented by means of clear forecasts of Belgian defence requirements in the short and longer term
+and by means of a clear definition of KETA (Key Enabling Technological Defence and Security Applications).
+In 2016, the “Belgian interests in the domain of the defence and security policy” document, endorsed by the
+Council of Ministers, stated that having a national defence industry base was in Belgium’s national interest
+(in order to master the dependencies that multinational partnerships entail for Belgian decision-making).
+However, that document did define the KETAs in a restrictive way (namely: defence (sub)systems, C4I,
+advanced materials, defence training simulators and cyberdefence applications). These should be expanded
+within a federal defence and security technology strategy that could include AI, cryptology and data
+protection, military space systems (participation to launchers, satellites, in accordance with the national
+space policy), optronics, robotics/cobotics and any technology that could lead or play a game-changing role
+in military capabilities, including those that can have an impact on dual applications. KETAs are just one side
+of the ESI (Essential Security Interests) coin. In addition, Defence should identify in which way and in which
+domain they wish to rely on the Belgian defence industry’s production and MRO (Maintenance Repair &
+Overhaul) to support the Armed Forces in crisis scenarios, in which the assured availability of equipment is
+most likely to be critical and, in this way, achieve Assured Security of Supply.
+
+Furthermore, Defence can help enable the integration of the Belgian industry into international programmes,
+particularly European ones, and not only those in which Belgium is engaged but also those in which Belgium’s
+industrial technology can provide Europe with an advantage and can serve to reinforce the European Defence
+Technological and Industrial Base (EDTIB). Defence can assist by lending its weight on a political level to
+guarantee that the industry’s voice is heard within international industry planning processes. Whenever
+possible, Defence should also support Belgian firms, European consortia with Belgian buy-in or the
+participation of the Belgian Defence Technological and Industrial Base (BDTIB) and EDTIB in international
+programmes if it contributes to the ESI entailing both Assured Security of Supply and technological autonomy
+at the national and EU level.
+
+Defence is an industry client. For the future, Belgium should, depending on its military necessities and the
+required standards, encourage investing and buying in European programmes.
+
+Belgium must also decide in which areas it wants to contribute, notably in the framework of PESCO and the
+European Defence Fund (EDF). The EDF will make it possible to co-finance collaborative projects for the
+development of military capabilities. Remaining active within PESCO, implementing the framework for
+granting eligibility status to our companies and showing Belgium’s solidarity in the form of its commitments
+under the National Implementation Plan (NIP), will provide opportunities for our companies to benefit from
+this co-financing.
+
+
+-----
+
+A vibrant security and defence industry will enable Belgium to participate in multilateral research projects
+and capability initiatives that will further the needs of Defence. However, the complex structure of the
+Belgian State necessitates all Belgian governments and entities to work together on an equal basis, and to
+develop the necessary mechanisms to protect, consolidate and further develop the industrial and scientific
+potential of the country. Defence will need to work together with the Belgian Regions in this domain, so as
+to work together in order to strengthen the economic security of the federation as a whole. This implies a
+significant expansion of the defence R&T budget to 2% of defence spending.
+
+The Royal Higher Institute for Defence has a key role to play in enabling defence R&T to flourish in function
+of national DTIB objectives. Together with the Belgian universities network it will foster a culture of
+innovation in advanced technologies and defence analysis.
+
+Finally, enhanced cooperation should be encouraged in the STEM field (Science, Technology, Engineering and
+Mathematics) between Defence, the industrial sector and higher education to provide sufficient personnel
+in the fields of IT, robotics, cyber security, data, artificial intelligence, quantum physics…
+
+
+-----
+
+### Conclusion
+
+In the past few decades, the Belgian Armed Forces have been all too often side-lined in State policies, in order
+to favour other sectors. Yet the erosion of international security in the past decade calls for the position of
+Defence at the centre of governmental policies to be re-established.
+
+While it remains one of its first missions, Belgian Defence is about more than securing our territory and
+constitutional freedoms; it also forms a key element of Belgium’s external policy and international standing,
+in that it acts as a facilitator of Belgium’s external action, as an instrument of our country’s multilateral
+engagements and as an important socio-economic force within the country’s domestic scene. The credibility
+of our country, both domestically and externally, depends on having the capabilities and willingness to act
+and play our part. To remain coherent, our multilateral engagements must be backed up by credible
+capabilities. Not doing our fair share in defence will have an impact on our overall relations with our EU and
+NATO partners, in economic and political dossiers as well.
+
+Beyond our reliability as a partner and ally, our military needs to be recognised in its domestic role as a socioeconomic force that employs tens of thousands of individuals; it is a vector of social mobility, integration and
+diversity. Fulfilling this role means reasserting the military’s social role and guaranteeing its timeliness and
+currency, including by improving the personnel’s well-being and preparedness, e.g. with up-to-date
+infrastructure.
+
+A credible capability is based on a triangle: personnel – budget – equipment. To guarantee the accuracy and
+reliability of our armed forces, Defence should be finely tuned to our country’s international security
+environment. This requires continuous assessment, monitoring and adaptation to that environment, the
+ability, not only to act in a timely and flexible manner, but also, when possible, to anticipate and increase our
+preparedness and resilience.
+
+Defence should be fully embedded in Belgian society, playing the substantial role it is meant to play, and
+should participate in our country’s social and economic prosperity in association with the industrial and
+academic worlds.
+
+Indeed, protecting our population, defending our vital and strategic interests, and contributing to a
+multilateral security architecture based on international norms and respecting human rights are key features
+of the social contract between state authorities and the people. It is an insurance for a safe and secure
+environment that is necessary in order to ensure our welfare and prosperity.
+
+
+-----
+
+# Update of the Strategic Vision 2030:
+
+ Recommendations
+
+
+Photo source: DG StratCom
+
+
+Responsible publisher: Ludivine Dedonder, Minister of Defence
+
+Rue Lambermont 8
+
+1000 Brussels
+
+
+-----
+

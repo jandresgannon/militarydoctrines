@@ -1,0 +1,4251 @@
+## DEFENCE white paper
+##### 2016
+
+
+-----
+
+**A Royal New Zealand Air Force NH90 Helicopter lands in Nasau, Koro Island to deliver**
+
+
+-----
+
+# Contents
+
+###### Prime Ministerial Foreword 5
+
+ Ministerial Foreword 7
+
+ CHAPTER ONE: Executive Summary 9
+
+ CHAPTER TWO: National Security and Defence 17
+
+ CHAPTER THREE: New Zealand’s Strategic  Outlook to 2040 25
+
+ CHAPTER FOUR: Principal Roles for the New Zealand Defence Force 37
+
+ CHAPTER FIVE: Defence Force Capability 45
+
+ CHAPTER SIX: Generating a Skilled and  Sustainable Workforce 55
+
+ CHAPTER SEVEN: Affordability 61
+
+ CHAPTER EIGHT: Organisational Change 65
+
+ CHAPTER NINE: Regenerating the Defence Estate 71
+
+ CHAPTER TEN: Implementing this Defence White Paper 75
+
+ Glossary 79
+
+ Annex – Facts and Figures 81
+
+The Ministry of Defence administers the Defence Act 1990.
+
+The latest Ministry of Defence publications are available from our website:
+www.defence.govt.nz
+
+This information is protected by Crown copyright or the copyright of third
+parties. For permission to reproduce this information please contact the
+Secretary of Defence.
+
+ISBN: 978-0-478-27878-1 (Print)
+
+ISBN: 978-0-478-27877-4 (Online)
+
+Published by the Ministry of Defence, June 2016
+Freyberg House, 2-12 Aitken Street, Wellington 6144, New Zealand
+Website: www.defence.govt.nz Email: info@defence.govt.nz
+
+
+-----
+
+-----
+
+# Prime Ministerial Foreword
+
+###### I am pleased to introduce the Defence White Paper 2016, which sets out  the Government’s expectations for Defence over the coming decades.
+
+The 2016 White Paper reflects the Government’s commitment to a more regular cycle of
+defence policy updates.
+
+This is important for the security of New Zealand, its citizens and wider national interests.
+New Zealand’s strategic environment continues to evolve, sometimes rapidly, and our
+defence policy needs to adapt to these changes.
+
+This White Paper therefore builds on and, where necessary, adjusts the Government’s
+defence policy priorities. Underlying these adjustments is a steadfast commitment to
+making independent policy decisions consistent with New Zealand’s values and interests.
+
+The earthquakes that devastated Christchurch and its surrounding areas underline the
+importance of national resilience, and the critical role the Defence Force plays alongside
+other government agencies in responding to national disasters.
+
+The Defence Force will continue to work with other government agencies to protect and
+advance our national security interests in New Zealand, the South Pacific and around the
+world. The protection of Southern Ocean resources and supporting our civilian presence in
+Antarctica also feature more prominently in this White Paper than in the past.
+
+Recent terror attacks are a tragic testament to the fact that terrorism remains an enduring
+global problem.
+
+The deployment of a military training team to build the capacity of the Iraqi Army in its
+fight against the Islamic State of Iraq and the Levant reflects our determination to protect
+New Zealand and to contribute to international peace and security.
+
+The Government has provided the Defence Force with a degree of funding certainty that
+enables it to plan with confidence out to 2030 and beyond. The Defence Force is well
+
+placed to continue contributing to New Zealand’s national security now and into the future.
+
+**Rt Hon John Key**
+**Prime Minister**
+
+
+-----
+
+-----
+
+# Ministerial Foreword
+
+###### The Defence White Paper 2016 provides the foundation for New Zealand’s security now and into the future at a time of increasing instability and uncertainty in the international strategic environment.
+
+The public’s views, from over 300 written submissions and meetings around the country,
+have informed the development of this White Paper, and are reflected in the Summary of
+Submissions Report.
+
+New Zealanders have been very clear about their expectations that the Defence Force has
+capabilities that are up to date, interoperable with our close partners and able to respond
+to a range of contingencies.
+
+The importance of modern, combat-focussed capabilities, and having the right people to
+operate them, was a consistent theme of the Defence White Paper public consultation process.
+
+The New Zealand Defence Force must be flexible and able to conduct concurrent
+operations, from humanitarian and disaster response, operating in the Southern Ocean and
+supporting Antarctic operations, to participating in international coalition deployments.
+
+The force structure set out in this White Paper will maintain the Defence Force’s flexibility
+and depth of capability to meet future security challenges within our immediate
+environment and further afield.
+
+These challenges include maintaining an awareness of and an ability to respond to activities
+in New Zealand’s Exclusive Economic Zone, supporting New Zealand’s presence in Antarctica
+and the Southern Ocean, as well as increasing cyber threats to Defence Force networks.
+
+In addition to maintaining the Defence Force’s existing mix of capabilities, the Government
+will invest in:
+
+    - ice-strengthening the planned third offshore patrol vessel and replacement naval
+tanker;
+
+    - better supporting sea-to-shore operations with a littoral operations support vessel
+that can operate in low to medium threat environments;
+
+    - an air surveillance capability to better enable the Defence Force to undertake air
+surveillance operations at home and overseas;
+
+    - a cyber security support capability for the protection of Defence Force networks,
+platforms and people; and
+
+    - additional defence intelligence personnel to support military operations.
+
+The extensive analysis undertaken as part of the development of this White Paper has
+enabled the Government to signal a commitment to a portfolio of planned Defence
+capability investments valued at close to $20 billion over the next 15 years.
+
+This White Paper also reflects Defence’s commitment to balancing costs against the need
+to attract and retain skilled personnel, modernise its Estate, and enhance the management
+of its increasingly sophisticated portfolio of defence capabilities.
+
+**Hon Gerry Brownlee**
+
+
+-----
+
+-----
+
+# Chapter One: Executive Summary
+
+###### Introduction
+
+1.1 This Defence White Paper sets out the Government’s defence policy objectives, and
+
+how the Defence Force will be structured and equipped to deliver on these objectives
+
+out to 2030 and beyond.
+
+1.2 Like its predecessor, this White Paper builds on a substantive body of work. This work
+
+includes the Defence Assessment 2014, a comprehensive review of the international
+
+strategic environment and its implications for Defence policy and capability.
+
+1.3 Defence, which includes the Defence Force and Ministry of Defence, continues to
+
+manage the affordability pressures that come with maintaining a modern military
+
+well-positioned to negotiate the challenges of an evolving strategic environment.
+
+1.4 This White Paper is therefore also informed by work on the long-term capital and
+
+operating costs associated with New Zealand’s current and planned mix of defence
+
+capabilities, including the Defence Mid-point Rebalancing Review in 2013.
+
+1.5 This White Paper has been developed in close consultation with other government
+
+agencies, and with members of the Ministerial Advisory Panel. The views of the New
+
+Zealand public, including those of New Zealand’s academic community, were sought
+
+in the development of this White Paper.
+
+###### National Security and Defence
+
+1.6 Defence is a key part of New Zealand’s broader security system, and works alongside
+
+other government agencies to protect and advance New Zealand’s security interests.
+
+In particular, Defence contributes to New Zealand’s security through:
+
+    - the promotion of a safe, secure and resilient New Zealand, including its border
+and approaches;
+
+    - the preservation of a rules-based international order which respects national
+sovereignty;
+
+    - a network of strong international relationships; and
+
+    - the maintenance of New Zealand’s prosperity via secure sea, air and electronic
+lines of communication.
+
+1.7 New Zealand’s national security interests, in combination with its strategic outlook,
+
+are the key factors shaping the roles and tasks the Defence Force must be prepared to
+
+undertake.
+
+
+-----
+
+###### Strategic Outlook to 2040
+
+ Overarching security issues
+
+1.8 There have been a number of positive developments in the international environment
+
+since the publication of the last Defence White Paper, including the continued rise of
+
+a more prosperous Asia, and a South Pacific which has remained more stable than
+
+expected.
+
+1.9 New Zealand has a critical interest in the maintenance of security in the Asia-Pacific
+
+region as well as in growing and expanding its relationships. Any major conflict
+
+would have flow on effects for peace and security beyond the region.
+
+1.10 New Zealand continues to benefit from the economic opportunities associated with
+
+Asia’s growth, but tensions in the region, which are now greater than they were
+
+five years ago, are cause for concern. In addition to the marked increase in defence
+
+spending by countries across the region, and in some cases changes in defence
+
+posture, the shifting distribution of power also means that Asia is the focus of a
+
+complex interplay of global interests.
+
+1.11 Overall the number of conflicts internationally has remained steady in the past
+
+decade, although conflicts within states now occur more frequently than those
+
+between states, often involving multiple well armed and organised groups. These
+
+conflicts are often characterised by the higher threat levels previously associated with
+
+conflicts between states.
+
+1.12 The rules-based international order has come under greater pressure since 2010,
+
+most notably in the Middle East. With weak or non-existent governance, many fragile
+
+and failing states are becoming theatres in which wider interests are being contested.
+
+1.13 Since the last Defence White Paper was published in 2010, terrorist groups have
+
+enhanced their ability to radicalise individuals and extended their global reach,
+
+particularly through the use of internet technology and social media.
+
+1.14 Advances in technology continue to enhance the ease with which knowledge is able
+
+to be transferred. This is a positive development, and has a number of advantages
+
+in the military context. However, increasing reliance on technology and information
+
+networks is creating new vulnerabilities. The threat to systems that rely on networked
+
+technologies such as the internet, industrial control systems and global positioning
+
+satellites has increased markedly since 2010.
+
+1.15 New Zealand therefore has an interest in contributing to international cyberspace and
+
+space efforts to protect this infrastructure from being exploited or disrupted.
+
+###### New Zealand, its immediate region, and the South Pacific
+
+1.16 New Zealanders can remain confident that the country does not face a direct military
+
+threat in the foreseeable future. Nonetheless, New Zealand’s ability to protect and
+
+advance its security interests is becoming increasingly challenging as the strategic
+
+environment evolves.
+
+1.17 The size, intrinsic value and challenges associated with managing New Zealand’s
+
+large maritime domain underline the significance of maritime threats to New Zealand.
+
+As activity in this domain increases, incidents requiring a New Zealand response are
+
+more likely to occur.
+
+
+-----
+
+1.18 New Zealand has a strong interest in the preservation of the natural environment
+
+and stability in the Antarctica and Southern Ocean. In most cases the increasing
+
+international activity in the region is focussed on scientific research.
+
+1.19 Given its strong connections with South Pacific countries, New Zealand has an
+
+enduring interest in regional stability. The South Pacific has remained relatively
+
+stable since 2010, and is unlikely to face an external military threat in the foreseeable
+
+future. However, the region continues to face a range of economic, governance, and
+
+environmental challenges. These challenges indicate that it is likely that the Defence
+
+Force will have to deploy to the region over the next ten years, for a response beyond
+
+humanitarian assistance and disaster relief.
+
+###### Strong international relationships
+
+1.20 New Zealand will continue to protect and advance its interests by maintaining strong
+
+international relationships, with Australia in particular, and with its South Pacific
+
+partners, with whom it maintains a range of important constitutional and historical
+
+links. While New Zealand has an array of international relationships, it makes
+
+independent policy decisions consistent with its values, interests and size.
+
+###### Defence Force Roles and Tasks
+
+1.21 The Defence Force must be able to undertake a range of roles and tasks across
+
+diverse geographical and operating environments. The principal roles of the Defence
+
+Force are to:
+
+    - Defend New Zealand’s sovereign territory;
+
+    - Contribute to national resilience and whole of government security objectives;
+
+    - Meet New Zealand’s commitment as an ally of Australia;
+
+    - Support New Zealand’s civilian presence in the Ross Dependency of Antarctica,
+and participate in whole of government efforts to monitor and respond to activity
+in the Southern Ocean;
+
+    - Contribute to, and where necessary lead, operations in the South Pacific;
+
+    - Make a credible contribution in support of peace and security in the Asia-Pacific
+region;
+
+    - Protect New Zealand’s wider interests by contributing to international peace and
+security, and the international rule of law;
+
+    - Contribute to the advancement of New Zealand’s security partnerships;
+
+    - Participate in whole of government efforts to monitor the strategic environment
+and
+
+    - Be prepared to respond to sudden shifts in the strategic environment.
+
+1.22 Government’s highest priority for the Defence Force is its ability to operate in
+
+New Zealand and its Exclusive Economic Zone, followed by the South Pacific and
+
+the Southern Ocean. The Defence Force must therefore be prepared to operate
+
+independently, or lead operations, in these areas.
+
+
+-----
+
+1.23 It is also important that the Defence Force maintains its ability to contribute
+
+to operations further afield should the Government require it to do so. Such
+
+contributions will most likely be made as part of operations led by New Zealand’s
+
+international partners. The ability of the New Zealand Defence Force to operate
+
+effectively with others, particularly Australia, will therefore remain an important
+
+focus for New Zealand.
+
+1.24 New Zealand will continue to balance its interest in contributing to the rules-based
+
+international order, from which it benefits, with the increasing risks posed to New
+
+Zealanders deployed beyond the South Pacific.
+
+###### Defence Force Capabilities
+
+1.25 This White Paper provides an overview of the military capabilities that the Defence
+
+Force will need to undertake its roles and tasks out to 2040.
+
+1.26 A number of new capability challenges have arisen for the Defence Force since
+
+the last Defence White Paper was published in 2010. These include patrolling
+
+the Southern Ocean, supporting New Zealand’s civilian presence in Antarctica
+
+and protecting the Defence Force from increasing cyber threats. The challenges
+
+associated with maintaining an awareness and an ability to respond to activities in
+
+New Zealand’s Exclusive Economic Zone have intensified.
+
+1.27 The force structure set out in this White Paper is therefore a mix of existing and
+
+planned capabilities, and new capabilities to meet future challenges. The Defence
+
+Force will maintain a range of land and naval combat, strategic projection and
+
+logistics, intelligence and reconnaissance capabilities. These capabilities will enable
+
+the Defence Force to undertake the roles and tasks expected of it, and to continue
+
+providing credible deployment options, including combat capable forces, to the
+
+Government.
+
+1.28 Further detail on the Government’s updated mix of capabilities will be included in the
+
+next Defence Capability Plan, to be released in 2016.
+
+1.29 Each major capital acquisition will continue to be guided by the Government’s Capital
+
+Asset Management regime and be subject to the application of Better Business
+
+Case principles. This provides opportunities for the Government to test individual
+
+capability proposals against its broader priorities before making critical investment
+
+decisions.
+
+###### Generating a skilled and sustainable workforce
+
+1.30 The Defence Force needs the right mix of skilled personnel to deliver and deploy its
+
+military capabilities and keep pace with the evolving strategic environment.
+
+1.31 One of the core challenges the Defence Force now faces is balancing the
+
+modernisation of its workforce with the need to attract and retain people with
+
+diverse skills, many of which will be in high demand elsewhere. It must do this while
+
+remaining affordable in the long term.
+
+1.32 The Defence Force must therefore continually review and improve the way in which it
+
+recruits, trains and supports its people.
+
+
+-----
+
+-----
+
+###### Affordability
+
+1.33 Given the long term nature of investment decisions in military capability, and the
+
+costs associated with such decisions, Defence will continue to face affordability
+
+challenges.
+
+1.34 Since the last Defence White Paper, Defence’s management of its overall affordability
+
+has matured from a focus on savings to a broader, more strategic approach. Defence
+
+is therefore committed to ongoing work to continue to balance policy, capability and
+
+funding.
+
+###### Organisational improvement
+
+1.35 The Ministry of Defence and Defence Force have strengthened their organisational
+
+management since 2010.
+
+1.36 The Defence Force, in its work towards organisational integration, has strengthened
+
+its leadership and accountability structures. It is committed to improving its overall
+
+efficiency.
+
+1.37 The Ministry of Defence has undertaken a series of organisational changes in recent
+
+years. In Budget 2015, the Ministry received a significant increase in funding to
+
+strengthen its capability development and delivery functions.
+
+1.38 Both the Defence Force and Ministry of Defence have enhanced their joint
+
+management of capability since 2010, but have further work to do to ensure they
+
+are well placed to deliver on the significant programme of major Defence projects
+
+planned out to 2030.
+
+###### The Defence Estate
+
+1.39 The Defence Estate provides the infrastructure, facilities and training areas required
+
+to generate and maintain Defence capabilities.
+
+1.40 As part of its planned regeneration of the Defence Estate, the Defence Force will
+
+modernise infrastructure, facilities and training areas, consolidating these where it
+
+makes sense to do so. This will improve support for capabilities, reduce operational
+
+costs, and ensure personnel have access to safe facilities that comply with New
+
+Zealand health and safety standards. The planned regeneration supports the wider
+
+efforts of the Defence Force to improve its overall affordability and efficiency.
+
+###### Balancing policy, capability and funding
+
+1.41 Defence will continue to take a systematic approach to balancing policy, capability
+
+and funding in the long term. Supported by other agencies, it will undertake a five
+yearly cycle of activity that includes Defence Assessments, White Papers, and mid
+point reviews.
+
+1.42 As part of this work, Defence will analyse changes in the international strategic
+
+environment and their possible implications for New Zealand’s national security
+
+interests, Defence policy and the capabilities required by the Defence Force to fulfil its
+
+roles and tasks.
+
+
+-----
+
+###### Implementing this Defence White Paper
+
+1.43 Implementing this White Paper will involve a mix of existing Defence business,
+
+embedding improvements in practice signalled in the 2010 Defence White Paper, and
+
+undertaking new initiatives that have resulted from the development of this Defence
+
+White Paper.
+
+1.44 In addition to taking the more systematic approach to balancing policy, capability
+
+and funding described above, Defence will carefully prioritise its international
+
+engagement; enhance its management of capability; and embed the organisational
+
+arrangements needed to support the development of its new cyber support
+
+capability. Defence will also develop a Plan for the regeneration of its Estate, and
+
+undertake work to better understand its Personnel portfolio.
+
+1.45 Depending on the outcome of this work, Defence may need to do additional work to
+
+update its capability and cost picture.
+
+
+-----
+
+-----
+
+# Chapter Two: National Security and Defence
+
+###### Defence is part of New Zealand’s broader national security system, and works with other agencies to protect and advance New Zealand’s national security interests.
+
+2.1 New Zealand’s national security interests, alongside its understanding of the strategic
+
+environment, inform the roles and tasks the Government expects Defence (the New
+
+Zealand Defence Force and Ministry of Defence) to undertake, and the capabilities it
+
+needs to do this effectively.
+
+2.2 This chapter describes New Zealand’s enduring national security interests, focusing
+
+on those interests to which Defence makes a particular contribution.
+
+###### New Zealand’s National Security 
+
+2.3 National security is the condition which permits New Zealand citizens to go
+
+about their daily business confidently, free from fear and able to make the most
+
+of opportunities to advance their way of life. The concept of national security is
+
+therefore a broad one, encompassing a range of activities that include protecting the
+
+state against military threats.
+
+2.4 New Zealand has seven overarching national security objectives:
+
+    - Preserving sovereignty and territorial integrity: Protecting the physical security of
+New Zealand citizens, and exercising control over its territory;
+
+    - Protecting lines of communication: These are both physical and virtual and allow
+New Zealand to communicate, trade and engage globally;
+
+    - Strengthening international order to promote security: Contributing to the
+international rules-based system, and engaging in targeted interventions offshore
+to protect New Zealand’s interests;
+
+    - Sustaining economic prosperity: Maintaining and advancing the economic wellbeing of New Zealand individuals, families, businesses and communities;
+
+    - Maintaining democratic institutions and national values: Preventing activities
+aimed at undermining or overturning government institutions, principles and
+values that underpin New Zealand society;
+
+    - Ensuring public safety: Providing for, and mitigating risks to, the safety of citizens
+and communities; and
+
+    - Protecting the natural environment: Contributing to the preservation and
+stewardship of New Zealand’s natural and physical environment.
+
+2.5 In pursuit of these objectives, New Zealand takes an “all-hazards” approach to
+
+national security. It has a security system designed to bring government agencies
+
+together to respond to all risks to national security, whether internal or external,
+
+
+-----
+
+human or natural. This ranges from the challenges associated with natural disasters,
+
+resource exploitation and pandemics (and other biosecurity events), through to
+
+evolving threats related to terrorism and cyberspace.
+
+2.6 Defence works with a range of other government agencies to protect and advance all
+
+seven of these security objectives, and as part of the governance arrangements that
+
+coordinate and manage any government response.
+
+**Figure 1. Defence Force’s relationship with other departments and agencies**
+
+
+ministry of foreign
+
+affairs and trade
+
+
+new zealand
+
+customs service
+
+
+maritime new zealand
+
+
+New Zealand Police
+
+
+###### Defence:
+
+One part of a whole of
+Government approach to
+New Zealand’s security
+
+
+Department of the Prime
+Minister and Cabinet
+
+
+Department of
+Corrections
+
+
+Department of
+Internal Affairs
+
+
+New Zealand Security
+Intelligence Service
+
+
+ministry FOR
+
+primary industries
+
+
+###### Ministry of Defence
+
+ new zealand 
+ defence force
+
+
+New Zealand
+Fire Service
+
+
+National maritime
+
+coordination centre
+
+
+Government
+Communications
+Security Bureau
+
+
+Ministry of education
+
+
+Civil Defence and
+Emergency Management
+
+
+Ministry of Health
+
+
+MInISTRY OF BUSINESS,
+INNOVATION AND
+EMPLOYMENT
+
+
+Ministry of Social
+Development
+
+
+department of
+
+conservation
+
+
+AntarcticA New Zealand
+
+
+Ministry FOR Culture
+
+and Heritage
+
+
+-----
+
+2.7 New Zealanders value the longstanding engagement of the Defence Force with local
+
+communities through its leadership of the New Zealand Cadet Forces, and its support
+
+for youth development programmes managed by other government agencies.
+
+2.8 The Defence Force plays a role in efforts to protect New Zealand’s natural
+
+environment. Over the past decade this has seen the Defence Force assist the
+
+Ministry for Primary Industries to conduct fisheries patrols, support Department of
+
+Conservation activities (for example by transporting personnel and equipment), and
+
+contribute to the national response to the grounding of the MV Rena and subsequent
+
+oil spill off the coast of Tauranga.
+
+2.9 Defence primarily contributes to New Zealand’s national security objectives through:
+
+    - the promotion of a safe, secure and resilient New Zealand, including its border
+and approaches;
+
+    - the preservation of a rules-based international order which respects national
+sovereignty;
+
+    - a network of strong international relationships; and
+
+    - the maintenance of New Zealand’s prosperity via secure sea, air and electronic
+lines of communication.
+
+###### A safe, secure and resilient New Zealand
+
+2.10 It is a fundamental duty of any New Zealand government to protect the country’s
+
+people and its resources; to uphold its constitutional obligations to the Cook Islands,
+
+Niue and Tokelau; and to maintain New Zealand’s right of sovereignty in the Ross
+
+Dependency of Antarctica.
+
+2.11 While there is presently no direct military threat to New Zealand, the Defence Force
+
+maintains a level of capability that allows it to deter threats, enlarge its forces at short
+
+notice, and provide sufficient time for additional help to be sought from its partners,
+
+should this be required. Such circumstances are unlikely, and would be preceded by
+
+significant changes in the international strategic environment.
+
+2.12 The Defence Force also plays a key role in supporting New Zealand’s resilience to
+
+unforeseen events. As the only agency of state that maintains disciplined forces
+
+and fleets of vehicles, ships and aircraft available at short notice, the Defence Force
+
+is a critical part of the whole of government approach to disaster relief, search and
+
+rescue, maritime resource protection and counter-terrorism.
+
+2.13 To ensure the protection and appropriate use of New Zealand’s natural resources, and
+
+that entry to the country is by legitimate means only, the Defence Force plays a role in
+
+monitoring and responding to activity in its Exclusive Economic Zone.
+
+###### The Defence Force supported the New Zealand Police and Civil Defence as part of the response to the Canterbury earthquakes. At the peak of the operation in March 2011, 1,796 Defence Force personnel provided medical teams, transport for rescue personnel and emergency food, water and shelter.
+
+
+-----
+
+###### Rules-based international order
+
+2.14 New Zealand’s security interests are supported by the international rules-based
+
+order. This order provides protection by disciplining the exercise of national power
+
+through international law, custom and convention, and accords the same rights to all
+
+countries, regardless of their size.
+
+2.15 Enjoying the benefits of such an order means that New Zealand, like other countries,
+
+has an obligation to fulfil the responsibilities associated with it. In particular, it means
+
+being willing to support the prevention or resolution of conflict within and between
+
+states, as well as the maintenance of any peace agreement that may result.
+
+**16**
+
+2.16 New Zealand has a long history of contributing to such activities, often as part of
+
+initiatives authorised by the United Nations. Over the last decade, alongside ongoing
+
+commitments in the Middle East and the Republic of Korea, the Defence Force
+
+has undertaken stability and support operations in Timor Leste, Afghanistan, and
+
+Solomon Islands, undertaken counter-piracy operations in the Indian Ocean, and is
+
+now assisting with building the capacity of the Iraqi army to combat the Islamic State
+
+of Iraq and the Levant (Daesh).
+
+**Figure 2. History of NZDF global deployments from 1990 – 2014**
+
+**Operational** **Non-operational**
+**Deployments** **activities**
+
+1. Kosovo (1999 – 2008) 14. Arabian Sea (2002 – 2004, 2008) 29. Banda Aceh (2004 – HADR)
+
+2. Bosnia (1992 – 2007) 15. Sudan and South Sudan 30. Pacific Partnership (2005 – present)
+
+(2003 – present)
+
+3. Bahrain (2014 – present) 31. Philippines (2013 – HADR)
+
+16. Sierra Leone (2003 – 2004)
+
+4. Middle East (1954 – present) 32. PNG (1998 – HADR)
+
+17. Somalia (1992 – 95)
+
+5. Egypt (1982 – present) 33. Samoa (2009 – HADR)
+
+18. Rwanda (1994)
+
+6. The Gulf War (1990 – 91) 34. Vanuatu (2006 – present)
+
+19. Angola (1992 – 94)
+
+7. Iraq (1991 – 95, 2003 – 2013, 35. Tonga (2003 – 2004, 2006)
+2015 – 2016) 20. Namibia (1989 – 90)
+
+36. Pacific Ocean
+
+8. Lebanon (2007 – 2016) 21. Mozambique (1993 – 2005)
+
+37. Florida (2006 – present)
+
+9. Syria (2012) 22. Korea (1950 – present)
+
+38. Southern Ocean
+
+10. Iran – Iraq (1988 – 91) 23. Laos (1995)
+
+39. Antarctica (1965 – present)
+
+24. Cambodia (1991 – 2005)
+
+11. Kyrgyzstan (2003)
+
+40. Victoria (2009 – HADR)
+
+25. Timor-Leste (1999 – 2012)
+
+12. Afghanistan (2003 – present)
+
+41. New Zealand (Aid and Disaster Relief)
+
+26. Bougainville (1990 – 2003)
+
+13. Horn of Africa, Indian Ocean
+
+42. Fiji (Cyclone Winston) (2016 – HADR)
+
+(2003 – present) 27. Solomon Islands (2003 – 2014
+
+RAMSI and HADR) 43. Vanuatu (Cyclone Pam) (2015 – HADR)
+
+28. Haiti (1994 – 95)
+
+
+-----
+
+**2**
+
+**1**
+
+**11**
+
+**7** **12** **22**
+
+**8**
+
+**6** **10**
+**5** **37**
+
+**3**
+
+**9**
+
+**4** **23** **28**
+
+**15** **13** **24** **31**
+
+**14** **29**
+**17**
+
+**18**
+
+**32** **26**
+
+**25** **27** **30**
+
+**36**
+
+**19**
+
+**33**
+
+**21** **34** **42**
+
+**35**
+
+**20**
+
+**43**
+
+**40**
+
+**41**
+
+**38**
+
+**39**
+
+
+-----
+
+###### Strong international relationships
+
+2.17 In addition to supporting the rules-based order, New Zealand has an enduring interest
+
+in fostering strong international relationships.
+
+2.18 Defence and security, alongside advancing its economic interests, are a core
+
+component of New Zealand’s international relationships. New Zealand maintains
+
+defence and security relationships with a range of countries, many of which it also
+
+has a long history of operating alongside.
+
+2.19 Through continued, meaningful engagement, New Zealand develops familiarity with
+
+those with whom its relationships may be less established. It also deepens the trust
+
+of those partners to which it is already close, by being open and transparent about its
+
+actions and intentions.
+
+2.20 At the same time as it maintains an array of international relationships, New Zealand
+
+continues to make independent policy decisions consistent with its values, interests
+
+and size.
+
+2.21 Defence plays an important role alongside the Ministry of Foreign Affairs and Trade
+
+and other government agencies in shaping the international strategic environment to
+
+support New Zealand’s security interests.
+
+2.22 New Zealand’s regular defence discussions with its partners enhance its
+
+understanding of the international strategic environment, and allow it to convey its
+
+views on international security matters. Where this engagement is with groups of
+
+countries as part of regional and multilateral security arrangements, New Zealand’s
+
+voice is amplified.
+
+2.23 New Zealand’s participation in exchanges of military personnel and joint military
+
+exercises with other countries forms a key component of many of its bilateral
+
+relationships, alongside the training assistance it provides to other militaries. These
+
+activities help develop the skills and experience of Defence Force personnel and
+
+the people they train, strengthens people-to-people links, and reinforces the high
+
+professional standards for which New Zealand’s Defence Force is renowned.
+
+
+-----
+
+###### Maintaining prosperity and stability
+
+2.24 New Zealand’s economic prosperity depends upon open sea, air and electronic lines
+
+of communication, and would be impacted by disruptions associated with state
+
+conflict, piracy or natural disaster.
+
+2.25 The Defence Force makes an important contribution to international efforts towards
+
+freedom of navigation. This includes maritime surveillance activities in the South
+
+Pacific and South East Asia, and participation in multinational counter-piracy and
+
+maritime security operations in the Arabian Gulf and Indian Ocean.
+
+2.26 New Zealand also depends upon the effective functioning of national infrastructure
+
+that enables electronic communication. These systems are critical to New Zealand’s
+
+ability to communicate and trade globally and are vital to the Defence Force’s’ ability
+
+to effectively carry out its roles and tasks. Defence contributes to the protection of
+
+this infrastructure, and through its international partnerships, undertakes efforts to
+
+enhance its security.
+
+###### Conclusion
+
+2.27 Defence has an important role to play, alongside other government agencies, in
+
+protecting and advancing New Zealand’s national security interests. These enduring
+
+interests, in conjunction with the international strategic outlook, help define the roles
+
+and tasks the Government expects Defence to undertake.
+
+
+-----
+
+-----
+
+# Chapter Three: New Zealand’s Strategic Outlook to 2040
+
+###### New Zealand will need to work more effectively to advance and protect its interests over the next 25 years.
+
+3.1 How much the Government chooses to invest in its military capabilities is heavily
+
+influenced by New Zealand’s strategic circumstances and its understanding of how
+
+these are likely to evolve over the coming decades.
+
+3.2 This Chapter sets out an assessment of the international strategic environment,
+
+providing a sense of what has changed in the five years since the publication of the
+
+last Defence White Paper, and the likely direction of these trends over the next 25
+
+years. This will lay the foundation for the subsequent chapters on Defence roles and
+
+capabilities.
+
+3.3 This Chapter is divided into two sections. It begins by exploring the overarching
+
+features of the international security environment, and then examines specific trends
+
+in the context of the national security interests to which Defence contributes.
+
+###### Overarching security context
+
+ The characteristics of conflict are changing
+
+3.4 The overall number of conflicts in the past decade has remained steady, although
+
+conflicts within states now occur more frequently than those between states. This
+
+is a continuation of a trend from the latter half of the 20th Century. However it is
+
+not unusual for these conflicts to now be characterised by the higher threat levels
+
+previously associated with conflicts between states, and to increasingly involve well
+armed and organised non-state groups with external support. The increasing number
+
+and diversity of actors involved in conflicts within states can make it difficult to
+
+attribute actions to specific parties.
+
+###### The rise of Asia continues
+
+3.5 The increasing global economic and military importance of Asia signalled in the
+
+Defence White Paper 2010 continues. By 2030 Asia is expected to have surpassed
+
+North America and Europe combined in terms of global power, a measure defined
+
+by gross domestic product, population size, military spending and technological
+
+investment. Nowhere is this shift, driven primarily by three decades of sustained
+
+economic growth in China, more striking than in North Asia.
+
+3.6 In addition to the marked increase in military spending by countries across the region,
+
+and in some cases changes in defence posture, the shifting distribution of power also
+
+means that Asia is the focus of a complex interplay of global interests.
+
+3.7 New Zealand continues to benefit from the economic opportunities associated with
+
+Asia’s growth, and has a critical interest in the maintenance of regional security as
+
+well as growing and expanding its relationships in the region
+
+
+-----
+
+###### Terrorism is an enduring global threat
+
+3.8 Terrorism will remain an enduring threat to states beyond 2020. It continues to have
+
+an important influence on state decision-making domestically, with respect to the
+
+protection from, and response to, potential attacks, and in relation to international
+
+counter-terrorism efforts.
+
+3.9 Following the September 2001 terrorist attacks in the United States and subsequent
+
+attacks across the globe, there has been an unprecedented level of international
+
+counter-terrorist activity and cooperation. Many states have put stringent measures
+
+in place to make the planning and carrying out of terrorist attacks more difficult.
+
+3.10 However, the breakdown in state control associated with continuing instability in
+
+parts of the Middle East and North Africa means that terrorist groups in these areas
+
+have the freedom to operate and plan attacks internationally. This is particularly true
+
+of newer groups such as the Islamic State of Iraq and the Levant (Daesh), in addition
+
+to Al Qaeda and its regional affiliates. These groups continue to encourage their
+
+supporters to conduct terrorist attacks globally.
+
+###### Resource competition
+
+3.11 The vast increase in wealth associated with globalisation has lifted hundreds of
+
+millions of people out of poverty. But within many states these benefits have not been
+
+evenly spread. The resulting inequality has the potential to amplify existing tensions
+
+and lead to conflict, particularly in developing or fragile states.
+
+3.12 The global population is projected to increase from 7.1 billion today to 8.3 billion by
+
+2030. Global demand for energy, food and water is projected to increase significantly.
+
+This demand, alongside static or falling agricultural productivity in some areas, will
+
+lead to greater resource scarcity, prompting countries to seek out new areas to meet
+
+their needs. This may include areas with the potential to yield resources in the future,
+
+such as the Arctic and Antarctica.
+
+3.13 South Pacific states are already feeling the effects of these resource pressures, in
+
+particular the global demand for fish stocks. This pressure is likely to have flow-on
+
+effects for New Zealand and the immediate region within the next 25 years.
+
+###### Increasing adoption of and reliance on information and technology
+
+3.14 With the internet and globalised supply chains, non-state groups enjoy previously
+
+unprecedented access to information, communications and other technology
+
+(including technology with military applications). This is reducing the relative
+
+advantage states once had.
+
+3.15 Access to advancing information technology can enable diverse, sometimes
+
+geographically distant, groups and individuals to more effectively mobilise in pursuit
+
+of shared goals or policy objectives, including radicalisation.
+
+
+-----
+
+3.16 The adoption of technology has a number of advantages in the military context.
+
+Technology that better enables the gathering and analysis of data can lower response
+
+times in a conflict, improve decision-making and allow greater precision in applying
+
+military force, minimising loss of life and damage to property.
+
+3.17 At the same time, an increasing reliance on technology and information networks
+
+is creating new vulnerabilities. Important military and civilian communications,
+
+logistics, critical infrastructure and navigation systems are reliant on networked
+
+technologies such as the internet, industrial control systems and global positioning
+
+satellites. Like other countries, New Zealand depends on this technology, and has an
+
+interest in contributing to international cyber and space security efforts to protect this
+
+infrastructure from being exploited or disrupted.
+
+###### Proliferation of Weapons of Mass Destruction
+
+3.18 International norms against the use of chemical, biological or nuclear weapons
+
+of mass destruction remain strong. However, the proliferation of such weapons,
+
+supported by easy knowledge transfers and low cost technologies, is of continuing
+
+concern. New Zealand has an enduring interest in ensuring that states meet their
+
+commitments to disarmament and arms control treaties, and in preventing the
+
+transfer of such weapons to non-state groups.
+
+###### The Strategic Outlook and New Zealand’s National Security Interests
+
+3.19 This section draws on the thematic issues above, highlighting some geographically
+
+specific trends. It describes the impact of these trends on New Zealand’s national
+
+security interests. This section also provides an overview of New Zealand’s defence
+
+relationships.
+
+
+-----
+
+SOUTH PACIFIC OCEAN TO ANTARCTICA
+
+GNZ-16-4366-U
+
+PRODUCTION DATE: January 2016
+
+
+-----
+
+3.21 New Zealand has a large maritime domain which includes its Exclusive Economic
+
+Zone and a wider search and rescue area of responsibility extending from Antarctica
+
+to the Equator. The size, intrinsic value and the challenges associated with managing
+
+this domain underline the critical significance of maritime threats to New Zealand.
+
+3.22 Global pressure on fisheries will make New Zealand’s Exclusive Economic Zone a
+
+more attractive area for illegal, unregulated and unreported fishing in the future.
+
+There are also indications that people smugglers are targeting New Zealand.
+
+3.23 Activity within New Zealand’s maritime domain is increasing. New Zealand’s
+
+popularity as a cruise destination, for example, has seen five-fold growth in the last
+
+ten years. Higher activity levels indicate a greater likelihood of maritime incidents
+
+occurring, including search and rescue incidents, to which the Defence Force may be
+
+called upon to respond.
+
+###### Antarctica is the focus of increasing international interest
+
+3.24 New Zealand has a strong interest in the preservation of the natural environment
+
+and stability in the Antarctica and Southern Ocean. In addition, New Zealand
+
+maintains a right of sovereignty in the Ross Dependency. This is manifest in its
+
+enduring commitment to the Antarctic Treaty System, which sets the rules and norms
+
+governing state behaviour in Antarctica, and its permanent scientific presence at
+
+Scott Base.
+
+3.25 The number of other national camps and stations in Antarctica is increasing,
+
+signalling the value that other countries place on having a presence in the region.
+
+While scientific research is a key focus for most countries, the motivations of others
+
+may be less clear.
+
+###### Natural disasters are likely to increase in frequency and intensity
+
+3.26 New Zealand is vulnerable to a number of geological hazards including earthquakes,
+
+tsunami and volcanic activity. It also faces meteorological hazards including flooding
+
+and droughts, which are being exacerbated by long term trends, for example towards
+
+higher temperatures. These factors point to a potential increase in the frequency and
+
+intensity of natural disasters out to 2040.
+
+3.27 These trends extend beyond New Zealand to the South Pacific, where rising sea
+
+levels, less predictable rainfall, cyclones and storm surges are likely to become more
+
+intense and frequent over the next 25 years.
+
+###### Emerging threats to New Zealand are not mitigated by distance
+
+3.28 New Zealand’s geographic distance from other countries does not insulate it from
+
+external threats. Physical distance bears little relevance to the threats associated
+
+with terrorism and cyberspace that New Zealand, alongside many other countries, is
+
+facing.
+
+
+-----
+
+3.29 Although it remains low, the risk of a terrorist attack in New Zealand has increased
+
+since 2010. This is due in part to the small number of New Zealand citizens linked
+
+to extremist and terrorism-related groups, including those involved in activities
+
+overseas, and their possible behaviour should they return to the country. The threat
+
+posed by such groups has been amplified in recent years by their ability to radicalise
+
+individuals remotely, for example through the use of social media. New Zealand will
+
+remain vigilant to this threat, as well as to attempts by extremist groups to extend
+
+their reach globally.
+
+3.30 The amount of data stored digitally, and the number of devices connected to each
+
+other and the internet, is rising rapidly in both the civilian and military context.
+
+This increase, alongside the potential for significant disruptions to electronic
+
+communication and command and control systems, means cyberspace, and the
+
+threat to New Zealand civilian and Defence Force networks from cyber attacks, is
+
+growing in importance.
+
+3.31 New Zealand relies on assured access to space-based systems to support its
+
+economic prosperity, maintain public safety and enable the effective deployment
+
+and operation of military forces. New Zealand is not unique in this regard, and has
+
+an interest in working with its international partners to promote the responsible and
+
+peaceful use of space. Of concern to New Zealand are activities, whether man-made
+
+or natural, which could lead to significant disruption to space-based systems as space
+
+becomes a more congested and competitive environment.
+
+###### A rules-based international order
+
+ The rules-based international order is under increasing pressure, making New Zealand’s continued, active support more important than ever.
+
+3.32 Since the publication of the 2010 Defence White Paper, the rules-based international
+
+order has been placed under increasing pressure. While events in Syria, Iraq and
+
+Ukraine are dramatic examples, such pressure is also evident in Asia and the South
+
+Pacific.
+
+###### Transnational crime in the South Pacific is undermining sovereignty
+
+3.33 The South Pacific has remained relatively stable since 2010, and is unlikely to face
+
+an external military threat in the foreseeable future. However, serious economic,
+
+governance, and environmental challenges continue to confront the region.
+
+3.34 Pacific countries face difficulties in effectively controlling their borders. This
+
+vulnerability is being compounded by increasing transnational organised crime. This
+
+includes trafficking in illicit commodities such as drugs, wildlife and firearms; people
+
+smuggling and trafficking; financial and cyber-crime; and illegal, unregulated and
+
+unreported fishing.
+
+
+-----
+
+3.35 Fisheries are a valuable source of income for many Pacific countries, making the
+
+region an attractive target for illegal, unregulated and unreported fishing. As global
+
+demand for fish increases, this will place more pressure on the region’s pelagic
+
+fisheries. Losses for South Pacific economies associated with this activity have been
+
+estimated at up to NZ$400 million per year. This has flow on effects for economic and
+
+social stability.
+
+3.36 Pacific countries face a number of other challenges. With small, often narrowly based
+
+economies, many Pacific countries will remain vulnerable to economic shocks, and to
+
+the impact of natural disasters. A lack of employment opportunity, compounded by
+
+demographic pressures such as surging working age populations in some countries,
+
+has the potential to generate social and political unrest.
+
+###### Asia continues to face a number of important security challenges
+
+3.37 Asia has seen some positive security developments in recent years. However
+
+tensions in the region are greater than they were five years ago.
+
+3.38 Complicated sovereignty disputes between many states, particularly those with
+
+respect to claims in the South China Sea and the Senkaku/Diaoyu Islands, are likely to
+
+remain unresolved for the foreseeable future.
+
+3.39 New Zealand does not take a position on the various territorial claims in the South
+
+China Sea, but it does oppose actions that undermine peace and erode trust. New
+
+Zealand supports the rights of states to seek recourse to international dispute
+
+settlement through international institutions, as well as solving disputes through
+
+direct negotiations. It is important that all states respect the final outcomes of such
+
+processes.
+
+3.40 North Korea’s ongoing provocative actions, in addition to its nuclear and missile
+
+programmes, are also a major concern for countries within and beyond Asia.
+
+3.41 A number of countries in the region continue to face the pressures associated with
+
+low-level separatist activities that undermine national borders and threaten social
+
+cohesion.
+
+3.42 New Zealand has growing political, economic and security links in Asia, and a major
+
+conflict would have flow on effects for peace and security beyond the region. It
+
+therefore has a strong interest in strengthening its links with countries in the region
+
+and participating in international efforts to support regional peace and security.
+
+###### Enduring conflict in the Middle East and Africa
+
+3.43 The Middle East and North Africa have undergone significant political change in the
+
+past five years, a period that has seen fundamental challenges to state boundaries.
+
+The rapid rise of the Islamic State of Iraq and the Levant (Daesh) in 2014 is a dramatic
+
+example of a non-state group in the region forcefully re-drawing existing borders.
+
+3.44 With the underlying causes of conflict in the region remaining largely unaddressed, it
+
+is highly likely that it will face further turmoil over the next 25 years. The diminishing
+
+prospects for the wider Middle East Peace Process do little to improve this outlook.
+
+3.45 African states continue to face a range of threats, including terrorism, piracy and
+
+insurgency. New Zealand has an interest in working with these states, and as part of
+
+international organisations, to support efforts to address these security challenges.
+
+
+-----
+
+###### Challenges to European security
+
+3.46 New Zealand and Europe have a common interest in regional stability and
+
+the international rules-based order. For this reason, New Zealand shares
+
+Europe’s concerns about Russia’s intervention in Ukraine, including the
+
+annexation of Crimea, and the challenges this represents to the rules-based
+
+order which supports European peace and security.
+
+###### Strong international relationships
+
+3.47 New Zealand has an enduring interest in fostering strong international
+
+relationships characterised by mutual transparency and trust. Beyond its
+
+relationships with individual countries, New Zealand also participates in
+
+multilateral institutions which reinforce international norms and promote
+
+dialogue between states.
+
+###### Australia is New Zealand’s closest partner
+
+3.48 Australia is New Zealand’s most important bilateral partner. New Zealand
+
+has no better friend and no closer ally. Through its size, location and
+
+strategic reach, Australia contributes significantly to New Zealand’s
+
+security. While a direct armed attack on Australia is unlikely in the
+
+foreseeable future, should it be subject to such an attack, New Zealand
+
+would respond immediately.
+
+3.49 New Zealand’s relationship with Australia consists of an array of political,
+
+economic and social connections. The strength of these connections means
+
+that both countries are able to share their positions on difficult issues,
+
+without compromising their relationship.
+
+3.50 Defence and security are important components of New Zealand’s
+
+relationship with Australia. Their militaries operate closely together in the
+
+Pacific, and as part of international capacity building activities further afield.
+
+New Zealand will continue to work closely with Australia in response to
+
+security events in the region.
+
+3.51 For these reasons, it is critical that the Defence Force maintains its ability
+
+to operate effectively with its Australian counterpart. New Zealand will
+
+continue to participate in regular personnel exchanges and exercises,
+
+and where relevant ensure Defence capabilities are complementary and
+
+compatible with those of the Australian Defence Force.
+
+###### New Zealand - United States engagement is deepening
+
+3.52 New Zealand’s security is enhanced through engagement with the United
+
+States, which has reached a depth and breadth not seen for 30 years.
+
+3.53 Over the past five years, the relationship has deepened following the
+
+signing of the Wellington Declaration in 2010 and the Washington
+
+Declaration in 2012. This strengthening is part of a broader United States
+
+“rebalance” towards the Asia-Pacific region, involving greater United States
+
+diplomatic, economic and military investment in the region. This includes
+
+an increase in the number and size of military exercises in the Pacific and
+
+more regular interaction between New Zealand’s armed forces and those of
+
+the United States.
+
+
+-----
+
+3.54 New Zealand’s defence relationship is now characterised by cooperation
+
+across a broad range of areas including maritime security, humanitarian
+
+assistance and disaster relief, military exercises and operations in the
+
+Middle East.
+
+3.55 Given the values New Zealand shares with the United States, the degree of
+
+global influence it exerts, and the wealth of knowledge and experience New
+
+Zealand can draw from such a partner, this relationship will remain one of
+
+this country’s closest.
+
+###### United Kingdom and Canada
+
+3.56 Alongside Australia and the United States, New Zealand benefits from close
+
+engagement with the United Kingdom and Canada.
+
+3.57 New Zealand values these relationships and is committed to strengthening
+
+them where possible through more regular interaction and cooperation.
+
+New Zealand has developed comprehensive and complementary
+
+cooperation involving technology and personnel exchange, information
+
+sharing, intelligence cooperation, joint exercises and skills development, all
+
+of which enhance New Zealand’s ability to safeguard its interests.
+
+3.58 The United Kingdom will remain one of New Zealand’s closest and most
+
+enduring defence and security partnerships. Both countries share similar
+
+perspectives on a range of security challenges and maintain close practical
+
+engagement.
+
+3.59 Canada is also a longstanding security partner, and has provided valuable
+
+support to New Zealand as part of some its major Defence acquisition
+
+and procurement projects. This is an area of the relationship Defence will
+
+continue to develop.
+
+###### China is an important strategic partner for New Zealand
+
+3.60 China is of central political and strategic importance in the Asia-Pacific
+
+region and globally. Its policies directly affect New Zealand’s security and
+
+economy. New Zealand therefore continues to build a strong and resilient
+
+relationship with China.
+
+3.61 Alongside the political and economic relationship, China and New Zealand
+
+have an evolving development relationship in the Pacific region, where
+
+China is emerging as a significant donor.
+
+3.62 Defence and security cooperation between New Zealand and China has also
+
+gained momentum in recent years, with both countries participating in high
+
+level visits and exchanges, regular dialogue and military exercises. Defence
+
+will build on this success by enhancing its engagement at the working level
+
+over the coming years.
+
+###### New Zealand has enduring links with its South Pacific neighbours
+
+3.63 New Zealand has strong cultural and historical ties with countries in the
+
+South Pacific. New Zealand’s constitutional obligations towards the Cook
+
+Islands, Niue and Tokelau all form part of the Realm of New Zealand. New
+
+Zealand also has a special relationship with Samoa. These links, and the
+
+potential for any adverse security situation to impact on New Zealand or
+
+
+-----
+
+3.64 Many Pacific states are seeking to broaden their potential support bases by forming
+
+links with countries beyond their existing traditional partners. New Zealand welcomes
+
+constructive international engagement in the region. However, it will continue to
+
+offer assistance, both in times of immediate need when it will be among the first to
+
+respond, and through its longer term capacity-building activities alongside Australia.
+
+###### Asia
+
+3.65 Beyond its relationship with China, New Zealand maintains defence relationships with
+
+countries across Asia.
+
+3.66 In South East Asia, New Zealand will maintain its significant links to Singapore
+
+and Malaysia, which are reflected through enduring bilateral relationships and its
+
+commitment to the Five Power Defence Arrangements (FPDA) alongside Australia and
+
+the United Kingdom.
+
+3.67 New Zealand continues to develop its defence links with other countries in the region
+
+through bilateral engagement as well as regional initiatives such as the Association
+
+of South East Asian Nations (ASEAN) Regional Forum and ASEAN Defence Ministers’
+
+Meeting Plus.
+
+3.68 Japan is an important defence partner for New Zealand, with common democratic
+
+values and a shared commitment to maintaining regional peace and security. New
+
+Zealand welcomes Japan’s recent moves to make a more proactive contribution to
+
+international security.
+
+3.69 New Zealand’s defence relationship with the Republic of Korea is long-standing,
+
+founded on strong historical ties dating back to New Zealand’s involvement in the
+
+Korean War. New Zealand continues to place high importance on supporting peace
+
+and stability on the Korean Peninsula, including through the deployment of New
+
+Zealand Defence Force officers to the United Nations Command Military Armistice
+
+Commission.
+
+###### New Zealand has a longstanding commitment to the Middle East
+
+3.70 New Zealand maintains a strong strategic interest in the Middle East given the
+
+disproportionate effect events in the region have on international security and the
+
+global economy.
+
+3.71 New Zealand seeks to play a constructive role in global efforts to deal with sources
+
+of tension and conflict in the region through targeted development assistance,
+
+diplomatic support for international negotiations and its bilateral relationships.
+
+New Zealand also has increasing economic and trading interests in the region.
+
+3.72 New Zealand’s defence interests in the Middle East are reflected in longstanding
+
+commitments, for example to the United Nations Truce Supervision Organisation.
+
+More recent contributions in Iraq and Afghanistan are also part of broader
+
+international efforts towards peace and stability in the region.
+
+3.73 The Middle East is becoming an increasingly challenging and higher threat
+
+environment for Defence Force deployments. This will not dampen New Zealand’s
+
+commitment to the region, nor to supporting the international rules-based order more
+
+generally. However, it does mean that the Government will carefully weigh the value
+
+of current and potential deployments against a range of factors, including the risk to
+
+New Zealand lives.
+
+
+-----
+
+###### Enduring links with Europe
+
+3.74 The European Union is New Zealand’s second-largest regional trading partner.
+
+Defence engagement with European countries is driven principally through links
+
+with the North Atlantic Treaty Organisation. These links have strengthened over the
+
+course of more than a decade of joint operations in Afghanistan as well as maritime
+
+security activities around the Horn of Africa. New Zealand engages regularly in
+
+broader security dialogue with the European Union and some of its member states,
+
+and contributes periodically to operations as part of the European Union’s Common
+
+Security and Defence Policy.
+
+3.75 Beyond these multilateral links, New Zealand cooperates closely with France and
+
+Australia in the South Pacific, through joint exercises, maritime surveillance and
+
+humanitarian and disaster relief activity.
+
+###### Maintaining New Zealand’s prosperity via secure sea, air and electronic lines of communication
+
+3.76 New Zealand is reliant on seaborne trade and the security and freedom of air and sea
+
+navigation for economic prosperity and wellbeing.
+
+3.77 Over half of New Zealand’s maritime trade passes through the South China Sea,
+
+which, over the coming decades, is likely to remain a contested environment, given
+
+regional tensions. There would be serious implications for trade routes, and New
+
+Zealand’s ability to service markets, should major instability occur in the region.
+
+3.78 International efforts to promote freedom of navigation, for example the counter
+piracy and maritime security operations around the Horn of Africa to which New
+
+Zealand has made consistent contributions, have proven effective. But the need to
+
+commit forces to such operations is likely to be enduring given the lack of progress
+
+towards addressing some of the underlying causes of piracy in the region.
+
+3.79 Freedom of overflight, and states’ perceptions of the extent to which this ought to
+
+be limited (or preserved), has also been tested in recent years. Regional reactions to
+
+China’s announcement of an Air Defence Identification Zone, covering most of the
+
+East China Sea, are one example of this.
+
+3.80 New Zealand’s prosperity extends to its ability to communicate and trade over
+
+electronic lines of communication. As New Zealand’s reliance on technology and
+
+information networks grows, efforts to protect this infrastructure from being
+
+exploited or disrupted will become increasingly important.
+
+###### Conclusion
+
+3.81 While unlikely to face a direct military threat over the next 25 years, New Zealand’s
+
+ability to protect and advance its national interests will face increasing pressure over
+
+the coming decades. The challenges associated with the shifts in the international
+
+strategic environment will shape the Government’s expectations of the roles and
+
+tasks the Defence Force must be prepared to undertake.
+
+
+-----
+
+-----
+
+# Chapter Four: Principal Roles for the New Zealand Defence Force
+
+###### The principal roles of the Defence Force reflect New Zealand’s values, national security interests, its understanding of the strategic environment and the strength of its international relationships.
+
+4.1 New Zealand’s decisions about military capability are grounded in a clear set of
+
+expectations about the roles and tasks the Defence Force is expected to undertake,
+
+where it will undertake them, and with whom.
+
+4.2 New Zealand’s immediate region, including the South Pacific, is a fundamental
+
+priority for the Government. However, areas beyond this are increasing in
+
+significance.
+
+###### Principal roles of the Defence Force
+
+4.3 The principal roles of the New Zealand Defence Force reflect New Zealand’s values,
+
+national security interests, and its understanding of the strategic environment. They
+
+also reflect the strength of its international relationships. They are therefore relatively
+
+enduring. The principal roles of the Defence Force are to:
+
+    - Defend New Zealand’s sovereign territory;
+
+    - Contribute to national resilience and whole of government security objectives;
+
+    - Meet New Zealand’s commitment as an ally of Australia;
+
+    - Support New Zealand’s civilian presence in the Ross Dependency of Antarctica,
+and participate in whole of government efforts to monitor and respond to activity
+in the Southern Ocean;
+
+    - Contribute to, and where necessary lead, operations in the South Pacific;
+
+    - Make a credible contribution in support of peace and security in the Asia-Pacific
+region;
+
+    - Protect New Zealand’s wider interests by contributing to international peace and
+security, and the international rule of law;
+
+    - Contribute to the advancement of New Zealand’s security partnerships;
+
+    - Participate in whole of government efforts to monitor the strategic environment;
+and
+
+    - Be prepared to respond to sudden shifts in the strategic environment.
+
+###### Defend New Zealand’s sovereign territory
+
+4.4 At a minimum, the government expects the Defence Force to maintain a level of
+
+capability sufficient to deter potential aggressors, enlarge its forces if required, and
+
+provide sufficient time to seek further help from its partners, should the need arise.
+
+
+-----
+
+4.5 Defending New Zealand’s sovereign territory (which includes the Cook Islands, Niue
+
+and Tokelau) also entails contributing to New Zealand’s border security and the
+
+protection of resources, for example through the maritime surveillance and patrol
+
+tasks the Defence Force undertakes. New Zealand needs a clear and accurate picture
+
+of what is occurring, particularly in its maritime domain, in order to allocate resources
+
+efficiently and undertake tasks effectively.
+
+###### National resilience and whole of government security objectives
+
+4.6 The Defence Force plays a role in domestic support and recovery following a natural
+
+disaster, and works with other agencies as part of their search and rescue, maritime
+
+border and resource protection efforts. These contributions are likely to become
+
+more important out to 2040.
+
+4.7 The Defence Force also contributes to the overall well-being of New Zealanders
+
+through the range of tasks it undertakes to assist civil authorities. These include
+
+supporting the New Zealand Police in its counter-terrorism activity (which could
+
+include bomb disposal) and the provision of logistic support for events of national
+
+significance.
+
+###### Meet New Zealand’s commitment as an ally of Australia
+
+4.8 New Zealand’s relationship with Australia, its closest partner, is reflected in the Closer
+
+Defence Relations mechanism, which brings together a suite of defence-specific
+
+agreements and arrangements. But the relationship is more than the sum of its parts.
+
+New Zealand sees Australia not only as an ally, but a close friend and confidante. New
+
+Zealand is therefore committed to:
+
+    - responding in the event of a direct military attack on Australia;
+
+    - promoting interoperability between the two militaries;
+
+    - developing relationships with the Australian Department of Defence and Defence
+Force at every level; and
+
+    - maintaining the levels of capability it needs to work with Australia as part of
+a coordinated response on regional security issues, or lead an independent
+operation in support of shared interests in the region.
+
+###### Support New Zealand’s civilian presence in the Ross Dependency of Antarctica, and participate in whole of government efforts to monitor and respond to activity in the Southern Ocean
+
+4.9 New Zealand has a direct interest in the stability of Antarctica and the Southern
+
+Ocean, including its preservation. The critical role played by the Defence Force in
+
+supporting New Zealand’s presence in the region is therefore reflected explicitly in
+
+this White Paper.
+
+4.10 The Antarctic Treaty System prohibits military activity in the Antarctica. However,
+
+through the logistics support the Defence Force provides to Scott Base, and to the
+
+United States and Italy via the Joint Logistics Pool, it contributes to the effectiveness
+
+of the New Zealand, United States and Italian Antarctic programmes.
+
+4.11 In addition to helping fulfil New Zealand’s international search and rescue
+
+coordination obligations in the Ross Sea of Antarctica, the Defence Force conducts
+
+
+-----
+
+maritime aerial surveillance patrols each Antarctica summer to detect and deter
+
+illegal, unregulated and unreported fishing. New Zealand’s naval offshore patrol
+
+vessels also conduct patrols to support fisheries inspections in the area, for example
+
+those undertaken by the Ministry for Primary Industries.
+
+###### Contribute to, and where necessary lead, operations in the South Pacific
+
+4.12 The Defence Force will continue to contribute to peace and security in the South
+
+Pacific. This reflects New Zealand’s historical links with, and constitutional obligations
+
+to, South Pacific countries, and an acknowledgement that instability could have an
+
+impact on New Zealand and the wider region.
+
+4.13 The means by which the Defence Force supports New Zealand government efforts in
+
+the region include:
+
+    - contributing to stability and support operations;
+
+    - contributing to international and whole of government development and capacity
+building efforts (for example supporting the professional development of defence
+and security forces); and
+
+    - assisting with maritime surveillance and search and rescue (for example working
+with other government agencies and New Zealand’s international partners to
+deter, monitor and report illegal fishing in the region).
+
+4.14 The Defence Force also plays an important role in whole of government disaster relief
+
+and recovery efforts in the South Pacific. This will remain a key requirement of the
+
+Defence Force, and is one that is expected to increase in the coming decades, given
+
+the forecast increase in frequency and intensity of natural disasters in the region.
+
+4.15 The economic, social, environmental and governance pressures that South Pacific
+
+countries continue to face indicate that it is also likely the Defence Force will have
+
+to deploy in support of a Pacific Island Forum member over the next ten years, for a
+
+response beyond humanitarian assistance and disaster relief.
+
+###### Support peace and security in the Asia-Pacific region
+
+4.16 Given New Zealand’s interests in the region, it is likely that the Government would
+
+consider a defence contribution to a wider international response should a conflict
+
+occur. However, New Zealand’s primary focus is on supporting regional peace and
+
+security by developing relationships with individual countries, and on participating in
+
+regional security mechanisms.
+
+4.17 In addition to exercising and training with regional armed forces, the Defence Force
+
+undertakes capacity building for militaries in the Asia-Pacific region through its
+
+Mutual Assistance Programme.
+
+4.18 The Defence Force also supports New Zealand’s efforts to uphold regional peace
+
+and security by being willing and able to assist in times of natural or humanitarian
+
+disasters.
+
+4.19 The Defence Force and Ministry of Defence participate in regional security
+
+mechanisms, of which the Association of South East Asian Nations forms the core.
+
+A range of countries beyond South East Asia, including China, the United States,
+
+India and Russia are members of the ASEAN Regional Forum. Since 2010, these
+
+arrangements have been strengthened with the establishment of the ASEAN Defence
+
+Ministers’ Meeting Plus.
+
+
+-----
+
+4.20 Both the ASEAN Regional Forum and the ASEAN Defence Ministers’ Meeting Plus
+
+help mitigate the risk of regional conflict by bringing states together, entrenching
+
+habits of dialogue and encouraging practical military cooperation on issues such as
+
+maritime security, disaster relief and counter-terrorism.
+
+4.21 New Zealand is also a longstanding member of the Five Power Defence
+
+Arrangements, and will meet its commitments should Malaysia or Singapore be
+
+subject to a military attack.
+
+4.22 Defence participation in these mechanisms also reflects other principal roles it is
+
+expected to fulfil, including the advancement of New Zealand’s security partnerships
+
+and contributing to the rules-based international order.
+
+###### As part of Operation Typhoon Haiyan, the Defence Force provided air logistic support to the Government of Philippines to support the New Zealand contribution to humanitarian assistance and disaster relief efforts coordinated and led by the Ministry of Foreign Affairs and Trade in November 2013.
+
+ Protect New Zealand’s wider interests by contributing to international peace and security, and the international rule of law
+
+4.23 New Zealand actively supports the rules-based international order through its
+
+support for institutions and arrangements that reinforce global stability, including the
+
+United Nations.
+
+4.24 New Zealand has a long history of contributing to a range of United Nations peace
+keeping operations and is serving a term on the United Nations Security Council
+
+from 2015-16. New Zealand’s contribution to the United Nations Truce Supervision
+
+Organisation, the United Nations Command Military Armistice Commission in the
+
+Republic of Korea and its more recent involvement in the United Nations operation in
+
+South Sudan all demonstrate its longstanding support.
+
+4.25 The Defence Force deployment to Afghanistan, contribution to multi-national counter
+piracy operations, and the international building partner capacity mission in Iraq are
+
+further tangible expressions of New Zealand’s commitment to international peace
+
+and security.
+
+4.26 Given continuing challenges to the rules-based international order, New Zealand
+
+expects to consider further contributions to international peace and security
+
+operations over the coming decades. While the exact nature of these operations is not
+
+yet known, Government decisions with respect to any New Zealand involvement will
+
+balance this country’s values, interests and international commitments with the likely
+
+risks the Defence Force would face.
+
+
+-----
+
+-----
+
+4.27 Modern conflict trends have implications for the conditions under which the Defence
+
+Force is likely to have to operate. It will need to cope with complex intelligence,
+
+planning, legal and operating demands. The threat faced by personnel, even as part
+
+of traditionally lower-threat peace support operations, is also likely to be higher than
+
+it was in the past.
+
+###### From September 2003, New Zealand took over command from the United States of the Provincial Reconstruction Team based in the Bamyan Province of Afghanistan. Over the subsequent decade, the Provincial Reconstruction Team provided the platform for a multi-agency, multi-national effort to support the reconstruction and development of Bamyan, one of Afghanistan’s most impoverished provinces. Over 3,500 Defence Force personnel deployed to Afghanistan – the vast majority through the Provincial Reconstruction Team. In total, ten New Zealanders died during this mission.
+
+ Contribute to the advancement of New Zealand’s security partnerships
+
+4.28 Many of New Zealand’s closest defence relationships have been forged by operating
+
+alongside other countries as far away as Afghanistan, and nearer to home in Timor
+Leste and Solomon Islands. Outside of this context, both the Defence Force and
+
+Ministry of Defence play a role, alongside the Ministry of Foreign Affairs and Trade
+
+and other agencies, in advancing New Zealand’s international security relationships.
+
+The nature and extent of these relationships vary, but many are characterised by a
+
+mix of engagement activities, which include:
+
+    - annual dialogues between senior government officials;
+
+    - exchanges of defence personnel;
+
+    - joint military exercises;
+
+    - high level visits; and
+
+    - information sharing.
+
+4.29 These country-to-country links are supplemented by a network of Defence Attachés
+
+and Defence Force staff who represent New Zealand overseas.
+
+###### Participate in whole of government efforts to monitor the international strategic environment
+
+4.30 The collection and assessment of intelligence, and the provision of diplomatic
+
+reporting, are important ways by which New Zealand builds its understanding of its
+
+strategic environment. It is an area in which Defence plays a role alongside other
+
+agencies. An awareness and understanding of the strategic environment is critical,
+
+as it determines New Zealand’s overall defence posture and in particular the defence
+
+capabilities in which the government chooses to invest.
+
+4.31 New Zealand’s partners also place great value on its ability to understand and
+
+therefore effectively respond to activity in its own environment.
+
+
+-----
+
+###### Be prepared to respond to sudden shifts in the strategic environment
+
+4.32 Major strategic shocks or shifts will continue to be part of the security
+
+landscape. The Defence Force therefore needs to have adaptable,
+
+innovative personnel; robust and resilient infrastructure; deployable
+
+combat-capable forces; and the ability to enlarge the Defence Force at
+
+relatively short notice if required. This should allow the Defence Force to
+
+absorb shocks and respond appropriately if required.
+
+###### Defence priorities
+
+4.33 The Government’s highest priority for Defence is its ability to be able
+
+to undertake tasks in New Zealand and its Exclusive Economic Zone,
+
+Antarctica and the Southern Ocean. Given New Zealand’s interests and
+
+obligations, the South Pacific is the next priority.
+
+4.34 In practice, this means that the Defence Force must be prepared to operate
+
+independently, or lead operations, in these areas if required. It also means
+
+that deployments beyond the immediate region should not undermine New
+
+Zealand’s capacity to respond to security crises closer to home.
+
+4.35 The strategic outlook suggests that events occurring outside of New
+
+Zealand’s immediate region and the South Pacific are having a greater
+
+impact on its interests. Deepening geostrategic competition in Asia, for
+
+example, has heightened the risk of conflict in this critical region. It is
+
+important that New Zealand is able to contribute Defence resources to
+
+operations beyond the immediate region if required.
+
+4.36 New Zealand’s Defence deployments beyond the South Pacific will most
+
+likely be as part of operations led by its partners, or as part of peacekeeping
+
+activities mandated by the United Nations. The ability to operate effectively
+
+with other defence forces, particularly Australia, will remain an important
+
+focus for the development of New Zealand’s military capability, and for
+
+many of its defence relationships.
+
+4.37 Recognising that there are likely to be growing demands on the Defence
+
+Force in the future, the government maintains a high level of discretion
+
+as to the size and nature of New Zealand contributions beyond the South
+
+Pacific.
+
+4.38 Government decisions related to whether the Defence Force should deploy,
+
+and what that contribution would consist of, are balanced by a range
+
+of considerations. These include, but are not limited to, New Zealand’s
+
+security interests, including the nature and extent of New Zealand’s
+
+relationships in the area, and the likely threat levels associated with the
+
+deployment.
+
+###### Conclusion
+
+4.39 Fulfilling its principal roles and tasks effectively means that the Defence
+
+Force must undertake a large array of tasks on land, at sea and in the air.
+
+These tasks range from providing support to other government agencies at
+
+home, to undertaking peacekeeping or combat operations further afield.
+
+
+-----
+
+**Members of the Royal New Zealand Navy Operational Dive Team during a multi-agency**
+
+
+-----
+
+# Chapter Five: Defence Force Capability
+
+###### To help it protect and advance New Zealand’s security interests, the Government needs a Defence Force that offers a range of credible deployment options, especially in relation to its core purpose of delivering armed forces ready for combat.
+
+5.1 Capability is the combination of equipment, platforms, infrastructure and people the
+
+Defence Force needs to perform its roles and tasks.
+
+5.2 The Defence Force is updating its mix of capabilities to cope with the realities of
+
+the strategic environment, and to enable it to operate across a broad spectrum of
+
+geographic and operating environments, and support its forces over large distances.
+
+5.3 Skilled personnel form the backbone of all Defence Force capabilities. The
+
+organisation’s efforts to attract, retain and develop high quality people are therefore
+
+detailed separately in the next Chapter.
+
+###### The Defence Force must be structured to meet the demands of the strategic environment
+
+ Updated capabilities
+
+5.4 The Defence Force is responding to changes in the international strategic
+
+environment during the last five years by updating its mix of capabilities, to
+
+strengthen its ability to maintain awareness of activities in areas of core interest, to
+
+better support New Zealand’s interests in Antarctica and the Southern Ocean, and to
+
+recognise the increasing cyber threat.
+
+5.5 The Defence Force plays a critical role in maintaining New Zealand’s awareness
+
+of activities in its Exclusive Economic Zone, the Southern Ocean and the South
+
+Pacific. The increasing number, range and sophistication of actors in these areas
+
+are generating corresponding increases in demand for maritime surveillance. The
+
+Defence Force therefore requires an air surveillance capability that will enable it to
+
+meet these demands in addition to providing surveillance support further afield.
+
+5.6 For the same reason, the Defence Force will also increase the number of intelligence
+
+personnel available to process, analyse and distribute the information collected
+
+from its surveillance capabilities. This will also assist the Defence Force to support
+
+operations overseas by providing actionable intelligence to military commanders.
+
+5.7 The Defence Force plays a role in supporting New Zealand’s interests in Antarctica
+
+and the Southern Ocean. It will therefore add an ice-strengthened vessel to its two
+strong fleet of offshore patrol vessels and ice-strengthen the planned replacement for
+
+the fleet tanker.
+
+
+-----
+
+5.8 The addition of a Littoral Operations Support vessel will enhance the Defence Force’s
+
+ability to support operations from the sea onto land, including diving, mine and
+
+other obstacle clearance, hydrography (mapping), and movement of personnel. The
+
+vessel will also increase the range of operations the Defence Force can undertake
+
+independently in the South Pacific, and add depth to its maritime surveillance and sea
+
+transport capabilities. The vessel would also provide an additional deployment option
+
+for international coalition operations.
+
+5.9 In the face of an increasing cyberspace threat, the Defence Force will develop a new
+
+cyber support capability to improve the protection of its networks.
+
+5.10 These updated capabilities will be developed to support the Defence Force’s existing
+
+suite of core capabilities described below.
+
+###### Defence Force capabilities
+
+5.11 The core components of the Defence Force’s current and planned mix of capabilities
+
+are broadly suited to the roles and tasks it is expected to undertake, and include:
+
+###### Combat capabilities
+
+5.12 Well trained and operationally prepared ground forces, including combat units,
+
+Special Operations Forces and Combat Support units such as engineers and artillery,
+
+provide effective ground combat capabilities which the government can deploy for a
+
+wide range of tasks, including tasks alongside partner defence forces.
+
+5.13 The ANZAC frigates and their integrated capability systems represent the only
+
+maritime force element capable of operating across the spectrum of operations,
+
+from constabulary and humanitarian tasks to combat roles as part of a multinational
+
+coalition. The frigates are also able to protect other vessels, such as logistical support
+
+ships. Work on options for the replacement of the frigates will begin well before they
+
+reach the end of their service life in the 2020s.
+
+5.14 Naval helicopters provide extended reach, surveillance and air-delivered weapon
+
+capabilities for the frigates.
+
+###### Deployable ground forces
+
+5.15 Ground forces may be required to deploy into hostile environments, so must
+
+be capable of combat tasks. They are also used for tasks such as humanitarian
+
+assistance, disaster relief or the evacuation of people.
+
+5.16 Ensuring personnel are equipped with up-to-date and effective weapons is a high
+
+priority for the Defence Force, and new individual weapons have now been brought
+
+into service.
+
+5.17 The Defence Force fleet of Light Armoured Vehicles provides firepower, manoeuvre
+
+and protection to ground forces. Work is well underway to consider how and to what
+
+extent this capability might be replaced, modernised and/or integrated with other
+
+forms of protected mobility in the future.
+
+5.18 The Defence Force is acquiring a combination of commercial and military vehicles
+
+to support its operational, logistics support and training needs as part of its Land
+
+Transport Capability Programme.
+
+
+-----
+
+###### Special Operations Forces
+
+5.19 New Zealand’s Special Operations Forces are trained and equipped to deploy across
+
+a range of operations, from long-range reconnaissance to domestic counter-terrorism
+
+and explosive ordinance disposal. Their high state of readiness means that Special
+
+Operations Forces lead times for deployment are very short compared to other parts
+
+of the Defence Force.
+
+###### Strategic projection and sustainment capabilities
+
+5.20 The ability to deploy forces across large distances, air and sea, into unstable and
+
+potentially hostile environments and sustain them once there, is crucial to the
+
+conduct of Defence Force tasks. The ability to respond quickly and effectively to
+
+humanitarian assistance and disaster relief situations is also important.
+
+5.21 The HMNZS Canterbury provides a sealift capability enabling the Defence Force to
+
+deploy personnel, vehicles, helicopters, ammunition and stores.
+
+5.22 The Naval Combat Force and other deployed assets are supported by a Maritime
+
+Sustainment Capability (currently the fleet tanker, HMNZS Endeavour) which carries
+
+supplies and fuel for the Defence Force and its partners. It can re-supply ships at
+
+sea or in overseas ports, enabling them to operate at greater distances than if they
+
+were operating alone. When combined with other capabilities it also offers options
+
+to government in terms of the sustainment of ground forces and humanitarian
+
+assistance and disaster relief missions. An ice-strengthened maritime sustainment
+
+capability will be acquired to replace HMNZS Endeavour.
+
+5.23 The Defence Force fields tactical and strategic airlift capabilities to support the
+
+movement of personnel and equipment. The C-130 Hercules provides a key airlift
+
+capability for the deployment of personnel and equipment for the Defence Force
+
+within New Zealand’s immediate region and further afield.
+
+5.24 Defence Force air transport capabilities enable it to support New Zealand’s interests
+
+in Antarctica, particularly through their contribution to the New Zealand, United
+
+States and Italian Antarctic programmes as part of the Joint Logistics Pool. The
+
+Government will take this important factor into account when it considers options to
+
+replace the air transport fleet in the future.
+
+5.25 Utility helicopters provide logistics support, including troop transport and
+
+sustainment. The NH90 medium utility helicopter provides the backbone of Defence
+
+Force tactical transport capability. The A109 helicopters provide a combined rotary
+
+wing pilot training and light transport capability to support a range of government
+
+agencies. The A109s also provide a source of support for counter-terrorism activities
+
+and Special Operations Forces.
+
+###### Command, Control, Computers and Communication, Intelligence, Surveillance and Reconnaissance
+
+5.26 Effective Command and Control supports the coordination of activity between
+
+the services and between the Defence Force and other government agencies.
+
+Intelligence, Surveillance and Reconnaissance capabilities allow the Defence Force to
+
+monitor and interpret the operational environment.
+
+5.27 The P-3 Orion surveillance and reconnaissance aircraft provide a wide area
+
+surveillance capability critical to maintaining awareness of New Zealand’s Exclusive
+
+
+-----
+
+Economic Zone and the Southern Ocean and the South Pacific. They also enable
+
+the Government to continue to offer a highly valued capability to international
+
+coalition operations. Work is currently underway to upgrade the Orions’ underwater
+
+intelligence, reconnaissance and surveillance capabilities, with the entire capability
+
+scheduled for replacement in the mid-2020s.
+
+5.28 The Defence Force’s fleet of patrol vessels is also an important component of its
+
+maritime intelligence, reconnaissance and surveillance capability in the immediate
+
+region and the South Pacific.
+
+5.29 A new Strategic Bearer Network will provide satellite communications support to a
+
+number of capabilities including the Orion aircraft and frigates.
+
+5.30 The Defence Command and Control System and Network Enabled Army are examples
+
+of projects underway that will better enable all three services to work together
+
+efficiently and effectively by enhancing their situational awareness.
+
+###### Working effectively as a Joint Taskforce
+
+5.31 Defence Force capabilities have traditionally been structured around its three
+
+services: the Navy, Army and Air Force, and can be deployed individually. However,
+
+the Defence Force is establishing a more integrated way of operating, with a number
+
+of capabilities maintained on a collective basis. Capabilities can be integrated into
+
+a joint taskforce or combined with the forces of other nations depending on the
+
+requirements of the task.
+
+###### From Antarctica to Iraq
+
+5.32 The capabilities described above must support the Defence Force to operate across a
+
+broad spectrum of geographic and operating environments.
+
+###### Operations within New Zealand’s immediate region and the South Pacific
+
+ Tropical Cyclone Winston struck Fiji in February 2016. Forty four people were killed and nearly 60,000 were forced into evacuation centres. To assist with the relief effort the Defence Force deployed two ships, six aircraft and close to 500 personnel, in New Zealand’s biggest peacetime deployment to the Pacific. HMNZS Canterbury, HMNZS Wellington, together with a P-3K Orion, a C-130 Hercules, a B-757 and a B200 King Air aircraft, and SH-2G Seasprite and  NH90 helicopters, were all involved in the relief effort. The Defence Force worked closely with the Ministry of Foreign Affairs and Trade, the Ministry of Health, the New Zealand Fire Service and relief agencies to help Fiji recover from the disaster.
+
+5.33 Maintaining the ability of the Defence Force to deploy within New Zealand and its
+
+immediate region is a fundamental priority for the Government.
+
+5.34 Within New Zealand, the Defence Force needs to maintain capabilities that allow it
+
+to contribute to New Zealand’s resilience to unforeseen events. This may include
+
+supporting domestic recovery efforts following a natural disaster, search and rescue,
+
+
+-----
+
+or working with the New Zealand Police as part of a counter-terrorism response. This
+
+type of activity involves high levels of coordination with other government agencies,
+
+and requires the Defence Force to maintain appropriate capabilities that can be
+
+deployed at short notice.
+
+5.35 In the South Pacific, it is critical that the Defence Force has the capabilities to manage
+
+a range of challenges, from contributing to disaster relief through to maritime
+
+surveillance and search and rescue efforts.
+
+5.36 In supporting New Zealand’s presence in Antarctica and undertaking patrol and
+
+surveillance tasks in the Southern Ocean, the Defence Force must be able to operate
+
+in unique environmental conditions.
+
+5.37 The Defence Force must be prepared to operate as part of a coordinated response
+
+with other government agencies, and New Zealand’s regional security partners. At
+
+times, this will require it to lead operations, or undertake tasks independently.
+
+###### Operations beyond the South Pacific
+
+ In support of the international effort against Islamic State of Iraq and the Levant (Daesh), New Zealand has committed to a joint mission with Australia to train units within the Iraqi Security Forces. Over two years from May 2015, rotations of up to 106 Defence Force personnel are being deployed to the Taji Military Complex, north of Baghdad.
+
+5.38 Defence Force operations beyond the South Pacific will most likely be part of New
+
+Zealand’s efforts to support the international rules-based order, and be undertaken as
+
+part of a United Nations mandated or international coalition force.
+
+5.39 Depending on the operation, New Zealand may make any number of different types
+
+of contribution, from undertaking combat roles, contributing to counter-piracy
+
+operations, capacity building activities (such as training), through to the provision of
+
+specialist expertise (for example engineering or peacekeeping).
+
+###### The Defence Force must be shaped to meet a range of demands
+
+5.40 Given its roles and tasks, and the demanding environments in which it will undertake
+
+them, the Defence Force exhibits certain characteristics. Its combat capability, its
+
+ability to operate over large distances and with close partners, the speed with which
+
+it must move its forces, and its ability to manage information are all considerations
+
+that should underpin the capability options Defence presents to the Government.
+
+###### Combat capable
+
+5.41 The core task of the Defence Force is to conduct military operations. The Defence
+
+Force maintains a range of combat capabilities to enable it to defend New Zealand’s
+
+sovereignty, meet its commitment to Australia, or respond to security events in the
+
+South Pacific. As a longstanding contributor to international peace and security, it is
+
+also likely that New Zealand would consider the use of the Defence Force for combat
+
+operations as part of an international coalition.
+
+
+-----
+
+5.42 To ensure that forces deployed overseas are able to carry out their missions
+
+effectively, the Defence Force needs the training and equipment commensurate with
+
+the level of threat likely to be faced in that environment.
+
+5.43 Personnel must also have access to the right amount of well-maintained equipment
+
+when it is needed. When operating as part of an international coalition, it is important
+
+that the Defence Force is able to make a meaningful contribution without having to
+
+seek basic forms of operating support from its partners.
+
+###### New Zealand Defence Force personnel are well-equipped to meet the challenges of the environments to which they are deployed. In 2011, personnel deploying to Afghanistan were provided with sophisticated equipment that had recently been brought into service, including advanced combat helmets, improved body armour and hearing protection, and handheld navigation devices.
+
+ Expeditionary
+
+5.44 The Defence Force must be sufficiently self-reliant so that it can conduct independent
+
+operations in and around New Zealand, its maritime zone and in the South Pacific.
+
+5.45 New Zealand’s national security interests extend well beyond its territorial waters.
+
+It needs a Defence Force able to operate far from its shores, to move forces, the
+
+personnel and equipment of other government agencies, or coalition forces (often at
+
+short notice) to where they are needed and then sustain them once there.
+
+5.46 An ability to operate in this way also enables the Defence Force to effectively support
+
+activities within New Zealand.
+
+###### Interoperable
+
+5.47 Most New Zealand Defence Force deployments will be undertaken alongside other
+
+government agencies and New Zealand’s international partners. It is therefore critical
+
+for the Defence Force to maintain and develop capabilities that support it to operate
+
+effectively with others. This involves developing complementary capabilities as
+
+appropriate, ensuring mutual familiarity (developed through personnel exchanges
+
+and exercising), and the compatibility of communications and command and control
+
+systems.
+
+###### Agile
+
+5.48 The speed with which the Defence Force is able to shift its forces into (or within) an
+
+area may be critical to the success of an operation. Maintaining agility is also relevant
+
+to capability and equipment, which must have sufficient flexibility to be used for
+
+a wide range of tasks, and to Defence procurement, which must adapt quickly to
+
+changing operational requirements and keep pace with advances in technology.
+
+###### Information-led
+
+5.49 Managing and effectively utilising information is fundamental to Defence Force
+
+operations. The Defence Force needs to be able to gather, analyse, then disseminate
+
+information to the right people including other government agencies at the right time
+
+
+-----
+
+###### A Defence Force structured to meet future challenges
+
+5.50 Drawing on the core and new capabilities described above, New Zealand will maintain
+
+a Defence Force able to undertake its prescribed roles and tasks:
+
+
+-----
+
+-----
+
+###### The Defence White Paper provides the starting point for developing Defence capabilities
+
+5.51 The capabilities that make up the force structure described in this White Paper
+
+will be described in further detail in an updated Defence Capability Plan, to be
+
+released in mid-2016.
+
+5.52 Specific investment cases for these capabilities will be developed on an
+
+individual basis as projects for consideration by government. These projects
+
+will be guided by the Government’s Capital Asset Management regime and be
+
+subject to the application of formal Better Business Case principles.
+
+5.53 Business cases will be grounded in current Defence policy and set out the
+
+range of geographical and threat environments in which a proposed capability
+
+is likely to deploy, and the relevant roles the Defence Force is expected to
+
+undertake.
+
+###### Conclusion
+
+5.54 The current and planned mix of defence capabilities described in this Chapter
+
+will ensure the Defence Force is well-positioned to cope with a range of
+
+contemporary strategic challenges.
+
+
+-----
+
+-----
+
+# Chapter Six: Generating a Skilled and Sustainable Workforce
+
+###### In addition to reviewing the way in which it recruits, trains and supports its people, the Defence Force is also undertaking work to ensure it can deliver a sustainable and affordable workforce.
+
+6.1 The value of New Zealand’s Defence Force personnel extends beyond their ability
+
+to conduct military operations. They are renowned for their resilience, adaptability,
+
+professionalism and integrity. They are highly regarded by New Zealand’s
+
+international partners for their ability to work among culturally diverse populations,
+
+across a range of environments.
+
+6.2 The capabilities described in this White Paper cannot be delivered or deployed
+
+without the support of trained and committed military and civilian personnel.
+
+6.3 The Defence Force must attract and retain a committed workforce with sophisticated
+
+skills in demand across the wider labour market. At the same time, it needs to recruit
+
+personnel from an increasingly diverse New Zealand demographic.
+
+###### Defence Force personnel work within a unique context
+
+6.4 The Defence Force is comprised of full time military personnel, reserve forces and
+
+civilians. Uniformed personnel are not subject to New Zealand employment legislation
+
+and are required to serve, rather than being employed by the Defence Force.
+
+6.5 It takes many years to develop personnel with the skills, experience and ethos needed
+
+to meet the demands of service. Serving personnel can be required to perform their
+
+duties in potentially life-threatening situations. They may be deployed at very short
+
+notice, and expected to spend long periods away from family in harsh conditions.
+
+Personnel serving in today’s Defence Force need to be combat ready. They must also
+
+be able to build trust, negotiate, reduce tension in volatile situations and cope well
+
+with ambiguity.
+
+6.6 To fulfil the roles set for the Defence Force by Government, the Chief of Defence Force
+
+may place uniformed personnel in harm’s way. In return for this service, the Chief
+
+of Defence Force has an obligation to provide for the physical and mental wellbeing
+
+of those sailors, soldiers, airmen and airwomen during - and beyond - their active
+
+service. This obligation includes developing and appropriately rewarding Defence
+
+Force personnel as they progress through their careers.
+
+
+-----
+
+###### Recruitment
+
+ To ensure it reflects contemporary New Zealand society, the Defence Force needs to reach the widest possible pool of potential candidates.
+
+ Increasing diversity
+
+6.7 The Defence White Paper 2010 was clear that the Defence Force should be valued
+
+by all New Zealanders not only for what it does but also because it reflects
+
+contemporary New Zealand society. This remains true today. A diverse Defence Force
+
+will also be more attractive to, and more likely to retain, the widest possible pool of
+
+potential recruits.
+
+6.8 Defence Force personnel are renowned for their ability to work well in different
+
+cultural environments. Increasing the organisation’s diversity will augment this
+
+ability, and ensure it is even better positioned to engage with a range of populations
+
+as part of its operations.
+
+6.9 In the past 15 years there has been substantial progress toward achieving gender
+
+equity in the Defence Force. But women are still under-represented in the Defence
+
+Force. A programme of action, More Military Women, is now underway to improve
+
+recruitment, retention and career development of women in the Defence Force.
+
+6.10 These efforts demonstrate New Zealand’s support for United Nations-led initiatives
+
+related to the participation of women at all levels of peace and security governance,
+
+and to the protection of the rights of women in conflict situations.
+
+6.11 Beyond its work on the More Military Women programme, the Defence Force is also
+
+seeking ways to attract personnel from a variety of ethnic backgrounds, consistent
+
+with its intention that the military reflects the ethnic composition of New Zealand.
+
+###### The Defence will continue its lateral hiring approach
+
+6.12 To support recruitment, the Defence Force will also continue to encourage civilian
+
+and military personnel who are mid-career in other organisations to join. This
+
+includes recruits from New Zealand’s wider national security workforce with existing
+
+security clearances.
+
+###### Candidate care
+
+6.13 Ensuring that it is able to attract talent from the broadest possible pool will remain
+
+important for the Defence Force, which has made a significant investment in reaching
+
+potential candidates in recent years. However, another important area of focus for the
+
+period ahead will be on effectively supporting candidates as they progress through
+
+the recruitment process.
+
+
+-----
+
+###### Retaining quality personnel
+
+ In order to retain personnel, the Defence Force must offer career development opportunities and support for personnel during those periods where the risk of attrition is greatest. It must also be able to offer an appropriate degree of support to personnel and their families.
+
+ Career progression
+
+6.14 Senior military personnel must demonstrate strong operational and organisational
+
+leadership and management.
+
+6.15 To support personnel to enhance these skills, the Defence Force will continue
+
+investing in learning and development, an area in which its reputation is already
+
+strong. The quality of the training offered by the Defence Force Institute for Leader
+
+Development is recognised outside of Defence, and is now also being sought by other
+
+government agencies.
+
+6.16 The Defence Force will also work with its partners in the public sector to normalise
+
+secondments of its personnel to other agencies, and ensure these are counted as
+
+positives in the promotion process.
+
+6.17 The Defence Force will also provide its civilian staff with a career management
+
+regime that identifies and develops personnel with high potential in accordance with
+
+State Services Commission guidelines.
+
+###### Safety and support of personnel
+
+6.18 The Defence Force will continue to invest in the health, safety and overall care it
+
+provides its personnel.
+
+###### Health and safety
+
+6.19 As a military organisation, the Defence Force by necessity engages in a range of high
+
+risk activities. However, in recent years the tragic deaths of Service personnel in non
+operational accidents have called into question the ability of the Defence Force to
+
+provide a safe and healthy workplace for those for whom it has responsibility.
+
+6.20 In 2013, an externally-conducted review of Defence Force safety management made
+
+a series of recommendations in relation to Defence Force health and safety culture,
+
+the identification and management of health and safety risks, the recording and
+
+investigation of incidents, and health and safety governance.
+
+6.21 In response to this review, the Defence Force established a new safety management
+
+system requiring more consistent safety reporting, monitoring and assurance
+
+practices.
+
+6.22 There is further work being done by the Defence Force, particularly with respect to
+
+health and safety reporting. Third party and contractor relationships also require
+
+more comprehensive safety monitoring and assurance.
+
+6.23 Government expects the Defence Force to continue to take the safety of its
+
+uniformed, civilian and contract staff seriously. Health and safety management, and
+
+in particular the reduction of workplace injuries, will therefore remain a critical area of
+
+
+-----
+
+###### In 2013, an independent external review of the Defence Force’s health and safety framework found that while good practice was being followed in many parts of the Defence Force, broader change was required to ensure this was replicated across the organisation. The Defence Force accepted the review recommendations and began using them to both strengthen good practice and guide the implementation of necessary changes. A new Defence Force Safety Management System will be operational by mid 2016.
+
+ Pastoral Care
+
+6.24 The Defence Force provides pastoral care for personnel, which includes physical and
+
+mental health services, including chaplaincy, organisational psychology, community
+
+liaison and social workers. Pastoral care also extends to measures taken to reduce the
+
+risk of harassment, bullying and sexual assault.
+
+6.25 Since the last Defence White Paper, the Defence Force has increased its anti
+harassment and anti-bullying efforts. In partnership with other government agencies,
+
+it also launched a family violence awareness campaign.
+
+6.26 The Defence Force will undertake further work to supplement this progress, focussing
+
+on a multi-pronged approach that starts with improved education and awareness;
+
+provides better access to advice and support for victims; and enhances accountability
+
+at all levels for reducing the instances of poor behaviour.
+
+###### Accommodation
+
+6.27 The Defence Force is reviewing its personnel accommodation assistance policy.
+
+While the review has not been finalised, the provision of accommodation assistance
+
+will be fiscally responsible, be applied consistently and transparently, and will be
+
+provided for personnel where there is a demonstrable need and a clear benefit to
+
+operational effectiveness.
+
+###### Retention and return on investment in trade training
+
+6.28 The optimal return on investment associated with military trade training tends to be
+
+realised at the seven to ten year mark. However this can also coincide with the period
+
+where the risk of attrition is usually greatest, when an individual may be starting
+
+a family and remuneration is of greater relevance than ever. New initiatives are
+
+therefore required to encourage personnel to remain with the Defence Force during
+
+and beyond this sensitive period.
+
+###### A strategic approach to workforce management
+
+6.29 The Defence Force will need to be flexible enough to recruit and retain personnel
+
+with the right mix of skills and experience, in the right numbers, as the strategic
+
+environment evolves. At the same time it will need to balance continuing affordability
+
+pressures.
+
+
+-----
+
+6.30 Defence Force attrition rates have reduced significantly since their peak in 2013,
+
+however this has added to the cost of the workforce. This emphasises the need for
+
+a strategic approach to personnel management in order to deliver a sustainable and
+
+affordable workforce.
+
+6.31 Defence will undertake further work to confirm the size and shape of the workforce
+
+it requires to deliver the capabilities described in this White Paper, and to confirm its
+
+workforce structure and force generation model. Defence will also confirm its long
+term remuneration system and strategy while taking account of the requirement,
+
+under the Defence Act 1990, for the Chief of Defence Force to maintain a degree of
+
+relativity with remuneration received elsewhere, and to be fair to members of the
+
+Defence Force and the taxpayer.
+
+###### Youth development and Cadet Forces
+
+6.32 New Zealanders signalled their strong support for Defence Force involvement in
+
+youth development during the Defence White Paper public consultation process.
+
+6.33 The Defence Force supports programmes led by other agencies focussed on
+
+improving outcomes for at-risk youth, and has delivered a programme for cadets for
+
+over 150 years.
+
+6.34 The cadet programme will be updated to reflect more modern duty of care
+
+requirements and professional teaching practices. Rather than teaching military
+
+discipline it may be more appropriate for the Defence Force to build on its well
+recognised skills in leadership development.
+
+###### Support for Veterans
+
+6.35 Veterans’ Affairs is an operational unit within the Defence Force. The role of Veterans’
+
+Affairs is to ensure veterans are able to access the services they need to support
+
+them in their everyday lives.
+
+6.36 The last White Paper signalled that new legislation that better provided for the
+
+needs of veterans would likely replace the War Pensions Act 1954. The subsequently
+
+enacted Veterans’ Support Act 2014 provides for a more holistic approach to
+
+supporting veterans. While service-related healthcare needs will remain an important
+
+focus, the social and work-related needs of veterans will also be taken into account.
+
+6.37 The current support regime will be extended to enable veterans to maintain their
+
+independence in their homes. Veterans’ Affairs will also take a more active role in
+
+vocational rehabilitation for veterans who are unable to continue with their current
+
+defence career – whether they are taking on a new role within the Defence Force, or
+
+seeking opportunities outside of the organisation.
+
+###### Conclusion
+
+6.38 To meet the challenges of an evolving strategic environment, the Defence Force
+
+must continue to modernise its workforce by recruiting and retaining people with
+
+diverse skills, many of which will be in high demand elsewhere. It must balance these
+
+requirements with the need to remain affordable in the long term.
+
+
+-----
+
+-----
+
+# Chapter Seven: Affordability
+
+###### Defence will adapt to meet the challenges associated with an evolving strategic environment while remaining sustainable.
+
+7.1 Defence is working to meet the Government’s expectation that public service
+
+agencies collaborate to get results and manage their overall affordability. Given
+
+the long term nature of investment decisions in military capability and the costs
+
+associated with such decisions, Defence faces a particular challenge in this regard.
+
+7.2 Defence will continue to acquire new and more sophisticated equipment and
+
+platforms. It must also continue to attract and retain personnel with the sophisticated
+
+technical skills required to design, deliver and operate those platforms.
+
+7.3 Defence, working with central agencies, must therefore manage these pressures and
+
+balance ongoing tensions between Defence policy, capability and long-term funding.
+
+###### From a focus on savings to a strategic portfolio approach
+
+7.4 A key challenge for most defence forces is to provide governments with assurance
+
+that they can both deliver capability and remain affordable. This challenge has driven
+
+much of Defence’s organisational effort since the last Defence White Paper.
+
+7.5 The Defence White Paper 2010 directed that the Defence Force manage its
+
+affordability by meeting ambitious savings targets linked to a range of organisational
+
+reforms.
+
+7.6 In 2009 an externally-led Value for Money Review of the Defence Force identified
+
+opportunities to improve the organisation’s efficiency and effectiveness. The Defence
+
+White Paper 2010 reinforced the findings of that Review and directed the Defence
+
+Force to reduce expenditure in the middle and back of the organisation to free up
+
+money for investment in front line capabilities.
+
+7.7 The Defence Force responded by initiating a major Savings and Redistribution
+
+Programme that enabled it to realise savings of over $200m per annum for
+
+redistribution to frontline capabilities.
+
+7.8 However, the Defence White Paper 2010 also signalled that additional capital and
+
+operating funding would be needed. The Savings and Redistribution Programme
+
+made this requirement more affordable, but did not eliminate the need for new
+
+money over time.
+
+7.9 This led to further work to balance the Government’s aspirations for the Defence
+
+Force and the military capabilities and funding required to meet them.
+
+
+-----
+
+###### The Defence Mid-Point Rebalancing Review
+
+7.10 In 2013, the Defence Force and Ministry of Defence undertook a Defence Mid-Point
+
+Rebalancing Review (the Review). The Review enabled Defence, supported by
+
+central agencies, to systematically cost and prioritise the complete set of capabilities
+
+required to deliver on the Government’s defence policy set out in the Defence White
+
+Paper 2010.
+
+7.11 As a result of this advice, the Government agreed on an indicative funding track that
+
+provided for annual increases in the Defence Force budget to allow it to grow its
+
+personnel and maintain a breadth of capability out to 2030.
+
+7.12 The Review underscored the value of applying a strategic, portfolio approach
+
+to major Defence projects. This approach enables Defence to better support
+
+Government decisions about major defence expenditure, by clearly identifying the
+
+impact of trade-offs, dependencies between individual projects, and the total cost of
+
+capabilities over the longer term.
+
+###### A systematic approach to long term policy, capability and funding
+
+7.13 The portfolio approach and associated review processes now form part of a
+
+five-yearly cycle of strategically-focussed Defence activity that includes Defence
+
+Assessments, White Papers, and mid-point reviews.
+
+7.14 The Ministry of Defence leads the development of Defence Assessments, with
+
+support from the Defence Force and other agencies. Defence Assessments analyse
+
+changes in the international strategic environment and their possible implications
+
+for New Zealand’s national security interests, Defence policy and the capabilities
+
+required by the Defence Force to fulfil its roles and tasks. Defence Assessments
+
+provide the basis upon which Defence can re-test its policy and capability
+
+requirements, and inform the development of a Defence White Paper. The Ministry
+
+is now embedding its assessment function further, by conducting additional work
+
+between formal Defence Assessments to take account of emerging and evolving
+
+security challenges.
+
+7.15 The Defence White Paper process enables an agency-wide perspective to be applied
+
+to the review of Defence policy requirements and the associated capabilities required
+
+to meet Government’s expectations.
+
+7.16 Defence has also adopted the use of mid-point reviews between Defence White
+
+Papers to assess the affordability of capability investment options.
+
+7.17 Ahead of another Defence White Paper in five years’ time, Defence will conduct a
+
+mid-point review in 2018 looking out to 2035 and a formal Defence Assessment.
+
+
+-----
+
+###### Measures to support Defence Force affordability
+
+7.18 Alongside the work outlined above, Defence is also working with other government
+
+agencies to improve the management and sustainability of investment in military
+
+capability.
+
+7.19 Defence is working with other government agencies to formalise a process for
+
+updating and reviewing its assumptions related to a range of external factors that
+
+have a heavy influence on forecasting costs. This includes foreign exchange rates and
+
+the increasing cost of military technology. Accurately forecasting the impact of such
+
+factors is critical to providing up-to-date estimates of future costs.
+
+7.20 Defence is also working with the Treasury to adopt a more agile approach to
+
+managing the total capability investment in the face of some variables, including
+
+changes in asset value and the timing of investments.
+
+
+-----
+
+-----
+
+# Chapter Eight: Organisational Change
+
+###### The Ministry of Defence and Defence Force will continue to collaborate to get results, remain fit for purpose, and meet the Government’s requirements in the longer term.
+
+8.1 The Defence White Paper 2010 set out the Government’s expectation that the Defence
+
+Force and Ministry of Defence operate efficiently as two separate organisations,
+
+in addition to working effectively together. The White Paper identified areas for
+
+change in the organisational management of the Defence Force. It also set out areas
+
+where both organisations could work more closely together, focussing on capability
+
+management.
+
+8.2 The Defence Force has since improved its organisational efficiency and effectiveness,
+
+in particular by overhauling its governance and accountability mechanisms. It is also
+
+developing its relationships with partners across the public and private sector. At the
+
+same time, the Ministry of Defence is transforming itself into a stronger partner for
+
+the Defence Force.
+
+8.3 The delivery of capability is a critical area of collaboration for the Defence Force and
+
+Ministry of Defence, and one where further work is required in the coming years.
+
+###### A fit for purpose Defence Force and Ministry of Defence
+
+ Towards an integrated Defence Force
+
+8.4 In response to the Defence White Paper 2010, the Defence Force developed an
+
+organisational strategy to help it meet the Government’s policy requirements.
+
+8.5 Since then, the Defence Force has made important progress towards its goal of
+
+integration by 2035, particularly with respect to its operations. The Defence Force has
+
+demonstrated its ability to operate as a Joint Task Force. In practice this means the
+
+Defence Force is effectively able to bring together and leverage the capabilities of the
+
+individual Services to achieve its aims in an operational environment.
+
+8.6 The work undertaken by the Defence Force to improve its organisational structures
+
+and processes since 2010 also supports its broader goal of integration.
+
+###### Defence Force organisational management has strengthened since 2010
+
+8.7 The Defence Force has made a number of improvements to its management structure
+
+consistent with the direction set out in the last White Paper.
+
+8.8 The appointment of a Chief Operating Officer provided senior and experienced
+
+civilian support for the management of the Defence Force, and helped drive the
+
+reforms needed to redistribute savings to front-line capabilities as part of the Savings
+
+and Redistribution Programme.
+
+
+-----
+
+8.9 The Defence Force has now moved beyond this Programme, and has further refined
+
+the Chief Operating Officer portfolio. Some of the functions overseen by the Vice
+
+Chief of Defence Force were transferred to other portfolios, strengthening the Vice
+
+Chief’s ability to deputise for the Chief of Defence Force.
+
+8.10 Three separate leadership portfolios have now been established that introduce
+
+clearer lines of accountability and better reflect the organisation’s priorities. Working
+
+alongside the Vice Chief of Defence Force and Chief Financial Officer, and directly
+
+accountable to the Chief of Defence Force, these portfolios are:
+
+- the Chief of Defence Strategy and Governance, who provides a single point of
+
+accountability to the Chief of Defence Force for strategy development, governance,
+
+performance monitoring and improvement;
+
+- the Chief Joint Defence Services, who leverages the benefits of integrated Defence
+
+Force functions such as logistics, communications and information technology,
+
+health, security and military policing and knowledge and information management.
+
+The role is also responsible for integrating the support provided by Defence’s national
+
+and global commercial partners; and
+
+- a Chief People Officer, who takes a strategic approach to the recruitment, retention
+
+and development of Defence Force military and civilian personnel.
+
+8.11 Supported by the recently established New Zealand Defence Force Board, portfolio
+
+leaders will, in the coming years, need to work together to carefully prioritise Defence
+
+Force activity and align this to a single organisational plan. They will also play a
+
+critical role in translating this plan into objectives that are clearly understood by and
+
+resonate with personnel across the organisation.
+
+###### Effectiveness and efficiency are a part of everyday Defence practice
+
+8.12 To enable it to continue making the best use of existing resources, the Defence Force
+
+is implementing a range of initiatives. These include:
+
+- the evolution of Defence Force logistics, including the piloting of an equipment
+
+pooling and management model enabling the Defence Force to realise the financial
+
+benefits associated with a consolidated equipment inventory;
+
+- modernising and where appropriate replacing ageing parts of the Defence Estate and
+
+improving its management; and
+
+- the outsourcing and use of commercial ‘off the shelf’ products and services where
+
+appropriate, particularly with respect to communications and information systems.
+
+8.13 The Defence Force has also implemented a programme that encourages personnel at
+
+all levels to identify opportunities to improve the efficiency and effectiveness of their
+
+immediate business areas.
+
+8.14 The Defence Force must place a high priority on continuously improving its
+
+effectiveness and efficiency, and to make such considerations a part of its everyday
+
+practice.
+
+###### The Defence Force is becoming a more effective and valued partner
+
+8.15 Challenges to New Zealand’s security interests cut across agency boundaries.
+
+The Government expects the Defence Force to work closely with other agencies,
+
+
+-----
+
+and in particular the Ministry of Defence, to contribute to policies related to New
+
+Zealand’s national security and to the prioritisation and management of its defence
+
+relationships.
+
+8.16 The Defence Force must also coordinate its outputs, regular activities and proposed
+
+investments with other agencies to ensure they can be clearly linked to Government
+
+policy and national security priorities.
+
+8.17 Consistent with the direction set by the last Defence White Paper, the Defence Force
+
+is building partnerships with industry. The Defence Force continues to investigate
+
+alternative ownership and management models where these are appropriate,
+
+including public-private partnerships. The delivery of Defence Force facilities
+
+management services, for example, is now supported by a range of industry and
+
+commercial partners.
+
+8.18 The Defence Force also maintains strategic alliances with a range of industry partners
+
+to support its work, including the maintenance of ships and aircraft. These alliances
+
+will assume greater importance in the coming years as the Defence Force replaces its
+
+major capabilities.
+
+###### The Ministry of Defence
+
+8.19 Since 2010 the Ministry of Defence has sharpened its purpose and strategic direction
+
+to ensure it remains sustainable and resilient.
+
+8.20 In Budget 2015, the Ministry received a significant increase in operational funding,
+
+which it is now using to strengthen its capability development and delivery functions.
+
+8.21 The Ministry of Defence now shares some back office arrangements with the Defence
+
+Force and its sector partners. This helps the Ministry to manage its small size, but
+
+also reinforces its more integrated way of working. The Ministry has invested the
+
+savings from these initiatives in policy advice, capability development, and capability
+
+acquisition activity to bolster its capacity.
+
+8.22 As directed in the last White Paper, the Ministry has also shifted the focus of
+
+its Evaluation Division from one of mainly performance audit to analysis and
+
+improvement of Defence functions, particularly in areas of greatest priority and risk.
+
+8.23 The success of the Ministry of Defence depends on the work it does with its partners,
+
+primarily the Defence Force, but also other agencies in the broader external and
+
+security sector. The Ministry is therefore working with its security sector partners in
+
+a more consistent, integrated way across a range of areas, including the delivery of
+
+policy advice and workforce talent and career management.
+
+###### Delivering Defence capability
+
+ Capability governance
+
+8.24 The Defence White Paper 2010 sets out the formal accountabilities of the Chief
+
+of Defence Force and Secretary of Defence with respect to the whole-of-life
+
+management of capabilities.
+
+8.25 The Secretary of Defence ordinarily leads and is accountable for strategic policy,
+
+defining what capability is needed to meet government objectives and the purchase,
+
+replacement or upgrade of defence capability.
+
+
+-----
+
+8.26 The Chief of Defence Force ordinarily leads and is accountable for the introduction
+
+into service, in-service and disposal of capability.
+
+8.27 While they have separate formal accountabilities, the Secretary of Defence and
+
+Chief of Defence Force ensure their organisations collaborate closely to identify and
+
+address any problems that arise with respect to capability, from the earliest stages of
+
+the development of a capability through to its eventual disposal.
+
+8.28 The Chief Executives exercise their responsibilities with respect to capability through
+
+the Defence Capability Management Board, established following the last Defence
+
+White Paper. The Board is co-chaired by the Secretary of Defence and the Chief of
+
+Defence Force. Supported by subordinate Capability Steering Groups, the Capability
+
+Management Board also draws from the expertise of independent civilian members.
+
+###### Capability delivery
+
+ Pilot Training Capability To manage a broadening of the scope of the original Pilot Training Capability project, the Capability Management Board agreed that different aspects of the project including aircraft, simulation and through-life support should be tendered at the same time. This was the first Defence project to see the simultaneous signing of both acquisition and support contracts, involving both international and local industry. All eleven training aircraft have now been delivered and accepted into service and the new training facility, including aircraft simulators, has been completed, all within budget and ahead of schedule.
+
+8.29 Defence has enhanced its capability management structures and processes since
+
+2010. This has supported the procurement of equipment and platforms of good
+
+quality, at the contracted price, and their introduction into service for operation by
+
+well-trained people.
+
+8.30 But this does not signal an end to Defence efforts to mature its delivery of capability.
+
+8.31 In 2015, Government invested in the Ministry of Defence to expand its acquisition and
+
+capability development functions. This investment is assisting the Ministry to build
+
+its capacity to deliver on the significant programme of projects planned out to 2030.
+
+This will include the replacement of three major capabilities that will reach the end of
+
+their life during this period: the Hercules transport aircraft, the Orion air surveillance
+
+fleet and the frigates HMNZS Te Kaha and HMNZS Te Mana.
+
+8.32 The Defence Force and Ministry of Defence are also undertaking a joint programme of
+
+work to improve the delivery of planned investments, and lift the overall performance
+
+of the capability management system. A key measure of success in this area will be
+
+the Government’s degree of confidence in the management of Defence capability,
+
+reflected by the Investor Confidence Rating achieved by Defence.
+
+
+-----
+
+8.33 Over the next four years, this work will focus on the following key areas:
+
+###### Enhancing the portfolio approach
+
+8.34 The ability to forecast the likely cost of capabilities as early as possible is critical to
+
+effective planning and to ensuring the Government has the information it needs to
+
+make effective choices. Defence will therefore:
+
+    - undertake further work to ensure it has reliable whole-of-life cost and schedule
+information that can be refined over time to enable sound decision-making. This
+will be supported by improved forecasting and the regular delivery of Long Term
+Investment Plans that set out Defence investment priorities and how they will
+occur to support delivery of the Government’s policy objectives; and
+
+    - review the functions that support Defence portfolio, programme and project work,
+with the aim of improving the quality of support for project delivery.
+
+###### Better project and programme management
+
+8.35 Defence capability projects are large and complex and need to be governed with a
+
+high level of skill and an appropriate degree of oversight. Defence will therefore:
+
+    - strengthen the management and executive oversight of projects and programmes.
+It should also ensure people with the appropriate expertise are engaged early in
+project and programme analysis, planning and implementation; and
+
+    - improve the monitoring and analysis of project and programme risks and benefits.
+
+###### Partnering with industry
+
+8.36 It was clear from the White Paper public consultation process that industry partners
+
+want Defence to give further consideration to how it engages with industry, and in
+
+particular how and when it incorporates their advice into its planning.
+
+8.37 Defence is committed to strengthening its relationships with industry and will
+
+increase its information-sharing and collaboration with industry partners. It will
+
+explore ways to communicate the Government’s long term intentions with respect to
+
+defence capability more openly and specifically, for example through the release of
+
+Defence Capability Plans more tailored to industry needs.
+
+8.38 As part of its planned enhancements to its capability delivery, Defence will
+
+also develop the sophistication and consistency of its whole-of-life costing and
+
+communicate its expectations to industry more clearly.
+
+8.39 Defence capability development, delivery and procurement practices and processes
+
+will be enhanced to optimise the involvement of New Zealand industry.
+
+###### Conclusion
+
+8.40 Both the Defence Force and Ministry of Defence have made significant progress
+
+since the last Defence White Paper was published. In addition to strengthening
+
+organisational management and efficiency, both organisations have established a
+
+stronger clarity of purpose and collaborate more effectively, particularly with respect
+
+to capability delivery. In the coming years, both organisations will need to continue
+
+in this direction. A critical area of focus will be on undertaking the work required to
+
+ensure Defence is well-positioned to manage an approaching period of significant
+
+capability investment.
+
+
+-----
+
+-----
+
+# Chapter Nine: Regenerating the Defence Estate
+
+###### The planned regeneration of the Defence Estate reflects the efforts of the Defence Force to enhance its overall affordability and effectiveness.
+
+9.1 The Defence Estate is a strategic asset, providing the infrastructure, facilities and
+
+training areas required to generate and maintain the capabilities described in earlier
+
+chapters.
+
+9.2 The Defence Estate is maintained on behalf of government by the Defence Force. It is
+
+comprised of approximately 81,000 hectares and 5,000 buildings across nine camps
+
+and bases, two large training areas and a number of regional support facilities, with a
+
+2015 infrastructure replacement value of $2.8 billion. The Estate is also used by other
+
+government agencies, including the New Zealand Police and New Zealand Customs
+
+Service.
+
+###### Regenerating the Defence Estate
+
+9.3 The last Defence White Paper noted that much of the Defence Estate was facing
+
+a risk of rapid deterioration, and set out the Government’s expectation that work
+
+be undertaken to make it fit for purpose. It also identified specific ways in which
+
+the organisation might better manage the costs associated with the portfolio, for
+
+example through consolidation and entering into public - private partnerships.
+
+9.4 Reinforcing the expectations set out in the previous White Paper, some work to
+
+improve the Defence Estate has already occurred. Building on this, and reflecting the
+
+need for greater investment and a step change in the management of the Estate, the
+
+Defence Force is now developing a detailed plan for the regeneration of the Estate out
+
+to 2030.
+
+9.5 Regeneration over the next 15 years will involve a fundamental shift in the way the
+
+Defence Force manages its Estate. The Defence Force will enhance the support
+
+it provides capabilities and reduce operational costs by taking a more strategic
+
+approach to managing its Estate. It will move beyond the simple ‘like-for-like’
+
+replacement of ageing assets, and focus more broadly on progress towards a safe,
+
+fit-for-purpose and affordable Defence Estate. In practice, this means:
+
+###### Smarter management of facilities and assets
+
+9.6 The Defence Force will maintain a substantial presence in its current major locations
+
+and training areas for the foreseeable future, however internal reorganisation and
+
+rationalisation will need to occur to support operational requirements. There will be
+
+challenges associated with this work as the Estate increasingly comes under pressure
+
+from the impacts of urban encroachment, particularly in Auckland.
+
+
+-----
+
+9.7 The Defence Force will consolidate facilities such as offices, workshops and
+
+maintenance depots within and between bases where it makes sense to do so.
+
+Mess facilities and catering services may also be upgraded and integrated, helping
+
+to achieve economies of scale and improve the efficiency of units. Savings may be
+
+yielded through the creation of multipurpose or multifunction facilities.
+
+9.8 Work to modernise or replace old facilities, which in some cases has already
+
+occurred, will improve efficiency and support staff to become more effective. The
+
+replacement of the Navy’s seamanship training facility, for example, has enhanced
+
+the ability of the Defence Force to undertake training in a safe and controlled
+
+environment.
+
+9.9 Throughout its Estate regeneration process, the Defence Force will prioritise assets
+
+and facilities on which the generation of military capability is directly dependent.
+
+Already completed facilities include the Ohakea Air Movements Terminal, the new
+
+pilot training capability and the helicopter facilities at Ohakea. Further opportunities
+
+exist across the whole Estate.
+
+###### Improving facilities for Defence Force personnel
+
+9.10 The ability of Defence Force personnel to safely and effectively undertake the tasks
+
+expected of them depends on the right equipment being available when and where
+
+it is needed. Access to a high standard of training supported by appropriate facilities
+
+is critical. Work to improve Defence Force training facilities has already begun. For
+
+example, a new Battle Training Facility will be opened to meet the intensive training
+
+demands of our Special Operations Forces, replacing infrastructure that was no
+
+longer fit for purpose due to a number of factors, including the safe discharge of
+
+weapons.
+
+###### An emphasis on health and safety
+
+9.11 Defence personnel should have access to accommodation and facilities that are
+
+secure and meet New Zealand health and safety standards, including appropriate
+
+levels of earthquake protection. Work to ensure facilities and accommodation meet
+
+these standards is a priority for the Defence Force and has already commenced.
+
+###### Providing support for other government agencies
+
+9.12 Other agencies already use Defence Force training areas, ranges and conference
+
+facilities, but there is potential for even greater use. The Defence Force continues to
+
+identify opportunities to maximise the use of its Estate for all of government where
+
+these can be accommodated within Defence outputs.
+
+
+-----
+
+-----
+
+-----
+
+# Chapter Ten: Implementing this Defence White Paper
+
+10.1 The Ministry of Defence and Defence Force will work together to implement the
+
+policy direction and deliver the new Defence Force structure described in this White
+
+Paper by:
+
+- enhancing the five-yearly cycle of strategic Defence policy activity to manage the
+
+policy, capability and funding implications of changes in the international strategic
+
+environment;
+
+- improving their management of Defence capabilities, their personnel and
+
+infrastructure requirements, and their understanding of the costs associated with all
+
+of these elements; and
+
+- laying the organisational foundations required to develop a new cyber support
+
+capability.
+
+10.2 Implementing this White Paper will involve a mix of existing Defence business,
+
+embedding improvements in practice signalled in the Defence White Paper 2010,
+
+and undertaking new initiatives that have resulted from the development of this
+
+Defence White Paper.
+
+###### An enhanced strategic policy approach
+
+ Understanding the strategic environment and its implications for Defence
+
+10.3 To support the Government’s long-term decision making, Defence must be able to
+
+anticipate future challenges in the international strategic environment and continue
+
+to offer Government a range of options to manage these.
+
+10.4 The Ministry of Defence leads Defence Assessments, with support from the Defence
+
+Force and other agencies. The Defence Assessment process enables Defence
+
+to identify changes in the international strategic environment and consider their
+
+possible implications for New Zealand’s Defence policy, capability and ultimately
+
+funding.
+
+10.5 Consistent with the broader approach of conducting a more regular cycle of Defence
+
+updates, the Ministry is now enhancing its assessment function by conducting
+
+smaller, more focussed assessments between each major Defence Assessment.
+
+This will ensure that advice to Government on policy and capability decisions is
+
+better able to keep pace with emerging and evolving security challenges.
+
+10.6 As part of this work, Defence will continue contributing to New Zealand’s whole of
+
+government approach to developing its Antarctica policy.
+
+10.7 Work is also underway to develop better linkages between Defence policy as it is
+
+expressed in documents such as the White Paper, and capability development.
+
+
+-----
+
+###### International Defence Engagement
+
+10.8 This White Paper is clear that New Zealand has a strong interest in maintaining a
+
+range of bilateral and multilateral international relationships, many of which have a
+
+strong Defence component. The deepening of some relationships, and expanding
+
+regional fora, and a dynamic security environment are driving increasing demand
+
+for New Zealand to contribute to international defence engagement activities.
+
+10.9 Defence will therefore now take a more active approach to managing and
+
+prioritising New Zealand’s international defence relationships. This will better
+
+enable it to determine where and how organisational resources should be focussed.
+
+###### Enhanced capability delivery
+
+10.10 An effective, fit for purpose Capability Management System will be critical to the
+
+implementation of the new force structure outlined in this White Paper.
+
+10.11 This system is now undergoing a series of changes as part of the Defence Capability
+
+Change Action Plan. The Plan will support implementation in a number of ways,
+
+including by improving Defence’s ability to assess the whole of life costs of
+
+capabilities and enhancing its capability governance and oversight mechanisms.
+
+10.12 Details related to the mix of current and planned capability projects in this White
+
+Paper, and their sequencing, will be published in the Defence Capability Plan
+
+scheduled for release later in 2016.
+
+10.13 Cost, schedule and risk information associated with major capability projects that
+
+have been formally approved by Government are published annually as part of the
+
+Defence Major Projects Report.
+
+###### Building a new cyber support capability
+
+10.14 For the Defence Force to remain effective and deployable, it must be able to protect
+
+its computer networks against increasing cyber attacks. Defence will therefore
+
+begin work immediately to embed the appropriate organisational and personnel
+
+arrangements it needs to support the development of this new capability.
+
+###### Initiatives to support a sustainable and affordable Defence workforce
+
+10.15 Defence is committed to taking a more strategic approach to managing its
+
+personnel portfolio, ensuring it can deliver a sustainable and affordable workforce
+
+able to support the new force structure in the long term. This will involve Defence
+
+working over the coming years to better understand long term Defence Force
+
+personnel costs out to 2035.
+
+
+-----
+
+10.16 Defence will examine the model that it has used to construct and sustain its
+
+workforce. This will ensure the organisation is resourced with the right number of
+
+personnel, in the right areas and with the right skills, experience and resources to do
+
+their jobs efficiently and effectively.
+
+10.17 As part of this work, Defence will confirm the total numbers of personnel it requires
+
+to support the force structure described in this White Paper.
+
+10.18 Alongside its work on the workforce over the next year, the Defence Force
+
+will review its personnel accommodation assistance policy. Regardless of the
+
+outcome of this review, accommodation assistance for personnel will be fiscally
+
+responsible, be applied consistently and transparently, and provided where there is
+
+a demonstrable need and a clear benefit to operational effectiveness.
+
+10.19 Defence will also examine its remuneration strategy to ensure it is sustainable.
+
+###### A plan for regenerating the Defence Estate
+
+10.20 Generating and maintaining the force structure described in this White Paper will
+
+require the support of a modern Defence Estate.
+
+10.21 The Defence Force is now developing an Estate Strategy and associated Plan out
+
+to 2030, which will provide a blueprint for the regeneration, management and use
+
+of the infrastructure, facilities and training areas that comprise the Defence Estate.
+
+In particular, these documents will provide detail relating to the modernisation,
+
+consolidation and in some cases replacement of facilities such as offices, workshops
+
+and maintenance depots. This work will be considered by the Government in 2016.
+
+###### Implementation subject to ongoing review and update as part of the planning cycle
+
+10.22 Through its existing joint governance mechanisms Defence will deliver a
+
+programme of work, as identified above, to implement this White Paper, supported
+
+as appropriate by other government agencies. This will include reflecting White
+
+Paper direction in key Defence planning documents, and providing regular updates
+
+to the Minister of Defence on progress.
+
+
+-----
+
+-----
+
+# Glossary
+
+**Airlift (strategic and tactical): the capability to transport people and equipment by air in**
+
+support of strategic and/or tactical objectives.
+
+**Attrition: the loss of personnel and/or equipment.**
+
+**Better Business Case: a Government mandated method for structuring the strategic,**
+
+economic, commercial, financial and management case for an investment decision.
+
+This method has been implemented across the New Zealand Government to ensure
+
+investments in programmes or projects are justified.
+
+**Capability: the personnel, equipment, platforms, and/or other resources that affect the**
+
+capacity to undertake military operations.
+
+**Coalition: a force composed of military elements of more than one nation that have formed**
+
+a temporary alliance for a specific purpose.
+
+**Command and control: the exercise of authority and direction over military forces to**
+
+achieve mission objectives.
+
+**Cyberspace: while there are no universally accepted definitions, cyberspace is sometimes**
+
+defined as the internet and everything connected to it.
+
+**Defence: the Ministry of Defence and the New Zealand Defence Force, taken together.**
+
+**Defence Attaché: a military officer based in some New Zealand Embassies whose role is**
+
+to provide liaison between New Zealand defence and security interests and those of the
+
+nation in which they reside. A military officer attached to a New Zealand High Commission
+
+and performing the same role is known as a Defence Adviser.
+
+**Exclusive Economic Zone: an area extending from 12 to 200 miles off a nation’s coastline**
+
+where it has ‘sovereign rights’ – a more limited jurisdiction than sovereignty - over marine
+
+resources. Other states have certain freedoms including navigation, overflight and laying
+
+cables in an Exclusive Economic Zone. New Zealand’s Exclusive Economic Zone is one
+
+of the largest in the world, with an area of 405 million hectares – more than 15 times our
+
+landmass.
+
+**Intelligence, surveillance and reconnaissance (ISR): the capability to collect, process,**
+
+exploit, and disseminate accurate and timely information. This provides force elements
+
+with the situational awareness necessary to successfully plan and conduct operations.
+
+**Interoperability: the ability of military forces to work alongside civil agencies and other**
+
+nations’ militaries through having compatible doctrine, equipment and training.
+
+**Lines of Communication: the routes by which goods, people and information travel to**
+
+connect different geographic locations.
+
+**Realm of New Zealand: comprises New Zealand, the self governing states of the Cook**
+
+Islands and Niue, Tokelau and the Ross Dependency.
+
+**Sealift: the capability to transport and deliver forces and equipment by sea.**
+
+
+-----
+
+-----
+
+# Annex – Facts and Figures
+
+
+-----
+
+# Annex – Facts and Figures
+
+
+-----
+
+# Annex – Facts and Figures
+
+
+-----
+
+# Annex – Facts and Figures
+
+
+-----
+
+# Annex – Facts and Figures
+
+
+### New Zealand Army Facts and Figures continued
+
+###### 1st NZ Special Air Services Regiment
+
+- Located at Papakura, the Regiment provides Special Operations Forces for special
+
+and counter-terrorist operations and the national response for Chemical, Biological,
+
+Radiological, Explosive and Improvised Explosive Device Disposal issues where public
+
+safety or national interest are threatened.
+
+###### Reserve Force
+
+- Three infantry battalions located throughout New Zealand, two in the North Island and one
+
+in the South Island.
+
+###### Training and Doctrine Command
+
+- Land Operations Training Centre based in the Manawatu at Hokowhitu Campus, which has
+
+schools located in Waiouru, Linton, Trentham, and Burnham and is responsible for teaching
+
+and validating New Zealand Army combat and logistics doctrine;
+
+- The Army Depot located in Waiouru, provides recruit training, and all arms promotions
+
+courses; and
+
+- The Army Command School located in Waiouru provides officer training, all arms
+
+promotion courses and leadership training.
+
+
+-----
+
+# Annex – Facts and Figures
+
+
+-----
+
+-----
+
+-----
+

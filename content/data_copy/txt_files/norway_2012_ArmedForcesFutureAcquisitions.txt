@@ -1,0 +1,3120 @@
+# Future acquisitions  For the Norwegian Armed Forces 2012-2020
+
+#### June 2012
+
+1
+
+
+-----
+
+#### Table of contents
+
+1. Introduction ..................................................................................................................................... 3
+
+2. Investments in the Defence Sector ................................................................................................. 5
+
+3. Main focus areas ............................................................................................................................. 6
+
+3.1 Materiel acquisitions during the period 2012-2015 ................................................................ 6
+
+3.2 Main focus areas for the period 2016-2020 ............................................................................ 8
+
+3.3 Land Systems ........................................................................................................................... 9
+
+3.4 Naval Systems ........................................................................................................................ 11
+
+3.5 Air Systems ............................................................................................................................ 13
+
+3.6 Soldier Systems...................................................................................................................... 15
+
+3.7 Network Based Defence ........................................................................................................ 17
+
+3.8 Logistics Systems ................................................................................................................... 19
+
+4. Project overview by programme ................................................................................................... 21
+
+2
+
+
+-----
+
+#### 1. Introduction
+
+The long term planning process outlines the continuous development of the
+Norwegian Armed Forces with respect to organisation, infrastructure (garrisons and
+bases), personnel (numbers, composition and qualifications) and materiel (existing
+equipment and new acquisitions). This process is carried out under the direction of
+the Royal Norwegian Ministry of Defence. The Long Term Plan – Materiel forms the
+basis for all materiel procurements in the short term (4-5 years), the medium term (510 years) and the long term perspectives (10-20 years). It is updated annually to
+reflect updates stemming from changing requirements, available resources and
+progress in on going acquisitions.
+
+The Government recognises the vital role that the defence industry plays in support
+of the armed forces’ capabilities. This role ranges from the provision and
+maintenance of military equipment to the delivery of a wide range of support services.
+The government’s policies are laid down in a report to Parliament (St.mld. nr. 38
+_(2006-2007) Forsvaret og industrien – strategiske partnere) which outlines the_
+guidelines for developing the strategic partnership between industry and the Armed
+Forces.
+
+The overarching principle is that the cooperation must accommodate the Armed
+Forces’ requirements. Once this condition is met, the Armed Forces’ materiel
+acquisitions and use of support services shall provide opportunities for Norwegian
+industry to remain competitive in an imperfect market place (where normal
+competition does not exist). This will contribute to national value creation and highly
+skilled employment opportunities, while at the same time ensuring access to critical
+knowledge, expertise, materiel and services. Interaction between the Armed Forces
+and industry will also strengthen research and development at government and
+private institutions.
+
+One of the main elements in the strategy is an early dialogue between the Armed
+Forces and industry, including communication of short term and long term materiel
+requirements. In the report to Parliament, it is clearly stated that the MoD will work
+towards ensuring that the Armed Forces and the industry share information about
+industrial opportunities related to the Armed Forces’ planned acquisitions at the
+earliest possible time. The cooperation shall be based on existing materiel plans.
+
+A central feature in the annual updating of the Long Term Plan – Materiel is the
+preparation and publication of an unclassified overview of long term materiel
+requirements. This publication does not examine each planned project in detail but is
+intended to create opportunities for in depth discussions between the Armed Forces
+and industry. In this way industry can get an early insight into potential materiel
+investments. The aim is to maintain highly skilled companies that individually or in
+cooperation with others, are able to support the needs of the Armed Forces. Having a
+
+3
+
+
+-----
+
+proven and highly skilled industry is also fundamental for being able to compete in
+the international defence market that in many ways remains a closed one.
+
+The Armed Forces’ materiel investment projects are subject to decisions and
+approval either by the MoD, or the Parliament for projects exceeding NOK 500
+million.
+
+The projects listed in this publication are not formally approved for implementation. It
+is emphasised that any project not yet formally approved may subsequently be
+terminated or changed without any further explanation or liability.
+
+Details relating to a small number of classified and sensitive projects are being
+withheld.
+
+Approved projects will not be addressed in this publication. Information about major
+projects in this category can be found, among other places, on the home page of the
+Norwegian Defence Logistics Organisation (NDLO).
+
+This document features on the Armed Forces’ section of the website
+http://www.regjeringen.no as an electronic document and will not be published in
+paper format. In light of the statutory objectives and principles of procurement
+regulations, regarding competition and equal treatment, it was also decided to
+prepare an English version.
+
+4
+
+
+-----
+
+#### 2. Investments in the Defence Sector
+
+The Defence Sector is made up of the Royal Norwegian Ministry of Defence and its
+subordinate bodies; the Norwegian Armed Forces, the Norwegian National Security
+Authority, the Norwegian Defence Estates Agency and the Norwegian Defence
+Research Establishment. All materiel investments in the Defence Sector are decided
+by the MoD, and subordinate bodies execute the planning and procurements
+according to existing procedures. An important tool is the PRINSIX project model that
+describes phases, decision points and roles/responsibilities. This project model
+ensures a uniform execution of materiel procurements. The MoD has established
+several investment programmes to oversee and provide guidance through all the
+phases related to materiel procurements.
+
+Projects are typically conceived in two ways. One is the top down approach which to
+a large extent deals with the major weapon systems resulting from strategic planning
+processes. The second is the bottom up approach which to a large extent deals with
+smaller requirements typically initiated by the services and users. At the early stage,
+the proposals are known as Project Ideas which are assessed by the relevant
+investment programme. If the investment programme finds the Project Idea to have
+merit, it is subsequently recommended to the MoD and further pursued and
+developed into a Tentative Project. This is the first formal decision point. Depending
+on the scope of the project, a conceptual study may be launched at this stage. In
+practice, smaller projects go directly to the next phase that is described below.
+
+In a conceptual study alternative concepts are assessed with respect to how
+capability requirements can be resolved in conceptually different ways. The outcome
+of a conceptual study is submitted in a document referred to as a Conceptual
+Solution. This document forms the basis for the decisions that will be made at the
+end of this phase. In addition to being a central decision-making document, the
+document is also pivotal to the mandatory external quality assurance in accordance
+with guidelines from the Royal Norwegian Ministry of Finance for projects exceeding
+NOK 750 million.
+
+Once the Conceptual Solution is approved, the project moves into the next phase
+which is the detailed planning process leading up to the approval of the acquisition of
+the materiel in question. During this phase the project is referred to as a Planned
+Project. Important outcomes of this planning phase are scope, procurement strategy,
+timelines and contractual provisions.
+
+Major materiel acquisitions with a scope exceeding NOK 500 million require approval
+from Parliament. Projects with a lower scope are approved by the MoD.
+
+Once a project has been approved for implementation, MoD sends out an
+Implementation Order, normally to the Norwegian Defence Logistics Organisation. A
+project in this phase is referred to as an Approved Project.
+
+5
+
+
+-----
+
+#### 3. Main focus areas
+
+##### 3.1 Materiel acquisitions during the period 2012-2015
+
+**Figure 1- Acquisitions broken down by programme during the period 2012-2015. The MoD allocates funds for preliminary**
+**project work, R&D and other supporting activities. Amounts are in billions NOK.**
+
+The period 2012-2015 is dominated by the on-going acquisitions and upgrades to the
+capital ships of the Royal Norwegian Navy:
+
+  - Final delivery of the Fridtjof Nansen-class frigates is completed with
+
+subsequent work-up towards full operational capability.
+
+  - Delivery of the Skjold-class coastal corvettes is planned to be completed in
+
+2012 with a gradual entry into service.
+
+  - Delivery of NH90 maritime helicopters for the frigates and the Coast Guard.
+
+  - The Ula-class submarines are undergoing upgrades throughout the period.
+
+Significant resources are also being allocated towards new armaments for the Navy:
+
+  - Delivery of the Naval Strike Missile (NSM) for the frigates and the coastal
+
+corvettes will take place.
+
+6
+
+
+-----
+
+  - New anti-submarine torpedoes for the frigates are under procurement. The
+
+torpedoes are also intended for use by the frigate helicopters and the maritime
+patrol aircraft.
+
+Access to strategic air transport is ensured by continued participation in the multinational programme with access to three C-17 transport aircraft. The C 130J tactical
+transport aircraft have been delivered. Subsequent upgrades of the aircraft are
+planned in order to maintain a common configuration with major users of the system.
+
+The procurement of light, armoured vehicles continues. The vehicles are a top priority
+with respect to force protection, especially during international operations.
+
+The acquisition of the Archer artillery system continues in cooperation with Sweden.
+Armoured combat and reconnaissance vehicles are planned for delivery during the
+period 2012-2016.
+
+Force protection and medical services are important priorities in operations abroad.
+To accommodate these requirements, a number of procurements are both on going
+and planned during the period.
+
+Network-based defence is a priority, and a number of projects are being planned to
+implement this capability. At the same time it is necessary to maintain existing
+systems in order to ensure that critical services are delivered.
+
+7
+
+
+-----
+
+##### 3.2 Main focus areas for the period 2016-2020
+
+**Figure 2- Acquisitions broken down by programme during the period 2016-2020. The MoD allocates funds for preliminary**
+**project work, R&D and other supporting activities. Amounts are in billions NOK.**
+
+The bulk of the investment activity during the period 2016-2020 will shift from Naval
+Systems to Air and Land Systems. The delivery of the F-35 combat aircraft is
+planned with an initial delivery of training aircraft in 2015, followed by the main
+deliveries during the period 2017-2024.
+
+Deliveries of the Naval Strike Missile (NSM) for the frigates and the coastal corvettes
+will be completed. A new logistics support ship is planned to be delivered in 2015.
+
+The acquisition of armoured combat and reconnaissance vehicles will be completed.
+
+Force protection and medical services are important priorities in operations abroad. A
+number of procurements yet to be defined are expected during the period.
+
+Network-based defence is a priority, and a number of projects are being planned to
+implement this capability. At the same time it is necessary to maintain existing
+systems in order to ensure that critical services can be delivered.
+
+8
+
+
+-----
+
+##### 3.3 Land Systems
+
+**Figure 3- Annual allocation of funds (NOK mill.)**
+
+**Figure 4- Allocation of funds per main category.**
+
+
+9
+
+
+-----
+
+The bulk of the investments within the Land Systems Programme are:
+
+  - Combat vehicles and artillery (medium-weight, standard armoured vehicles,
+
+armoured reconnaissance systems, and artillery in collaboration with Sweden).
+
+  - Light armoured vehicles will be procured throughout the period. It will be
+
+necessary to replace this type of vehicles frequently due to high wear and tear
+during operations abroad.
+
+  - Simulator and training materiel include the upgrading of the battle simulator,
+
+materiel for the Army’s tactical training centre and fire-control simulator
+system.
+
+  - Other investments include M-113s, various types of remotely operated
+
+weapon stations for vehicles, MLU SISU plus a number of smaller
+investments.
+
+10
+
+
+-----
+
+##### 3.4 Naval Systems
+
+**Figure 5- Annual allocation of funds (NOK mill.)**
+
+**Figure 6- Allocation of funds per main category.**
+
+
+11
+
+
+-----
+
+The bulk of the investments within the Naval Systems Programme are related to the
+completion of the acquisition programmes of new capital ships and related weapon
+systems. In addition, existing systems are undergoing significant upgrades:
+
+  - Final delivery of the Fridtjof Nansen-class frigates with subsequent work-up
+
+towards full operational capability.
+
+  - Deliveries of the Skjold-class coastal corvettes are planned to be completed in
+
+2012 with a gradual entry into service.
+
+  - Deliveries of NH90 maritime helicopters for the frigates and the Coast Guard.
+
+  - The Ula-class submarines will be undergoing upgrades throughout the period.
+
+  - New lightweight torpedoes for frigates, helicopters and maritime patrol aircraft.
+
+  - A number of minor procurements for the Coast Guard.
+
+12
+
+
+-----
+
+##### 3.5 Air Systems
+
+**Figure 7- Annual allocation of funds (NOK mill.)**
+
+**Figure 8- Allocation of funds per main category.**
+
+
+13
+
+
+-----
+
+The bulk of the investments within the Land Systems Programme are:
+
+  - Maintaining the F-16 as a first line combat aircraft until it is phased out towards
+
+the end of the decade. In order to ensure that the capabilities are maintained,
+there are a number of projects related to upgrades of the aircraft systems,
+capability improvements and airframe upgrades. Preparations for the
+acquisition of the F-35 combat aircraft are in progress. According to the
+current plan an initial delivery of training aircraft will take place in 2015,
+followed by the main deliveries during the period 2017-2024.
+
+  - Several upgrades of the P-3C/N Orion maritime patrol aircraft are on-going.
+
+  - Replacement of air surveillance radars and required contributions to NATO
+
+Airborne Early Warning and Control Force (NAEW&C Force)
+
+  - Participation in the planned acquisition of a NATO owned and operated
+
+airborne ground surveillance capability – Alliance Ground Surveillance (AGS).
+
+14
+
+
+-----
+
+##### 3.6 Soldier Systems
+
+**Figure 9- Annual allocation of funds (NOK mill.)**
+
+**Figure 10- Allocation of funds per main category.**
+
+
+15
+
+
+-----
+
+The Soldier Systems Programme is planning the acquisition of a number of individual
+items within a wide range of projects.
+
+Particular emphasis is placed on procurements of different types of personal
+weapons. The procurement of personal clothing and equipment is on-going and is
+planned to continue throughout the period.
+
+16
+
+
+-----
+
+##### 3.7 Network Based Defence
+
+**Figure 11- Annual allocation of funds (NOK mill.)**
+
+**Figure 12- Allocation of funds per main category.**
+
+
+17
+
+
+-----
+
+The Network Based Defence Programme is by nature a very complex programme
+that is divided into eight main parts –
+
+  - Decision Support Services
+
+  - Intelligence and Surveillance
+
+  - Communication Infrastructure
+
+  - Core Services
+
+  - Secure Platforms
+
+  - Information Assurance
+
+  - Information technology in infrastructure
+
+  - Others
+
+The most significant acquisitions are related to:
+
+  - Projects related to capability building, typically picture compilation,
+
+communication and sensor development.
+
+  - Long range communications, including HF and satellite communications.
+
+  - Life extension of existing systems and acquisition of new tactical
+
+communications systems.
+
+  - Standardisation and reduction of a high number of individual systems.
+
+  - Decision support services.
+
+  - Secure platforms, including secure storage and communications for the mobile
+
+units.
+
+  - Network nodes for the tactical level.
+
+18
+
+
+-----
+
+##### 3.8 Logistics Systems
+
+**Figure 13- Annual allocation of funds (NOK mill.)**
+
+**Figure 14- Allocation of funds per main category.**
+
+
+19
+
+
+-----
+
+The bulk of the investments within the Logistics Systems Programme are:
+
+Within the area of CBRN, the most important investments are related to armoured
+search and detection vehicles.
+
+Within the area of Engineer Support, there is a focus on protection against
+improvised explosive devices (IEDs), EOD and various types of equipment for the
+support of operations abroad.
+
+_Logistics is focused on the planning process related to the procurement of a new_
+logistics support ship. Additionally, there are on-going procurements in a number
+of minor projects.
+
+_Medical Services emphasises medical support, particularly in relation to_
+operations abroad and the procurement of armoured ambulances.
+
+20
+
+
+-----
+
+#### 4. Project overview by programme
+
+
+#### Land Systems 22
+
+
+#### Naval Systems  32
+
+
+#### Air Systems 52
+
+
+#### Soldier Systems  61
+
+
+#### Network Based Defence 72
+
+ Logistics Systems 99
+
+21
+
+
+-----
+
+## LAND SYSTEMS Point of Contact:
+
+Programme Manager Land Systems
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+22
+
+
+-----
+
+### Overview Land Systems
+
+Page
+
+5005 Life Extension of Mercedes-Benz Light Utility Vehicles 24
+
+5006 All-terrain Vehicles and Snowmobiles 25
+
+5007 Series Acquisition of Artillery Locating Radar 26
+
+5008 Safety Camera for Armoured Vehicles 27
+
+5044 Light utility vehicles (Home Guard) 28
+
+8043 New Tactical Radio 29
+
+8303 Target Materiel for Shooting Ranges – Part 2 30
+
+9243 Land Based EW against Communication Systems 31
+
+23
+
+
+-----
+
+#### P 5005 – Life Extension of Mercedes-Benz Light Utility Vehicles
+
+**Background and overall objective:**
+The current fleet of light utility vehicles has been in use since the 1980s. The aim of
+the project is to extend the life of the vehicles until they are replaced around 2020.
+
+**Scope:**
+The scope of the project is under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013-2014
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+24
+
+
+-----
+
+#### P 5006 –  All-Terrain Vehicles and Snowmobiles
+
+**Background and overall objective:**
+In order to maintain mobility and endurance, light and flexible vehicles – all-terrain
+vehicles and snowmobiles are planned for acquisition.
+
+**Scope:**
+The number of vehicles and total scope of the acquisition is under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+25
+
+
+-----
+
+#### P 5007 – Series Acquisition of Artillery Locating Radar
+
+**Background and overall objective:**
+A prototype of an upgraded artillery location radar is ongoing in a separate project.
+Following a successful evaluation of the prototype, a series acquisition is planned.
+
+**Scope:**
+The scope of the project is a limited number of radars according to the future artillery
+structure.
+
+**Milestones:**
+Approved project: 2015
+
+Contract: 2016
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+26
+
+
+-----
+
+#### P 5008 – Safety Camera for Armoured Vehicles 
+
+**Background and overall objective:**
+The mechanised units need a thermal camera for safe operations during darkness
+and for increased safety for dismounted personnel.
+
+**Scope:**
+The specific number of cameras that will be purchased will be decided during the
+planning phase of the project.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+27
+
+
+-----
+
+#### P 5044 – Light utility vehicles (Home Guard)
+
+**Background and overall objective:**
+The aim of the project is to procure a number of light utility vehicles to the Home
+Guard to improve their flexibility and mobility.
+
+**Scope:**
+The scope of the project will be decided later.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 200 - 500 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+28
+
+
+-----
+
+#### P 8043 – New Tactical Radio
+
+**Background and overall objective:**
+The aim of the project is to renew tactical radios and possibly tactical level command
+and control system.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2018
+
+Contract: 2019
+
+Delivery completed: 2025
+
+**Cost estimate:**
+NOK 1500 - 3000 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+29
+
+
+-----
+
+#### P 8308 – Target Materiel for Shooting Ranges – Part 2
+
+**Background and overall objective:**
+The aim of the project is to procure target equipment for shooting ranges.
+
+**Scope:**
+The procurement shall cover the needs for electronic target systems for a variety of
+types of shooting ranges. The scope of the project may include target materiel for all
+Home Guard Districts.
+
+**Milestones:**
+Approved project: 2012-2013
+
+Contract: 2014
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+30
+
+
+-----
+
+#### P 9243 – Land Based EW against Communication Systems 
+
+**Background and overall objective:**
+The aim of the project is to modernize and upgrade electronic warfare equipment.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2014
+
+Contract: 2015
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Land Systems – Senior Adviser Bjørn Ryen
+
+31
+
+
+-----
+
+## NAVAL SYSTEMS Point of Contact:
+
+Programme manager Naval Systems
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+32
+
+
+-----
+
+### Overview Naval Systems
+
+**Page**
+
+3011 Upgrade of the 76 mm OTO Melara Gun 34
+
+6004 IFF for Naval Surface Ships 35
+
+6024 Upgrade of the NSM Missile System Administrator 36
+
+6086 AEGIS COTS Baseline Update 37
+
+6094 Remotely Controlled Surface Targets 38
+
+6097 Acquisition of a Second Launcher VLS MK41 39
+
+for the Nansen-class Frigate
+
+6240 Upgrade of the Combat Information System for the Skjold-class 40
+
+6346 Submarine Capability post 2020 41
+
+6353 Motor Upgrades of MCM Vessels 42
+
+6355 Upgrade of the AGATE console for the Alta-class MCM Vessel 43
+
+6360 IR Decoys for the Skjold-class 44
+
+6500 HUGIN AUV Procurement 45
+
+6607 Life Extension Programme MCM Vessels 46
+
+6608 Mid-life Update Svalbard-class Coast Guard Ship 47
+
+6618 Mid-life Update Coast Guard Ship Harstad 48
+
+6690 Mid-life Update H. U. Sverdrup 49
+
+8163 Upgrade of Communication Equipment for the Coast Guard 50
+
+8165 Upgrade of Communication Equipment for the MCM Vessels 51
+
+33
+
+
+-----
+
+#### P 3011 – Upgrade of the 76 mm OTO Melara Gun
+
+**Background and overall objective:**
+The aim of the project is to upgrade the 76 mm OTO Melara guns for programmable
+ammunition.
+
+**Scope:**
+The scope of the project is to install a programming module and to make the
+necessary adaptations to the fire control systems on the Skjold- and Fridtjof Nansenclasses.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012-2013
+
+Delivery completed: 2014-2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+34
+
+
+-----
+
+#### P6004 – IFF for Naval Surface Ships
+
+**Background and overall objective:**
+The project shall procure new and upgrade existing IFF Systems to ensure
+interoperability according to NATO STANAGS.
+
+**Scope:**
+The scope of the project includes software and hardware solutions necessary to
+upgrade existing systems and to install IFF Systems on selected ships not yet
+equipped.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015-2016
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+35
+
+
+-----
+
+#### P 6024 – Upgrade of the NSM Missile System Administrator 
+
+**Background and overall objective:**
+The upgrade shall make it possible to exploit the full range of the missile’s
+capabilities.
+
+**Scope:**
+Upgrade of computer software and map system.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 100 - 200 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+36
+
+
+-----
+
+#### P 6086 – AEGIS COTS Baseline Update
+
+**Background and overall objective:**
+The project will update the AEGIS System of the frigates in order to maintain full
+operational capabilities. The project will be timed to coincide with upgrades carried
+out by other major users of the system.
+
+**Scope:**
+The upgrade includes new hardware and software solutions on board all frigates.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013-2014
+
+Delivery completed: 2017
+
+**Cost estimate:**
+NOK 500 - 800 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+37
+
+
+-----
+
+#### P 6094 – Remotely Controlled Surface Targets
+
+**Background and overall objective:**
+The aim of the project is to acquire remotely controlled surface targets.
+
+**Scope:**
+The remotely controlled surface target shall also include registration equipment and
+target materiel.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+38
+
+
+-----
+
+#### P 6097 – Acquisition of a second Launcher VLS MK 41 for the Nansen-class Frigate 
+
+**Background and overall objective:**
+The acquisition is intended to create redundancy and improve the self-defence
+capabilities.
+
+**Scope:**
+Five launchers, one for each ship.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012
+
+Delivery completed: 2017
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+39
+
+
+-----
+
+#### P 6240 – Upgrade of the Combat Information System for the Skjold- class
+
+**Background and overall objective:**
+Ensure that the Combat Information System remains up to date.
+
+**Scope:**
+Upgrade the software in the CIS based on experiences gained during the test and
+evaluation phase.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+40
+
+
+-----
+
+#### P 6346 – Submarine Capability post 2020
+
+**Background and overall objective:**
+The aim of the project is to maintain a submarine capability beyond 2020 as the
+current fleet of submarines reach the end of it technical and operational capability.
+
+**Scope:**
+The scope of the programme is not decided. Current evaluation of possible
+alternatives discusses a major refit of the Ula-class or the acquisition of a new class
+of submarines.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2028
+
+**Cost estimate:**
+Under consideration
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+41
+
+
+-----
+
+#### P 6353 – Motor Upgrades of MCM Vessels 
+
+**Background and overall objective:**
+The project shall provide engine components for the MCM vessels in order to support
+and maintain their operational capabilities.
+
+**Scope:**
+The scope of the project will be determined following a technical review of the
+vessels. It is expected that it will be necessary to acquire four complete power trains,
+including main engines and fan lifting engines. Auxiliary engines and some electronic
+materiel will supplement the upgrades.
+
+**Milestones:**
+Approved project: 2014
+
+Contract: 2015
+
+Delivery completed: 2015-2017
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+42
+
+
+-----
+
+#### P 6355 – Upgrade of the AGATE Consoles for the Alta-class Minesweeper
+
+**Background and overall objective:**
+The aim of the project is a hardware and software upgrade the acoustic
+minesweeping capability of the vessels.
+
+**Scope:**
+Under evaluation.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2019
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+43
+
+
+-----
+
+#### P 6360 – IR Decoys for the Skjold-class
+
+**Background and overall objective:**
+The aim of the project is an upgrade of the self-defence capabilities of the
+Skjold-class.
+
+**Scope:**
+Under evaluation.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+44
+
+
+-----
+
+#### P 6500 – Hugin AUV Procurement 
+
+**Background and overall objective:**
+An effort to develop and implement an operational Autonomous Underwater Vehicle
+(AUV) capability in the Navy has been on-going since 1997. The effort has been
+formalized through R & D programs, where the Navy, NDRE and the supplier has
+worked closely and meticulously since the start of the program. The Hugin system
+will provide the Navy with a substantially enhanced capacity to provide seabed and
+underwater information.
+
+**Scope:**
+The project includes the acquisition of up to three complete AUV systems including
+the vehicle, systems for launching and recovery, acoustic link for positioning and
+control of the vehicle, as well as a tactical control system. The system is primarily
+intended to be installed on board the MCM vessels. It may be adapted to a flexible
+operational concept with the possibility of deployment on other types of vessels.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+45
+
+
+-----
+
+#### P 6607 – Life Extension Programme MCM Vessels
+
+**Background and overall objective:**
+This project is not defined with respect to content and scope. The age of the MCM
+vessels will be such that a life extension programme most likely will be necessary.
+Contents and scope will be determined based on technical reviews of the vessels
+and their equipment.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: Under evaluation
+
+Contract: Under evaluation
+
+Delivery completed: Under evaluation
+
+**Cost estimate:**
+NOK 300 – 500 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+46
+
+
+-----
+
+#### P 6608 – Mid-life Update Svalbard-class Coast Guard Ship
+
+**Background and overall objective:**
+This project is not defined with respect to content and scope. The age of the ship is
+such that a significant upgrade most likely will be necessary. Contents and scope will
+be determined based on technical reviews of the vessel and her equipment.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: Under evaluation
+
+Contract: Under evaluation
+
+Delivery completed: Under evaluation
+
+**Cost estimate:**
+NOK 100 – 300 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+47
+
+
+-----
+
+#### P 6618 – Mid-life Update Coast Guard Ship Harstad
+
+**Background and overall objective:**
+The aim of the project is to identify and carry out necessary upgrades to ensure that
+the operational capability remains relevant.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: Under evaluation
+
+Contract: Under evaluation
+
+Delivery completed: Under evaluation
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+48
+
+
+-----
+
+#### P 6690 – Mid-life Update Research Ship H.U. Sverdrup II
+
+**Background and overall objective:**
+The project is to extend the life of the research ship H.U. Sverdrup II.
+
+**Scope:**
+The scope of the project is to replace all the technical equipment aboard the ship.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012
+
+Delivery completed: 2013
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+49
+
+
+-----
+
+#### P 8163 – Upgrade of Communication Equipment for the Coast Guard 
+
+**Background and overall objective:**
+The aim of the project is to make necessary upgrades of the Coast Guard’s
+communication equipment.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+50
+
+
+-----
+
+#### P 8165 – Upgrade of Communication Equipment MCM Vessels
+
+**Background and overall objective:**
+The aim of the project is to make necessary upgrades of the communication
+equipment aboard MCM vessels.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Naval Systems – Lieutenant Colonel Inger Birgitte Kvale
+Sørvåg
+
+51
+
+
+-----
+
+## AIR SYSTEMS Point of Contact:
+
+Programme Manager Air Systems
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+
+52
+
+
+-----
+
+### Overview Air Systems
+
+**Page**
+
+2078 Air Surveillance Radars 54
+
+7200 New Tactical Transport Helicopter 55
+
+7201 P-3C Upgrade of Communication and Navigation 56
+
+Systems (CNS/ATM)
+
+7202 P-3C Replacement of ELINT and ESM Systems 57
+
+7644 DA-20 Jet Falcon Upgrades 58
+
+8049 NASAMS Communication Systems 59
+
+9514 Respiration Protection for Aircrew 60
+
+53
+
+
+-----
+
+#### P 2078 - Air Surveillance Radars 
+
+**Background and overall objective:**
+The aim of the project is to acquire air surveillance radars in order to maintain early
+warning and air command and control capabilities. The new radar system will
+gradually replace existing radars as they become obsolete.
+
+**Scope:**
+The scope of the project is a gradual replacement of air surveillance radars. It is
+intended to maintain or improve current coverage
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2015
+
+Delivery completed: 2024
+
+**Cost estimate:**
+NOK 1500 - 2500 million
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+54
+
+
+-----
+
+#### 7200 – New Tactical Transport Helicopter
+
+**Background and overall objective:**
+The aim of the project is to acquire a replacement helicopter during the timeframe
+after 2020.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: Under consideration
+
+Contract: Under consideration
+
+Delivery completed: Under consideration
+
+**Cost estimate:**
+Under consideration
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+55
+
+
+-----
+
+#### P 7201 - P-3C Upgrade of Communication and Navigation Equipment (CNS/ATM)
+
+**Background and overall objective:**
+The aim of the project is an upgrade of Communication and Navigation System –
+Communication, Navigation and Surveillance/Air Traffic Management (CNS/ATM).
+This will ensure continued access to civilian airspace without restrictions.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2017
+
+Delivery completed: 2019
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+56
+
+
+-----
+
+#### P 7202 – P-3C Renewal of ELINT and ESM systems 
+
+**Background and overall objective:**
+Renewal of the ELINT and ESM systems aboard the P-3C aircraft.
+
+**Scope:**
+The scope of the project is to renew the entire system including work stations and
+data storage.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: Under consideration
+
+Delivery completed: Under consideration
+
+**Cost estimate:**
+NOK 300 - 600 million
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+57
+
+
+-----
+
+#### P 7644 – Upgrade of the DA-20 Jet Falcon
+
+**Background and overall objective:**
+The aim of the project is to upgrade several of the systems on the aircraft in order to
+maintain the operational capabilities of the aircraft.
+
+**Scope:**
+Some of the systems that are to be upgraded include intercom, SATCOM and the
+ESM-system.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+58
+
+
+-----
+
+#### P 8049 - NASAMS II Communication System
+
+**Background and overall objective:**
+The project shall modernize the NASAMS II Communication System according to the
+Armed Forces’ communication architecture, based on an IP user interphase.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+59
+
+
+-----
+
+#### P 9514 – Respiration Protection for Aircrew 
+
+**Background and overall objective:**
+The aim of the project is to improve the capability to operate in CBR contaminated
+areas.
+
+**Scope:**
+The scope of the project is to acquire personal protection equipment for aircrew. The
+number of systems is under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Air Systems – Senior Adviser André Sørli
+
+60
+
+
+-----
+
+## SOLDIER SYSTEMS Point of Contact:
+
+Programme Manager Soldier Systems
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+61
+
+
+-----
+
+### Overview Soldier Systems
+
+**Page**
+
+4003 Digitalization 2 (NORMANS) 63
+
+4013 Night Vision Equipment 64
+
+4014 Soldier Equipment – Endurance 65
+
+4015 Soldier Equipment – Mobility 66
+
+4018 Small Arms 67
+
+4019 Soldier Equipment – Personal Clothing and Protection 68
+
+4023 Digitalization 3 69
+
+4042 New Types of Ammunition 70
+
+4130 Ammunition for International Operations 71
+
+62
+
+
+-----
+
+#### P 4003 – Digitalization 2
+
+**Background and overall objective:**
+The project is intended to further develop the capabilities of the soldier equipment
+acquired earlier. Operational experiences and technological development will
+determine the contents of the project.
+
+**Scope:**
+The procurement shall cover the requirements of all services.
+
+**Milestones:**
+Approved project: 2016
+
+Contract: 2017
+
+Delivery completed: 2019
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+63
+
+
+-----
+
+#### P 4013 – Night Vision Equipment
+
+**Background and overall objective:**
+An acquisition of night vision and thermal equipment is planned for prioritised
+weapon systems and units.
+
+**Scope:**
+The procurement shall cover the requirements of all services.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren.
+
+64
+
+
+-----
+
+#### P 4014 – Soldier Equipment – Endurance
+
+**Background and overall objective:**
+The project shall provide a series of different equipment types that will enable the
+individual soldier to operate in a variety of environments. Some examples of
+equipment types are potable water systems, sleeping bags for different climates,
+ground sheets and heating sources.
+
+**Scope:**
+The procurement shall cover the requirements of all services. It is expected that the
+acquisition will be done within a framework contract.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2021
+
+**Cost estimate:**
+NOK 200 - 500 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+65
+
+
+-----
+
+#### P 4015 – Soldier Equipment – Mobility
+
+**Background and overall objective:**
+The project shall provide a series of different equipment that will enhance the
+individual soldier mobility during operations in a variety of situations. Some examples
+of equipment types are tents, skis, snow shoes etc.
+
+**Scope:**
+The procurement shall cover the requirements of all services. It is expected that the
+acquisition will be done within a framework contract.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2022
+
+**Cost estimate:**
+NOK 200 - 500 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+66
+
+
+-----
+
+#### P 4018 – Small Arms 2
+
+**Background and overall objective:**
+The project shall acquire small arms for the Armed Forces based on experiences with
+small arms already in use. The small arms that will be procured may be the same as
+the ones already in use or it may be new types depending on gained experience or
+technological developments.
+
+**Scope:**
+The procurement shall cover the requirements of all services.
+
+**Milestones:**
+Approved project: 2015
+
+Contract: 2017
+
+Delivery completed: 2022
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+67
+
+
+-----
+
+#### P 4019 – Soldier Equipment – Personal Clothing and Protection
+
+**Background and overall objective:**
+The project shall provide a series of different personal clothing articles and protective
+equipment types that will enable the individual soldier to operate in a variety of
+situations. Some examples of equipment types are uniforms, clothing for hot and cold
+climates, body armour etc.
+
+**Scope:**
+The procurement shall cover the requirements of all services. It is expected that the
+acquisition will be done within a framework contract.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2019
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+68
+
+
+-----
+
+#### P 4023 – Digitalization 3
+
+**Background and overall objective:**
+The project is intended to procure a variety of equipment necessary to maintain and
+further develop existing capabilities. The rapid technical development and the
+relatively short lifespan of this kind of equipment, makes it necessary to look into
+replacing the capabilities previously acquired. The acquired equipment shall be
+integrated into the Armed Forces’ CCIS.
+
+**Scope:**
+The acquisition shall cover the requirements of all services.
+
+**Milestones:**
+Approved project: 2019
+
+Contract: 2020
+
+Delivery completed: 2022
+
+**Cost estimate:**
+NOK 0 - 300 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+69
+
+
+-----
+
+#### P 4042 – New Types of Ammunition
+
+**Background and overall objective:**
+The project is to keep abreast of the technological developments and evaluate new
+types of ammunition for use by the armed forces.
+
+**Scope:**
+The scope of the project covers calibres up to 12.7 mm. However, other types of
+calibres like the M-72 Anti-tank Weapon may be included.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2019
+
+Delivery completed: 2022
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+70
+
+
+-----
+
+#### P 4130 – Ammunition for International Operations 
+
+**Background and overall objective:**
+The procurement consists of improved ammunition that satisfies the requirements for
+units in international operations. Special consideration is to be given with respect to
+less than ideal storage conditions.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 100 - 200 million
+
+**Point of Contact:**
+Programme Manager Soldier Systems – Lieutenant Colonel Terje Ågren
+
+71
+
+
+-----
+
+## NETWORK BASED DEFENCE
+
+Point of Contact:
+
+Programme Manager Network Based Defence
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+72
+
+
+-----
+
+### Overview Network Based Defence  Page
+
+2909 Information technology in administration building 74
+
+2974 Electronic Distribution of Encryption Keys 75
+
+4981 Renewal of Decision Support – Security 76
+
+8000 CCIS for Air Force Units 77
+
+8011 Communication Platforms for Tactical Level 78
+
+8015 User Terminals for the National Emergency Communication Network 79
+
+8021 Secure Voice over IP (VOIP) 80
+
+8031 Modernization of VTC Systems 81
+
+8041 Renewal of stationary maritime radio systems 82
+
+8042 Renewal Coastal Radar North-Norway 83
+
+8044 Maintenance of Core Services 84
+
+8045 Maintenance of Decision Support Systems 85
+
+8151 Interoperable VHF Radios 86
+
+8152 Adaption of Communication Architecture to SATCOM 87
+
+8153 Link System Development 88
+
+8154 Information Security 89
+
+8155 National use of NATO solutions 90
+
+8156 Net Enabling of national Sensors 91
+
+8158 Integration of the F-35 92
+
+8160 Secure Platforms 93
+
+8161 Electronic Warfare Data Administration System 94
+
+8162 Upgrade of the Armed Forces Satellite Station 95
+
+9245 ACCS – Nationally Financed Infrastructure 96
+
+9269 Decision Support for Tactical/Combat Level 97
+
+9271 Renewal of communication infrastructures 98
+
+73
+
+
+-----
+
+#### P 2909 – Information technology in administration building 
+
+**Background and overall objective:**
+The project shall procure information technology to the Chief of the Army Staffs new
+administration building.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+74
+
+
+-----
+
+#### P 2974 - Electronic Distribution of Encryption Keys 
+
+**Background and overall objective:**
+The project is intended to make distribution of encryption keys more efficient and also
+make it possible to automatically update encryption keys.
+
+**Scope:**
+A significant number of units will be acquired. The exact number will be decided
+during the planning process.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 200 - 500 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+75
+
+
+-----
+
+#### P 4981 – Renewal of Decision Support - Security
+
+**Background and overall objective:**
+The project is intended to increase the efficiency of Personnel and Facility Security
+Clearance.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+76
+
+
+-----
+
+#### P 8000 - CCIS for Air Force Units 
+
+**Background and overall objective:**
+NATO introduces the Air Command and Control System (ACCS) for Combined Air
+Operations Centre (CAOC) and Air Control Centre, Recognized Air Picture
+Production Centre, Sensor Fusion Post (ARS). The project is to supplement ACCS
+by establishing command and control capabilities for Air Force units (wing, squadron
+and air defence units).
+
+**Scope:**
+The scope of the project depends on the upcoming reorganisation of the Air Force
+base structure. The project includes hardware and software for wing, squadron and
+air defence units.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+77
+
+
+-----
+
+#### P 8011 - Communication Platforms for the Tactical Level
+
+**Background and overall objective:**
+The project shall provide user at the tactical level with a secure CIS platform for the
+classification level of up to and including NATO Secret.
+
+**Scope:**
+The scope of the project is to procure hardware and software for selected tactical
+level units. The acquisition is to prepare for further procurements of secure CIS
+platforms.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+78
+
+
+-----
+
+#### P 8015 - User Terminals for the National Emergency Communication Network
+
+**Background and overall objective:**
+The project is intended to procure user terminal for the National Emergency
+Communication Network enabling communication between civilian authorities and the
+Armed Forces during civilian emergencies.
+
+**Scope:**
+The project shall procure a number of user terminals for the units most likely to be
+called upon to support the civilian authorities during an emergency situation.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+79
+
+
+-----
+
+#### P 8021 – Secure Voice over IP
+
+**Background and overall objective:**
+The aim of the project is to establish secure voice communication using IP.
+
+**Scope:**
+Under consideration
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+80
+
+
+-----
+
+#### P 8031 - Modernization of VTC Systems
+
+**Background and overall objective:**
+The project is intended to maintaining and improving VTC capabilities within the
+Armed Forces.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+81
+
+
+-----
+
+#### P 8041 – Renewal of stationary maritime radio systems
+
+**Background and overall objective:**
+The project is to renew the national core HF structure.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2014
+
+Contract: 2015
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+82
+
+
+-----
+
+#### P 8042 – Renewal of Coastal Radar North-Norway 
+
+**Background and overall objective:**
+The aim of the project is to replace a number of radar sensors for surveillance of
+coastal waters in North-Norway.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2015
+
+Contract: 2017
+
+Delivery completed: 2021
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+83
+
+
+-----
+
+#### P 8044 – Maintenance of Core Services
+
+**Background and overall objective:**
+The aim of the program is to ensure that the core services are maintained.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2016
+
+Contract: 2017
+
+Delivery completed: 2022
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+84
+
+
+-----
+
+#### P 8045 – Maintenance of Decision Support Systems 
+
+**Background and overall objective:**
+The aim of the project is to ensure a continuous modernization of decision support
+systems.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2021
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+85
+
+
+-----
+
+#### P 8151 - Interoperable VHF Radios
+
+**Background and overall objective:**
+The project shall procure the necessary VHF radio communication equipment to
+establish a complementary, tactical VHF communications capability. Interoperability
+for international operations as well as broadband capability is emphasized.
+
+**Scope:**
+The scope of the project is to cover the requirements for tactical/technical level units
+throughout the Armed Forces.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+86
+
+
+-----
+
+#### P 8152 - Adaptation of the Communication Architecture to SATCOM 
+
+**Background and overall objective:**
+The project shall acquire the necessary components necessary to adapt and
+modernize existing and planned communications infrastructures to broadband
+SATCOM.
+
+**Scope:**
+The project is to procure a number of SATCOM terminals and adapt the
+communications infrastructure.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+87
+
+
+-----
+
+#### P 8153 – Link System Development
+
+**Background and overall objective:**
+The aim of the project is to ensure a continuous modernization of link systems.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2016
+
+Contract: 2017
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+88
+
+
+-----
+
+#### P 8154 - Information Security 
+
+**Background and overall objective:**
+The project shall procure the necessary equipment to make it possible to establish a
+more automated information flow between secure domains.
+
+**Scope:**
+The scope of the project will impact CIS throughout the Armed Forces.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2021
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+89
+
+
+-----
+
+#### P 8155- National use of NATO solutions
+
+**Background and overall objective:**
+The project shall procure and implement NATO concepts and equipment for national
+use.
+
+**Scope:**
+The scope of the project comprises hardware and software.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2019
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+90
+
+
+-----
+
+#### P 8156 - Net Enabling of National Sensors (JISR) 
+
+**Background and overall objective:**
+The project shall adapt different sensors so it will be possible to deliver data directly
+into the Armed Forces’ networks, and also make a more dynamic employment of the
+various sensors possible.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+91
+
+
+-----
+
+#### P 8158 – Integration of the F-35 into the National IT Structure 
+
+**Background and overall objective:**
+The project is to make adaptations to the national IT infrastructure as a result of the
+upcoming acquisition of the F-35.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2015
+
+Contract: 2016
+
+Delivery completed: 2020
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+92
+
+
+-----
+
+#### P 8160 – Secure Platforms
+
+**Background and overall objective:**
+The aim of the project is to ensure a continuous modernization of secure platforms.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2017
+
+Contract: 2018
+
+Delivery completed: 2021
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+93
+
+
+-----
+
+#### P 8161 – Electronic Warfare Data Administration System
+
+**Background and overall objective:**
+The aim of the project is to establish a data administration system for electronic
+warfare data.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+94
+
+
+-----
+
+#### P 8162 – Upgrade of the Armed Forces’ Satellite Station
+
+**Background and overall objective:**
+The aim of the project is to upgrade the satellite ground station at Eggemoen and to
+establish an alternate “anchor”
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+95
+
+
+-----
+
+#### P 9245 - ACCS Nationally Financed Infrastructure
+
+**Background and overall objective:**
+The project shall acquire the equipment necessary to implement the nationally
+financed parts of NATO Air Command and Control System.
+
+**Scope:**
+The scope of the program will have to be adjusted according to the future
+organization of the Air Force infrastructure.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+96
+
+
+-----
+
+#### P 9269- Decision Support for Tactical/Combat Level 
+
+**Background and overall objective:**
+The project shall acquire a secure CIS platform and provide secure CIS services at
+the tactical/combat level. The project is to be based upon existing systems and
+solutions.
+
+**Scope:**
+The scope of the project includes hardware and software for tactical units all the way
+to the individual soldier.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+97
+
+
+-----
+
+#### P 9271 – Renewal of communication infrastructures
+
+**Background and overall objective:**
+The aim of the project is to ensure modernization of communication infrastructures.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2017
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Programme Manager Network Based Defence – Lieutenant Colonel Lasse Halaas
+
+98
+
+
+-----
+
+## LOGISTICS SYSTEMS
+
+Point of Contact:
+
+Programme Manager Logistics Systems
+
+Ministry of Defence
+
+Telephone 23 09 80 00
+
+99
+
+
+-----
+
+### Overview Logistics Systems
+
+**Page**
+
+2501 Asset Tracking 101
+
+2517 Airport Ground Operations Equipment 102
+
+2528 New Assault Boats 103
+
+2559 Land-Based Transportation Equipment 104
+
+2568 Route Clearance and Counter IED Equipment 105
+
+2569 Security Measures Haakonsvern Naval Base 106
+
+2570 Life Extension of Scania Trucks 107
+
+2573 Labelling of Weapons and Ammunition 108
+
+2574 Securing and Tracking of Weapons and 109
+
+Ammunition during Transport
+
+2576 Phase 1 Construction Equipment 110
+
+4390 Modernization of Military Geo Capabilities 111
+
+5834 Physical Protection and Security 112
+
+9346 Pre-hospital Medical Equipment 113
+
+9511 CRBN Detection, Warning and Reporting Equipment 114
+
+100
+
+
+-----
+
+#### P 2501 – Asset tracking 
+
+**Background and overall objective:**
+The project is to acquire electronic equipment that will make it possible to track and
+identify materiel resources.
+
+**Scope:**
+The scope of the project is under evaluation. One goal is to fulfill NATO standards in
+this area.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012-13
+
+Delivery completed: 2015
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+101
+
+
+-----
+
+#### P 2517 - Airport Ground Operations Equipment 
+
+**Background and overall objective:**
+The project shall provide equipment necessary to maintain continuous operations of
+airports as well as improving the ground operations. The project has two main
+objectives:
+
+a. Ensure that the Air Force maintains its obligations as the responsible operator of
+
+a number of airports with a mix of military and civilian air traffic.
+
+b. Ensure that sufficient equipment exists for support of deployed aircraft to bases
+
+in Norway or abroad.
+
+**Scope:**
+The scope of the project includes equipment for snow clearance, runway sweeping,
+chemical treatment of runways and grass/brush clipping.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2012-13
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+102
+
+
+-----
+
+#### P 2528 - New Assault Boats
+
+**Background and overall objective:**
+The project is to acquire new assault boats in order to maintain the operational
+capabilities in areas where water impedes movement.
+
+**Scope:**
+The scope of the project is to acquire a limited number of assault boats.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+103
+
+
+-----
+
+#### P 2559 - Land-based Transportation Equipment
+
+**Background and overall objective:**
+The project is intended to maintain and renew the important logistics capability of
+land based transportation. A variety of transport vehicles will be acquired to support
+operations by the entire Armed Forces in Norway as well as during deployed
+operations. Transportation support of Allied reinforcements is part of the project.
+
+**Scope:**
+The scope of the project with respect to types and numbers of vehicles is under
+assessment.
+
+**Milestones:**
+Approved project: 2015 (under evaluation)
+
+Contract: 2016 (under evaluation)
+
+Delivery completed: 2024 (under evaluation)
+
+**Cost estimate:**
+NOK 1000 - 1500 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+104
+
+
+-----
+
+#### P 2568 - Route Clearance and Counter IED Equipment
+
+**Background and overall objective:**
+The project is to acquire vehicles for route clearance and materiel to supplement
+existing Counter-IED capabilities as the threat and technological countermeasures
+evolve.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2015
+
+Contract: 2016
+
+Delivery completed: 2023
+
+**Cost estimate:**
+NOK 300 - 500 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+105
+
+
+-----
+
+#### P 2569 – Security Measures Haakonsvern Naval Base
+
+**Background and overall objective:**
+The project is to improve the protection level at Haakonsvern naval base. The project
+shall include increased protection for naval vessels, equipment, personnel and
+sensitive information.
+
+**Scope:**
+To protect Haakonsvern naval base against threats from the sea and land.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+106
+
+
+-----
+
+#### P 2570 – Life Extension of Scania Trucks
+
+**Background and overall objective:**
+The project is to acquire spare parts for Scania trucks to keep them operational until
+P 2559 - Land-based Transportation Equipment has delivered new trucks to the
+Armed Forces
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+107
+
+
+-----
+
+#### P 2573 – Labelling of Weapons and Ammunition
+
+**Background and overall objective:**
+The project shall procure a system for labelling weapons and ammunition with a
+unique machine readable marking.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+108
+
+
+-----
+
+#### P 2574 – Securing and Tracking of Weapons and Ammunition during Transport
+
+**Background and overall objective:**
+The project shall improve the system for securing and tracking of weapons and
+ammunition during transport.
+
+**Scope:**
+Under consideration.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+109
+
+
+-----
+
+#### P 2576 – Phase 1 Construction Equipment
+
+**Background and overall objective:**
+Phase 1 in operations abroad is defined to be the first two months after the initial
+deployment. During phase 1 the Armed Forces needs equipment to establish an
+initial camp with housing, sanitary installations, accommodations and provisions.
+
+**Scope:**
+The procurement can include equipment as tents, field kitchens, power generators,
+showers/toilets, A/C units, water storages, fuel storages, fire fighting equipment and
+waste disposal equipment.
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+110
+
+
+-----
+
+#### P 4390 - Modernization of Military Geo Capabilities
+
+**Background and overall objective:**
+The project is intended to enhance the existing capabilities with respect to
+geographical information support of operations and the management of the
+geographical information held by the Armed Forces.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2013
+
+Delivery completed: 2017
+
+**Cost estimate:**
+NOK 0 - 100 million
+
+**Point of Contact:**
+Lieutenant Colonel Arild Andersen – Program Logistics Systems
+
+111
+
+
+-----
+
+#### P 5834 - Protection of Bases and Camps
+
+**Background and overall objective:**
+The project shall procure equipment for protection of bases and camps, particularly
+during international operations
+
+**Scope:**
+The scope of the project includes materiel for surveillance and securing the perimeter
+of bases and camps. Additionally it is planned to purchase a variety of protective gear
+and equipment.
+
+**Milestones:**
+Approved project: 2013
+
+Contract: 2014
+
+Delivery completed: 2016
+
+**Cost estimate:**
+NOK 100 - 300 million
+
+**Point of Contact:**
+Lieutenant Colonel Tom Juliussen – Program Logistics Systems
+
+112
+
+
+-----
+
+#### P 9346 – Pre-hospital Medical Equipment
+
+**Background and overall objective:**
+The project is to purchase medical supplies and first aid equipment for the individual
+soldier and for smaller teams.
+
+**Scope:**
+Under evaluation
+
+**Milestones:**
+Approved project: 2012
+
+Contract: 2013
+
+Delivery completed: 2014
+
+**Cost estimate:**
+NOK 0-100 million
+
+**Point of Contact:**
+Lieutenant Colonel Arild Andersen – Program Logistics Systems
+
+113
+
+
+-----
+
+#### P 9511 - CRBN Detection, Warning and Reporting Equipment
+
+**Background and overall objective:**
+The project is to purchase equipment and implement capabilities for detection,
+warning, reporting and prediction for chemical and radiological contamination into
+existing and future command, control and information systems. Focus is to be placed
+on interoperability with allies, between the services and with the command, control
+and information systems. A capability for detection of biological contamination is
+being considered.
+
+**Scope:**
+The scope of the projects covers all levels of command down to and including
+company level. The details with respect to integration into the current and future
+command, control and information system is under consideration.
+
+**Milestones:**
+Approved project: 2014
+
+Contract: 2015
+
+Delivery completed: 2018
+
+**Cost estimate:**
+NOK 0-100 million
+
+**Point of Contact:**
+Lieutenant Colonel Arild Andersen – Program Logistics Systems
+
+114
+
+
+-----
+
+Norwegian Ministry of Defence
+
+Postboks 8126 Dep
+
+NO-0032 Oslo
+
+Norway
+
+All photos © Forsvarets mediearkiv
+
+
+POC: Senior Adviser John-Arne Nyland
+
+
+115
+
+
+-----
+

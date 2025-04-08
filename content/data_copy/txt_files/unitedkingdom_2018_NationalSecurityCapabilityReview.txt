@@ -1,0 +1,2362 @@
+# National Security
+ Capability Review
+
+##### Including the second annual report on implementation of the National Security Strategy and Strategic Defence and Security Review 2015
+
+
+-----
+
+© Crown copyright 2018
+
+Produced by Cabinet Office
+
+You may re-use this information (excluding logos) free of charge in any format or medium,
+under the terms of the Open Government Licence. To view this licence, visit
+[http://www.nationalarchives.gov.uk/doc/open-government-licence/](http://www.nationalarchives.gov.uk/doc/open-government-licence/)
+[or email: psi@nationalarchives.gsi.gov.uk](mailto:psi%40nationalarchives.gsi.gov.uk?subject=)
+
+Where we have identified any third party copyright material you will need to obtain permission
+from the copyright holders concerned.
+
+Alternative format versions of this report are available on request from
+
+bli d @ bi t ffi k
+
+
+-----
+
+## Contents
+
+**Foreword by the Prime Minister** **2**
+
+**Overview** **3**
+
+**The national security context** **5**
+
+**Our vision, values and approach** **7**
+
+Our Global Britain vision and values 7
+
+Our approach 9
+
+The Fusion Doctrine 10
+
+**Our national security capabilities** **12**
+
+Defence 14
+
+Counter-Terrorism 18
+
+Cyber 21
+
+Serious and organised crime 23
+
+Ports and borders 26
+
+National resilience 28
+
+Global Britain 30
+
+National security communications 34
+
+Economic security, prosperity and trade 36
+
+Development 41
+
+Cross-government funds 44
+
+**Annex: Principal commitments from the Strategic Defence and Security**
+**Review 2015** **46**
+
+
+-----
+
+## Foreword by the Prime Minister
+
+Last year, we commissioned the National Security Capability Review
+to establish how best we can apply our national security apparatus to
+address the increasing and diversifying threats to our country and to
+our way of life. Overall the framework of the 2015 National Security
+Strategy and the Strategic Defence and Security Review remains
+right. But since it was published, threats have continued to intensify
+and evolve and we face a range of complex challenges at home and
+overseas: the resurgence of state-based threats and increasing
+competition between states; the undermining of the international rules
+based order; the rise in cyber-attacks from both state and non-state
+
+actors and the wider impact of technological developments; and the increase in threat posed
+by terrorism, extremism and instability.
+
+Over the past year in the UK we have witnessed appalling terrorist attacks in London and
+Manchester. But also a brazen and reckless act of aggression on the streets of Salisbury:
+attempted murder using an illegal chemical weapon, amounting to an unlawful use of force
+against the UK.
+
+Crucially what all of these incidents have made clear is that our national security is conditional
+on not only the police and security services who work so hard to keep us safe at home, or on
+the brave men and women of our Armed Forces working tirelessly around the world – but on
+our ability to mobilise most effectively the full range of our capabilities in concert to respond to
+the challenges we face.
+
+So as this report sets out, we have agreed a new approach to the orchestration of our
+national security capabilities. Based on the new Fusion Doctrine, this approach will ensure
+that in defending our national security we make better use of all of our capabilities: from
+economic levers, through cutting-edge military resources to our wider diplomatic and cultural
+influence on the world’s stage. Every part of our government and every one of our agencies
+has its part to play.
+
+I am confident that we can rise to the challenges ahead and that we can build on our
+considerable strengths to enhance our national security.
+
+To leverage our influence as a nation with the largest defence and security budget in Europe
+to advocate for peace and stability and promote our prosperity around the world.
+
+To work with our partners and allies to strengthen our collective commitment to the
+international rules based order and project our global influence.
+
+And to stand together to defeat attempts to undermine our security and prosperity, to defend the
+values that lie at the very heart of our society, and to enhance our ability to protect our people.
+
+As long as we defend our interests and stand up for our values, there will continue to be
+those who seek to undermine or attack us. But these people should be in no doubt that we
+will use every capability at our disposal to defeat them.
+
+
+-----
+
+## Overview 
+
+1. The National Security Council (NSC) reviewed the National Security Strategy and Strategic
+Defence and Security Review (SDSR 2015) after the general election in 2017. The NSC
+concluded that the SDSR, and its three National Security Objectives, should continue to
+frame our approach to national security. The NSC commissioned a focused National
+Security Capability Review (NSCR) to identify how we could develop, deliver and deploy
+our considerable national security capabilities to maximum collective effect.
+
+2. The world has become more uncertain and volatile since 2015. This report updates the
+SDSR’s assessment of the complex and overlapping challenges likely to drive UK security
+priorities over the next decade. It explains how we are taking a transformative whole-ofgovernment approach in response, bringing to bear the widest possible range of
+capabilities. It also highlights areas where we want to sustain dynamic cooperation with
+the EU to protect capabilities that keep people safer across the whole of our continent.
+
+3. The NSCR focused on capabilities that are critical to our national security, where we
+judged that they could benefit from review to support implementation of the SDSR.
+We have not revised any of the SDSR principal commitments as a result of the NSCR.
+This document also incorporates our annual report on implementation of the 2015 SDSR.
+We set out our progress against commitments in the SDSR and the actions we are taking
+as a result of the NSCR:
+
+- We will use a new national security doctrine, the Fusion Doctrine, to improve our
+collective approach to national security, building on the creation of the NSC eight years
+ago so that we use our security, economic and influence capabilities to maximum effect
+to protect, promote and project our national security, economic and influence goals.
+
+- We will further strengthen and modernise Defence and the Armed Forces to
+deliver better military capability in an enduringly sustainable way, optimise how the
+Ministry of Defence (MOD) is organised and is operating, pursue a more strategic
+efficiency and business modernisation programme, and improve our commercial and
+industrial approach through the Modernising Defence Programme (MDP). The MDP
+will build on the firm foundations of the SDSR and be informed by the work already
+undertaken as part of the NSCR.
+
+- We will publish a new counter-terrorism strategy, which will include measures to improve
+our ability to disrupt terrorist plots in their early stages and improve frontline
+integration of our counter-terrorism response.
+
+- We will continue to implement the National Cyber Security Strategy and ensure it
+**keeps pace with the threat, including through the National Cyber Security Centre.**
+
+- We will take a whole-of-government approach to serious and organised crime,
+including a single cross-government Ministerial decision-making body, a new intelligence
+framework, better community engagement and a National Economic Crime Centre in
+partnership with the private sector.
+
+
+-----
+
+- We will integrate the knowledge and expertise held by all border organisations to produce
+**comprehensive strategic threat assessments for the border.**
+
+- We will improve assurance of resilience and readiness of local and national
+**capabilities, reinforce mutual aid systems during major disasters and continue to**
+develop a holistic approach to supporting victims of emergencies.
+
+- We will strengthen our overseas network so that we can reinvest in our relationships
+around the world, champion the rules-based system including free trade and use our soft
+power to project our values and advance UK interests.
+
+- We will significantly expand the National Security Communications Team to make
+communications an integral part of our approach to national security.
+
+- We will integrate economic goals and capabilities throughout national security.
+
+- We will ensure our development capability responds to changes in global poverty and
+national security challenges.
+
+- We will enhance the cross-government funds by improving strategic direction through
+the Fusion Doctrine, governance through a new Ministerial committee, and efficient
+administration by merging the secretariats into a single Funds Unit.
+
+
+-----
+
+## The national security context
+
+1. In SDSR 2015, we described how the world is changing rapidly and fundamentally.
+
+We continue to see long-term shifts in the balance of global economic and military power,
+increasing competition between states as well as the threat from non-state actors.
+While the UK has chosen to leave the EU, we are unconditionally committed to European
+security and defence and want to work closely with our European partners to keep all of
+our citizens safe and our continent secure.
+
+2. In the SDSR we identified four challenges likely to drive UK security priorities for the
+
+coming decade. The challenges have become more complex, intertwined and dangerous
+as the world has become more uncertain and volatile. Domestic, overseas and online
+threats are increasingly integrated as adversaries develop capabilities and exploit
+vulnerabilities across borders and between the cyber and physical worlds. We have
+also added two additional challenges:
+
+- the increasing threat posed by terrorism, extremism and instability;
+
+- the resurgence of state-based threats; and intensifying wider state competition;
+
+- the erosion of the rules-based international order, making it harder to build consensus
+and tackle global threats; and
+
+- the impact of technology, especially cyber threats and wider technological developments.
+
+And in addition:
+
+- the ongoing growth in serious and organised crime and its impact; and
+
+- diseases and natural hazards affecting the UK.
+
+Taking each challenge in turn:
+
+3. **The increasing threat posed by terrorism, extremism and instability. 2017 saw a**
+
+shift in the nature of the terrorist threat to the UK, with five attacks in London and Manchester
+that led to the deaths of 36 innocent people and many more injured. We responded
+decisively, rapidly adapting our priorities and capabilities, to break the momentum of
+these attacks. Since March 2017, the police and the security and intelligence agencies
+successfully foiled a further ten Islamist plots and disrupted four extreme right-wing plots.
+
+4. We expect the threat from Islamist terrorism to remain at its current heightened level
+
+for at least the next two years and it might increase further. We proscribed an extreme
+right-wing group as a terrorist organisation in 2016 and extreme right-wing terrorism
+continues to be a growing threat. Northern Ireland related terrorism remains a serious
+threat, particularly in Northern Ireland itself where dissident republicans carried out five
+attacks in 2017.
+
+5. The protracted nature of conflict in places such as Yemen and South Sudan has
+
+destroyed basic social infrastructure (health, water and sanitation systems) and stalled
+education and economic development. Densely populated urban areas in Syria and
+Iraq have been directly affected by intense fighting. Conflict and instability create largescale humanitarian and development need and hamper economic growth. This drives
+
+
+-----
+
+migration, with criminals exploiting the vulnerable including through human trafficking
+and modern slavery. Conflict and instability can also allow terrorists and organised crime
+groups to thrive.
+
+6. **The resurgence of state-based threats, intensifying wider state competition**
+
+**and the erosion of the rules-based international order, making it harder to build**
+**consensus and tackle global threats. The risks from state-based threats have both**
+grown and diversified. The indiscriminate and reckless use of a military-grade nerve agent
+on British soil was an unlawful use of force by the Russian State. It happened against
+a backdrop of a well-established pattern of Russian State aggression. Russia’s illegal
+annexation of Crimea was the first time since the Second World War that one sovereign
+nation has forcibly taken territory from another in Europe. Russia has fomented conflict
+in the Donbas and supported the Assad regime, including when the regime deliberately
+ignored its obligation to stop using chemical weapons. Russia has also violated the
+national airspace of European countries and mounted a sustained campaign of cyber
+espionage and disruption, including meddling in elections. North Korea has flagrantly
+violated international law, conducting 20 missile tests in 2017 and testing a nuclear
+device. Iran’s destabilising activity in the Middle East continues. Competition between
+states in the Middle East, South Asia and East Asia, including in the South China Sea,
+brings risks of miscalculation and conflict.
+
+7. **The impact of technology, especially cyber threats and wider technological**
+
+**developments. Malicious cyber activity knows no international boundaries and has grown**
+in terms of intensity, complexity and severity over the course of the last year. There are
+several established and capable states that seek to target and exploit UK networks and
+devices to gather intelligence or intellectual property. Indiscriminate disruptive incidents also
+affect the UK and our partners, as exemplified by the ‘NotPetya’ cyber incident in June
+2017 which we have publicly attributed to the Russian military. The malware was recklessly
+released in a manner that enabled it to spread from legitimate software used by Ukrainian
+institutions to then indiscriminately infect European and Russian businesses resulting in
+hundreds of millions of pounds in damage. The proliferation of low-cost high-end
+commercial capabilities, novel weapons, and sophisticated data-driven technologies
+including autonomous systems are also changing the security environment.
+
+8. **The ongoing growth in serious and organised crime and its impact. Serious**
+
+and organised crime presents an increased and sustained threat to our security and
+prosperity. Organised crime groups have a daily, corrosive impact on our public services,
+infrastructure and reputation. The same forces that benefit legitimate business –
+globalisation and technological change – make organised criminal networks and markets
+more resilient than ever. Serious and organised crime is inherently transnational and many
+of the threats we face within the UK emanate from overseas.
+
+9. **Diseases and natural hazards affecting the UK. One or more major hazards can**
+
+be expected to materialise in the UK in every five year period. The most serious are
+pandemic influenza, national blackout and severe flooding. We published the latest edition
+of the National Risk Register of Civil Emergencies in September 2017. It provides an
+assessment of the likelihood and potential impact of a range of different civil emergency
+risks that may directly affect the UK over the next five years.
+
+
+-----
+
+## Our vision, values and approach
+
+### Our Global Britain vision and values
+
+1. Our vision is for a secure and prosperous United Kingdom, with global reach and
+
+influence, as we set out in SDSR 2015. Everything we do in the UK and around the world
+is driven by our determination to protect our people, promote our values and ensure that
+our country prospers.
+
+2. We are a global, free-trading nation. We have one of the world’s most open and
+
+networked societies, which makes us one of the most attractive places for people to
+live, work and invest. We have the world’s sixth largest economy and the G20’s most
+globalised, with the highest rates of economic participation. We are a global financial
+centre and one of the most innovative countries. We also have the third highest inward
+and outward foreign direct investment (FDI) stock in the world.
+
+3. Our international approach has entered a new era. We are an open, outward-looking,
+
+tolerant European country that celebrates our history and diversity, confident of our place
+in the world, meeting our obligations to our near neighbours and far off friends, and
+proud to stand up for our values. As Global Britain, we are reinvesting in our relationships
+around the world. We are championing the rules-based system, which has served our
+interests as a global trading nation and is of vital importance as geopolitics becomes
+more contested. And we are using our soft power to project our values and advance
+UK interests.
+
+4. We are the only major western country to invest both 2% of gross domestic product
+
+(GDP) in defence and 0.7% of gross national income (GNI) in international development.
+We have world-class diplomatic, information, security and intelligence, law enforcement,
+and border security capabilities, plus an innovative private sector, competitive business
+environment, reliable legal framework, advantageous geographic position and many of
+the world’s most influential institutions, from academia and sport to the BBC. This unique
+and balanced portfolio of national capabilities is our key comparative advantage.
+
+5. As the world has become more uncertain and volatile, we are committed to deploying
+
+the full suite of our security, economic and influence capabilities to protect and promote
+our security, economic and influence interests, whether by deterring our adversaries,
+disrupting terrorists and criminals, strengthening allies, stabilising conflicts, responding
+to humanitarian crises, supporting trade and investment or tackling climate change.
+We must also protect, promote and project our greatest strength, which is our way of life
+and the values that underpin it.
+
+6. The rules-based system we helped to develop has enabled global cooperation to
+
+protect shared fundamental values of respect for human dignity, human rights, freedom,
+democracy and equality. As a permanent member of the United Nations Security Council,
+a leading contributor to NATO, a European country sharing fundamental values with our
+partners and a champion of the Commonwealth, we are committed to upholding and
+renewing the rules-based international system.
+
+
+-----
+
+7. We will always respond robustly to attempts to harm the UK and destabilise the world
+
+order. The use of a military-grade nerve agent in Salisbury was in breach of the Chemical
+Weapons Convention and international law. It happened against a backdrop of a wellestablished pattern of Russian State aggression. We will not tolerate the threat to life of
+British people and others on British soil from the Russian government. Nor will we tolerate
+such a flagrant breach of international obligations.
+
+8. We will harden our defences against all forms of Hostile State Activity and strengthen our
+
+powers to impose sanctions in response to the violation of human rights. We will make
+full use of existing powers to enhance our efforts to monitor and track the intentions of
+those travelling to the UK who could be engaged in activity that threatens the security
+of the UK and our allies. We will develop proposals for powers to stop, question, search
+and detain individuals at the UK border to determine whether they have been involved in
+matters that threaten our national security, and consider new counter-espionage powers
+to clamp down on the full spectrum of hostile activities of foreign agents in the UK.
+We will continue to bring all the capabilities of UK law enforcement to bear against serious
+criminals and corrupt elites. The expulsion of Russian diplomats will also fundamentally
+degrade Russian intelligence capability in the UK for years to come.
+
+9. As Europe’s largest national security contributor, the security partnership we seek with the
+
+EU will complement our leading role in NATO, which is the most durable and successful
+defensive alliance in history. At its heart lies the security guarantee contained in Article 5
+of the North Atlantic Treaty, that an attack on any one member ‘shall be considered an
+attack against them all’. We reaffirm our unconditional commitment to collective defence
+and security through NATO.
+
+10. Our decision to leave the EU and bring decision-making and accountability closer to
+
+home does not alter our unconditional commitment to Europe’s security. Europe’s security
+is our security. We have been at the forefront of shaping the arrangements that underpin
+our security cooperation in Europe. People across Europe are safer as a result and
+together we must find ways to protect these capabilities when we leave the EU. We must
+do whatever is most practical to keep our citizens safe and our continent secure.
+
+11. Our principal trading partners both now and after we leave the EU are also natural
+
+security partners: our core allies in Europe, North America and Australasia; traditional
+partners in the Gulf, South Asia and Africa; and new ones in East Asia and around the
+world. Each faces acute threats which the UK is helping to tackle – North Korean nuclear
+weapons, Russian and Iranian belligerence, Islamist terrorism, human trafficking, piracy,
+serious and organised crime, instability and unresolved regional rivalries.
+
+12. We also champion coalitions of like-minded governments and industry partners,
+
+in particular to strengthen our cyber defences and collective security. As our lives move
+increasingly online, we will become increasingly reliant on space technologies which are
+also vulnerable to hostile actors. Against such global threats, we need a global response
+with industry, like-minded states, the EU and NATO all working together. We continue
+to encourage collaboration between the EU and NATO to ensure they are secured and
+prepared for the challenges of this century.
+
+
+-----
+
+### Our approach
+
+13. The framework for national security which we set out in SDSR 2015 continues to
+
+represent the breadth of our national security interests through our three National
+Security Objectives:
+
+- National Security Objective 1 is to protect our people – at home, in our Overseas
+Territories and abroad, and to protect our territory, economic security, infrastructure and
+way of life.
+
+- National Security Objective 2 is to project our global influence – reducing the likelihood
+of threats materialising and affecting the UK, our interests, and those of our allies
+and partners.
+
+- National Security Objective 3 is to promote our prosperity – seizing opportunities,
+working innovatively and supporting UK industry.
+
+14. In the 2015 Spending Review we increased defence and security spending in response
+
+to the more demanding national security context, with real terms growth for defence, the
+intelligence agencies, counter-terrorism and cyber. We remain committed to:
+
+- grow defence spending by at least 0.5% above inflation each year to 2020/21, meeting
+our NATO commitment to spend at least 2% of GDP on defence;
+
+- spend 0.7% of GNI on Official Development Assistance, meeting the UN target;
+
+- increase counter-terrorism spending by 30% over the Spending Review period; and
+
+- grow the Single Intelligence Account budget by 18% in real terms.
+
+The counter-terrorism policing budget will increase to at least £757 million in 2018/19,
+a 7% increase on the previous year. We remain on track to recruit and train over 1,900
+additional security and intelligence staff across the agencies to respond to, and deter,
+those behind the increasing international terrorist, cyber and global threats.
+
+15. The NSC was created in 2010 to oversee and co-ordinate all aspects of our national
+
+security as part of collective cabinet decision-making. We have now developed a new
+national security doctrine, the Fusion Doctrine, to build on the creation and early years
+of the NSC, embed the lessons from The Report of the Iraq Inquiry (‘the Chilcot report’)
+and support a whole-of-government approach to national security.
+
+
+-----
+
+### The Fusion Doctrine
+
+1. Eight years on from the creation of the NSC, the Fusion Doctrine will strengthen our
+
+
+collective approach to national security. The Fusion Doctrine creates a more accountable
+system to support collective Cabinet decision-making, with the introduction of senior
+officials as senior responsible owners to deliver each of the NSC’s priorities. It introduces
+a Chilcot-compliant approach to strategies for NSC priorities and encourages rigorous
+consideration of all capabilities to provide the NSC with better choices.
+
+
+2. The Fusion Doctrine starts with strategy. We must identify the most effective and
+
+efficient combination of ways to achieve the government’s objectives over the long
+term, anticipating how adversaries and allies could react to avoid unwanted second and
+third order effects. Sometimes the best approach may be weighted towards particular
+capabilities or asymmetric to the threat we face. For modern deterrence (see below) we
+use the full range of capabilities available to us. To do all this we need robust analysis,
+drawing on all sources of information and data from both within government and outside.
+
+
+3. Many capabilities that can contribute to national security lie outside traditional national
+
+security departments and so we need stronger partnerships across government and
+with the private and third sectors. A wide range of government departments contribute
+to making the UK a harder target for those who wish to do us harm and the social
+reform departments help address the root causes of individual vulnerability to exploitation
+by organised crime groups and extremists. Many technological challenges are best
+addressed through partnership between the public and private sector. This approach is
+also vital internationally where security, trade and development partnerships are often
+mutually reinforcing.
+
+
+**ECONOMIC**
+
+
+Social
+Policy
+
+Soft
+Power
+
+
+Border
+Controls
+
+Covert
+
+
+Principle: “To deploy security, economic and influence
+
+capabilities to protect, promote and project our
+
+national security economic and influence goals ”
+
+
+-----
+
+4. The NSC will take stock each year of the UK’s positioning on national security in terms
+
+of resilience, threats and opportunities to take decisions about strategic prioritisation.
+The annual posture review will also inform departmental business plans and the
+government’s annual report to Parliament on SDSR implementation.
+
+5. For each of its priorities, the NSC will consider UK interests and objectives, the situation
+
+we face and the outlook, and then the wider national or international strategy to decide
+how to make a catalytic contribution, considering our full range of capabilities. The NSC’s
+ambition must match the resources committed so that we pursue realistic objectives and
+prioritise scarce resources where they can make most difference as part of our collective
+approach. Rigorous implementation is also essential.
+
+6. Building a culture of common purpose across departments requires improved
+
+accountability to shift incentives and behaviours towards a more genuinely wholeof-government approach. For each NSC priority, a senior responsible official will be
+accountable for the development of options for the NSC and the implementation of
+the government’s strategy. Their role is to coordinate in support of the NSC’s collective
+decision-making.
+
+7. Thousands of people contribute to the UK’s national security through their daily work
+
+in the UK and overseas. Their expertise, skills and statutory powers span the full range
+of security, influence and economic tools. We need staff with different backgrounds,
+perspectives and ways of thinking, including to promote creative thinking and challenge.
+‘Mission Critical’ is a manual to encourage inclusion developed by the Defence and
+Security Diversity Network in 2017. Training on the Fusion Doctrine will become the
+primary focus of the Virtual National Security Academy.
+
+
+Modern deterrence
+
+SDSR 2015 re-stated that defence and protection start with deterrence, which has
+long been, and remains, at the heart of the UK’s national security policy. As the world
+has become more uncertain and volatile, our approach to deterrence has become
+more comprehensive. Modern deterrence is whole-of-government in nature and
+strengthened by the Fusion Doctrine.
+
+We must deter catastrophic threats entirely, using the full range of capabilities available
+to us. The worsened security environment has resulted in renewed emphasis in NATO
+on deterrence and collective defence. Cyber defence is now part of NATO’s core task
+of collective defence. The UK’s independent nuclear deterrent will remain essential
+to our security today, and for as long as the global security situation demands. It has
+existed for over 60 years to deter the most extreme threats to our national security and
+way of life, helping to guarantee our security, and that of our allies.
+
+Many adversaries seek to do us harm or subvert us in less destructive ways,
+calculated to avoid provoking an armed response. We will seek to raise the cost of
+their malign behaviour, restrict and reduce it using the full range of capabilities available
+to us. Some of the many capabilities enhanced as a result of SDSR 2015 include the
+new powers in the Criminal Finances Act 2017 to recover criminal assets and our
+offensive cyber capabilities to detect trace and retaliate in kind
+
+
+-----
+
+## Our national security capabilities
+
+1. The NSCR aimed to maximise the impact of our considerable national security
+
+capabilities. The NSCR was conducted through 12 interconnected projects relating to
+capabilities that are critical to our national security where we judged that they could
+benefit from review.
+
+2. The NSCR was designed to examine the efficiency, effectiveness and alignment with
+
+NSC priorities of each of these capabilities so that they are delivered and deployed to
+maximum collective effect against all three of the National Security Objectives. The NSCR
+built on work previously commissioned by the NSC on strategy, policy and capability in
+specific areas, drawing them together into one over-arching review.
+
+3. The National Security Adviser led the NSCR, with constituent projects led across
+
+government by senior responsible owners in departments and aligned through a common
+framework. The NSCR projects were:
+
+**A new doctrine to use our** **National**
+**national security capabilities** **Security**
+**to maximum collective effect** **Doctrine**
+
+**National** **Cross-**
+**Security** **Government**
+**Communications** **Funds**
+
+**Reviews initiated as**
+**part of the NSCR**
+
+**Economic**
+
+**Global** **Development** **Security,**
+**Britain** **Prosperity**
+
+**& Trade**
+
+**Bringing Coherence** **Counter-** **Serious and**
+**to reviews underway** **Defence** **Terrorism** **Cyber** **Organised**
+
+**Crime**
+
+**Ports and** **National**
+**Borders** **Resilience**
+
+4. The NSCR also looked at cross-cutting issues:
+
+Innovation
+
+5. The SDSR included a number of initiatives to accelerate investment in transformative
+
+ideas and technologies. The NSCR identified that in a resource-constrained environment
+we need, where feasible, to make more use of threat-agnostic capabilities that can be
+used by different parts of government in response to varied threats and hazards. Our
+national border is an example of a threat-agnostic capability providing a range of different
+
+
+-----
+
+interventions that support various national security priorities. A science, technology,
+analysis and research strategy is supporting our work to counter both terrorism and
+serious and organised crime. In the longer term, biometric capabilities and forensic
+technologies could transform our interactions at the border and across law enforcement.
+A cross-government working group will identify how we can further enhance
+accountability and joint working on innovation.
+
+Science and technology
+
+6. In an environment where major threats are largely technologically driven, so too must
+
+be our response. The UK is in a strong position. Our scientific output is among the best
+in the world across the range of disciplines relevant to security. We must maximise
+this strength, particularly in emerging capabilities such as autonomy, robotics and
+data analytics. The UK Research and Innovation budget is increasing by £4.7 billion to
+2020/21 and has wide-ranging potential national security benefits. The Government Chief
+Scientific Adviser will develop a new national security science and technology strategy
+through the NSC Officials’ Science and Technology sub-committee.
+
+Data
+
+7. Our ability to use data, at scale and pace, across organisational boundaries is a critical
+
+capability. Data comes in many different forms – public and private, covert and overt,
+and created by industry and government. The UK has a strong legal framework for data
+protection, which provides confidence to the public and international partners about
+our use of data. We are increasing the knowledge and skills base of policy makers,
+operational partners and strategists to ensure they are data-literate and able to be
+intelligent customers of analytical insight. We are also investing in recruiting, training and
+retaining specialist data scientists, systems architects and data analysts.
+
+Strategic assessment
+
+8. Before the NSCR, we completed a review of strategic assessment. The Joint Intelligence
+
+Organisation, based in the Cabinet Office, is implementing the review’s recommendations.
+This will lead to closer working practices across the assessment community and, as
+a result, a more rigorous approach to producing assessments that inform national
+security policy and decision making. A director has been appointed to oversee this work,
+supported by a newly established small team.
+
+Diversity and inclusion
+
+9. The National Security Council (Officials) Shadow Board was established in 2017. Board
+
+members are departmental representatives below the Senior Civil Service, who increase
+the diversity of thought and challenge brought to issues being considered by the National
+Security Council (Officials) sub-committee. The MOD published ‘The Good Operation’
+handbook in 2018, which draws in particular on the lessons of the Chilcot report and
+encourages reasonable challenge.
+
+
+-----
+
+### Defence
+
+#### We will further strengthen and modernise Defence and the Armed Forces to deliver better military capability in an enduringly sustainable way, optimise how the MOD is organised and is operating, pursue a more strategic efficiency and business modernisation programme and improve our commercial and industrial approach through the Modernising Defence Programme.
+
+1. The fundamentals of our defence strategy within SDSR 2015 remain sound, including the
+
+development of Joint Force 2025. It was designed to make good key capability gaps and
+strengthen the force. It restored the right level of ambition to our planning and proposed
+important new policy initiatives. Furthermore, it was underpinned by a strong budget
+settlement for defence. We have the fifth largest defence budget in the world, and by
+2021 it will be almost £40 billion.
+
+2. As a leading global actor, with an extensive operational footprint overseas, we have a
+
+responsibility to respond decisively to the changing strategic context. We will need to
+work ever more closely with our NATO allies. We can expect to remain actively involved
+with our partners in the Gulf in tackling shared threats to our security at their source.
+The Asia-Pacific region is likely to become more important to us in the years ahead.
+The Armed Forces will also continue to make a significant contribution to domestic
+security and resilience alongside civil authorities.
+
+3. The Joint Force that we are building will therefore need to be versatile and agile. It will
+
+need to be effective in the full range of environments and across all five domains – land,
+sea, air, space and cyber. It will be international by design, routinely exercising and
+operating with allies and partners. It will be credible and capable of addressing state and
+non-state threats both alongside other nations and on our own. The major elements of
+our SDSR plans for Joint Force 2025 enable us to meet these criteria:
+
+- a maritime task group centred on a Queen Elizabeth Class aircraft carrier with F35
+Lightning combat aircraft;
+
+- a land division with three brigades including a new Strike force;
+
+- an air group of combat, transport and surveillance aircraft; and
+
+- a Special Forces task group.
+
+But to secure our competitive advantage over potential adversaries, we must be able to
+move quickly to strengthen further priority capabilities and ensure a proper balance of
+our investment.
+
+4. To achieve this, we have commissioned the Modernising Defence Programme, led
+
+by the MOD, working with Cabinet Office and across government, which will report to
+the Prime Minister, Chancellor of the Exchequer and Defence Secretary. It is identifying
+how we can deliver better military capability and better value for money to make a full and
+
+d i l t i bl t ib ti t ti l it d it Th
+
+
+-----
+
+streams. The first three will: optimise how the MOD is organised and is operating; pursue
+a more strategic efficiency and business modernisation programme; and improve the
+MOD’s commercial and industrial approach. The fourth will address the capabilities
+needed to contribute to our three National Security Objectives today and in the future.
+
+5. In line with SDSR 2015, we have spent £14.6 billion of the £178 billion we committed
+
+to spending on defence equipment and equipment support for the period 2016/17 to
+2025/26. We continue to develop our two new aircraft carriers. HMS Queen Elizabeth
+was commissioned in 2017, aiming for a first deployment in 2021. HMS Prince of Wales
+is due to commence trials at sea in 2019. The fourteenth F35 Lightning aircraft was
+delivered in 2017, in line with the intent to deliver the two squadron capability for Carrier
+Strike by 2023. We have commenced construction of HMS Glasgow in Scotland, the first
+of eight new Type 26 frigates. We plan to procure a new family of frigates, the Type 31e
+General Purpose Frigates, with the first of this class expected to be in service by 2023.
+
+6. The first of the Army’s new £4.5 billion family of Ajax armoured vehicles are currently
+
+going through their final acceptance process. We are developing a new Mechanised
+Infantry Vehicle which will enhance personnel protection. Our £2 billion investment in the
+Special Forces will ensure they are best configured for overseas and domestic tasking.
+The new Protector armed remotely piloted aircraft will be introduced by mid-2024 and
+we are upgrading our Typhoon aircraft to undertake new tasks, in addition to their role
+of protecting UK sovereign airspace, as they become the backbone for UK combat air
+forces. Preparations continue in Scotland to receive the nine new Boeing P8 Maritime
+Patrol Aircraft which will increase our ability to protect the nuclear deterrent and the new
+aircraft carriers from submarine threats.
+
+7. Manufacture of the first of four new Dreadnought Class nuclear-armed submarines is
+
+underway. At its peak, several hundred suppliers will be involved in the programme,
+supporting thousands of jobs in the UK. We have established the Submarine Delivery
+Agency to oversee this highly complex 20-year acquisition programme; it will become
+an Executive Agency in 2018. The first submarine will enter service in the early 2030s.
+
+
+The UK in NATO’s Enhanced Forward Presence
+
+In addition to Royal Navy maritime deployments as part of Standing NATO Maritime
+Groups, and the vital RAF role in Air Policing operations in Central Europe and the
+Baltic, the Army has a leading role on the ground in NATO’s enhanced Forward
+Presence operation in the Baltic States and Poland.
+
+Following commitments made at the 2016 NATO Summit in Warsaw, and at the
+request of the Estonian government, soldiers from the 5th Battalion The Rifles
+Battlegroup have been based at Tapa airbase in Estonia in 2017 to establish a UK
+headquarters in the country. A total of 800 UK troops are in Estonia, working alongside
+French and, from 2018, Danish personnel.
+
+The deployment reassures our European partners of the scale and scope of our
+commitment to their security. The battlegroup provides a proportionate, but combatcapable, force to deter and if necessary defend the Alliance from hostile activity.
+Our battlegroup is one of four deployed to the Baltic States and Poland We also
+
+
+-----
+
+8. We continue to build on our military co-operation and interoperability with the US, not just
+
+through NATO but through combined operations in the Gulf and elsewhere as well as joint
+exercises and future commitments. At the 2018 UK-France Summit, we re-committed to
+co-operate with the French on combat air systems technologies and complex weapons.
+We have also deepened our relationship with Germany, including on capabilities for our
+air and ground forces. We work closely with our eight partners from the Nordic and Baltic
+states and the Netherlands through the Joint Expeditionary Force (JEF), which combines
+high-readiness forces from the UK and like-minded partners to provide military options
+for a rapid response in peacetime or crisis, independently or as part of a larger force
+such as NATO.
+
+9. To build on the SDSR Innovation Initiative we have established a new Defence Innovation
+
+Unit, to help maintain the military edge of our Armed Forces into the future. Working
+with the Home Office, the Innovation and Research Insight Unit (IRIS) is tracking external
+research activity to inform decision-making about addressing future threats. Launched
+in December 2016, the Defence and Security Accelerator (DASA) is drawing in novel
+ideas from innovators and entrepreneurs to help tackle both defence and wider security
+challenges, including counter-terrorism. In the first 15 months, DASA has reviewed over
+850 proposals and backed over 150 of these, releasing over £19 million of funds.
+
+10. The National Shipbuilding Strategy and Defence Industrial Policy Refresh were both
+
+published in 2017, and the intent to create a Combat Air Strategy was announced in
+2018. The Defence Industrial Policy Refresh aims to make it easier to do business with
+the MOD, particularly for innovators, small and medium-sized enterprises (SMEs), and
+non-traditional suppliers. It will also help our defence industry to compete internationally,
+by making our procurement international by design, while delivering value for money.
+
+
+Innovative defence technology
+
+Sustained, long-term investment in science and technology underpins defence
+modernisation and the delivery of innovative battle-winning capabilities. Cutting
+edge science and technology has delivered the unique dual-mode seeker Brimstone
+missile, a world-leading, high-precision weapons system which was significant in
+the campaign against Daesh; the Paveway 4 guided bomb, capable of accurately
+destroying the most heavily protected targets; and the recently-launched Carbonite 2
+satellite, which provides imaging and high definition video from low earth orbit and was
+delivered from concept to launch in 8 months at a fraction of the cost of international
+equivalents. Science and technology is integral throughout the design and delivery of
+the Queen Elizabeth class aircraft carriers.
+
+Our current research programme balances critical sovereign capabilities such as
+chemical weapons defence, near-term capability enhancements which are critical to
+counter evolving threats, and future-focused programmes. Collaborative programmes
+with industry and academia include novel and disruptive technologies, such as Laser
+Directed Energy Weapons, and experimentation to understand opportunities and
+threats from autonomy and Artificial Intelligence.
+
+
+-----
+
+The MOD and major suppliers are developing the Defence Contracts Online Portal so that
+SMEs can compete for sub-contract work. The MOD is leading the strategic export
+campaigns for Typhoon (which has resulted in Qatar signing a contract for 24 Typhoon
+aircraft and Saudi Arabia agreeing a Memorandum of Intent for a further 48), a variety of
+complex weapons, and F35 Lightning support. The MOD is also supporting the Department
+for International Trade on export campaigns for the new Type 26 and Type 31e Frigates.
+
+11. The Armed Forces are dependent on having the right people with the right training, and
+
+we remain committed to maintaining the overall size and capabilities of the Armed Forces,
+comprising regular and reserve forces. The size of the Armed Forces remains sufficient
+to deliver Joint Force 2025 and to meet sovereign and NATO military commitments,
+though all three Services are facing recruitment and retention challenges. The MOD is
+working to modernise a range of personnel measures, looking at how to make best
+and most efficient use of its workforce, military, civilian and contractors alike. We have
+reduced civilian headcount in the MOD and more focused measures will be identified
+as part of the Modernising Defence Programme. Work also continues on proposals for
+better compensation for injured personnel and families of those killed on operations,
+building on the public consultation in 2017.
+
+12. A total of 25,557 military apprenticeships have been started in the period up to 2017.
+
+The MOD is one of the major providers of civilian apprenticeships, with over 1,300
+civilians starting an apprenticeship since April 2016. The MOD is developing further
+workforce initiatives, focused on science, technology, engineering and maths (STEM)
+and entrepreneurial skills. The number of cadet units in schools across the country will
+expand to 500 by 2020, with 411 cadet units in schools as of November 2017.
+
+13. The MOD continues to invest in key defence sites and is taking forward plans to reduce
+
+the defence estate by 30% by 2040. This will enable the release of land to support the
+national target for building 160,000 new homes by 2020. Land for 14,000 homes is in the
+delivery pipeline, from a potential total of land for 55,000 homes already identified.
+
+14. As we leave the EU, we want a partnership that offers both the EU and the UK
+
+**the means to combine efforts to the greatest effect, both operationally, and in**
+**developing capabilities. Ten years ago, we led in setting up Operation Atalanta, the first**
+ever EU maritime operation, to combat piracy off the coast of Somalia, and have hosted
+the operational headquarters since then. We also contribute forces and expertise to other
+EU operations, including Operation Althea in Bosnia, and Operation Sophia, countering
+illegal migration in the Mediterranean.
+
+
+Operation TEMPERER
+
+In the wake of the Manchester and Parsons Green terrorist attacks in 2017, armed
+military personnel from the Navy, Army and Air Force were mobilised as military
+support to the police service across Great Britain. Operation Temperer saw service
+personnel directly supporting the police to provide additional protective security, aimed at
+deterring, disrupting and preventing terrorist activity and providing public reassurance.
+Up to 10,000 service personnel remain at staggered readiness for Operation Temperer.
+Further forces are available to augment armed police with a large strategic reserve of
+
+
+-----
+
+### Counter-Terrorism
+
+#### We will publish a new counter-terrorism strategy, which will
+ include measures to improve our ability to disrupt terrorist plots
+ in their early stages and improve frontline integration of our
+ counter-terrorism response.
+
+1. 2017 saw a shift in the nature of the terrorist threat to the UK, with five attacks in London
+
+and Manchester that led to the deaths of 36 innocent people and many more injured.
+We responded decisively, rapidly adapting our priorities and capabilities, to break
+the momentum of these attacks. Since March 2017, the police and the security and
+intelligence agencies successfully foiled a further ten Islamist plots and disrupted four
+extreme right-wing plots.
+
+2. We expect the threat from Islamist terrorism to remain at its current heightened level
+
+for at least the next two years and it might increase further. We proscribed an extreme
+right-wing group as a terrorist organisation in 2016 and extreme right-wing terrorism
+continues to be a growing threat. Northern Ireland related terrorism remains a serious
+threat, particularly in Northern Ireland itself where dissident republicans carried out five
+attacks in 2017.
+
+3. We assess that most future terrorist plots in the UK will employ simple methods that
+
+can be developed with ease and at speed. Terrorists still have the intent to also mount
+complex, potentially more destructive attacks, probably targeting crowded places or the
+global aviation system. The general availability and use of encrypted communications
+allows terrorists to disguise their plans better.
+
+4. In the SDSR we explained that as the terrorist threat has changed, we have kept our
+
+response updated. We are now doing this again. The NSCR found CONTEST to be
+a well-organised and comprehensive response to terrorism with strengths in terms of
+powers, resources, reach and resilience. We will publish a new counter-terrorism
+**strategy, which will include measures to improve our ability to disrupt terrorist**
+**plots in their early stages and improve frontline integration of our counter-**
+**terrorism response.**
+
+5. We will continue to use the four ‘P’ work strands, which will coalesce into a single local or
+
+overseas response as we improve frontline integration of our capabilities and people.
+
+
+CONTEST – the four ‘P’s
+
+CONTEST retains the tried and tested strategic framework of four ‘P’ work strands:
+
+- **Prevent: to stop people becoming terrorists or supporting terrorism.**
+
+- **Pursue: to stop terrorist attacks.**
+
+- **Protect: to strengthen our protection against a terrorist attack.**
+
+- **Prepare: to mitigate the impact of a terrorist attack.**
+
+
+-----
+
+6. To meet the challenge of an increasingly complex and changing threat picture, we have
+
+established a Counter-Terrorism Accelerator Fund to respond to emerging threats and
+risks more quickly and to introduce innovative and transformational approaches to
+counter the terrorist threat. The Fund, worth £25 million each year, has been generated
+through a reprioritisation of existing counter-terrorism spending.
+
+7. We will continue to work with the private sector both to protect our economic
+
+infrastructure and to scale our ability to tackle terrorism. We will make the internet as
+hostile an environment as possible for terrorists to use for propaganda, and ensure
+we have the critical access we need to information on their communications. We will
+seek more investment in technologies that automatically identify and remove terrorist
+content. We will place a renewed emphasis on our engagement with Communications
+Service Providers, recognising that the internet has been a key way for radicalisers to
+communicate their propaganda, and for terrorists to plot attacks.
+
+8. We will continue to help communities increase their resilience to terrorism since they are
+
+at the forefront of our response. The purpose of the Prevent work strand in CONTEST
+is to safeguard and support vulnerable people to stop them from becoming terrorists
+or supporting terrorism. Prevent also extends to supporting the rehabilitation and
+disengagement of those already involved in terrorism. Prevent works in a similar way
+to programmes designed to safeguard people from gangs, drug abuse, and physical
+and sexual abuse. Our Counter-Extremism Strategy aims to protect our communities
+from the wider social harms beyond terrorism caused by extremism. We are taking a
+comprehensive approach to tackling the evil ideology of extremism, whether violent or
+non-violent, Islamist or far and extreme right wing.
+
+9. Our support to our citizens affected by terrorism at home and overseas remains a top
+
+priority. We established the cross-government Victims of Terrorism Unit in March 2017 to
+ensure support to victims, witnesses and bereaved families is effective, comprehensive
+and coordinated. We called on the Unit’s expertise during the 2017 attacks and have
+since been working extensively with local partners and national organisations to learn
+lessons and make improvements.
+
+
+Advanced machine learning to detect Daesh propaganda
+
+The Home Office and ASI Data Science have developed a tool that can automatically
+detect 94% of Daesh propaganda with 99.995% accuracy. This means that if it
+analyses one million randomly selected videos, only 50 would require additional human
+review. The tool can be used by any platform and, on the basis of current performance,
+is able to screen all of Daesh’s video propaganda within our two hour benchmark
+for removal. Research has shown that the majority of links to Daesh propaganda are
+disseminated within two hours of release.
+
+Smaller tech platforms are increasingly targeted by Daesh and its supporters.
+The Home Office and ASI will share the methodology behind the new tool with them
+to help combat the abuse of their platforms by terrorists and their supporters.
+
+
+-----
+
+10. Overseas we remain committed to the Global Coalition’s campaign against Daesh,
+
+to remove its control of territory, degrade further its media capabilities and disrupt
+key senior leaders and networks, and to efforts to degrade Al Qa’ida and its affiliates.
+We will take the lead on international efforts to improve counter-terrorism globally through
+campaigns on aviation security and preventing terrorist use of the internet.
+
+11. Counter-terrorism is a reserved matter, meaning that powers related to counter-terrorism
+
+are retained by the UK Parliament. However, many of the local delivery mechanisms are
+devolved in Northern Ireland, Scotland and Wales. The UK government and the Devolved
+Administrations work together with a shared recognition of the threat posed across the
+UK by terrorism, and a shared strategic response.
+
+12. We have been at the forefront of shaping the arrangements that underpin our CT co
+operation within the EU. As we leave the EU, we want to find a way to continue
+**this essential work. There are three key areas vital for CT. Collectively we need to find a**
+means to maintain practical cooperation that facilitates fast and efficient means to bring
+terrorist offenders to justice. We need to maintain cooperation between law enforcement
+agencies that enables us to share expertise, information and intelligence. And we need to
+maintain the fast and efficient exchange of data.
+
+
+Counter Terrorism Group
+
+We are a leading member of the Counter Terrorism Group (CTG), consisting of 30
+European intelligence and security services from EU and non-EU countries. CTG is the
+largest and most significant joint operational counter-terrorism group in the world, both
+by number of countries and quantities of intelligence involved. The CTG is a non-EU
+body, the work of which is vital for European CT. We work with the CTG daily, sharing
+data and cooperating closely. As a result, we have stopped attacks and terrorists are in
+custody today who might not otherwise have been found in time.
+
+
+-----
+
+### Cyber
+
+#### We will continue to implement the National Cyber Security Strategy and ensure it keeps pace with the threat, including through the National Cyber Security Centre.
+
+1. Cyber security is vital for the UK. We have the highest levels of internet use in the G7 and
+
+rank third globally in levels of e-commerce. But the cyber threat from criminals and hostile
+states continues to rise, with more frequent and more complex attacks. Getting hold
+of hacking tools is easier and cheaper than ever. This has lowered the bar to entry for
+criminals and others to launch high-volume, low-sophistication attacks. Despite greater
+awareness, cyber security in the majority of organisations and households across the
+UK has not kept pace with the threat, and attacks continue to target our critical national
+infrastructure.
+
+2. In the SDSR we made significant commitments on cyber. We published our current
+
+National Cyber Security Strategy in 2016, supported by a transformational £1.9 billion five
+year investment programme, and launched the National Cyber Security Centre. Our cyber
+capabilities were reviewed extensively through the development and initial implementation
+of the NCSS, and the NSCR cyber project confirmed our overarching strategic objectives
+still stand. We will continue to implement the National Cyber Security Strategy
+**and ensure it keeps pace with the threat, including through the National Cyber**
+**Security Centre.**
+
+3. We will further increase our work on Active Cyber Defence (ACD), to tackle high-volume
+
+cyber attacks that affect people’s everyday lives. Based on successful National Cyber
+Security Centre pilots protecting government networks, we encourage industry and
+international partners to implement similar measures, collectively making cyber crime less
+profitable and more risky globally. ACD blocks tens of millions of attacks every week and
+has reduced the average time a phishing site is online from 27 hours to 1 hour.
+
+4. We have bolstered our law enforcement capabilities against cyber crime and these are
+
+covered in the next chapter. Within government, we are developing and delivering a new
+secure shared central IT network, which will be resilient to attack, giving users confidence
+their information is properly protected, together with flexibility to work in a variety of
+environments.
+
+5. We are exploring with industry how to retrain those who have the aptitude to pursue
+
+careers in cyber security to address the current skills shortages. We are also increasing
+our efforts to identify and inspire the next generation of cyber security professionals and
+entrepreneurs. We have launched Cyber Discovery, our flagship schools programme for
+talented 14-18 year olds. Over 23,000 young people tested their skills in the first stage of
+the programme. Our Cyber First scheme continues to nurture young talent. In 2017 this
+included a series of summer courses attended by over 1,000 young people. Our 2018
+Cyber First girls’ competition attracted entries from 4,500 12-13 year old girls from 400
+schools, a 52% increase on the number of schools registered in 2017.
+
+
+-----
+
+6. We continue to support the growth of the cyber security sector. CyberInvest now has
+
+26 industry members investing millions of pounds in cyber security research at UK
+universities, and we recognise 14 university Academic Centres of Excellence in Cyber
+Security Research and four Research Institutes. Our Academic Startup programme is
+selecting teams for its second round. We are also recruiting for a third cohort of the
+HutZero programme, which helps entrepreneurs develop their ideas regardless of their
+background. The second cohort of participants is now going through the Cheltenham
+Innovation Centre’s Cyber Accelerator. The London Cyber Innovation Centre will open in
+spring 2018. Bespoke boot camps, aimed at helping established cyber security start-ups
+and SMEs become export ready, are also being held across the country.
+
+7. We are helping people understand the simple steps they can take to protect themselves
+
+through the national Cyber Aware campaign. Cyber Aware now has over 550 partners
+from the public, private and third sectors supporting and amplifying the campaign through
+their own channels. Our Cyber Essentials scheme provides guidance to businesses on
+protecting themselves against common cyber threats and on building their resilience to
+future threats. We also work in partnership with the retail and recruitment sectors and
+with consumer champions and student organisations.
+
+8. We will continue to invest in international partnerships that tackle shared threats and
+
+promote the rules-based international order in cyberspace. As we leave the EU,
+**we want to protect our cyber cooperation so that we can continue to share**
+**information about cyber threats, work with the European Union Agency for**
+**Network and Information Security (ENISA) and Europol, deepen industrial**
+**collaboration and work together to develop cyber resilience and response**
+**options. Our international cooperation extends our operational reach and reduces**
+the attack platform our adversaries can use against us and allies. We will increase
+our investment in building the capacity of international partners, including across the
+Commonwealth, in cyber defence, law enforcement and policy.
+
+
+National Cyber Security Centre
+
+The National Cyber Security Centre (NCSC) was created in 2016 to make the UK
+the safest places to live and work online. It sits alongside GCHQ’s vital capabilities
+and brings together expertise into a single, national authority as a cornerstone of our
+National Cyber Security Strategy.
+
+In its first 12 months, the NCSC has prevented thousands of attacks, provided vital
+support for our Armed Forces and transformed our ability to manage and respond to
+significant cyber security incidents. The NCSC has worked with partners to respond
+to nearly 800 incidents, coordinating the government’s response and providing
+reassurance to the public.
+
+The NCSC is also helping to put us on the front foot: launching the Active Cyber
+Defence programme; working to nurture the next generation of cyber experts through
+CyberFirst skills initiatives; and playing a leading role internationally with NATO,
+European partners and other key allies.
+
+
+-----
+
+### Serious and organised crime
+
+#### We will take a whole-of-government approach to serious and organised crime, including a new intelligence framework, better community engagement and a National Economic Crime Centre
+ in partnership with the private sector.
+
+1. Serious and organised crime (SOC) has grown faster than any country has been able
+
+to respond to it. It is inherently transnational with many of the threats we face within the
+UK emanating from overseas. Criminal networks are increasingly resilient and adaptable,
+exploiting technology and becoming involved in almost every type of crime.
+
+2. SOC causes significant harm. It leads to more deaths in the UK each year than all other
+
+national security threats combined, with over 2,500 deaths from drugs alone. It makes
+the UK a more dangerous place, with firearms offences increasing by over 25% between
+2015/16 and 2016/17. And it targets the vulnerable, seen in the continued rise of child
+sexual exploitation. Cyber-dependent crimes and cyber-related fraud now make up a
+third of all crime in the UK. Economic crime is a growing threat and makes other criminal
+activity easier.
+
+3. In the SDSR we made specific commitments to tackle money laundering and sanctions
+busting, cyber crime, online child sexual exploitation, modern slavery and the supply
+and availability of illegal firearms. While the NSCR confirmed that we have made good
+progress on all of these, the overall growth in the threat from SOC means that we need
+a more comprehensive approach. We will take a whole-of-government approach
+**including with the Devolved Administrations to tackle serious and organised**
+**crime and publish an updated Serious and Organised Crime Strategy in 2018.**
+
+4. **We will establish a new intelligence framework by working with all partners to put**
+
+intelligence at the heart of our response to SOC. The National Crime Agency (NCA) will
+ensure there is a single authoritative voice on SOC threats and lead a new capability
+development strategy. This will ensure that we are making the best use of capabilities
+across the whole law enforcement system and identify where future investment would
+have most impact.
+
+5. **We will take a whole-of-government approach to disrupting high-harm**
+
+**organised crime groups and corrupt elites. This will involve the coordinated use of all**
+available law enforcement, criminal justice, diplomatic and other tools to ensure the UK
+is a hostile environment for their activity. This will undermine their business model so that
+they are less able to operate effectively.
+
+6. **We will create a National Economic Crime Centre in partnership with the**
+
+**private sector. This will act as the national authority for the UK’s operational response**
+to economic crime, maximising the value of intelligence, and prioritising, tasking and
+coordinating to ensure the response achieves the greatest impact on the threat. It will
+be hosted by the NCA and will be staffed by partners from across the law enforcement,
+criminal justice and regulatory community and from the private sector.
+
+
+-----
+
+7. **We will reform the Suspicious Activity Reports (SARs) system. This will support our**
+
+aims of disrupting illicit financial flows by improving intelligence and disruptions whilst also
+reducing bureaucracy for the private sector. Coupled with new powers from the Criminal
+Finances Act, this will lead to increased asset recovery opportunities.
+
+8. **We will make community engagement a cornerstone of our response to build**
+
+resilience within communities and reduce public tolerance for criminal activity. We will
+implement a comprehensive approach to draw facilitators and offenders away from
+SOC. We will broaden our focus on resilience to show how communities themselves can
+become more resilient to the threat, including by reducing both tolerance of illegal activity
+and demand for illicit goods and services.
+
+9. **We will continue to deliver a targeted response overseas to tackle the inherently**
+
+**transnational nature of the threat. This will be supported by improved analysis**
+of the nature and drivers of illicit markets, and more activity designed to address the
+vulnerabilities that underpin those drivers. This will be a whole-of-government approach,
+with an expanded role for the Home Office, FCO and DFID in particular.
+
+10. Despite the increase in the overall threat, we have made progress in delivering the SDSR
+
+commitments on SOC. We have introduced new measures to make the UK a more
+hostile place for those seeking to move, hide or use the proceeds of crime and corruption
+or to evade sanctions. The Criminal Finances Act in 2017 created new powers, including
+Unexplained Wealth Orders, which enable us to recover criminal assets and crack down
+further on money laundering and terrorist financing. Over £2.2 billion has been taken off
+criminals since the Proceeds of Crime Act 2002 was first introduced.
+
+11. The NCA’s cyber teams and police services across the whole country work together with
+
+prosecution services to secure disruptions and convictions. In the ten most serious cyber
+incidents investigated by the National Cyber Crime Unit between October 2016 and April
+2017, suspects were identified in nine cases and arrests were made in seven. Action
+Fraud, the national reporting centre, is operating 24/7 to improve the speed of the response
+for victims of cyber crime. The NCA’s Dark Web Intelligence Unit is now fully staffed,
+providing a national capability to assist national and regional operations with dark web
+research, assessment and evidential collection of data to identify and prosecute perpetrators.
+
+12. Collaborative working between the NCA and the police has resulted in approximately 400
+
+arrests for online child sexual exploitation offences each month, and the safeguarding of
+over 500 children each month. A further £20 million over the next three years has been
+allocated to help combat the online grooming of children. This has been used to fund
+Regional Organised Crime Units in England and Wales, significantly increasing undercover
+online capability which is used to identify and disrupt offenders.
+
+
+Dismantling a human trafficking organised crime group
+
+A UK-Romanian Joint Investigation Team set up in 2016 investigated an organised
+crime group trafficking Romanian nationals for sexual exploitation in the UK. It provided
+the legal gateway to target the group, disrupt their activities and safeguard vulnerable
+victims, many of whom were subject to horrific abuse. This joint approach, coordinated
+by Europol and Eurojust, dismantled the organised crime group, with 21 arrests,
+
+
+-----
+
+13. We are leading the global effort to end child sexual exploitation and abuse through
+
+the WePROTECT Global Alliance initiative. We also support the Fund to End Violence
+Against Children (launched by UNICEF in 2016) through a £40 million contribution over
+four years. We have strengthened our capability to identify and prioritise the needs of
+victims of child sexual exploitation, and created additional intelligence and child protection
+advice capabilities. Technological advancements, such as new facial matching and video
+capability, will further assist forces in investigations and help uncover new leads.
+
+14. £8.5 million of additional funding is now available to police forces in England and Wales
+
+to transform the policing response to modern slavery, providing over 60 new and
+dedicated roles to support the police with improved intelligence, training and specialist
+tactical advice alongside a strengthened operational response. We are working closely
+with source countries to eradicate modern slavery in the UK, and build partnerships
+to wipe out modern slavery globally, through multilateral engagement and international
+co-ordination. We have achieved considerable operational success in the UK and
+across Europe and Africa, disrupting and prosecuting some of the most serious, highrisk criminals.
+
+15. We continue to choke off the supply and availability of illegal firearms. The Policing and
+
+Crime Act introduced changes to firearms legislation in January 2017, tightening up
+controls on the unlawful conversion of imitation firearms and strengthening definitions
+on antique firearms. We launched a new multi-agency cell focused on enhancing our
+understanding of the CT/SOC threat to the UK from illegal firearms, and we have been
+working with European partners, to tackle the illegal possession and trafficking of
+firearms, setting more stringent standards for deactivation, and encouraging greater
+information sharing.
+
+16. As we leave the EU, we want to continue our co-operation against SOC. The UK
+
+has been at the forefront of shaping the arrangements that underpin our internal security
+co-operation with the EU. Practical co-operation, co-operation between law enforcement
+agencies and the exchange of data through databases are all areas where there is
+mutual benefit in our continued close co-operation. This is why we have proposed a
+new treaty on security, law enforcement and criminal justice, which we think is the best
+way of ensuring continued collaboration and co-operation on key legislative tools and
+instruments as we leave the EU.
+
+
+Targeting the illicit sale of firearms and ammunition
+
+We formed an international Joint Investigation Team after the discovery in 2015 of a
+shipment of Skorpion submachine guns to the UK. It targeted the illicit sale of firearms
+and ammunition using the dark web, bitcoin currency and ‘fast parcel’ deliveries.
+Using Europol as the platform for rapid exchange of information and coordination, law
+enforcement action resulted in the identification of a significant number of ‘customers’
+and numerous successful prosecutions throughout Europe.
+
+
+-----
+
+### Ports and borders
+
+#### We will integrate the knowledge and expertise held by all border organisations to produce comprehensive strategic threat assessments.
+
+1. The border is a vital asset for our national security, prosperity and global image.
+
+It provides a unique intervention point to detect and disrupt a range of security threats,
+while enabling the travel and trade that underpins our prosperity as a global hub.
+The border also contributes to how we are seen internationally. We must facilitate the
+movement of legitimate trade and travellers from overseas, while ensuring the right
+measures are in place to deter hostile actors and prevent illicit cross-border movements.
+
+2. The border itself is a complex operating environment that reaches far beyond the physical
+
+controls at specific ports and airports. It includes a wide range of activity overseas and in
+the UK, undertaken by at least 25 distinct government organisations. These range from
+Border Force, HM Revenue and Customs and Immigration Enforcement whose roles
+are relatively well known, to organisations as diverse as the Medicines and Healthcare
+Products Regulatory Agency, the Food Standards Agency, the Driver and Vehicle
+Standards Agency, and the Animal and Plant Health Agency.
+
+3. We must balance our security and prosperity objectives at the border. In 2016, more than
+
+250 million travellers crossed the UK border, with foreign visitors spending over £23 billion
+in the UK. In the same year, 470 million tonnes of freight passed through our major ports,
+making up over £300 billion of exports and nearly £440 billion of imports. These figures
+are all expected to continue to increase in coming years, placing further demands on our
+border. Cheap cross-border travel and immediate communication mean criminals are
+increasingly agile, organised and difficult to disrupt. Meanwhile passengers and industry
+have increasingly high expectations for a quick and efficient border experience.
+
+4. In the UK we already benefit from some of the world’s most efficient and effective border
+
+systems. We are a world leader in the use of facial recognition technology for passport
+control, with approximately 250 automated electronic ePassport Gates now in operation
+at our major airports and rail terminals. These include the ‘juxtaposed controls’ we
+operate in France and Belgium, where passengers pass through UK passport control
+and customs in Paris or Brussels before boarding their train to the UK. We make
+extensive use of advance passenger data to help target interventions and keep the UK
+safe. We have a world-class radiological detection capability. We are also making further
+enhancements which will benefit both our security and prosperity. We intend to replace
+the paper visas we stick into passports with electronic ‘e-visas’, which will be more
+secure and will enhance the customer experience.
+
+5. In the years preceding and since the publication of the SDSR, border-related law
+
+enforcement has gone through a period of significant organisational change. Through
+the NSCR, we looked closely at how our borders operate. We found that successful
+operations against terrorists and criminals are increasingly the outcome of collaboration
+by multiple organisations, and we are determined to build on this success. We will
+**improve our strategic intelligence capability further by integrating the knowledge**
+**and expertise held by all border organisations to produce comprehensive**
+
+
+-----
+
+**strategic threat assessments. Organisations at the border, including law enforcement**
+across the UK, will develop smarter ways of working together and coordinating
+their activity. This will mean we make better use of our capabilities and increase our
+effectiveness in responding to changes in threats.
+
+6. We will work more closely with industry partners operating at the border to ensure that
+
+operations work as smoothly and effectively as possible. Industry operators face many
+of the same challenges, including developing and installing the infrastructure required
+for physical controls and minimising the effect that these controls have on legitimate
+freight and passenger flow. Close cooperation with industry is also crucial to tackle
+port corruption, particularly by those with access to secure areas who may abuse their
+position to facilitate the illicit entry or exit of people or goods. As a result of the NSCR,
+we will introduce a new border security partners group to support this cooperation.
+
+7. As we reported in the first SDSR Annual Report, the Royal Navy is working closely with
+
+law enforcement agencies to maintain the UK’s maritime security and the security of its
+territorial waters. The Joint Maritime Operations Centre established in 2016 has now
+been expanded into a Joint Maritime Operations Co-ordination Centre (JMOCC) involving
+the Home Office, the Royal Navy, UK Border Force, Police and other maritime agencies.
+The Royal Navy will obtain five new offshore patrol vessels, with the first one, HMS Forth,
+due to enter service in spring 2018.
+
+8. **As we leave the EU, we want to find a practical and pragmatic way to continue**
+
+**to cooperate with the EU on cross-border threats. The UK has driven a pan-**
+EU approach to processing passenger data, enabling the identification and tracking
+of criminals, victims of trafficking and those individuals vulnerable to radicalisation.
+People across Europe are safer as a result. A key border security requirement is advance
+information about freight movements. Advance information helps border agencies target
+illicit movements and reduces unnecessary disruption of legitimate loads or shipments.
+
+9. When we leave the EU, we will put in place amended legislation on our Territorial Waters
+
+and Exclusive Economic Zone (EEZ) that ensures our security and prosperity interests
+are fully addressed, including for the commercial exploitation of waters around the UK
+through fishing, and mineral, oil and gas exploration and production. Our preparation
+for enforcement of the new legislation includes a UK-wide review to improve the
+coordination, tasking, asset sharing and governance of all marine policing, maritime
+security and border enforcement activity in the UK Marine Area.
+
+
+Operation Halifax
+
+We worked jointly with Bulgaria, Belgium, France and The Netherlands through
+Operation Halifax to tackle systematic smuggling of migrants into northern Europe.
+The operation resulted in 120 arrests across 10 EU countries.
+
+
+-----
+
+### National resilience
+
+#### We will improve assurance of resilience and readiness of local and national capabilities, reinforce mutual aid systems during major disasters, and continue to develop a holistic approach to supporting victims of emergencies.
+
+1. Resilience embeds the control of risks, and readiness for and recovery from emergencies
+
+and disruption into everything we do. National resilience involves the effective
+coordination of capabilities and approaches across tiers of government and the wider
+public and private sector.
+
+2. National resilience is truly collective, depending on all of us – emergency responders,
+
+local and central government, the Armed Forces, businesses, communities and individual
+members of the public. We are committed to continually strengthening the UK’s resilience
+and we act on lessons after emergencies have happened. The vital importance of this
+work was emphasised last year following the appalling attacks in Manchester and London
+and the tragedy at Grenfell Tower. This was the focus of the NSCR work on resilience.
+
+3. We will continue to seek further opportunities to understand and assure resilience and
+
+readiness of both local and national capabilities. Emergency response and recovery
+is carried out first and foremost at the local level. As part of efforts to improve local
+resilience, the Cabinet Office is working with the local multi-agency bodies, Local
+Resilience Forums (LRFs), to identify good and leading practice. We will continue to
+**build a set of Resilience Standards which set expectations, help Local Resilience**
+**Forums assess themselves, and act as a basis for assurance and continuous**
+**improvement.**
+
+4. Mutual aid is widely used within and between organisations during emergencies. We will
+
+**identify ways to reinforce local mutual aid systems during major disasters.**
+This includes local responders taking steps to ensure the mutual aid is firmly embedded
+in local response arrangements, as well as departments taking steps to ensure that the
+right support can be delivered quickly to where it is needed on the ground.
+
+5. We are committed to supporting the victims of tragic events, both in the immediate
+
+aftermath of the event and also in the longer term. Events throughout 2017 demonstrated
+the importance of coordinated and effective support being available to victims and
+their families. The Victims of Terrorism Unit works with numerous organisations to
+ensure that victims of terrorist attacks receive the best possible support. We will
+**work across services, including with the voluntary sector and charities, to**
+**continue to develop a holistic approach to supporting victims of all major and**
+**serious incidents.**
+
+6. We committed in the SDSR to having the right regulatory framework to ensure our
+
+critical national infrastructure (CNI) is resilient to future threats. We published a Green
+Paper in 2017 setting out proposals to reform and strengthen powers for scrutinising
+the national security implications of certain particular types of investments, in particular
+sensitive technologies and certain types of CNI The Green Paper sets out the reforms
+
+
+-----
+
+that we propose to take in both the short and long term. A regulatory framework for cyber
+security in critical sectors is due to be implemented by May 2018.
+
+7. We are also enhancing the UK’s ability to prepare for and respond to nationwide power
+
+failure. A taskforce of representatives from across the energy sector is working with the
+Department for Business, Energy and Industrial Strategy (BEIS) to ensure there is a robust
+and effective restoration strategy in the short and long term. This is alongside work led by
+Cabinet Office on cross-sector mitigation and response.
+
+8. We have completed the review of infrastructure policing set out in the SDSR, and are now
+
+considering ways to optimise the protection of critical infrastructure, such as our nuclear
+sites and railways.
+
+9. We have also reviewed our approach to biological security. The UK Biological Security
+
+Strategy will address key risks such as natural disease outbreaks.
+
+10. Space was designated as a CNI sector in 2015. A cross-government ministerial space
+
+committee was established in December 2016 to set the government’s strategic ambition
+for space, promoting growth and enhancing security by driving the development and
+implementation of coherent cross-government civil and military space strategies and
+policies. The UK Space Agency will publish a Space Strategy in 2018.
+
+11. We are implementing the recommendations of the National Flood Resilience Review 2016
+
+to improve the UK’s preparedness for flooding. The National Flood Response Centre
+(NFRC) was established after the Review and exercised in 2016 and 2017.
+
+12. We continue to upgrade our crisis response infrastructure drawing on MOD support as
+
+required. This work ensures that we have resilient and flexible structures which are able
+to deal with a wider range of risks. We intend to complete this work by the end of the
+current Spending Review period.
+
+13. As we leave the EU, we seek to continue to co-operate with the EU on shared
+
+**threats including terrorism, civil emergencies, resilience, risk reduction and**
+**health security. Our ability to prevent, prepare for and respond to risks is enhanced by**
+our ability to share data and expertise, exchange information and collaborate closely with
+our nearest neighbours.
+
+
+Civil protection
+
+We are one of the most active countries in civil protection. We work closely with the
+EU, NATO and countries around the world in preparing for and responding to major
+emergencies, including earthquakes and major disease outbreaks. We are a leading
+voice in NATO on the importance of civil resilience as an aspect of collective defence
+and modern deterrence. We deployed our first regional resilience adviser to the Baltic
+States to share best practice in building national resilience. In emergencies, we are a
+steadfast partner. Between 2013 and 2017 we sent thousands of tonnes of assistance
+items and more than 1,200 experts through EU mechanisms to support the response
+to emergencies.
+
+
+-----
+
+### Global Britain
+
+#### We will strengthen our overseas network so that we can reinvest in our relationships around the world, champion the rules-based system including free trade, and use our soft power to project our values and advance UK interests.
+
+1. Global Britain means the UK as an open, inclusive and outward facing free-trading global
+
+power playing a leading role on the world stage. We are reinvesting in our relationships
+around the world. We are championing free trade and the international rules-based
+system. And we are using our soft power to project our values and advance UK interests.
+
+2. In the SDSR we identified that our strong alliances and partnerships worldwide are ever
+
+more important since many of the opportunities and threats are global. Global Britain
+builds on this. Economic growth in Asia is moving the global centre of gravity east.
+Meanwhile some states are actively destabilising the world order to their own ends,
+claiming that the rules and standards we have built, and the values on which they rest,
+no longer apply.
+
+3. As a global trading nation, our security and prosperity has always been bound to global
+
+security and prosperity. The fundamental values we hold dear – respect for human
+dignity, human rights, freedom, democracy and equality – have created common cause
+to act together with partners in our shared interest. Global Britain involves deepening our
+partnerships and showing leadership in tackling global challenges, including through our
+seat on the United Nations Security Council. We will establish a Global Britain Board
+**to coordinate Global Britain activity across departments, agencies and our**
+**overseas network.**
+
+4. Our overseas network underpins our international engagement. We have 15,000 staff
+
+from 31 departments and public bodies across 169 countries and territories. The UK
+model is a powerful combination of skills and expertise that provides influence and senior
+access and deploys specialist knowledge in areas such as counter-terrorism, migration,
+financial regulation, trade policy, defence, development, climate change and law
+enforcement as well as consular support to British nationals.
+
+5. **We will strengthen our overseas network to support our ambitions for Global**
+
+**Britain. Additional staff will build and strengthen bilateral engagement around the world,**
+project our influence and underline our commitment to allies and partners, including in
+Europe, and deliver in areas where the EU has led to date. In 2018, we appointed the first
+of nine of Her Britannic Majesty’s Trade Commissioners, who will lead our co-ordinated
+trade and investment effort overseas. We will increase our efforts to place UK experts in
+key positions in multilateral institutions, such as the WTO, UN, NATO and the international
+financial institutions. We remain firmly committed to ensuring that these organisations
+remain fit for purpose and we support reform programmes to achieve this.
+
+6. We will also continue to strengthen the platform that the network provides for
+
+government departments to operate overseas. We have already largely consolidated
+most departments’ presence onto one single platform with the FCO as the main
+
+
+-----
+
+corporate services provider. The cross-government Network Board will set out a
+**detailed implementation plan that identifies measures to further strengthen the**
+**overseas platform.**
+
+7. Expertise underpins our capability to deliver Global Britain. We will make more use of
+
+best practice training provision, including the FCO Diplomatic Academy’s 12 faculties
+and the Defence Academy. We will continue to improve the use of expertise, including in
+languages. We already have better language skills being used in key roles. We will also
+track skills across departments better.
+
+8. Defence Engagement was established as a funded MOD task as a result of the
+
+SDSR, and the defence staffs established in the Gulf (Dubai), Asia-Pacific (Singapore)
+and West Africa (Abuja) became fully operational in 2017. We also met our SDSR
+commitment to double the number of our military personnel supporting UN peacekeeping
+missions in 2017.
+
+9. We are investing £291 million to 2020 in the BBC World Service to increase access
+
+to trusted news and information. We continue to invest in the British Council as a
+world leader in promoting cultural relations and educational opportunities. Their
+major programme this year ‘Active Citizens’ builds understanding and trust between
+communities locally and globally and has trained 55,000 people in 2016/17.
+
+10. The Chevening, Marshall and Commonwealth Scholarship schemes continue to attract
+
+high-quality applicants from around the world with almost 2,500 new students studying in
+the UK in 2017 under these schemes. We have also increased the number of international
+places being offered on our most prestigious International Defence Training courses from
+1221 places in 2015/16 to 2,240 in 2016/17.
+
+Our overseas network
+
+
+-----
+
+11. How the UK is perceived matters. Building on these investments, we will create a
+
+**cross-government soft power strategy, while respecting the independence of the**
+BBC World Service, British Council and the many British institutions and brands that
+contribute to our soft power. We will use the GREAT campaign to support the UK’s
+future relationship with European countries and to continue to promote the UK and be a
+powerful outreach tool worldwide. We will develop options to improve visa service
+**delivery through the FCO and Home Office.**
+
+12. We will continue to demonstrate global leadership through a rolling calendar of
+
+**international summits and conferences. The Commonwealth Heads of Government**
+Meeting in London in April 2018 will have a strong youth focus since the future of the
+Commonwealth depends on its one billion young people. They benefit from a common
+language, legal systems and values, making it easier for them to communicate, trade and
+cooperate with one another. The London 2018 Illegal Wildlife Trade Conference will build
+global consensus on tackling this lucrative transnational crime.
+
+13. As we leave the EU, we seek a deep and special partnership between the UK and
+
+**EU. We want to work together globally, defending the international order and**
+**our shared values. We seek a partnership on external security that goes beyond any**
+existing third country arrangements and offers us the means to combine efforts where it is
+in our mutual interest. The future partnership must respect the decision-making autonomy
+of the EU and the sovereignty of the UK. Since the EU’s common foreign policy is distinct
+within the EU Treaties and our foreign policies will keep evolving, we should be ready to
+bring into effect key aspects of our future partnership on external security from 2019.
+
+
+Sanctions on the Democratic People’s Republic of Korea (North Korea)
+
+The UK has played a prominent role as a permanent member of the United Nations
+Security Council to put pressure on the Democratic People’s Republic of Korea
+(DPRK), including through sanctions, to stop its illegal pursuit of nuclear weapons and
+ballistic missiles. We have also pursued additional autonomous EU sanctions, including
+a full ban on investment in the DPRK and oil exports.
+
+In January 2018, the UK was instrumental in securing agreement to list 17 DPRK
+nationals involved in illegal trade activities and sanctions evasion. The UK, with EU
+partners, has actively encouraged the comprehensive enforcement of UN Security
+Council sanctions by the international community.
+
+
+-----
+
+Partners, allies and global engagement
+
+In SDSR 2015, we highlighted the vital importance of our strong alliances and
+partnerships worldwide. The strength of our global approach is reinforced by the range
+and breadth of our bilateral and regional relationships, as well as our influence in global
+and regional institutions. The three primary centres of the global economy and political
+influence are now in North America, in Europe and its neighbourhood, and in the
+Indo-Pacific region, and we must maintain and build on our strong relationships across
+these regions. At the same time, Global Britain will remain active and engaged around
+the whole world, on key global issues, and in the major institutions of the rules-based
+international order.
+
+**The United States continues to be our single most important international partner.**
+
+**NATO remains the cornerstone of our security posture.**
+
+Many of our closest and most like-minded partners are members of the European
+**Union, and we remain unconditionally committed to Europe’s security. We will maintain**
+particularly comprehensive bilateral relationships with France, Germany and Ireland.
+We will continue to engage closely with the EU as an organisation and with all our
+European friends and partners both in the EU and outside it.
+
+We are uniquely privileged to share close security and cultural links with Five Eyes
+partners in Australia, Canada and New Zealand as well as the US.
+
+We maintain strong relationships with our key partners in the Gulf and around the
+**Middle East and North Africa, reflecting our mutual security and prosperity interests,**
+and helping to tackle the many security challenges which emanate from the region.
+
+We have established a global comprehensive strategic partnership with China.
+
+Our enduring close relationship with India offers much scope to build mutual
+prosperity and security. Across South Asia we have deep relationships flowing from
+our shared history. We remain committed to Afghanistan’s future.
+
+**Japan and South Korea are strong partners for us in security, prosperity, and in**
+tackling many global issues.
+
+In South East Asia we continue to work with our key partners on economic,
+educational and security issues, including the Five Power Defence Arrangements with
+Australia, New Zealand, Malaysia, and Singapore.
+
+We are building partnerships with small island states to enhance their sustainability.
+
+Our focus on Africa will change and expand to match challenges and opportunities
+faced by rapidly growing, young populations across the continent.
+
+**Latin America offers us increasing opportunities for close cooperation with influential**
+and like-minded liberal free-trading nations.
+
+Our commitment to the United Nations, including our role as a permanent member
+of the Security Council, remains central to our global engagement. We work closely
+with the other permanent members to tackle global challenges. We will also continue
+to strengthen the Commonwealth and we will maintain our active membership of the
+wide range of multilateral bodies and groupings to which we belong, including the G7,
+**G20, counter-proliferation regimes and international financial institutions.**
+
+
+-----
+
+### National security communications
+
+#### We will significantly expand the National Security Communications Team to make communications an integral part of our approach to national security.
+
+1. The UK is considered a world leader in communications but we have taken a more
+
+consistent approach to delivering domestic communications campaigns, such as on
+road safety and stopping smoking, than in national security. Nevertheless, there are clear
+examples of success. The UK leads international efforts to counter Daesh’s propaganda
+and damage its brand. The GREAT campaign is an international campaign to generate
+jobs and growth for Britain that has already secured confirmed economic returns of
+£2.7 billion.
+
+2. Strategic communications was considered in the SDSR as a part of our approach to
+
+some capabilities, but not as a cross-government capability. As a result of the NSCR,
+**we will significantly expand the National Security Communications Team.**
+This enhanced capability will mean that the senior officials for NSC priorities will have
+access to a broad cross-government group of communications professionals who can
+work centrally or alongside them to achieve communications objectives as an integrated
+part of the government’s approach to national security.
+
+3. The enhanced National Security Communications Team will continue to be staffed by
+
+the Government Communication Service, the professional body for people working in
+communication roles across government. The expansion will enable communications
+professionals to specialise in national security communications, with training, support and
+a career pathway to strengthen and retain talent.
+
+4. The communications landscape is continually evolving. Communications are increasingly
+
+being used by our partners and adversaries alike for strategic real-world advantage.
+Traditional channels have been largely discarded in favour of digital and social media
+platforms. This is combined with a decline of trust in traditional sources of information
+and the era of so-called ‘fake news’. In parallel, the rules of the game have changed.
+The democratisation of information, and the means to exploit it, has allowed hostile actors
+to exert disproportionate influence in competition with the public interest.
+
+5. We will continue to use communications to tackle these interconnected, complex
+
+challenges to our national security. They must be part of the frontline of our defences,
+helping prevent threats to British lives at source. We need to be able to communicate
+more effectively about our policies and what we stand for across our core national
+security interests. One way we do this to highlight the international campaigns we lead in
+order to protect and project our fundamental values and build a greater global community
+on issues of national and international security.
+
+6. The UK launched the Counter-Daesh Communications Cell in 2015 as part of the Global
+
+Coalition of 74 international partners dedicated to degrading and defeating Daesh.
+Through our leadership, the Cell changed the international narrative around Daesh – from
+one that highlights their atrocities to one which emphasises their failures. This has been
+
+
+-----
+
+vital in damaging the perception of Daesh, and reducing their ability to recruit. We provide
+daily information packs to Coalition partners, containing facts and figures on Daesh’s
+[increasing failures. We also launched a Global Coalition website (www.theglobalcoalition.](http://www.theglobalcoalition.org)
+[org) that houses up-to-date information on Coalition progress. All of this helped Coalition](http://www.theglobalcoalition.org)
+governments highlight Daesh’s lies and expose their inadequacies. As a result of our
+combined efforts, Daesh’s propaganda output dropped by 75% in 2017.
+
+
+-----
+
+### Economic security, prosperity and trade
+
+#### We will use the Fusion Doctrine to integrate economic goals and capabilities throughout national security.
+
+1. In the SDSR we emphasised that our economic and national security go hand in hand.
+
+Economic security is a core part of the UK’s national security agenda. We are the sixth
+largest economy in the world, the fifth largest exporter and the top destination for inward
+investment in Europe. Our partners around the world want British businesses as partners
+for the long term, and the legal services, accountancy services and finance that make
+the UK a global financial centre. The UK’s position and influence in the growing global
+economy are of even greater importance as we face a growing range of challenges to free
+trade and globalisation.
+
+2. Despite the linkage we made in the SDSR between security and economic goals,
+
+we have not fully integrated our approaches. We will use the Fusion Doctrine to
+**integrate economic goals and capabilities throughout national security.**
+
+3. Our Industrial Strategy, published in 2017, sets out our vision for the future economy and
+
+our strategy to boost the productivity, earning power and quality of life of people across
+the country. Our aim is that by 2030 we will have transformed productivity and earning
+power across the UK to become the world’s most innovative economy and the best place
+to start and grow a business, with upgraded infrastructure and prosperous communities
+across the country. We are building on the UK’s many strengths and reinforcing the
+foundations of productivity: ideas, people, infrastructure, our business environment and
+places. We have announced sector deals, involving strategic long-term partnerships
+between industry and government backed by sizeable private sector co-investment,
+in construction, life sciences, artificial intelligence and automotive industries, and will
+announce more in the future.
+
+
+Industrial Strategy
+
+Our commitments include:
+
+- raising investment in R&D to 2.4% of GDP by 2027 and announcing £725 million in
+new Industrial Strategy programmes to drive innovation;
+
+- investing £406 million in maths, digital and technical education as well as creating
+a new National Retraining Scheme that helps people to re-skill;
+
+- boosting spending on the infrastructure of the future, delivering clean energy and
+spreading 5G digital connectivity right across the country and £400 million for
+electric vehicle charging points;
+
+- creating a £1.7 billion Transforming Cities Fund for projects that drive productivity
+by improving connections within city regions; and
+
+- creating an Independent Industrial Strategy Council to develop measures of
+success and evaluate our performance.
+
+
+-----
+
+4. The Industrial Strategy sets out ‘Grand Challenges’ to put the UK at the forefront of
+
+the industries of the future, ensuring that we take advantage of major global changes,
+improving people’s lives and the country’s productivity. The four initial challenges are:
+
+- putting the UK at the forefront of the Artificial Intelligence and data revolution, which could
+add £232 billion to the UK economy (around 10% to GDP) if widely adopted;
+
+- making the UK a world leader in the development, manufacture and use of low carbon
+technologies, systems and services since the global shift to clean growth will transform
+many sectors;
+
+- becoming a world leader in shaping the future of mobility, since we are on the cusp of a
+profound change in how people, goods and services move, driven by engineering and
+technology innovations; and
+
+- harnessing the power of innovation to meet the needs of an ageing society, with the
+world’s centenarian population projected to grow eightfold by 2050.
+
+5. To promote the UK’s economic growth and prosperity, we seek to maximise UK trade
+
+opportunities, including exports and investment (outward direct investment and foreign
+direct investment). We will build on the UK’s competitive strengths identified in the
+Industrial Strategy. We promote and protect innovation, technological development and
+skills growth in the UK and globally. We also market the UK as the best place to visit,
+study and do business.
+
+6. We champion the rules-based international financial and economic architecture and
+
+support greater inclusivity in the membership and decision-making of the International
+Financial Institutions including the World Bank and the IMF. In the G20, we have led
+international work on tax capacity-building in developing countries. In the G7, we have
+led work to counter money laundering and terrorist financing. We will work to reduce
+the barriers to bilateral trade (tariff and non-tariff) and market access, ensuring a
+comprehensive network of trading agreements, and reinforcing the multilateral rulesbased system which governs trade and the stimulation of demand, especially in
+emerging and innovation-focused sectors. We are deepening our bilateral economic
+relationships with emerging global economic powers, including through our Economic
+and Financial Dialogues.
+
+7. We remain a leading player in developing and applying economic sanctions.
+
+The Policing and Crime Act 2017 has increased penalties for evading financial sanctions.
+The Sanctions and Anti-Money Laundering Bill is intended to help us continue using
+sanctions smartly to deliver national security outcomes after we have left the EU.
+
+8. We will continue to promote greater resilience in the global economy and global financial
+
+system through monitoring and mitigation of endemic and emerging economic and
+financial risks, including by the multilateral institutions, and removing bottlenecks to
+financial, trade and economic flows. And we support action within and across borders to
+secure financial systems against cyber crime and from any criminal activity that aims to
+defraud or abuse those systems.
+
+
+-----
+
+9. We predict, analyse and mitigate external economic threats to the UK and the wider
+
+global system to protect economic security. We respond to punitive or hostile policies
+developed by other states which harm the UK’s economic prospects as well as
+international threats to critical national infrastructure (CNI). We reduce risks from serious
+and organised crime, including by engaging with other global financial centres to tackle
+illicit financial flows. We work bilaterally and multilaterally to ensure UK energy security.
+We seek to mitigate threats arising from major global issues and wider market failures.
+These include climate change, energy policy and health issues, such as global pandemics
+and antimicrobial resistance. We also monitor and, where possible, mitigate the threats to
+UK economic benefit from major global geo-political events.
+
+10. We enhance our economic security and prosperity at home through our development
+
+work which supports strong, inclusive and sustainable growth overseas. This work
+demonstrates the UK’s commitment to eradicating poverty and meeting the Sustainable
+Development Goals whilst also enhancing mutual prosperity by building the foundations
+for UK trade and commercial opportunities in horizon markets. We believe the Paris
+Agreement on Climate Change represents the right global framework for protecting the
+prosperity and security of future generations.
+
+
+UK-Japan partnership
+
+Japan is one of our global strategic partners and, during the Prime Minister’s visit
+to Japan in 2017, we committed to elevating our security and defence partnership
+to a new level, including agreeing a Joint Declaration on Security Cooperation. The
+Declaration confirmed that we are each other’s closest security partners in Asia and
+Europe respectively and is a clear demonstration of the importance of aligning our
+complementary agendas.
+
+Security and defence is a cornerstone of our relationship with Japan. We are
+enhancing our coordinated response to challenges to the rules-based international
+system, through increased security and defence cooperation in areas such as joint
+exercises, defence equipment and technology, cooperation in third countries, counterterrorism and violent extremism, cyber security, and combating serious and organised
+crime, including modern slavery.
+
+Japan and the UK are among the strongest global champions of free trade. The UK
+has been one of the strongest advocates of the EU-Japan Economic Partnership
+Agreement (EPA). As the Prime Minister agreed during her visit to Japan, we will work
+quickly to establish a new economic partnership between Japan and the UK based on
+the final terms of the EPA.
+
+
+-----
+
+11. As we leave the EU, we seek a deep and special partnership that spans a new
+
+**economic relationship and a new relationship on security. We start from the unique**
+position of regulatory alignment, trust in one another’s institutions and a shared spirit of
+cooperation. We want the broadest and deepest possible partnership – covering more
+sectors and co-operating more fully than any Free Trade Agreement anywhere in the
+world today. We both want good access to each other’s markets; we want competition
+between us to be fair and open; and we want reliable, transparent means of verifying that
+we are meeting our commitments and resolving disputes. This partnership, together with
+the new trade deals we strike with allies across the world, will support new jobs for our
+people, new markets for our exporters, and new growth for our economy.
+
+
+Putting the UK at the forefront of the Artificial Intelligence and data revolution
+
+Artificial intelligence and machine learning are starting to transform the global
+economy and could add £232 billion to the UK economy by 2030. Through our Grand
+Challenge, we are encouraging greater uptake of Artificial Intelligence (AI) and data
+analytic technologies and are championing research and innovation. The UK will take
+an international leadership role by investing £9 million in a new Centre for Data Ethics
+and Innovation. This world-first advisory body will review the existing governance
+landscape and advise the government on how we can enable and ensure ethical, safe
+and innovative uses of data, including AI. We have also agreed an AI sector deal with
+industry to boost the UK’s global position as leader in developing AI technology.
+
+Our investment in AI is supported by a £10 million Regulators’ Pioneer Fund, helping
+regulators to take new approaches to new and emerging technologies. We will invest
+£45 million to fund new additional doctoral studentships in AI and related disciplines,
+increasing numbers by at least 200 extra places a year by 2020/21. Through our
+Industrial Strategy Challenge Fund, we are funding programmes to develop robots to
+work in extreme environments (£93 million), to improve data use for early diagnosis
+and precision medicine (£196 million), for AI and control systems needed to enable
+driverless cars (£38 million) and to bring about the next generation of services
+(£20 million).
+
+
+-----
+
+Our prosperity is founded on being an open liberal free trading economy in which
+
+
+-----
+
+### Development
+
+#### We will ensure our development capability responds to changes in global poverty and national security challenges.
+
+1. Development helps create the foundations for global security and prosperity. As a result,
+
+development assistance is an essential part of the UK’s approach to national security.
+Our assistance helps countries become self-sufficient, reduce transnational threats like
+terrorism and serious and organised crime, and tackle challenges like climate change and
+high levels of population growth. Development also builds economies to help create the
+UK’s trading partners of the future.
+
+2. While global poverty is falling, conflict and insecurity are becoming the main drivers
+
+of extreme poverty. In the SDSR, we committed to spend over 50% of DFID’s budget
+on fragile states and regions. We have consistently met this target and will continue to
+do so for the rest of the SDSR period. As a result of the NSCR, we will ensure our
+**development capability responds to changes in the drivers of global poverty**
+**and works in more innovative ways. We can deliver our development assistance**
+most effectively through a whole-of-government approach. The cross-government funds,
+described in the next chapter, contribute to this joined-up way of working.
+
+3. By 2030, around 80% of the extreme poor will live in poorly governed, fragile states,
+
+particularly in Africa. Weakness in governance also creates space for serious and
+organised crime and terrorism, and contributes to irregular migration, while our support
+helps countries improve their governance and reduce these drivers of conflict. Following
+the NSCR, DFID will focus on ensuring that its programmes are targeted more acutely
+on the underlying drivers of fragility, conflict and instability. We will increase our efforts
+**on security and justice, which will further help reduce insecurity, serious and organised**
+crime, and grievances that can lead to violent extremism.
+
+4. Aid can help create self-sufficient economies. But as countries transition out of poverty,
+
+what they need from the UK is changing. Looking to the future, we will be innovative
+in developing new tools and partnerships that can better meet the needs of emerging
+lower middle income countries and deepen the UK’s economic relationships with growing
+markets. We will share knowledge and technical expertise to support partner
+**governments to develop and deliver strategies for inclusive economic growth.**
+This includes a strong focus on stimulating major private sector investment, helping
+countries export and harness the power of trade with the UK and globally, and addressing
+the acute need for mass numbers of jobs for rising youth populations. In conflict-affected
+countries, supporting inclusive economic growth helps build the foundations for stability
+and economic opportunity.
+
+5. We will also deepen our relationships with emerging powers to shape global rules,
+
+financial systems and capital flows, and improve the provision of global public goods.
+We want to partner with emerging powers as they develop their institutions and
+encourage them to contribute to the international aid architecture. We will increase our
+cross-government work with global hubs that handle finance into and from the developing
+world. We will explore the possibility of new financial instruments or institutions to support
+
+
+-----
+
+This includes scoping a new toolkit to provide the right financing on the right terms as
+countries develop, which while contributing to poverty reduction could offer new markets
+for British businesses.
+
+6. Science, technology and innovation play a critical role in providing solutions to the
+
+world’s major development challenges. Some examples of the impact of our use of
+technology for development include: the rapid development and trialling of a new Ebola
+vaccine in response to the 2014/15 Ebola outbreak; investing in bio-fortification to tackle
+malnutrition with vitamin-enriched varieties of staple crops; and innovation in mobile
+apps, such as ‘pay as you go’ water and sanitation service delivery, and an app that
+streamlines efforts to trace the families of missing children during crises. We also spent
+over £1.1 billion in 2016/17 on climate change resilience and low carbon development in
+support of developing countries’ response to climate change. We will continue to harness
+technological innovation to deliver development outcomes through partnership across
+government, with international donors and the private sector.
+
+7. Official Development Assistance (ODA), often referred to as aid, is government funding
+
+meeting the internationally agreed criteria to promote economic development and welfare
+in eligible countries. Since the SDSR, more government departments are spending ODA.
+We work across government to ensure that the principles of good aid management
+including transparency and value for money are maintained. UK leadership has secured
+significant and important progress in changing the international aid rules at the OECD
+Development Assistance Committee (DAC) so that they better reflect the rapidly changing
+world we live in. This has included doubling the proportion of our multilateral peacekeeping
+costs that can be counted as aid, and securing agreement on the need to create a new
+mechanism to re-admit countries that had graduated from ODA eligibility back to the list
+of ODA-eligible countries if their GNI per capita falls low enough, for example as a result
+of a catastrophic natural disaster or other crisis. We will continue our efforts to reform the
+international aid rules so that they keep pace with the complex, global challenges of the
+twenty first century such as reducing poverty, instability and conflict.
+
+
+UK Emergency Medical Team
+
+The SDSR established the UK Public Health Rapid Support Team to provide fast
+and substantial assistance to countries affected by large-scale outbreaks. In Sierra
+Leone it established water-borne disease surveillance, particularly for cholera, in the
+wake of flooding and landslides in Freetown. Alongside this, we have established the
+UK Emergency Medical Team (EMT) to provide rapid healthcare responses during a
+humanitarian crisis.
+
+The EMT deployed for the first time in December 2017 to the refugee camps of
+Cox’s Bazar in Bangladesh following a diphtheria outbreak. 40 medical professionals,
+including doctors, nurses and paramedics, spent six weeks helping more than 3,000
+people, bringing the diphtheria outbreak under control and saving countless lives.
+
+The EMT also enables UK NHS workers to gain unique training opportunities.
+Following the Manchester terror attacks in 2017, many NHS staff who had received
+training were involved in the response, and subsequently fed back how valuable their
+
+
+-----
+
+8. **As we leave the EU, we want to continue working with the EU and European**
+
+**partners on development, on a case by case basis, when it is in our mutual**
+**interest, represents best value for money and we can play an appropriate role**
+**in shaping our collective actions. We share a commitment with the EU to eradicate**
+extreme poverty and help build prosperity, peace, stability and resilience in developing
+countries. Through our partnership, we could collaborate and align in support of the UN’s
+Sustainable Development Goals, as well as continuing to work together on early warning,
+conflict prevention and stabilisation.
+
+**UK’s ODA: GNI ratio (%) Current methodology in given year**
+
+**Of UK GNI (ESA2010)**
+
+**0.7%** **was spent on ODA to**
+
+**developing countries** **2016: 0.70%**
+
+**1970 UN target 0.7%**
+
+**Of UK ODA was spent**
+**bilaterally (going to**
+
+**64%** **specific countries,**
+
+**regions or programmes)** **2012:**
+
+0.57%
+
+**Of UK ODA was spent**
+
+**36%** **as core contributions to**
+
+**1970: 0.36%**
+
+**multilaterals**
+
+**Top 5 sectors: Proportion of UK bilateral** **Proportion of Total UK Net ODA:**
+**ODA, 2016** **by contributor, 2016**
+
+**Department for**
+
+**Humanitarian** **86.6%** **International Development**
+**15%**
+
+**73.8%**
+
+**Multisector**
+**13%**
+
+**2012** **2016**
+
+**Government & Civil Society**
+
+**Other Government** **18.3%**
+
+**13%** **11.0%** **Departments**
+
+**Health** **7.9%**
+
+**2.4%** **Other Contributors of UK**
+
+**12%** **ODA**
+
+**Education** **Five years ago DFID accounted for 86.6% of UK**
+**11%** **ODA, however in recent years the amount of ODA**
+
+**spent by non-DFID contributors has increased**
+
+UK Official Development Assistance 2016
+
+|2016: 0.70%|Col2|
+|---|---|
+|2016: 0.70% 1970 UN target 0.7%||
+|2012: 0.57% 1970: 0.36%||
+
+
+-----
+
+### Cross-government funds
+
+#### We will enhance the cross-government funds by improving strategic direction through the Fusion Doctrine, governance through a new Ministerial committee, and efficient administration by merging the secretariats into a single Funds Unit.
+
+1. The major cross-government funds supporting our National Security Strategy are a
+
+unique and flexible instrument of government policy overseas. The Conflict, Stability
+and Security Fund (CSSF) enables us to use the optimum combination of development,
+diplomacy, defence and security assistance rapidly and flexibly in countries at risk
+of conflict and instability. The Prosperity Fund helps countries grow and develop by
+providing capacity building, technical assistance and research in areas where we have
+particular strengths, including economic policy, trade, business environment, anticorruption and green growth. Both Funds use a combination of Official Development
+Assistance (ODA) to promote the economic development and welfare of developing
+countries, and a smaller amount of funding which does not qualify as ODA.
+
+2. We launched the cross-government Prosperity Fund and significantly expanded the CSSF
+
+in the SDSR, recognising the potential for these innovations to make a major impact on
+delivery of our national security objectives. As a result of the NSCR, we will enhance
+**the cross-government funds by improving strategic direction through the**
+**Fusion Doctrine, governance through a new Ministerial committee, and efficient**
+**administration by merging the secretariats into a single Funds Unit. The Ministerial**
+committee will be chaired by the Minister for the Cabinet Office. The Funds Unit will drive
+greater consistency in standards and improve the quality of delivery including by building
+capability and expertise to improve poverty reduction, security and prosperity impacts.
+The first annual reports for both cross-government funds were produced in 2017 and
+more detailed programme information is available on gov.uk.
+
+3. The CSSF enables and incentivises the joined-up use of capabilities, which is essential
+
+to make a difference in countries at risk of conflict and instability. The CSSF has been
+allocated £1.2 billion for 2017 to 2018, which includes over £300 million of mandatory
+contributions to peacekeeping operations. In Lebanon, CSSF programming responds
+to the instability caused by the conflict in Syria. DFID expertise is used to deliver CSSF
+programmes to relieve pressure on the education systems, basic municipal services
+and the local economy and job market, caused by the influx of around 1.5 million Syrian
+refugees. The FCO and MOD deliver programmes to help the Lebanese Armed Forces
+secure its border with Syria and build police capability.
+
+4. The CSSF enables the UK to be agile. It supported our response to Hurricane Irma in the
+
+Caribbean in 2017. The CSSF’s Rapid Response Mechanism (RRM) provided non-ODA
+funding to support the immediate response and rebuilding of critical infrastructure. The
+first £12 million of support was pre-approved as the hurricane was hitting and then further
+funding was rapidly agreed.
+
+5. The CSSF also funds our assessed contributions to multilateral organisations for
+
+
+-----
+
+6. The SDSR highlighted the Good Governance Fund (GGF), which is funded from CSSF
+
+to support economic and governance reforms in the eastern European neighbourhood.
+The GGF will expand its coverage in 2018 to support reforms in Macedonia and Armenia,
+in addition to Ukraine, Georgia, Moldova, Serbia and Bosnia and Herzegovina. The GGF
+will also support work connected with the 2018 Western Balkans Summit in London.
+
+7. The Prosperity Fund promotes inclusive economic growth, particularly in middle-income
+
+countries, whilst strengthening economic opportunities for the UK. The Prosperity Fund
+currently has a multi-year allocation of £1.2 billion. In India, support on green bonds
+contributed to an Indian public sector company committing $4 billion to finance clean
+energy infrastructure, with a first tranche of $300 million worth of green ‘masala’ bonds
+issued on the London Stock Exchange. In Thailand, we supported the development of
+the country’s first Public Procurement Act, which has standardised the system of public
+procurement and is providing greater transparency and integrity. We expect international
+firms, including from the UK, to compete for £1 billion of business using the new system.
+We also supported the testing of UK energy grid management technology in South Africa,
+leading to opportunities for UK companies.
+
+8. In the first SDSR Annual Report, we reported that we were developing a new cross
+government Governance, Education and Culture Fund (subsequently renamed as the
+Empowerment Fund). As a result of the NSCR, we have decided to amend the scope of
+the CSSF and the Prosperity Fund to include these objectives.
+
+      - High CSSF Spend
+
+     - Medium CSSF Spend
+
+     - Low CSSF Spend
+
+Geographical spread of CSSF funding spent or allocated 2015-2017
+
+
+-----
+
+## Annex: Principal commitments from the Strategic Defence and Security Review 2015
+
+**Green – In progress or ongoing**
+**Blue – Complete**
+
+
+-----
+
+-----
+
+We will work to build the inclusivity of International Financial Institutions’ membership and decision-making, so they
+63
+continue to command credibility and legitimacy in the eyes of their members.
+
+64 We will review sanctions governance to ensure the best coordination of policy, implementation and enforcement.
+
+65 We will campaign to increase the number of countries that have ratified the Arms Trade Treaty.
+
+66 We will spend at least 50% of DFID’s budget in fragile states and regions in every year of this Parliament.
+
+67 We will increase the Conflict, Stability and Security Fund from £1 billion in 2015/16 to £1.3 billion by 2019/20.
+
+We will double the existing Good Governance Fund to support economic and governance reforms in the eastern European
+68
+neighbourhood to £40 million per year by the end of this Parliament.
+
+69 We will increase UK climate finance for developing countries by at least 50%, rising to £5.8 billion over five years.
+
+
+70
+
+
+We will establish a new rapid response team of technical experts to deploy to help countries investigate and control
+disease outbreaks; and expand our Emergency Medical Team to provide medical assistance to help contain outbreaks
+when needed.
+
+
+71 We are creating a Prosperity Fund of £1.3 billion over the next five years.
+
+
+-----
+
+-----
+
+-----
+

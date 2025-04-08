@@ -1,0 +1,666 @@
+## 2017-2018
+
+# Defence Corporate Plan
+
+
+-----
+
+Statement of Preparation
+
+I, as the accountable authority of Defence, present the 2017–18 Defence Corporate Plan, which covers the periods of
+2017–21, as required under paragraph 35(1)(b) of the Public Governance, Performance and Accountablity Act 2013.
+
+**Brendan Sargeant**
+Acting Secretary of Defence
+7 June 2017
+
+© Commonwealth of Australia 2017
+
+ISSN 2205-5282 (online)
+
+ISBN 978-0-6480977-0-9
+
+[This publication is available for your use under a Creative Commons BY Attribution 3.0 Australia licence, with the exception of the Commonwealth](http://creativecommons.org/licenses/by/3.0/au/deed.en)
+Coat of Arms and the Department of Defence logo, signatures and where otherwise stated. The full licence terms are available from
+http://creativecommons.org/licenses/by/3.0/au/legalcode.
+
+[Use of the Department of Defence’s material under a Creative Commons BY Attribution 3.0 Australia licence requires you to attribute the work (but](http://creativecommons.org/licenses/by/3.0/au/deed.en)
+not in any way that suggests that the Department of Defence endorses you or your use of the work).
+
+_Department of Defence material used ‘as supplied’._
+
+Provided you have not modified or transformed the Department of Defence material in any way including, for example, by changing the Department
+of Defence text, the Department of Defence prefers the following attribution:
+
+Source: The Australian Government Department of Defence.
+
+Derivative material
+
+If you have modified or transformed the Department of Defence’s material, or derived new material from those of the Department of Defence in any
+way, then the Department of Defence prefers the following attribution:
+
+_Based on the Australian Government Department of Defence’s data._
+
+
+-----
+
+### Contents
+
+#### INTRODUCTION 2
+
+ PURPOSES 3
+
+ ENVIRONMENT 4
+
+ RISK OVERSIGHT AND MANAGEMENT 10
+
+ PLANNED PERFORMANCE 11
+
+
+-----
+
+### Introduction
+
+The 2017–18 Defence Corporate Plan sets out Defence’s role, objectives and functions, referred to as Purposes in the
+PGPA Act,[1] and describes how we will measure our performance in achieving our Purposes. Performance against the
+Corporate Plan will be reported through annual performance statements, to be included in the Defence Annual Report
+for 2017–18. The Corporate Plan is a living document and will be updated at least annually to reflect changes in our
+operating environment and to meet the requirements of the PGPA Act.
+
+The Defence Corporate Plan focuses on the two outcomes we deliver to Government:[2]
+
+-  Defend Australia and its national interests through the conduct of operations and provision of support for the
+Australian community and civilian authorities in accordance with Government direction; and
+
+-  Protect and advance Australia’s strategic interests through the provision of strategic policy, the development,
+delivery and sustainment of military, intelligence and enabling capabilities, and the promotion of regional and global
+security and stability as directed by Government.
+
+We undertake activities to deliver an effective defence capability[3] for Government. Over the life of this plan, we will
+continue to build capability to support our national security interests and promote them in a region that is growing more
+complex and dynamic, as described in the 2016 Defence White Paper.
+
+In 2017–18 we will continue implementation of the new force structure and capabilities identified in the White Paper.
+These changes are essential as we transform Defence into an organisation that delivers on our primary role: to protect
+and advance Australia’s strategic interests through the provision of military capabilities, the promotion of security and
+stability, and the provision of support for the Australian community and civilian authorities as directed by Government.
+
+In delivering this capability to Government, Defence will work to embed the significant organisational change that
+resulted from the First Principles Review, Creating One Defence, while continuing to deliver cultural reform, building on
+our Pathway to Change program. These changes are aimed at building our organisational capability and culture so that
+we can achieve our Purposes both now and into the future.
+
+We are pleased to present the 2017–18 Defence Corporate Plan.
+
+
+**Brendan Sargeant**
+Acting Secretary of Defence
+7 June 2017
+
+
+**Mark Binskin AC**
+Air Chief Marshal
+Chief of the Defence Force
+14 June 2017
+
+
+Purposes are defined by Part 1, Division 2—8 of the Public Governance, Performance and Accountability Act 2013 as ‘the objectives,
+functions or role’ of an entity.
+
+The Defence Outcomes are published in the Portfolio Budget Statements.
+
+Defence Capability is the power to achieve a desired operational effect in a nominated environment within a specified time and to sustain
+that effect for a designated period. In a military context, capability is achieved by developing a force structure appropriately prepared for a
+range of military operations. Australian Defence Doctrine Publication 00.2, ‘Executive Series: Preparedness and Mobilisation’, 2013.
+
+
+-----
+
+### Purposes
+
+#### The Defence mission is to defend Australia and its national interests.
+
+Defence’s primary role is to protect and advance Australia’s strategic interests through the promotion of security
+and stability, the provision of military capabilities to defend Australia and its national interests, and the provision of
+support for the Australian community and civilian authorities as directed by Government. In fulfilling this mission,
+Defence has two Purposes:
+
+**1. Defend Australia and its national interests**
+
+**2. Protect and advance Australia’s strategic interests.**
+
+Programs contribute to the achievement of the Defence Purposes and Defence Outcomes, as shown in Table 1.
+NB: Budget programs have been renumbered for 2017–18.
+
+|Purpose|Outcome Statement|Budget Program|
+|---|---|---|
+|Purpose 1: Defend Australia and its national interests|Outcome 1: Defend Australia and its national interests through the conduct of operations and provision of support for the Australian community and civilian authorities in accordance with Government direction.|1.1 Operations Contributing to the Safety of the Immediate Neighbourhood|
+|||1.2 Operations Supporting Wider Interests|
+|||1.3 Defence Contribution to National Support Tasks in Australia|
+|Purpose 2: Protect and advance Australia’s strategic interests|Outcome 2: We protect and advance Australia’s strategic interests through the provision of strategic policy, the development, delivery and sustainment of military, intelligence and enabling capabilities, and the promotion of regional and global security and stability as directed by Government.|Departmental|
+|||2.1 Strategic Policy & Intelligence|
+|||2.2 Defence Executive Support|
+|||2.3 Chief Finance Officer|
+|||2.4 Vice Chief of the Defence Force|
+|||2.5 Navy Capabilities|
+|||2.6 Army Capabilities|
+|||2.7 Air Force Capabilities|
+|||2.8 Joint Operations Command|
+|||2.9 Capability Acquisition and Sustainment|
+|||2.10 Estate and Infrastructure|
+|||2.11 Chief Information Officer|
+|||2.12 Defence People|
+|||2.13 Defence Science and Technology|
+|||Administered|
+|||2.14 Defence Force Superannuation Benefits|
+|||2.15 Defence Force Superannuation Nominal Interest|
+|||2.16 Housing Assistance|
+|||2.17 Other Administered|
+
+
+
+**Table 1. Portfolio Budget Statement programs mapped to Defence Purposes and Outcomes for 2017–18.**
+
+
+-----
+
+### Environment
+
+#### Strategic Risk
+
+The Government’s Defence policy, articulated in the 2016 Defence White Paper, is to align Australia’s defence strategy
+with capabilities and resourcing, grow our international defence partnerships and invest in the Defence–industry
+partnership to develop and deliver innovative, cutting-edge capabilities. Inherent in this policy is a greater focus on
+seizing opportunities while managing strategic risks. This will be achieved through developing Defence’s ability to take
+a more active role in shaping regional affairs and to respond to developments that threaten our interests. Our alliance
+with the United States will be strengthened as will our partnerships with other countries. This is designed to ensure the
+Australian Defence Force is better prepared to respond to complex emerging strategic risks by providing Government
+with greater options and flexibility.
+
+Emerging challenges are increasing strategic risk and uncertainty. As identified in the 2016 Defence White Paper:
+
+_We can expect greater uncertainty in Australia’s strategic environment over the next two decades as a_
+_consequence of: the changes in the distribution of power in the Indo-Pacific and globally; the continuing_
+_threat of terrorism from groups like Daesh and from foreign terrorist fighters; the modernisation of_
+_regional military capabilities; the introduction of new military technologies such as cyber systems; and the_
+_proliferation of weapons of mass destruction and ballistic missile technology.[4]_
+
+The White Paper sets out a new strategic framework within which all Defence activities are undertaken. This framework
+identified three Strategic Defence Interests linked to three equally weighted Strategic Defence Objectives:
+
+_1._ _A secure, resilient Australia, with secure northern approaches and proximate sea lines of communication._
+
+The Strategic Defence Objective for this interest is: Deter, deny and defeat attacks on or threats to Australia and its
+national interests, and northern approaches. This objective relates to Defence Purpose 1.
+
+_2._ _A secure nearer region, encompassing maritime South East Asia and South Pacific (comprising Papua New_
+_Guinea, Timor–Leste and Pacific Island Countries)._
+
+The Strategic Defence Objective for this interest is: Make effective military contributions to support the security
+of maritime South East Asia and support the governments of Papua New Guinea, Timor–Leste and of Pacific Island
+Countries to build and strengthen their security. This objective relates to Defence Purpose 2.
+
+_3._ _A stable Indo-Pacific region and a rules-based global order._
+
+The Strategic Defence Objective for this interest is: Contribute military capabilities to coalition operations that
+support Australia’s interests in a rules-based global order. This objective relates to Defence Purpose 2.
+
+Defence undertakes a number of programs designed to achieve these objectives and manage strategic risk. The major
+activities to be undertaken in 2017–18 are outlined in the section on Performance.
+
+4 2016 Defence White Paper, p.32.
+
+
+-----
+
+#### Enterprise Challenges
+
+The First Principles Review and the 2016 Defence White Paper both identified that Defence has a number of significant
+challenges we must overcome to develop the organisational capability we require to meet Government expectations.
+In addition to internal challenges, Commonwealth legislation and policy require Defence to develop the capacity to
+meet specific whole‑of‑Government requirements.
+
+For example, the Australian National Action Plan on Women, Peace and Security 2012–2018 is a
+whole‑of‑Government policy to implement the United Nations Security Council Resolution 1325 (UNSCR 1325) and
+other United Nations (UN) Security Council resolutions related to Women, Peace and Security. The Women, Peace and
+Security agenda is central to Defence’s operational effectiveness and is an essential component of future planning and
+conduct of operations.
+
+Defence has the most extensive land and property holdings in Australia, including large training areas and bases close
+to the coastline. Recognising the challenges posed by climate change, Defence is undertaking studies to determine
+the level of risk and implementing mitigation strategies to reduce the impact to bases and training areas.[5]
+
+The Government’s Public Management Reform Agenda—as expressed through the PGPA Act and related legislation
+and policy—requires all entities to take a deliberate approach to corporate planning and performance management,
+supported by a stronger risk management framework that aligns to the Commonwealth Risk Management Policy
+2014. Improved corporate risk management, business planning and performance management will enable Defence to
+focus all activities on achieving Government‑directed outcomes.
+
+The Government’s First Principles Review, Creating One Defence, required Defence become a more integrated
+organisation, with clear accountabilities and streamlined decision‑making processes. Implementation of the
+recommendations of the First Principles Review was designed to ensure that Defence has the organisational capability
+it needs to deliver the 2016 Defence White Paper and to respond to a wide range of operational requirements both
+now and into the future.
+
+The First Principles Review identified the Defence workforce as one of the most critical contributors to the delivery of
+the full range of capability expected by Government. The Defence Strategic Workforce Plan was delivered in 2016 and
+is designed to set the framework for the management of the current and future workforce. Implementation of the plan
+will continue in 2017–18, with workforce challenges to be monitored and actively managed through the stewardship of
+the Enterprise Business Committee and the Defence Committee.
+
+5 [National climate resilience and adaptation strategy p. 31 http://www.environment.gov.au/system/files/resources/3b44e21e2a78-4809-87c7-](http://www.environment.gov.au/system/files/resources/3b44e21e2a78-4809-87c7-a1386e350c29/files/national-climate-resilience-and-adaptation-strategy.pdf)
+[a1386e350c29/files/national-climate-resilience-and-adaptation-strategy.pdf](http://www.environment.gov.au/system/files/resources/3b44e21e2a78-4809-87c7-a1386e350c29/files/national-climate-resilience-and-adaptation-strategy.pdf)
+
+
+-----
+
+#### Enterprise Risks
+
+Risks to the achievement of the Defence mission are managed by risk stewards in accordance with the Defence Risk
+Management Framework, which is described in the Risk Oversight and Management section.
+
+Defence has identified four enterprise risks, which are classified. Management of these risks is overseen by the
+Enterprise Business Committee, with significant issues escalated internally for Defence Committee consideration.
+The risks are reviewed and updated at least annually, or when there are changes in Defence’s operating environment.
+
+Implementation of the First Principles Review, Creating One Defence, required changes to be made to the
+accountabilities, structures, systems and processes required to build and manage the required organisational
+capability. It also introduced the One Defence Business Model, which focuses Defence’s organisational capability on
+achieving Government‑directed outcomes. The business model has three key features:
+
+1. A stronger strategic centre able to provide clear direction, contestability of decision making as well as enhanced
+control of resources and monitoring of organisational performance.
+
+2. An end‑to‑end approach for capability development. Capability Managers will be assigned clear authority and
+accountability for the delivery of capability outcomes to schedule and budget, supported by an integrated
+capability delivery function and subject to stronger direction setting and contestability from the centre.
+
+3. Enablers that are integrated and customer‑centric with greater use of cross‑functional processes, particularly in
+regional locations.
+
+#### Direction Setting
+
+We have strengthened our strategic management capability to set direction for the organisation, monitor and manage
+the performance of Defence, and provide assurance to Government that Government-directed outcomes are
+being delivered effectively and efficiently. In 2017–18 the Defence Strategy Framework and Enterprise Performance
+Management Framework will be implemented, supporting the role of the Defence ‘strategic centre’ in setting direction
+for the organisation and in ensuring advice provided to Government has been contested rigorously.
+
+#### Defence Capability
+
+Defence has one of the largest capital investment programs in the Commonwealth, consisting primarily of acquisition,
+sustainment and support of Defence materiel. Introduced at the same time as the 2016 Defence White Paper, the
+Integrated Investment Program includes all capital and related investments (such as materiel, estate and facilities,
+workforce and information and communications technology).
+
+The Integrated Investment Program is supported by a contestability function that informs the development of the risk
+assessment and decision support framework to ensure that acquisitions are aligned with strategy and resources.
+Upgrading Australian Defence Force bases and logistics systems, including fuel and explosive ordnance facilities in
+accordance with 2016 Defence White Paper requirements, remains a priority.
+
+#### Enablers (internal service delivery)
+
+The First Principles Review identified that organisational capability is derived from a strong work force enabled
+by modern and effective security services, facilities and estate, information management and information and
+communications technology, people management systems, legal services, and health and logistics, supported by
+an integrated service delivery system. A service delivery system was developed as part of First Principles Review
+implementation. The focus for the system in 2017–18 involves standardising services, removing duplication of
+functions, professionalising the workforce and ensuring there are single, clear lines of ownership and accountability.
+
+
+-----
+
+Security
+
+We will continue to develop and mature our principles-based approach to security. Remediation of the processes and
+practices of the Australian Government Security Vetting Agency (AGSVA) will continue in 2017–18, with a focus on the
+positive vetting remediation program, which is addressing a backlog of clearances to achieve benchmark timeframes.
+
+Facilities and Estate
+
+In 2017–18, we will implement the Defence Estate Strategy 2016–2036 and plan and continue our work in developing
+future estate profile options on what parts of the estate can be optimised through future acquisitions and expansions,
+and the parts that could be rationalised through disposal. Delivery of an estate strategy, plan and profile are key steps
+in ensuring that Defence’s estate footprint aligns with current and future force needs.
+
+Information Management
+
+Information management is a critical enabler for Defence. In the military environment, information management must
+provide the war fighter with common battlespace awareness and information superiority through integrated and
+interoperable information. It underpins the next generation of Command, Control, Communications, Computers,
+Intelligence, Surveillance and Reconnaissance (C4ISR) systems, and links sensors and weapons platforms. It is crucial
+to offset the relatively small size of the Australian Defence Force and enable a competitive war fighting advantage over
+Australia’s adversaries.
+
+Defence is undertaking a large-scale transformation program that will deliver a secure, integrated and easier to manage
+information and communication technology environment and support improved information management. This will
+improve collaboration and productivity to support the integration of future technologies, and ensure the longevity of
+Defence information and communication technology capability.
+
+Workforce
+
+An integrated Australian Defence Force and Australian Public Service workforce is the foundation for delivering
+the organisational capability envisaged in the First Principles Review. It is also necessary to ensure Defence is fit
+for purpose and able to deliver its long-term strategy as described in the 2016 Defence White Paper. To achieve
+its mission, Defence needs Australian Defence Force personnel and Australian Public Servants who have the right
+attitude, the right skills, and are in the right roles. The Defence workforce also extends to integrated service providers
+and Defence industry, which provide critical services that contribute to Defence being able to meet Government
+policy expectations.
+
+A key focus for 2017–18 is the implementation of the 10-year Defence Strategic Workforce Plan that sets out the
+skills Defence needs and details how Defence will attract, retain and develop its people. The Strategic Workforce Plan
+provides workforce priorities, initiatives and resources for attracting, growing and retaining the people Defence needs.
+
+Defence will continue cultural reform through implementation of the Pathway to Change strategy. This will be
+with a planned and professional workforce built on a foundation of strengthened accountability and an inclusive
+and diverse culture to meet the direction of the First Principles Review and capabilities required under the
+2016 Defence White Paper.
+
+
+-----
+
+Defence is creating a more diverse and inclusive culture, which will assist Defence to access the broadest available
+talent in Australia and harness the capability benefit and improved decision making that a diverse workforce generates,
+and to achieve its cultural reform efforts. The Defence Diversity and Inclusion Strategy 2012–2017 identifies the five
+strategic goals that underpin successful diversity and inclusion in Defence and identifies Defence’s diversity priorities:
+
+-  women
+
+-  Indigenous Australians
+
+-  people with disability
+
+-  people from culturally and linguistically diverse backgrounds
+
+-  lesbian, gay, bisexual, transgender and intersex people.
+
+Five strategic goals underpin successful diversity and inclusion in Defence:
+
+1. Defence is a flexible, adaptable and agile organisation that is able to accommodate the diverse needs of people as
+
+they move through various life and career stages.
+
+2. Defence utilises creative, targeted human resource solutions to achieve the numerous strategic capability benefits
+
+that diversity brings to all levels of the organisation.
+
+3. Defence recognises and understands that true inclusiveness does not mean treating everyone exactly the same
+
+way, all the time.
+
+4. Defence is viewed by all as an organisation committed to diversity and inclusion.
+
+5. Defence has strategies in place to support the employment of identified diverse groups that require immediate
+
+priority attention.
+
+In 2017–18, Defence will continue to implement programs and initiatives that harness the diverse knowledge, skills
+and attributes of its people. Through diversity, Defence gains the varied perspectives needed to deal with complex
+problems and develop innovative solutions.
+
+Legal
+
+The portfolio administers a number of Acts and regulations that contain small entities, including a number of statutory
+offices, trusts and companies that are regulated by the provisions outlined in the PGPA Act. These entities are
+independent bodies; however, the stakeholder management and administration of these bodies reside within Defence.
+These include, among others, Defence Housing Australia, the Australian Strategic Policy Institute and a number of
+Services trust funds and canteen services.
+
+The Defence portfolio also contains the Department of Veterans’ Affairs, together with its associated bodies, as it is
+designated as part of the Defence portfolio in the Administrative Arrangements Order. The Department of Veterans’
+Affairs is administered separately to Defence and performance information related to the department may be found in
+the Department of Veterans’ Affairs corporate plan.
+
+
+-----
+
+Health, Logistics, Education and Training
+
+In 2017–18, the focus will remain on delivering health, welfare and family support services to meet the requirements of
+the Australian Defence Force. Defence will also continue to work with the Department of Veterans’ Affairs to enhance
+the transition process for Members and veterans. Other people priorities in 2017–18 include implementing the new
+ADF Total Workforce model to provide greater flexible working arrangements for ADF Members and further developing
+a comprehensive program of professionalisation and development to support careers in the Australian Defence Force
+and the Australian Public Service.
+
+#### Control and Governance
+
+The way Defence is managed will be described in a Defence Business Framework, which will be implemented in
+2017–18. The business framework will not only describe how the One Defence Business Model operates, but will
+set out the high‑level processes and standards to be used and achieved in supporting the Secretary in discharging
+governance and performance accountabilities, as set out in the PGPA Act.
+
+In 2017–18 Defence will continue to mature its control functions—financial management, internal audit,
+inspectors‑general and judge advocate—so that they can provide assurance to the Defence senior committees—the
+Defence Committee, the Enterprise Business Committee and the Investment Committee—that Government‑directed
+outcomes are being delivered in accordance with legislative and policy requirements.
+
+Effective financial management enables Defence to ensure Government-allocated resources are being used to deliver
+Government-directed outcomes. Both the First Principles Review and the 2016 Defence White Paper highlighted
+the importance of keeping in balance strategy, capability and resources. The Chief Finance Officer will work closely
+with the Associate Secretary in 2017–18 to ensure that enterprise financial management and corporate planning and
+performance management are aligned so as to support the work of the Defence senior leadership in maintaining this
+balance, as directed by Government.
+
+In accordance with the PGPA Act and in support of the Commonwealth Fraud Control Framework, Defence has
+instituted Defence Fraud Control Plan No. 11, which describes the fraud control framework our organisation has
+implemented to prevent, detect and respond to fraud. A focus for 2017–18 will be to develop our capacity to identify
+and manage enterprise-wide vulnerabilities and risk factors within a diverse operating environment.
+
+In 2017–18 we will finalise implementation of the Defence Legislative Compliance Framework, which is a central
+component of Defence’s internal system of controls. The framework assigns accountability to a single senior leader
+for the management and oversight of Defence compliance with Commonwealth and selected state legislative
+requirements relevant to Defence business.
+
+
+-----
+
+### Risk Oversight and Management
+
+Risk management is governed by the Commonwealth Risk Management Policy 2014 and is undertaken in accordance
+with an overarching Defence Risk Management Framework which provides:
+
+1. Transparency of risk management within the business units of Defence;
+
+2. A structure to draw out accountabilities and responsibilities of shared risk of the business units across the
+Department; and
+
+3. A collective frame that articulates accountabilities and responsibilities for risk shared with Commonwealth, industry
+and international partners.
+
+Through this framework, Defence addresses risks at three levels:
+
+-  **Strategic risks—These risks are described in the 2016 Defence White Paper and are managed as shared risks**
+with Commonwealth, international and industry partners. Understanding of the national security risk environment
+informs the risk context for enterprise-level risks.
+
+-  **Enterprise-level risks—These are events which may limit or compromise Defence’s collective ability to meet the**
+obligations and requirements set by Government. These risks may arise from four ‘enterprise vulnerabilities’, which
+are: integration across Defence; integration with key external partners; compliance with legislation and Government
+policy; and efficient, effective, economical and ethical use of resources.
+
+-  **Operating risks—These are risks to Defence achieving efficient and effective operating intent. They are the inward**
+focus of how Defence undertakes the activities in support of this Plan.
+
+The Secretary and Chief of the Defence Force have set out their minimum expectations for risk management in
+Defence in a Joint Directive on the Management of Risk in Defence.
+
+Defence senior management exercises high-level oversight and provides assurance of risk to Government. A Defence
+enterprise risk assessment is produced for senior committees to support their collective management. The Defence
+Audit and Risk Committee provides the Secretary and the Chief of the Defence Force with independent advice on all
+aspects of Defence governance including implications arising from Australian National Audit Office audits and Joint
+Committee of Public Accounts and Audit reports.
+
+The management and oversight of risk across Defence will continue to evolve as a key component within the
+enterprise governance and organisational performance functions.
+
+
+-----
+
+### Planned Performance
+
+#### Purpose 1. Defend Australia and its national interests
+
+We defend Australia and its national interests through the conduct of operations and provision of support for the
+Australian community and civilian authorities in accordance with Government direction.
+
+We plan for, develop and maintain the capability to deter and defeat armed attacks on Australia or on Australian
+interests. This includes planning for, conducting, controlling and evaluating Defence and/or coalition contributions to
+Government-directed operations.
+
+Defence also supports the Commonwealth and State/Territory Governments with emergency and non-emergency
+tasks, as well as supporting events of national significance as requested by the Australian Government.
+
+Defence performance in achieving Purpose 1 in 2017–18 will be measured using the criteria described in Table 2.
+
+Performance measures
+
+|1.i. Required preparedness levels are achieved.|Col2|2017–2021|
+|---|---|---|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Assessment of preparedness against the Chief of the Defence Force Preparedness Directive.||
+|1.ii. Operational outcomes meet the requirements of Government policy.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Assessment of operational deployments against operational outcomes agreed with Government.||
+|1.iii. State/Territory and inter-agency cooperation enables Defence to contribute effectively to whole‑of‑Government outcomes, in accordance with Government direction.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Assessment of inter-agency engagement against whole-of-Government outcomes agreed with Government.||
+
+
+
+**Table 2: Purpose 1 performance measures.**
+
+
+-----
+
+#### Key Activities
+
+The key activities Defence will undertake in 2017–18 to achieve Purpose 1 and to control relevant strategic and
+enterprise-level risk are described in Table 3.
+
+|Activity|Intended result|Performance Criteria|2017–18|2018–19|2019–20|2020–21|
+|---|---|---|---|---|---|---|
+|Ensure Defence’s operational capabilities are available to meet Government direction. Lead PBS program: 2.4 Vice Chief of the Defence Force|Government is able to deploy Defence capability to support Government policy objectives.|Measure: Chief of the Defence Force preparedness levels meet Government requirements. Target: Chief of the Defence Force preparedness levels are achieved as agreed with Government.|||||
+|Deliver intelligence services. Lead PBS program: 2.1 Strategic Policy & Intelligence|Defence intelligence services enable efficient operations across national security agencies.|Measure: Defence intelligence outputs align with Government intelligence priorities. Target: Whole-of-Government and Australian Defence Force intelligence requirements are met.|||||
+|Conduct joint, combined and inter-agency operations as directed by Government. Lead PBS program: 2.8 Joint Operations Command|Joint forces are able to be deployed and sustained efficiently and effectively, and in accordance with Government timeframes.|Measure: Operational outcomes meet the requirements of Government policy. Target: All operational requirements are met.|||||
+|Manage the Defence estate in accordance with Government direction and community expectations Lead PBS program: 2.10 Estate & Infrastructure|The generation and sustainment of the Australian Defence Force are enabled by a fit-for-purpose estate.|Measure: The estate meets the requirements of the Capability Managers. Target: The Defence Estate Strategy implementation plan is delivered as agreed.|||||
+
+
+
+**Table 3: Purpose 1 key activities.**
+
+
+-----
+
+#### Purpose 2. Protect and advance Australia’s strategic interests
+
+We protect and advance Australia’s strategic interests through the provision of strategic policy, the development,
+delivery and sustainment of military, intelligence and enabling capabilities, and the promotion of regional and global
+security and stability as directed by Government.
+
+Defence must provide high-quality, coherent and timely advice to Government on Defence strategy, capability and
+resourcing. Defence has implemented the ‘strategic centre’ model to ensure that all advice provided to Government is
+rigorously contested for alignment with Government strategic direction and to ensure the options being presented to
+Government support achievement of its Defence strategy, as described in the 2016 Defence White Paper.
+
+The Government expects Defence to play an active role in contributing to regional security and stability, and to
+contribute to coalition operations around the world where our interests are engaged. Delivering on these requirements
+will require Australia to build on its strong network of bilateral and multilateral relationships. Through regular dialogue
+and practical cooperation, Defence is strengthening its engagement with partners to support shared responses to
+shared challenges.
+
+Capability delivery is a core business process that enables Defence to perform its mission of defending Australia and
+its national interests now and into the future. Defence must procure capability efficiently and effectively. In 2017–18,
+Defence will continue building the new levels of capability required by Government and described in the 2016 Defence
+White Paper and the Integrated Investment Program. Major investments will enhance Australian Defence Force
+capability to conduct operations to deter and defeat threats to Australia, operate over longer distances to conduct
+independent combat operations in our region, and make more effective contributions to international coalitions.
+
+Australia’s defence industry is a major partner in the Government’s plans for current and future Defence capabilities.
+It is vital that Australia maintains a science and technology base and defence industry capable of supporting Defence’s
+acquisition and sustainment requirements during peacetime and operations. A highly skilled and capable Australian
+defence industry is necessary for Defence to achieve its strategic objectives and deliver large-scale, complex projects
+and sustain military capability. Defence will work with industry to reflect a shared policy agenda that supports the
+growth and competitiveness of Australian businesses.
+
+Defence performance in achieving Purpose 2 in 2017–18 will be measured using the criteria described in Table 4.
+
+Performance measures
+
+|2.i. Government has confidence in the relevance and quality of Defence advice.|Col2|2017–2021|
+|---|---|---|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Bi-annual survey of the relevant Ministers and the central agencies.||
+|2.ii. Government is assured that Defence advice has been appropriately contested.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Bi-annual survey of the relevant Ministers and the central agencies.||
+|2.iii. The capability delivery process maintains the integrity of the Integrated Investment Program and delivers the required capability for the force-in-being.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Assessment of delivery against the Integrated Investment Program.||
+|2.iv. Defence capability is sustained consistent with Government requirements.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Sustainment meets capability manager requirements.||
+
+
+-----
+
+Performance measures continued
+
+|2.v. International and inter-agency cooperation enables Defence to shape the international security environment, in accordance with Government direction.|Col2|2017–2021|
+|---|---|---|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Assessment of delivery against the Defence International Engagement Strategy.||
+|2.vi. The Integrated Investment Program is managed effectively and comprises all investment and sustainment inputs, incorporating the Fundamental Inputs to Capability.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|1. Regular independent assurance of the Defence capability development process by the Defence Audit and Risk Committee. 2. Regular reviews of the Integrated Investment Program in consultation with the Minister and central agencies.||
+|2.vii. Emerging science and technology is used to support development of best value capability.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Regular assessment of how Defence’s strategic research builds understanding of future Defence capability.||
+|2.viii. Defence capability development leverages industry to promote innovation.||2017–2021|
+|Measured and reported|Measured bi-annually. Reported annually.||
+|Methodology|Regular assessment of the value of Defence engagement with industry.||
+
+
+
+**Table 4: Purpose 2 performance measures.**
+
+Key Activities
+
+The key activities Defence will undertake in 2017–18 to achieve Purpose 2 and to control relevant strategic and
+enterprise-level risk are described in Table 5.
+
+|Activity|Intended result|Performance Criteria|2017–18|2018–19|2019–20|2020–21|
+|---|---|---|---|---|---|---|
+|Defence provides clear, accurate and timely policy advice to Government. Lead PBS program: 2.1 Strategic Policy & Intelligence|The Minister receives policy advice that supports effective decision-making.|Measure: Government has confdi ence in the relevance and quality of Defence policy advice. Target: Minister expresses high to very high confdi ence in Defence advice.|||||
+|Defence ensures that the policy development process incorporates inputs from relevant stakeholders through processes that include contestability. Lead PBS program: 2.1 Strategic Policy & Intelligence|Defence strengthens its engagement on policy development with other national security participants and other relevant parties.|Measure: Proposals presented to Government for decision incorporate all relevant considerations. Target: Stakeholders express high confidence in Defence engagement.|||||
+
+
+-----
+
+Key Activities continued
+
+|Activity|Intended result|Performance Criteria|2017–18|2018–19|2019–20|2020–21|
+|---|---|---|---|---|---|---|
+|Use data and information to support risk-informed decision-making by Defence’s senior leaders. Lead PBS program: 2.2 Defence Executive Support|An appropriate risk appetite is actively exercised based on all available information. Assured data is available to support the design of good performance measures. Managers across Defence have a view of organisational performance within their work area which is based on true information, enabling them to make efef ctive and robust decisions.|Measure: Performance information uses validated information to support decision-making. Target: All performance information is supported by a reliable and validated data source.|||||
+|Deliver health and welfare services to meet the requirements of the Australian Defence Force. Lead PBS program: 2.4 Vice Chief of the Defence Force|Effective and efficient health support and welfare services are provided.|Measure: Quality of health and welfare services delivered to Australian Defence Force members and families. Target: Delivery meets agreed standards.|||||
+|Achieve Government’s strategic policy requirements as set out in the 2016 Defence White Paper. Lead PBS program: 2.1 Strategic Policy & Intelligence|Defence implements policy direction to meet Government’s requirements now and into the future.|Measure: Effective implementation of the 2016 Defence White Paper. Target: The 2016 Defence White Paper implementation plan activities for 2017–21 are delivered as agreed with Government.|||||
+|Deliver the capability required by the 2016 Defence White Paper. Lead PBS program: 2.4 Vice Chief of the Defence Force|Defence develops the capability it needs to meet Government’s requirements now and into the future.|Measure: Effective implementation of the Integrated Investment Program. Target: The Integrated Investment Program is delivered as agreed with Government.|||||
+|Engage with industry through the Centre for Defence Industry Capability and the Defence Innovation Hub to enhance and sustain Defence capability. Lead PBS program: 2.1 Strategic Policy & Intelligence|A competitive Australian industrial base is able to support Defence capability.|Measure: The intent of the Defence Industry Policy Statement is met. Target: The Centre for Defence Industry Capability and the Defence Innovation Hub operate in accordance with the Defence Industry Policy Statement.|||||
+
+
+Lead PBS program: 2.1
+Strategic Policy &
+Intelligence
+
+Lead PBS program: 2.4
+Vice Chief of the
+Defence Force
+
+
+**Table 5: Purpose 2 key activities**
+
+
+-----
+
+-----
+

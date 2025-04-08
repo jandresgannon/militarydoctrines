@@ -1,0 +1,2305 @@
+DEFENCE
+INTELLIGENCE AND
+
+STATE SECURITY SECURITY SERVICE
+DEPARTMENT OF UNDER THE MINISTRY
+THE REPUBLIC OF OF NATIONAL
+LITHUANIA DEFENCE
+
+### NATIONAL  THREAT ASSESSMENT
+
+
+-----
+
+DEFENCE
+INTELLIGENCE AND
+SECURITY SERVICE
+UNDER THE MINISTRY
+OF NATIONAL
+DEFENCE
+
+
+STATE SECURITY
+DEPARTMENT OF
+THE REPUBLIC OF
+LITHUANIA
+
+
+## NATIONAL  THREAT ASSESSMENT
+# 2023
+
+
+-----
+
+##### CONTENTS
+
+INTRODUCTION 3
+
+FOREWORD 5
+
+SUMMARY 8
+
+RUSSIA 12
+
+BELARUS 29
+
+CHINA 36
+
+THE ACTIVITY OF HOSTILE INTELLIGENCE
+
+AND SECURITY SERVICES 47
+
+CYBER SECURITY 54
+
+INFORMATION SECURITY 59
+
+ECONOMIC AND ENERGY SECURITY 66
+
+CRISIS REGIONS 74
+
+TERRORISM AND MIGRATION 77
+
+
+-----
+
+##### INTRODUCTION
+
+The National Threat Assessment by the State Security Department of the Republic of
+Lithuania (VSD) and the Defence Intelligence and Security Service under the Ministry
+of National Defence of the Republic of Lithuania (AOTD) is presented to the public
+in accordance with Articles 8 and 26 of the Law on Intelligence of the Republic of
+Lithuania. The document provides consolidated, unclassified assessment of threats
+and risks to national security of the Republic of Lithuania prepared by both intelligence
+services. The document assesses events, processes, and trends that correspond to
+the intelligence requirements approved by the State Defence Council. The assessment
+is based on the information available before 5 February 2023.
+
+The table below outlines the language of probability and definition of terms used
+in this assessment:
+
+< 25 % 25–50 % 50–75 % > 75 %
+
+UNLIKELY POSSIBLE LIKELY HIGHLY LIKELY
+
+|SHORT TERM: 0–6 months|NEAR TER 6 months – 2|M: MEDIUM T years 3–5 yea|ERM: LONG TERM: rs 6–10 years|
+|---|---|---|---|
+
+
+-----
+
+Darius JAUNIŠKIS
+
+Director of the State Security Department
+of the Republic of Lithuania
+
+
+Colonel Elegijus PAULAVIČIUS
+
+Director of the Defence Intelligence and Security
+Service under the Ministry of National Defence
+of Lithuania
+
+
+-----
+
+**FOREWORD**
+
+Dear readers,
+
+Russia’s war against Ukraine has presented a challenge to our intelligence community, on the other hand, it has had a sobering effect on how threats and security challenges that the whole of Europe is currently facing are perceived. It is more obvious
+than ever that Russia and its decision to use military force is the biggest threat to
+Lithuanian and European security alongside complicit actions by the authoritarian
+and Russia-dependent Belarus.
+
+The intelligence community had warned decision-makers about the impending Russian aggression before it started on 24 February last year and ever since has been
+keeping them up to date about the developments in the ongoing conflict. Lithuania, a
+close friend and staunch supporter of Ukraine, not only worked tirelessly to highlight
+the importance of support to Ukraine but through the intelligence cooperation with its
+allies helped to enhance the perception of long-term threats emanating from Russia.
+
+
+-----
+
+After Russia’s invasion of Ukraine, Lithuania and other Western states took additional
+actions to reduce the activity of Russian and Belarusian intelligence services in their
+own countries. Yet, we responsibly reiterate that dangers of provocation and recruitment of our or Western citizens visiting these hostile states have rather increased
+than disappeared.
+
+It is pleasant to note that Lithuanian society shows resilience to hostile propaganda,
+though Russia still attempts to exploit pro-Kremlin individuals in Lithuania for its
+own benefits. The cooperation of intelligence, law enforcement, and other competent institutions together with the civil society in curbing malicious activity remains
+particularly important.
+
+In the times of uncertainty, the public domain is filled with abundance of information –
+objective knowledge and conspiracy theories, reasonable discussions and deceptive
+
+
+-----
+
+fiction along with attempts to manipulate. Nevertheless, discussion is a feature of a
+healthy society, so it should be respected and protected as well as other fundamental
+rights and freedoms.
+
+The Lithuanian intelligence community provides decision-makers with information
+about societal, political, business, energy, diplomatic, scientific, and other processes in
+the country and international environment together with assessments on how it impacts
+Lithuania’s national security. This National Threat Assessment is an unclassified version of our analytical insights on the security tendencies in the region and the world.
+
+We appreciate your attention and hope that this document, prepared and presented
+by the State Security Department and the Defence Intelligence and Security Service
+under the Ministry of National Defence, will broaden your understanding and knowledge on the main questions of national security.
+
+
+-----
+
+##### SUMMARY
+
+ **Russia wages the war against Ukraine and turns into a totalitarian state. The**
+war helps to reinforce Vladimir Putin’s personal power; it provides a pretext to repress
+political opposition and tests the loyalty of the elites and security forces. Aggression
+against Ukraine has exposed the regime’s inefficiency and corruption, lack of potential
+to secure its economic development. Although the Western sanctions have not led
+to a collapse of the economy, the problems are building up gradually. Russia is capable of continuing the war and maintaining social control through political repression
+in the short term. However, the war requires mobilisation of state resources, which
+undermines political and economic foundations of the regime.
+
+ **Despite losses in Ukraine, Russia aims to strengthen the potential of its**
+**Armed Forces. The regime is preparing for a long-term conflict with Ukraine and**
+the West – it increases the size of its army and defence spending. The sanctions that
+weaken Russia’s economy will not impede the regime’s ability to prioritise the funding
+of increased military needs at the expense of public welfare. Nevertheless, the war
+against Ukraine will diminish the Russian military threat in the Baltic Sea Region only
+temporarily. Russia will prioritise efforts to replenish and strengthen the regional
+military grouping as quickly as possible, but the speed and success of this process
+will heavily depend on the duration of the war and the losses incurred in Ukraine.
+
+
+-----
+
+ **Belarus’ participation in the war against Ukraine worsens the region’s secu-**
+**rity situation. Belarus has not only provided Russia with the ability to use its territory**
+for offensive operations against Ukraine but also allows deploying the contingent of
+the Russian Armed Forces. This has a negative effect on the security of Lithuania
+and other NATO members – in case of conflict with the West, Russia would enjoy
+unlimited access to Belarus’ territory and military support. Alyaksandr Lukashenka
+hopes that Russian financial support will help to mitigate the impact of international
+sanctions; however, Moscow’s failures in Ukraine and growing economic losses due
+to Western sanctions highly likely will diminish the Kremlin’s financial capacity to
+support the Lukashenka regime.
+
+ **Xi Jinping begins his term with internal tensions rising and China’s foreign**
+**policy becoming more assertive. Xi has secured unlimited power and eliminated**
+political rivals, but emerging public dissatisfaction challenges the regime and forces
+Chinese authorities to strengthen the security apparatus. China demonstrates that it
+is prepared to cross a red line in its relations with Taiwan. Although military invasion is
+unlikely, China’s aggression towards Taiwan will increase. Beijing supports Russia in
+the information and diplomatic domains, helps to mitigate the impact of the sanctions.
+In the near and medium term, Chinese–Russian cooperation will intensify; however,
+the relations will become increasingly one-sided.
+
+
+-----
+
+ **The war in Ukraine and international sanctions have a negative impact on**
+**Russia’s intelligence gathering capabilities. As European states expelled Rus-**
+sian intelligence officers under diplomatic cover, the intensity of human intelligence
+operations by Russian intelligence services in Europe and Lithuania has decreased.
+This will force Russian services to resort to other information gathering methods and
+search for new intelligence opportunities. Although Russia’s intelligence dedicates
+most of its focus and resources to activity in and against Ukraine, Lithuanian citizens
+visiting border areas with Russia or crossing the Lithuanian–Russian border are at
+risk of becoming targets for Russian intelligence.
+
+ **Facing challenges due to international sanctions, Russia is searching for**
+**ways to bypass them. Russia’s priority – supply of Western goods and technologies**
+that can be used in military industry. The most common methods to bypass sanctions
+regime are concealing the true purpose of the goods and the end-users with a help of
+a long chain of intermediaries. Attempts to circumvent the sanctions involve searching
+for EU-based intermediary companies.
+
+ **The terrorism threat in Lithuania remains low; however, lone radicalised**
+**individuals pose a risk. International terrorist organisations have lost capability to**
+organise new terrorist attacks in Europe; attacks are planned and perpetrated by
+radicalised individuals who have no direct associations with terrorist organisations.
+Migration route via Belarus has become one of the routes to enter the EU illegally.
+Belarusian border guard officers, along with human traffickers and smugglers,
+facilitate illegal migration.
+
+
+-----
+
+_The Associated Press / Scanpix_
+
+
+-----
+
+##### RUSSIA
+
+�Russia under Vladimir Putin becomes increasingly totalitarian;
+however, the war erodes the regime’s political and economic
+foundations.
+
+�The coalition of allies the Kremlin is trying to build is united
+solely around the idea of hostility towards the West. Belarus
+remains the only ally that openly supports the aggression against
+Ukraine. The dependence of other post-Soviet allies does not
+guarantee their loyalty to Moscow on key foreign policy issues.
+
+�The Kremlin sticks to its aims in Ukraine and, regardless of
+losses, is prepared to continue the war for the duration of this
+year and mobilise all the resources of the state.
+
+
+-----
+
+**Putin’s decision to go to war with Ukraine evokes**
+**totalitarianism in Russia**
+
+The restoration of Russia’s power, similar to that the Soviet Union or Russian Empire
+once had, is Putin’s long-term vision. Yet, the attempt to achieve Russia’s greatness
+through the war against Ukraine has led to growing political repression, militarisation,
+and incoherent attempts to construct an ideology that supports the regime’s policies.
+
+The war helps to reinforce Putin’s personal power and test loyalty of the elites; it also
+provides an excuse to repress those who openly resist the government’s policies.
+
+Police in St. Petersburg detain demonstrators protesting
+against Russia’s invasion of Ukraine
+_The Associated Press / Scanpix_
+
+
+-----
+
+Increased international isolation limits the spread of liberal Western ideas in Russian
+society, which the regime considers to be among the main threats to its stability.
+During one year of the war, the Kremlin finally eliminated independent media and
+non-governmental organisations. Most members of the political opposition as well
+as liberal intelligentsia voluntarily or forcibly have left Russia.
+
+The war has exposed the inefficiency and corruption of the regime, revealed limits of
+Russia’s military power and lack of potential to secure its economic and technological
+development. Its dependence on energy export has increased; however, there is no
+alternative to such an economic model. The regime hopes to redirect trade towards
+‘friendly’ countries; meanwhile, Russia buys irreplaceable goods and technologies from
+the ‘unfriendly’ West by circumventing the imposed sanctions. They have not led to a
+collapse of the economy, but Russia’s economic problems, for example, dependence
+on raw material exports, inefficient logistics, declining production due to shortages
+of components and technology, and substantial budget deficit have been building up
+steadily and are likely to continue to do so in the short term.
+
+The majority of Russian population has been passively supporting the war, but the
+mobilisation has revealed that this support is not so strong as the regime’s propaganda has been trying to portray. Dissatisfaction with the regime’s policies is currently
+passive and manifests itself in mobilisation evasion or complaints about poor supply
+and disorder in the Armed Forces. Russian society has started losing its confidence
+in propaganda and the number of supporters of peace talks is growing. With the
+economic situation deteriorating, dissatisfaction with the Kremlin’s policies is likely to
+increase in the near term. The regime seeks to avoid such a situation, tries gradually to
+accustom Russian society to realities of the war by employing the rhetoric on ‘special
+military operation’, ‘partial’ and ‘limited’ mobilisation, and imposing martial law only
+on part of Russian territory.
+
+The ruling elite and security forces remain loyal to the regime and its policies. They
+obey orders unquestioningly and support the regime with public militant rhetoric. Private businesses support the mobilisation and donate to the Armed Forces. It is likely
+that the loyalty is driven by the fear of reprisals, conformity, and lack of an alternative
+to Putin. Most of Russia’s top officials were forced to accept the new reality because
+they had no prior knowledge of the decision to start the war against Ukraine. Putin
+avoids replacing officials even when the war clearly reveals their incompetence. It is
+likely that currently he tries to avoid creating additional stress for the elite.
+
+
+-----
+
+Announcement of ‘partial mobilisation’ has led to the exodus of
+Russians as witnessed by the queues on the border with Georgia
+_The Associated Press / Scanpix_
+
+
+-----
+
+There are tensions and anxiety about the future among government officials and
+representatives of large companies. Former practices of the regime, such as imitation
+of democratic procedures, competition among Kremlin factions, oligarchs’ corrupt
+activities in Russia and abroad, will have to cease due to the regime’s increasing
+totalitarian tendencies and state control over the economy.
+
+We assess that Russia’s ruling regime is capable of continuing the war and maintaining
+social control through political repression in the short term. This strategy requires
+mobilisation of state resources, which undermines political and economic foundations of the regime. It is possible that failures on the battlefield, further mobilisation,
+and a sharp deterioration of the economic situation will have a negative impact on
+the regime’s stability. In the current social and political environment, the most likely
+alternative to the Putin’s regime is another authoritarian regime, so Russia likely will
+remain a threat and source of instability in the region at least in the medium term.
+
+**Russia expects closer economic ties with the CIS**
+**countries in the short term**
+
+Maintaining its influence in the post-Soviet region is one of the main Russia’s foreign
+policy goals. Even though the war against Ukraine is the Kremlin’s immediate priority,
+Russia plans to strengthen the integration of the Commonwealth of Independent
+States and the Eurasian Economic Union and further develop the Union State project.
+
+The regime of Alyaksandr Lukashenka, which openly supports Russia’s aggression
+against Ukraine, is dependent on Russia. Other post-Soviet countries question the
+Kremlin’s motives to start the war and show their dissatisfaction with its policies.
+However, Russia’s initiatives to redirect international trade and logistics, to set up
+mechanisms for sanction circumvention and financial settlement are economically
+beneficial to countries in the South Caucasus and Central Asia. Russia plans to
+increase their dependence through economic cooperation and investment projects
+in the hope that this will limit their relations with the West and promote political
+integration with Russia in the future.
+
+
+-----
+
+Kazakh President Kassym-Jomart Tokayev declares at the
+International Economic Forum in St. Petersburg that he will not
+recognise the independence of Luhansk and Donetsk pseudo-states
+_The Associated Press / Scanpix_
+
+
+-----
+
+Russia continues to pursue its traditional policy of direct interference in internal affairs
+of post-Soviet states. In Moldova, Georgia, and Armenia, Russia supports pro-Kremlin
+political parties and organisations and anticipates their accession to power through
+elections. The conflicts in Nagorno-Karabakh, Abkhazia, South Ossetia, Transnistria,
+and Gagauzia are also being exploited. As long as Russian resources are primarily
+directed at the war against Ukraine, active escalation of these conflicts and increased
+military pressure on post-Soviet countries are unlikely in the short term.
+
+**Russia aims to outsuffer Ukraine and the West**
+**in a protracted conflict**
+
+More than a year after the start of invasion of Ukraine, Russia is yet to achieve any of
+the strategic objectives but continues to pursue them. The initial plan to overwhelm
+Kyiv in a victorious blitzkrieg did not work out, so Russia resorted to additional measures – announced mobilisation and introduced martial law in certain areas, while the
+country’s economy, state apparatus, and society are being gradually subordinated
+to the war effort.
+
+Although unable to gain advantage, Russia – or, namely, president Putin – wants to
+keep on waging war and pushes the false narrative that the West is to blame for the
+conflict. Russia is not willing to give up its strategic goal to destroy Ukraine’s sovereignty, and therefore, refuses any options for constructive dialogue and a diplomatic
+solution to the conflict.
+
+Mobilisation efforts allow Russia to replenish its battlefield losses and assign personnel
+to newly created units on the frontline. Political-military leadership has announced a
+serious increase in the size of the Armed Forces: in 2023, it is to surpass 2 million and
+
+
+-----
+
+Russian Foreign Ministry and state propaganda go hand
+in hand by promising a hard-earned victory in Ukraine
+_AFP / Scanpix_
+
+
+-----
+
+will continue to grow in the future. In December 2022, Russia’s Ministry of Defence
+announced a plan to change its force posture in the Western strategic direction by
+introducing a large-scale reform in the Armed Forces. Minister Sergey Shoigu declared
+ambitions to expand the Armed Forces by additional 350,000 troops. According to
+the plan, three new motor rifle divisions will be established and seven brigades will
+be enlarged to division size units, roughly tripling their size. It is assessed that these
+and other reforms would increase the number of military personnel, armament, and
+combat equipment units in the Western Military District by 30 to 50 percent. As these
+changes are envisioned in the long term, they will not affect the current combat actions
+in Ukraine. In addition, Shoigu announced plans to stage strategic military exercise
+Zapad in 2023 – two years ahead of schedule. This shows that Russia is adapting
+its Armed Forces to be better fit for an extended confrontation with the West and
+intensifying its regional deterrence efforts due to anticipated Swedish and Finnish
+membership in NATO. Russia does not give up its aims to continue increasing military
+capabilities despite losses incurred in Ukraine.
+
+
+RUSSIAN 5
+National
+Defence 4
+budgetary
+expenditure 3
+(trillion roubles)
+
+2
+
+1
+
+0
+
+2021 2022 2023
+
+Autumn 2021 draft budget 3,381 3,51 3,55
+
+Autumn 2022 draft budget 3,574 4,679 4,982
+
+
+-----
+
+Russia is likely preparing itself for a protracted conflict, no matter what the cost.
+Defence spending is prioritised over all the other budget expenditures necessary
+to solve mounting domestic problems. Even under sanctions, Russia increased the
+official war spending by 30 percent last year. In 2023, the cost is estimated to reach
+five trillion roubles (66 billion euros), in fact, with all secret allocations the cost of war
+is assessed to be much higher.
+
+The sanctions have starved the Russian military industry of foreign electronic components needed to produce, modernize, or repair sophisticated equipment such as
+missiles or armour. Even lack of more basic parts is becoming a limiting factor, since
+Russia has already turned to its small group of foreign supporters (Iran, North Korea,
+or China) to ask for ammunitions but with varying degrees of success.
+
+In order to escape growing isolation, Russia has been looking for alternative partners,
+but this search has had limited success so far. Countries that are willing to continue
+buying energy resources from Russia, such as China, India or Russia’s allies in Central
+Asia, signal their disapproval of the continuing aggression against Ukraine. The circle
+of Russian supporters is limited to its long-term partners or marginal outsiders of the
+international community. Russia will look for ways to bring together an anti-Western
+coalition, but these efforts highly likely will not live up to Moscow’s expectations.
+
+Russia’s stubbornness to continue the war demonstrates its willingness to suffer more
+political or economic damage than previously assessed. In order to prevent imaginary
+threats to its national security or territorial integrity, Moscow is ready to sacrifice the
+remains of its international reputation, economic stability, and human lives. Although
+the sanctions are effective in limiting Russia’s growth, the mounting cost of war will
+be financed without any regard to worsening welfare of its people.
+
+When conventional military or diplomatic measures fail, Russia often resorts to nuclear
+blackmail. Threats to use nuclear weapons or actions that put nuclear power plants
+in danger are designed to send a twofold message. For the domestic audience, it
+serves as a pretext to strengthen the narrative of Russia as a country under existential
+threat. For Western audiences, the Kremlin thus signals its willingness to deter any
+Western support to Ukraine.
+
+
+-----
+
+11th
+
+
+PLANNED REFORMS IN THE RUSSIAN ARMED FORCES' GROUND COMPONENT
+IN THE WESTERN STRATEGIC DIRECTION
+
+2022
+
+14th
+
+Corps
+
+Army
+Corps
+
+6th
+Army
+
+1st
+Tank
+Army
+
+20th
+Army
+
+**Divisions in 2022** **Potential divisions in 2026**
+
+Motor rifle Motor rifle
+
+Tank Naval infantry
+
+Existing boundaries Possible boundary between Moscow
+of military districts and Leningrad military districts
+
+
+-----
+
+2026
+
+11th
+Army 14th
+Corps Army
+
+Corps
+
+New
+Army
+
+6th Corps
+Army
+
+1st
+Tank
+Army
+
+20th
+Army
+
+**Potential divisions would be formed by enlarging existing brigades:**
+
+SIZE COMPARISON BRIGADE DIVISION
+
+Tanks ~30–40 ~150–200
+
+IFVs and APCs ~150 ~250–300
+
+Artillery ~60–80 ~120–150
+
+Personnel ~2,500–3,000 ~7,000–9,000
+
+
+-----
+
+**Russia’s digital and information isolation**
+**is growing**
+
+For more than a decade, the Russian government has systematically controlled the
+Internet in the country, but the Kremlin’s war on Ukraine has significantly increased
+Russia’s technological and online isolation from ‘unfriendly states’. Russia’s technological isolation is accelerated by internal and external factors such as the regime’s
+efforts to strengthen national information security and the withdrawal of multinational
+companies from the Russian market, as well as the economic sanctions imposed
+on the country.
+
+Russia has banned international media including social media that contain information contradictory to the regime’s narrative or allow their users to criticise the
+Kremlin. Facebook and Instagram, which Russia blames for inciting ‘Russophobia’,
+have been banned, also the BBC, CNN, Deutsche Welle, other international news
+agencies, and major Ukrainian news websites. Following the decree signed by Putin,
+over the past year Russia has seized control over cross-border transfer of Russian
+citizens’ personal data. The regime has also obliged Russian banks and other organisations that collect biometric data to share their customers’ information with the
+state authorities. Furthermore, the government has banned state-controlled entities
+from using information protection software originating from ‘unfriendly countries’.
+
+Russia’s international technological isolation has been further exacerbated after
+Western technology companies such as Microsoft, Apple, and Intel suspended
+their operations in the country. Russian telecommunication companies no longer
+have access to Nokia, Ericsson, and Cisco equipment and services. The suspended
+export of Western software, semiconductors, quantum computing products, and
+advanced microchips hampers Russia’s technological development and increases
+the shortage of components necessary for the military industry. Western universities
+and think tanks have also suspended collaboration with their Russian counterparts.
+
+Even though Russia is not among countries investing most in technological development, it regards digital technology sector as a driver for the country’s economic
+growth. Russia seeks to implement its programme for technological development
+until 2030–2035; therefore, the impact of international sanctions on the country’s
+technological development will be evident only in the medium and long term. With
+its increasing technological isolation from the West, Russia is likely to become more
+dependent on Chinese technology in the near term.
+
+
+-----
+
+**The Kaliningrad Region remains the biggest**
+**threat in Lithuania’s neighbourhood**
+
+The Kaliningrad Region is particularly important to the Russian political leadership
+mostly as a military bridgehead in the Baltic Sea Region, and at the same time as an
+isolated, economically vulnerable exclave surrounded by NATO countries.
+
+The reaction of Kaliningrad population to the war has revealed that despite the
+region’s relatively more active contacts with the West, in this regard Kaliningrad is
+no different from the rest of the Russian Federation. Protests against the war and
+
+Ferries Ambal (right) and Ursa Major (left) operating
+between the Kaliningrad Region and mainland Russia
+_Reuters / Scanpix_
+
+
+-----
+
+mobilisation were negligible and subsided without any effort from the government
+or law enforcement. Kaliningrad’s regional authorities organise mobilisation, gather
+supplies for the Armed Forces, and support the Kremlin’s efforts to tighten its control
+on the occupied regions in Ukraine. This way, regional authorities demonstrate their
+loyalty to the Kremlin and its policies.
+
+Before starting its aggression against Ukraine, Russia began preparations to secure
+Kaliningrad’s provision with necessary supplies and ensure that the region’s infrastructure was operational in isolation mode. It provided additional ferries and cargo
+ships for transportation of goods to the region by sea, strengthened Kaliningrad’s
+capability to secure the supply of energy resources without relying on transit via Lithuania. It is highly likely that the decision to start the operation of Marshal Vasilevskiy,
+the Floating Storage Regasification Unit (FSRU), which reached the region in early
+February 2022, but whose liquefied natural gas cargo was not used until November,
+was made to strengthen the energy independence of the Kaliningrad Region.
+
+As Kaliningrad’s isolation from Western countries increases, the region’s economy
+faces serious logistical challenges and a decline in industry production. Regional
+authorities try to adapt to the situation with short-term solutions such as searching for
+alternative logistic routes, subsidising industry, and trying to mitigate social impact of
+the economic problems. According to our assessment, the Kremlin is trying to prepare
+the Kaliningrad Region for complete isolation and ensure that its energy system is
+capable of functioning independently. Regional authorities and businesses are concerned about economic problems and are keen on maintaining transit of goods and
+energy resources via the EU territory. Currently, there are no signs that situation in the
+region might challenge the regime’s control. In the future, when addressing challenges
+to the Kaliningrad Region, the Kremlin will likely seek to demonstrate that relations
+with European states can be maintained only on Russia’s terms. If transit conditions
+are deemed unsatisfactory or if economic problems worsen in the exclave, the Kremlin
+will likely increase tension in the Baltic Sea Region to get at least some concessions.
+
+Russian military capabilities in the Kaliningrad Region were weakened due to their
+involvement and losses in the war against Ukraine, but Russian military threat in
+the Baltic Sea Region diminished only to a certain extent. Deployment to occupied
+Ukrainian territories mostly affected the ground component, while air and naval
+forces remained practically untouched. Back in January 2022, three landing ships
+
+
+-----
+
+with personnel and combat equipment left the Kaliningrad Region for the Black Sea.
+In addition, four multirole fighters Su-30SM/FLANKER-H were deployed to Crimea.
+However, other capabilities have been left in the exclave and are still performing their
+routine functions. What is more, the air component capabilities were additionally
+strengthened by deploying at least four modern Su-30SM2 fighters to the Kaliningrad
+Region. These new platforms compensated the losses incurred in Crimea.
+
+Kaliningrad Military Grouping capabilities are sufficient to provide its critical function –
+the Anti-Access/Area Denial (A2/AD) effect: to obstruct deployment of necessary
+defence capabilities to the Baltic Sea Region and disrupt the freedom of manoeuvre
+for opposing forces, thus attempting to gain an advantage in the initial phase of the
+conflict. Military units that were not deployed to Ukraine – short- and long-range
+
+
+_11th Army Corps from the Kaliningrad_
+_Region incurred heavy losses during the_
+_Ukrainian counteroffensive in Kharkiv_
+_Region. In September 2022, according to_
+_various estimates, 11th Army Corps combat_
+_units lost up to 50 percent personnel and_
+_30 percent combat equipment during the_
+
+
+_Russian retreat. Casualties were replen-_
+_ished by recruiting reservists, volunteers,_
+_and mobilised personnel. However, this has_
+_resulted in decreased capability of person-_
+_nel since most professional soldiers sent to_
+_the frontline have been replaced by con-_
+_scripts or inexperienced reservists._
+
+
+missile units, air and coastal defence, and electronic warfare units – are essential for this
+task and Kaliningrad Military Grouping will continue to create an A2/AD environment.
+
+According to intelligence estimates, the decrease in Russian military threat in the
+Baltic Sea Region will only be temporary. Russia will attempt to replenish ground
+component losses incurred in Ukraine as quickly as possible. After that, the Russian
+Armed Forces will continue to prioritise the growth of the Kaliningrad Region Grouping by creating and staffing additional military units, and modernising their combat
+equipment. Nevertheless, these developments will highly depend on the duration and
+outcome of the war in Ukraine – the longer and more costly the war, the more time
+this modernisation will take.
+
+
+-----
+
+**Iran’s support to the Russian war effort**
+**in Ukraine**
+
+Publicly Iran maintains a neutral stance towards the Russian aggression in Ukraine.
+Tehran advocates for a ceasefire and stresses the necessity of diplomatic solution.
+However, such rhetoric is nothing more than an elaborate attempt to conceal Iranian
+diplomatic and military support to Russia.
+
+The main element of Iranian support to Russia is supply of unmanned aerial systems
+(UAS). Throughout the course of the conflict, Russia procured hundreds of UAS
+from Iran, including both multirole UAS and various types of loitering munitions,
+such as Shahed-136. This loitering munition (rebranded as Geran-2 by Russia)
+accounts for the majority of UAS transfers from Iran to Russia. It is widely used by
+the Russian Armed Forces to strike military and civilian targets across Ukraine,
+particularly energy infrastructure, in order to harass Ukrainian population and force
+it into submission. In addition, heavy use of Shahed-136s allows the Russian Armed
+Forces to mitigate the negative impact of rapidly dwindling stocks of high-precision
+munitions (Iskander, Kalibr, and other types of missiles).
+
+In the diplomatic sphere, Iran’s capabilities to support Russia are limited, but that
+does not deter Tehran from such attempts. First, Tehran votes according to Moscow’s interests in the United Nations General Assembly on the issues related with
+Russia’s aggression. Furthermore, high-ranking Iranian officials continually blame
+NATO for the war in Ukraine. They portray Russia as a victim, which was forced to
+defend its national interests due to NATO’s provocations. This way Tehran amplifies
+the Kremlin’s propaganda narratives.
+
+By supporting Russia, Iran pursues several goals. It aims to prevent Moscow’s defeat
+in Ukraine as it would highly likely result in a weaker Russia, whereas Iran needs
+a strong ally as a counterbalance towards the West. Secondly, the war in Ukraine
+presents a unique opportunity for Iran to undermine interests of Western states
+outside the Middle East. Finally, Iran highly likely will use its current provision of
+assistance as leverage to negotiate favourable terms for future modern weaponry
+transfers from Russia.
+
+
+-----
+
+##### BELARUS
+
+�The Lukashenka regime supports Russia’s war against Ukraine
+by allowing Russia to use Belarusian territory, airspace, and
+infrastructure. Lukashenka has deployed units of the Belarusian
+Armed Forces close to the Ukrainian border, but he is unwilling
+to commit Belarusian troops to direct engagement in Ukraine.
+
+�In the event of a military conflict with NATO, Russia would
+have unrestricted access to Belarusian territory, airspace, and
+infrastructure. Moscow would receive necessary military support
+from Minsk.
+
+�As Lukashenka’s main aim is to stay in power, the regime
+will avoid any unpopular decisions while maintaining control of
+society and political repression.
+
+
+-----
+
+**Lukashenka takes part in Russia’s war against**
+**Ukraine, albeit does not regard himself as an**
+**aggressor**
+
+Lukashenka has been actively supporting Russia’s narrative on Ukraine since autumn
+2021. He has recurrently blamed the Ukrainian leadership for the escalation of the
+regional security situation. According to Minsk claims, Ukraine has lost its sovereignty
+and is now a U.S. tool to act against Russian interests. Lukashenka stepped up his
+hostile rhetoric during the joint Russian and Belarusian exercise Zapad in September
+2021, when for the first time he named Ukraine a military threat to Belarus.
+
+In autumn 2021, referring to an allegedly worsening situation on the Ukrainian-Belarusian
+border, Lukashenka announced the decisions to strengthen the border and hold a joint
+Belarusian–Russian military exercise in Belarus. Under the disguise of Union Resolve
+exercise, Russia deployed an unprecedented number of ground and air force units,
+and military equipment to Belarus in early 2022. On 24 February, Russia launched an
+offensive towards Kyiv from the territory of Belarus. Following Russian invasion into
+Ukraine, Belarus deployed its military units along the Belarusian–Ukrainian border.
+
+Lukashenka’s multifaceted support enabled Russia’s offensive in Ukraine from the North.
+In addition to the Russian ground forces advance, Russian bombers and close air support
+aircraft conducted air raids from Belarus. Belarus-deployed Russian units launched a
+large number of Iskander missiles to Ukraine. Russian forces used Belarusian military
+and civilian airfields for logistical and medical support. Belarus also delivered armoured
+fighting vehicles, weapons, and ammunition supplies to the Russian Armed Forces.
+
+Although Lukashenka accuses Ukraine of it allegedly planning to attack Belarus, he
+publicly rejects the possibility that the Belarusian Armed Forces could take part in
+combat actions in Ukraine. He admits that Belarus is taking part in Russia’s so-called
+‘special operation’ but emphasizes that Belarusian role is limited to allegedly securing
+Russia’s rear. Belarusian troops have been deployed at the border with Ukraine since
+February 2022.
+
+Russia has unlimited access to Belarusian military, civilian infrastructure and is
+provided with other necessary support. In October 2022, Lukashenka announced
+that due to increased threats to the Union State, the Russian-Belarusian Regional
+Grouping of Forces would be deployed to Belarus. Under this pretext, Russia has
+renewed a build-up of its forces in Belarus. Also, Russia plans to upgrade Belarusian
+aircraft to carry nuclear weapons.
+
+
+-----
+
+Putin proudly demonstrates partnership with
+Lukashenka, his closest remaining ally
+_AP / Scanpix_
+
+Unrestricted possibility for Russia to deploy its forces to Belarus negatively affects
+the security of Lithuania and other NATO member states. In the event of a military
+conflict with NATO, Russia would use Belarusian territory, air space, and infrastructure
+without any limitations; Lukashenka would also provide Russia with military support.
+
+
+-----
+
+Russian Armed Forces in Belarus and their activities against Ukraine
+
+ESTONIA Pskov
+
+Riga
+
+LATVIA
+
+RUSSIA
+
+Polatsk
+
+LITHUANIA
+
+Vitsyebsk
+
+BELARUS Smolensk
+
+Vilnius
+
+Vileyka
+
+Orsha
+
+Lida Minsk Mahilova
+
+Grodno
+
+Asipovichy
+
+Brianskas
+
+Baranovichy Babruysk
+
+POLAND
+
+Warsaw Luninyets Gomel
+
+Brest Pinsk
+
+Chernihiv
+
+Sumai
+
+Lutsk
+
+UKRAINE
+
+
+Russian units
+
+
+Kaluga
+
+Kurskas
+
+
+Motorized rifle /
+tank / airborne
+
+Helicopters
+
+
+Strategic
+bomber
+
+Air
+Defence
+
+Missile systems
+Iskander
+
+
+Combat
+aircraft
+
+
+Airborne early warning Artillery
+and control aircraft
+
+
+Russian flights
+
+
+Russian missile
+launches
+
+
+-----
+
+**The situation of the Lukashenka regime is**
+**dependent on the Kremlin’s success in the war**
+**against Ukraine**
+
+Lukashenka hopes that Russian financial support will help to mitigate the impact of
+international sanctions and maintain the stability of Belarus’ finances. In 2022, the
+Kremlin allowed Belarus to postpone repayment of its debts to Russia; the two countries
+reached an agreement on new loans to finance various import substitution projects in
+Belarus and an agreement on transport corridors for the export of Belarusian goods.
+Simultaneously, Minsk tries to step up its economic relations with China; however,
+with no significant results so far.
+
+The Kremlin is interested in gradually increasing Belarus’ dependence, mostly by developing the Union State project. In November 2021, the countries signed an agreement
+on 28 Union State programmes, which envisage common indirect tax collection rules
+and the unification of various regulations pertaining to state finances. Negotiations
+on the development of the Union State for the period of 2024–2026 are likely to start
+in 2023. Just as previously, the Kremlin highly likely will raise demands for political
+integration, which encompasses the establishment of supranational institutions or
+adoption of common currency. The Kremlin might not consider these projects as a
+vital necessity but will stick to the demand for establishing such institutions more as
+leverage against Belarus.
+
+With Moscow’s continued failures in Ukraine and growing economic losses due to
+Western sanctions, it is highly likely that the Kremlin’s financial capacity to support
+the Lukashenka regime will gradually diminish. Therefore, it is likely that in the near
+term, the Kremlin will not force Lukashenka to agree to a form of cooperation that is not
+acceptable to him, such as political integration of the two countries. Such demands
+would increase Lukashenka’s distrust in the Kremlin, which is not beneficial for Putin
+while the war against Ukraine continues.
+
+
+-----
+
+**With the Single Voting Day approaching, the**
+**regime’s main short-term objective is to prevent**
+**a new wave of protests**
+
+The Belarusian regime has been successful in maintaining power. A strong contributing
+factor has been Belarusian security and law enforcement agencies, which exercise
+strict control over the population. Together with other key regime institutions – the
+ministries, judiciary, and local councils – they remain loyal to Lukashenka.
+
+A sham constitutional reform is in its final stage in Belarus with the sole purpose of
+consolidating Lukashenka’s power. In early 2023, with the adoption of a law by Belarusian parliament a new supreme legislature – the All-Belarusian People’s Assembly (ABPA) – received constitutional status. The ABPA will consist of 1,200 members
+and will be elected for a five-year term. ABPA’s mandate includes approval of foreign
+policy strategic guidelines, security and economy; it will also rule on the validity of
+election results, appoint judges of Constitutional and Supreme Courts, and members
+of Central Electoral Commission. Changing the ABPA status gives additional options
+for Lukashenka. Should he decide to withdraw from the post of president, he will be
+able to retain power and influence in the country by becoming head of the ABPA.
+
+It is highly likely that in 2023, the Belarusian regime will give most of its attention to
+the preparation for upcoming elections. During the Single Voting Day – 25 February
+2024 – local and parliamentary elections are to take place as well as the election of
+the newly established ABPA. It is likely that in the run-up to the elections, intimidation
+and political repression of the country’s population will continue in an effort to prevent
+protests. In addition, the regime will seek to maintain a stable economic situation in
+Belarus and abstain from any actions that could stir popular dissent, e.g. direct participation in military actions against Ukraine.
+
+
+-----
+
+In 2022, the Nobel Peace Prize was awarded to the long-time
+Belarusian human rights activist and leader of Viasna, Ales Bialiatski,
+held in prison in Belarus and facing a 12-year prison sentence
+_Forum / Scanpix_
+
+
+-----
+
+##### CHINA
+
+�Xi Jinping has consolidated his power in China; however, the
+emerging economic and social problems will pose a challenge
+to the country’s leadership. The authorities will try to address
+challenges by strengthening the security apparatus.
+
+�Unification with Taiwan is one of Beijing’s major foreign policy and military strategy goals. Beijing will treat other countries’
+actions standing in the way of China’s global and regional expansion as unacceptable.
+
+�China’s declared course of relations with Russia –‘no-limits
+friendship’ – is based on pragmatic partnership. In the near and
+medium term, the cooperation between the countries will intensify
+but will become increasingly unbalanced.
+
+
+-----
+
+**Russia’s war against Ukraine has not changed**
+**Beijing’s goal of strengthening strategic**
+**cooperation with Moscow**
+
+Russia and China share overlapping strategic interests and perception of threats.
+Both countries openly declare dissatisfaction with their own status in the international
+system, speak out against the creation and expansion of Western blocs similar to
+NATO, and express discontent towards the U.S. global leadership. They both promote
+a peculiar understanding of democracy and human rights, seek to withstand against
+‘colour revolutions’ and minimise the interference of external powers in their areas of
+influence. The two countries stress that they have reached a new level of cooperation,
+which is not curtailed by any sensitivities or changing international order.
+
+Russia’s invasion of Ukraine has become a challenge for Beijing: it has to find a balance between its ‘non-interference policy’, partnership with Russia and the necessity
+to uphold its image in the West because of its economic interests. Beijing evidently
+supports Russia in the information and diplomatic domains, amplifies Moscow’s
+narrative that the war in Ukraine was provoked by NATO’s expansion and disregard
+for Russia’s security interests in Europe. It speaks out against military support to
+Ukraine and implementation of sanctions against Russia, abstains during voting or
+votes against resolutions that condemn Russia’s aggression. China helps to mitigate
+the impact of the sanctions on Russia: it has increased the import of Russian energy
+resources; Chinese banks also have integrated Russia’s financial institutions into
+China’s interbank settlements system. Due to the likely damage to their reputation or
+risk of secondary sanctions, large Chinese companies do not participate in Russian
+sanction evasion schemes; however, some small and medium size Chinese companies act as intermediaries for Russia in purchasing sanctioned and dual use goods
+and technologies.
+
+
+-----
+
+Russian and Chinese presidents meet for bilateral
+talks in Beijing to discuss strategic partnership
+_ZUMA Press / Scanpix nuotrauka_
+
+
+-----
+
+We assess it is highly likely that China’s top political echelon had been notified that
+Russia would be resorting to military action against Ukraine; however, they could
+have predicted neither the scale nor the course of the military conflict at the time. It
+is highly likely that China will continue to support Russia. Beijing assesses that its
+support so far has not caused China any significant damage but has provided some
+potential. It gives China opportunities to obtain energy resources under favourable
+terms, to expand the operations of its companies in Russia, to increase its influence in
+the regions traditionally claimed by Russia (Central Asia, the Arctic), and use Russia
+as a partner to counterbalance Western dominance.
+
+It is highly likely that Russia’s defeat in the war against Ukraine is against China’s
+interests, especially if it causes the regime change in the Kremlin, as this would lead
+to strategic uncertainty, which Beijing aspires to avoid. In the near and medium term,
+Chinese–Russian cooperation on security, defence, diplomacy, economics, energy,
+technology, and intelligence will intensify; however, in the long term these relations
+will become increasingly unbalanced. Since China and Russia aspire to maintain their
+strategic autonomy, it is unlikely that the two countries would elevate their cooperation
+to the status of alliance based on collective defence in the medium term.
+
+**By pursuing an aggressive policy towards**
+**Taiwan, China strives to change the current**
+**status quo in their relations**
+
+The unification with Taiwan is a core element of Xi’s vision for ‘great rejuvenation of the
+Chinese nation’. Xi presents the unification as a historical inevitability, tries to justify
+his plans by historical interpretations, ideological opposition, and alleged threats to
+national security; he simultaneously instigates nationalism and accelerates modernisation of the People’s Liberation Army.
+
+
+-----
+
+**China uses new initiatives to shape the global**
+**security agenda and create a counterbalance**
+**to Western alliances**
+
+The Global Security Initiative (GSI), presented by President Xi, aims at creating an alternative global security architecture. The GSI is based on China’s traditional principles of
+security and Comprehensive National Security concept developed by Xi. It also encompasses the idea of ‘indivisible security’, which has been systematically used by Putin to
+criticise NATO.
+
+Seek a common, comprehensive, collective, and
+sustainable security vision
+
+Respect the sovereignty
+and territorial integrity of
+all countries
+
+Adhere to the aims and
+principles of the UN
+Charter
+
+
+Maintain security both in Adhere to the principle of
+
+
+Resolve disagreements and
+disputes between countries
+peacefully, through dialogue
+and consultations
+
+
+Adhere to the principle of
+indivisible security
+
+
+Maintain security both in
+the traditional and nontraditional areas
+
+
+The GSI marks a new stage in the implementation of China’s (geo)strategy. Beijing
+projects the GSI, the Belt and Road Initiative, aimed at securing economic expansion,
+and the Global Development Initiative, which would strengthen Beijing’s dominance in
+international organisations, as a foundation for China’s goal to become a leading power
+in determining the global security agenda.
+
+China uses various international formats to rally other states’ support to the GSI. It presented its vision at the BRICS Summit and the congress of the member states of the
+Shanghai Cooperation Organisation. China is also seeking to transfer the GSI provisions
+into international agreements. For example, the GSI provisions were included into the
+China–Africa Cooperation Vision 2035, the agreement on bilateral security with the
+Solomon Islands, and the joint Chinese–Belarusian declaration. The GSI has been most
+favourably received by developing and / or authoritarian states that cultivate strong economic ties with China. Such Chinese position is also welcomed by the countries that are
+openly antagonistic to the West, such as Russia, Belarus, Iran, and a number of African
+and South American countries.
+
+China has not defined specific areas of cooperation under the GSI. It is highly likely that
+in the near and medium term, China will be referring to this initiative in order to bolster
+cooperation in the military and intelligence domains as well as in counter-terrorism and
+stand against ‘colour revolutions’. Russia’s and Belarus’ deeper involvement in these areas
+of cooperation would have a negative impact on Lithuania’s national security interests,
+because it would enable these regimes to further develop their security apparatus and
+allocate more resources for repressive measures against their populations. It is highly
+likely that the procedure of joining the GSI will not be formalized and that the initiative will
+b i l t d th h j i t d l ti th t
+
+
+-----
+
+Coverage of military exercises imitating Taiwan’s blockade,
+which seeks to demonstrate to Chinese population that the
+regime is capable of securing control of the island
+_Reuters / Scanpix_
+
+In Beijing’s view, political processes in Taiwan and the region are currently unfavourable to the prospects of reunification. The majority of Taiwan’s population is in favour
+of maintaining the status quo in relations with Beijing, but since 2018, the portion of
+
+
+-----
+
+Taiwanese supporting the idea of the island’s independence has been increasing
+(25.2 percent of population favoured it in 2022). China criticises political, economic,
+and defence initiatives in the Asia-Pacific region led by the U.S., such as QUAD and
+AUKUS. Beijing believes that these initiatives are part of the plan devised by the U.S.
+and its allies in the region to contain China’s expansion. China is particularly opposed
+to the strengthening of Japan’s military capabilities, as it believes that in the event of
+a conflict with Taiwan, they could be used against China. Taiwan’s efforts to develop
+relations with democracies are also viewed in a negative light, as these could be
+employed to rally international diplomatic support in the event of a conflict.
+
+Beijing openly demonstrates that it is prepared to cross a red line in its relations with
+Taiwan. Reacting to the visit by the speaker of the U.S. House of Representatives to
+Taiwan in the summer of 2022, China held unprecedented military exercises simulating a total blockade of Taiwan. During the exercises, the Chinese naval and air forces
+on numerous occasions violated the median line, which divides China’s and Taiwan’s
+territorial waters, and for the first time in history, launched a missile over Taiwan’s main
+island, which later landed in Japan’s exclusive economic zone. After the exercises,
+Xi stressed that China was not ruling out the use of military force against Taiwan and
+initiated the adoption of amendments to the Chinese Communist Party (CCP) Constitution. They state that China will pursue to implement the ‘one country, two systems’
+principle with regard to Taiwan. In 2020, China betrayed ‘one country, two systems’
+principle applied to Hong Kong, what shows that China itself does not respect its
+commitments and obligations. Since then, Taiwanese society has been particularly
+sceptical about China’s similar initiatives.
+
+During Xi’s third term in office, China’s aggressiveness towards Taiwan will increase;
+however, the military invasion is unlikely. China will continue to hold military exercises
+around Taiwan in order to intimidate Taiwanese society, to deter Taiwan’s partners
+from collaboration with Taipei, and test the reaction of the international community.
+It is possible that China will carry out military provocations against Taiwan’s smaller
+islands and will obstruct supply of raw material to Taiwan as well as operation of
+international trade routes near Taiwan. In the medium term, China will pursue to
+decrease its economic and technological dependence on the West significantly, as
+this would be China’s critical vulnerability if it came under sanctions in the event of a
+military invasion of Taiwan.
+
+
+-----
+
+**Xi’s concentration of power in the CCP poses**
+**a risk of strategic miscalculations**
+
+Xi has started an unprecedented third term as general secretary of the CCP. He has
+not only consolidated his status within the CCP, secured prospects for indefinite rule
+but also eliminated his political rivals from key positions in the party.
+
+Top party officials elected at the 20th CCP Congress.
+Xi’s loyalists will rule the country for the next five years
+_EPA / Scanpix_
+
+
+-----
+
+Xi has appointed officials to the top-ranking positions in the party with disregard to the
+unwritten rules practiced by former CCP leaders, such as collective decision-making,
+age limits, and requirements for competence and experience. The main criteria for
+the appointments were personal relations with Xi and the candidate’s political loyalty.
+For example, the party’s secretary in Shanghai, Li Qiang, who had proven his loyalty
+to Xi by implementing the ‘zero COVID-19’ policy in the city, was appointed to the
+second-highest CCP position for his third term. Other Xi loyalists, such as Minister of
+Foreign Affairs Wang Yi, who had followed Xi’s guidelines and mobilised the country’s
+diplomatic corps for ‘wolf warrior diplomacy’, or Xi’s comrade Li Xi, who had helped
+him to implement ‘anticorruption campaigns’ against his political opponents, were also
+promoted to the top positions in the party. The top echelons of the CCP – the Politburo
+and the Politburo Standing Committee – are now entirely dominated by Xi’s inner
+circle, who have pushed representatives of other CCP factions out of these positions.
+
+Taking into account Xi’s unprecedented political power and tendency to hand out key
+party posts only to people who are loyal to him, the likelihood of mistakes in strategic
+political decisions increases. It is likely that fearing accusations of disloyalty, a part of
+Xi’s entourage will not only abstain from criticising the leader’s initiatives but will also
+avoid presenting information that goes against the leader’s expectations, for example,
+about the effect that certain political decisions might have on the country’s economy
+or China’s preparedness for a military invasion of Taiwan.
+
+**Internal tensions in China force the regime**
+**to search for external enemies, justifying**
+**repressions against its society**
+
+China faces long-term structural economic challenges as it has been unable to reach
+its objectives of economic growth; the country’s production output, domestic consumption and exports are declining, while unemployment is on the rise. Signs of crisis
+have been observed in China’s real estate industry, which contributes about a third
+
+
+-----
+
+of the country’s GDP. Due to certain aspects of state regulation, Chinese real estate
+developers fall behind their obligations, whereas residents who have acquired unfinished properties with bank loans refuse to pay interest until construction companies
+
+Students protest in China over the
+regime’s policy and censorship
+_EPA / Scanpix_
+
+
+-----
+
+have completed their works. This situation has been affecting China’s financial sector,
+with part of the banks now facing capital liquidity problems.
+
+Due to the worsening economic situation and other controversial political decisions,
+China begins to face social unrest. In 2022, public protests broke out over the extremely
+strict COVID-19 restrictions, human rights abuses, and the regime censorship as well
+as defaults of banks and construction companies. Such protests are not a common
+phenomenon in Chinese society, where the CCP regime and its ideology have held a
+tight control over political and civil rights.
+
+In an effort to prevent social unrest in the country, Xi focuses on the revision and
+expansion of China’s security apparatus. In 2022, after corruption scandals rocked
+the Chinese Ministry of Public Security, which is responsible for counterintelligence,
+police work, and border security, Xi appointed his close associate, Wang Xiahong,
+as the new minister. Following the 20th CCP Congress, the heads of Chinese civil
+intelligence (Ministry of State Security) and the United Front Work Department,
+which is responsible for the spread of political influence abroad, were appointed to
+the Politburo, while a member of the commission for coordinating national security
+issues, Ding Xuexiang, was elected to the Politburo Standing Committee. These
+appointments indicate not only Xi’s readiness to counter internal threats but also
+to expand the mandate of intelligence services and other agencies responsible for
+influence operations.
+
+It is highly likely that although social tensions in China will be fueled by slowing
+economy and unpopular decisions in the near and medium term, any manifestations
+of discontent will be suppressed with the help of China’s security institutions. As
+Xi has been increasingly vocal about the alleged threats to national security arising
+from external actors, ‘colour revolutions’, sabotage, disruptive activities, and promotion of separatism, Chinese political leadership is likely to use these arguments
+increasingly to justify the use of the country’s security apparatus against its citizens.
+Protests in China are unlikely to have major influence on the regime’s stability in short
+and near term.
+
+
+-----
+
+**THE ACTIVITY**
+**OF HOSTILE**
+**INTELLIGENCE AND**
+**SECURITY SERVICES**
+
+�The intensity of human intelligence operations by Russian intelligence services in Europe has decreased. Russian intelligence has
+shifted its focus and resources to activity in Ukraine and against it.
+
+�Russian intelligence services remain active on the Russian–
+Lithuanian border and pose a threat to Lithuanian citizens visiting
+Russian border areas. Russian intelligence services have also been
+showing regular interest in the military and civilian infrastructure
+in countries bordering Russia.
+
+�Representatives of the Belarusian democratic opposition, the
+regime critics, or Belarusians fleeing persecution are the priority
+targets for Belarusian intelligence services.
+
+�Private military and security companies controlled by Russian
+intelligence are exploited by the regime as an additional military
+capability. They are capable of carrying out tasks in military conflicts as well as during peacetime.
+
+
+-----
+
+**Russian intelligence searches for new methods**
+**to collect intelligence in Europe, but its PRIMARY**
+**FOCUS is the war against Ukraine**
+
+The intensity of human intelligence operations conducted by Russian intelligence
+has fallen in Europe. As a response to Russia’s aggression against Ukraine, European
+countries expelled more than 400 Russian intelligence officers who had worked
+under diplomatic cover. This coordinated decision has negatively affected Russia’s
+intelligence gathering capabilities. Under such circumstances, Russian intelligence
+highly likely will resort to other information gathering methods and will search for
+new intelligence opportunities. Russia likely will use cyber espionage, officers under
+non-traditional (non-diplomatic) cover or with fake identities (the so-called ‘illegals’),
+and intelligence from the Russian territory more often. Simultaneously, Russia highly
+likely will pursue efforts to restore intelligence positions in its diplomatic representations by delegating new officers.
+
+Russia’s ability to perform human intelligence in Lithuania has also diminished. In
+2022, five intelligence officers operating under diplomatic cover were expelled from
+Lithuania. The sanctions against Russia, which include travel restrictions for Russian
+citizens, limit the possibilities for Russian nationals collaborating with intelligence
+to visit Lithuania and, therefore, a potential for human intelligence from the Russian
+territory. With the decreasing number of border crossings between Lithuania and
+Russia, Russian intelligence likely will intensify its efforts to recruit individuals without
+any access to sensitive information.
+
+Russia’s Federal Security Service (FSB), which is also responsible for border protection, has become more active on the Russian–Lithuanian border. Lithuanian citizens
+
+
+_In August 2022, the FSB Border Service_
+_detained a Lithuanian citizen who had_
+_crossed the Lithuanian–Russian border by_
+_mistake after getting lost. He was interro-_
+_gated for three days and was subjected to_
+_psychological violence. His smart devices_
+_were examined; he was questioned about his_
+_contacts, connections to law enforcement,_
+
+
+_military and intelligence institutions, as well_
+_as about sensitive personal information._
+_The FSB threatened to hand him over to_
+_the Donetsk People’s Republic, where he_
+_would be tried for terrorism, because his_
+_devices contained information about his_
+_support to Ukraine. The Lithuanian citizen_
+_spent two weeks in detention._
+
+
+-----
+
+visiting the border area with Russia or crossing the Lithuanian–Russian border are at
+risk of becoming targets for the FSB provocations. Those travelling to Belarus face
+a similar threat.
+
+Currently, the FSB dedicates most of its foreign intelligence capabilities to operations
+against Ukraine. The service plays a pivotal role in securing the control of Russian-occupied territories, establishment of occupation administrations, and identification of
+residents loyal to Ukraine. The Department for Operational Information (DOI) of FSB 5th
+Service (intelligence and influence operations), the FSB Military Counterintelligence
+Department (counterintelligence in the Armed Forces and military intelligence), the
+FSB Special Purpose Centre (combat support), and other FSB units are most active
+in Ukraine and against it.
+
+Lithuanian citizens who travel to Ukraine to provide support to the Ukrainian Armed
+Forces or local residents, especially those who visit territories close to combat zone,
+face a risk of becoming targets for Russian intelligence. In case of detention by the
+Russian Armed Forces or pro-Russian militant groups, Lithuanian citizens would
+be handed over to intelligence officers. In spring 2022, a Lithuanian national was
+detained, interrogated, and subjected to psychological and physical violence, highly
+likely to ascertain whether the detainee had any connections to Ukrainian military or
+intelligence.
+
+The Main Directorate of the General Staff of the Russian Armed Forces (GRU) constantly collects intelligence on strategic military and civilian infrastructure in countries bordering Russia. Such information allows Russia to assess military capability
+and weaknesses of its opponents. Russia uses this knowledge not only for planning
+subversions that target state functions and democracy procedures but also military
+operations, like the one against Ukraine’s critical infrastructure. It is highly likely that
+most of the targeting information about Ukraine’s strategic infrastructure was collected
+by the GRU, which is responsible for collection, processing, and verification of such
+intelligence during peacetime.
+
+
+-----
+
+Despite the war against Ukraine, Russian intelligence services retain their interest in
+Lithuania and continue to collect information on military and civilian infrastructure.
+For this purpose, they use cyber espionage, which allows them to collect open-source
+intelligence or penetrate the systems of state institutions.
+
+**Belarusian intelligence services recruit their**
+**own nationals fleeing to Lithuania**
+
+After the 2020 Belarusian presidential election, tens of thousands of Belarusian
+citizens arrived in Lithuania, fleeing arrest, imprisonment, or other types of legal
+prosecution. The growing Belarusian diaspora in Lithuania leads to increased activity
+of Belarusian intelligence services.
+
+According to available intelligence, the priority targets for Belarusian intelligence
+services are representatives of the Belarusian democratic opposition, regime opponents as well as methods of their entry into Lithuania. Some individuals who enter
+Lithuania are exploited by Belarusian intelligence and law-enforcement services – the
+State Security Committee (KGB), the Main Intelligence Directorate of the General
+Staff of the Belarusian Armed Forces (Belarusian GRU), and the Main Directorate
+for Combating Organised Crime and Corruption of the Ministry of Internal Affairs of
+Belarus (GUBOPiK).
+
+The KGB infiltrates its agents among fleeing Belarusians. In Lithuania, they collect
+intelligence about their diaspora, democratic opposition and its organisations, Lithuania’s intelligence institutions, border crossing procedures, and organisers of legal and
+illegal entry to Lithuania. In case of their return to Belarus, the regime’s propaganda
+exploits these individuals in smear campaigns against Lithuania, its state institutions,
+and the Belarusian democratic opposition.
+
+
+-----
+
+Abramenka appearing on
+Belarus 1 channel after his
+return to Belarus
+
+_in a Belarusian propaganda movie defaming_
+_Lithuania. Abramenka disseminated false_
+_information about individuals who organ-_
+_ise entry to Lithuania, routes, verification_
+_procedures, and Lithuanian state institu-_
+_tions. It is highly likely that Abramenka was_
+_cooperating with the KGB._
+
+
+_Andrey Abramenka, a former officer of_
+_Belarusian OMON, prosecuted for his_
+_protest activity in 2020. In 2021, Abra-_
+_menka crossed the Lithuanian border ille-_
+_gally and applied for asylum. After a few_
+_months, Abramenka returned to Belarus_
+_and became one of the main characters_
+
+
+Starting from 2021, the Belarusian regime and the KGB are implementing the ‘Way
+Home’ initiative, which offers members of the Belarusian diaspora an allegedly safe
+return to Belarus in exchange for information (spying). For the provided opportunity to
+return home, the regime forces some Belarusian citizens to go public on Belarusian
+television with their stories on escape and return. Belarusian opposition activists and
+NGO representatives keep receiving messages through Telegram social network
+accounts inviting them to return to Belarus. A considerable number of the Belarusian
+diaspora representatives in Lithuania say they have received such offers.
+
+It is highly likely that in the near term, Belarusian intelligence services will step up
+their efforts to exploit the growing Belarusian diaspora in order to gather intelligence
+
+
+-----
+
+about Lithuania’s institutions, Belarusian democratic opposition, and diaspora. The
+Lukashenka regime will use such information to defame Lithuania and Belarusian
+democratic opposition, and weaken the morale of diaspora members. It is possible that
+in the near term, the propaganda and disinformation campaigns orchestrated by the
+Belarusian regime will increase the Belarusian diaspora’s disillusion with the Belarusian opposition. Belarusian intelligence services will exploit disappointed Belarusians
+for gathering intelligence and influence operations within their diaspora in Lithuania.
+
+**Authoritarian regimes are changing the model of**
+**privatization of military power**
+
+Private military and security companies (PMSCs) operating in conflict zones are a
+worldwide practice. However, Russian approach to the activity of PMCSs differs from
+the Western perspective.
+
+Western PMSCs operate according to national and international obligations, do not
+directly engage in combat and mostly carry out security, logistics, and military training
+tasks. The activities of Russian PMSCs, formally prohibited by the Russian Penal
+Code, are most in line with the mercenary concept.
+
+Russian-controlled PMSCs directly engage in combat actions. Although fighters of
+various ideologies, including ultra-right nationalists, are joining the ranks of Russian
+PMSCs, financial reward is the main motivation of Russian mercenaries.
+
+In total, the Russian PMSC sector is saturated with several dozen companies with different functions. Their operations include not only combat actions but also intelligence
+collection, information operations, or political consulting to authoritarian regimes.
+The most widely known Russian PMSC Wagner, which is under the supervision of
+the GRU, is active in Ukraine and several countries outside Europe.
+
+We assess that Russian PMSCs would be capable of carrying out limited-scale operations against European countries. If tasked, their efforts could include non-kinetic
+activities, such as reconnaissance and intelligence collection on critical infrastructure.
+
+
+-----
+
+In addition, experience of covert operations and undefined legal status would enable
+PMSCs to carry out subversive actions, sabotage, or instigate social unrest.
+
+Current and former members of Russian PMSCs have engaged in martial arts, first
+aid, and similar paramilitary training in Europe. Russian intelligence and security
+services are known to exploit this area of activity as a platform for candidate search
+and recruitment. As such cases are currently observed in other European countries,
+it is possible that Russian PMSCs and Russian intelligence could use the same
+_modus operandi in Lithuania. Thus, participation in paramilitary activities organised_
+by Russian PMSCs would create fertile ground for recruitment.
+
+Finally, Belarusian PMSCs play a part in Russia’s war against Ukraine. Saboteur
+groups formed in Belarus are designated to support Russian aggression by sowing
+instability on the border with Ukraine, infiltrating Ukraine's territory and destroying
+Western-supplied military equipment, ammunition, or humanitarian aid.
+
+Gardservis, a Belarusian PMSC that has connections with the Presidential administration and functions similarly to PMSC Wagner, takes part in the establishment of
+these groups. Recruitment for saboteur groups takes place not only among PMSC
+members but also inside Belarusian security apparatus, including Presidential Security Service. Such background likely expedites the formation and training of saboteur
+groups. According to intelligence assessment, it is possible that such groups could
+conduct sabotage activities inside European countries that provide military and
+humanitarian aid to Ukraine.
+
+
+-----
+
+##### CYBER SECURITY
+
+�Russia’s aggression against Ukraine motivates hackers and
+hacktivists to get involved in the conflict. Cyber criminals and
+cyber activists have supported Russia by trying to disrupt information processes and sowing turmoil in society.
+
+�While cyber espionage remains the main line of operation for
+state actors, the number of destructive attacks has increased.
+It is highly likely that the threat to organisations’ information
+systems of NATO, EU, and other states will grow, especially due
+to increased geopolitical tensions.
+
+�Cyber-enabled information operations against Lithuania by the
+Ghostwriter, a cyber-enabled influence campaign, have subsided
+due to its redirected effort towards Ukraine. It is likely that the
+decrease is temporary, the ongoing collection of personal data
+indicates preparation for future attacks.
+
+
+-----
+
+**War against Ukraine did not decrease threats in**
+**Lithuanian cyber space**
+
+The most active cyber groups that act against Lithuania are connected with Russia and
+China. Their priority remains continuous long-term collection of information related
+to Lithuanian internal and foreign affairs. Cyber groups seek to access government
+institutions’ and organisations’ IT systems; they gather both target information and
+technical data about the systems’ architecture and vulnerabilities. They also try to
+create mechanisms that allow long-term access to the systems. A temporary decrease
+in cyber group hostile activities caused by Russia’s actions in Ukraine is unlikely to
+have a major effect on their long-lasting malicious operations in the medium term.
+
+Russian cyber groups, coordinated by intelligence agencies, use the tools usually
+attributed to cyber criminals and also cooperate with non-state hackers. Attacks by
+cyber criminals are increasing in number and scope. It is likely that some of the attacks
+attributed to cyber criminals in fact are instigated by adversarial countries.
+
+This collaboration is based on mutual benefits – state actors exploit this opportunity to
+mask their involvement in malicious activities, whereas criminal groups receive financial and technological support, acquire experience, and immunity from prosecution.
+
+The war in Ukraine has demonstrated that criminal hacker groups, such as Killnet,
+Killnet, XakNet Team, or Noname are ready to get involved in the conflict on the Russian side. In recent years, cyber criminals and cyber activists have supported Russia
+by trying to disrupt information processes and sowing turmoil in society.
+
+In 2022, these groups periodically conducted DDoS attacks against government
+and private sectors in Ukraine, the Baltic States, Poland, and other supporters of
+Ukraine. In summer, they carried out attacks against a wide spectrum of targets in
+Lithuania – critical infrastructure, government institutions, logistics sector, and other
+organisations. The attacks did not cause any direct and lasting damage, but cyber
+activists highly likely will continue to target countries that provide support to Ukraine
+or are not favourable to Russia.
+
+
+-----
+
+Attacks
+against
+Ukraine and
+countries
+
+Ukraine
+in 2022
+
+March April May June
+
+
+While cyber espionage remains the main line of operation of state actors, destructive
+attacks have been increasingly prevalent. The purpose of these attacks is not only
+to disrupt the targeted system activities and critical processes but also to destroy
+the data stored and managed within them. The main targets of attacks are usually IT
+networks of governmental organisations and critical infrastructure.
+
+While in recent years attackers have mainly targeted Ukraine, they have also acted
+against NATO countries. In July 2022, hackers publicly attributed to Iran managed
+to get access to data managed by the Albanian government institutions. They compromised the information systems with malware capable of irreversibly corrupting
+the data. As a result, websites of Albanian electronic services and institutions were
+partly disrupted. It is highly likely that in the future, the threat to organisations’ information systems of NATO, EU, and other states will grow, especially due to increased
+geopolitical tensions.
+
+
+-----
+
+July August September November December
+
+
+In 2022, Ghostwriter, a cyber-enabled influence campaign, significantly decreased its
+activity against NATO states. Whereas in 2021, at least 11 cyber-enabled information
+operations were launched against Lithuania, in 2022, there was only one. Contrary to
+previous attacks, this attack did not aim to spread disinformation about Lithuania’s
+internal and foreign affairs. The purpose of the attack was to get access to social
+media and e-mail accounts. It is highly likely that perpetrators were trying not only to
+get to the information held within these accounts but also to use the compromised
+accounts for spreading disinformation in the future.
+
+It is likely that the decrease in cyber-enabled information operations in Lithuania is
+temporary and related to redirected effort towards Ukraine, which has been a target
+of numerous Ghostwriter attacks in recent years. Nonetheless, attempts to gather
+Lithuanian citizens’ data indicate likely plans to target Lithuania in the future attacks.
+
+
+-----
+
+**Ghostwriter activity against Lithuania in 2020–2022**
+
+April
+
+2022
+
+February March April June July August September November December
+
+2021
+
+January March April May July August September November December
+
+|2020|Col2|
+|---|---|
+|||
+
+
+
+**TARGETS OF DISINFORMATION**
+
+Allies’ troops in Lithuania
+
+NATO, international training
+
+NATO and Lithuanian government
+
+Illegal migrant crisis
+
+Political decisions regarding China
+
+Political decisions regarding Belarus
+
+COVID-19 pandemic countermeasures
+
+Government institutions
+
+Energy sector
+
+
+-----
+
+##### INFORMATION SECURITY
+
+�Lithuania-based Kremlin propaganda producers continue to
+disseminate narratives favourable to Russia. Ukrainian refugees
+in Lithuania are among the targets for Russian propaganda
+campaigns.
+
+�Russia tries to retaliate against the removal of Soviet monuments from public spaces. Russian Embassy diplomats collected
+information about the dismantlement of Soviet military memorials. The information was used in pre-trial investigations against
+Lithuanian citizens.
+
+�By promoting information about alleged desecration of Soviet
+military cemeteries and the glorification of the Nazism, Russia
+attempts to portray Lithuania as an enemy.
+
+
+-----
+
+**Lithuania remains a target for Kremlin**
+**propaganda**
+
+After Russia’s invasion of Ukraine, Lithuania imposed tighter restrictions on the Kremlin
+propaganda, which made Lithuania oriented Russian propaganda news sites more
+difficult to access. In spite of these measures, managers of propaganda outlets have
+not suspended collaboration with content providers in Lithuania and other countries.
+These individuals still gather information and produce propaganda products usually
+used in information campaigns tailored for Russian domestic audience to fuel negative
+attitude towards Lithuania.
+
+
+_In an effort to demonstrate that its inter-_
+_national isolation is allegedly diminishing,_
+_the Kremlin regime attempts to attract_
+_Lithuanian residents to pro-Russian pub-_
+_lic activity. Organisations subordinated to_
+_or controlled by the Russian government_
+_have used their contact network in Lithu-_
+_ania to search for individuals who would be_
+_willing to attend international events with_
+
+
+_the purpose of supporting the Kremlin’s_
+_aggressive foreign policy. Several Lithuanian_
+_citizens who maintain contacts with Rus-_
+_sian entities took part in such events that_
+_usually serve as a platform for spreading_
+_false information about the alleged sys-_
+_tematic violation of human rights in Europe_
+_and for accumulating support for Russia’s_
+_aggression against Ukraine._
+
+
+Distributors of pro-Kremlin propaganda in Lithuanian information domain primarily
+use social media. They run targeted campaigns against Ukrainian refugees accusing
+them of law violations, abuse of social support, and promotion of extremist ideologies. After tens of thousands of Ukrainian refugees settled in Lithuania, a number of
+messages with unconfirmed information appeared online; they falsely accused the
+refugees of committing crimes and instigating ethnic hatred.
+
+
+-----
+
+**Kremlin tries to exploit Muslim communities**
+**in Europe**
+
+The Kremlin uses Muslim communities to spread propaganda that justifies its
+aggressive policies. Some Russian Muslim leaders have proclaimed a fatwa justifying Russia’s invasion of Ukraine and declared that Muslims who die in combat
+on the Russian side would be considered martyrs.
+
+The Kremlin also sets up organisations that try to
+establish contacts with European state institutions
+and Muslim communities. One of such pro-Kremlin
+organisations is the European Muslim Forum (EMF),
+established in 2018, which maintains contacts with
+some former or present leaders of Muslim communities in European countries, including Lithuania.
+Key positions in the EMF belong to the leaders of
+Russian Muslim organisations who have connec
+_euromuslimforum.org_ tions with the Russian Presidential Administration.
+
+European Muslim
+Forum emblem,
+_euromuslimforum.org_
+
+
+The EMF spreads anti-Western propaganda narratives about thriving Islamophobia
+in some European countries and war crimes allegedly committed by the U.S. in the
+Middle East.
+
+The EMF takes part in projects dedicated to the memory of Akhmad Kadyrov, the
+father of Chechen leader Ramzan Kadyrov, while the EMF President Abdul Vakhed
+Niyazov maintains contacts with Kadyrov’s administration. Niyazov took part in the
+creation of propaganda coverage about Chechen forces fighting in Volnovakha, a town
+near Mariupol. In October 2022, he was banned from entering the Schengen area.
+
+
+-----
+
+**Kremlin actively strives to preserve its**
+**expansionist historical narrative**
+
+Russia justifies its expansionist policy by employing a historical narrative based on
+various manipulations of the Soviet victory against the Nazi Germany. This narrative promotes the Kremlin regime’s fictitious claims about exclusive interests in the
+post-Soviet region, whereas its aggressive policy and military actions are justified by
+the need to protect Russia’s influence. Putin has compared the war against Ukraine
+to the military campaigns of Tsar Peter I, whose goals, as Putin put it, were not to
+conquer new lands but reclaim former rightful territories. The Kremlin justifies the
+war against Ukraine based on contrived arguments that allegedly Ukraine threatened
+Russia and had to be ‘demilitarised’ and ‘de-Nazified’.
+
+Commemoration of the Soviet victory is an important event for Kremlin’s history policy
+to retain the ideological influence over the countries formerly occupied by the Soviet
+Union. Every year on the Victory Day (9 May), Soviet military memorials become places
+of public gatherings for the members of society who support Russian vision of history.
+
+In 2022, a campaign to dismantle Soviet military monuments was launched in Lithuania,
+which caused Russia’s retaliatory action. Russian Embassy diplomats tried to establish
+contacts with Lithuanian state and municipal institutions and collected information
+about the dismantlement of Soviet military memorials. This information was used by
+Russian law enforcement institutions in pre-trial investigations against Lithuanian
+citizens. In retaliation to the monument dismantling in Lithuania, Russia embarked
+on the destruction of public objects that are located on its territory and are significant
+to the Lithuanian national identity. The persecution of Lithuanian culture-promoting
+organisations began; some of them were forced to cease their activity.
+
+
+-----
+
+**Pro-Kremlin propaganda narratives designed**
+**for Western societies**
+
+Russia’s propaganda narratives orientated towards its domestic audience have little
+effect on Lithuanian and Western societies. Narratives tailored for the Western audiences by Kremlin propaganda actors feature topics that are sensitive in the West.
+
+**Economic and energy shortages. The Kremlin’s information policy**
+actors attempt to convince Western societies that international sanctions against Russia will have a significantly bigger negative impact on
+Western countries than on Russia. European economies will collapse
+and the governments will fail to ensure their citizens’ basic needs if they
+refuse to buy Russian energy resources.
+
+**Instigation of conflicts among Western states. Russian propaganda**
+often draws attention to disagreements between European states,
+attempts to instigate conflicts on war-related topics between the U.S.
+and EU; also between Western and Eastern Europe. Kremlin policy
+supporters disseminate in Lithuania disinformation that Poland allegedly
+poses a threat to Lithuania’s independence and territorial integrity, since
+following Russia’s invasion of Ukraine Poland significantly increased its
+defence spending.
+
+**Negative image of Ukraine, the Ukrainian Armed Forces and the**
+**Ukrainian nation. During the first days of invasion, Russian propagan-**
+dists disseminated a narrative that Western military support to Ukraine
+would only prolong the war, whereas the Russian Armed Forces would
+achieve a victory that will result in the occupation of the entire Ukrainian
+territory. After Russia’s military setbacks and liberation of some previously occupied Ukrainian territories, Kremlin policy supporters started
+to disseminate fake news that Ukraine allegedly was reselling donated
+weapons and military equipment to other countries, even to Russia.
+
+
+-----
+
+Dismantling of a Soviet memorial complex
+_AFP / Scanpix_
+
+
+-----
+
+Russia uses a narrative of fight against the Nazism as a justification to consolidate
+its hegemony in the region. Allegations against Lithuania of desecrated Soviet military cemeteries and Nazism glorification contribute to a depiction of Lithuania as an
+enemy, particularly to Russian society, and could potentially be used as an excuse
+for Kremlin’s aggressive actions. Russia likely will seek to prosecute Lithuanian citizens in connection with the removal of Soviet monuments and force representatives
+of Lithuanian communities in Russia to cease their activities or join anti-Lithuanian
+propaganda campaigns.
+
+
+-----
+
+###### ECONOMIC AND ENERGY SECURITY
+
+�As international sanctions imposed on Russia have had a
+negative impact on the country’s economy, Russian businesses
+try to establish schemes to bypass sanctions by searching for
+intermediaries, including in Lithuania.
+
+�Russia seeks to use energy supplies to Europe as leverage;
+however, it highly likely will lose it in the near term.
+
+�Rosatom tries to retain position in the nuclear energy market;
+however, according to intelligence, the technologies it provides
+are defective. Rosatom’s technological problems are well illustrated by the situation at the Belarusian Nuclear Power Plant.
+
+
+-----
+
+**Sanctions cause major problems to Russia and**
+**its entities that try to bypass them**
+
+International sanctions have caused major challenges to Russia’s energy, industrial,
+military, and financial sectors. A lack of Western goods, equipment, and components
+has caused operational difficulties for Russian companies. According to available
+intelligence, Russian citizens and businesses seek to organise sanction evasion
+schemes to obtain the needed critical equipment or export the production that is under
+sanctions. Their priority is to secure the supply of dual-use goods and equipment.
+Attempts to circumvent the sanctions involve EU-based companies, mostly those
+
+
+-----
+
+that have developed trade relationships with Russia and Belarus and provided them
+with Western goods and equipment.
+
+Most common methods to evade export control and the sanctions regime are declaration of goods with the customs using misleading codes and descriptions, thus
+concealing the true purpose of the goods and concealing the end-users with a help
+of a long chain of intermediaries.
+
+Russian individuals and legal persons under sanctions are interested in opportunities
+and methods of transferring funds, establishing shell companies in third countries,
+evading restrictions on money transfers, and restructuring their businesses by concealing the ultimate beneficial owner.
+
+Sanctioned Russian individuals and legal persons often organise transfer of their
+businesses to third persons or family members, make fake business sale deals and /
+or rename their companies. Business and financial management consultants, both
+companies and private individuals, who assist the entities in trying to circumvent the
+sanctions are not merely risking the reputation of their own or of the state where they
+operate but also may be held legally liable.
+
+
+_Russia tries to restrict public information_
+_about individuals and legal persons associ-_
+_ated with the Kremlin, their companies, and_
+_assets. The Kremlin highly likely will con-_
+
+
+_tinue to exercise control over such informa-_
+_tion and restrict access to the information_
+_about the sanctioned Russian citizens and_
+_legal persons even further._
+
+
+**Technologies being developed in Lithuania may be**
+**targeted by hostile foreign actors**
+
+Rapidly developing emerging and disruptive technologies (EDTs) play a major role in
+the global distribution of power among the U.S., China, and Russia. These technologies
+are increasingly regarded as a potential tool to achieve an economic breakthrough,
+strategic and operational military advantage. Therefore, countries pursue ambitious
+EDT development plans.
+
+
+-----
+
+_Emerging and disruptive technologies_
+_(EDTs) can replace or improve the func-_
+_tions of the existing technologies, influence_
+_new approaches and capabilities. Currently_
+
+
+_artificial intelligence, big data as well as_
+_quantum, autonomous, space, and other_
+_technologies hold the greatest potential._
+
+
+With an increase in international technological competition and the sanctions on
+technology exports to Russia and Belarus in place, Western entities, including Lithuanian companies and academia, which specialise in EDT research and development,
+become potential targets for hostile states. Industry and science representatives
+from China, Russia, and other countries developing military technologies seek to
+collaborate with technology companies and the academic community, place profitable
+production orders, offer participation in joint research projects, or promise to invest
+in commercial technologies.
+
+Companies and members of the academic community who become engaged in collaboration with third countries contributing to the development of military technologies
+put their future prospects at risk as such deals may damage their own reputation.
+Usually, hostile states strive to take over technologies and solutions developed by
+the West using the following methods:
+
+ **Business and science partnership, including contract negotiations and**
+**technology-based consultations**
+
+ **Partnership with universities that have ties to defence contractors**
+
+ **Foreign research funding or sponsorship**
+
+ **Admission of international students to higher education institutions**
+
+ **Participation in international trade exhibitions and conferences**
+
+ **Recruiting technical experts to serve as advisors on government and**
+**industry projects**
+
+ **Recruiting technical experts by intelligence services of hostile states**
+
+
+-----
+
+**Chinese military company covertly tried to**
+**acquire technology being developed in Lithuania***
+
+After posting information on social media about the new image recognition software,
+the Lithuanian start-up H-M Visionary received an offer from a company called
+Unolexar. In an e-mail addressed to H-M Visionary’s CEO, this company introduced
+itself as a Japanese technology start-up and expressed its interest in developing
+software. The Japanese start-up also offered to invest in the company’s further
+development to adjust technological solutions to the investor’s needs.
+
+Unolexar noted that the Lithuanian technology would be used to develop solutions
+for autonomous vehicles. H-M Visionary found the offer extremely attractive because
+the start-up had been in operation for only a year and was actively looking for new
+investments.
+
+H-M Visionary’s CEO decided to search for information online about Unolexar, but
+everything he managed to find was that the company had been founded a month
+ago and had only one registered employee. Driven by suspicion, the CEO consulted
+his partners in the Netherlands, who claimed that Unolexar had also approached
+them with an offer to invest in artificial intelligence solutions for business management systems that the Dutch start-up had been developing. They intended to enter
+such collaboration but then found out that Unolexar was in fact a Chinese military
+company engaged in supplying Western technologies to China and its introduction
+as a Japanese technology start-up acted as a cover.
+
+Based on his partner’s experience and seeking to preserve the reputation of his own
+start-up, H-M Visionary’s CEO refused what had initially appeared an attractive offer.
+
+-  Company names and other details appearing in this story are fictitious. Any resemblance to real
+
+persons, companies, or other entities is coincidental.
+
+
+-----
+
+**Russia runs out of options to use energy supplies**
+**as leverage**
+
+Before the invasion of Ukraine, Russia had reduced its export of natural gas to Europe
+in an effort to increase tensions in the energy sector. After invading Ukraine, Russia
+continued to manipulate the supply of natural gas. Following instructions from the
+Kremlin, Gazprom unilaterally ordered its customers in EU member states to pay for
+natural gas in Russian roubles, cutting off the supply to the countries that refused to
+accept the new terms. Before the Nord Stream gas pipeline incidents, the corporation
+had reduced the supply of natural gas to the EU, allegedly due to technical problems.
+
+Since Lithuania is capable of securing the supply of natural gas independently from
+Gazprom, it makes Lithuania immune from Russia’s manipulations. In the near term,
+Russia will be increasingly running out of options to use energy supplies as leverage
+in pursuit of political goals with regard to other EU countries. They systematically
+reduce their dependence on Russian natural gas by implementing new sustainable
+energy projects and strengthening their liquefied natural gas infrastructure.
+
+
+_The export of natural gas to the EU used to_
+_generate a considerable share of Russia’s_
+_national budget, whereas Russia’s ability to_
+
+
+_redirect these exports to other markets_
+_is limited by lack of infrastructure and by_
+_international sanctions._
+
+
+We assess that it is possible that Gazprom will try to regain part of the Baltic and EU
+market by employing natural gas trading intermediaries it has already collaborated
+with in the past or whose representatives have influential connections in Gazprom
+structures.
+
+
+-----
+
+The incidents that damaged the Nord Stream pipeline infrastructure
+have limited Russia’s technical capacity to export gas to Europe
+_AFP / Scanpix_
+
+**Rosatom develops projects abroad, but its**
+**technologies are defective**
+
+Rosatom has been implementing nuclear energy projects abroad by building and
+servicing nuclear power plants and supplying uranium products. Income from these
+operations makes up the majority of the corporation’s revenue. In this way, Rosatom
+
+
+-----
+
+not only contributes to Russia’s national budget and finances the growth of the country’s military capabilities but also helps to project Russia’s political influence abroad.
+
+The corporation tries to retain position in the nuclear energy market; it claims that it
+constantly develops new technologies that ensure high nuclear energy safety standards. According to intelligence, the technologies provided by the corporation are in
+fact defective, whereas Rosatom management usually takes the interests of Russia’s
+political leadership into consideration.
+
+Rosatom’s technological problems are well illustrated by the situation at the Belarusian Nuclear Power Plant (BelNPP), a Rosatom project, and nuclear safety incidents
+there, which pose a threat to Lithuania’s national security interests. In April 2022,
+BelNPP management shut down the first power unit for routine maintenance, during
+which, according to public announcement, the unit’s critical equipment – the main
+circulating water pumps, turbine generators, and pipeline welding seams – had to
+be inspected and repaired. The BelNPP did not release any information about the
+defects identified during the works.
+
+Available intelligence suggests that Belarus and Rosatom have withheld the information on the incidents that occurred in the BelNPP as well as the defects that were
+identified in the systems of the reactors. In May 2022, BelNPP control systems of
+Unit 1 detected cracks in the welding treads of the upper woodruff keys of the reactor
+pressure vessel. Informally, experts assessed that in order to fix the defects properly,
+it would be necessary to dismantle the reactor; however, such solution was not considered due to political reasons.
+
+In addition, the launch of Unit 2, which was scheduled for 2022, was delayed due
+to technical issues. Already in the beginning of 2022, in February, changes in the
+chemical composition of the water circulating in the reactor’s primary circuit were
+identified – the water was contaminated with resin. It was imperative to clean the pipes
+of the primary circuit mechanically and unload the nuclear fuel assemblies. The nuclear
+fuel assemblies were unloaded, cleaned, some of them had to be replaced with the
+new ones. It is highly likely that new technical defects will continue to be detected in
+the BelNPP even after the launch of Unit 2.
+
+Rosatom has an ambition to expand its foreign operations and increase dependence on
+its technologies; however, the example of the BelNPP and the threats it poses shows
+that Rosatom is unable to ensure reliability and safety of its technologies.
+
+
+-----
+
+##### CRISIS REGIONS
+
+�The number of undernourished people in the world will increase
+in the near term. Some regions are at risk of famine.
+
+�Armed conflicts, including the war in Ukraine, growing food
+prices, climate change, and COVID-19 pandemic exacerbate
+the food crisis.
+
+�People constantly threatened by hunger radicalise easier and
+are a recruitment target for various radical groups. Migration of vulnerable individuals can be used by hostile anti-Western regimes
+as a hybrid warfare tool or exploited by terrorist organizations.
+
+
+-----
+
+**Conflicts and climate change deepen the global**
+**food crisis**
+
+The world is facing one of the most serious food crises over the last decades. The main
+factors behind it are armed conflicts, including the Russian war in Ukraine, COVID-19,
+climate change, and the ongoing political instability in many parts of the world. Currently, around 2.3 billion people are moderately or severely food insecure. 700-800
+million of them (one out of ten) are starving or find themselves on the brink of famine
+with an absolute majority living in two regions: Sub-Saharan Africa and South Asia.
+
+Armed conflict is the dominant factor as about 60 percent of the world’s population
+that face chronic food insecurity live in countries affected by it. Due to war, agricultural and grazing lands are decreasing every year. Conflict constantly disrupts or
+completely halts production, processing, transportation, and sales of agriculture
+produce. Humanitarian aid, which in some cases can be the sole source of food,
+becomes a weapon in the hands of warlords and dictators alike. Somalian jihadist
+group Al Shabaab, the Syrian regime, and various militant groups in Sahel are but
+a few examples of malevolent actors blocking or manipulating the distribution of
+humanitarian aid or even destroying it.
+
+Both local and major conflicts often have global repercussions for the hunger problem. Ongoing Russian war in Ukraine is one such example. The conflict itself and the
+adjoining issues (sanctions, disruption of grain exports, rising prices of energy, etc.)
+have caused food prices to rise worldwide. Twenty-six countries, mostly in Africa and
+Asia, were particularly affected as they used to import at least half of their consumed
+wheat from Ukraine and Russia. Available data suggest that in 2022, the number
+of people facing severe food insecurity increased by 7.6–13 million due to Russian
+aggression in Ukraine alone.
+
+Climate change is another important issue threatening the global food supply.
+Natural disasters strike different parts of the world with long lasting effects. The
+droughts are getting longer and more frequent with around half of them occurring
+in Africa. Many countries in Africa and Asia suffer from lack of safe drinking water.
+
+
+-----
+
+Devastating floods cause billions of dollars in damage; meanwhile, rising sea level
+threatens coastal communities. Within the next 30 years, climate change could force
+at least 200 million people to leave their homes.
+
+Food shortage and interconnected poverty are a threat to hundreds of millions of lives.
+Firstly, people constantly threatened by hunger, especially young males, are an easier
+recruitment target for various radical groups, such as Islamic State, Al Qaeda, and
+their regional affiliates. Additionally, migration flows of vulnerable individuals can be
+used by hostile anti-Western regimes as a hybrid warfare tool or exploited by terrorist
+organisations to facilitate movement of their members.
+
+Severe droughts in East Africa forced hundreds to leave
+their homes and look for shelter in refugee camps
+_AFP / Scanpix_
+
+
+-----
+
+##### TERRORISM AND MIGRATION
+
+�The threat of terrorism in Lithuania is low; however, the risk of
+terrorism-related offences by lone radicalised individuals remains.
+
+�The number of terrorist attacks in Europe has decreased,
+but the threat of terrorism remains high. The threat of attacks
+is posed by lone individuals affected by propaganda of terrorist
+organisations.
+
+�Proponents of right-wing extremism and accelerationism
+ideology pose terrorist and criminal threats in Europe. Several
+dozen individuals who actively promote this ideology operate in
+Lithuania.
+
+�Belarus continues to use migration as a tool of political pressure against the EU. It is possible that among illegal migrants
+trying to enter Lithuania there are individuals who pose a threat
+to national security or public order.
+
+
+-----
+
+**The number of Islamist terrorist attacks in**
+**Europe has decreased, but the threat remains**
+**high**
+
+International terrorist organisations the Islamic State and Al Qaeda and their branches
+operate in the Middle East and Africa, disseminate anti-Western propaganda online
+but have no capabilities to organise terrorist attacks in Europe. Planners and perpetrators of attacks in Europe are individuals who support Islamist ideology but are with
+no direct associations with terrorist organisations. Most of them are young individuals
+radicalised online. They usually have no access to firearms or explosives and choose
+readily available means for their attacks such as vehicles and household items, like
+knives or axes.
+
+The number of Islamist terrorist attacks in Europe has been falling: in 2022, three terrorist attacks were carried out in France, Norway, and Belgium; several were thwarted.
+Police officers and people in mass gatherings remain the main terrorist targets. One
+terrorist attack was perpetrated in a prison. It was established that some perpetrators
+suffered from mental illnesses.
+
+In the near term, the threat of Islamist ideology-inspired attacks in Europe will remain
+high. Anti-Christian, anti-Jewish, and anti-LGBT propaganda disseminated via social
+media by terrorist groups or their supporters fuels radicalised individuals' determination to carry out terrorist attacks. The propaganda messages suggest targeting
+synagogues, churches, mass events as well as police officers and the military. Revenge
+for alleged insults to Islam and its symbols is a driving motive behind attacks carried
+out by Islamist extremists.
+
+In Lithuania, the threat of Islamist terrorism is low. Even though some individuals
+possibly affected by Islamist ideology are identified every year, the level of their
+radicalisation remains low. Apart from a few individual cases, no organised flow of
+individuals with radical views from third countries to Lithuania or to the EU via Lithuania
+has been identified. In the near term, it is unlikely that Lithuania will become a target
+for Islamist terrorists; however, the cases of terrorism funding, spread of propaganda,
+or even carrying out an attack are possible in the country.
+
+
+-----
+
+Two people died and 21 were injured during an
+armed attack in the centre of Oslo in June 2022
+_AFP / Scanpix_
+
+
+-----
+
+**Right-wing extremism and accelerationism remain**
+**a threat in Europe**
+
+Followers of right-wing extremist accelerationism ideology pose terrorist and other
+criminal threats in Europe. In 2022, an extremist opened fire in an LGBT community
+bar in Bratislava, killing two people and injuring one. The perpetrator was soon found
+having committed suicide. Several more terrorist attacks planned by accelerationists
+in Europe were thwarted.
+
+Social networks and popular social gaming platforms remain the main tools to spread
+accelerationist propaganda. It manages to radicalise mainly young individuals with
+good IT skills. Availability of 3D printers and chemical laboratory equipment, which
+has increased over the past few years, enables accelerationists to make weapons
+and explosives more easily.
+
+There have been no indications of plans of the ideology supporters in Lithuania to
+carry out a terrorist attack; however, the risk remains. Several dozen individuals in
+Lithuania who actively promote accelerationist ideas via social networks maintain
+contacts with like-minded individuals abroad. Lithuanian citizens permanently based
+in other European countries also become radicalised and get involved in this activity.
+
+**Illegal immigrants to the EU are still using**
+**the route via Belarus**
+
+Western Europe remains an attractive destination for illegal economic migrants.
+The migration route from Belarus to the EU via Lithuania, Poland, and Latvia has
+become one of the routes for reaching Europe illegally. Migrants made more than
+11,200 attempts to cross the Belarusian–Lithuanian border last year. Among the
+illegal immigrants who entered Lithuania, some were suspected of ties with terrorist
+organisations. For most migrants, Lithuania remains a transit country, and most of
+
+
+-----
+
+Routes of illegal migration to the EU and number of arrivals in 2022
+
+Attempts to enter
+Lithuania, Latvia,
+and Poland from
+Belarus illegally
+31,420
+
+Eastern Land
+Border 6,127
+
+Eastern
+Mediterranean
+
+42,831
+
+Western
+Mediterranean
+
+14,582
+
+Western
+African Central
+
+15,462 Meaditerranean
+
+93,805
+
+
+-----
+
+them highly likely present their asylum requests only as a pretext for entering the
+EU territory. Out of more than 4,000 registered migrants in the country, 141 person
+were granted international protection.
+
+Some migrants arrive in Belarus from their countries of origin via Russia. Not only
+human traffickers and smugglers but also Belarusian border officers organise and
+facilitate illegal migration. They deliberately help migrants to cross the Belarusian–Lithuanian border – transport them, damage the physical barrier, and push the migrants
+into Lithuanian territory. In case of failure to enter Lithuanian territory, Belarusian
+border guards transport the migrants to the Latvian or Polish border and try to force
+them to cross it there.
+
+In 2022, the Belarusian regime failed to repeat the previously orchestrated migration
+crisis at the EU borders on a similar scale as in 2021. However, it is highly likely that
+the regime is interested in maintaining constant political pressure on Europe. Due to
+the actions of the Minsk regime, the route via Belarus has become one of the illegal
+migration routes to the EU, and it will continue to be used by third-country nationals
+seeking to enter the EU illegally.
+
+It is highly likely that the threat of illegal migration from Belarus will remain in the medium
+term. It is possible that among migrants using this route to enter Lithuania and other
+EU countries, there will be individuals associated with extremist organisations and
+posing a threat to national security or public order.
+
+
+-----
+
+-----
+
+Author and Editor: State Security Department of the Republic of Lithuania and
+Defence Intelligence and Security Service under the Ministry of National Defence
+
+15.02.2023. Circulation: 850 units. Order GL-62
+
+Layout by the Publishing Section of the General Affairs Department
+of the Ministry of National Defence, Totorių str. 25, LT-01121 Vilnius.
+
+Printed by the Military Cartography Centre of the Lithuanian Armed Forces,
+Muitinės str., Domeikava, LT-54359 Kaunas District.
+
+www.kam.lt
+
+ISSN 2669-2724
+
+© State Security Department of the Republic of Lithuania, 2023
+
+© Ministry of National Defence Republic of Lithuania, 2023
+
+
+-----
+
+Artificial intelligence (AI) technologies and in particular
+tools that replicate and elaborate on human knowledge
+are the most interesting and controversial. Midjourney, AI
+empowered image generator, was a creative tool behind
+the production of the cover of this year's National Threat
+Assessment. It features an image that portrays a joint
+interpretation of Lithuanian intelligence and AI of Russia’s
+war against Ukraine.
+
+The blooming sunflower, which is Ukraine’s national flower,
+symbolises peace, resilience, courage, and victory of the
+Ukrainians, while the smoke in the background represents
+the war that will never break the unity and hope of the
+nation. It is reinforced by a bright circle, a symbol of
+continuity and strength.
+
+
+-----
+

@@ -1,0 +1,2867 @@
+On behalf of the Government of Canada, I am pleased to introduce the defence
+section of Canada’s International Policy Statement.
+
+This document represents significant change. It is the first review of Canada’s
+defence policy in more than 10 years and it defines a new policy that is firmly
+grounded in the realities of the post-Cold War, post-September 11th world. It is
+also informed by the rich operational experience of the Canadian Forces, both in
+Canada and in locations ranging from Afghanistan to the Balkans to Haiti.
+
+The tragedy of September 11, 2001 proved to Canadians that we are vulnerable to
+the threat of terrorism and the spillover effects from failed and failing states. This
+policy, therefore, establishes the defence of Canada as our first priority. The
+Canadian Forces will be reorganized and retooled to tighten their focus on this
+primary mandate.
+
+The effective defence of Canada and North America has always required
+working collaboratively with the United States. We will build on the successful
+bilateral defence arrangements currently in place, such as NORAD. And we will seek to develop new, innovative
+approaches to defence cooperation with the United States, to better meet the threats to both countries.
+
+The Government recognizes that the Canadian Forces are a vital instrument of Canada’s foreign policy, especially in
+today’s unstable world. Our new defence policy will give the Canadian Forces the guidance they need to help Canada
+convey its distinct values and particular approach to conflict resolution around the world.
+
+I look forward to the discussions this document will engender both in Parliament and across Canada. I believe they
+will assure the best way forward for the Canadian Forces, one of Canada’s vital national institutions.
+
+It is a privilege to be Minister of National Defence at this exciting time. The relevance and centrality of the Canadian
+Forces to the broad agenda of the Government are ascendant. We have vibrant, new military leadership with
+innovative ideas rooted in recent operational experience. We have some of the world’s most dedicated, professional,
+skilful soldiers, sailors and air personnel. The Government has made a solid financial commitment to the Canadian
+Forces that is unparalleled in the past two decades. And now, with this new defence policy statement, we have the
+intellectual framework required to guide and shape the Canadian Forces to face the defence and security challenges
+of the 21st century.
+
+The Honourable Bill Graham
+Minister of National Defence
+
+
+-----
+
+-----
+
+##### CANADA’S INTERNATIONAL POLICY STATEMENT
+
+### A Role of Pride and Influence in the World
+## DEFENCE
+
+
+-----
+
+Canada’s International Policy Statement is available on-line at
+www.international.gc.ca and www.forces.gc.ca
+
+General Inquiries
+ADM(PA)
+Department of National Defence
+101 Colonel By Drive
+Ottawa ON K1A 0K2
+
+Telephone: (613) 996-0255
+Fax: (613) 992-4739
+TTY: 1-800-467-9877
+E-mail: information@forces.gc.ca
+
+ISBN 0-662-68940-2
+Catalogue No. D2-168/2005
+NDID A-JS-005-000/AG-001
+ADM (PA) DMCS CS05-0023
+
+© Her Majesty the Queen in Right of Canada, 2005
+
+
+-----
+
+###### INTRODUCTION 1
+
+THE CANADIAN FORCES IN AN UNPREDICTABLE WORLD: PROVIDING SECURITY
+AT HOME AND ABROAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+FORCE EXPANSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+TRANSFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+LOOKING AHEAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+
+###### THE INTERNATIONAL SECURITY ENVIRONMENT AT THE BEGINNING OF THE 21ST CENTURY 5
+
+FAILED AND FAILING STATES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+TERRORISM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+WEAPONS OF MASS DESTRUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+REGIONAL FLASHPOINTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+
+###### A NEW VISION FOR THE CANADIAN FORCES 7
+
+OPERATIONAL TEMPO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+INTERNATIONAL OPERATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+RECENT DOMESTIC OPERATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+LOOKING TO THE FUTURE: A NEW VISION FOR THE CANADIAN FORCES . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+IMPLEMENTING THE VISION: CANADIAN FORCES TRANSFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+Transforming the Canadian Forces: A Focus on Integrated Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+Transformation Initiatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+
+###### PROTECTING CANADA AND CANADIANS 16
+
+A NEW DOMESTIC CONTEXT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+THE CANADIAN FORCES AND PROTECTING CANADA: A NEW APPROACH . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+FUTURE TASKS OF THE CANADIAN FORCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+
+###### THE CANADA-U.S. DEFENCE RELATIONSHIP IN A CHANGING WORLD 21
+
+A NEW NORTH AMERICAN DEFENCE AND SECURITY CONTEXT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+THE CANADIAN FORCES AND NORTH AMERICAN DEFENCE: A NEW APPROACH . . . . . . . . . . . . . . . . . . . .21
+Enhanced North American Defence Cooperation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+The Permanent Joint Board on Defence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+FUTURE TASKS OF THE CANADIAN FORCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+
+###### CONTRIBUTING TO A SAFER AND MORE SECURE WORLD 24
+
+A NEW INTERNATIONAL SECURITY CONTEXT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+International Organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+_The United Nations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24_
+_The North Atlantic Treaty Organization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25_
+_The European Union . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26_
+THE CANADIAN FORCES AND INTERNATIONAL SECURITY IN THE 21ST CENTURY:
+A NEW APPROACH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+
+
+-----
+
+Roles of the Canadian Forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+_Failed states and the challenge of restoring stability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26_
+_Military training assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27_
+_Defence diplomacy and forward presence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28_
+_Arms control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29_
+FUTURE TASKS OF THE CANADIAN FORCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+
+###### CONCLUSION 32
+
+
+-----
+
+t the dawn of the 21st century, Canada
+faces a complex array of security challenges.
+The world remains an unpredictable and
+
+# A
+
+perilous place, where threats to our well-being, our
+interests and our values persist. Failed and failing
+states dot the international landscape, creating
+despair and regional instability and providing a
+haven for those who would attack us directly.
+Global terrorism has become a deadly adversary,
+and Canadians are now, in some ways, more
+individually threatened than at any time during the
+Cold War. The proliferation of weapons of mass
+destruction, whether to state or non-state actors,
+raises the horrible prospect of massive civilian and
+military casualties. And intra- and inter-state
+conflict continues throughout the world. These
+developments affect Canadians as never before.
+
+In this dangerous environment, Canadians look to
+their government for reassurance and protection. **Off Baffin Island—Plotting the course aboard HMCS Montréal.**
+The Government has responded. In the immediate
+wake of September 11, 2001, it announced nearly threats and other emergencies both at home and abroad.
+$8 billion in measures aimed at enhancing the security Canada’s military is no stranger to this role. The
+of Canadians. In April 2004, the Government released Canadian Forces have performed remarkable service on
+its first National Security Policy, which sets out a broad behalf of all Canadians through the decades, but have
+range of new initiatives in areas such as intelligence, never been so busy as during the post-Cold War period.
+emergency planning and management, public health In recent years, they have deployed to the four corners
+crises, and transportation and border security, to of the world, participating in complex and risky
+counter the major threats to Canadians. In Budget 2005, missions that have tested their skill, training and
+the Government made the largest reinvestment in equipment. At home, the situation has been no less
+Canada’s military in over 20 years, totaling demanding. In serving their country, some of our
+approximately $13 billion. This sum includes new military personnel have made the ultimate sacrifice and
+baseline funding and significant additional resources for many more have been seriously injured.
+capital programs. Now, the Government has released
+
+Despite the pressures associated with increased
+
+the International Policy Statement that establishes the
+
+deployments, the Canadian Forces remain an effective
+
+priorities and principles governing Canada’s relations
+
+and capable military. Recognized by their fellow
+
+abroad, and leaves no doubt that defence and security
+
+citizens, as well as by friends and allies, for their
+
+are an integral part of our international strategy.
+
+expertise and professionalism, our men and women in
+uniform help make a difference in the lives of
+
+###### THE CANADIAN FORCES IN AN Canadians and others less fortunate around the globe. UNPREDICTABLE WORLD:
+
+The role of the Canadian Forces in protecting
+
+###### PROVIDING SECURITY AT HOME
+
+Canadians and their interests and values will remain
+
+###### AND ABROAD essential in the future. The heavy demands on our
+
+military, both domestically and internationally, will not
+
+Both the National Security Policy and the Overview of
+
+diminish—they may well increase. Canada must possess
+
+the International Policy Statement single out the
+
+a military that is well adapted to the evolving security
+
+Canadian Forces as a critical element in responding to
+
+environment and ready to respond to the country’s
+
+
+-----
+
+future needs. The Canadian Forces have already begun
+a long-term transformation process that leads in this
+direction, and recent investments will allow them to
+make significant progress toward reaching their goals.
+
+The purpose of this document is to guide the Canadian
+Forces in their operations, and assist the Department of
+National Defence in the development of a sustainable
+long-term program. The policy rests upon the
+principles and priorities identified in the National
+Security Policy and the Overview of the International
+Policy Statement. The Canadian Forces will continue to
+perform three broad roles: protecting Canadians,
+defending North America in cooperation with the
+United States, and contributing to international peace
+and security. To do so, our military must be effective,
+relevant and responsive, and remain capable of carrying
+out a range of operations, including combat.
+
+Above all, this policy is about change, and providing
+our military with a bold new vision to deal with an
+increasingly uncertain world. The first challenge is to
+
+
+strike the right balance between the Canadian Forces’
+domestic and international roles. In the current security
+environment, where the lines between these roles are
+less distinct than ever, the military must continue to
+carry out operations at home and overseas. The
+Government believes, however, that a greater emphasis
+must be placed on the defence of Canada and North
+America than in the past. This must be the Canadian
+Forces’ first priority. Current threats demand that we
+pay increased attention to the safety and security of our
+citizens at home, the most fundamental responsibility of
+any government. In addition to strengthening the
+capacity and capability of the Canadian Forces to carry
+out their domestic roles in cooperation with other
+government departments and agencies, we will
+continue to explore new and innovative ways to
+enhance relations with the United States to defend the
+continent. A strong Canada-U.S. defence partnership
+remains essential to our security.
+
+The Government also recognizes the importance of
+meeting threats to our security as far away from our
+borders as possible, wherever they may
+arise. Security in Canada ultimately
+begins with stability abroad. While we
+need to be selective and strategic when
+deploying military personnel overseas,
+focusing on where our interests are at
+stake and where we can make a
+meaningful contribution, the Canadian
+Forces must retain a spectrum of
+capabilities to operate with our allies on
+international missions.
+
+This is especially the case in failed and
+failing states. Canadians are proud of
+the role their military has played in
+protecting people who cannot protect
+themselves, in delivering humanitarian
+assistance to those in desperate need,
+and in rebuilding shattered
+communities and societies. The
+Canadian Forces will focus their
+expeditionary capabilities on operations
+in these states, including in a leadership
+
+**Kabul, Afghanistan—A member of a Canadian**
+anti-tank platoon pauses on an outcrop while
+on patrol.
+
+
+-----
+
+role when it is in Canada’s interest and ability to
+do so. In these demanding and complex
+environments, where civilians mix with friendly,
+neutral and opposing forces, often in urban areas,
+our military must be prepared to perform
+different missions—humanitarian assistance,
+stabilization operations, combat—all at the same
+time. The Canadian Forces, with their modern
+capabilities and highly developed skills in dealing
+with people on the ground, can make a difference
+in this respect.The Government is committed to
+ensuring that the Forces are further strengthened
+in this area, as part of an integrated strategy of
+using diplomatic, defence and development assets
+to help rebuild states.
+
+By participating in these and other overseas
+operations—and by increasing our emphasis on
+foreign military training—the Canadian Forces
+will enhance Canada’s status as a responsible and
+contributing member of the international
+community, including in key institutions such as
+the United Nations and the North Atlantic Treaty
+Organization (NATO). Investing in a strong
+military is essential to achieving our foreign policy
+goals and advancing our place in the world. With
+Budget 2005, the Government has done just that.
+
+###### FORCE EXPANSION
+
+To improve their ability to carry out the domestic,
+continental and international roles described
+above, the Canadian Forces will be increased by
+5,000 Regular and 3,000 Reserve personnel. This is
+a major undertaking, and demonstrates the
+Government’s commitment to an effective military
+writ large, and to the individual personnel who put
+their lives at risk on behalf of all Canadians. People
+remain the greatest strength of Canada’s military. We
+must ensure that they and their families enjoy the
+quality of life they deserve.
+
+
+**Naval Air Station Sigonella, Italy—A pilot of a CP-140 Aurora flown by 405**
+Maritime Patrol Squadron from 14 Wing Greenwood, N.S.
+
+
+With this expansion, the Canadian Forces will have
+greater capacity to participate in challenging
+international operations anywhere in the world,
+especially in failed and failing states. The land forces,
+for example, which will receive the vast majority of this
+increase, will effectively double their capacity to
+
+
+undertake operations overseas. Once this expansion is
+completed, the Canadian Forces will be able to
+continuously sustain up to 5,000 personnel on
+international operations. These new Regular and
+Reserve personnel will also help the Canadian Forces
+better respond to domestic crises, such as natural
+disasters and terrorist attacks.
+
+###### TRANSFORMATION
+
+At the same time, the Canadian Forces will pursue their
+transformation efforts with renewed vigour and focus.
+
+
+-----
+
+As part of this process, the military will acquire new
+technologies and equipment in order to operate
+effectively in today’s challenging security environment
+alongside our allies and other government and nongovernmental agencies. The Government has provided
+significant new resources that will, among other things,
+improve the Canadian Forces’ deployability, their
+surveillance and weapons systems, and their ability to
+lead and sustain operations.
+
+Transformation, however, is not just about technology
+and equipment modernization. It will require a
+fundamental change to the culture of our military to
+ensure a fully integrated and unified approach to
+operations. This will require new command and
+operational structures, including the creation of a
+national operational command headquarters (Canada
+Command), and fresh thinking surrounding concepts
+and doctrine. It will mean introducing new
+capabilities, while using existing ones in different and
+innovative ways. Above all, it will put a premium on
+having in place the right people with the right skills to
+get the job done. They will provide both the ideas and
+the leadership to help propel the Canadian Forces into
+the future.
+
+###### LOOKING AHEAD
+
+The Government has put in place a sustainable defence
+program to implement this policy. New investments
+will support the expansion of the Canadian Forces and
+enhance operational sustainability through
+
+
+improvements in such areas as training, health care,
+infrastructure, and spare parts and maintenance. They
+will also lay the foundation for further transformation
+and modernization efforts. National Defence will
+publish a paper in the coming months detailing the
+capabilities and force structure required to implement
+the strategy described in this document.
+
+This policy is the right one for Canadians. In the face of
+unmistakable threats to our security, it identifies clear
+priorities for our men and women in uniform and their
+civilian counterparts, and sets a new course for a more
+effective and more relevant military in the coming
+years. The Canadian Forces will protect Canadians at
+home, work closely with the United States in the
+defence of the continent, and deploy around the world
+with our friends and allies as part of a multilateral
+approach to international problems.
+
+The Government has listened to Canadians in the
+development of this policy. The statement builds on
+previous public consultations, including those carried
+out during the 2002-03 Defence Update, and takes
+account of the opinions expressed by stakeholders and
+parliamentary committees in numerous reports over the
+last several years. The Minister of National Defence has
+also met with key defence experts. The Government
+now looks forward to hearing the views of the House of
+Commons and Senate defence committees and, of
+course, the Canadian people, on the initiatives set out in
+the following pages.
+
+
+-----
+
+#### AT THE BEGINNING OF THE 21ST CENTURY
+
+t has been just over 15 years since the
+collapse of the Berlin Wall. The prospect
+of a global conflict involving the major
+
+# I
+
+powers is still remote, and there remains no
+Soviet-type military threat to Canadian
+territory.
+
+
+These concerns disappeared from view during
+the 1990s, only to be replaced by new and
+more complex threats that have proved
+difficult to address. Failed and failing states
+have resulted in civil wars, humanitarian
+catastrophes and regional instability.
+Terrorism has emerged as a global threat. The
+international community has struggled to
+respond to immediate crises and to develop
+workable strategies for long-term security
+problems, including the spread of weapons of
+mass destruction. Long-standing tensions
+remain in the Middle East, Africa and Asia,
+with many conflicts seemingly immune to
+permanent negotiated settlements.
+
+
+**Kabul, Afghanistan—An infantry private on guard while desks and supplies are**
+delivered to a school.
+
+
+The 2001 attacks on New York and Washington reset
+the international security agenda. They have also raised
+the profile of domestic security, and the defence of the
+continent that we share with the United States.
+
+An increasingly interdependent world has tightened the
+links between international and domestic security, and
+developments abroad can affect the safety of Canadians
+in unprecedented ways. Today’s front lines stretch from
+the streets of Kabul to the rail lines of Madrid to our
+own Canadian cities. The Government has made a
+commitment to respond to potential threats to
+Canadian security before they reach our shores.
+
+The fluid nature of the international security
+environment makes it difficult to predict the precise
+threats that we might face even five years from now.
+Nevertheless, in order to concentrate our efforts in areas
+where Canada can make a difference, the Government
+has decided to focus on failed and failing states.
+
+###### FAILED AND FAILING STATES
+
+Whether in Somalia, Afghanistan, Haiti or Sudan, the
+past 15 years have confronted us with the concept and
+consequences of failed and failing states. The inability
+
+
+of governments in these countries, and others like them,
+to maintain political authority, to provide security and
+other basic services, and to protect essential human
+rights has trapped millions of vulnerable civilians in a
+cycle of misery, poverty and violence. With
+environmental pressures, resource scarcity, pandemic
+disease and urbanization added to the mix, this problem
+will remain with us well into the future.
+
+Failed and failing states pose a dual challenge for
+Canada. In the first instance, the suffering that these
+situations create is an affront to Canadian values.
+Beyond this, they also plant the seeds of threats to
+regional and global security. They generate refugee
+flows that threaten the stability of their neighbours, and
+create new political problems for their regions. More
+ominously, the impotence of their governing structures
+makes them potential breeding grounds or safe havens
+for terrorism and organized crime.
+
+###### TERRORISM
+
+The attacks of September 11, 2001, ushered in a global
+campaign against terrorists and those who support their
+actions. This campaign is an international effort that
+draws on contributions from many countries. It is also
+
+
+-----
+
+#### AT THE BEGINNING OF THE 21ST CENTURY
+
+
+multi-faceted, with political, military and economic
+dimensions that engage the armed forces, as well as the
+law-enforcement, intelligence and financial communities.
+
+The focus of the current campaign is on al-Qaeda and
+like-minded groups. We have witnessed the willingness
+and ability of this network and its affiliates to inflict
+mass civilian casualties. The attacks since
+September 11—in Madrid, Istanbul, Bali, Mombasa and
+elsewhere—have shown that all states and societies,
+including Canada, are a potential target.
+
+The international campaign has weakened al-Qaeda,
+damaged its organizational structure, and eliminated
+some of its key personnel. Coalition and NATO
+operations in Afghanistan have deprived the network
+of its most effective base, including training and
+laboratory facilities. The Afghan example may serve as
+a warning to other countries to think twice before
+sheltering terrorists.
+
+But we have not seen the end of terrorism as a threat to
+international peace and security. The disruption of
+al-Qaeda’s leadership has not led to the elimination of
+all of its prominent figures, its global links, or its
+support of local insurgents and other sympathetic
+groups. Moreover, related terrorist networks, which
+retain effective ways to transmit their message, continue
+to attract new recruits. Evidence persists that major
+attacks against Western countries and interests are
+likely, and the scenarios being discussed include the use
+of weapons of mass destruction.
+
+###### WEAPONS OF MASS DESTRUCTION
+
+Chemical, biological, radiological and nuclear weapons,
+and their means of delivery, continue to spread. A
+number of states have, or are seeking, these capabilities
+in an effort to gain international prestige, deter
+adversaries or strengthen their relative positions in
+regional disputes. Dangerous states and terrorist groups
+have sought these weapons in an attempt to offset the
+conventional military superiority of developed countries
+or intimidate civilian populations. In their quest to
+acquire such weapons, they have been aided by states
+that exploit treaties intended to promote the peaceful
+use of technology, and by illicit commercial networks
+with access to materials and know-how.
+
+
+There has been some progress in arms control,
+including landmark agreements such as the 2002
+Strategic Offensive Reductions Treaty that will
+dramatically shrink U.S. and Russian operational
+nuclear forces. The bulk of the international
+community supports the existing non-proliferation
+regime, anchored in traditional instruments such as the
+Nuclear Non-Proliferation Treaty of 1968. There have
+also been new initiatives such as the G8 Global
+Partnership Program, which aims to prevent the spread
+of materials and expertise related to weapons of mass
+destruction from the former Soviet Union, and the
+Proliferation Security Initiative, which seeks to interdict
+the traffic in similar materials and their means of
+delivery. That said, the international arms control
+framework remains under pressure. Not all nations are
+supportive, and a number of agreements have no legally
+binding or enforcement mechanisms.
+
+###### REGIONAL FLASHPOINTS
+
+A number of long-standing “hot spots” persist around
+the globe. Although they are unlikely to erupt into
+major regional wars in the near future, the possibility
+cannot be discounted. North Korea’s nuclear
+brinkmanship and ongoing tensions between Taiwan
+and China remain serious concerns in the region.
+Despite recent positive developments, the confrontation
+between India and Pakistan has not yet been resolved.
+The situation in the Middle East, whether in the form
+of the Israeli-Palestinian dispute, instability in Iraq, or
+Iran’s nuclear ambitions, continues to have a significant
+impact on international security.
+
+###### CONCLUSION
+
+Today’s international security environment poses
+complex challenges, whether in the form of failed and
+failing states, global terrorism, the spread of weapons of
+mass destruction or ongoing regional tensions. Canada,
+working in close partnership with friends and allies,
+must do its part to confront them. To this end, the
+Government will pursue an integrated strategy that
+draws on Canada’s diplomatic, development and
+defence resources. This includes a central role for the
+Canadian Forces.
+
+
+-----
+
+o operate effectively in the evolving security
+environment, the Canadian Forces require a
+clear vision for the future. With this policy
+
+# T
+
+statement, and the investments included in Budget
+2005, the Government is setting a course that will guide
+the military in its transformation over the long term.
+
+In devising this strategy, the Government has carefully
+examined the Canadian Forces’ recent experience, both
+at home and overseas. Identifying the key operational
+
+
+trends that are likely to continue in the future is critical
+to determining the kind of military forces Canada will
+require to meet the security challenges of a new century.
+
+###### OPERATIONAL TEMPO
+
+
+The operational tempo of the Canadian Forces over the
+last decade has been demanding for our men and
+women in uniform. Since 1990, the number of
+
+
+###### OPERATIONAL TEMPO
+
+This term refers to the number and size of missions undertaken by a military force relative to its strength. It also takes
+into account the complexity and length of these operations. A high operational tempo, therefore, indicates a significant
+number of sizeable, ongoing deployments to multiple theatres. The graph below shows the increasing operational
+tempo of the Canadian Forces since 1990. As recently as May 2004, Canada ranked second among NATO nations in
+the percentage of personnel deployed on multinational operations and sixth in terms of total numbers.
+
+
+100,000
+
+90,000
+
+
+20,000
+
+18,000
+
+
+80,000
+
+70,000
+
+
+16,000
+
+14,000
+
+
+60,000
+
+50,000
+
+
+12,000
+
+10,000
+
+
+40,000
+
+30,000
+
+
+8,000
+
+6,000
+
+
+20,000
+
+10,000
+
+
+4,000
+
+2,000
+
+
+0
+
+
+**Personnel Operational Tempo to Overall Strength**
+**1980-2004**
+**Increasing Demand vs Falling Capacity**
+
+**Cold War** **Post-Cold War**
+
+Fall of the Berlin Wall
+
+**Fiscal Year**
+
+
+0
+
+|Cold War|Post-Cold War|
+|---|---|
+|||
+|||
+|Fall of the Berlin Wall||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+
+-----
+
+operations in which our military has participated has
+tripled compared to the period between 1945 and
+1989. The number of personnel deployed on foreign
+operations has frequently exceeded the sustainable
+ceiling of 4,000 set in the 1994 Defence White Paper.
+At the same time, it was not anticipated that the
+Canadian Forces would so often deploy
+simultaneously and for lengthy periods to so many
+theatres around the globe.
+
+All this led to an over-stretch of our armed forces,
+particularly for many smaller, specialized occupations
+such as engineers and doctors. This, in turn, affected
+the military’s ability to sustain operations and the
+quality of life of our men and women in uniform and
+their families. Indeed, the strain of our military’s
+operational tempo has created a new generation of
+Canadian Forces veterans—those who have served in
+the many complex peace support operations of recent
+years. Recognition of the problems facing these new
+veterans—such as Post-Traumatic Stress Disorder—
+has led the Department and the Forces to work closely
+with Veterans Affairs Canada toward developing a
+modern version of the Veterans’ Charter.
+
+The challenges of adapting to the demands of the postCold War operational environment have not been
+unique to the Canadian Forces—other Western
+militaries experienced similar problems. The
+Government, with the recent budget, has recognized
+that the level of funding provided to the Canadian
+Forces during the past decade can no longer support
+the level of operational activity that we have come to
+expect, while also paving the way for transformation.
+
+###### INTERNATIONAL OPERATIONS
+
+The range of Canadian Forces’ international missions
+in recent years has been striking. It has included highprofile operations such as the campaign against
+terrorism and the deployment of the Disaster Assistance
+Response Team (DART) to countries such as Sri Lanka
+that have been devastated by natural disasters. It has
+also covered operations that did not command the same
+public attention but were nonetheless important, from
+enforcing sanctions to carrying out conventional arms
+control inspections.
+
+
+Joint Task Force 2, the Canadian Forces special operations and counterterrorism unit.
+
+Certain operational trends have emerged during this
+period. With a few exceptions, most of the Canadian
+Forces’ major operations have borne no resemblance to
+the traditional peacekeeping model of lightly armed
+observers supervising a negotiated ceasefire. Missions
+are now far more complex and dangerous, with our
+troops frequently deployed to failed and failing states
+such as Haiti and Afghanistan where there is little if
+any peace to keep. As part of these operations, they have
+been confronted with new dangers, from rare diseases,
+to civil disorder, to clashes with irregular forces in
+urban areas.
+
+Military experts have compared today’s complex and
+chaotic operational environment to a “three-block war.”
+This term speaks to the increasing overlap in the
+missions armed forces are being asked to carry out at
+any one time, and the resulting need for integrated
+operations. Our land forces could be engaged in combat
+operations against well-armed militia forces in one city
+block, stabilization operations in the next block, and
+humanitarian relief and reconstruction two blocks over.
+Transition from one type of operation to another often
+happens in the blink of an eye, with little time to react.
+At the same time, our naval forces in adjacent coastal
+areas might be supporting troops ashore while
+enforcing a maritime exclusion zone, and our air forces
+could be flying in supplies and humanitarian aid, while
+standing by to directly engage a determined opponent.
+
+
+-----
+
+The Balkans and Afghanistan provided an initial
+glimpse of this environment, and the skills of highly
+professional forces have been required to carry out what
+have become increasingly integrated operations. The
+Canadian Forces have gained a well-deserved
+reputation in these types of missions, bringing to bear
+the full range of their military expertise.
+
+While these complex peace support operations have
+become more common, so too have full-scale combat
+missions. For example, Canadian CF-18 aircraft
+played a significant role in the 1999 air campaign
+against the Federal Republic of Yugoslavia. And,
+during the deployment to Kandahar in 2002, our land
+and special operations forces were involved in
+numerous combat operations alongside allied forces,
+hunting down members of the Taliban and al-Qaeda
+in the Afghan mountains.
+
+As part of the same campaign against terrorism,
+Canadian ships deployed to the Persian Gulf region,
+protecting and supporting other allied navies and
+hailing and boarding vessels of interest to prevent
+al-Qaeda and Taliban members from escaping the
+region by sea. Sea King helicopters, Airbus and
+Hercules transports, and Aurora long-range
+patrol aircraft also provided critical support to
+Canadian and coalition forces.
+
+As this operational environment has evolved, the
+Canadian Forces have had to work more closely
+with their allied counterparts. They have made
+enormous strides in this direction. Today, our
+ships integrate seamlessly with U.S. Navy
+formations. As part of the air campaign in
+Kosovo, our aircrews worked hand-in-glove with
+those of other NATO forces. And in Afghanistan,
+our land and special operations forces proved
+their mettle with the best in the world.
+Interoperability—the ability of armed forces to
+work together effectively on operations—will
+remain an essential ingredient in future
+multinational operations.
+
+The flexibility, competence and professionalism of
+the Canadian Forces have not been lost on
+
+**Ampara region, Sri Lanka—A member of the Disaster**
+Assistance Response Team clears rubble at a school damaged by
+the tsunami of December 26, 2004.
+
+
+Canada’s allies. This explains why our military
+continues to be one of the first to be called upon to
+participate in international missions, and why Canadians
+are often asked to fill the most demanding command
+and staff positions. The Canadian Forces’ ability to
+work in both of our official languages has also enhanced
+their reputation abroad. Their bilingual expertise
+enables them to operate equally effectively in countries
+of la Francophonie, such as Haiti, or in Commonwealth
+states such as Sierra Leone.
+
+The challenges involved in rebuilding countries
+devastated by war or internal strife are enormous and
+cannot be handled by military forces alone. Instead,
+they demand the involvement of other government
+departments and non-governmental organizations.
+Canada’s recent experience in Afghanistan points to the
+ongoing need for close collaboration between National
+Defence, Foreign Affairs and the Canadian
+International Development Agency in pursuit of
+common objectives. For peace and reconstruction
+
+
+-----
+
+**Kananaskis County, Alta.—A gunner on guard at an Air Defence**
+Anti-Tank System (ADATS) emplacement during the G8 summit
+of 2002.
+
+efforts to take root, effective cooperation with local
+governments is also essential.
+
+###### RECENT DOMESTIC OPERATIONS
+
+While dealing with a high operational tempo overseas,
+the Canadian Forces have also had to contend with
+demands at home that have been heavier than at any
+time since the end of the Second World War. They have
+responded in impressive fashion, and reassured
+Canadians that they are ready to answer the call for
+help at a moment’s notice.
+
+During the past 10 years, the Canadian Forces have
+conducted thousands of sovereignty and search and
+rescue missions. They have assisted other government
+departments in deterring illegal fishing, countering
+drug smuggling, intercepting ships carrying illegal
+migrants and protecting our environment. In addition,
+the Forces have helped civilian authorities respond to
+
+
+natural disasters and other incidents, including floods,
+ice storms, forest fires, hurricanes, plane crashes and the
+Year 2000 transition. They also deployed more than
+5,000 personnel, as well as air defence weapons, CF-18
+fighters, Hercules transport aircraft and helicopters, in
+support of the 2002 G8 Summit in Kananaskis. Finally,
+as part of their North American Aerospace Defence
+Command (NORAD) commitment, Canadian Forces
+fighter aircraft have increased their patrols to ensure the
+safety of our skies following the attacks of September 11.
+
+The Canadian Forces have played an important role in
+asserting Canadian sovereignty in the North. Today,
+their activities include the work of Northern Area
+Headquarters in Yellowknife, the operation of the
+signals facility at Alert, overflights by our long-range
+patrol and Twin Otter aircraft, and periodic exercises.
+The Canadian Rangers, part-time Reservists who
+provide a military presence in remote, isolated and
+coastal communities in the North, report unusual
+activities or sightings, and conduct surveillance or
+sovereignty patrols as required.
+
+###### LOOKING TO THE FUTURE: A NEW VISION FOR THE CANADIAN FORCES
+
+There will be no decline in the demand for the
+Canadian Forces overseas. The UN and NATO value
+well-trained and experienced armed forces, and
+Western nations, including Canada, have been
+frequently called upon to provide the modern, robust
+forces required for the kinds of operations that have
+taken place in Kosovo, Haiti and Afghanistan. Nor can
+we expect that the demands on the Canadian Forces at
+home will decrease. Indeed, given the changed context
+of domestic and continental security, the military may
+be asked to increase its support to other government
+departments and agencies to enhance the protection of
+Canadians, our territory, and our air and maritime
+approaches.
+
+In this environment, Canada will continue to maintain
+modern, combat-capable maritime, land, air and special
+operations forces. Given their nationwide presence and
+specific skills, the Reserves will remain an essential part
+of our overall national military posture.
+
+
+-----
+
+The ability to respond to the challenge of
+failed and failing states will serve as a
+benchmark for the Canadian Forces. While
+this focus will not see the Forces replicate
+every function of the world’s premier
+militaries, the task of restoring order to war
+zones will require Canada to maintain
+armed forces with substantial capabilities.
+These same capabilities will also enable the
+Canadian Forces to respond to other
+international contingencies, providing
+insurance against unexpected developments
+in an ever-changing world.
+
+Making a difference means being able to
+work with others. The Canadian Forces
+will further improve their ability to
+operate effectively with the armed forces **Kandahar, Afghanistan—Canadian soldiers take over a patrol area from Americans.**
+of our allies. Maintaining this high level of
+interoperability will strengthen the confidence
+
+The key to this more effective, relevant and responsive
+
+that other countries have in us as a reliable partner,
+
+force is the transformation process on which the
+
+and enhance our credibility on the world stage. The
+
+Canadian Forces are now embarked.
+
+Forces will also enhance their ability to work with
+government and non-governmental organizations at
+all levels, at home and abroad. **IMPLEMENTING THE VISION:**
+
+###### CANADIAN FORCES
+
+Our military will become more effective, relevant and
+responsive, and its profile and ability to provide **TRANSFORMATION**
+leadership at home and abroad will be increased.
+
+Transformation will require the Canadian Forces to:
+
+- The Forces will become more effective by better
+
+                        - _adopt a fully integrated and unified approach to_
+
+integrating maritime, land, air and special
+
+_operations, by:_
+
+operations forces. The overall goal will be “focused
+effects”: the ability to deploy the right mix of forces
+
+                          - _transforming their command structure, which will_
+
+to the right place, at the right time, producing the
+
+include changing how they organize
+
+right result.
+
+themselves for operations, thereby enhancing
+their ability to deploy at home and abroad.
+
+- The Forces will become more relevant, both at
+
+Modifications to domestic command and
+
+home and abroad. They will adapt their capabilities
+
+control will be especially significant. As the
+
+and force structure to deal, in particular, with
+
+Forces begin to treat Canada as an integrated
+
+threats that arise from the kind of instability that
+
+theatre of operations, they will establish Canada
+
+we have seen abroad, especially in failed states.
+
+Command, a single operational command
+
+- The Forces will become more responsive by headquarters that will enable them to more
+enhancing their ability to act quickly in the event of effectively meet their fundamental responsibility
+crises, whether in Canada or around the world. to protect Canadians at home; and
+They will arrive on the scene faster, make a rapid   - _establishing fully integrated units capable of a_
+transition to operations once there, move more timely, focused and effective response to foreign
+effectively within theatre, and sustain deployments, or domestic threats to Canadian security.
+in some cases, for extended periods. Maritime, land, air and special operations forces
+
+
+-----
+
+will emphasize cooperation and teamwork at all
+levels to achieve a total effect greater than the
+sum of the individual parts;
+
+- _evaluate their force structure on an ongoing basis to_
+ensure that capabilities remain relevant. The status
+quo is not an option. The Forces will maintain or
+modernize those capabilities that remain valid,
+acquire new ones and eliminate those no longer
+needed. This process will require clear priorities
+and the reallocation of budgets;
+
+- _improve coordination with other government_
+_departments and interoperability with allied forces,_
+particularly the United States, through smart
+investments in evolving technology and doctrinal
+concepts, training opportunities, and exchange and
+liaison programs. The Forces will also build on
+strong relationships with their counterparts in
+other agencies and countries, their professional
+reputation and accumulated experience in
+multinational operations;
+
+- _update their command, control, communications,_
+_computers, intelligence, surveillance, and_
+_reconnaissance capabilities (C4ISR). The rapid_
+acquisition and sharing of information will be
+critical to future operations. Commanders and
+subordinates at every level need to know what is
+happening before they can respond to incidents.
+The Forces will increase the quality and quantity of
+information and intelligence so that they can make
+the timely decisions essential for success;
+
+- _place greater emphasis on experimentation_
+to develop doctrine and concepts to
+identify which capabilities are most
+suitable to implement the vision. The
+Forces will use this process, for example,
+to refine the development of their
+unmanned aerial vehicle capability; and
+
+
+operations and technologies are changing at
+breakneck speed. Professional and highly
+competent people, available when required and in
+sufficient numbers, are the Forces’ most valued
+resource. To this end, recruitment and retention
+will remain one of the Forces’ top priorities.
+
+###### Transforming the Canadian Forces: A Focus on Integrated Operations
+
+These goals demand that the Canadian Forces move
+beyond traditional thinking. Consequently, the
+operational transformation of the Canadian Forces
+will focus on the establishment of new joint
+organizations and combat structures that can meet the
+Government’s expectations for effectiveness, relevance
+and responsiveness.
+
+Specifically, the Canadian Forces will have the ability to
+deploy three kinds of joint formations.
+
+- A Special Operations Group will be established to
+respond to terrorism and threats to Canadians and
+Canadian interests around the world. This group
+will include Joint Task Force 2, our special
+operations and counterterrorism unit; a special
+operations aviation capability centred on
+helicopters; and supporting land and maritime
+forces. The Special Operations Group will be
+capable of operating as an independent unit or
+contributing to other joint force structures.
+Integrating our special operations forces in this
+manner will increase their impact in operations, as
+well as the range of options available to government
+
+
+-----
+
+in the deployment of the Canadian Forces.
+
+- A Standing Contingency Task Force will be
+established to respond rapidly to emerging
+crises. This high-readiness task force will
+be made up of existing, designated
+maritime, land, air and special operations
+elements, organized under a single
+integrated combat command structure. It
+will be ready to deploy with 10 days’ notice,
+and provide an initial Canadian Forces
+presence to work with security partners to
+stabilize the situation or facilitate the
+deployment of larger, follow-on forces
+should circumstances warrant.
+
+- Other Mission-Specific Task Forces will be
+deployed as required. These task forces,
+which will be drawn from forces
+maintained at different states of readiness A member of the Joint Nuclear Biological and Chemical Defence
+and structured for longer deployments, Company on exercise.
+will carry out combat and peace support
+operations. They will be made up of   - includes a common information and
+maritime, land, air and special operations elements, intelligence network, along with common
+and could be deployed as follow-on forces to the standards and procedures;
+Special Operations Group, the Standing
+
+                        - expand and enhance their information and
+
+Contingency Task Force, or as stand-alone
+
+intelligence fusion capability to better assess large
+
+contributions to other operations.
+
+amounts of intelligence in support of military and
+government decision making; and
+
+###### Transformation Initiatives
+
+                        - establish a unified concepts, doctrine and
+
+The Canadian Forces—including their national assets experimentation unit that will rely on advanced
+(such as headquarters, surveillance, and command and simulation to develop new capabilities for the
+control), as well as maritime, air, land and special evolving operational environment.
+operations forces—will proceed with specific measures
+to support the transformation concepts described above. With respect to special operations capabilities, the
+
+Canadian Forces will:
+
+With respect to national assets, the Canadian Forces will:
+
+                        - enlarge Joint Task Force 2 to enhance its ability to
+
+- form a unified Canadian Forces national command carry out missions at home and abroad, either alone
+structure and system that: or as part of the Special Operations Group;
+
+  - commands and directs integrated Canadian  - expand the Joint Nuclear, Biological and Chemical
+Forces operations at all levels, both Defence Company to better protect Canadians at
+domestically and internationally, home as well as Canadian Forces units deployed on
+
+  - generates the required combination of domestic and international operations; and
+maritime, air, land, and special operations
+forces to respond to domestic and international     - improve special operations training capabilities.
+contingencies, and
+
+
+-----
+
+**Kabul, Afghanistan—A Sperwer unmanned aerial vehicle in flight.**
+
+With respect to maritime capabilities, the Canadian
+Forces will:
+
+- enhance the ability of their ships to support the
+Special Operations Group, and carry out littoral
+operations as part of the Standing Contingency
+Task Force and Mission-Specific Task Forces;
+
+- proceed with the acquisition of ships that will be
+able to:
+
+  - pre-position or deploy the Standing
+Contingency Task Force,
+
+  - support land operations,
+
+  - provide a sea-based national or multinational
+command capability,
+
+  - deploy tactical unmanned aerial vehicles, and
+
+  - sustain naval task group operations worldwide;
+
+- complete, in the near term, the process of bringing
+the Victoria-class submarines into service. This will
+provide the Canadian Forces with a flexible and
+highly capable platform to conduct a wide range of
+operations in our waters and overseas;
+
+- modernize the combat systems and electronics of
+the Halifax-class frigates to maintain their ability to
+participate in Alliance and coalition operations;
+
+- acquire weapon systems for surface ships to enable
+them to support and protect forces operating
+ashore; and
+
+
+
+ - begin to define the requirements for a new class of
+
+surface ship to replace the current destroyers and
+frigates over the longer term.
+
+With respect to aerospace capabilities, the Canadian
+Forces will:
+
+ - complete the modernization of the CF-18 through
+
+the acquisition of a satellite-guided air-to-ground
+weapons capability to reflect the increased focus on
+close support to ground forces, while retaining its
+air-to-air capability at existing levels;
+
+ - complete the acquisition of new maritime
+
+helicopters;
+
+ - acquire medium- to heavy-lift helicopters, as
+
+announced in Budget 2005, to support land and
+special operations missions, including transporting
+large numbers of personnel and heavy equipment
+from forward deployed bases or from a maritime
+platform;
+
+- replace the Buffalo and Hercules aircraft used for
+fixed-wing search and rescue;
+
+- acquire, or ensure access to, the right mix of
+capabilities to meet the increasing requirements for
+domestic, global and in-theatre airlift;
+
+- complete the modernization of the Aurora
+maritime patrol aircraft;
+
+- complete the conversion of two Airbus aircraft into
+air-to-air refuellers;
+
+- acquire unmanned aerial vehicles to support
+domestic and international operations; and
+
+- pursue the use of satellites to support domestic and
+international operations.
+
+With respect to land capabilities, the Canadian Forces
+will:
+
+- increase the size of their Regular units as part of the
+expansion of the Forces by 5,000 people. By
+increasing the “tooth-to-tail ratio”—the number of
+people capable of being deployed on operations
+compared to those in administrative overhead—the
+land forces will be able to more effectively support
+the Special Operations Group, the Standing
+
+
+the Special Operations Group, the Standing
+
+
+-----
+
+Contingency Task Force, and MissionSpecific Task Forces;
+
+- improve the communications, mobility,
+firepower and support capabilities of the
+light forces so they can better integrate
+with the Special Operations Group and
+more effectively contribute to the
+Standing Contingency Task Force and
+Mission-Specific Task Forces;
+
+- increase the Reserves by 3,000 people.
+This will include:
+
+  - completing Phase II of the Land
+Force Reserve Restructure Program
+(including the Medical and
+Communications Reserves), raising
+the authorized end-state to 18,500 Mobile Gun System. Photo: General Dynamics Land Systems – Canada
+personnel. This will improve the
+Canadian Forces’ ability to respond
+to domestic contingencies and address specific
+capabilities required for overseas deployments;
+
+- complete the acquisition and development of
+intelligence, surveillance and reconnaissance
+systems, and integrate these into other Canadian
+Forces and allied sensor systems; and
+
+- continue to transform into a modern, combatcapable medium-weight force, based primarily on
+wheeled Light Armoured Vehicles, including the
+Mobile Gun System and the Multi-Mission Effects
+Vehicle (to replace the direct-fire role of the
+Leopard tank), a new platform to deliver indirect
+fire, and a new fleet of medium transport trucks.
+
+With respect to disaster relief, the Canadian Forces will:
+
+- enhance the capabilities of the Disaster Assistance
+Response Team. Building on lessons learned over
+the past several years (including the most recent
+deployment to Sri Lanka), the Forces will examine
+ways to make the team more deployable, including
+by making it lighter and more modular, that is,
+capable of being deployed in different combinations
+of its component parts.
+
+
+-----
+
+#### AND CANADIANS
+
+n the unambiguous words of the 2004 National
+Security Policy, “there can be no greater role, no
+more important obligation for a government, than
+
+# I
+
+the protection and safety of its citizens.” In a country as
+large, sparsely populated and geographically diverse as
+Canada, surrounded by three oceans, this has never
+been an easy task. Although new technologies have
+made monitoring and protecting our homeland easier,
+carrying out this fundamental responsibility remains a
+formidable challenge.
+
+The previous section highlighted the many ways in
+which the Canadian Forces assisted the Government in
+protecting Canadians at home in the last decade—from
+conducting surveillance to assisting their fellow citizens
+in times of crisis. Beyond that, the Canadian Forces
+have stood ready to assist provinces and territories in
+maintaining or restoring law and order when it is
+beyond the power of civil authorities to do so. Although
+operations in Aid of the Civil Power have been
+infrequent (only four times in the past 35 years), the
+role of the military has been critical in every case.
+
+###### A NEW DOMESTIC CONTEXT
+
+In the new century, however, the Canadian Forces must
+also be prepared to support civil authorities in dealing
+with terrorism, a threat that is likely to persist well into
+the future. The Government’s response to the attacks on
+the World Trade Center and the Pentagon has been
+unequivocal and determined. A series of measures set
+out in the 2001 Budget bolstered Canada’s national
+security by $7.7 billion over five years. Some of these
+measures were directly related to National Defence,
+
+
+which received $1.2 billion in additional funding. For
+example, the Government:
+
+- committed more resources to expand Joint Task
+Force 2;
+
+- established the Joint Nuclear, Biological and
+Chemical Defence Company; and
+
+- improved the Communications Security
+Establishment’s ability to gather intelligence on
+possible threats to our security.
+
+More recently, the Government has taken further steps
+to improve domestic security, including the creation of
+Public Safety and Emergency Preparedness Canada and
+by appointing a National Security Advisor to the Prime
+Minister. It has also developed a comprehensive and
+integrated strategy for addressing current and future
+threats to Canada under the National Security Policy.
+This policy identifies specific threats to Canadians,
+articulates our national security interests and provides a
+blueprint for action in numerous areas, including
+marine security and intelligence.
+
+Notwithstanding these measures, we cannot—and will
+not—relax our efforts to combat terrorism. The public
+expects the Government to remain vigilant in
+protecting Canadians and defending our sovereignty
+and territory. It will be a challenge. New threats are
+wide ranging and complex, and it is impossible to
+predict with certainty the precise forms they will take.
+
+One of the most critical security issues now facing the
+Government is its ability to conduct surveillance of our
+vast territory, airspace and maritime approaches, and to
+
+
+###### THE NATIONAL SECURITY POLICY AND DEFENCE
+
+The interdepartmental Marine Security Operations Centres being established in Halifax and Esquimalt will bring
+together civilian and military resources to detect, assess and respond to marine security threats. The maritime forces
+will also increase on-water patrols and aerial surveillance, and work even more closely with the United States in
+protecting and defending our coasts and territorial waters.
+
+Canada’s intelligence capacity is being enhanced through the creation of an Integrated Threat Assessment Centre at
+the Canadian Security Intelligence Service. The Centre, which will include National Defence personnel, will more
+efficiently gather, assess and disseminate intelligence. The Government is also expanding the intelligence-collection,
+threat assessment and crisis-response capabilities of the Communications Security Establishment, and is working with
+the United States to establish a North American cyber-threat early warning system.
+
+
+-----
+
+respond to asymmetric threats. For instance, an attack
+using weapons of mass destruction on one of Canada’s
+many ports of entry would not only threaten the safety
+of those who work or live in the vicinity, but also
+reverberate throughout North America. Similarly,
+although we no longer face the threat of Soviet bombers
+in Canadian airspace, terrorist groups may be seeking to
+acquire the means to strike using not only hijacked
+airliners, but also, possibly, crop dusters, drones, and
+even cruise missiles fired from container ships or other
+platforms off our coasts. The Government must
+improve how it gathers, tracks, analyzes, uses and
+shares information, particularly as it relates to the huge
+volume of air, land and sea activity within our areas of
+jurisdiction, and be better prepared to respond quickly
+and effectively to incidents. National Defence will play
+a critical role in these efforts.
+
+The demands of sovereignty and security for the
+Government could become even more pressing as
+activity in the North continues to rise. The mining of
+diamonds, for example, is expanding the region’s
+economy and spurring population growth. Air traffic
+over the high Arctic is increasing, and climate change
+could lead to more commercial vessel traffic in our
+northern waters. These developments will not result in
+the type of military threat to the North that we saw
+during the Cold War, but they could have long-term
+security implications. Although the primary
+responsibility for dealing with issues such as
+sovereignty and environmental protection, organized
+crime, and people and drug smuggling rests with other
+departments, the Canadian Forces will
+be affected in a number of ways. There
+will, for example, be a greater
+requirement for surveillance and
+control, as well as for search and rescue.
+Adversaries could be tempted to take
+advantage of new opportunities unless
+we are prepared to deal with
+asymmetric threats that are staged
+through the North.
+
+**Pangnirtung Fjord, Nunavut—The frigate HMCS**
+_Montréal during Exercise NARWHAL._
+
+
+#### AND CANADIANS
+
+###### THE CANADIAN FORCES AND PROTECTING CANADA: A NEW APPROACH
+
+In the face of these challenges, the first priority of our
+military will be the defence of Canada. While the
+Canadian Forces will continue to serve Canadians in
+familiar roles, including search and rescue, disaster
+relief and support to other government departments
+such as Fisheries and Oceans and Environment Canada,
+they will also contribute to the Government’s overall
+strategy to protect Canadians against the threat of
+terrorism. As part of this strategy, the Forces will:
+
+- work more closely with civil authorities (at the
+federal, provincial and local levels) to prevent
+serious threats to Canada from materializing,
+countering these threats if prevention fails, and
+helping mitigate the consequences of an attack
+should one occur;
+
+- increase their efforts to ensure the sovereignty and
+security of our territory, airspace and maritime
+approaches, including in the Arctic;
+
+- improve the gathering, analyzing, integrating and
+use of information gained from a combination of
+maritime, land, air and space surveillance systems;
+
+- dedicate specific resources—people, training and
+equipment—to enhance their ability to carry out
+domestic roles; and
+
+
+-----
+
+#### AND CANADIANS
+
+  - expand their presence across the country while
+improving their ability to move people and
+equipment more rapidly to where they are needed.
+
+To carry out these activities, the Canadian Forces will
+re-examine their entire approach to domestic operations.
+In the past, Canada has structured its military primarily
+for international operations, while the domestic role has
+been treated as a secondary consideration. At home, the
+military’s response has been to assemble a temporary
+force drawn from existing structures designed for other
+purposes, using the resources immediately available to
+the local commander. Clearly, this approach will no
+longer suffice.
+
+In improving their ability to respond to domestic
+requirements, the Forces will view Canada as a single
+operational area. In place of the current command
+structure, which is focused primarily on managing
+training and administration, the Canadian Forces will
+establish a single integrated structure that will be able to
+bring the best available military resources from across
+Canada to bear on a contingency, wherever it occurs,
+nationwide. The new structure will be linked to a
+smaller number of integrated regional headquarters.
+This approach will take advantage of the presence that
+the Forces maintain across Canada, as well as the
+general and specialized operational competence of our
+personnel, both Regular and Reserve.
+
+The effects of this new approach—a new command
+structure, with the emphasis on being able to bring an
+integrated military response to a given area to
+maximum effect—will also be seen in the
+North. Through a combination of
+enhanced surveillance (from satellites,
+unmanned aerial vehicles and radars), a
+more visible military presence and other
+improved capabilities (including airlift
+and communications), the Canadian
+Forces will be better able to respond to
+northern contingencies, and the
+Government will be able to more strongly
+assert Canada’s interest in this vital region
+of the country.
+
+**Pangnirtung Fjord, Nunavut, Canada—Members**
+of HMCS Montréal’s naval boarding party during
+an exercise.
+
+
+###### FUTURE TASKS OF THE CANADIAN FORCES
+
+To support more effectively the Government’s essential
+role in providing for the safety and security of
+Canadians, and in keeping with a fully integrated and
+unified approach to operations, the Canadian Forces
+will focus their efforts in the following areas.
+
+With respect to national assets, the Canadian Forces
+will:
+
+- establish a single national command structure
+(Canada Command) to respond to national
+contingencies; and
+
+- enhance their relationships with civil authorities.
+This will include sharing information as well as
+developing and exercising plans, so that, in the
+event of a crisis, the Forces can make a timely,
+effective contribution to the Government’s
+overriding objective to protect Canadians.
+
+With respect to special operations forces, the Canadian
+Forces will:
+
+- enhance the national counterterrorism response
+force (Joint Task Force 2) to deal with emergencies
+in different parts of the country;
+
+- enhance the Joint Nuclear, Biological and Chemical
+Defence Company to support civilian first
+responders in reacting quickly to a major incident
+in Canada; and
+
+
+-----
+
+#### AND CANADIANS
+
+**Vancouver, B.C.—A CH-149 Cormorant helicopter hoists a Canadian Forces**
+search and rescue technician from the deck of a Canadian Coast Guard ship.
+
+protect the sovereignty and security of our oceans
+and maritime areas of jurisdiction:
+
+
+
+- provide special operations expertise to the
+Special Operations Group, the Standing
+Contingency Task Force or other MissionSpecific Task Forces in domestic
+emergencies.
+
+The Maritime Forces (Regular and Reserve) will:
+
+- place much greater emphasis on protecting
+Canada;
+
+- implement specific National Security Policy
+commitments by:
+
+  - leading the coordination of the onwater response to a maritime threat or a
+developing crisis in our Exclusive
+Economic Zone and along our coasts,
+
+  - helping develop a common maritime
+picture, including by expanding the
+number of High Frequency Surface Wave
+Radars on each coast,
+
+  - leading the development of fully integrated
+interagency Marine Security Operations
+Centres,
+
+  - cooperating closely with other government
+fleets and agencies involved in the surveillance
+of our ocean areas,
+
+  - exploring cooperation with other government
+agencies in monitoring our internal waters,
+such as the St. Lawrence Seaway and the Great
+Lakes, and
+
+  - strengthening their links with Canadian
+stakeholders and the appropriate U.S.
+departments and agencies to facilitate better
+maritime security cooperation;
+
+- increase their support to other government
+departments in protecting endangered fish stocks,
+monitoring illegal drug and immigration activity,
+conducting environmental surveillance, and
+carrying out search and rescue operations;
+
+- provide, when required, submarines in direct
+support of the Special Operations Group for
+operations within Canada’s ocean regions;
+
+- provide a naval task group of up to four combatant
+vessels on each coast, with embarked maritime
+helicopters and a national command component, to
+
+
+
+  - one task group designated for operations as the
+maritime contribution to the Standing
+Contingency Task Force, and the other
+available to deploy as part of a Mission-Specific
+Task Force;
+
+- enhance their surveillance of and presence in
+Canadian areas of maritime jurisdiction, including
+the near-ice and ice-free waters of the Arctic; and
+
+- sustain indefinitely, on each coast, a ready-duty
+ship, capable of responding to national contingency
+or search and rescue operations in our waters and
+maritime approaches.
+
+The Air Forces (Regular and Reserve) will:
+
+- place much greater emphasis on protecting Canada.
+As a result, the CF-18’s primary mission will be the
+defence of Canada and North America. This will
+include maintaining CF-18 readiness in accordance
+with NORAD requirements;
+
+- examine the acquisition of additional radars to
+provide better coverage of population centres and
+vital points;
+
+- increase the surveillance and control of Canadian
+waters and the Arctic with modernized Aurora
+
+
+-----
+
+#### AND CANADIANS
+
+long-range maritime patrol aircraft,
+unmanned aerial vehicles and satellites;
+
+  - enhance capabilities in the North by:
+
+   - replacing the Twin Otter fleet with a
+more modern aircraft, and
+
+   - considering the utility of basing search
+and rescue aircraft in the region;
+
+  - conduct search and rescue operations with
+the new Cormorant helicopter, as well as
+new fixed wing search and rescue aircraft;
+
+  - provide airlift anywhere in Canada for the
+deployment of the land and command
+elements of the Special Operations Group,
+the Standing Contingency Task Force, or
+one of the Mission-Specific Task Forces;
+
+  - provide a special operations aviation
+capability to the Special Operations Group
+for operations anywhere in Canada; and
+
+
+**Pangnirtung, Nunavut—Canadian Rangers guide infantry soldiers on patrol.**
+
+
+
+- provide maritime and transport helicopters as the
+air contribution to the Standing Contingency Task
+Force or the Mission-Specific Task Forces.
+
+The Land Forces (Regular and Reserve) will:
+
+- build on the mix of military and non-military skills
+resident in the Reserves (e.g., chemical, biological,
+radiological and nuclear response, information
+operations and civil-military cooperation), as well as
+their presence nationwide, to support civilian
+authorities in responding to domestic emergencies
+in Canada;
+
+- support the Government’s sovereignty and security
+objectives in the North by:
+
+  - improving the ability of the Canadian Rangers
+to communicate with other components of the
+Canadian Forces and government agencies, and
+
+  - increasing Regular Force sovereignty patrols in
+the region;
+
+- provide forces to the Special Operations Group for
+domestic operations;
+
+
+
+- provide forces to the Standing Contingency Task
+Force to respond to domestic emergencies; and
+
+- provide immediate-response units to MissionSpecific Task Forces to respond to domestic crises.
+
+In the area of disaster relief, the Canadian Forces will:
+
+- provide an enhanced Disaster Assistance Response
+Team, or its component parts, for humanitarian
+assistance missions at home.
+
+
+-----
+
+he United States remains Canada’s most
+important ally. The friendship between our two
+countries is unique, based on shared experiences
+
+# T
+
+and values and underpinned by a close economic
+interdependence. Our defence and security relationship
+is long-standing, well entrenched and as extensive as
+any in the world. Both Canada and the United States
+share the understanding, growing out of the 1940
+Ogdensburg Declaration, that North America’s security
+is indivisible.
+
+Canada has benefited immensely from its defence
+partnership with the United States over the years.
+Our bilateral cooperation continues to provide us with
+a degree of security that we could never achieve on
+our own.
+
+###### A NEW NORTH AMERICAN DEFENCE AND SECURITY CONTEXT
+
+For more than 60 years, our defence relationship has
+evolved to meet new and emerging threats. It may now
+be entering a period of change like no other, as the
+security of North America has taken on a new
+dimension in the wake of the terrorist attacks.
+
+For Canada, the United States’ more assertive role on
+the world stage and growing sense of vulnerability
+at home have implications across the
+socio-economic, political, diplomatic
+and defence spectrum. Whether within
+a continental or global context,
+developments within the U.S. will
+profoundly affect Canada for years to
+come.
+
+Indeed, Canada’s security has become
+more closely linked than ever to that of
+its southern neighbour—and vice versa.
+Canada’s geography is, from an
+American viewpoint, destined to regain
+the importance it lost after the end of
+
+**Indian Ocean—Canadian Frigate HMCS Toronto**
+(foreground) and the United States’ warship USS
+_Bulkeley (background)_
+
+
+#### IN A CHANGING WORLD
+
+the Cold War. Given our shared border and
+infrastructure and extensive bilateral trade, most of the
+new dangers to the United States are no less risks to
+Canada. For example, a serious terrorist incident
+occurring close to the Canada-U.S. border would
+undoubtedly threaten the physical safety of Canadians
+and Americans, not to mention the free flow of goods
+and people between our two countries on which our
+economy so greatly depends.
+
+The United States, with its increased focus on
+homeland security, has already demonstrated that it is
+prepared to expend considerable energy and resources
+to protect its people and territory, and to defend its
+interests. This stands out clearly, for example, with the
+establishment of the Department of Homeland Security
+and Northern Command. The latter is specifically
+dedicated to the defence of U.S. territory and its
+approaches, and the coordination of military assistance
+to American civil authorities.
+
+###### THE CANADIAN FORCES AND NORTH AMERICAN DEFENCE: A NEW APPROACH
+
+It is clearly in our sovereign interest to continue doing
+our part in defending the continent with the United
+States. Our intent to do so was clearly reflected in the
+security and defence measures announced in recent
+
+
+-----
+
+#### IN A CHANGING WORLD
+
+budgets, the signing of the Smart Border Declaration in
+2001, the establishment of the Bi-National Planning
+Group in 2002, the publication of the National Security
+Policy (which calls for closer cooperation with the
+United States in protecting and defending our coasts
+and territorial waters) and the 2004 Joint Statement on
+_Common Security, Common Prosperity: A New_
+_Partnership in North America._
+
+These initiatives, while significant, are not enough. As
+part of our new, more sophisticated approach to our
+relationship with the United States, we will renew our
+commitment to continental defence, including through
+enhancing our domestic capabilities and establishing a
+single national command structure. The Government
+will also pursue further practical ways of strengthening
+our continental defence architecture and bilateral
+consultative mechanisms.
+
+###### Enhanced North American Defence Cooperation
+
+The centerpiece of our defence relationship with the
+United States remains the North American Aerospace
+Defence Command. Its importance was underscored on
+September 11, when it helped restore control of
+continental airspace within hours of the terrorist
+attacks. Since then, NORAD has confirmed its
+relevance by continuing to adapt to the new threat
+environment. It has increased its operational readiness
+and tempo and is now responding to threats from both
+inside and outside North America’s airspace. Canada
+confirmed its commitment to the bi-national command
+in August 2004 by amending the NORAD Agreement
+so that its missile warning capabilities, which have been
+in place for 30 years, would be made available to U.S.
+commands responsible for missile defence.
+
+
+NORAD’s mandate is to respond to aerospace threats.
+It does not have the authority to counter maritime
+threats (such as a ship carrying a dirty bomb into New
+York or Halifax harbour) or to deal with the aftermath
+of a terrorist attack on North American soil. Our
+countries have made significant progress in enhancing
+defence cooperation to address these challenges,
+including through the Bi-National Planning Group.
+More needs to be done. Canada will examine with the
+United States a number of security and defence areas in
+which our two countries could work more closely
+together, including:
+
+- preventing or mitigating the impact of potential
+maritime attacks by:
+
+  - increasing bi-national maritime surveillance
+activities, and
+
+  - enhancing the sharing of maritime intelligence,
+information and assessments to better advise
+and warn both governments;
+
+- improving our ability to respond to maritime crises,
+on a case-by-case basis, with the formal approval of
+both governments; and
+
+- developing military-to-military arrangements for
+the support of civilian authorities during crises and
+emergencies.
+
+The Government will begin substantive discussions
+with the United States in all of these areas in the
+coming months, including as part of the upcoming
+negotiations to renew the NORAD Agreement, which
+is set to expire in 2006. Moving ahead on these issues is
+important, particularly in light of the January 2005 U.S.
+Presidential Directive calling for the development of a
+national strategy for maritime security. This will
+undoubtedly have implications for Canada.
+
+
+###### THE BI-NATIONAL PLANNING GROUP
+
+Following the tragic events of September 11, American and Canadian officials began discussing ways of cooperating
+more closely to ensure the safety and security of their citizens. These discussions led to the establishment of the BiNational Planning Group (BPG) in December 2002. The BPG is co-located with NORAD in Colorado Springs and
+headed by a Canadian Lieutenant-General, who is also Deputy Commander of NORAD. Close to 60 military
+personnel work at the BPG, including about 30 Canadians. Its responsibilities include sharing information, developing
+contingency plans, supporting civilian agencies, and improving cooperation with respect to maritime threats as well as
+land incidents such as terrorist attacks or natural disasters. The BPG’s initial two-year mandate has been extended
+until 2006.
+
+
+-----
+
+#### IN A CHANGING WORLD
+
+
+###### NORTH AMERICAN AEROSPACE DEFENCE COMMAND
+
+NORAD is a bi-national military organization established in 1958 by Canada and the United States to monitor and
+defend North American aerospace. Its headquarters are located in Colorado Springs. The Commander of NORAD is
+appointed by, and responsible to, both the Prime Minister of Canada and the President of the United States. By
+tradition, the Commander is an American and the Deputy Commander a Canadian. NORAD operates a network of
+ground-based radars, sensors and fighter jets to detect, intercept and, if necessary, engage aerospace threats to the
+continent. On September 11, NORAD played a vital part in helping ground civilian air traffic in North America and
+has since increased its role in protecting North American cities and critical infrastructure. Over 700 Canadian Forces
+personnel are assigned to NORAD, including in North Bay, Ontario.
+
+
+As part of this new approach to continental defence,
+Canada will also examine greater cooperation with
+Mexico on security issues.
+
+###### The Permanent Joint Board on Defence
+
+The Permanent Joint Board on Defence was created in
+1940 and constitutes the senior bilateral advisory body
+on continental security. The board meets semi-annually
+and is composed of national sections made up of
+diplomatic and military representatives. It has served
+both Canada and the United States well for over
+60 years and continues to be relevant. The board’s
+ability to provide useful policy advice to governments
+has been strengthened by reducing the size of its
+permanent membership, adding participants from key
+security partner agencies and focusing agendas on
+specific policy issues that can be discussed in depth.
+Canada will encourage the board to consider North
+American defence in the context of the new security
+environment, particularly the relationship between
+homeland defence, continental defence and
+international security, and to explore further ways of
+improving the body’s effectiveness.
+
+
+###### FUTURE TASKS OF THE CANADIAN FORCES
+
+The Canadian Forces will enhance their role in
+defending the North American continent by:
+
+- strengthening their ability to counter threats in
+Canada, especially in terms of monitoring and
+controlling activity in the air and maritime
+approaches to our territory;
+
+- continuing to contribute Canadian aircraft and
+other assets to the NORAD mission;
+
+- ensuring that maritime forces, both regular and
+reserve, cooperate even more closely with the U.S.
+Navy and Coast Guard;
+
+- improving their ability to operate alongside
+American forces, including through more frequent
+combined training and exercises;
+
+- exploring with the United States ways to enhance
+our bi-national defence cooperation, especially in
+the areas of maritime security and military support
+to civilian authorities; and
+
+- continuing to participate in international operations
+overseas to address threats at their source.
+
+
+-----
+
+#### AND MORE SECURE WORLD
+
+anada’s military has a long and proud tradition
+of service overseas. Vimy, the Battles of Britain
+and the Atlantic, Ortona, Normandy, Kap’yong,
+
+# C
+
+Cyprus, the Persian Gulf, the Balkans, Afghanistan—
+the names have become synonymous with Canadian
+sacrifice and valour. Canadian soldiers, sailors and air
+personnel have deployed overseas to ensure that their
+fellow citizens at home remain safe and their way of life
+preserved. They have helped Canada make a difference
+internationally, and changed for the good the lives of
+countless people around the globe.
+
+###### A NEW INTERNATIONAL SECURITY CONTEXT
+
+These statements still ring true today, whether in Southwest
+Asia, Africa or the Middle East. The Government
+believes that our military has an important role to play
+internationally. The security of Canadians will continue
+to depend on our ability to address threats both in
+Canada and at their source overseas.
+
+This is especially true with respect to failed and failing
+states. By helping stabilize these countries, we prevent
+threats from spreading further and deny terrorist cells
+the haven and support that sustain them. In turn, this
+helps reduce the prospect that terrorists will reach our
+shores and threaten Canadians directly. At the same
+time, Canadians are a compassionate people, and even
+when our own interests may not be directly at stake, we
+believe in helping those less fortunate than ourselves.
+This concern for others is one of the fundamental
+values that helps define our country.
+
+Robust, combat-capable military forces are indispensable
+if Canada wishes to fulfill these roles. While diplomacy
+remains the preferred tool in the pursuit of international
+peace and security, our country must possess the hard
+military assets necessary to achieve our foreign policy
+goals. This includes using lethal force when necessary.
+In fact, as the Afghan experience has shown, military
+power, diplomacy and development are intimately
+linked and complement one another.
+
+###### International Organizations
+
+Multilateral cooperation is the foundation for a stable
+and peaceful international system. Our country has
+
+
+stood by this principle for more than five decades, and
+we have been at the forefront of efforts to establish and
+strengthen multinational institutions. Today, there is a
+compelling need for greater international security
+cooperation. The nature and complexity of the threats
+facing us, from failed states to terrorism, require a
+coordinated approach and a level of resources that could
+never be achieved by governments acting on their own.
+
+The Canadian Forces will, therefore, maintain their
+contributions to international institutions such as the
+United Nations and the North Atlantic Treaty
+Organization. Membership in both of these organizations
+continues to serve Canadian interests and reflect our
+values. At the same time, consistent with international
+legal norms, when the will of the international
+community is clear, we will also consider participating in
+less formal coalitions of like-minded states, as we have
+seen in the international campaign against terrorism.
+
+###### The United Nations
+
+The Government believes that the UN continues to
+have an important role to play in peace support
+operations, particularly for the legitimacy that it confers
+on these missions. In recent years, the UN has taken
+several steps to improve its ability to undertake peace
+support operations quickly and effectively. The 2000
+Brahimi Report on UN Peace Operations
+recommended that the world body put greater
+emphasis on rapid deployment, conflict prevention,
+peacebuilding strategies, and the role of civilians and
+police. Solid progress has been made in carrying out
+the Report’s recommendations; Canada will continue to
+call for their full implementation.
+
+Similarly, the Government has made clear that it
+intends to engage members of the United Nations in
+moving forward with the “Responsibility to Protect”
+initiative, as endorsed by the December 2004 UN
+Secretary-General High Level Panel Report. The
+objective will be to develop new rules to enable the
+international community to protect civilians from
+extreme harm when their own government is unwilling
+or unable to do so. National Defence will support the
+Government’s efforts in this area.
+
+The Government will continue to strongly support
+other aspects of the UN reform agenda, including the
+
+
+-----
+
+proposals put forward by Secretary-General
+Kofi Annan in his March 2005 Report entitled
+_In Larger Freedom: Towards Development,_
+_Security and Human Rights for All._
+
+Finally, Canada will take a lead role in the
+Multinational Standby High Readiness
+Brigade for United Nations Operations
+(SHIRBRIG). The brigade, deployed for the
+first time in Ethiopia and Eritrea in 2000, will
+remain critical to the United Nations’ ability
+to undertake peace support operations in the
+coming years. Canada held the SHIRBRIG
+presidency in 2003, and has command of the
+brigade until mid-2006.
+
+###### The North Atlantic Treaty Organization
+
+
+#### AND MORE SECURE WORLD
+
+**Kabul, Afghanistan—A doctor at the Chardehi Poly Medical Clinic with a Canadian**
+Forces sergeant.
+
+
+NATO is an essential collective defence structure and
+embodies the transatlantic link that continues to be
+critical to the security of our country. It remains a
+strong political institution where allies with shared
+values and interests can address issues that threaten
+regional and international stability. Over the past
+decade, the Alliance has moved steadily away from its
+Cold War roots to stay relevant in the emerging security
+environment. It has welcomed 10 new members from
+eastern and central Europe since 1999, and has also
+reached out to other partner countries in eastern
+Europe, central Asia and the Mediterranean. It has
+shown that it is a key regional organization with the
+will and capabilities to contribute in a concrete fashion
+to international security. NATO has played a leadership
+role in stabilization operations in the Balkans and
+undertook the first offensive operations in its history to
+halt ethnic cleansing in that region.
+
+The Alliance is also front and centre in the fight against
+terrorism. In the immediate aftermath of September 11,
+NATO invoked the collective defence article of the
+Washington Treaty and dispatched airborne earlywarning aircraft to help monitor U.S. airspace. Since
+then, at the urging of Germany and Canada, it has
+conducted operations outside of its traditional area of
+responsibility by taking command of the International
+Security Assistance Force in Afghanistan. We will
+continue to encourage NATO to make similar
+contributions to global security.
+
+
+NATO is currently in the midst of an ambitious
+transformation process to ensure that it possesses the
+modern forces needed to operate in the future security
+environment. The Prague Capabilities Commitment is
+a key part of this process, and Alliance countries have
+pledged to improve their collective capabilities to
+defend against attacks involving weapons of mass
+destruction, maintain effective command and control
+structures, remain interoperable and combat-effective,
+and rapidly deploy and sustain forces. We fully support
+this initiative, and will meet our national commitments
+under it, which include helping to develop
+multinational solutions for strategic sea and air lift.
+
+Another key aspect of Alliance transformation is the
+creation of the NATO Response Force, the goal of which
+is to provide the organization with a global power
+projection capability to manage crises and respond to
+threats. An initial force of approximately 8,000 troops
+was formed in 2003, which will serve as the prototype for
+the complete force of approximately 20,000 personnel,
+made up of sea, land and air components. The
+Government believes that the NATO Response Force is
+critical to the continued relevance of the Alliance. We are
+negotiating our specific commitments, which we
+anticipate will include a combination of sea, land and air
+elements, as well as specialized training facilities.
+
+In the interim, Canada will maintain other specific
+commitments to the Alliance, including personnel
+serving in the Airborne Early Warning Force and
+
+
+-----
+
+#### AND MORE SECURE WORLD
+
+various allied headquarters. In addition,
+we will continue to encourage Alliance
+members and other countries to conduct
+training in Canada, including in Goose
+Bay and as part of the NATO Flying
+Training in Canada program.
+
+###### The European Union
+
+Over the past 10 years, the European
+Union (EU) has made great strides in
+developing its own security and defence
+identity. Canada believes that the
+European Union can play an important
+role in enhancing international peace
+and security. The EU has already shown
+
+**Geilenkirchen, Germany—A member of the Logistics Wing of the Canadian contingent**
+
+its willingness to assume new
+
+and an E-3A AWACS aircraft.
+
+responsibilities by taking over the
+stabilization operations in Bosnia from
+
+and the Canadian International Development Agency,
+
+NATO. Canada has contributed military personnel to
+
+to further develop the integrated “3D” approach
+
+this important mission.
+
+(defence, diplomacy and development) to complex
+conflict and post-conflict situations. This will include
+
+We strongly support the further development of the
+
+consulting and sharing information as required with
+
+European Security and Defence Policy as a means of
+
+the Stability and Reconstruction Task Force being
+
+building defence capabilities that complement—not
+
+established in Foreign Affairs.
+
+duplicate—those of NATO. We will continue to work
+with the European Union to ensure Canada can further
+participate in its missions where NATO is not involved. **Roles of the Canadian Forces**
+
+###### THE CANADIAN FORCES AND Failed states and the challenge INTERNATIONAL SECURITY IN of restoring stability THE 21ST CENTURY: The Canadian Forces will continue to participate across A NEW APPROACH the spectrum of international operations, with a focus
+
+on the complex and dangerous task of restoring order
+
+The Government is committed to enhancing Canada’s
+
+to failed and failing states. The ability of our military to
+
+ability to contribute to international peace and security
+
+carry out three-block war operations will be critical to
+
+and, in particular, restore stability in failed and failing
+
+the success of Canada’s efforts to address the problems
+
+states. Achieving this objective in today’s complex
+
+of these states. Our experience in the past has shown
+
+security environment will require, more than ever, a
+
+that democracy and economic development cannot take
+
+“whole of government” approach to international
+
+hold in these societies without the security and stability
+
+missions, bringing together military and civilian
+
+that only military forces can provide.
+
+resources in a focused and coherent fashion.
+
+As the concept of the three-block war suggests, these
+
+As part of this strategy, and building on recent
+
+operations have become more challenging. Our soldiers,
+
+experience gained in Afghanistan and elsewhere, the
+
+sailors and air personnel must increasingly operate in
+
+Department of National Defence and the Canadian
+
+environments where the lines between war and peace
+
+Forces will work more closely with other government
+
+have blurred. These situations are volatile, and a
+
+departments and agencies, including Foreign Affairs
+
+humanitarian mission can swiftly turn into a combat
+
+
+-----
+
+operation, particularly when warlords, criminal gangs
+and other irregular combatants remain part of the
+equation. They call for a wide variety of tools, from
+negotiation, compromise and cultural sensitivity to
+precision weapons. The aim is always to produce
+focused effects that put a premium, even in conflict
+situations, on the sanctity of human life. Consequently,
+the Canadian Forces will seek to maintain the right mix
+of military capability to ensure that they can carry out
+all potential aspects of a three-block war. They will
+remain, above all, combat-capable in order to deter
+aggression, defend themselves and civilian populations
+against conventional and asymmetric attacks, and fight
+and defeat opposing forces with the ultimate goal of
+restoring peace and stability. The Canadian Forces have
+shown themselves to excel in this area, which is one of
+the reasons why they are in such high demand overseas.
+They will improve even further.
+
+Sending our men and women in uniform into these
+dangerous situations is one of the most difficult
+decisions of government. While demand for our
+military to participate in international operations will
+undoubtedly remain high, the Government will be
+selective and strategic when considering such
+deployments. As in the past, we will need to look at a
+variety of factors before reaching a final decision,
+including whether:
+
+- the mission supports Canada’s foreign policy
+objectives;
+
+- the mandate is realistic, clear and enforceable;
+
+- international political and financial
+support as well as other resources are
+sufficient to achieve the desired end;
+
+- the proposed forces are adequate and
+appropriate for the mandate;
+
+- an effective process of consultation
+between mission partners is in place;
+
+- there is a clear exit strategy or desired
+end-state;
+
+**Ampara region, Sri Lanka—An officer of the DART**
+engineer section talking with a district official.
+
+
+#### AND MORE SECURE WORLD
+
+ - there is a defined concept of operations, an effective
+command and control structure and clear rules of
+engagement; and
+
+ - the mission does not jeopardize other Canadian
+Forces commitments.
+
+###### Military training assistance
+
+In addition to making direct operational contributions
+overseas, the Canadian Forces will play a more active
+role in providing military training to foreign armed
+forces. Fostering the development of democratic and
+accountable militaries in nations emerging from conflict
+promotes stability, helps prevent new crises, and
+facilitates the withdrawal of international forces from
+areas of conflict. By “training the trainers,” the
+Canadian Forces can also assist other countries in
+building their capacity to undertake peace support
+operations. This, in turn, increases the quantity and
+quality of troops available to the United Nations and
+other organizations, and lessens the operational burden
+on countries like Canada.
+
+Our military’s expertise in this area is widely recognized
+and sought after, as its role in helping train the Sierra
+Leonean and Afghan armed forces demonstrated. We
+will build on this success. For example, the Department
+of National Defence will provide more resources to its
+Military Training Assistance Program to carry out a
+wide range of activities around the world, with
+emphasis on Africa and the G8’s Action Plan for
+Expanding Global Capability for Peace Support
+
+
+-----
+
+#### AND MORE SECURE WORLD
+
+Operations. The Canadian Forces will focus their
+efforts on developing basic staff skills to help midlevel officers conduct peace support operations.
+Canada will also use the Canadian Forces’ bilingual
+expertise to help Anglophone African militaries
+operate in French-speaking regions of the continent,
+and Francophone militaries to do the same in Englishspeaking regions. Finally, National Defence will
+promote security sector reform to encourage
+democratic values within armed forces.
+
+These training activities will be broadened to include
+maritime, air, land and special operations forces.
+Maritime forces will offer their expertise in off-shore
+patrolling and interdiction operations. Land forces will
+provide peace support training. Our air forces will help
+foreign militaries develop better air support to their
+naval and land forces and improve air interdiction and
+transport operations. Finally, our special operations
+forces will provide training in counterterrorism
+operations. As the Canadian Forces carry out these
+activities, they will seek to gain access to special training
+environments, such as jungles or deserts in Latin
+America and Africa. They will also identify
+opportunities for potential staging bases in support of
+future missions.
+
+
+###### Defence diplomacy and forward presence
+
+Defence diplomacy will remain an important part of
+National Defence’s efforts to contribute to international
+stability. Bilateral and multilateral contacts, including
+staff talks, ship and aircraft visits, and participation in
+exercises are important elements of Canada’s foreign
+policy. They help Canada understand the security issues
+at stake in regions throughout the world while
+enhancing democracy and civilian control and
+accountability within other armed forces. The Canadian
+Forces will continue these activities, in cooperation with
+Foreign Affairs, in such regions as Africa, Latin
+America, the Caribbean and Asia Pacific.
+
+Defence diplomacy can also assist in the conduct of
+Canadian Forces operations overseas. For example, the
+relationships Canada forged with some Middle Eastern
+countries after 2001 continue to help us in supporting
+our efforts in Afghanistan. Canada will develop this
+strategy further with selected countries, particularly in
+Asia. The Canadian Forces will also consider
+expanding their international “footprint”—for example,
+through the placement of additional military personnel
+in allied headquarters.
+
+
+###### THE CANADIAN FORCES AND INTERNATIONAL OPERATIONS
+
+The Canadian Forces must remain capable of participating in a wide range of operations overseas, particularly when
+dealing with the complex, fluid and dangerous environment of failed and failing states. These will include:
+
+- **combat operations, such as those conducted during the Kosovo air campaign and with the United States in**
+Afghanistan;
+
+- **complex peace support and stabilization missions, such as those carried out with NATO in Bosnia and with the**
+International Security Assistance Force in Afghanistan;
+
+- **maritime interdiction operations, such as those conducted in the Persian Gulf after the first Gulf War, and as part**
+of the campaign against terrorism;
+
+- traditional peacekeeping and observer operations, such as those carried out by the UN in the Middle East for
+many years, and, more recently in Ethiopia/Eritrea;
+
+- **humanitarian assistance missions, such as those conducted by the Disaster Assistance Response Team in**
+Honduras, Turkey and, more recently, Sri Lanka; and
+
+- **evacuation operations to assist Canadians in countries threatened by imminent conflict and turmoil, as we have**
+done in Haiti.
+
+In the new security environment, the Canadian Forces could find themselves in situations where they are conducting
+several of these operations simultaneously in one theatre.
+
+
+-----
+
+###### Arms control
+
+The Canadian Forces will participate in the
+Government’s efforts to prevent the
+proliferation of weapons of mass destruction,
+including through the Proliferation Security
+Initiative. This global effort, initiated by the
+United States in 2003, is aimed at stopping
+shipments of weapons of mass destruction, as
+well as their delivery systems and related
+materials, between state and non-state actors
+of concern. It employs a variety of
+instruments, including intelligence sharing
+and maritime interdiction operations. Canada
+became a full-fledged member in 2004. The
+Canadian Forces will explore specific ways in
+which they can contribute to international
+operations conducted as part of this initiative.
+They will also continue to carry out
+conventional weapons inspections and
+verification measures.
+
+###### FUTURE TASKS OF THE CANADIAN FORCES
+
+To support Canada’s role in contributing to
+international peace and stability, the Canadian
+Forces, with the addition of 5,000 Regular and
+3,000 Reserve personnel, will be able to sustain
+the continuous deployment of up to 5,000
+personnel around the globe.
+
+
+#### AND MORE SECURE WORLD
+
+**Kabul, Afghanistan—A Canadian military police master corporal teaches Afghan**
+police trainees how to apply handcuffs safely.
+
+
+In terms of specific contributions to
+international operations, the Canadian Forces will be
+capable of performing the following tasks.
+
+With respect to national assets, the Canadian Forces will
+be able to:
+
+- sustain for up to six months the command element
+of the Standing Contingency Task Force, either
+land- or sea-based, capable of multinational leadnation status in peace support operations; and
+
+- sustain indefinitely the national command element
+of a Mission-Specific Task Force overseas. It will
+also be capable of multinational lead-nation status
+in peace support operations for more limited
+periods.
+
+
+With respect to special operations forces, the Canadian
+Forces will be able to:
+
+- sustain for up to six months the deployment
+overseas of the Special Operations Group;
+
+- provide special operations elements to support the
+Standing Contingency Task Force or another
+Mission-Specific Task Force in order to enhance
+their covert surveillance and other capabilities;
+
+- provide an enhanced Joint Task Force 2 to conduct
+operations such as the evacuation of Canadians and
+other non-combatants from areas of conflict; and
+
+- provide an enhanced Joint Nuclear, Biological and
+Chemical Defence Company for overseas
+operations, including as part of NATO missions.
+
+
+-----
+
+#### AND MORE SECURE WORLD
+
+The Maritime Forces will be able to:
+
+  - sustain indefinitely the deployment
+overseas of two ships (one from each coast)
+with embarked maritime helicopters, or a
+submarine and a ship, for operations in
+direct support of the Special Operations
+Group or as forward elements of the
+Standing Contingency Task Force
+anywhere in the world;
+
+  - sustain for up to six months a task group of
+up to four combatant vessels with the
+capability for a national or multinational
+command component for operations
+abroad. This task group will be capable of
+precision fire and support to forces ashore
+and will be used as an integral element of
+the Standing Contingency Task Force or in
+support of other national objectives; and
+
+  - deploy a second task group for up to six
+months, either as a follow-on force to the
+Standing Contingency Task Force or as
+part of a separate Mission-Specific Task
+Force.
+
+The Air Forces will be able to:
+
+
+
+- provide assured airlift to support
+international operations;
+
+- provide a globally deployable special
+operations aviation capability to the Special
+Operations Group;
+
+
+**Halifax, Nova Scotia—Civilian employees prepare cargo to be loaded onto**
+HMCS Preserver.
+
+      - up to six medium-to heavy-lift helicopters to
+support land operations;
+
+
+
+- sustain indefinitely the deployment overseas of two
+embarked maritime patrol helicopters (one on each
+coast) and one Aurora maritime patrol aircraft as
+the forward element of the Standing Contingency
+Task Force anywhere in the world;
+
+- provide for up to six months an Air Expeditionary
+Unit as an integral element of the Standing
+Contingency Task Force. This unit would be
+comprised of:
+
+  - up to two Aurora maritime patrol aircraft to
+support land- and sea-based elements,
+
+  - up to six maritime helicopters for deployment
+with the naval task group, and
+
+
+
+- sustain indefinitely overseas an Air Expeditionary
+Unit as an integral element of a deployed MissionSpecific Task Force. This would consist of:
+
+  - up to six medium-to heavy-lift helicopters to
+support land operations;
+
+- deploy for up to six months to a prepared base in a
+secure location an Air Expeditionary Unit as an
+integral element of a Mission-Specific Task Force.
+This would consist of:
+
+  - one Airbus configured for air-to-air refueling,
+and
+
+  - six CF-18 aircraft for air-to-ground missions.
+
+
+-----
+
+The Land Forces will be able to:
+
+- provide light forces to support the Special
+Operations Group, capable of integrating
+with Joint Task Force 2 elements;
+
+- provide the land component of the Standing
+Contingency Task Force, capable of
+embarking and operating from a maritime
+platform;
+
+- sustain overseas for an indefinite period two
+land task forces, potentially in different
+theatres of operations, to form the land
+component of Mission-Specific Task Forces.
+While currently limited to approximately
+700 personnel, these land task forces will
+increase to approximately 1,200 personnel. In
+addition, the land forces will be able to
+provide a smaller, third task force of
+approximately 1,000 personnel for a sixmonth period, either to reinforce a current
+operation or to mount a new short-term
+mission. Overall, the land forces will
+effectively double their capacity to undertake
+and sustain operations; and
+
+- provide a brigade headquarters, capable of
+commanding a multinational formation for a
+year, as part of a larger Canadian
+international effort.
+
+In the area of humanitarian support and disaster
+_relief, the Canadian Forces will, among other_
+things:
+
+- provide an enhanced Disaster Assistance
+Response Team, or its component parts, for
+humanitarian assistance missions overseas.
+
+
+#### AND MORE SECURE WORLD
+
+**Kandahar, Afghanistan—Canadian soldiers practising unarmed**
+combat techniques.
+
+
+-----
+
+he Canadian Forces are a vital national
+institution. Throughout Canada’s history, in
+both war and peace, our men and women in
+
+# T
+
+uniform have made a difference—protecting our people
+and territory, defending our interests and values, and
+assisting others in need around the world. They have
+performed these missions while accepting without
+hesitation the principle of “unlimited liability” and all
+that entails. They have formed an important part of our
+national character, helping make us who we are as a
+people. Our identity, prestige and influence
+internationally have always been linked to the strength
+and viability of our military.
+
+In today’s security environment, where unpredictability
+has become the dominant theme, the Canadian Forces
+have a critical role to play, along with other government
+departments and agencies, in protecting Canadians. To
+fulfill this role, they must be effective, relevant and
+responsive, with the ability to address threats both at
+home and overseas—whether in the remote regions of
+our North or in failed states half a world away.
+
+This document has set out a new vision for the
+Canadian Forces in the 21st century. It calls for a
+transformed military, with the right capabilities, the
+right equipment and technologies, and the right
+command and operational structures and leadership to
+perform effectively in demanding operations. It will be
+a fully integrated force, capable of bringing to bear all
+its resources to produce focused and precise results.
+
+The success of Canada’s military will ultimately
+depend, as it has in the past, on its people—their
+professionalism, their skill and their training. At home,
+they will need to be more vigilant and more innovative
+than ever in defending our citizens and territory against
+new and emerging threats, while continuing to perform
+such essential missions as search and rescue and disaster
+relief. They will rise to this challenge.
+
+Overseas, recent experience in such places as
+Afghanistan, Bosnia and Haiti has taught us that our
+military personnel will be called upon to perform
+wide-ranging tasks, from delivering humanitarian
+assistance, to separating warring factions, to
+establishing the conditions—even in the midst of
+conflict—for the rule of law, democracy and
+prosperity to take root. To operate in these dangerous
+
+
+missions, the Forces must first be combat-capable.
+Only then will they be able to call on their other skills,
+including the ability to work with local populations.
+This ability, which inspires and encourages locals to
+take a direct stake in establishing their own security
+and stability, makes the Canadian Forces a valuable
+and much-in-demand commodity overseas.
+
+In performing such roles, Canada’s military will be
+defending our interests and promoting our values. It
+will also be reflecting and helping build our national
+character, just as it did in previous conflicts of a
+different nature. And just as our military did in the
+past, the Canadian Forces will strengthen our
+reputation as a country that is committed to finding
+enduring solutions to global problems.
+
+This defence policy is designed for Canada, for
+Canadians, and for the men and women of National
+Defence, both military and civilian. The Government
+has made major investments in the Canadian Forces,
+both in terms of people and equipment, to ensure that
+this policy can be implemented and that the institution
+can meet the threats of the coming century. By doing so,
+Canada will also enhance its credibility in the eyes of
+friends and allies who share the same principles and
+objectives in pursuit of a better world.
+
+Our military has a long and proud tradition of
+excellence. This policy will allow the Canadian Forces
+to continue that tradition. Canadians, and their armed
+forces, deserve nothing less.
+
+
+-----
+

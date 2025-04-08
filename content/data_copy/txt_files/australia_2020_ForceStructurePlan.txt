@@ -1,0 +1,3027 @@
+## FORCE STRUCTURE
+### PLAN
+
+
+-----
+
+-----
+
+-----
+
+#### 2
+
+© Commonwealth of Australia 2020
+
+ISBN: 978-0-9941680-6-1
+
+This work is copyright. Apart from any use as permitted under the
+
+Copyright Act 1968 (Cwth), no part may be reproduced by any process
+
+
+-----
+
+#### 3
+
+
+#### ` Contents
+
+Chapter One: 2020 Force Structure Plan. . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Chapter Two: A New Way Of Managing Capability And Preparedness. . . . . . . 17
+Chapter Three: Information And Cyber Domain. . . . . . . . . . . . . . . . . . . . . . . 27
+
+Joint cyber. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Joint command, control, communications and computers (C4) . . . . . . . . 28
+Joint intelligence, surveillance and reconnaissance. . . . . . . . . . . . . . . . . 29
+Joint electronic warfare. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Strategic intelligence and cyber. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Enhanced cyber security defences. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+Chapter Four: Maritime Domain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+Maritime surface and above water combat. . . . . . . . . . . . . . . . . . . . . . . 35
+Undersea warfare . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Maritime mine warfare, patrol and geospatial. . . . . . . . . . . . . . . . . . . . . 39
+Maritime combat support and amphibious . . . . . . . . . . . . . . . . . . . . . . . 41
+Maritime command and control, communications,
+computers, cyber, intelligence, surveillance,
+reconnaissance and electronic warfare (C5ISREW). . . . . . . . . . . . . . . . . 42
+
+Chapter Five: Air Domain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+Air combat. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Air intelligence, surveillance, reconnaissance and electronic warfare. . . . 52
+Air mobility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Combat air support. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Integrated air and missile defence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+Maritime patrol and response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+
+-----
+
+#### 4
+
+
+Chapter Six: Space Domain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+Space services. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Space control. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+
+Chapter Seven: Land Domain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+Land combat vehicles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Land combat support. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Land combat mobility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Battlefield aviation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Dismounted systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Special operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Land intelligence, surveillance, reconnaissance
+and electronic warfare . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Land command, control, communications
+and computers (C4). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Chapter Eight: Defence Enterprise Programs. . . . . . . . . . . . . . . . . . . . . . . . 81
+
+Geospatial information and intelligence. . . . . . . . . . . . . . . . . . . . . . . . . 81
+Guided weapons and explosive ordnance. . . . . . . . . . . . . . . . . . . . . . . . 82
+Defence training and simulation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .83
+Recapitalisation of Reserves. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+Defence business enterprise architecture
+and transformation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+Joint logistics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+
+Chapter Nine: Australia’s Defence Industry. . . . . . . . . . . . . . . . . . . . . . . . . . 89
+
+Maximising industry opportunities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
+Driving innovation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+Defence’s current innovation system. . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+The future Defence innovation system. . . . . . . . . . . . . . . . . . . . . . . . . . 98
+
+
+-----
+
+#### 5
+
+
+Chapter Ten: Defence Workforce. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+
+People are key to Defence capability. . . . . . . . . . . . . . . . . . . . . . . . . . 103
+Defence is transforming its workforce. . . . . . . . . . . . . . . . . . . . . . . . . 104
+A skilled and professional workforce to meet changing requirements. . . 104
+The Australian Defence Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+Australian Public Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+Enabling functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+Delivering the future workforce . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+
+Chapter 11: Defence Information And Communications Technology. . . . . . . 111
+
+Defence ICT transformation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+
+Chapter 12: Defence Estate. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+
+Defence estate investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+
+
+-----
+
+#### 6
+
+
+-----
+
+# 1
+
+
+-----
+
+-----
+
+#### 9
+
+
+#### ` Chapter One: 2020 Force
+ Structure Plan
+
+1.1 This 2020 Force Structure Plan details the Government’s intentions for
+new and adjusted Australian Defence Force (ADF) capability investments
+to implement the new strategic objectives in the 2020 Defence Strategic
+_Update. It links Defence’s capability plans with Defence’s reform program,_
+the More Together: Defence Science and Technology Strategy 2030 for
+innovation, and resourcing plans. This Plan also builds on existing defence
+industry initiatives, such as the 2016 Defence Industry Policy Statement
+and the Defence Export Strategy, to maximise Australian industry
+involvement in Defence projects.
+
+1.2 The 2020 Defence Strategic Update sets out the Government’s new
+strategic policy framework for Defence, providing clearly identified
+geographic, operational, and capability priorities. It sets out three new
+Government-directed strategic objectives for Defence: to shape Australia’s
+strategic environment; deter actions against Australia’s interests; and
+respond with credible military force, when required. This framework is
+intended to provide a focus for planning, and alignment with broader
+Government initiatives.
+
+1.3 To meet these goals the ADF needs to adjust, adapt and respond on a
+continual basis. As a result of the major force structure changes initiated
+by Government in the 2016 Defence White Paper, the ADF is a more
+capable, agile and potent force. Delivery of the majority of these plans will
+continue under the 2020 Force Structure Plan.
+
+1.4 In line with the 2015 First Principles Review, Defence undertakes
+regular reviews of its planning to ensure alignment of strategy, capability
+and resources in ways that are responsive to the evolving strategic
+environment.
+
+
+-----
+
+-----
+
+#### 11
+
+
+1.5 The 2020 Force Structure Plan is the product of this regular review,
+which found that adjustments are now required to further improve the
+lethality of the ADF, provide the Government with more flexibility to deal
+with grey-zone challenges, adapt to accelerating technological advances,
+and increase Defence’s ability to successfully project military power.
+This review has been informed by assessments from Australia’s security
+agencies and partners, as well as clear guidance from Government.
+Experimentation and analysis, conducted in Australia and overseas,
+tested both the current force and proposed new capabilities against a
+broad range of classified scenarios over a 20 year period and managing
+a number of concurrent tasks. The major decisions, key capability plans,
+and significant adjustments to the 2016 White Paper plan informed by this
+work are outlined in the 2020 Defence Strategic Update and this Plan.
+
+1.6 The 2020 Force Structure Plan also expands on the 2016 Defence
+_White Paper investment to build a sovereign industrial base that is_
+internationally competitive, innovative and high-tech to meet Australia’s
+defence capability needs and national economic goals. This investment
+will deliver an ADF better suited to meet Australia’s most pressing defence
+challenges, to deny or defeat threats as they arise and provide significant
+opportunity for Australian industry. It will ensure the ADF is better
+supplied, more resilient and able to sustain a technology edge into a more
+challenging future.
+
+1.7 The range of capabilities that Defence will maintain, develop, enhance and
+acquire under the 2020 Force Structure Plan will provide the Government
+with a flexible range of options to deliver the Government’s objectives to
+shape Australia’s strategic environment; deter actions against Australia’s
+interests; and respond with credible military force. While all capabilities
+can contribute military effects relevant to the Government’s objectives,
+examples of the Force Structure Plan’s support for the Government’s
+priorities include:
+
+
+-----
+
+#### 12
+
+
+
+    - _Arafura and Guardian class patrol vessels, a new Pacific support_
+vessel, an expanded replacement for the C-130J fleet, and new
+amphibious vessels will support an enhanced Defence posture and
+whole-of-government efforts to build Australia’s partnerships and
+influence in the region, including the Pacific Step-up objectives.
+
+    - _Attack class submarines, advanced long-range strike weapons,_
+remotely piloted combat aircraft, sea-mining and offensive cyber
+capabilities able to hold adversary forces and infrastructure at risk
+further from Australia.
+
+    - Increased weapons inventories, expanded domestic munitions
+capacity, additional fuel storage capacity and increased domestic
+industry participation will provide a more durable supply chain and
+strengthen sovereign industrial capabilities to enhance the ADF’s
+self-reliance.
+
+    - Enhanced special forces capabilities, strengthened operational
+cyber, integrated intelligence surveillance and reconnaissance, and
+increased space tracking and sovereign satellite systems will better
+enable the ADF to respond to grey-zone activities, including cyber
+and information operations.
+
+    - Expanded deployable health care and combat engineering
+capabilities, future multi-role sealift and replenishment vessels,
+and further mobilisation measures will enhance ADF support to civil
+authorities in response to national crises and natural disasters, such
+as pandemics, bushfires or floods.
+
+1.8 The Government will also continue to invest in the highly skilled Defence
+workforce, which will be critical to the successful delivery and operation of
+the capabilities set out in the 2020 Force Structure Plan.
+
+
+-----
+
+#### 13
+
+
+1.9 To deliver the 2020 Force Structure Plan, the Government intends to
+provide Defence, including the Australian Signals Directorate, with total
+funding over the decade to 2029-30 of $575 billion, including
+$270 billion in capability investment.
+
+1.10 To ensure Defence remains responsive to the challenges of today and to
+
+those in the future, adjustments have been made to several investments
+planned in the 2016 Defence White Paper. These are necessary to deliver
+other priorities that will ensure the future ADF can project military power
+to shape our environment, deter actions against our interests and, when
+required, respond with effective military force.
+
+
+-----
+
+-----
+
+# 2
+
+
+-----
+
+##### Intentionally blank
+
+
+-----
+
+#### 17
+
+
+#### ` Chapter Two: A New Way
+ Of Managing Capability And Preparedness
+
+2.1 The 2016 Defence White Paper introduced a framework for Defence
+capability based around streams and programs, to ensure a joint and
+integrated approach to capability, rather than a focus on individual
+projects.
+
+2.2 Building upon the White Paper intent to move toward improved joint and
+integrated program outcomes, the capability streams have been refined
+into five operational domains: Information and Cyber, Maritime, Air,
+Space, and Land, supported by the critical enabling capabilities of the
+Defence Enterprise. To effectively manage and deliver capability across
+each domain, they are broken into 35 future capability programs with
+dedicated capability managers. This new architecture is detailed in
+Diagram 1.
+
+
+-----
+
+#### 18
+
+
+###### Diagram 1 – Defence’s Capability Program Architecture
+
+**Lan**
+
+**L**
+
+**Defence Enterprise**
+
+**Geospatial information and intelligence**
+**Guided Weapons & explosive Ordnance**
+**Joint logistics**
+**Training areas and simulation**
+**Defence business enterprise architecture & transformation**
+**Enterprise information & communications technology**
+**Asymmetric & advanced warfighting**
+**Estate & infrastructure**
+**Innovation, science & technology**
+
+**ce** **s**
+
+**e** **c**
+
+ac
+
+
+-----
+
+#### 19
+
+
+2.3 Effective delivery of Defence capabilities requires the holistic employment
+of a range of assets (such as equipment) and resources (such as
+personnel) to generate a greater impact than could otherwise be delivered
+by individual projects. Defence will adjust and refine its investment
+across capability acquisition, sustainment and personnel costs to ensure
+a balanced capability outcome. Modern warfare is a joint activity and
+requires the greatest possible degree of integration across all elements.
+
+2.4 Viewing capability through this model is intended to ensure a more
+comprehensive approach to modernisation and force planning. This will
+be implemented through an improved capability development architecture
+that strengthens the roles, responsibilities and accountabilities of those
+tasked with delivering capabilities in each domain. It will focus on
+achieving the greatest possible warfighting effects with a clear framework
+for engaging with industry.
+
+2.5 The Government is providing long-term funding certainty for Defence so it
+can deliver the Force Structure Plan set out in this document. To provide
+this certainty, the Government is continuing its policy of providing a
+10-year funding model for Defence, first articulated in the 2016 Defence
+_White Paper. This will provide Defence, including the Australian Signals_
+Directorate, with total funding of $575 billion to 2029 30.
+
+2.6 The total funding of $575 billion over the decade includes around
+$270 billion in capability investment, compared to $195 billion in
+capability investment for the decade to 2025-26 when the 2016 Defence
+_White Paper was released. The Defence budget has been decoupled from_
+GDP forecasts to avoid the need for adjusting Defence’s plans in response
+to future fluctuations in GDP.
+
+
+-----
+
+#### 20
+
+
+2.7 While the investment profile outlined in the 2020 Force Structure Plan
+focuses on the first ten years of investment, it also includes forecasts for
+the second decade for key capability investments. A simple breakdown of
+investment by domain for the next decade is outlined in Chart 1.
+
+###### Chart 1 – Proportional Capability Investment for the
+ Decade 2020-2030*
+
+
+2%
+
+
+Air Domain
+Other Enterprise and
+Enabler Programs
+Enterprise Information
+Communication Technology
+Enterprise Infrastructure
+and Estate
+Information and Cyber Domain
+Land Domain
+Maritime Domain
+Space Domain
+
+
+
+- These percentages are rounded numbers and may not equate exactly to the
+domain capability investment figures.
+
+
+-----
+
+#### 21
+
+
+###### INVESTMENT FUNDING DEFINITIONS
+
+
+(1) 2020-2030 Capability Investment – All 2020-2030
+
+planned investment figures provided for Capability Domains are
+in price basis 2019-20 Mid-year Economic and Fiscal Outlook
+(MYEFO) Out-turned Price and Exchange unless otherwise stated.
+These figures comprise acquisition and future sustainment funding
+of Defence capabilities. Figures provided in this publication are
+point-in-time estimates and will be regularly adjusted in line with
+Commonwealth Budget processes.
+
+(2) Key Investment Chart Forecasts – All capability forecasts
+
+included in the domain investment charts are in price basis
+2019-20 MYEFO Out-turned Price and Exchange unless otherwise
+stated. These figures incorporate forecasted Defence capability
+investment out to FY2039-40, comprising acquisition (only)
+estimates unless otherwise stated. Figures provided in this
+publication are point-in-time estimates and will be regularly adjusted
+in line with Commonwealth Budget processes.
+
+(3) Out-turned vs Constant Year dollars – The out-turned
+
+values within the 2020 Force Structure Plan are projections of
+expenditure over time based on estimates of when expenditure
+is anticipated to occur into the future, adjusted for inflation and
+foreign exchange. These expenditure projections are calculated
+using economic parameters that are periodically updated by the
+Departments of Finance and Treasury. While this Plan reflects
+only out-turned dollars, Defence projects may sometimes also be
+expressed in constant dollar terms. This is where the cost of a
+project is described in ‘current day’ dollars as opposed to its cost
+into the future. For projects of shorter duration and low exposure to
+
+
+-----
+
+#### 22
+
+
+foreign currencies the difference between out-turned and constant
+dollars is generally small. For projects that run for many years, or
+even decades, and that have higher exposure to foreign currencies,
+the differences between out-turned and constant dollars can be
+substantial for the same project value. For example, the Attack class
+submarine acquisition cost is currently $89.7 billion in 2019-20
+MYEFO out turned dollars, which adjusts for inflation and projected
+foreign exchange variations; when isolated from these factors, the
+cost remains $50 billion in 2016 constant dollars. The out-turning of
+project estimates enables the purchasing power of a project budget
+to remain current in the year expenditure and capability delivery is
+planned to occur.
+
+
+-----
+
+#### 23
+
+
+##### Intentionally blank
+
+
+-----
+
+-----
+
+# 3
+
+
+-----
+
+#### 26
+
+
+-----
+
+#### 27
+
+
+#### ` Chapter Three: Information
+
+ And Cyber Domain
+
+3.1 Defence is becoming more reliant on fast, reliable and secure internetbased communications. But the threat to this connectivity from malicious
+actors is also growing. There has been a marked increase in cyber-attacks
+against Australia by foreign actors and criminals.
+
+3.2 Secure and resilient information systems are essential to Defence’s
+ability to conduct operations. The Government’s plans for investments in
+Defence’s information warfare capabilities in the Information and Cyber
+domain are critical to ensure information can be securely and reliably
+shared across Defence, with other Government agencies, and with
+international partners. Future planned investments will protect Defence
+in cyberspace and enable operations against adversary systems. These
+plans include investments in offensive cyber and operational cyberspace
+capabilities for deployed forces.
+
+3.3 In addition to cyber capabilities, the Government plans to make additional
+investments in enhanced information and electronic warfare systems,
+and in improved joint command, control and communications systems
+to strengthen Defence’s warfighting capability. Proposed investments
+would improve network security and resilience, and the capacity to share
+information with international partners. Furthermore, Defence intelligence
+capability will be bolstered with funding to integrate intelligence,
+surveillance and reconnaissance programs and data, and continued
+investment in signals intelligence capabilities. Funding will be set aside
+to ensure Defence remains competitive in the future as emerging
+technologies, such as artificial intelligence, arise in this domain.
+
+3.4 The total program of investment in strengthened Information and
+Cyber domain capabilities is expected to comprise approximately
+$15 billion over the next decade.
+
+
+-----
+
+#### 28
+
+
+##### Joint cyber
+
+3.5 In an environment where threats to connectivity are becoming more
+prevalent, the ability of the ADF to operate in a contested, congested
+and degraded communications environment forms the foundation of
+joint cyber effects. Investment in joint cyber provides strategic response
+options for Government in the increasingly important information-enabled
+environment, complementing the capability of the Australian Signals
+Directorate. This requires cyber capabilities able to exploit and attack
+adversary information networks, while protecting our own networks,
+mission systems and platforms across the tactical to strategic spectrum.
+This program provides the systems to enable Defence to conduct
+defensive and offensive cyber operations against a range of adversaries
+for military purposes, and to effectively counter cyber attacks on Australia,
+on Defence, and on deployed forces.
+
+##### Joint command, control, communications
+ and computers (C4)
+
+3.6 Synchronised control of forces across the spectrum of operational and
+strategic effects is vital to realise the full value of existing and new
+capabilities. C4 capabilities enable decision-making superiority, enhance
+situational awareness and synchronise the employment of military power.
+Secure connectivity of this kind will be a force multiplier for Australia, and
+an important element of Defence’s capability edge. It will allow the sharing
+of secure information among Defence units, with other Government
+agencies, and – importantly – with our coalition partners.
+
+3.7 The Government’s plan for the ADF’s joint C4 capabilities include
+upgrades to the Deployable Joint Force Headquarters and the 1st Signals
+Regiment, to make Headquarters’ communications capability more
+deployable and survivable. This will complement ongoing investment in
+
+
+-----
+
+#### 29
+
+
+tactical datalinks, cryptographic equipment, multinational information
+sharing systems, command and control software applications, and high
+frequency radios.
+
+##### Joint intelligence, surveillance
+ and reconnaissance
+
+3.8 To ensure the ADF has superior situational awareness and the data
+necessary to support the use of precision weapons, an integrated
+joint intelligence, surveillance and reconnaissance capability is vital.
+Government is already investing in the integration of intelligence,
+surveillance and reconnaissance data, and the ADF Navigation
+Warfare Capability.
+
+3.9 The Government will expand on this investment with additional funding
+for joint processing, exploitation and dissemination capabilities,
+and infrastructure. This includes enhanced architecture to allow the
+coordination and integration of intelligence, surveillance, reconnaissance,
+and electronic warfare capabilities across the Joint Force.
+
+3.10 As part of an integrated approach to capability, additional investments in
+
+training, joint skilling and security are planned, including:
+
+    - Upgrades of joint intelligence training facilities to meet the needs
+of a larger intelligence workforce working within an increasingly
+challenging intelligence environment;
+
+    - The modernisation of ADF influence activities with an advanced
+internet operations capability to support Defence’s capacity to shape
+Australia’s operating environment; and
+
+    - Establishment of a dedicated and leading-edge
+counter-intelligence capability to account for a growing
+range of threats to intelligence security.
+
+
+-----
+
+#### 30
+
+
+##### Joint electronic warfare
+
+3.11 In addition to having secure communications of its own, it is equally
+
+important that Defence can degrade the electronic systems of
+adversaries. The Government is already investing in joint electronic
+warfare battle management and analysis, which will be further enhanced
+through investment in capability to enable operations and activities in
+the electromagnetic spectrum. This will include the delivery of tools,
+techniques and systems that can be incorporated into existing and related
+joint and Service projects.
+
+##### Strategic intelligence and cyber
+
+3.12 The Government has previously committed to significant ongoing
+
+investment in signals intelligence systems and cyber operations to
+respond to the growing role these play in meeting requirements for
+national intelligence. With the significant expansion and use of platform
+sensors and systems by military forces, the ability to utilise this
+information environment will strengthen Defence’s warfighting capability.
+This includes capabilities that will improve Australia’s capacity to collect,
+exploit, and analyse foreign electronic signals. The Government plans
+further investment in expanding and upgrading systems for delivering top
+secret information and communications within Defence and across the
+broader national security community.
+
+##### Enhanced cyber security defences
+
+3.13 The Government’s strategy includes continuing to strengthen the
+
+intelligence and cyber capabilities of the Australian Signals Directorate,
+which are critical for identifying and responding to foreign threats
+targeting Australian interests. The Government has committed to enhance
+the Australian Signals Directorate’s capability to protect government
+
+
+-----
+
+#### 31
+
+
+agencies, critical infrastructure, businesses and the Australian community
+from the growing scale and severity of malicious cyber activity.
+
+3.14 The Government has also committed to expand the Australian Signals
+
+Chart 2 - Cyber Domain
+
+Directorate’s counter-cybercrime capability to disrupt malicious actors
+offshore that are targeting Australians, and build new strategic mitigation
+options to block malicious cyber activity before it can impact networks in
+Australia. Enhanced support will also be provided to critical infrastructure
+providers across Australia, strengthening their cyber defences and
+building resilience in essential services.
+
+
+###### Chart 2 - Key Information and Cyber Domain Investments
+
+
+-----
+
+#### 32
+
+
+-----
+
+#### 33
+
+# 4
+
+
+-----
+
+#### 34
+
+
+-----
+
+#### 35
+
+
+#### ` Chapter Four: Maritime Domain
+
+4.1 The Maritime domain is of particular significance to Australia, an island
+nation surrounded by one of the world’s largest exclusive economic zones,
+rich in resources, through which the vast majority of our international
+trade transits. Countries across the Indo-Pacific region are expanding and
+modernising their maritime forces. Within our region, a range of advanced
+technologies are being fielded, including stealthy, long-range, high-speed
+weapons; modern warships; growing numbers of advanced submarines;
+and advanced strike capabilities. These have the potential to challenge our
+ability to protect our maritime resources, borders and trade, and our ability
+to project power.
+
+4.2 The 2016 Defence White Paper laid the framework for the largest
+expansion of the Royal Australian Navy since the Second World War. The
+_2020 Force Structure Plan sets out a total planned capability investment_
+of approximately $75 billion over the next decade in enhancing Australia’s
+maritime capabilities.
+
+4.3 This expanded maritime force will provide greater capability for anti
+submarine warfare, sealift, border security operations, maritime patrol
+and reconnaissance, air warfare, area denial, sea control and undersea
+warfare. It will also provide more opportunities for Australian industry, to
+be reflected in an update to the Naval Shipbuilding Plan in late 2020.
+
+##### Maritime surface and above water combat
+
+4.4 Under the 2016 Defence White Paper, Government made extensive
+investments in Australia’s surface warfare capability to safeguard
+Australia’s maritime approaches and sea lines of communication. As a
+result, Defence has made significant progress toward building a more
+robust capability for maritime air and missile defence, maritime strike,
+anti-submarine and anti-surface warfare.
+
+
+-----
+
+#### 36
+
+
+4.5 The Government will continue with its investments in:
+
+    - Acquisition and sustainment of nine Hunter class frigates
+optimised for anti-submarine warfare, for an increasingly
+competitive undersea environment;
+
+    - Sustainment and upgrades to the three Hobart class destroyers
+to maintain these as leading-edge air warfare platforms to protect
+deployed naval forces;
+
+    - Sustainment and upgrades to the eight ANZAC class frigates to
+maintain the Navy’s strategic edge in surface combatant capability.
+
+    - Acquisition of maritime strike and advanced surface-to-air weapon
+systems to give the ADF more options to project force and protect
+itself in an environment where more countries have increasingly
+advanced systems;
+
+    - Acquisition and through-life upgrades of the MH-60R
+anti-submarine helicopter;
+
+    - Expanded acquisition of maritime tactical remotely piloted aerial
+systems to enhance situational awareness across Australia’s vast
+maritime operating environment; and
+
+    - Provision of a torpedo self-defence suite to the surface fleet to
+counter advances in torpedo systems in our region.
+
+4.6 To project and maintain sea control the Government has put in place
+investment plans to:
+
+    - Acquire a range of advanced maritime guided weapons, including
+long-range anti-ship and land strike weapons, and extended range
+surface-to-air missiles, to give Defence more options to deter
+aggression against Australia’s interests;
+
+
+-----
+
+#### 37
+
+
+
+    - Acquire advanced anti-submarine torpedos for air and surface
+assets, to build collaborative anti-submarine capability among
+Australia’s partners;
+
+    - Participate in the development of directed energy weapons for
+the close range defence of naval vessels against advanced and
+emerging weapon systems;
+
+    - Expand and rationalise the support and logistics helicopter fleet
+consistent with the expectations for larger naval operations;
+
+    - Upgrade maritime tactical remotely piloted aerial systems to ensure
+they are equipped with the latest intelligence, surveillance and
+reconnaissance capabilities to support the fleet;
+
+    - Upgrade the Hunter class frigates throughout their service life to
+ensure tactical superiority and commonality across the fleet; and
+
+    - Build a replacement for the Hobart class destroyer following the
+completion of the Hunter class frigate build, to sustain the Navy’s
+air warfare capability while also supporting the Government’s
+continuous Australian shipbuilding model.
+
+##### Undersea warfare
+
+4.7 Under the 2016 Defence White Paper, Government set out extensive plans
+for investments in Australia’s undersea warfare capability to safeguard
+Australia’s maritime approaches and sea lines of communication. The
+Government remains committed to the delivery of a regionally superior
+submarine capability. This submarine will be fully interoperable with the
+United States to enhance Australia’s own deterrent, and contribute to
+regional anti-submarine warfare. Further priorities for investment in the
+undersea domain include persistent undersea surveillance; undersea
+combat; command, control, communications; support; sustainment; and
+training sub-systems.
+
+
+-----
+
+#### 38
+
+
+-----
+
+#### 39
+
+
+4.8 In addition to the acquisition and sustainment of 12 Australian-built Attack
+class submarines, the Government intends to continue with:
+
+    - Sustainment, capability enhancements, and life of type extensions
+to the Collins class submarines, which are halfway through their
+life, to maintain a capability advantage until the transition to the
+_Attack class;_
+
+    - Continued upgrades to the submarine combat system and
+heavyweight torpedo; and
+
+    - Facility and infrastructure upgrades to support the expanding
+submarine fleet.
+
+4.9 To further safeguard Australia’s undersea capability, the Government
+will also invest in an integrated undersea surveillance system (including
+exploration of optionally crewed and/or un-crewed surface systems and
+un-crewed undersea systems), an undersea signature management
+range, and expanded undersea warfare facilities and infrastructure.
+
+##### Maritime mine warfare, patrol and geospatial
+
+4.10 Protecting Australia’s large exclusive economic zone requires
+
+understanding of the maritime environment under our control, sustained
+presence, and adapting to new technological developments that could
+increasingly complicate our ability to keep Australian interests safe in the
+Maritime domain.
+
+4.11 Government will continue with its investment in:
+
+    - The acquisition and sustainment of 12 Arafura class offshore
+patrol vessels, to enhance Australia’s capacity to patrol its maritime
+territory and near region;
+
+
+-----
+
+#### 40
+
+
+
+    - Support for the HydroScheme Industry Partnership Program to boost
+Australia’s commercial hydrographic industry;
+
+    - A replacement for the sail training ship Young Endeavour, to
+continue the Government’s commitment to national youth
+development; and
+
+    - The procurement of six evolved Cape class patrol boats to de-risk
+the transition to the new Arafura class from the Navy’s ageing
+_Armidale class patrol boats. This provides better value for money_
+than a planned life extension, lowers operational and transition risk,
+and supports Australian shipbuilding industry.
+
+4.12 To support further advanced operations throughout the ADF’s strategic
+
+operating environment, the Government will improve its capability
+options through:
+
+    - Mine warfare capabilities to secure Australia’s maritime approaches,
+focused on modern, smart sea mine systems.
+
+    - Enhancements to mine countermeasures and hydrographic
+capabilities through the acquisition of up to eight additional vessels,
+built in Australia – potentially based on the Arafura class Offshore
+Patrol Vessel design.
+
+    - Clearance diving and therapeutic hyperbaric systems to support
+ship and clearance diving capabilities across the spectrum of
+operations.
+
+
+-----
+
+#### 41
+
+
+##### Maritime combat support and amphibious
+
+4.13 Amphibious operations, sea lift and maritime combat logistics are
+
+essential for Australia to be able to project power, and to provide Defence
+with the flexibility to support a broad range of responses to national crises
+and regional humanitarian assistance requirements.
+
+4.14 The acquisition of two new Supply class replenishment ships is
+
+progressing alongside sustainment and capability enhancements to
+the two Canberra class and HMAS Choules amphibious vessels, as
+announced in the 2016 Defence White Paper.
+
+4.15 To further expand the ADF’s ability to support an increased presence in
+
+the region, Government’s plans include:
+
+    - Design, development and acquisition of two Australian-built
+multi-role sealift and replenishment vessels to replace HMAS
+_Choules. This will greatly extend Navy’s ability to project and sustain_
+the joint force;
+
+    - Life extension of Australian Defence Vessel Ocean Protector and the
+acquisition of a replacement vessel with an ice-rated hull capable
+of operating in the Southern Ocean, as well as the acquisition
+of another vessel built in Australia to support the Australian
+Government’s Pacific Step-up initiatives; and
+
+    - The acquisition of a support and salvage vessel to enable the
+recovery and at-sea repair of large warships.
+
+
+-----
+
+#### 42
+
+
+##### Maritime command and control, communications, computers, cyber, intelligence, surveillance, reconnaissance and electronic warfare (C5ISREW)
+
+4.16 The ADF’s maritime strategy requires naval and maritime forces to be
+
+highly capable, adaptable and versatile to respond across a range of
+contingencies within Australia’s region.
+
+4.17 To enable decision superiority in the Maritime domain, the Government is
+
+investing in systems that provide high-quality situational awareness and
+improved identification of threats.
+
+4.18 This investment will see the delivery of enhanced secure satellite
+
+communications, advanced tactical networks, mission data support for
+surface combatants, and new acoustic analysis capabilities.
+
+4.19 These enhancements build on existing 2016 Defence White Paper
+
+investments in maritime communications, the Nulka missile decoy and
+electronic warfare systems for the surface fleet.
+
+
+-----
+
+#### 43
+
+
+###### SHIPBUILDING PLAN UPDATE
+
+
+Building on the 2016 Defence White Paper, in 2017 the Government
+launched the Naval Shipbuilding Plan, setting out a long-term vision
+for a strong, sustainable and innovative naval shipbuilding industry in
+Australia. The three years since launching the Plan have seen solid
+progress in the delivery of this vision and, in light of this progress
+and the additional shipbuilding programs flagged in the 2020 Force
+Structure Pan, the Government will update the Naval Shipbuilding
+_Plan at the end of the year._
+
+The two largest programs in the 2017 Plan – the Attack class
+submarines and Hunter class frigates – are now both on contract
+and well into the design phase. The Arafura class offshore patrol
+vessel program is in production, with the first two vessels under
+construction in South Australia and the third under construction
+in Western Australia. The fast-tracking of the Arafura and Hunter
+programs have saved naval construction jobs in South Australia.
+The Government has also prioritised developing a sustainable,
+continuous shipbuilding industry to end the ‘boom and bust’ cycle of
+naval shipbuilding, delivering sovereign capability and certainty for
+industry. In its decision to approve the Hunter class frigate program,
+the Government allocated additional funding to enable construction
+of ships at a deliberate drumbeat over a longer period of time than
+originally planned to achieve a continuous shipbuilding program.
+
+In South Australia the Government has built a new world-class naval
+shipyard at Osborne South to support the Hunter build program and
+work on the new Attack submarine construction yard at Osborne
+North is underway. The Government funded Naval Shipbuilding
+College is working with industry and the education and training
+
+
+-----
+
+#### 44
+
+
+sector Australia-wide to ensure a pipeline of job-ready workers is
+available to feed the naval shipbuilding workforce as it grows over
+the coming decade.
+
+The 2020 Force Structure Plan includes plans for the acquisition
+or upgrade of up to 23 different classes of Navy and Army vessels
+representing a total investment of $168 billion to $183 billon. While
+most of this investment is planned over the next two decades,
+the scope of some projects including the Hunter and Attack class
+programs will carry into the 2040s and beyond. The updated
+_Naval Shipbuilding Plan will provide further detail on the critical role_
+of Australian industry in delivering this enterprise.
+
+
+.
+
+
+-----
+
+#### 45
+
+
+###### Chart 3 – Key Maritime Domain Investments
+Chart 3 - Maritime Domain
+
+**_Attack Class ($89.7b[1])**_**
+
+**_Hunter Class ($45.6b[2])**_**
+
+**_Arafura Class ($4.7b)_**
+
+**_Hunter Class Assurance ($4.9 - $7.4b)*_**
+
+**_Guardian Class Pacific_**
+**Patrol Boat ($513m)**
+
+**_Cape Class Patrol Boats_** **_Future Destroyer Design_**
+**($350m)** **($1.6 - $2.4b)**
+
+**Improved Sea Lift Capability ($500 - $800m)**
+
+**Hydroscheme Industry Partnership Program ($1.5 - $2.2b)***
+
+**Sea Lift and Replenishment Vessels ($4 - $6b)**
+
+**Pacific SPT Vessel** **Replacement LHD Landing**
+**($180-$280m)** **Craft ($300 - $500m)**
+
+**_Young Endeavour_** **_Ocean Protector_**
+**Replacement ($30 - $50m)** **Replacement ($300 - $500m)**
+
+**Future Mine Warfare and Hydrographic Vessels ($3.3 - $5b)**
+
+**MH-60R Sea Hawk ($0.4 - $0.6b)**
+
+**MH-60R Assurance ($1.5 - $2.3b)***
+
+**Logistics Helicopter**
+**($1 - $1.5b)**
+
+**Maritime Uncrewed Aerial System ($0.9 - $1.3b)**
+
+**_Anzac Class Assurance ($1.4 - $2.0b)*_**
+
+**_Hobart Class Upgrade ($2.9 - $4.4b)_** **_Hobart Class Assurance ($1.1 - $1.7b)*_**
+
+**Maritime Guided Weapons ($16.1 - $24.2b)**
+
+**Land Based Maritime Strike Missiles**
+**($400 - $500m)**
+
+**_Collins Class Life of Type Extension ($3.5 - $6.0b)*_**
+
+**Integrated Undersea Surveillance System ($5 - $7.4b)**
+
+**2020** **2025** **2030** **2035** **2040**
+
+Note:* Denotes capabilities which include future sustainment
+
+** Denotes capability acquisition forecasts extending beyond FY2039/40
+1. Additional information on Hunter and Attack class is in the FSP
+
+- Denotes capabilities which include future sustainment
+** Denotes capability acquisition forecasts extending beyond FY2039/40
+1. Additional information on Attack class costs can be found on page.22
+
+2. Additional information on Hunter class costs can be found on page.43
+
+
+-----
+
+-----
+
+#### 47
+
+# 5
+
+
+-----
+
+#### 48
+
+
+-----
+
+#### 49
+
+
+#### ` Chapter Five: Air Domain
+
+5.1 The Air domain is critical to situational awareness during peace time
+operations and rapid response in times of disaster or conflict.
+Throughout our region, countries are acquiring advanced aerial
+capabilities, including networked fifth-generation combat aircraft and
+high-speed, long-range weapons.
+
+5.2 The 2016 Defence White Paper outlined the requirement for a
+potent and technologically advanced strike and air combat capability,
+supported by airborne early warning and control aircraft and sustained
+by air-to-air refuelling. The 2016 Defence White Paper also set out
+planned investments in sophisticated air intelligence, surveillance and
+reconnaissance systems and air lift.
+
+5.3 The 2020 Force Structure Plan sets out the Government’s plans for
+further enhancements to some existing capabilities and investment in new
+systems, including remotely piloted and autonomous aerial systems. This
+will ensure Australia continues to have a potent, networked force able to
+undertake a wide range of activities across huge distances.
+
+5.4 The Government also intends to build on previous commitments with
+plans for new sophisticated command, control, communications,
+computers and intelligence systems to fuse information from multiple
+sources. This, coupled with an expanded Jindalee Operational Radar
+Network, will enhance Australia’s situational awareness.
+
+5.5 Government capability investment in the Air domain will total around
+$65 billion over the next decade. Improved weapon systems, with longer
+range and greater survivability, will give Defence the capability to deter or
+defeat attacks as far from Australia as possible. New and existing aircraft
+will combine with remotely piloted and autonomous systems to provide
+increased lethality and survivability. An expansion of the air mobility fleet
+
+
+-----
+
+#### 50
+
+
+will improve Defence’s ability to support and project our forces across
+Australia, the Indo-Pacific and further afield, when required.
+
+##### Air combat
+
+5.6 Air combat power is a critical capability, both in protecting Australia and
+deployed forces from adversary threats, and giving Australia a credible
+capability to hold at risk an adversary’s forces and infrastructure at
+distance from Australia.
+
+5.7 The Government is committed to the procurement and introduction
+of the F-35A Lightning II Joint Strike Fighter aircraft, support of the
+F/A-18F Super Hornet strike aircraft and acquiring enhanced
+air-launched munitions.
+
+5.8 The Government’s commitment to the ADF’s air combat capability includes
+the development of options to invest in:
+
+
+-----
+
+#### 51
+
+
+
+- A fully integrated air combat management system to meet future air
+combat and air control management needs, and assure the ADF’s
+ability to deter or defeat threats to Australia’s interests amid rapid
+modernisation of air combat capability in the Indo-Pacific;
+
+- A development, test and evaluation program for high-speed
+long-range strike and missile defence, including hypersonic
+weapons, leading to prototypes to inform future investments;
+
+- Acquisition of remotely piloted and/or autonomous combat aircraft,
+including teaming air vehicles, to complement existing aircraft and
+increase the capacity of the air combat fleet;
+
+- Procurement and integration of advanced longer-range strike
+weapon systems onto combat aircraft to allow the Air Force to
+operate at greater range and avoid increasingly sophisticated air
+defences;
+
+- The acquisition of advanced loitering munitions to give the ADF
+more options for persistent presence and strike in an increasingly
+complex environment;
+
+- The installation and integration of improved self-protection systems
+on a range of aircraft to enhance the survivability of aircrew and
+aircraft against modern weapons; and
+
+- Enhanced Joint Terminal Attack Controller training through
+enhancements to the fleet of training aircraft that allow dedicated
+air-to-ground attack controller training.
+
+
+-----
+
+#### 52
+
+
+##### Air intelligence, surveillance, reconnaissance
+ and electronic warfare
+
+5.9 To ensure Australia retains an effective air intelligence, surveillance
+and reconnaissance and electronic warfare capability, Government has
+invested in support and upgrades to the EA-18G Growler electronic attack
+aircraft, and to the Jindalee Operational Radar Network. Defence will also
+bring into service the MQ-9B Sky Guardian remotely piloted aerial system
+and the MC-55A Peregrine airborne electronic warfare aircraft.
+
+5.10 Building on these capabilities, the Government is planning investments
+
+to further strengthen our intelligence, surveillance and reconnaissance
+capabilities to support the ADF’s awareness of our region through:
+
+    - Expansion of the Jindalee Operational Radar Network’s site in
+Longreach, Queensland, to provide wide area surveillance of
+Australia’s eastern approaches and enhance Australia’s strategic
+situational awareness;
+
+    - Development and acquisition of additional crewed and remotely
+piloted intelligence, surveillance and reconnaissance aircraft, to
+increase both the numbers and sophistication of the ADF’s tactical
+and strategic situational awareness;
+
+    - Replacement and expansion of the airborne electronic attack
+capability upon the retirement of the EA-18G Growler to ensure
+Australia retains an advanced electronic attack capability; and
+
+    - Ground control systems to enable situational awareness in heavily
+defended environments and/or where the electromagnetic system is
+contested by adversaries.
+
+
+-----
+
+#### 53
+
+
+-----
+
+#### 54
+
+
+##### Air mobility
+
+5.11 Air mobility is a core air power role, and its availability underpins most
+
+Defence Force activities and Australia’s ability to project power. As a result
+of previous significant Government investment, Australia has a robust
+air mobility capability. Government will maintain this through continued
+investment in support and upgrades to the C-130J Hercules medium
+mobility aircraft, the C-17A Globemaster III heavy mobility aircraft, the
+existing KC-30A Multi-Role Tanker Transport aircraft, and the C-27J
+Spartan light mobility aircraft.
+
+5.12 Government intends to further strengthen the ADF’s air mobility capability
+
+to project and sustain the ADF’s presence in the strategic operating
+environment, including through:
+
+    - Procurement and integration of a Large Aircraft Countermeasures
+System across the Air Mobility Group to enhance the survivability of
+aircrew and aircraft against modern threats;
+
+    - An expanded replacement fleet for the C-130J Hercules aircraft to
+improve the lift capacity of the ADF in response to growing demand
+for these assets; and
+
+    - An expanded replacement fleet for the KC-30A air-to-air refuelling
+aircraft, including crewed and/or remotely piloted platforms, to
+enhance the capacity of the Air Force to operate at long range and
+sustain operations.
+
+##### Combat air support
+
+5.13 Ongoing investment will be required in a range of projects and activities
+
+to enable air operations, including air base operations, air traffic
+management and air crew training activities. This includes the continued
+development of the Woomera Range facility; the upgrade of Defence air
+
+
+-----
+
+#### 55
+
+
+traffic management systems; and upgrades to Air Force training systems
+such as the PC-21 fleet, simulators and training aids.
+
+5.14 The Government’s plans include the following investments to better
+
+sustain operations and strengthen the resilience of Australia’s air power:
+
+    - Three deployable hangars to cater for Boeing 737-sized aircraft and
+eight fighter aircraft or troop-lift helicopter-sized airframes, to better
+sustain operations when deployed away from bases;
+
+    - Training and deployable kits for repairing damaged aircraft, to better
+sustain aircraft deployed on operations;
+
+    - Acquisition of equipment to decontaminate aircraft or an
+airbase in the event of a chemical, biological, radiological or
+nuclear attack; and
+
+    - Infrastructure enhancements to improve the capability, capacity, and
+survivability of Northern Australian air bases, to boost the resilience
+of Australian air power.
+
+##### Integrated air and missile defence
+
+5.15 To protect the joint force, the Government will continue to invest in support
+
+and upgrades for the E-7A Wedgetail airborne early warning and control
+aircraft, as well as the development and support of a joint air battle
+management system to better coordinate and synchronise ADF operations.
+In addition, plans for the E-7A replacement will now involve increasing
+the fleet to provide greater coverage of the highly-complex future air and
+joint-battlefield environment that will include a proliferation of autonomous
+systems and long-range and high-speed weapons.
+
+
+-----
+
+#### 56
+
+
+5.16 The proliferation of ballistic and very high-speed missiles means our
+
+deployed forces require enhanced deployable air and anti-missile defence
+when on operations. In addition to investment in defensive systems,
+the Government will continue to work closely with the United States on
+countering ballistic missile threats.
+
+##### Maritime patrol and response 
+
+5.17 To complement the investment being made in the maritime intelligence
+
+surveillance and reconnaissance program, Defence will continue with the
+procurement and introduction into service of the MQ-4C Triton remotely
+piloted system, and support and upgrades to the P-8A Poseidon maritime
+patrol aircraft. Compared to legacy systems, these provide a significant
+enhancement in Defence’s ability to maintain situational awareness of
+Australia’s maritime approaches.
+
+5.18 In addition, Government will keep under review the future balance
+
+between the MQ-4C Triton, the P-8A Poseidon, and other capabilities in
+light of emerging technological and strategic change.
+
+5.19 To balance its investments in future initiatives, Defence will not proceed
+
+with plans for:
+
+    - Two additional KC-30A Multi-Role Tanker Transports, with increased
+funding directed towards sustainment and spares to allow for
+greater availability of current aircraft;
+
+    - Additional C-17 heavy-lift aircraft, as the C-17 is no longer
+produced. Funding for the C130J replacement program has been
+increased to provide for an expanded replacement fleet; and
+
+    - A dedicated long-range search and rescue capability, with this role
+to be managed by introducing search and rescue capability into
+planning for future air mobility platforms.
+
+
+-----
+
+#### 57
+
+
+Chart 4 – Air Domain
+
+###### Chart 4 – Key Air Domain Investments
+
+
+-----
+
+#### 58
+
+
+-----
+
+#### 59
+
+# 6
+
+
+-----
+
+#### 60
+
+
+-----
+
+#### 61
+
+
+#### ` Chapter Six: Space Domain
+
+6.1 Australia is increasingly reliant on satellite-based capability and services,
+particularly where digital data and information drives decision-making.
+At the same time, low-Earth space orbits are becoming congested with
+increasing numbers of satellites being launched around the world every
+year. The combination of an increasing reliance on space capabilities with
+the capacity limitations of Australia’s legacy systems must be addressed.
+
+6.2 Defence is working closely with the United States and other Combined
+Space Operations Initiative partners, the Australian Space Agency and
+industry to transform the way the ADF operates in space, including in
+relation to satellite communications, space domain awareness, precision
+navigation and timing, and intelligence, surveillance and reconnaissance.
+
+6.3 Our space services and space control programs, along with the Geospatial
+Information and Intelligence program, contribute to Defence operations
+by providing assured access to space capabilities, enabling situational
+awareness and delivering real-time communications and position,
+navigation and timing information.
+
+6.4 Continued investment and development of space capabilities will
+be required to further improve Defence’s resilience and enhance a
+large number of space-dependant capabilities across the Joint Force.
+Investment of around $7 billion in space capabilities over the next decade,
+which includes investment in sovereign-controlled satellites, will provide
+assured access to these services when needed.
+
+
+-----
+
+#### 62
+
+
+##### Space services
+
+6.5 Satellite communications and position, navigation and timing data are
+essential for the command and control of deployed forces. These systems
+enable the sharing of real-time operational and logistical information and
+for the placement, navigation and synchronisation of Defence assets. This
+does not include geospatial-intelligence capabilities which are included in
+Enterprise Programs.
+
+6.6 The Government’s plans include a rolling upgrade program to assure
+position, navigation and timing information in a contested environment.
+Defence is also exploring cutting edge research into additional precision
+timing means.
+
+6.7 The Government will also continue to invest in upgrades and support to
+existing and future satellite communications systems. This investment
+seeks to increase our worldwide capacity through enhanced allied and
+commercial arrangements and includes the provision for network growth
+if the Government deems this desirable in the future. The Government’s
+plans include communications satellites and ground control stations that
+will be under sovereign Australian control, increasing our self-reliance
+and resilience.
+
+##### Space control
+
+6.8 Australia holds a unique geographical position to contribute significantly
+to collective space domain awareness with our allies and partners. Space
+domain awareness enables better tracking and identification of space
+objects and threats, such as space debris, as well as predicting and
+avoiding potential collisions. Defence currently hosts a United States
+C-Band Radar and Space Surveillance Telescope and will continue to build
+our space domain awareness capabilities with the United States and other
+
+
+-----
+
+#### 63
+
+
+key partners into the future. To ensure that we can take full advantage of
+the large volumes of information that will be developed, the Government is
+also investing in growing the intelligence and supporting workforce.
+
+6.9 In addition, Defence will need capabilities that directly contribute to war
+fighting outcomes in the space domain using terrestrial and/or space
+based systems. The Government’s plans include the development of
+options to enhance ADF space control through capabilities to counter
+emerging space threats to Australia’s free use of the space domain and Chart 5 - Space Domain Overview
+that assure our continued access to space-based intelligence, surveillance
+and reconnaissance.
+
+###### Chart 5 – Key Space Domain Investments
+
+
+-----
+
+#### 64
+
+
+-----
+
+#### 65
+
+# 7
+
+
+-----
+
+#### 66
+
+
+-----
+
+#### 67
+
+
+#### ` Chapter Seven: Land Domain
+
+7.1 Throughout its history, Australia’s land forces have responded to a wide
+variety of tasks from humanitarian assistance and disaster relief, to
+peacekeeping and, ultimately, to combat operations. To equip the land
+forces to meet these challenges into the future, new investments are
+planned in strike weapons, watercraft, helicopters, information effects,
+logistics resilience and emerging robotics and autonomous systems.
+
+7.2 These capabilities will increase the land force’s combat power, and give
+the Government more options to deploy the ADF in the more competitive
+environment Australia now faces, and is expected to face into the future.
+Australia’s land forces will be connected, protected, potent and enabled.
+Enhanced mobility, firepower, protection, and situational awareness
+will allow them to rapidly deploy where they are needed, achieve their
+missions, and return home safely. They will be better able to operate
+independently and to integrate with Australia’s partners and allies.
+
+7.3 The programs outlined here will also enhance the ADF’s ability to support
+the nation in times of domestic crisis and to respond into the region for
+humanitarian assistance or stability operations. Enhancements to mobility,
+intelligence and reconnaissance, and special operations forces, among
+others, will give the Government more options to deploy the ADF across
+the full spectrum of national interests. This total package of capability
+investment in the land forces will be worth around $55 billion over the
+next decade.
+
+
+-----
+
+#### 68
+
+
+##### Land combat vehicles
+
+7.4 The Government has made significant investments in the ADF’s amoured
+fighting vehicle capability. Australia has the capability to conduct sustained
+close combat in the land domain, which is critical to ensuring the ADF
+provides a credible deterrent to any threats to our interests. To build the
+ADF’s capability in this regard, the Government’s plans include:
+
+    - Procurement of the Boxer combat reconnaissance vehicle, to be
+built in Queensland, which will enhance the survivability of mounted
+land intelligence, surveillance and reconnaissance elements of the
+combat force;
+
+    - Selection and procurement of infantry fighting vehicles to replace
+the M113AS4 armoured personnel carrier and provide soldiers with
+a modern close combat vehicle with improved survivability;
+
+    - Procurement of a new armoured combat engineering capability to
+ensure the survivability of engineers while supporting land force
+vehicles to bypass or penetrate obstacles during combat; and
+
+    - Upgrades to ensure the M1 Abrams fleet remains a regionally
+superior main battle tank, and measures to improve the
+sustainability of the tank fleet.
+
+7.5 Defence will also develop options for a system to replace the current tank
+capability when it reaches its end of life. This new system will integrate
+with reconnaissance and infantry fighting vehicles to ensure the land force
+retains a decisive land combat capability into the future.
+
+
+-----
+
+#### 69
+
+
+##### Land combat support
+
+7.6 To enable joint land operations, particularly in high-intensity conflicts,
+Defence will require protected capabilities that give land forces the ability
+to shape the battlefield and strike adversaries at a distance. Land forces
+will also require expanded combat engineering capabilities to enable
+mobility and provide survivability and sustainment support.
+
+7.7 Within this program the Government has existing plans for the
+procurement of a long-range rocket artillery and missile system and new
+engineering vehicles.
+
+7.8 To further strengthen capability to shape the battlefield and strike
+in contested environments, enhancements to land combat are
+planned, including:
+
+    - Two regiments of Self-Propelled Howitzers (the core of the
+Protected Mobile Fires capability), to be built in Geelong, Victoria to
+complement existing land-based strike capabilities. This includes
+a future program of upgrades to hardware and software to ensure
+these systems retain their potency over time;
+
+    - The enhancement or replacement of the M777 155mm lightweight
+towed howitzer with a rapidly-deployable and lightweight artillery to
+maximise the flexibility of the ADF’s suite of artillery capabilities;
+
+    - The procurement of a battery of long-range rocket artillery and
+missile systems, upgrades to the range of these systems to enable
+a land based operational strike capability, and the purchase of
+additional units to enable the capability to be expanded into a full
+regiment of three batteries;
+
+    - A future program to develop a directed energy weapon system able
+to be integrated onto ADF protected and armoured vehicles, and
+capable of defeating armoured vehicles up to and including main
+
+
+-----
+
+#### 70
+
+
+-----
+
+#### 71
+
+
+battle tanks. The eventual deployment of directed energy weapons
+may also improve land force resilience by reducing the force’s
+dependence an ammunition stocks and supply lines;
+
+    - Introduction of smart anti-tank mines, which will strengthen the
+ADF’s ability to shape the battlefield;
+
+    - Provision of additional protective equipment, sensors and
+medical supplies for the ADF in operations in chemical, biological,
+radiological and nuclear contaminated environments; and
+
+    - The establishment of a coordination office for the implementation of
+robotics and autonomous systems across the land force to enable,
+enhance and protect platforms and personnel in combat.
+
+##### Land combat mobility
+
+7.9 To provide land forces with the mobility, protection and sustainment they
+require, a range of investments are being made by the Government in land
+mobility and support capabilities, including:
+
+    - The continued construction and maintenance of the Australian built
+Bushmaster and Hawkei protected mobility vehicles in Victoria to
+ensure ADF personnel are protected against explosive and ballistic
+threats on the battlefield;
+
+    - Replacing the ageing fleet of medium and heavy fleet trucks with
+modern, high-capacity vehicles that will protect crews, carry greater
+loads and ensure continuous logistic support to land forces;
+
+    - A bulk fuel storage and distribution system to sustain deployed
+forces across the spectrum of operations; and
+
+    - An ADF Deployable Health System to ensure the best medical care
+for ADF personnel, and to provide a flexible capability for use in
+humanitarian assistance and disaster relief operations.
+
+
+-----
+
+#### 72
+
+
+7.10 To enhance the ADF’s ability to respond to a range of circumstances
+
+across the region, further enhancement will be made to land mobility and
+support through planned investment in:
+
+    - New Army watercraft basing in Northern Australia to support an
+expansion of the Army’s watercraft fleet.
+
+    - Several large amphibious vessels to enhance the amphibious lift
+capacity of the ADF, especially in Australia’s territorial waters and
+near region;
+
+    - A fleet of inshore patrol craft able to expand the Army’s capability to
+patrol and operate in the riverine environment;
+
+    - Additional medical equipment for vehicles and helicopters to ensure
+the safe evacuation of casualties from the battlefield to suitable
+medical facilities;
+
+    - An active protection system for Bushmaster, Hawkei and heavy
+truck protected vehicles and landing craft able to defeat modern
+anti-armour weapons and protect vehicle crews;
+
+    - Acquisition of a fleet, up to a brigade in size, of un-crewed systems,
+to include vehicles, to support operations by land forces. This will
+enhance the war-fighting capability of the ADF while also protecting
+Australian personnel; and
+
+    - Upgrades to the ADF’s current Bushmaster protected mobility
+vehicles to a common standard, incorporating lessons from
+Afghanistan and recent disaster relief operations.
+
+
+-----
+
+#### 73
+
+
+##### Battlefield aviation
+
+7.11 Crewed and remotely piloted airborne platforms and capabilities are
+
+critical for land manoeuvre, by providing transport, battlefield support
+and intelligence, surveillance and reconnaissance. The Government
+will continue with its investments in key battlefield aviation capabilities
+including:
+
+    - Replacement of the Tiger Armed Reconnaissance Helicopter from
+the mid-2020s;
+
+    - Procurement of a special operations rotary wing capability to meet
+the niche demands of special operations;
+
+    - Continued operation of a multi-role troop lift helicopter and the
+CH-47F Chinook multi-mission heavy-lift transport helicopter for the
+provision of mobility, logistic support and aeromedical evacuation of
+land forces; and
+
+    - Continued operation of tactical remotely piloted aerial vehicles to
+provide intelligence, surveillance and reconnaissance in support of
+land forces.
+
+7.12 Investment is also planned in future aviation capabilities to ensure the
+
+land force maintains flexibility in movement and superiority in battlefield
+surveillance and reconnaissance networks, including:
+
+    - Small remotely piloted aerial systems to support the land force’s
+surveillance and reconnaissance capabilities;
+
+    - The acquisition of long-range rotorcraft to enable land force
+projection and support at greater ranges; and
+
+    - In the longer term, the acquisition of a Next Generation
+Rotorcraft will replace elements of battlefield aviation with
+enhanced capabilities.
+
+
+-----
+
+#### 74
+
+
+##### Dismounted systems
+
+7.13 The ADF must have the ability to have a persistent ground presence,
+
+operate in complex terrain, and defeat adversaries through close combat.
+
+7.14 Government will continue to invest in enhanced equipment to enable
+
+and protect soldiers on the modern battlefield. This includes small arms
+and heavy weapons systems, night vision equipment, personal ballistic
+protection and load carrying equipment. To support these programs,
+Defence plans to establish a contested urban environment research office
+to coordinate research into, and the rapid fielding of, constantly evolving
+combat equipment.
+
+##### Special operations
+
+7.15 The Defence special operations capability provides Government with
+
+response options for irregular and conventional threats beyond the
+capability of general-purpose forces or other government agencies. This
+capability will be increasingly important to countering the grey-zone
+threats Australia is likely to face in the future.
+
+7.16 The Government is committed to maintaining Australia’s special forces
+
+capability, and is planning investments in the Special Operations
+Continuous Development Program and a deployable special operations
+engineering capability. The Government’s plans also include investment in
+a replacement fleet of medium/heavy special operations vehicles and the
+acquisition of small submersible and surface boat capabilities to support
+maritime counter-terrorism, special reconnaissance and warfare, and
+precision strike missions.
+
+
+-----
+
+#### 75
+
+
+-----
+
+#### 76
+
+
+##### Land intelligence, surveillance, reconnaissance and electronic warfare
+
+7.17 Defence requires technologically advanced, networked and integrated
+
+systems – including land intelligence, surveillance and reconnaissance
+and electronic warfare capabilities – for joint and coalition operations.
+The protection of land forces also requires cyber and counter improvised
+explosive device (CIED) capabilities. To provide these capabilities, the
+Government will continue its investment in the enhancement of CIED
+protection, geospatial support to land forces, and a land tactical electronic
+warfare capability.
+
+7.18 The Government also plans to acquire a next-generation counter remotely
+
+piloted aerial system to help counter the proliferation of these systems,
+and to raise a new Army unit dedicated to information warfare activities.
+
+##### Land command, control, communications
+ and computers (C4)
+
+7.19 Land C4 will need to be enabled through technologically advanced,
+
+networked and integrated systems that support joint and coalition
+operations. The Government will continue investments in battlefield
+command, control and communications systems; battle management
+systems; and deployable computer networks. Investment is also planned
+in new satellite communication terminals to support the land forces.
+
+17.20 To align the future land force structure with the strategic objectives in
+
+the 2020 Defence Strategic Update, Government has agreed to minor
+scope and timing adjustments to several Land domain projects that
+will not impact on the ADF’s land force capability. Notably, Defence
+will substantially reduce the planned modernisation and consequent
+replacement of the G-Wagon vehicle fleet. Due to a lack of protection,
+these vehicles will not be deployable to future battlefields and their role
+
+
+-----
+
+#### 77
+
+
+Chart 6 – Land Domain
+
+will be accommodated by other vehicles such as the Bushmaster, Hawkei
+and heavy truck protected mobility fleets.
+
+###### Chart 6 – Key Land Domain Investments
+
+
+-----
+
+#### 78
+
+
+-----
+
+#### 79
+
+# 8
+
+
+-----
+
+#### 80
+
+
+-----
+
+#### 81
+
+
+#### ` Chapter Eight: Defence
+ Enterprise Programs
+
+8.1 In a strategic environment that is more complex and contested than in the
+past, it will be more important for Defence to have the ability to sustain
+a wider range of missions for longer periods of time. It is also important
+to manage the risk of relying on highly efficient global supply chains for
+critical capabilities that would be in high demand in times of crisis.
+
+8.2 The Government will invest around $15 billion over the next decade in
+Defence capabilities critical to the generation of military power. This does
+not include the investments in Enterprise Information and Communications
+Technology; Estate and Infrastructure; or Innovation, Science and
+Technology, which are detailed in the following chapters.
+
+##### Geospatial information and intelligence
+
+8.3 This program covers those major capabilities that are used by the
+Australian Geospatial-Intelligence Organisation to deliver geospatial
+intelligence, data and services (collectively known as ‘GEOINT’) to the ADF,
+the National Intelligence Community and broader whole-of-Government
+partners. GEOINT can range from a simple map through to complex,
+highly-accurate three dimensional models of an urban area that assist in
+the deployment of precision-guided weapons.
+
+8.4 The Defence GEOINT capability has been the subject of significant
+investment by Government, as a component of improving Defence’s
+sovereign capacity to maintain awareness of a rapidly-changing strategic
+environment. The Government will also continue to build Australia’s self
+reliant geospatial-information and intelligence capability, both to support
+strategic intelligence requirements and support precision guided weapons.
+This will include acquisition of a sovereign space-based imagery capability
+to enhance coverage of the Indo-Pacific region.
+
+
+-----
+
+#### 82
+
+
+8.5 The Government is also planning enhancements to:
+
+    - GEOINT satellite data acquisition from commercial and sovereign
+sources; and
+
+    - Specialist GEOINT exploitation and dissemination systems to ensure
+that the ADF and other national security customers have reliable
+access to GEOINT.
+
+##### Guided weapons and explosive ordnance
+
+8.6 One of the most consistent and important lessons from previous conflicts
+around the world has been how quickly supplies of precision munitions
+can come under stress, especially for those nations that possess little
+domestic capacity to manufacture them. In a world that is becoming more
+contested and where supply chains have been shown to be fragile in
+moments of crisis, it is important for Defence to re-evaluate its capacity to
+sustain the ADF on operations.
+
+8.7 The Government has directed Defence to develop options to increase
+supplies of munitions through:
+
+    - An increase in weapon inventory across the ADF to ensure weapons
+stock holdings are adequate to sustain combat operations if global
+supply chains are at risk or disrupted;
+
+    - The redevelopment of the Mulwala explosives and propellant facility
+to expand its capacity for munitions production, thus enhancing the
+resilience of ADF ammunition supply; and
+
+    - Exploring the potential for a new sovereign guided weapons and
+explosive ordnance production capability to mitigate supply risks,
+especially for those munitions with long lead-times.
+
+
+-----
+
+#### 83
+
+
+##### Defence training and simulation
+
+8.8 Training and simulation is critical to prepare Defence for the range
+of missions it will face now and in the future, and the cutting-edge
+technology it will need to maintain its competitive advantage. The ADF is
+world-class in the quality of its training, and the Government is investing
+to keep it that way through enhancements to Defence training areas
+and facilities, live and simulated, and through simulation software and
+technology refreshes.
+
+8.9 The Government will also consider future investment in a joint forces
+battle laboratory, the use of simulation to support operations, simulation
+interoperability with allies and Defence simulation support to whole-ofGovernment activities.
+
+##### Recapitalisation of Reserves
+
+8.10 The Government plans further investment in the Reserves in the longer
+
+term to equip and enhance the ADF Reserves to a level commensurate
+with the ADF in important warfighting and operational support capabilities.
+This will allow a more rapid and sustainable mobilisation of Defence
+Reserves for a broad range of tasks.
+
+##### Defence business enterprise architecture
+ and transformation
+
+8.11 For Defence to function effectively and adapt to a strategic environment
+
+that will be changing more quickly, the way Defence functions to
+support its frontline capabilities, including its people in uniform, will be
+as important as the capabilities themselves. Driving improved business
+processes, enterprise information management, enterprise resource
+management and broader transformational reforms across Defence will be
+
+
+-----
+
+#### 84
+
+
+critical to future Defence effectiveness. The Government is committed to
+improving enterprise business processes by implementing reform across
+Defence to maximise business commonality and effectiveness.
+
+8.12 Upgrades and improvements to these critical support functions will be
+
+comprehensive in their scope and include human resource management
+systems, including health, Defence’s information management systems
+and technology, and resource planning.
+
+##### Joint logistics
+
+8.13 Strengthening the logistics supply chain, and optimisation of key enablers
+
+– such as the supply of fuel and the movement and storage of explosive
+ordnance – are vital to the future operational capability of Defence.
+Developing more durable supply chain arrangements and strengthened
+sovereign industrial capabilities will be critical to the ADF’s self reliance,
+including in the context of high-intensity operations.
+
+8.14 To build Defence’s joint logistics capacity, the Government is continuing
+
+the Defence Fuel Transformation Program and is planning further joint
+logistics investments in:
+
+    - Improved fuel resilience through the acquisition of a deployable fuel
+storage capability of increased scale and capacity to assure longer
+or larger-scale ADF deployed operations;
+
+    - Additional fuel storage infrastructure across a number of Defence
+sites to enhance the capacity, survivability and redundancy of
+the integral fuel supply system, and ensure the ADF can conduct
+operations when global supply chains may be disrupted;
+
+    - Digitalisation and modularisation of the existing supply system
+to increase its responsiveness and the agility of the ADF supply
+chain; and
+
+
+-----
+
+#### 85
+
+
+
+    - Development of a Defence mobilisation plan to increase the
+ADF’s ability to support a range of scenarios, including in
+response to future large-scale domestic natural disasters and
+
+Chart 7 – Key Defence Enterprisenational emergencies.
+
+###### Chart 7 – Key Defence Enterprise Program Investments
+
+**Satellite Imagery Capability (Access) ($0.4 – $0.5b)***
+
+**Additional Sovereign Satellites**
+**(imagery) ($1.2 – $1.8b)**
+
+**Sovereign Satellite Imagery Capability ($3.2 – $4.8b)**
+
+**Recapitalisation of the Reserves ($6.3 – $9.4b)**
+
+**Weapon Inventory Surety ($20.3 – $30.4b)**
+
+**Supply Chain Upgrades ($2.3 – $3.5b)**
+
+**Improved Fuel Resilience ($1– $1.5b)**
+
+**Enhanced KC-30**
+**Logistics in Northern**
+**Australia ($1.6b)**
+
+**Sovereign Weapons Manufacturing**
+**($0.8 – $1.1b)**
+
+**Increased Airbase Resilience ($2.9 - $4.3b)**
+
+**2020** **2025** **2030** **2035**
+
+Note: * includes future sustainment.* Denotes capabilities which include future sustainment
+
+
+-----
+
+#### 86
+
+
+-----
+
+#### 87
+
+# 9
+
+
+-----
+
+#### 88
+
+
+-----
+
+#### 89
+
+
+#### ` Chapter Nine: Australia’s
+ Defence Industry
+
+9.1 The 2020 Force Structure Plan outlines the Government’s commitment
+to a program of future investment and opportunity for defence industry,
+further cementing the role of Australian industry as a fundamental input
+to capability. The plan reinforces the Government’s commitment to build a
+resilient and internationally competitive defence sovereign industrial base.
+Over the next decade, the Government’s vision is for an Australian defence
+industry with the capacity, posture and resilience to help meet the ADF’s
+acquisition and sustainment needs.
+
+9.2 Australia’s defence industry has delivered key elements of the 2016
+_Defence White Paper, including:_
+
+    - The introduction into service and export of the most advanced
+phased array radar in the world;
+
+    - Critical parts for the worldwide in-service F-35A Lightning II fifth
+generation stealth aircraft;
+
+    - Implementation of the 2017 Naval Shipbuilding Plan, including
+the Government’s commitment to nine Hunter class frigates; 12
+Offshore Patrol Vessels and 12 regionally superior conventional
+submarines – all to be built in Australia;
+
+    - The design, production and introduction into service of protected
+vehicles; and
+
+    - New industries to produce the next generation of combat
+reconnaissance vehicle and advanced armoured vehicles.
+
+
+-----
+
+#### 90
+
+
+9.3 Global strategic trends, the increasing rate of technological and military
+modernisation, and sharper awareness of supply chain resilience mean
+Defence requires strong partnerships with Australian industry. This
+partnership continues to grow, with this Government maximising defence
+industry opportunity to further build a sovereign industrial base on which
+the ADF can rely.
+
+9.4 The Government recognises that building Australia’s sovereign defence
+industrial base is a long-term body of work that requires coordinated
+effort. Through the Australian Industry Capability (AIC) Program,
+the Government will ensure Australian companies can participate in
+high value, high-tech projects that will support the development of
+Australia’s sovereign defence industrial base. Large companies competing
+for Defence contracts are expected to transparently build Australian
+companies into their supply chains, particularly where those contracts
+include identified sovereign defence industrial capability priorities.
+
+9.5 The AIC Program supports Australian industry involvement in Defence
+procurement and projects. The program requires that prime companies
+competing for Defence contracts demonstrate how they will maximise
+Australian industry involvement. Examples include the acquisition
+contract for 211 Boxer Combat Reconnaissance Vehicles, involving an
+AIC commitment of $1.3 billion in the acquisition contract, and the more
+than 300 Australian companies that are currently associated with the
+construction of the Offshore Patrol Vessels.
+
+9.6 Analysis of spending flowing from the 2016 Defence White Paper
+indicates that Australia’s defence industry is growing, with over 4,000
+businesses employing approximately 30,000 staff. An additional 11,000
+Australian companies directly benefit from Defence investment, and
+when further downstream suppliers are included the benefits flow to
+approximately 70,000 workers in total. Investments set out in this Plan
+will support continued growth of Australia’s defence industry. Further
+economic benefit analysis is under way to provide greater understanding
+of the effects of Defence spending.
+
+
+-----
+
+#### 91
+
+
+9.7 The Government acknowledges that investment in Defence capabilities
+supports Australia’s economy by creating and sustaining Australian
+jobs and growth in industry, and builds on links with other sectors
+in the economy, including mining, the space industry and advanced
+manufacturing. The 2020 Force Structure Plan continues the
+Government’s investment in Australian industry and builds on existing
+Defence initiatives to maximise defence industry opportunity.
+
+9.8 The strengthened AIC Program requires tenderers to provide a proposed
+approach to supporting innovation, technology transfer, research and
+development, veteran employment and indigenous businesses as they
+develop their AIC plan. To ensure support for Australian industry, the
+Government is establishing an independent AIC audit program in 2020.
+The audit program will investigate and report on prime contractors’
+performance in delivering their contracted Australian industry obligations.
+The Government proposes to enhance the AIC contractual framework to
+give greater prominence to AIC terms and increase enforceability using
+contractual and non-contractual mechanisms. The AIC Program was
+expanded in 2019 to include non-materiel and infrastructure procurement.
+
+9.9 Local Industry Capability Plans (LICP), set out in the Defence Policy for
+_Industry Participation in 2019, are an initiative to maximise the opportunity_
+for local business to be involved in Defence infrastructure projects. All
+construction-related procurements above $7.5 million require tenderers to
+develop a LICP to outline how local industry has been, or will be, engaged
+in the development and delivery of the proposed solution, and the work
+proposed to be undertaken by local industry.
+
+9.10 Work is under way to strengthen the consideration of Australian industry
+
+in the Capability Life Cycle. This formalises the requirements on Defence
+officials to consider Australian industry involvement at the early stages
+of capability development and at each stage of the life cycle, including
+conducting early engagement with industry and updating Ministers
+on actions taken to maximise opportunities for Australian industry.
+
+
+-----
+
+#### 92
+
+
+Engagement with partners in industry and academia also occurs via
+the Force Exploration Hub which supports Defence to better match
+the development of future capability needs with industry’s ability to
+deliver them.
+
+9.11 An initial list of ten Sovereign Industrial Capability Priorities (Priorities),
+
+set out in the 2018 Defence Industrial Capability Plan provides a focal
+point for the industrial capabilities we need access to, or control over, in
+Australia. The first two implementation plans were released in December
+2019 and the remaining plans will be available by the end of 2020.
+
+9.12 The Sovereign Industrial Capability Priority Grant Program provides
+
+funding support to small and medium businesses that contribute to one
+or more of the Priorities. The Sovereign Industrial Capability Priority Grants
+program is currently funded up to $17 million per year. Since the program
+began in December 2018, 50 businesses have been awarded a total of
+$24.5 million.
+
+9.13 The Australian Defence Export Office, a key initiative of the Defence
+
+Export Strategy, provides advice and support to Australia’s defence
+industry to increase its presence at international and domestic trade
+shows and trade missions, which is facilitating increased exports and
+government-to-government arrangements. The office also coordinates
+with the Global Supply Chain Program to maximise the number of
+Australian businesses in the supply chain of global defence companies.
+
+9.14 The Defence Global Competitiveness Grants Program provides support
+
+to businesses that are investing in projects that build export capability
+and a stronger, more sustainable and globally competitive Australian
+defence industry. The Global Competitiveness Grants are currently funded
+up to $4.1 million per year out to 2028-29. Since the program began in
+January 2019, 27 businesses have been awarded over $3.1 million.
+
+9.15 The National Defence Industry Skills Office, a key initiative of the
+
+Defence Industry Skilling and Science, Technology, Engineering and
+
+
+-----
+
+#### 93
+
+
+Mathematics (STEM) Strategy, oversees the delivery of skilling grants,
+the Schools Pathways Program and the Defence Industry Internship
+Program. The Office also coordinated the National Defence Industry
+Skilling and Workforce Summit in November 2019. Complementing this
+effort is the work of the Naval Shipbuilding College, which is focused on
+creating the shipbuilding workforce of the future.
+
+9.16 The Centre for Defence Industry Capability (CDIC) assists Australian
+
+businesses to navigate the defence sector landscape and prepare to meet
+current and future Defence requirements. Since December 2016, the
+centre has provided over 830 advisory services to Australian organisations
+and awarded over 220 grants to the value of $27.9 million.
+
+9.17 The Government is reviewing the operational model of the CDIC to ensure
+
+it is appropriately equipped to deliver a robust defence industry that is
+sustainable and internationally competitive. The review will assess how the
+CDIC can continue supporting the growth of Australian defence industry
+now and into the future. The investments outlined in the 2020 Force
+Structure Plan will enhance the CDIC’s programs to stimulate defence
+industry through providing more opportunities for Australian businesses to
+become involved in major Defence projects.
+
+Australia’s growing defence industry now has more than 4,000
+businesses that employ approximately 30,000 staff. An additional
+11,000 Australian companies directly benefit from Defence
+investment, and when further downstream suppliers are included the
+benefits flow to approximately 70,000 workers in total.
+
+Conservative estimates place the Defence industry’s contribution
+at $3.45 billion in value-add to Australia’s Gross Domestic Product
+(GDP) (2017-18).
+
+
+-----
+
+#### 94
+
+
+-----
+
+#### 95
+
+
+##### Maximising industry opportunities
+
+9.18 The 2020 Force Structure Plan provides Australian industry with insight
+
+into future Defence procurement plans. A close partnership between
+Defence and industry is required across the full spectrum of capability
+requirements. This ranges from high-end technology to deliver the edge
+to the war-fighter through to enabling capabilities, such as logistics,
+information and communications technology (ICT), and health support.
+
+9.19 Defence will facilitate an ongoing dialogue with industry that builds on
+
+existing programs and networks to ensure Defence provides industry
+with a sufficient level of fidelity on capabilities to inform industry planning
+and choices for investment, including through Defence Environmental
+Working Groups and major conferences. Through the ongoing force
+design process, industry will be provided regular updates on the planning
+of individual capability proposals, aligned with Government’s strategic
+priorities.
+
+9.20 New investments outlined in the 2020 Force Structure Plan demonstrate
+
+the potential for increased involvement of Australian industry.
+Investments in cyber, autonomous systems, artificial intelligence, radar,
+communications and space-based capabilities and sensors offer the
+opportunity for Defence to work with industry to strengthen the Australian
+industrial base in these advanced technological areas.
+
+9.21 The 2020 Force Structure Plan also includes a number of significant
+
+investments in infrastructure and the supply of critical commodities
+such as deployable fuel, spare parts and stocks of advanced guided
+weapons and explosive ordnance. Currently, Australia has a munitions
+manufacturing capability at Benalla which ensures the supply of
+ammunition in times of need. Defence will explore options to assure the
+supply of larger, critical munitions including propellants and missiles. This
+will present opportunities for Australian industry.
+
+
+-----
+
+#### 96
+
+
+9.22 The ongoing production of the Hawkei vehicle, and the decision to
+
+build the new Boxer combat reconnaissance vehicle, the self-propelled
+howitzers, and the new infantry fighting vehicles in Australia create
+significant long-term opportunities, including the potential for export.
+Defence will work with industry to ensure work is sequenced to manage
+peaks and troughs in demand, to harness as much as possible the
+benefits of steady-state work.
+
+9.23 The 2020 Force Structure Plan provides Australian companies with
+
+information on new and emerging projects, as well as projects that are
+delayed or no longer required. Changes in the strategic environment or
+technology means some investments previously foreshadowed in 2016
+have been prioritised to adapt to an ADF structured for a new era of
+strategic challenges. The overall impact on Australian industry of removing
+or delaying projects will not have an immediate impact, as most of these
+prioritisation decisions relate to investments that had not been approved
+and were not due to start for many years.
+
+##### Driving innovation
+
+9.24 The 2020 Force Structure Plan delivers increased funding to innovation
+
+and capability acceleration programs to generate and deliver on Australian
+industry’s innovative solutions for Defence capability.
+
+9.25 Sustained investment in innovation is necessary to enable Defence to
+
+maintain a capability advantage over potential adversaries. The rapid pace
+of technological change and shifting geopolitical dynamics make it more
+challenging for Defence to maintain this advantage and it is increasingly
+important that Defence is able to leverage the best innovation on offer
+within Australia.
+
+
+-----
+
+#### 97
+
+
+9.26 Central to this mission is the Defence Science and Technology Group. The
+
+second largest publicly funded research and development organisation in
+Australia, Defence Science and Technology Group works in partnership
+with academia, industry and other government departments to provide
+specialist advice and solutions across the spectrum of Defence activity
+– from ground-breaking technologies through to research that enhances
+operational readiness and sustainability, and support of Australian
+personnel on operations.
+
+9.27 The Defence innovation ecosystem has grown significantly since the
+
+release of the 2016 Defence White Paper. The Government will further
+invest in this sector to rapidly develop technology into capability and
+feed the innovation pipeline through the exploration and development
+of disruptive, leap-ahead technologies and technological adaptations
+and innovation emerging from Australian industry. The Government has
+committed around $3 billion of capability investment across Defence
+innovation, science and technology over the next decade.
+
+##### Defence’s current innovation system
+
+9.28 The release of the 2016 Defence Industry Policy Statement was
+
+an important step forward in improving coherence and reducing
+fragmentation across the Defence innovation system. The two innovation
+funding mechanisms announced in the 2016 Defence Industry Policy
+_Statement were the Next Generation Technologies Fund and the Defence_
+Innovation Hub.
+
+9.29 These programs have been supported by the CDIC through the Defence
+
+Innovation Portal. The Portal has facilitated engagement between Defence
+and innovative research across Australia, and provides another avenue for
+innovative small to medium enterprises to connect with Defence.
+
+
+-----
+
+#### 98
+
+
+##### The future Defence innovation system
+
+9.30 Further work is needed to develop a more comprehensive, coherent and
+
+agile innovation system able to bridge the divide between technology
+development and acquisition. The 2020 Force Structure Plan aims to
+do so by strengthening the link between Defence’s capability plans with
+industry policy initiatives, Defence’s reform program, the 2030 More
+_Together: Defence Science and Technology Strategy for innovation and_
+clear resourcing plans.
+
+9.31 The Next Generation Technologies Fund engages Australian industry,
+
+universities and research organisations to research emerging and future
+technologies with the potential to deliver game-changing capabilities for
+Defence. It has invested more than $164 million in 204 research activities
+and will make further investments worth approximately $1.2 billion over
+the next decade.
+
+9.32 The Defence Innovation Hub funds Australian and New Zealand entities
+
+to develop innovative technologies with the potential to enhance Defence
+capabilities. It has invested $237 million to Australian businesses to
+develop innovative technology and over $800 million of further investment
+is planned over the decade.
+
+9.33 The Innovation Hub will continue to enable investment in potentially high
+payoff research and in relatively lower risk incremental innovation through
+technology prototyping and development by industry and the research
+sector. This reinforces Defence’s commitment to stability and continued
+growth in the innovation sector.
+
+
+-----
+
+#### 99
+
+
+9.34 To ensure Defence’s innovation system has the capacity to meet the
+
+demands of future technological development, a new Capability
+Acceleration Fund will also be introduced from the middle of this
+decade. Through this fund the Government will invest over $130 million
+this decade to support the intensive development of key disruptive
+technologies with industry beyond the early-stage research and
+demonstration stages, taking promising technologies all the way through
+to acquisition. This is intended to bring together industry participants,
+Defence personnel and technical subject-matter experts to provide the
+support needed to build prototypes to demonstrate capability and set
+requirements for future projects.
+
+
+-----
+
+#### 100
+
+
+-----
+
+#### 101
+
+# 10
+
+
+-----
+
+#### 102
+
+
+-----
+
+#### 103
+
+
+#### ` Chapter Ten: Defence Workforce
+
+10.1 The military and civilian personnel of the Defence and Australian Signals
+
+Directorate workforce are the most important capability for the defence
+of Australia and its national interests, and the investments outlined in
+this document will require a highly-skilled workforce to deliver them. The
+Government will implement an initial increase in ADF and Australian Public
+Service (APS) personnel over the next four years, and longer term growth
+across the next two decades. Defence will undertake further planning and
+return to Government in 2021 with a detailed proposal for this growth.
+
+##### People are key to Defence capability
+
+10.2 Defence continues to implement the comprehensive program of
+
+modernisation identified in the 2016 Defence White Paper. However, the
+demands on the Defence workforce are changing. A larger number of
+more-complex capabilities requires growth in the size of the workforce,
+both ADF and APS personnel. Defence must also reshape and reskill its
+workforce to transition to new platforms and build capacity in emerging
+capabilities such as cyber, intelligence, electronic warfare and space. An
+increased operational tempo, rapid technological advancement within our
+region and increasing commitments to international engagement are also
+placing considerable pressure on the workforce.
+
+
+-----
+
+#### 104
+
+
+##### Defence is transforming its workforce
+
+10.3 Since 2016, Defence has been delivering on planned workforce growth,
+
+with a strong focus on workforce modernisation through the ADF Total
+Workforce System, recruitment in the ADF and improving recruitment
+and retention in the APS. Defence operates as an integrated workforce,
+in which the APS workforce and ADF workforce deliver specialised and
+interrelated contributions. The total workforce currently stands at around
+59,200 permanent ADF personnel, which includes 550 Australians
+undertaking a gap year. There are around 40,000 Reserve personnel,
+including around 29,000 personnel who are available to render service
+and an additional 11,000 contingent workforce personnel who may be
+called on as required. The APS has around 16,400 full-time equivalent
+employees. These workforce numbers do not include personnel in the
+Australian Signals Directorate, which became a statutory authority in
+July 2018.
+
+##### A skilled and professional workforce to meet changing requirements
+
+10.4 Defence will continue to optimise and embed its Total Workforce System,
+
+implemented in 2016, to provide enhanced flexibility and agility to address
+current and emerging workforce demands. The Total Workforce System
+enables different types of employment including full time, part-time, a
+dual employment option where skills are shared between Defence and
+Industry; and the use of contingent workforces providing new approaches
+to delivering capability.
+
+10.5 Based on detailed analysis of a range of military scenarios, from
+
+humanitarian assistance and disaster relief operations to combat, the
+Government has identified a need to grow the ADF and the APS beyond
+the size approved under the 2016 Defence White Paper.
+
+
+-----
+
+#### 105
+
+
+10.6 A detailed proposal for this longer term growth will be considered by
+
+Government in 2021. As an initial step, Government has committed
+to grow the ADF by around 800 and the APS by approximately 250
+personnel in the short term. Additional growth is also planned for the
+Australian Signals Directorate.
+
+##### The Australian Defence Force
+
+10.7 The investment in leading edge maritime capabilities requires significant
+
+Navy workforce growth by the end of the decade. Under the 2020 Force
+_Structure Plan, Navy will initially grow by around 650 personnel by 2024._
+This larger workforce will support increasing maritime commitments in the
+region, including increased presence and engagement in the Pacific, and
+enhanced border security. Government will consider options for workforce
+growth beyond this level to support the full crewing of an expanded
+naval fleet and workforce reforms to reintroduce a sustainable sea-shore
+balance for Navy personnel to promote stronger recruitment and retention.
+
+10.8 Army is entering a period of significant modernisation, while also
+
+balancing an expanding commitment to regional partnerships. Under the
+_2020 Force Structure Plan, Army will initially experience modest growth of_
+around 50 personnel to 2024. Government will consider additional growth
+beyond 2024 to strengthen a wide range of Army capabilities including
+intelligence, cyber and electronic warfare; aviation and land combat
+capabilities; special operations; and vital health, engineering and logistics
+support functions.
+
+10.9 Air Force is upgrading to a fifth-generation, networked force of crewed
+
+and remotely piloted platforms. These systems bring unprecedented
+capabilities and demand a comprehensive reshaping of workforce and
+skills to take full advantage of them. As a result, Air Force will grow by
+
+
+-----
+
+#### 106
+
+
+around 100 personnel by 2024. Government will consider additional
+options for workforce growth beyond 2024 to strengthen a wide range of
+capabilities including space control, and additional aircrew to generate
+increased flying hours for greater responsiveness, presence and
+persistence. Workforce growth will also enhance intelligence, cyber and
+essential airbase support capabilities.
+
+10.10 Joint Capabilities Group was established in 2017 to elevate the priority
+
+of designated joint capabilities such as logistic support, information
+warfare, health, and education and professional development. The
+establishment of the Joint Capabilities Group has improved the ADF’s
+capacity to conduct increasingly self-reliant and complex operations
+across multiple domains. Joint Capabilities Group will experience modest
+personnel growth by 2024, and Government will consider additional
+options for workforce growth beyond 2024 to strengthen joint information
+warfare capabilities in intelligence, cyber, electronic warfare and satellite
+communications; and joint support functions of health, logistics, training
+and youth development programs.
+
+##### Australian Public Service
+
+10.11 The APS has an essential role in delivering Defence capability, such as
+
+strategy and planning; intelligence; capability acquisition and sustainment;
+health support; and critical enabling functions such as financial,
+workforce, and information technology management.
+
+10.12 Defence relies on an integrated workforce model in which the APS is key
+
+to Defence capability modernisation and future force posture. Additional
+workforce growth will strengthen capacity to:
+
+    - Meet commitments under the Pacific Step-up;
+
+    - Acquire and sustain new and increasingly complex military
+platforms and networks;
+
+    - Support the Naval Shipbuilding Plan;
+
+
+-----
+
+#### 107
+
+
+
+    - Continue research and innovation to ensure the ADF maintains a
+technological advantage in the region; and
+
+    - Strengthen the intelligence and cyber capabilities of the Australian
+Signals Directorate.
+
+##### Enabling functions
+
+10.13 Growth in the Defence workforce also requires new investments in
+
+supporting estate and infrastructure, and services. The 2020 Force
+_Structure Plan includes investments to enlarge or update training facilities_
+and associated support infrastructure such as accommodation; increased
+provisions for health care for ADF members; facilities and garrison
+services on Defence bases; and increased capacity for ICT support and
+personnel enabling services. These improvements will be delivered to the
+Defence presence in all states and territories.
+
+##### Delivering the future workforce 
+
+10.14 In 2016, Defence developed a Strategic Workforce Plan to address key
+
+workforce risks, support future growth in the workforce and provide the
+reshaping and reskilling necessary to deliver new Defence capabilities.
+This Plan comprises ten action areas targeting recruitment, retention,
+training, education and development; career and talent management; and
+workforce planning.
+
+10.15 Significant progress has been made in these areas, and work is now
+
+underway on a major revision to produce a new strategic plan looking out
+to 2040. The 2020 Force Structure Plan workforce outcomes will form the
+foundation of this update, driving adjustments to existing action areas and
+possible new initiatives. The new Defence Strategic Workforce Plan, to be
+released in late 2021, will provide further detail on Defence’s strategy to
+achieve workforce growth and plans for further growth beyond 2024.
+
+
+-----
+
+#### 108
+
+
+-----
+
+#### 109
+
+# 11
+
+
+-----
+
+#### 110
+
+
+-----
+
+#### 111
+
+
+#### ` Chapter 11: Defence Information
+ And Communications Technology
+
+11.1 Modern, secure, sustainable and scalable information and
+
+communications technology (ICT) is critical to enable current and future
+military and business operations. Defence operates one of the largest
+and most complex information environments in Australia. It is required
+to collect, process, store, and transmit information that underpins the
+ADF’s capabilities. Ensuring information is secure and gets to where it is
+needed, at the right time, is crucial to enabling a competitive warfighting
+advantage over Australia’s adversaries.
+
+11.2 The ADF’s increased investment in capabilities to respond to grey-zone
+
+activities, including improved situational awareness, cyber capabilities,
+electronic warfare and information operations is dependent on an
+information environment that is modern, secure and highly effective.
+Recognising the critical role of Defence’s information environment,
+Government will invest around $5 billion over the next decade to meet
+these requirements.
+
+##### Defence ICT transformation
+
+11.3 Defence has undertaken significant investment in ICT in the wake of
+
+the 2016 Defence White Paper, including provision of a new Defence
+terrestrial communications network and the modernisation of desktop
+computing and infrastructure.
+
+11.4 The current and emerging technologies Defence will consider over
+
+the next five years include next generation wireless networks, cloud
+computing, artificial intelligence, augmented analytics, and edge
+computing. Over the next six to ten years, Defence ICT capability is likely
+
+
+-----
+
+#### 112
+
+
+to need to include robotics, block chain, immersive technologies, artificial
+intelligence and quantum computing. These technologies will inform
+Defence’s approach to ICT investment and technology pathways.
+
+11.5 An ICT Capability Assurance Program will maintain existing ICT
+
+capabilities; ensure systems and applications continuously updated and
+patched; extend life-of-type; and upgrade capacity. It will reduce the
+requirement for concurrent complex, disruptive and expensive technology
+transformations across the enterprise, and provide a continuous program
+to ensure ICT capabilities remain modern and secure.
+
+11.6 The Government plans further investments in new ICT capabilities
+
+aligned to security, information access and management, applications,
+connectivity, and processing and storage. These will allow Defence
+to harness opportunities from emerging technology, including for the
+upgrade of the Defence secure networks, and capabilities enabling better
+information sharing with Australia’s allies and partners.
+
+
+-----
+
+#### 113
+
+
+##### Intentionally blank
+
+
+-----
+
+#### 114
+
+
+-----
+
+#### 115
+
+# 12
+
+
+-----
+
+#### 116
+
+
+-----
+
+#### 117
+
+
+#### ` Chapter 12: Defence Estate
+
+12.1 Critical infrastructure and facilities such as military bases, wharves, ports,
+
+airbases, training ranges, and fuel and explosive ordnance infrastructure
+are vital enabling capabilities for the ADF to conduct and sustain military
+operations. The 2016 Defence White Paper identified the need for greater
+investment in enablers essential to the delivery of capability, including
+estate and infrastructure, and funded measures to remediate them.
+
+12.2 Defence undertakes frequent reviews to ensure that all estate and
+
+infrastructure projects are prioritised to reduce risks that may adversely
+impact on capability. The Government has committed to strengthening the
+Defence estate and infrastructure portfolio with capability investment of
+around $30 billion over the next decade.
+
+12.3 To ensure this investment benefits local industry, Defence has introduced
+
+Local Industry Capability Plans. Under these Plans, Defence has let
+approximately 76 per cent of sub-contractor work packages to local
+industry, representing a $1.0 billion investment into local economies to
+date. Even projects that commenced prior to the introduction of Local
+Industry Capability Plans are now achieving approximately 61 per cent
+local participation, representing a $2.4 billion investment into local
+economies to date.
+
+12.4 As a result of the policy, a clear trend can be seen in tender submissions
+
+of more robust Local Industry Capability Plans and increasing local
+content targets. Prime contractors are also demonstrating an increased
+commitment to engaging with local industry.
+
+
+-----
+
+#### 118
+
+
+##### Defence estate investments
+
+12.5 To support the generation and sustainment of current and future
+
+capability, the Government will continue with implementation of 2016
+_Defence White Paper estate investment plans in the following areas:_
+
+    - HMAS Stirling in Western Australia will continue to be enhanced
+through wharf upgrades and new training and support facilities;
+
+    - Garden Island in New South Wales will continue to be upgraded
+to support the expanded fleet and to better accommodate larger
+vessels such as the Canberra class amphibious ships and Hobart
+class destroyers;
+
+    - New and upgraded facilities will be constructed at RAAF Bases
+Richmond, Williamtown, Tindal, Townsville, Darwin, Curtin, Scherger,
+Learmonth, Pearce and Edinburgh; Defence Establishment
+Myambat; and the airfield at Cocos (Keeling) Island;
+
+    - Base infrastructure measures to remediate and expand Defence’s
+fuel storage capacity and distribution installations as part of
+improved fuel resilience plans; and
+
+    - Provision of additional investment in the Woomera Range Complex
+to support leading-edge systems development.
+
+12.6 The Government is also planning to introduce new facilities and enhance
+
+the existing estate to accommodate new capabilities proposed under the
+_2020 Force Structure Plan, including workforce growth. This will include:_
+
+    - The development of a new Army watercraft base in Northern
+Australia to support the expansion of the Army’s watercraft fleet.
+Defence will seek to establish a new base in Northern Australia
+to consolidate all Army watercraft, enhancing amphibious ship
+loading capacity, and allowing the docking of patrol vessels
+and minehunters;
+
+
+-----
+
+#### 119
+
+
+
+    - Upgrades to key ports and infrastructure to better support
+Australia’s larger fleet of amphibious vessels, to enable loading of
+troops and equipment, cargo, and supplies;
+
+    - An additional docking facility to complement the Captain Cook
+graving dock to support the anticipated build and sustainment of
+new and larger vessels;
+
+    - Increased investment in infrastructure to support and maintain the
+_Collins class submarines and the expanded Attack class fleets;_
+
+    - Enhancements to airbases around Australia, including RAAF Bases
+Edinburgh, Tindal, Amberley, Richmond, and Williamtown. Storage
+facilities at Hobart Airport will also be upgraded to enable longrange operations to Antarctica;
+
+    - Infrastructure upgrades to key headquarters facilities, such as ADF
+Headquarters in the Australian Capital Territory and Joint Operations
+Command in New South Wales;
+
+    - Facility upgrades to Army bases in south-east Queensland and
+Townsville, and Robertson Barracks in the Northern Territory; and
+
+    - The upgrade of training facilities and logistics infrastructure in South
+Australia and Northern Territory.
+
+12.7 As a result of evolving requirements and subsequent investments
+
+that will deliver the required capability, the 2020 Force Structure Plan
+identifies a small number of proposed 2016 Defence White Paper
+projects that are no longer required, including a Darwin roll-on/roll-off
+wharf and a new Northern Advanced Joint Training Area. While these
+proposed investments will not go ahead, planned capability investments,
+and commensurate workforce increases, combined with the US Force
+Posture Initiative commitments, will match the 2016 Defence White
+_Paper’s $8 billion Northern Australia investment commitment in this_
+
+
+-----
+
+#### 120
+
+
+Chart 8 – Key Defence Estate Investments
+
+decade. These capability investments are also expected to result in
+significant further investments and opportunities in the subsequent
+decade. There have also been some adjustments to other
+estate projects.
+
+###### Chart 8 – Key Defence Estate Investments
+
+**Australian Port Infrastructure Upgrades ($1 – $1.5b)**
+
+**Increased Fuel Storage Capacity ($0.9 – $1.3b)**
+
+**Undersea Warfare Support Facilities and Infrastructure ($6.8 – $10.2b)**
+
+**Enabling facilities and support for Navy workforce growth ($2.6– $3.9b)***
+
+**New Army Watercraft Base ($2.6 – $3.9b)**
+
+**Enabling facilities and support for Army workforce growth ($5.6 – $8.5b)**
+
+**Woomera Redevelopment and Refresh**
+**($600 – $900m)**
+
+**Northern Air Base Resilience ($4.3 – $6.5b)**
+
+**Northern Australia**
+**EO Rail Link**
+**($0.2– $0.3b)**
+
+**Enabling facilities and support for Air Force workforce growth ($3.5 – $5.2b)**
+
+**2020** **2025** **2030** **2035**
+
+*Denotes workforce growth related forecasts out to 2040 subject to future
+Government approval.
+
+
+-----
+
+#### 121
+
+
+##### Intentionally blank
+
+
+-----
+
+-----
+
+-----
+
+-----
+

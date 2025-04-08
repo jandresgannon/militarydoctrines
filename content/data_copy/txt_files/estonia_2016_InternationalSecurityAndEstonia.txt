@@ -1,0 +1,2112 @@
+# International Security and Estonia
+
+ 2016
+
+
+-----
+
+Layout: Kalle Müller
+
+
+-----
+
+**Foreword by the Director General** 5
+**Overview** 9
+**Russia** 11
+
+Foreign policy 11
+
+_The Western Military District and Russia’s armed_
+
+_forces_ 13
+
+_Russia’s military planning towards Estonia_ 16
+
+_Russia’s aggression in Ukraine_ 19
+
+Domestic policy 22
+
+Economy 25
+
+_Energy security_ 27
+
+**Other threats** 30
+
+Terrorism 30
+
+_Emergence of the so-called Islamic State (Daesh)        30_
+
+_How does declaration of a caliphate affect_
+
+_global jihadism?_ 33
+
+_The threat of terrorism in Europe and Estonia_ 33
+
+Conflict in Syria 37
+
+Libya 41
+
+Migration crisis 43
+
+C b th t 45
+
+
+-----
+
+-----
+
+# Foreword by the Director General of the Estonian Information Board
+
+Dear reader,
+
+Until today, overviews, digests and reports compiled by the EIB
+– Estonia’s foreign intelligence service dating back more than
+two decades – have been available only to a restricted group
+of politicians and officials. Naturally, this will remain the case
+for classified documents. ‘International Security and Estonia
+in 2016’ is, however the Estonian Information Board’s (EIB)
+first publication intended for the public.
+
+The idea for preparing a document describing international
+security environment which surrounds Estonia, and is
+orientated to the Estonian and foreign public, first occurred as
+a response to Russia’s aggression in Ukraine. Not a day went by
+in the wake of annexation of Crimea and conflict escalation in
+eastern Ukraine without Estonian or foreign press asking: ‘Is
+Narva next?’. Not to mention the numerous attempts to analyse
+the Kremlin’s hidden agenda with regard to the Baltics. Yet
+public officials remained laconic or altogether silent in their
+statements resulting in burying the few competent messages
+that existed under an avalanche of inadequate information.
+This, in return, led to the public space being filled by doomsday
+scenarios, half-truths, and with a hunger for sensation.
+Without a doubt, such developments have a negative effect on
+a nation’s psychological defence. At the same time, Estonia has
+its foreign intelligence service whose main task is to ensure
+that those with the ‘need to know’ have the best possible
+threat assessments at their disposal. With this publication, we
+are sharing these assessments with the wider public.
+
+I would like to point out some of the key aspects. Firstly, this
+public threat assessment contains information collected and
+analysed by the EIB. As such, the assessments therein may
+not coincide with those of our partner services in all respects.
+
+
+**_The main task_**
+**_for the EIB is_**
+**_to provide best_**
+**_possible threat_**
+**_assessments to our_**
+**_clients._**
+
+
+-----
+
+That does not mean that our assessments dramatically differ
+from those of our closest partners. Secondly, this paper
+does not cover every major topic – issues, such as Russian
+foreign influence activity, for example, will be left for
+another time. Thirdly, although EIB’s assessments tend to be
+marked with a seal of state secret, this publication does not
+contain declassified material and is not a disclosure of any
+state secrets. Moreover, the current paper is not a publicly
+disclosed version of a recent classified threat assessment but
+is, rather, an entirely new product, specifically created for
+the wider public. Fourthly, to pre-empt potential criticism
+from experts – this document does not claim a monopoly of
+truth. The security environment surrounding Estonia has, in
+the recent years, become increasingly dynamic and complex.
+Analysis based on open sources may result in assessments
+and findings that differ from the ones compiled by the
+EIB. Also, as preparing this document took some time, new
+pivotal events may have occurred resulting in some of EIB’s
+assessments being potentially outdated by the time of its
+publication. This document should not be used for making
+assessments on the world order in 2026 or 2050 as it focuses
+on the most critical events in 2015–2016. Finally, I would like
+to emphasize that the EIB is not a policy maker and does not
+decide which foreign, defence or other policy steps should
+the relevant authorities take based on our assessments.
+
+The main focus of this publication is Russia. This does
+not mean that Estonia’s security is solely influenced by its
+eastern neighbour or that EIB’s analysis would only focus
+on matters concerning Russia. Estonia is organisationally
+closely integrated with other nations and naturally shares its
+partners’ concerns. Rapidly globalising, increasingly IT based
+world has – amongst others – made the definition of security
+more ambiguous. Countries are increasingly using non-state
+measures and vice versa – non-state actors are trying to act as
+states. Events at geographically remote locations, which often
+go unnoticed, have a strategic effect on Estonia’s security
+context. Still, we opted for such focus since the current policies
+practiced by the incumbent Russian government are likely to
+remain the sole external power threatening the constitutional
+order of the Republic of Estonia in the nearest future. Of
+course the previous does not mean that such threats will
+necessarily materialise. I kindly ask everyone to read this text
+
+
+-----
+
+in its entirety, without taking certain sentences or paragraphs
+out of context.
+
+Bonne lecture!
+
+**Mikk Marran**
+_Director General_
+_Estonian Information Board_
+
+
+-----
+
+-----
+
+# Overview
+
+-  The policies adopted by the current Russian government
+will remain the greatest factor threatening the military
+security of the Baltic Sea region in the near future. Russia’s
+disagreements with the West, growing voluntary isolation,
+and unpredictable and aggressive actions in executing its
+plans have a profoundly negative effect on the region’s
+security.
+
+-  The Russian ruling elite is convinced that, in communication
+with the West, Moscow can only defend its interests
+from a position of strength, which includes a constant
+demonstration of military threats. The Russian leadership
+considers NATO’s security reinforcement measures and
+the growing number of NATO members as an existential
+threat, and views the European Union’s integration policy
+as damaging to its interests. This threat assessment was the
+basis for the aggression against Georgia and Ukraine: an
+attempt to obstruct any Western integration of countries
+within the sphere of Russia’s perceived privileged interests,
+without any hesitation, and using any means necessary.
+
+-  Despite Russia’s colossal investment in its military
+structures over the last decade, its military capability
+remains unbalanced. Russia’s capacity to fight using only
+conventional means is limited, and the economic crisis it
+is facing does not make the situation any easier. Although
+unlikely, the use of military power against the Baltic States
+cannot be entirely ruled out since conflicts that occur farther
+away may spill over to the Baltics. However, deterrence and
+defence measures taken by NATO are decreasing the risk of
+direct military threats to Estonia, and most of the factors
+that made Ukraine susceptible to Russian aggression are not
+present in Estonia.
+
+-  Putin’s regime lacks the ideas and willingness to modernise
+
+
+-----
+
+creating an image of a foreign enemy, and seeking to restore
+the country’s Soviet-era might. The Kremlin estimates that
+Russia’s grave economic situation can be overcome in a few
+years, instilling a belief in the population that the hardships
+are temporary and have been caused by outside forces in
+order to weaken Russia. However, merely the lifting of
+sanctions and a higher oil price will not help Russia emerge
+from the crisis; economic revival requires extensive
+economic reform.
+
+The present wave of Islamist terrorism is the most extensive
+and dangerous the world has encountered. International
+terrorism is currently not a significant threat to Estonia,
+but it is a risk for Estonian citizens abroad. The greatest
+threat to Estonia in terms of Islamist terrorism arises from
+radicalised Muslim communities in neighbouring countries
+and from returning, radicalised EU citizens who have
+participated in jihad in Syria and Iraq.
+
+Since the security situation in the Middle Eastern countries
+remains difficult, something which has added significantly
+to the ongoing migration crisis, the high level of movement
+towards the EU is expected to continue. In the context of
+the migration crisis, several European Union Member
+States have witnessed a surge in the popularity of farright movements and political parties displaying hostility
+towards the EU. This spread of extremist views and increase
+in tensions is used skilfully by Russia in order to achieve its
+foreign policy aims.
+
+Cyber-attack harming the equipment relying on IT or
+crashing critical information infrastructure offers a
+relatively cheap and effective way to destabilise a country’s
+political and economic environment. The lines between
+cyber activists, criminals, and state-paid hackers are
+becoming increasingly blurred, and Estonia continues to be
+a constant target of cyber-attacks although the intensity of
+attacks is now quite low.
+
+
+10
+
+
+-----
+
+# Russia
+
+**Foreign policy**
+
+Relations between Russia and the West are at their worst since the
+end of the Cold War. Russia’s eagerness to use military force in order to achieve its foreign and security policy goals has had a serious effect on European security. Moscow’s disputes with the West
+and its aggressive implementation of its plans provoke conflicts
+that pose a security threat to Europe. Russia has challenged European security principles and aspires to revise the fundamentals
+of the global security system. Lack of trust between Russia and
+the West results in increased unpredictability in international
+relations and escalates the risk of unexpected conflicts.
+
+Since Russian leaders and society share a conservative and
+nationalistic mind-set, Russia’s foreign policy will remain
+hostile towards the West, even though developing healthy
+trade and economic relations would be mutually beneficial.
+Russia is trying to portray itself as a civilisational centre with
+the right to evolve according to its own values and goals. Any
+attempts to criticise Russia’s actions are met with accusations
+of Russophobia, which is a frequent justification for uniting
+Russians against a common foreign enemy, as well as a tool for
+stigmatising Russia’s adversaries.
+
+The Kremlin is convinced that the West (including the Baltic
+countries), and especially the US, is secretly working towards
+toppling the current leadership of Russia. This approach has led
+Russia to interpret many steps taken by the West as interference
+in Russia’s domestic affairs or its security interests. Such misinterpretations may cause disproportionately harsh reactions (including military measures) in response to modern civil processes within Russia and its neighbouring countries. This conviction
+has led the Kremlin to believe that whilst communicating with
+the West Russia can only defend its interests from a position of
+
+
+11
+
+**_Relations between_**
+**_Russia and the_**
+**_West are at their_**
+**_worst since the_**
+**_end of the Cold_**
+**_War. Lack of trust_**
+**_between both_**
+**_parties increases_**
+**_unpredictability_**
+**_in international_**
+**_relations and_**
+**_escalates the risk_**
+**_of unexpected_**
+**_conflicts._**
+
+
+-----
+
+12
+
+_Barack Obama and_
+_Vladimir Putin at G8_
+_summit in Northern_
+_Ireland in June 2013_
+
+_Reuters_
+
+**_There is a_**
+**_widespread belief_**
+**_among the Russian_**
+**_leadership that the_**
+**_West (including_**
+**_the Baltics), and_**
+**_especially the US,_**
+**_is secretly working_**
+**_towards toppling_**
+**_the current_**
+**_leadership in_**
+**_Russia._**
+
+
+Despite Vladimir Putin’s declaration that the collapse of the Soviet Union was the biggest geopolitical catastrophe of the 20th
+century, the Kremlin’s goal is not restoration of the Soviet Union.
+Using modern political, economic and military instruments
+for restoring its sphere of influence is considered a much loftier purpose. Russia’s ambition is to strengthen its influence in
+the CIS area and ensure Russian-controlled integration therein
+via the Eurasian Union. While considering the Baltic States as
+within its area of its vital interests, the Kremlin does not regard
+them as it does the CIS countries. Rather, the Baltics are viewed
+as an insignificant part of the Western community, and Russia’s
+countermeasures towards these countries are often careless and
+imprudent compared to its relations with other Western nations.
+Since Russia fails to impress as a worthy leader in terms of socalled soft power, it uses aggressive and unpredictable means of
+pressure to achieve its foreign policy goals, especially within its
+illusory sphere of influence. In order to ensure wider international influence, Russia is seeking support from allies who have
+expressed criticism towards the West.
+
+Although Russia is losing its international weight, the main target of its antagonism is the United States. Russia’s ultimate aim
+is to get the US to recognise Russia’s regional authority; however,
+it lacks any real power to ‘defeat’ the US in global politics. Russia
+seeks to control the US by looking for weaknesses in the latter’s
+global position, and using these to achieve its geopolitical aims.
+For example, Russia skilfully used granting asylum to Edward
+Snowden for the purposes of its foreign policy goals. By offering
+
+
+-----
+
+the US does not care for the values it proclaims (freedom of expression, human rights, etc.) but rather blatantly violates them.
+
+In addition to testing and influencing the US, Russia is using a
+multitude of methods in attempts to split cohesion within the
+EU and between the EU and the US. Moscow often uses economic
+difficulties in EU member states and dependency on Russia’s
+energy to incite disagreements within the EU. It also influences
+politicians and the public of EU Member States, taking advantage
+of their personal interests or lack of awareness of Russia’s true
+aims.
+
+Russia’s ruling elite views NATO’s security reinforcement
+measures and its growing number of members as an existential
+threat, and this threat is magnified by EU’s integration policy –
+another aspect said to be hindering Russia’s interests. Prompted
+by this threat assessment, Russia without hesitation launched
+aggression against both Georgia and Ukraine, seeking to
+obstruct any Western integration of countries within its sphere
+of interest, and using any means necessary. Russia wants to
+replace the NATO-based transatlantic security system with one
+where Moscow would have a veto. Russia considers expansion of
+NATO’s infrastructure (including its missile shield) to Eastern
+Europe and to the Baltics as hostile activity. The Kremlin sees
+the entire Baltic area as a foothold from which NATO (led by the
+US) can potentially threaten Russia. Hence, Russia will remain
+disturbed by the fact that NATO’s borders now meet those of
+Russia, with no ‘buffer countries’ between them.
+
+**The Western Military District and Russia’s armed forces**
+
+Despite Russia’s colossal investments over the last decade, its
+military capability remains unbalanced. Russia has a limited
+military capacity in terms of using conventional means in long
+scale conflicts; yet it is this capacity that is especially important
+for Russia, considering the country’s geography. Not all conflicts
+can simply be solved using nuclear weapons, Special Forces, airborne and information operations, or the Russkiy Mir Foundation.
+
+One of the key constraints of Russian conventional armed forces
+is the lack of qualified personnel; particularly trained contractual
+servicemen and junior specialists. Manoeuvre brigades of ground
+forces are typically capable of assembling only one battalion tactil b i d ith l t l b t ti ll d
+
+
+13
+
+**_Russia has_**
+**_limited capability_**
+**_to operate on_**
+**_more than one_**
+**_operational_**
+**_direction for a_**
+**_significant period_**
+**_of time._**
+
+
+-----
+
+are also capable of assembling only a single tactical group. Only
+airborne forces and Special Forces are better equipped; around
+a third of contractual servicemen there are serving their first
+contract term (i.e. they have served in the armed forces for 2–3
+years).
+
+The manoeuvre units of the Western Military District’s ground
+forces are capable of fielding 13–15 battalion tactical groups,
+equivalent to five manoeuvre brigades, fully or mostly staffed
+with contractual servicemen who are sufficiently trained to execute combat tasks. Airborne forces are capable of assembling up
+to 15 and the naval infantry 2–3 battalion tactical groups.[1]
+
+The Russian reserve units are mostly made up of conscripts
+operating poorly maintained equipment; hence their
+employability outside Russia is questionable. The third battalions of brigades and regiments serve as training centres and recruitment basis of contractual servicemen, and are unlikely to be
+used in combat. Many such units conduct combatant-level training throughout the year, which means that they are not prepared
+to function integrally as subunits.
+
+Thus, the Western Military District is capable of fielding using
+around 30 battalion tactical groups. Considering the size of the
+area for which the district is responsible, ranging from Murmansk oblast in the north to Voronezh oblast in the south, that
+number is not high. The Western strategic direction is divided
+into six operational ‘directions’, each consisting of several tactical
+‘directions’. A simple calculation shows that Russia has a limited
+capability to operate in more than one operational direction for a
+significant period, considering that units need to be rotated.
+
+The Russian army’s personnel problems were clearly visible in
+the Ukrainian conflict. Units that were deployed to the Ukrainian
+border during the first major staging of forces were randomly
+composed, and had limited combat capability. During the winter/spring season of 2014, Russia focused on speed, deterrence,
+
+1 The Russian armed forces are divided into (in descending order) military dis
+tricts; combined armies; and brigades or divisions. The two latter elements are
+
+further divided into battalions and regiments, respectively. A battalion tactical
+
+group (BTG) is a military unit capable of independently carrying out combat
+
+operations The core of BTGs – battalions – are supplemented by supporting
+
+
+14
+
+**_Russia’s capacity_**
+**_to fight using_**
+**_only conventional_**
+**_means is limited._**
+**_It is simply not_**
+**_possible to solve_**
+**_all conflicts_**
+**_using nuclear_**
+**_weapons, Special_**
+**_Forces, airborne_**
+**_and information_**
+**_operations, or_**
+**_the Russkiy Mir_**
+**_Foundation._**
+
+
+-----
+
+15
+
+
+_RIA Novosti_
+
+
+## Russia s regional military commands
+
+By December 1, 2010, the number of military districts in Russia will be cut from six to four.
+Unifed strategic commands will be set up on their basis
+
+The Kaliningrad The Western Military District The Central Military District
+special region (West Strategic Command) (Central Strategic Command)
+The Baltic Fleet with headquarters in St. Petersburg with headquarters in Yekaterinburg
+
+The Moscow and Leningrad military districts The Volga-Urals Military District and
+
+the western part of the Siberian Military District
+
+St. СанктПетербургPetersburg
+
+Rostov-Ростов- YekaterinburgЕкатеринбург
+on-Donна-Дону
+
+The South Military District Khabarovsk Хабаровск
+(South Strategic Command)
+with headquarters in Rostov-on-Don
+The North Caucasus Military District The East Military District
+
+(East Strategic Command)
+
+The reduction of the number of military districts will not lead to cuts in the military with headquarters in Khabarovsk
+personnel. The 150,000 ofcers currently serving in the Army will continue to The Far East Military District and the eastern
+perform their duties, but ofcers may be moved to serve at new locations part of the Siberian Military District
+
+
+and bluffing. The units fielded during the summer were better organised. However, the Ukrainian armed forces had, by then, survived the most difficult period, and Russia lacked the strength to
+launch a large-scale ground operation against Ukraine. In 2014,
+Russia’s operations against Ukraine were conducted at the limit of its military capacity since a majority of its combat-capable
+manoeuvre units were tied down with this campaign.
+
+In addition to contractual servicemen, Russia also lacks junior
+specialists: tank and armoured vehicle commanders, drivers,
+gunners, etc. This problem is especially acute in artillery forces.
+Moreover, a large number of junior specialists are conscripts who
+have had just a few months of practice at best. The lack of qualified personnel has a substantial effect on Russia’s combat capacity and this may be one of the reasons why Russia decided not to
+move further into Ukraine.
+
+The changed security environment and the economic and financial crisis are forcing Russia to make adjustments to its federal defence procurement programmes, which means that Russia
+will fail to meet its 2020 rearmament target, as a number of programmes have been frozen or postponed. The influence of sanctions is also increasingly apparent in several specific areas of the
+defence industry.
+
+The last time the Western Military District managed to fulfil the
+
+
+-----
+
+equipment. Obstacles appeared in 2014 when the first new batches of equipment were to be delivered to the military district. The
+Armata, Kurganets and Bumerang-type armoured vehicles (as
+well as Taifuns) that were extensively publicised in the Russian
+media are still at the testing stage and have not yet been officially
+included in the order of battle.
+
+The reasons for Russia’s increasing efforts to conduct special operations using asymmetric means and attacks against critical
+targets lie at least partly in the weakness of its conventional
+forces. Tactical nuclear weapons have served a similar function
+in Russian military doctrine in the last decade. The Russian
+armed forces are best prepared for a local conflict against a small
+country without any allies where there is little or no threat of
+conflict escalation. Thus, wars similar to the one conducted in
+Georgia in 2008 are most suitable for the Russian armed forces.
+
+**Russia’s military planning towards Estonia**
+
+Russia’s aim for the Western strategic direction is creating a blocfree security zone throughout continental Europe and curbing
+the US military presence until its complete withdrawal of forces
+from Europe. Estonia is not a priority for Russia’s military planning. Instead, its priority areas include Kaliningrad, the Kola
+operational direction (the Arctic) and, since 2014, Ukraine. The
+biggest threat of a military conflict in the Baltic countries arises
+from the Kremlin’s misconceptions which may be based on its
+distorted perception of threats from the Western strategic direction (including the Baltics). Also, Russia views Europe as a single
+entity and takes it into consideration in relation to developments
+in other regions. Thus, conflicts in Ukraine or the Arctic may spill
+over to the Baltic States as well.
+
+Although Estonia is not a military priority for Russia, use of
+military force here cannot be ruled out. For instance, Russia may
+use military force when its armed forces fail to respond adequately
+to a NATO-Russia conflict in another region. By creating a conflict
+in the Baltics, Russia would attempt to gain a stronger position for
+talks following the armed conflict. In a situation of conflict Russia
+will consider the Baltic Sea region as a single entity, and Moscow
+will not respect any country’s neutrality should war erupt. The
+Kremlin takes into account that NATO may also use infrastructure
+in Finland and Sweden, and therefore is prepared to attack targets
+i th t i d it th i NATO t t
+
+
+16
+
+**_The Russian_**
+**_armed forces are_**
+**_best prepared for_**
+**_a local conflict_**
+**_against a small_**
+**_country without_**
+**_any allies where_**
+**_there is little or no_**
+**_threat of conflict_**
+**_escalation._**
+
+
+-----
+
+the most difficult to protect, and as a source of constant threat to
+Russia’s security. Russia estimates that NATO may deploy 1–2 corps
+in the region should a war break out. Thus, Moscow has only two
+positive scenarios: the Baltic nations leaving NATO, or NATO ceasing to exist. All other solutions would be inconclusive for Russia.
+
+Russia’s military planning in the Baltic operational direction
+is based on the assumption that when staging forces, it has
+a temporal advantage over NATO. Moscow believes that it is
+capable of conducting a limited military operation before any
+effective response by NATO could be mounted. The goal of such
+operations would not be to seize the entire territory of Estonia
+or Latvia, but rather to impose control over some towns or areas
+close to the border. This operation would be conducted by units
+permanently stationed close to the Estonian and Latvian borders,
+reinforced by units of the 1st Tank Army and the Central Military
+District, and by tactical nuclear weapons as deterrence.
+
+**_RUSSIAN BALTIC FLEET_**
+
+**_What is it? The Russian Baltic Fleet is divided into two areas: the Bal-_**
+
+_tiysk naval base (Kaliningrad oblast) and the Leningrad naval base (St_
+
+_Petersburg and Kronstadt). The main resources of the Baltic Fleet are_
+
+_located in the Baltiysk naval base. The Leningrad naval base has lost its_
+
+_military significance, mainly performing tasks concerning logistics, sus-_
+
+_tainment, and administration. The presence of the fleet there has remai-_
+
+_ned mostly symbolic._
+
+**_Why is it important? The Russian Baltic Fleet is relevant for Estonia’s_**
+
+_security mainly due to its location. Should political tensions escalate,_
+
+_Russia might use the Baltic Fleet to disrupting maritime traffic and hold_
+
+_demonstrations of force off the Estonian coast. Even though this is an_
+
+_unlikely scenario, Russia may attempt to use the Baltic Fleet to block_
+
+_traffic to and from Estonia’s ports and cut off NATO convoys. According_
+
+_to theoretical worst-case scenarios, the Baltic Fleet may be used in at-_
+
+_tempts to seize Estonian ports, and conduct fire missions and limited_
+
+_amphibious operations against Estonia._
+
+_Although the Russian Baltic Fleet is a military force to be reckoned with,_
+
+_it has a limited military capacity in terms of size, technology and geo-_
+
+_graphy, and is not comparable to the forces of NATO and Scandinavian_
+
+_countries located in the region._
+
+
+17
+
+**_Military planning_**
+**_in the Baltic_**
+**_operational_**
+**_direction is_**
+**_based on the_**
+**_assumption that_**
+**_it has a temporal_**
+**_advantage over_**
+**_NATO when_**
+**_staging forces._**
+
+
+-----
+
+operational direction. Seemingly insignificant steps are part of
+a larger plan which is being implemented over time. The nature
+of Russia’s actions becomes clearer when events are seen from
+a long-term perspective. Judging from the sequence of events,
+Russia has substantially strengthened its military contingent
+on the Baltic operational direction (Estonia, Latvia), and has
+increased the volume and complexity of its exercises in the
+region. Among the most significant changes are the formation
+of the 15th army aviation brigade in Ostrov (Pskov oblast)
+and placement of SS-26 ‘Iskander’ tactical missiles (NATO
+reporting name – Stone) to Luga. Several units of the 6th Army
+have been relocated to the Narva tactical direction, and the
+Sertolovo training centre to the north of St Petersburg is to
+be transformed into a training centre for armoured forces. An
+army aviation brigade and a reconnaissance or Special Forces
+brigade may also be formed in the Baltic operational direction
+in the coming years.
+
+In addition to the increase in the number of troops in the Baltic
+operational direction, new weapon systems placed in Kaliningrad
+and near the Estonian-Latvian border also pose a threat to Estonia. With these weapons (Iskander, sea or air-based cruise missiles, etc.) Russia will be able to isolate Estonia from its allies and
+attack critical targets preventing NATO support from being able
+to reach Estonia. Russian military planning is paying increasing
+attention to attacks against critical targets. In the Baltic countries,
+such targets may include infrastructure that is linked to the reception or servicing of NATO reinforcement. However, the use of
+tactical nuclear weapons against Estonian targets or NATO units
+located here is highly unlikely.
+
+
+18
+
+_Testing of a Russian_
+_main battle tank T-90_
+_on defence industry_
+_forum “Army – 2015” in_
+_Kubinka, Moscow oblast_
+
+_AFP_
+
+
+-----
+
+factors from the perspective of Estonia’s security. Close
+military cooperation between Russia and Belarus – recently
+demonstrated by the joint exercise ‘Union Shield-2015’ in the
+Pskov and Leningrad oblasts – has a direct effect on Estonia’s
+security. The activity of the Baltic Fleet should also be closely
+observed as Russia may use it to create long-term military
+deterrence to the EU and NATO if political tensions escalate. It
+is possible that, should the international situation deteriorate,
+additional temporary troops will be placed in Kaliningrad.
+However, despite Russia’s official rhetoric, the Baltic Fleet is
+not a priority to the Russian Navy due to the stable security
+situation in the region.
+
+**Russia’s aggression in Ukraine**
+
+The Kremlin’s narrative of Russia as a global (or at least regional)
+superpower is a bizarre combination of Soviet nostalgia, yearning
+for revenge, and historical mysticism based on Byzantine and
+Orthodox heritage. If Russia did not control Ukraine – the heartland of Orthodox East Slavs – this concept would have no consistency or historical justification. Completely outdated in the 21st
+century, such justification serves as the basis for Russia’s aggression against Ukraine and its annexation of Crimea.
+
+Russian aggression poses a particular threat to the countries
+over which Russia is trying to prevail in order to restore its position as a global authority. Russia’s foreign policy is based on
+the notion that all parts of the former Soviet Union (e.g. the CIS)
+belong to its sphere of influence. Thus, Russia considers itself a
+political and military guarantor that is responsible for stability
+
+
+19
+
+
+_A separatist fighting in_
+_Donetsk_
+
+_AFP_
+
+
+-----
+
+any country from leaving this sphere. Since Russia is acutely
+aware of its weakness compared to the West, Moscow interprets
+Western integration as interference in its sphere of influence,
+and uses political, economic and military means to obstruct
+that. To this effect, Russia has cultivated ‘frozen conflicts’ and
+supported separatist regions in countries within its sphere of
+interest, including Transnistria in Moldova, Nagorno-Karabakh
+in Azerbaijan, and Abkhazia and South Ossetia in Georgia). Russia uses frozen conflicts as an instrument to prevent Western
+integration of countries in its ‘near abroad’, allowing Russia to
+portray itself as a peacemaker.
+
+As Russia could not remain a convincing regional force without
+having control over Ukraine, Ukraine’s turn to the West after
+the toppling of Viktor Yanukovych was crossing a red line as
+Moscow saw it. The aggression in Ukraine began with a special
+operation in Crimea. Units of Russia’s Black Sea Fleet stationed
+in Crimea supported the seizure of Crimean infrastructure and
+military installations by unmarked Russian Special Forces. The
+annexation of Crimea was carried out smoothly because the
+operation was prepared, rehearsed, and executed according to
+well-laid plans. Russian Special Forces were also involved at
+the launch of the Donbass operation, but there Moscow decided
+to rely on the assumed prevailing pro-Russian support among
+the population of eastern Ukraine. Resulting from Russia’s
+miscalculation of local pro-Russian activism and support, and
+Ukraine’s delayed but steadily increasing response, the military
+conflict was confined to a small section in the oblasts of Donetsk
+and Luhansk.
+
+Weak local support created a need for a much greater contribution
+from Russia to keep the conflict going. This included equipping
+separatists with arms, ammunition, equipment and most of all,
+troops. Russia intervened in the conflict using both cross-border
+indirect fire as well as deploying units of Russian regular armed
+forces in the territory of Ukraine. Russia declared the need for
+a peaceful resolution of the conflict, but meanwhile Moscow
+contributed to the continuation of the conflict by supplying the
+separatists with hundreds of tanks, armoured personnel carriers, combat vehicles, artillery systems, and thousands of tonnes
+of ammunition, as well as training thousands of volunteers and
+regular troops and deploying them to the conflict zone. Russia
+has also applied political and economic pressure on Ukraine
+th h t th fli t
+
+
+20
+
+**_Russia interprets_**
+**_Western_**
+**_integration as_**
+**_interference_**
+**_in its sphere of_**
+**_influence, and_**
+**_uses political,_**
+**_economic and_**
+**_military means to_**
+**_obstruct that._**
+
+
+-----
+
+aggression could have been avoided or reduced. Not expecting
+such aggression from Russia and not having a plan to contain it,
+Ukraine was paralysed when the conflict erupted. The planning
+and execution of defence measures, including the involvement
+of volunteers, was obstructed by bureaucracy, and there was
+a lack of political will to react decisively as the Ukrainians
+were hoping for a peaceful resolution to the conflict. The
+uncontrollable corruption prevailing in the country worsened
+the situation even further. As in Russia, political power was
+used to gain economic benefits for particular interest groups.
+This, in turn, further increased concentration into clans and
+deepened Ukraine’s economic dependence on Russia.
+
+Other negative factors in terms of Ukraine’s military planning
+and armed forces included a chronic lack of funding and
+questionable reforms introduced during Yanukovych’s rule. The
+intelligence services also had unrestricted and uncontrollable
+cooperation with the Russian services, allowing the latter
+almost limitless infiltration into the Ukrainian establishment,
+including recruitment of collaborators. For Russia, the situation
+was facilitated due to the lack of efficient border guards and
+control at the Russian-Ukrainian border, and existence of
+Russian military bases in Crimea. It should also be noted that
+Ukraine is divided according to language into Ukrainian and
+Russian-speaking segments, resulting in the population falling
+into different information spaces. Similarly, the attitudes and
+language of troops depended on the location of units.
+
+Ukraine’s position remains vulnerable, politically, economically
+and militarily. In 2016, Russia will continue to destabilise
+Ukraine, using the unresolved conflict in Donbass to further
+this aim. Russia’s goals in Ukraine will remain the same: to
+impede Ukraine’s integration to the West, and to apply pressure
+for introducing legal mechanisms that would allow Russia to
+manipulate Ukraine’s decision-making process via regions
+that have special rights. Since no participants want a military
+resolution to the situation, it will remain a frozen conflict.
+
+Although Russia’s military actions in Ukraine have a significant
+effect on Estonia, NATO’s deterrence and defence measures are
+reducing the direct military threat to the country, and most of
+the factors that made Ukraine susceptible to Russia’s aggression
+are not present in Estonia. The central aspects of preventing such
+th t d t d f ti d di ll
+
+
+21
+
+**_Most of the factors_**
+**_that made Ukraine_**
+**_susceptible_**
+**_to Russia’s_**
+**_aggression are_**
+**_not present in_**
+**_Estonia. The_**
+**_central aspects_**
+**_of preventing_**
+**_such threats_**
+**_are deterrence,_**
+**_defence_**
+**_cooperation, and_**
+**_readiness. A well-_**
+**_functioning, open,_**
+**_and democratic_**
+**_society, and the_**
+**_rule of law are_**
+**_equally important._**
+
+
+-----
+
+and democratic society and rule of law are equally important. For
+that reason, Russia is not able to threaten Estonia as a member of
+NATO and the EU as it threatens Ukraine.
+
+**Domestic policy**
+
+Putin’s regime lacks the ideas and willingness to modernise Russia: there is no long-term development strategy and the predominant attitude among the ruling elite is ‘let’s rule until we die’. Visionaries and influential ideologists have mostly been replaced by
+obedient and corrupt followers in Putin’s bureaucracy apparatus,
+including the Presidential Administration and the government.
+People at lower levels of the hierarchy are afraid of reporting problems or passing on information and assessments that are in conflict with the leader’s vision. This has created a situation where the
+leadership is making decisions (also in the fields of foreign and
+security policy) based on incorrect assumptions. Such a pattern of
+behaviour is characteristic of all levels of Russia’s state apparatus.
+
+Corruption has become the norm among Russian leaders, and
+both the administration and businessmen associated with the
+Kremlin see the state mostly as an instrument for gaining personal wealth. For instance, it was propably thanks to his closeness with President Putin that the well-known Russian businessman Arkadi Rotenberg was appointed in charge of an electronic
+system for taxation of heavy-duty vehicles; running it will earn
+him roughly €70–80 million per year.
+
+
+22
+
+
+_One of Putin’s closest_
+_trustees Gennadi_
+_Timchenko (left) and_
+_Arkadi Rotenberg in_
+_Kremlin in June 2015._
+_Both of them have_
+_been added to the US_
+_sanctions list_
+
+_ITAR-TASS_
+
+
+-----
+
+ident Putin is trying to convince the people that the difficulties
+they are experiencing are temporary and should simply be endured. The leadership wishes to consolidate society behind antagonism towards the West, a desire to restore the country’s Soviet-era
+might, and the creation of an image of a foreign enemy. Thus, the
+Kremlin is seeking support for its world view from the Soviet-era
+state system, implementing that era’s principles both in terms of
+party policy and ethnic policy. Symbols from the Soviet era are
+used, particularly with the aim of influencing the youth.
+
+Consolidation of the population by way of antagonism to the
+West – of having a joint foreign enemy and being surrounded by
+threats – is essential for the authorities in ensuring their success in the 2016 parliamentary elections. The ongoing economic
+depression and the upcoming parliamentary elections have made
+the Russian leadership conclude that 2016 will be difficult. An
+improvement in the situation is expected in about two years,
+provided that Western sanctions are lifted at least partially, and
+that oil prices start to increase. In light of the 2018 presidential
+elections, the Kremlin’s intention is to get complete control over
+the media, including the most prominent writers in social media.
+
+There is no free press in Russia. Media outlets are controlled by
+businessmen loyal to the Kremlin, and TV is completely controlled
+by the authorities. The Presidential Administration provides editors-in-chief with instructions weekly, detailing topics and key
+phrases that must be covered during the week. Most of the radio
+and print media is controlled by the authorities. The internet is the
+least controlled, but the Kremlin is taking gradual steps to influence that as well. For a long time, the Kremlin ignored the internet
+(Runet) and developments therein, but major changes were introduced in 2015 when two legislative amendments began regulating
+business activity on the internet and granting the authorities more
+ways to influence the activities of internet companies. The law allows websites that distribute pirated software to be closed down,
+and forces internet companies to keep users’ personal data. For several years, the Kremlin has been using paid commentators (trolls)
+for influencing social media. In 2014, the State Duma approved a law
+demanding bloggers whose websites have more than 3,000 viewers
+to register themselves, thus equating popular bloggers with media
+outlets and thus making them subject to all the accompanying requirements and liabilities. This allows the authorities to gain control over potentially popular emergent opinion formers who share
+
+
+23
+
+**_The Kremlin_**
+**_attempts to_**
+**_consolidate society_**
+**_by antagonism_**
+**_towards the West_**
+**_and by creating an_**
+**_image of a foreign_**
+**_enemy. People are_**
+**_reassured that the_**
+**_difficulties are_**
+**_temporary and_**
+**_should simply be_**
+**_endured._**
+
+
+-----
+
+frontation at the grassroots level, to prevent any possibility of
+a ‘Maidan’ in Russia. The Ukrainian coup magnified the Kremlin’s fears that if developments in society cannot be directed and
+controlled, then Kiev’s fate will be repeated in Moscow. A fear of
+social unrest that can result in a coup is a definitive factor in the
+behaviour of Putin and his administration, and this fear is magnified by the Russian leader’s paranoid conviction that the US is
+doing everything it can to overthrow him.
+
+Excluding the pseudo opposition created by the Kremlin (including the Liberal Democratic Party led by Vladimir Zhirinovsky,
+and the ‘A Just Russia’ party, both of which have helped the
+Kremlin channel people’s dissatisfaction), there is no organised
+opposition in Russia. The absence of free media and any freedom of expression along with controlled domestic politics have
+led people to express their opinions covertly on the internet, not
+on the streets. For that reason, it is difficult for a functioning opposition to gain ground. Russia does have a multitude of political
+parties and movements, but each has its own goals. Divides in
+the opposition were further escalated by the society’s extensive
+support to the annexation of Crimea.
+
+Although the leadership takes substantial steps to quell opposition and prevent unrest, Putin’s circle has not managed to find
+solutions to the problems concerning Chechnya and the North
+Caucasus. Moscow is attempting to alleviate the simmering social
+tensions in those regions by funding the ruling elites (clans) of
+the North Caucasus republics, and deploying internal troops who
+commit acts of violence which is mostly focused on Dagestan.
+
+In Chechnya, the Kremlin saw a solution in Ramzan Kadyrov,
+who was expected to take complete control of the region. Failing
+to achieve this task, Kadyrov has irritated the Russian security
+authorities with his behaviour; he apparently felt that the North
+Caucasus had become too narrow for him, and is aiming to become
+a politician with pan-Russian reach. Fearing unrest and lacking a
+better alternative, Moscow has not removed him from power yet.
+
+**Economy**
+
+Russia is witnessing an economic crisis, the main reasons for
+which are dependence on exports of raw materials, endemic and
+thriving corruption, and slow progression of economic reforms.
+
+
+24
+
+
+-----
+
+control it. This has resulted in a massive outflow of capital and a drop
+in investment in the economy. However, merely lifting sanctions
+and a higher oil price will not help Russia emerge from the crisis;
+economic revival requires extensive economic reform, but Moscow
+lacks the political will to carry out these reforms and thus mitigate
+the risks of a mono-product economy. Economic reforms could also
+be accompanied by a rise in domestic discontent which would be
+in direct contradiction of the image that Putin is trying to portray:
+Russia as an economically powerful and independent country.
+
+Economic recession and the loss of oil and gas revenue has put
+Russia’s federal and regional budgets[2] under great pressure. Since
+Western financial markets are closed to Russia, Moscow has
+started using reserves gathered during the period of high oil
+prices to cover the federal budget deficit. However, calculations
+by the Russian Ministry of Finance show that, should the current
+budget policy and oil price levels persist, the government reserve
+fund will be depleted in two years. From 2018, the budget deficit
+will mostly be covered by the domestic bonds market.
+
+The rapid drop of the rouble has resulted in higher inflation, having a negative effect on real incomes and domestic demand. Russia’s projected economic recession was 4% in 2015, and there is no
+sign of growth in 2016, because restoration of investment capacity and an increase in real incomes is not expected. After the monetary crisis in early 2015, the Russian central bank managed to
+stabilise the situation on the Russian money market by massive
+interventions and loans from leading commercial banks. Even
+though the floating rate policy has helped the central bank to
+avoid currency reserves falling below the minimum levels, and
+the Russian financial environment has mostly adjusted to the
+situation, this has not brought an increase in exports. The rouble’s
+exchange rate against leading currencies is greatly influenced by
+the price of oil and remains subject to heavy fluctuations. This, in
+turn, keeps the inflation rate high and restricts investor activity.
+The central bank’s foreign currency reserves have dropped from
+
+2 The Russian Federation is divided into 83 federal subjects (Russia itself con
+siders Crimea and Sevastopol its 84th and 85th federal subjects): oblasts, krais,
+
+republics, autonomous oblasts, autonomous okrugs, and the so-called feder
+al cities having the status of federal subjects (Moscow, St Petersburg and, in
+
+Russia’s view, Sevastopol). The term ‘region’ is used as a synonym for ‘federal
+
+
+25
+
+**_Merely the lifting_**
+**_of sanctions_**
+**_and a higher_**
+**_oil price will_**
+**_not help Russia_**
+**_emerge from_**
+**_the crisis – this_**
+**_requires extensive_**
+**_economic reforms._**
+
+
+-----
+
+26
+
+
+_Comparison of Brent_
+_Crude oil to Russia’s GDP_
+_growth rate_
+
+_Trading Economics_
+
+
+$386 billion to $364 billion during 2015, although this is enough
+for it to respond to larger market fluctuations.
+
+The declining revenue from the export of oil, natural gas and
+other natural resources will put increasing pressure on the
+Russian economy in the long term. This will sharply increase
+the need for reforms aimed at enhancing Russia’s economic
+competitiveness. Also, the deteriorating demographic situation
+creates a necessity for rapid reforms in the social system, which
+is becoming the main source of the chronic budget deficit. The
+main demographic trends – a decrease in the working-age
+population and increase in the number and proportion of senior
+citizens – are expected to continue over the next decade. While
+people aged 20–59 made up 60% of the Russian population in
+2015, this figure is expected to drop to 52% by 2025. The share
+of people aged 60 and older is expected to grow over the same
+period from 20% to 24%.[3] The total population of Russia is
+projected to decrease by more than two million, but in the
+working-age segment (20-59 years) the decline will be more
+dramatic: roughly 12-13 million people. This trend is problematic
+since the decrease in the working-age population facilitates
+immigration. Already, both legal and illegal immigrants make
+up a substantial share of the labour market, and Central Asian
+countries are likely to remain a source of immigration for
+Russia, which will bring about an increase in the proportion of
+people with Muslim origins in the population.
+
+3 Source and calculation basis: UN Population Division, World Population Pros
+
+-----
+
+contribute to its geopolitical ambitions by increasing the country’s military spending. Although from a long-term economic
+perspective, Russia should be increasing spending on education,
+innovation and healthcare, the 2016 federal budget demonstrates
+an entirely opposite trend; allocations to healthcare will drop by
+10.7% and to education by 8%. Instead of economic development
+and raising the population’s standard of living, Russia has chosen
+the path of increasing its military might. By contrast, Russia’s
+defence spending in 2015 was at least 4.2% of the GDP.
+
+The recent years have witnessed escalation of budget deficits
+of regions along with the accompanying debt. A larger increase
+started in 2013 when the revenue of most regions dropped, but
+expenditure remained largely the same. In many respects, this
+situation has been caused by the central government’s policy,
+forcing regions to increase spending despite shrinking revenues.
+At the beginning of Putin’s latest presidential term, he approved
+a set of decrees that promised a pay rise in the public sector and
+an increase in social spending. These decrees caused a significant
+rise in the regions’ expenditure while at the same time federal
+funding to regions started to decline from 2012. By the beginning
+of 2015, Russia’s regions had a total debt of 2.09 trillion, and the
+combined debt of regions and local governments was 2.4 trillion[4];
+
+1.1 trillion of the debt amounts to banks.
+
+**Energy security**
+
+Russia is using traditional economic instruments to achieve its
+foreign policy objectives, trying to increase its leverage in the
+CIS area and use EU member states to serve its federal interests.
+Moscow continued to actively follow this policy line after the
+onset of the crisis in Ukraine, hoping EU sanctions would be lifted;
+but the ‘reorientation of economic cooperation to the East’ that
+was enthusiastically announced by the Kremlin has not taken
+effect. The EU continues to be the main target market for Russia’s
+raw materials, and thus Moscow continues its efforts to execute
+Gazprom’s projects with a view to increasing natural gas exports
+to Europe.
+
+Based on political considerations and the benefits of a few
+interest groups, the freshly launched pipeline project Nord
+
+
+27
+
+**_Instead of_**
+**_economic_**
+**_development_**
+**_and raising the_**
+**_population’s_**
+**_standard of_**
+**_living, Russia has_**
+**_chosen the path_**
+**_of increasing its_**
+**_military might._**
+
+
+-----
+
+28
+
+_Matthias Warnig (left)_
+_and Gerhard Schröder_
+_(right) greeting_
+_Vladimir Putin on his_
+_arrival at Schröder’s_
+_birthday party in_
+_St Petersburg in 2014_
+
+_AFP_
+
+**_Moscow continues_**
+**_its efforts to_**
+**_execute Gazprom’s_**
+**_projects in a hope_**
+**_to increasing its_**
+**_influence in Europe._**
+
+
+Stream-2 is yet another example of Russia’s manipulations of
+Europe’s energy needs.
+
+Using Nord Stream-2, Moscow is also trying to fuel conflict
+within the EU and reduce the volume of natural gas passing
+through Ukraine. Hence, it is no coincidence that the deadline
+of the pipeline coincides with the expiry of the Ukraine-Russia
+gas deals in 2019. A realignment of the gas transit route will
+make Central and Eastern Europe more susceptible to Russia’s
+manipulations concerning energy, as the new gas route will
+reduce the amount of gas reaching those areas. However, it is
+not very likely that Russia will use Nord Stream-2 to cut Ukraine
+off from natural gas transit altogether; Russia needs that route
+for supplying gas to Transnistria at the very least. However, a
+continuous decline in the volume of natural gas passing through
+Ukraine, accompanied by the loss of revenue from gas transit,
+
+
+-----
+
+from his closest circle in the development of this project, too.
+For instance, the executive director of both Nord Stream-1 and
+Nord Stream-2 is Matthias Warnig, Putin’s longstanding friend
+and confidant. Their friendship began in Germany in 1980 when
+the former worked for the Stasi and the latter for the KGB. Their
+friendship strengthened in 1993 when Warnig arranged medical
+care in Germany for Putin’s wife Lyudmila, who had suffered
+a serious accident. Putin is said to have not forgotten the favour, and has repaid Warning generously. Warnig’s career took
+off during Putin’s first term, and he has become a member of
+the board of directors of several strategic Russian companies
+including Rusal, Rosneft, Transneft, and VTB Bank.
+
+Russia’s state nuclear energy company Rosatom’s cooperation
+projects abroad also play a key role in achieving Russia’s foreign
+policy objectives. The Kremlin knows that there is little chance
+of sanctions being imposed in the nuclear energy sector as several EU member states and other Western nations have close ties
+with the Russian nuclear energy sector, including operation of
+nuclear power plants, supplies of nuclear fuel, and the Uranium
+trade. Thus, nuclear energy provides Moscow with an alternative
+to achieving its foreign policy goals. For instance, commissioning
+a nuclear power plant will tie the contracting entity to Rosatom
+for nearly 80 years. Rosatom has announced a goal of operating
+30 international nuclear power plants by 2030.
+
+
+29
+
+
+-----
+
+# Other threats
+
+ Terrorism
+
+**Emergence of the so-called Islamic State (Daesh)**
+
+
+30
+
+
+The current wave of Islamist terrorism is the most extensive
+and dangerous the world has ever seen. It is linked to religious
+radicalisation and the spread of the accompanying conflicts
+including Sunni–Shia confrontations around the world.[5]
+
+**_The current_** In addition to a threat arising from al-Qaeda and its affiliates,
+**_wave of Islamic_** the terror group Daesh with its Western-oriented influence,
+**_terrorism is the_** propaganda, and recruitment activity has forcefully emerged in
+**_most extensive_** 2014–2015. Unlike its predecessor al-Qaeda in Iraq (AQI), Daesh is
+**_and dangerous_** not a paramilitary or terrorist organisation in the classical sense,
+**_the world has_** but more a hybrid between a terrorist organisation and an NGO.
+**_encountered thus_** Its main goal is to establish a caliphate and thus achieve global
+**_far._** dominance in the Islamic community. The caliphate would ini
+tially encompass the territory of Syria and Iraq, but Daesh aims
+to extend this area though constant warfare, involving both conventional military operations as well as paramilitary activity, in**_Wishing to_** cluding organising terrorist attacks.
+**_establish a_**
+**_caliphate, Daesh_**
+**_is not a terrorist_** 5 The Sunni-Shia schism dates back to the beginning of Islam when after the
+**_organisation_** death of Prophet Muhammad the question of his successor as caliph arose
+**_in the classical_** in the 7th century. There have been ups and downs in the more than 1,300
+**_sense, but rather_** years of Sunni-Shia relations, but a definite reconciliation between these
+**_a hybrid between_** religious denominations has never been achieved. On the contrary, the
+**_a terrorist_** Sunni-Shia conflict has become especially acute in the last decades, from
+**_organisation and_** the end of the 20th century. The reason for increased tensions between
+**_an NGO._** the Sunni and Shia communities and countries has been the emergence
+
+of radical scholars and religious movements in both denominations. A
+
+defining moment in this conflict was the Iranian Shia Islamist revolution in
+
+
+-----
+
+Bakr al-Baghdadi on 8 April 2013 when he published a 21-minute
+audio message announcing a merger between AQI and Jabhat alNusra (JaN), and the formation of a new group, ISIL. However,
+JaN’s leader Abu Muhammad al-Julani (also known as al-Golani)
+announced a few days later in an audio message posted on
+radical Islamist websites that JaN had pledged allegiance to alQaeda’s leader Ayman al-Zawahiri, instead. Al-Julani also denied
+any allegations that JaN had joined AQI.
+
+JaN was established by AQI, but with Syria’s rise to be the main
+jihadist battleground, the group’s importance and self-image
+had also expanded. The organisation gained much attention
+from al-Qaeda, including the arrival of al-Qaeda leaders in
+Syria. Therefore, Al-Baghdadi made the announcement of two
+organisations merging in order to avoid JaN being ‘hijacked’ by
+al-Qaeda. However, the idea of being directly affiliated with alQaeda was more appealing to JaN’s leaders.
+
+Al-Qaeda’s leader al-Zawahiri also made a statement concerning
+the status of JaN in 2013, claiming that JaN is not a member
+of Daesh and is a sister organisation of al-Qaeda. Al-Zawahiri
+ordered ISIL to disband and return to Iraq; in other words, to
+return to being AQI. ISIL rejected this order and announced that
+it would not compromise and surrender. Despite disagreements
+at the top level, combatants of JaN and Daesh continued
+cooperation in Syria at the local level.
+
+At the same time, other Islamist groupings fighting Bashar
+al-Assad’s regime claimed that Daesh was more interested in
+establishing a caliphate in northern Syria than fighting against
+al-Assad’s regime. In the second half of 2013, Daesh began
+enforcing Sharia law in Raqqa and Azaz, cities it controlled at
+that time. By November 2013, tensions between Daesh and
+other groups fighting al-Assad’s regime had evolved into open
+hostilities.
+
+In June 2014, Daesh, in cooperation with local Sunni tribes
+and former officers of Saddam Hussein’s army, launched
+an offensive in Iraq, gaining control of significant parts of
+
+6 Daesh’s original name was the ‘Islamic State of Iraq and the Levant (ISIL)’ but at
+
+the height of success, ISIL proclaimed a caliphate on 29 June 2014 and changed
+
+its name to Islamic State or Daesh. From then onwards, al-Baghdadi has called
+
+
+31
+
+
+-----
+
+production infrastructure. Daesh also obtained large sums of
+money, military equipment, and arms.
+
+In order to establish a caliphate and maintain control over its
+territory, Daesh will have to increase its human resources.
+Foreign recruitment plays an essential role in this regard. Having
+
+**_WHO IS CALIPH IBRAHIM OR ABU BAKR AL-BAGHDADI?_**
+
+**_Name: Ibrahim Awwadty Ibrahim Ali al-Badri al-Samarrai_**
+()ميهاربإ داوع ميهاربإ يلع يردبلا يئارماسلا
+
+**_Born: 1971_**
+
+**_Aliases: Abu Du’a, Abu Bakr al-Baghdad, ‘Awwad Ibrahim ‘Ali al-Badri_**
+
+_al-Samarrai’, Ibrahim ‘Awad Ibrahim al-Badri al Samarrai, Abu Duaa’,_
+
+_Dr. Ibrahim_
+
+_Prior to the US-led invasion of Iraq in 2003, Abu Bakr al-Baghdadi, the_
+
+_current leader of Daesh, studied Islamist theology in Baghdad, focusing_
+
+_on Islamist culture, history, and Sharia law, obtaining a doctorate. In_
+
+_2003, he and his comrades established a resistance group called Jaish_
+
+_al-Sunna, which joined al-Qaeda in Iraq (AQI) in 2006. Al-Baghdadi was_
+
+_arrested by the US military in February 2004 in Iraq but was released_
+
+_in December of the same year from Camp Bucca since he was deemed_
+
+_harmless._
+
+_After the deaths of AQI leaders Abu Omar al-Baghdadi and Abu Hamza_
+
+_al-Muhajir in 2010, Abu Bakr al-Baghdadi took over as head of AQI. In_
+
+_2013 he declared himself leader of ISIL and, with the proclamation of the_
+
+_so-called Islamic State in 2014, he renamed himself Caliph Ibrahim._
+
+_From 2011, al-Baghdadi has been included in the list in UN Security_
+
+_Council Resolution 1989 (2011) concerning people sanctioned in relation_
+
+_to Al-Qaida. The US has designated al-Baghdadi a wanted global terrorist_
+
+
+32
+
+
+_AFP_
+
+
+-----
+
+of foreign fighters in its propaganda to efficiently spread its
+message across the world. This is facilitated by the fact that Daesh
+has managed to seize large areas of Iraq and Syria, the very region
+that was the core of the caliphate that existed in between the 7th
+and 13th centuries. Having partial control of the core territory of
+the former caliphate is one of the main aspects that makes Daesh
+so appealing to radical Islamists. Throughout its existence, alQaeda managed to organise a series of large-scale terror attacks,
+but these do not outweigh restoring to historical caliphate.
+
+**How does declaration of a caliphate affect global jihadism?**
+
+There has been an ongoing power struggle between al-Qaeda and
+Daesh for the title of the leader of the global jihadist movement
+for the past two years. On February 2014, al-Qaeda’s official media
+organisation As-Sahab made a statement claiming that al-Qaeda
+is not affiliated with Daesh since al-Qaeda had been neither informed nor consulted on the establishment of this organisation.
+According to the statement al-Qaeda was dissatisfied with the
+creation of Daesh and ordered it to dissolve, and emphasised that
+al-Qaeda was not responsible for Daesh’s actions.
+
+Daesh declared an Islamic caliphate on June 2014 and called
+upon all Middle-Eastern jihadist organisations to pledge
+allegiance to this Islamic State. Declaration of a caliphate has
+raised a dilemma for Middle-Eastern jihadist organisations,
+and also for al-Qaeda’s sister organisations: should they pledge
+allegiance to Daesh, or continue to recognise al-Qaeda as the
+leader of the global jihadist movement? Thus far, al-Qaeda’s
+sister organisations have remained loyal to al-Qaeda. At the
+same time, Daesh’s military achievements in Iraq and Syria as
+well as its vision of a universal Islamic State are appealing to
+a great number of followers of the global jihadi ideology. This
+poses a serious challenge to al-Qaeda’s leading role in the global
+jihadist movement. Neither can we rule out the possibility that
+al-Qaeda and Daesh will try to outdo each other in organising
+terror attacks in order to win over more jihadists.
+
+**The threat of terrorism in Europe and Estonia**
+
+Terrorists have successfully used cyberspace for disseminating
+ideology and actions as well as for communication. This has
+created a situation where jihadists can use the internet to
+h l i kl d ith t hi l t i ti
+
+
+33
+
+**_Daesh’s success in_**
+**_seizing large areas_**
+**_at the core of the_**
+**_7th–13th century_**
+**_caliphate has_**
+**_gained the group_**
+**_popularity among_**
+**_radical Islamists._**
+
+**_Declaration of_**
+**_a caliphate has_**
+**_raised a dilemma_**
+**_for jihadist_**
+**_organisations; to_**
+**_whom should they_**
+**_pledge allegiance?_**
+
+
+-----
+
+countries where there have been no problems with Islamist
+extremism in the past. Supporters of global jihadism are
+used for recruiting new combatants or inspiring them to act
+as ‘lone wolves’[7 ]in spreading terror in their home countries.
+Daesh is increasingly attempting to establish contact with a
+younger generation of radicals who are unknown to European
+security services, and these people are notable targets of Daesh’s
+influence activity. The situation is aggravated by the fact that
+the radicalisation process of voluntary combatants from Europe
+is becoming increasingly shorter, and radicalising networks are
+expanding, spreading into social media rather than religious
+
+**_TERROR ATTACKS IN PARIS_**
+
+**_What happened? On 13 November 2015, terror attacks were conducted_**
+
+_by 8 terrorists in the 10th and 11th districts of Paris and near a football_
+
+_stadium located in the suburb of Saint-Denis. On 14 November 2015, the_
+
+_terror organisation Daesh took responsibility for the attacks. A total_
+
+_of 129 people were killed and 352 wounded in the attacks. This was the_
+
+_largest attack in Europe coordinated and prepared by Daesh’s network._
+
+_For the first time, suicide belts were used in addition to arms._
+
+**_Why is it important? More dedicated to conducting foreign and_**
+
+_information operations than before, Daesh called upon its fighters in a_
+
+_statement made on 14 November 2015 to continue attacks on members_
+
+_of the coalition fighting against Daesh. Daesh has changed its tactics:_
+
+_instead of inviting combatants to Syria, it is sending foreign fighters_
+
+_who have a war experience from Syria back to Europe to organise_
+
+_attacks there. In earlier terror attacks in 2015, mainly lone wolves with_
+
+_no experience from the Syrian war were used as attackers. The Paris_
+
+_attacks showed that the jihadists who executed the operation (led from_
+
+_Syria) were European citizens who belonged to an organised network,_
+
+_and returned to Europe from Syria using false identities. Daesh’s goal_
+
+_was to demonstrate its operational capacity in Europe in order to_
+
+_motivate new volunteers to carry out new acts._
+
+7 A so-called lone wolf is a person who has not received any direct training
+
+or an order to commit an attack from a terrorist organisation. They act on
+
+appeals of terrorist organisations to commit terror attacks in a given country
+
+or against a specific target. Lone wolves are typically individually radicalised
+
+people who are unknown to the security services, making them very difficult
+
+
+34
+
+
+-----
+
+effective recruitment. Each member of Daesh can be a potential
+recruiter: they can develop their own propaganda networks
+and spread their message on social media, describing consistent
+military success against the West and glorifying life in the
+caliphate.
+
+The profile of Europeans heading to Syria is varied. They are not
+only people who are miserable, uneducated Muslims who suffer
+from poverty or integration problems. They include both married
+and single people with varying levels of education, people with
+military combat experience, and convicted criminals. There
+are under-aged combatants, young women, and retired people.
+Radicalisation is usually not caused by a belief in Islam (in reality,
+they do not focus on studying or understanding Islam) but rather
+problems in one’s personal life, personal contacts, a wish to start
+a new life full of adventure, or a yearning to experience war,
+execute a terror attack, or die as a martyr.
+
+Nearly 30,000 voluntary foreign fighters from across the world
+have headed to Syria to participate in the military conflict
+there. At least 6,500 are from Europe, mostly from France, the
+UK, Germany, and Belgium, but with increasing numbers from
+northern Europe. Most European volunteers have joined Daesh.
+The relative geographic proximity of Syria and Iraq also plays
+an important role in the multitude of foreign fighters. However,
+although the number of fighters heading to Syria from Europe is
+still increasing, the rate of growth has fallen in comparison to
+2014.
+
+Thus far there is no evidence of resolution to armed conflicts in
+the Middle East and Africa which facilitate the spread of religious
+extremism across the world, including to Europe. Therefore, extremists return to Europe and Daesh’s large-scale and effective
+influence operations against the West – instigating lone wolves –
+continue to pose a serious threat to European security.
+
+In the article ‘From the battles of Al-Ahzāb to the war of
+coalitions’ in the 11th issue of Daesh’s magazine _Dabiq, Daesh_
+calls on fighters to attacks the coalition partners of operation
+‘Inherent Resolve’ and their supporters. For the first time, the
+targets mentioned include Estonia. It should be noted that
+l-Qaeda’s magazine Inspire has never mentioned Estonia. Daesh’s
+article calls on fighters acting outside the caliphate to attack
+th li t d t t th i iti d i t t h d b
+
+
+35
+
+**_Radicalisation_**
+**_is not caused by_**
+**_Islam per se (in_**
+**_reality, they do not_**
+**_focus on studying_**
+**_or knowing Islam),_**
+**_but rather by_**
+**_problem s in one’s_**
+**_personal life – a_**
+**_wish to start a new_**
+**_and adventurous_**
+**_life; to experience_**
+**_war, to execute a_**
+**_terror attack; or to_**
+**_die as a martyr._**
+
+
+-----
+
+36
+
+**_International_**
+**_terrorism is_**
+**_currently not a_**
+**_serious threat to_**
+**_Estonia, but poses_**
+**_a potentially high_**
+**_threat to Estonian_**
+**_citizens abroad._**
+
+
+whatever means possible. However, it can still be concluded
+that international terrorism is currently not a serious threat
+to Estonia, but it is a high risk for Estonian citizens abroad.
+The greatest threat to Estonia in relation to Islamic terrorism
+arises from radicalisation of Muslim communities in the
+neighbouring countries and EU citizens participating in armed
+conflicts outside the European Union, mainly in Syria and Iraq.
+
+
+-----
+
+# Conflict in Syria
+
+The civil war in Syria began in 2011 with unrest inspired by
+the so-called Arab Spring protests that had erupted in Tunisia,
+Egypt and Libya. The ruling al-Assad family in Syria (headed by
+Bashar al-Assad who became president after the death of his father Hafez al-Assad in 2000) responded to the public’s demands
+for reforms with repressions that resulted in the civil war.
+
+At the beginning of 2012, al-Qaeda’s leader Ayman Al-Zawahiri
+called on its members in Iraq, Jordan, Lebanon and Turkey to
+join against al-Assad’s regime and organise terror attacks. In
+reality, large numbers of foreign fighters were already flowing
+into Syria by the time of al-Zawahiri’s appeal. By the summer
+of 2012 it was clear that al-Assad’s regime was not capable
+of independently restoring control over the entire country,
+but neither was he threatened with immediate collapse. This
+resulted in stalemate. Even though armed opposition fighting
+against al-Assad’s regime was increasing in terms of both human
+resources and technical capacity, it remained fragmented.
+Consequently, armed opposition units began to act increasingly
+as regional militia groups, which further aggravated the
+chaos in the country. The origins of the negative trends in
+the country include deterioration of the economy, increased
+ethnic tensions between the Alawites (Shiites) and Sunnites,
+increased presence of forces promoting global jihadism, and
+religious radicalisation of oppositional forces.
+
+By the end of 2012, al-Assad’s regime in Syria acted not as a
+government standing against insurgents but as a well-armed
+protagonist fighting in a civil war. This resulted in ever more
+violent battles since al-Assad’s regime became less interested in
+the opinion of and pressure from the international community.
+At the same time, the international community became greatly
+concerned over the growing role of jihadists and their position
+in fighting against al-Assad’s regime. The number of European
+
+
+37
+
+
+**_Al-Assad’s regime_**
+**_in Syria acts not_**
+**_as a government_**
+**_standing against_**
+**_insurgents,_**
+**_but rather as_**
+**_a well-armed_**
+**_paramilitary_**
+**_combatant._**
+
+
+-----
+
+in Syria had become the most appealing destination for jihadists
+around the world.
+
+As combat activity intensified in the suburbs of Damascus,
+al-Assad’s regime used chemical weapons there in the early
+morning of 21 August 2013. Consequently, Syria was put under
+great international pressure. This resulted in an unexpected
+turn in the politics of al-Assad’s administration: the existence
+of chemical weapon was officially admitted for the first time
+on 9 September 2013. Hoping to forestall US military strikes,
+
+**_RUSSIA’ S MILITARY CAMPAIGN IN SYRIA_**
+
+_Russia’s military support to Syrian government forces is not sufficient_
+
+_to achieve a breakthrough on the battlefield, but this is not Moscow’s_
+
+_aim as Russia’s main efforts are directed at forming an international_
+
+_coalition. Military operations are only meant to support this goal. Air_
+
+_raids must convince the international public that Moscow is ready to_
+
+_contribute to the coalition and demonstrate Russia’s military might –_
+
+_for which the Ukrainian conflict offered few opportunities. A military_
+
+_base in Syria gives Russia the opportunity to strongly position itself_
+
+_in the eastern part of the Mediterranean Sea. For instance, the anti-_
+
+_aircraft missile system S-400 covers not only Syria’s air space but also_
+
+_the air space between the Syrian coast and Cyprus. One can assume that_
+
+_the real targets of the cruise missile strikes in Syria were European_
+
+_countries: Russia wanted them to see what an operation ‘to destroy_
+
+_critical targets’ would look like._
+
+_Russians will remain in Syria even if al-Assad should be ousted._
+
+_Russia’s military presence in Syria is expected to grow in the coming_
+
+_months and may reach 10,000–12,000 people in 2016. The permanent_
+
+_presence of such a large contingent in Syria is a financial and logistical_
+
+_burden. Taking into account rotation of units, at least 7–8 battalion_
+
+_tactical groups (only manoeuvre units) would be fixed in Syria._
+
+_Considering the Russian army’s constant lack of personnel, this is a_
+
+_substantial number._
+
+_For now, Russia’s resources are tied down in Syria and only time will_
+
+_tell whether these risks were justified. They will if Moscow succeeds_
+
+_in building a coalition, breaking away from isolation, and restoring_
+
+_contacts with leading Western nations. Restoring contacts would be_
+
+_accompanied by (continued) influence activity towards these countries,_
+
+
+38
+
+
+-----
+
+39
+
+
+_Daesh combatants_
+_marching into_
+_Raqqa, Syria_
+
+_AFP_
+
+
+the Syrian government agreed to place its chemical weapons
+under international control. The Syrian minister of foreign
+affairs Walid al-Muallem announced the following day that
+Syria has agreed to disclose the locations of their chemical
+weapons storage sites, to stop producing chemical weapons,
+and to allow representatives of Russia, other countries, and
+the UN to access the facilities linked to chemical weapons. AlMuallem also confirmed that Syria would join the international
+chemical weapons convention. In late September 2013, the
+Syrian government officially declared the chemical weapons
+the regime possessed and commenced international cooperation
+for destruction thereof.
+
+The chemical weapons destruction treaty signed with alAssad pushed several armed groups away from the secular
+opposition and created a belief that there will never be
+a Western military intervention in the Syrian civil war.
+Therefore, at the end of 2013 Jaysh al-Islam[8] and five
+other major local Islamist (but not jihadist) armed groups,[9]
+
+with a total of 45,000 combatants, announced merging to form
+the Islamic Front. Another factor contributing to the formation
+of this group was ISIL’s rise in Syria, which escalated tensions
+between the secular and Islamist opposition, but also between
+Arabs and Kurds, and even between JaN and ISIL.
+
+8 In September 2013, 43 armed Islamist (but not jihadist) groupings operating in
+
+Damascus area pledged allegiance to Liwa al-Islam’s commander Muhammad
+
+Zahran Ibn Abdallah Alloush. Named Jaysh al-Islam, the new grouping had
+
+30,000–40,000 combatants.
+
+9 The Islamic movement Ahrar al-Sham, brigades of Suqur al-Sham, Liwa’ al
+Tawhid Liwa al-Haqq brigades of Ansar al-Sham and the smaller grouping
+
+
+-----
+
+auspices in Montreux (Switzerland) at the beginning of 2014.
+Although both the Syrian regime and the exiled political
+opposition were represented at the peace conference, most of
+the armed oppositional groupings did not participate and failed
+to acknowledge Geneva II. It was clear from the start of the
+conference that a breakthrough would not be achieved, and the
+stalemate persisted in Syria throughout the second half of 2014
+and into 2015. Russian air raids that began on 30 September 2015
+also failed to bring a decisive breakthrough for the al-Assad
+regime. The Syrian conflict has a global impact, influencing
+not only Syria’s neighbours but also other countries, including
+those in Europe. The security of these nations is threatened by
+extremists who have brought along terrorism and violence to
+their home countries after returning from fighting in Syria.
+Jordan, Lebanon and Israel are at the greatest risk of the conflict
+spilling over onto their territory, and these countries have
+faced to varying extents the consequences of the Syrian civil
+war: humanitarian crisis, mass movement of refugees, crossborder armed incidents, and extremist activity. Naturally, the
+Syrian conflict has a direct effect on the fight against Daesh
+in Iraq. There is little possibility of a diplomatic breakthrough
+in Syria in 2016. Even assuming that an unlikely agreement to
+form a joint position for negotiations can be reached between
+all the forces opposing and fighting al-Assad’s regime, there are
+still many obstacles to the Syrian peace process. There is no
+consensus on Bashar al-Assad’s role in the peace process. It is
+difficult to believe that Russia and Iran would stop supporting
+the current regime even if an agreement was reached on alAssad’s replacement. Moreover, the political parties and armed
+groups in Syria have diametrically opposing views on the future
+of Syria.[10] For example, Ahrar al-Sham, one of the largest and
+most influential groups within the armed opposition fighting
+against al-Assad, works in cooperation with JaN, al-Qaeda’s
+branch in Syria. However, if major armed opposition groups
+such as Ahrar al-Sham or Jaysh al-Islam are left out of the peace
+plan, the plan could not be successfully implemented.
+
+10 There are numerous armed groups with various aims operating in Syria.
+
+Group sizes range from 100–200 people to thousands of members. Some of
+
+these groups are linked to a certain geographic area. The ideologies of these
+
+
+40
+
+
+-----
+
+# Libya
+
+The greatest terror threat from Africa comes from Libya, which
+is becoming the next largest Daesh stronghold in the world
+behind Iraq and Syria. After Libya’s leader Colonel Muammar
+al-Gaddafi was toppled in 2011 after 42 years of rule, the country
+plunged into a civil war which fragmented Libya between several
+conflicting parties supported by various armed groupings.
+The so-called liberal government in Tobruk was supported by
+the Libyan National Army led by General Khalifa Haftar and
+militias from Zintan, and the Libya Dawn coalition (the so-called
+Islamists) controlled Tripoli and was mostly supported by units
+from Misrata. Since early 2015, violence has escalated in Libya,
+and Daesh has used this situation to its advantage. According to
+a UN report on 1 December 2015, Daesh has gained substantial
+weight in Libya and if the rival governments fail to reach an
+agreement on governing the state,[11] it may expand its territory
+in Libya even further. The report states that of all Daesh’s
+branches or provinces, [12] Abu Bakr al-Baghdadi controls the
+Libyan branch the most and sees this region as having the most
+potential for expanding the caliphate. Daesh is already calling
+for people on social media to travel to Libya instead of Iraq and
+Syria. This may bring an increase of African jihadists in Libya.
+For now, Daesh may have up to 3,000 fighters in Libya, most
+of whom are from Tunisia and Morocco. Daesh has complete
+control over Sirte and its surrounding area, and has a smaller
+presence in Sabratha, Tripoli, Sabha, Benghazi, and Derna.
+
+11 The UN has attempted to invite the conflict participants to agree to and end
+
+the fighting from the beginning of 2015. Finally, a unity government deal was
+
+signed on 18 December 2015. However, the deal has been rejected by speakers
+
+of the legislative bodies of both Tobruk and Tripoli. Moreover, the main armed
+
+groups in the county did not participate in the talks. Thus, this deal is not as
+
+significant as the media has presented it since the main objective – achieving
+
+stability in Libya – is not realistically attainable.
+
+12 Daesh has so-called provinces in Iraq and Syria, Libya, Egypt, Algeria, Nigeria,
+
+
+41
+
+**_From all of Daesh’s_**
+**_provinces, Abu_**
+**_Bakr al-Baghdadi_**
+**_controls the_**
+**_Libyan branch the_**
+**_most and sees the_**
+**_region with the_**
+**_highest potential_**
+**_for expanding the_**
+**_caliphate._**
+
+
+-----
+
+For Daesh, Libya will remain a key location from which it
+can spread to neighbouring countries and to elsewhere in
+Africa. Libyan training camps present an extensive threat to
+the governments and tourism sectors of the neighbouring
+countries. This has been especially evident in Tunisia and Egypt
+where terrorists returning from Libyan training camps have
+committed several attacks. Tunisia is also the largest source
+of jihadists fighting in Iraq and Syria – up to 6,000 people,
+according to various sources.
+
+If Libya is to become the preferred jihadist battleground, and
+jihadists will find it more difficult to travel to Iraq or Syria,
+Libya may into a larger destination for jihadist fighters. Also,
+combatants returning from Iraq and Syria may be heading to
+Libya next. Thus, if Daesh succeeds in making Libya its next
+major stronghold, attempts to attack Europe via Libya cannot be
+ruled out.
+
+
+42
+
+
+-----
+
+# Migration crisis
+
+Escalation of tensions in international conflict zones is a potential source of instability for Estonia and the whole of Europe.
+Failed states suffering from lawlessness are the main causes of
+the migration crisis. According to a UN assessment, 80% of the
+people who have reached Europe through the Balkans are fleeing
+conflict in Syria, Afghanistan or Iraq.
+
+A massive increase of migrants heading to Europe in 2015 has
+resulted in escalated economic, social and political pressure, and
+security threats in EU member states. This holds true for both
+southern European countries at the frontline of the influx of
+migrants, as well as for northern Europe, which is an increasingly popular destination for migrants. European countries have a
+limited capacity and appetite to receive the increasing number of
+migrants, and more and more refugees are using illegal methods
+for entering the European Union. The number of people who have
+tried to enter the EU using false identification or have presented
+false information about their nationality also increased markedly in 2015. As the migratory movement intensifies, identification
+of people and checking identity requires more time and more
+resources.
+
+
+43
+
+_Refugees on Macedonian-_
+_Greek border trying to_
+_get on a train to Serbia_
+
+_Reuters_
+
+
+-----
+
+mism, international crime, and terrorism. Globalisation has magnified these effects even further. As the number of unidentified
+people illegally entering the EU rises, this serves as a basis for
+illegal activity that supports intertwined networks of terrorism,
+international crime, and illegal immigration, as well as for extremists infiltrating European countries. Other threats include the
+increasing number of people who have had contact with, or have
+been influenced by, members of terrorist organisations fighting
+in Syria, and the rising number of radicalised people in these target countries.
+
+Since the security situation in the migrants’ native countries
+remains difficult, this migratory movement towards the EU is
+expected to continue. In the context of the migration crisis, several
+EU member states have seen a surge in the popularity of far-right
+movements and political parties displaying hostility towards the
+EU. This rise of nationalism and intolerance may result in growing
+tensions, disorder, and civil disturbances in member states, and
+the spread of extremist views escalates conflicts within the EU,
+aggravating domestic tensions in member states and causing
+conflicts between them. This will undermine the integrity of the
+European Union as a whole. The spread of extremist views and
+escalation of tension is skilfully used by Russia in pursuing its
+foreign policy goals by attempting to fuel conflicts within the EU
+by, for example, supporting European far-right extremists.
+
+
+44
+
+**_Escalation of_**
+**_tensions in_**
+**_international_**
+**_conflict zones is_**
+**_a potential source_**
+**_of instability for_**
+**_Estonia and the_**
+**_entire Europe._**
+
+
+-----
+
+# Cyber threats
+
+The rapid global development of information technology, including developed countries choosing IT solutions which provide
+greater efficiency, comes at the price of increased cyber threats
+to the security of these countries. Being little regulated in legal terms, the quickly developing cyberspace provides multiple
+levels of threats to countries since the direct targets of attacks
+may include both individuals and states. Nations find it difficult
+to provide their citizens with active protection in the cyberspace, since this would be accompanied by privacy restrictions.
+It is also difficult to identify the perpetrators of cyber-attacks
+– whether a country or an individual – and therefore adequate
+response to such attacks is also challenging. The lines between
+cyber activists, criminals and state-paid hackers are becoming
+increasingly blurred.
+
+Security threats arising from cyber-attacks can be divided into
+three broad categories: attacks against the 1) confidentiality; 2)
+availability; and 3) integrity of information. The first category
+is usually associated with economic and diplomatic espionage.
+Countries systematically collect information, and an opportunity
+to use information that has been obtained via criminals or
+activists will not be passed up. This category also includes statefunded groups that use complex malware such as APT29, a cyber
+intelligence group linked to the Russian government. The second
+category includes attempts to disrupt the functioning of society
+or an institution and to discredit them internationally. The
+coordinated and massive denial-of-service attacks conducted
+against Estonia in 2007 fall under this category. The third group
+consists of cyber-attacks aimed at altering information in states’
+systems, and using the resulting incorrect information for the
+purposes of, for example, propaganda. In these cases, the goal
+is to discredit and confuse the country domestically and on the
+international arena.
+
+
+45
+
+
+-----
+
+phenomenon of state-coordinated cyber-attacks – has grown
+rapidly in recent years. In cyberspace, Russia is the source of
+the greatest threat to Estonia, the European Union and NATO.
+Estonia is a target of hostile cyber acts both as an individual
+country, and as a member of the EU and NATO. Russia is actively
+adding to its cyber-attack capacity and has a wide range of
+tools and resources necessary for carrying out attacks (denialof-service, malware, security vulnerabilities, etc.). According
+to Russia’s information doctrine, the country is in a constant
+information war with the West, and cyber activity is necessary
+for introducing (read: enforcing) its geopolitical power, position
+as a nation of authority, and its viewpoint. Following Edward
+Snowden’s leaks, the paranoia that Russia is not in control of
+its information space and other countries are constantly spying
+on Russia using the internet is widespread among the Kremlin.
+Russia is manipulating social media and the press, spreading
+lies and its propaganda positions, and attempting to manipulate
+public opinion. The lines between cyber activists, criminals
+and state-paid hackers are becoming increasingly blurred, and
+cyber criminals are collaborating with the intelligence services
+of countries that are hostile to Estonia, which continues to be a
+constant target of cyber-attacks, although the intensity of attacks
+against Estonia is quite low.
+
+Extranets of Estonian state authorities have been repeatedly ‘mapped’ and several test attacks were conducted against Estonia during 2015. The probable reason for mapping networks is to determine the resources necessary for future attacks. In other words,
+the adversary wants to find out what resources are necessary and
+in what volume for halting a vital service, or how that service is
+set up and defended. In previous years, there have been repeated attempts to gain access to sensitive networks using e-mails
+infected with malware (e.g. Ke3Chang and CosmicDuke attacks).
+
+The term ‘hybrid war’ or warfare without declaring a war
+emerged in the context of the military conflict in Ukraine. In
+a future hybrid war, massive cyber-attacks and disruptions of
+information infrastructure may start much earlier than the
+actual military action. Disruptions of information and other vital
+infrastructure will be used for creating dissatisfaction with the
+government among certain segments of the population. This
+dissatisfaction will then be used for legitimising emergence of
+‘little green men’ or ‘militia groups’. Cyber activity and cyber
+
+
+46
+
+**_In cyberspace,_**
+**_Russia is the_**
+**_source of the_**
+**_greatest threat_**
+**_to Estonia, the_**
+**_European Union_**
+**_and NATO._**
+**_Estonia is a_**
+**_target of hostile_**
+**_cyber acts both_**
+**_as an individual_**
+**_country, and as a_**
+**_member of the EU_**
+**_and NATO._**
+
+**_Cyber operations_**
+**_and cyber warfare_**
+**_have become a part_**
+**_of modern warfare._**
+
+
+-----
+
+testing and assessment of the adversary’s capabilities. It is
+relatively cheap and very effective to destabilise a country’s
+political or economic environment using cyber attacks, and
+thus it would be folly to assume that the IT solutions currently
+available in Estonia are entirely safe. However, constant system
+improvement, international cooperation, and educating end
+users will help reduce the potential damage arising from hostile
+cyber activity. New technologies, user convenience, cost-saving,
+and international media coverage should not outweigh the
+importance of avoiding risk to the Estonian people and state.
+
+
+47
+
+
+-----
+
+-----
+

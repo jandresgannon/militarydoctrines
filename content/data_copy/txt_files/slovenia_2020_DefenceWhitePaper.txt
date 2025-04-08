@@ -1,0 +1,1889 @@
+# DEFENCE WHITE PAPER OF THE REPUBLIC OF SLOVENIA
+
+
+## 2020
+
+
+-----
+
+-----
+
+### Dear Readers,
+
+Both in everyday life, and in the operation and development of a country, we occasio­
+nally need to stop and strategically assess our efforts to see whether they are leading
+towards the desired objective. The result of our strategic reflection is the Defence White
+Paper of the Republic of Slovenia, which represents a high level of consistency of views
+within the defence sector on the future security environment, and on the necessary
+measures to enhance the country's defence capacity, taking into account real human,
+economic and other capabilities. The purpose of the Defence White Paper is to define
+a gradual long-term development of the Republic of Slovenia’s defence system in order
+to ensure the necessary levels of capacity and preparedness for the implementation of
+national defence, and the fulfilment of the adopted international obligations.
+
+I believe that, through diligent work and analysis, we have acquired a good basis for
+directing the further development of the defence system, which will be able to function
+effectively and in accordance with its mission. This document provides guidance
+for the change, reform and strengthening of both military and non-military defence
+mechanisms to meet the contemporary security challenges. It provides the starting
+point for the preparation of planning documents which will specify the key defence
+objectives by 2035, and the way they are implemented.
+
+The security of the country and its citizens is not self-evident and should not be taken
+for granted. It is a benefit and a value that is directly related to the existence of a nation,
+a government, a democratic system, the sovereignty of a state, the protection of one's
+identity, the exercise of human rights, and other interests of nations and states. Without
+it, other national objectives relating to social, economic, political and cultural develo­
+pment and the well-being of individuals and the state cannot be achieved. Slovenia,
+like other European countries, is facing a changing and highly dynamic security envi­
+ronment. There is instability in both the eastern and southern European neighbourho­
+od. No part of Europe is safe from contemporary threats. Hybrid operations call for the
+modernization and strengthening of defence capacity, and the increased resilience of
+countries.
+
+On this basis, a new Resolution on the National Security Strategy of the Republic
+of Slovenia was adopted in 2019, which was fundamental to the preparation of the
+Defence White Paper of the Republic of Slovenia. The Defence White Paper provides
+the basis for continuing the debate on the adoption of the Resolution on the General
+Long-Term Development and Equipping Programme of the Slovenian Armed Forces.
+In it, we will strive for the widest possible consensus of the professional public and the
+policy on the long-term development of the defence system, and the manner in which
+the Slovenian Armed Forces will ensure national defence and fulfil the obligations of
+Slovenia as a member of various international organizations.
+
+The Ministry of Defence will strive to provide an efficient and resilient defence system
+which, taking into account the country's human resources, and material, financial and
+other capabilities, will develop the necessary level of Slovenia’s defence capacity.
+
+I believe that the vision presented in the Defence White Paper of the Republic of Slovenia
+will help to create the basis for the building of confidence in the defence system. We
+need confidence to create the conditions for a flexible and modern defence system
+which responds to changes in the international security environment and provides
+conditions for the functioning of other social subsystems for a quality living envi­
+ronment, development and prosperity, while giving perspective to future generations.
+
+Karl Erjavec
+
+Minister of Defence
+
+
+-----
+
+-----
+
+**VISION FOR THE DEVELOPMENT OF THE DEFENCE SYSTEM OF THE**
+
+
+### VSEBINA
+
+**INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6**
+
+
+**REPUBLIC OF SLOVENIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7**
+
+**2** **THE INTERNATIONAL SECURITY ENVIRONMENT AND SECURITY**
+**THREATS** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+**3** **DEFENCE AND SECURITY POLICY OF THE REPUBLIC OF SLOVENIA . . . 10**
+
+**3.1** **National defence and mutual security assurances . . . . . . . . . . . . . . . . . . . . . 11**
+
+**3.2** **Defence policy and international cooperation. . . . . . . . . . . . . . . . . . . . . . . . . . 12**
+
+**4** **THE SLOVENIAN ARMED FORCES** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+**4.1** **Vision for the development of the Slovenian Armed Forces. . . . . . . . . . . . . 14**
+
+**4.2** **Military capabilities and military infrastructure. . . . . . . . . . . . . . . . . . . . . . . . . 15**
+
+4.2.1 Combat capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+4.2.2 Combat support capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+4.2.3 Combat service support capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+4.2.4 Military aviation capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+4.2.5 Naval capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+4.2.6 Cyber defence capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+4.2.7 Command support capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+4.2.8 Military education and training capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+4.2.9 Military infrastructure development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+**4.3** **Size and structure of the Slovenian Armed Forces . . . . . . . . . . . . . . . . . . . . . 24**
+
+4.3.1 Size of the Slovenian Armed Forces. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+4.3.2 Structure of the Slovenian Armed Forces. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+**4.4** **Human resources** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+**4.5** **Financial resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28**
+
+**5** **CIVIL DEFENCE AS A RESILIENCE BUILDING BLOCK OF THE**
+**STATE AND SOCIETY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30**
+
+**6** **RESPONSE TO HYBRID THREATS IN THE FIELD OF DEFENCE. . . . . . . . . . 32**
+
+**7** **COMMUNICATION AND INFORMATION SYSTEM CAPABILITIES**
+**AND CYBER SECURITY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33**
+
+**8** **INTELLIGENCE AND SECURITY CAPABILITIES. . . . . . . . . . . . . . . . . . . . . . . . . 36**
+
+**9** **STRATEGIC COMMUNICATION** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+**10** **MEASURES FOR THE IMPLEMENTATION OF THE WHITE PAPER** . . . . . . 38
+
+**CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40**
+
+
+-----
+
+### INTRODUCTION
+
+In the last decade, the defence system of the Republic of Slovenia has faced
+challenges in financial, human and material resources, which, given the increa­
+singly unpredictable and uncertain international security environment, hinders
+its development and operation in accordance with the law and the adopted de­
+
+velopment guidance and planning documents.
+
+The Defence White Paper of the Republic of Slovenia is a strategic document
+outlining the vision for long-term development, the functioning of Slovenia’s
+defence system, and the achievement of key defence objectives by 2035.
+The Paper explains the policy framework and commitments for adapting the
+defence system to changes in the security environment. It takes into account
+the measures to strengthen Slovenia’s defence capacity, which were proposed
+in the Strategic Defence Review 2016, and in NATO’s defence planning and
+capabilities assessments and other findings on the condition of the defence
+system.
+
+The Defence White Paper provides planning guidance based on realistic me­
+dium-term bases for pursuing the objectives of the defence system’s deve­
+lopment in the long term. It recognizes the effects of the deterioration in the
+security environment, the emergence of new technological trends, and demo­
+graphic trends in the Republic of Slovenia and abroad. It expresses the deter­
+mination of the Republic of Slovenia to strengthen its defence system, and
+stresses the need for the implementation of measures in the field of defence.
+
+The greatest challenges for the development of the defence system, especially
+for the Slovenian Armed Forces as the entity responsible for military defence,
+are to reach the planned number of personnel, complete its professionalizati­
+on, continue with modernization, and appropriately fund its operation and de­
+velopment.
+
+The purpose of the Defence White Paper is to define the gradual and long-term
+development of Slovenia’s defence system, in order to ensure the necessary
+level of capacity and preparedness for the implementation of national defence
+and the fulfilment of the adopted international obligations. It takes into account
+the comprehensive approach and importance of the resilience of the country
+and society as a whole to various forms of security threats and risks.
+
+The following points were taken into account when preparing the Defence
+White Paper:
+
+– The complexity, variability and uncertainty of the future international security
+
+environment;
+
+– The appropriate organization and effective defence of the Republic of
+
+Slovenia;
+
+– The national defence of the Republic of Slovenia as part of the collecti­
+
+ve defence within the framework of NATO and the common security and
+defence policy of the European Union;
+
+– The primary responsibility of the Republic of Slovenia to ensure the capacity,
+
+preparedness, resilience and sustainability of the national defence;
+
+– The unfavorable long-term demographic trends in the Republic of Slovenia
+
+and abroad;
+
+– The poor competitiveness of the military profession in the labour market;
+
+– The consequences of the lack of financial resources and investments in the
+
+development of defence capacity in the past.
+
+
+-----
+
+### REPUBLIC OF SLOVENIA
+
+### 1 VISION FOR THE
+ DEVELOPMENT OF THE DEFENCE SYSTEM OF THE
+
+
+The defence system of the Republic of Slovenia will adapt to changes in the
+strategic environment, which is characterized by the deteriorating security
+in Europe and its periphery. It will be resilient and able to respond to future
+security threats and challenges. The development of the defence system will be
+based on two important assumptions: that efforts by the state and society are
+essential for the proper organization and preparation of the national defence
+of the Republic of Slovenia; and that the national defence of the Republic of
+Slovenia is closely linked to NATO’s collective defence and to mutual assistan­
+ce within the European Union.
+
+The defence system of the Republic of Slovenia will provide the necessary
+level of competence, preparedness, resilience, and sustainability of defence
+capacity, and will contribute to the overall resilience of the state and society to
+respond to contemporary and future security challenges and threats.
+
+The effectiveness of the defence system will be based on professionalism,
+transparency, belonging, patriotism, mutual respect, and recognition of the im­
+portance of the defence system entities in the wider social environment.
+
+With an ambitious and predictable level of defence spending, the Republic of
+Slovenia will, in the long term, provide human, financial and material resources
+for the continual modernization of the defence system, and the development
+of defence capacity.
+
+The national interests of the Republic of Slovenia in the field of defence will be
+achieved by strengthening a credible defence posture, by active engagement
+in the international environment, and by carrying out the adopted international
+obligations.
+
+The Republic of Slovenia will have an army capable of defending the country
+from military threats; an army which will contribute a proportional share of
+its capabilities to the Alliance's common defence; and an army whose skills,
+knowledge, training level, and capabilities will help to ensure the security of the
+country and its citizens, and establish and preserve peace in the world. The
+updated strategic and planning guidelines and normative bases will provide
+the Slovenian Armed Forces with system, status, financial, material, human
+resource, doctrinal, and other conditions for its development and the provision
+of necessary readiness.
+
+
+-----
+
+### 2 THE INTERNATIONAL
+ SECURITY ENVIRONMENT AND SECURITY THREATS
+
+
+After a period of the easing of tensions in the international security envi­
+ronment, these are increasing once more. The modern international security
+environment is changing rapidly. Globalization has made it more intercon­
+nected, complex and interdependent, which, in addition to the positive con­
+sequences, also has negative ones.
+
+The state of international relations is shifting towards multipolarity, with the
+emergence of new centres of power at the global and regional levels, and the
+related expansion of areas of influence. We are facing a transformation in the
+established international connections and relationships; new dynamics within
+the existing organizations and mechanisms of the international community;
+and challenges in the European security architecture, international law, multila­
+teralism, and democratic values.
+
+In the area of security, the levers of national power of conventional and uncon­
+ventional origin are strengthening, along with the use of hybrid actions across
+the broader social, political, economic, financial, intelligence, information, and
+media spectrums. National interests are pursued through the engagement of
+non-state actors, especially in fragile and conflict areas.
+
+Security risks stem mainly from unstable geographical areas characterized
+by internal conflicts, failure of authority, corruption, poverty, scarce resources,
+land degradation, and population growth, which creates conditions for the
+spread of radicalism, terrorism, crime, and illegal mass migration. The impact
+of climate change is another factor influencing the development of the security
+situation, while the speed and scale of population movements cause increased
+epidemiological risks.
+
+Technological advances and the availability of knowledge, products, and tech­
+nologies to state and non-state actors have a significant influence on the deve­
+lopment of security threats, which may in turn influence the emergence of new
+security challenges in new domains of operation. All this brings new challen­
+ges and requirements for preserving the effectiveness of the defence system.
+
+The Republic of Slovenia recognizes and manages the consequences of the
+changed security environment surrounding the European Union, and with the
+risks from its periphery. The processes of stabilization in the Western Balkans
+remain unfinished, causing an increase in the radicalization and influence of
+
+
+-----
+
+external actors. Migration pressure remains strong in the south and may affect
+the security and stability of the country.
+
+Given its geostrategic and geopolitical position, the Republic of Slovenia may
+be exposed to hybrid operations, attacks on critical infrastructure, terrorism,
+mass migration pressures, and potential military threats in the event of a dete­
+rioration in the international or regional political security situation.
+
+An effective response to modern threats requires an improvement in the
+defence capacity of the Republic of Slovenia. The Defence White Paper of the
+Republic of Slovenia focuses on the introduction of a wide range of measures
+for the organizational, human resources, material, and technological moder­
+nization of the defence system. In order to achieve these objectives it is of
+primary importance to gain a broad social understanding of the changing
+security environment and the associated risks of the operation and develo­
+pment of the Republic of Slovenia in the long term, which requires a responsive
+and functioning defence system.
+
+
+Complex,
+
+interdependent
+
+
+and unpredictable
+
+security ATTACK ON THE
+
+environment OPERATION OF CRITICAL
+
+INFRASTRUCTURE
+
+MILITARY
+THREATS
+
+CRIME
+
+HYBRID
+
+OPERATION ILLEGAL
+
+MIGRATION
+
+TERRORISM
+
+**D**
+
+**PEACE** SCARCITY
+
+**SECURITY** OF
+
+RADICALISM RESOURCES
+
+**STABILITY**
+
+ADJUSTING THE
+
+DEFENCE SYSTEM
+
+
+-----
+
+### 3 DEFENCE AND SECURITY
+ POLICY OF THE REPUBLIC OF SLOVENIA
+
+
+The Republic of Slovenia is a globally and regionally responsible country,
+committed to solidarity and striving for the promotion of peace, security and
+stability, respect for human rights and international law, prevention of conflict,
+and jointly addressing global security challenges. The defence system of the
+Republic of Slovenia will support lasting and strategic national interests which
+will enable the creation of a safe environment as a condition for the welfare of
+the state, society, and citizens.
+
+The permanent and vitally important interests of the Republic of Slovenia are
+to maintain the independence, sovereignty, and territorial integrity of the state,
+and to maintain the national identity, culture, and authenticity of the Slovenian
+nation within the internationally recognized borders of the Republic of Slovenia,
+abroad, and throughout the world.
+
+The strategic interests of the Republic of Slovenia are the recognition of and
+respect for the inviolability of the country's internationally recognized borders
+and its national territory, including the territorial waters and the airspace of the
+Republic of Slovenia; the functioning of the democratic parliamentary political
+system; respect for human rights and fundamental freedoms; strengthening
+of the rule of law and the social state; the welfare of its people and a com­
+prehensive development of society; the protection of life and a high level of
+all forms of security for its people; the protection of the rights and prosperity
+of Slovenian indigenous ethnic communities in neighbouring countries; peace,
+security and stability in the world; and the preservation of the environment and
+natural resources of the Republic of Slovenia.
+
+The Republic of Slovenia is an integral part of the Euro-Atlantic political,
+economic, security, and cultural environment. It respects and shares important
+values with its allies and partners – respect for human rights and fundamental
+freedoms, and the strengthening of democracy and the rule of law.
+
+The Republic of Slovenia pursues its vital and strategic national interests auto­
+nomously, through intense bilateral cooperation, and by maintaining an active
+role in the region and in the United Nations Organization, the European Union,
+NATO, and other international organizations. It uses mechanisms and means
+in compliance with the provisions of international law.
+
+The defence system ensures the defence of the country and contributes to
+other national security objectives of the Republic of Slovenia, such as ensuring
+a high level of security and prosperity of the citizens; cooperation in deterrence
+and defence against the threats to security and in ensuring peace in the world;
+strengthening its international reputation, the political security position, and
+the visibility of the Republic of Slovenia in the world; and developing good rela­
+tionships with its allies, partners and other countries. Strengthening the wider
+involvement of countries in the Euro-Atlantic environment, defined by stability,
+equality, prosperity and solidarity, is in the national interest of the Republic of
+Slovenia. Such an environment remains an important factor in a more equal
+position of all actors in the international community, and a guarantee of stability.
+
+
+-----
+
+proportionate share of the burden and risks in relation to the European Union
+
+#### 3.1 National defence and mutual
+ security assurances
+
+A responsive and effective national defence is the cornerstone of a sovereign
+state in ensuring its security and defence. It reflects credibility in assuming a
+
+and NATO. The most important element of national defence is sufficient in­
+vestment in the development of the national defence capacity based on the
+national planning priorities, NATO's defence planning process, and defence
+planning within the European Union.
+
+The Republic of Slovenia will ensure its defence capacity and its preparedness
+for and responsiveness to military and other threats. This includes the approp­
+riate size, structure, equipment, and capabilities of its military and civilian
+defence capacity. National defence is based on the implementation of military
+defence and on the implementation of measures to ensure the resilience of
+society as a whole.
+
+The implementation of the military defence of the Republic of Slovenia will,
+as a matter of priority, be ensured by respecting the mechanisms of mutual
+assistance and solidarity within the European Union, and by an appropriate
+level of Slovenia’s own defence capacity, which is the basis for effective inte­
+gration into NATO’s collective defence system.
+
+As a member of NATO, the Republic of Slovenia receives security assuran­
+ces and accepts commitments, since NATO's collective defence is based on a
+sufficient range of the Allies' national capabilities. Involvement in the collecti­
+ve defence system allows for a more rational development of Slovenia’s own
+defence capacity. Strengthening the national defence means strengthening
+the collective defence and vice versa, based on burden sharing and the develo­
+pment of agreed capabilities.
+
+Building defence
+
+NATO’s collective
+
+National capacity while
+
+defence
+
+defence of the respecting the
+
+and mutual
+
+RS principle of burden
+
+assistance
+
+sharing
+
+within the EU
+
+
+The Republic of Slovenia has committed itself to a gradual long-term approxi­
+mation to a defence spending target of 2% of GDP within broad fiscal fra­
+meworks, and a defence investment share of 20% of defence spending, with
+an intermediate target of 1.5% of GDP by 2024.
+
+
+A responsive and
+
+effective national
+
+defence is the
+
+cornerstone of a
+
+sovereign state in
+
+ensuring security
+
+and defence
+
+
+-----
+
+The long-term strengthening of the deterrence and defence posture increases
+the importance of NATO's collective defence, in line with the negative changes
+in the international security environment. In the coming years, all allies will be
+required to make additional efforts which will be reflected in the development
+of more advanced capabilities, additional contributions to allied and related
+structures, a greater range of exercises, and a higher level of force readiness.
+
+#### 3.2 Defence policy and
+ international cooperation
+
+The consequences of crisis situations, instability, and conflicts in the world
+may have negative effects on the national security of the Republic of Slovenia
+in the globally interdependent and interconnected environment. It is therefore
+important to address the causes of instability at the place of their origin
+through various foreign, defence, and security policy mechanisms, and in
+accordance with the provisions of international law.
+
+The Republic of Slovenia, as a responsible member of the international
+community, will contribute to international political, military and other efforts
+for peace, security and stability in the Western Balkans and in the wider
+European area, the Mediterranean, the Middle East, Sub-Saharan Africa, and
+Central Asia, in accordance with its capabilities and the provisions of national
+and international law. It will also be active in providing assistance in the event
+of natural and other disasters in these areas.
+
+Participation of the Slovenian Armed Forces in international operations and
+missions, and in NATO and European Union response forces, will remain an
+important factor in achieving responsiveness and a higher level of compe­
+tence, efficiency and interoperability of forces. The Republic of Slovenia will
+maintain a discernible comparative share in terms of broader burden-sharing,
+and adjust the contribution ratio for international operations and missions
+and for NATO and European Union response forces in line with its operational
+priorities. It will also support the mission and efforts of the United Nations
+and the Organization for Security and Cooperation in Europe in various fields.
+
+The Republic of Slovenia will contribute to ensuring the common defence
+of its territory, people and values by participating in the basic tasks of the
+Alliance, such as collective defence, crisis management and cooperative
+security. The commitment of the Republic of Slovenia to the North Atlantic
+Treaty will be manifested through joint contribution to the deterrence and co­
+llective defence measures, contribution to response forces, and participation
+in exercises and other activities to ensure preparedness for various security
+challenges and threats, taking into account the sustainability of forces and
+their capabilities. The Republic of Slovenia will establish its national defence
+capacity and the agreed target capabilities of the Alliance in accordance with
+its national interests and needs.
+
+It will contribute to the implementation of the Global Strategy for the European
+Union's Foreign and Security Policy in the area of security. It will strengthen
+the efforts to ensure resilience in the south and east of the European Union,
+a common approach to conflicts and crises, regional cooperation, and inter­
+national law.
+
+
+-----
+
+Close involvement of members will be important in the development of
+defence capacity and permanent structured cooperation, the fulfilment of
+commitments to mutual assistance and solidarity, response to hybrid ope­
+rations, and cooperation with NATO in the development of capabilities and
+activities in crisis areas.
+
+The Republic of Slovenia will respect the principle of a single set of forces
+
+and capability development. Coordination in counteracting cyber and hybrid
+threats and active participation in the development of military mobility will be
+important for Slovenia’s national security on the basis of the Joint Declarati­
+on of the European Union and NATO. A cohesive and credible European Union
+strengthens NATO's European pillar as the foundation of Europe's collective
+defence and transatlantic ties, and enhances the role of the European Union
+as a global security and defence actor.
+
+Regional and bilateral cooperation will be an important complement to co­
+operation in a multilateral context for the Republic of Slovenia. Enhanced
+cooperation with our allies and strategic and other defence and security
+partners, based on similar interests, objectives and starting points, will focus
+on the joint building of specific capabilities, the implementation of moder­
+nization projects, participation in international operations and missions, the
+implementation of joint training and exercises, the transfer of experience in
+defence and security, and potential joint action within different international
+organizations. Cooperation with the countries of the Western Balkans will
+also be enhanced in order to strengthen the Euro-Atlantic integration of these
+countries.
+
+
+-----
+
+### 4 THE SLOVENIAN
+ ARMED FORCES
+
+The mission of the Slovenian Armed Forces is to deter military aggression
+
+allies, and to contribute to international peace and stability both within and
+outside the Alliance’s borders. The Slovenian Armed Forces provides military
+defence to the Republic of Slovenia independently and in cooperation with its
+allies in the event of military aggression.
+
+The modern security environment requires the Slovenian Armed Forces to
+increase its ability to operate in various security, military and defence scenarios
+across the entire spectrum of operations; increase its level of readiness; and
+increase the resilience and sustainability of military capabilities.
+
+The capabilities of the Slovenian Armed Forces support various national
+security subsystems in the territory of the Republic of Slovenia in crisis and
+other security-critical situations.
+
+#### 4.1 Vision for the development of
+ the Slovenian Armed Forces
+
+The Slovenian Armed Forces will be able and prepared to defend and protect
+the country with its own capabilities and in cooperation with its allies. It will
+cooperate in ensuring the overall security of the country and its citizens, and in
+maintaining and establishing peace, security and stability in the world.
+
+The ability and readiness of the Slovenian Armed Forces will be based on
+trained and skilled soldiers, competent leaders, quality equipment, high-level
+commands and units, and the ability to adapt to the complex security envi­
+ronment.
+
+The Slovenian Armed Forces will be an advanced and effective military organi­
+zation which will develop the necessary military capabilities, raise the level of
+general readiness and resilience, and create conditions for increasing its size
+in the event of a sharp deterioration in the security situation or an immediate
+military threat to the country.
+
+The following development objectives will need to be met to achieve this vision:
+
+– Modernization of the Slovenian Armed Forces, with a focus on developing
+
+the military capabilities of two medium battalion battle groups;
+
+– Construction and modernization of critical infrastructure and training areas
+
+for the operation and development of the Slovenian Armed Forces and the
+defence system;
+
+– Strengthening of technologically advanced military capabilities as a force
+
+multiplier;
+
+
+-----
+
+– The fulfilment of international commitments of the Republic of Slovenia
+
+relating to the establishment of agreed military capabilities, to military con­
+tribution to international operations and missions, to response forces, and to
+the provision of financial resources;
+
+– Improvement in the position and reputation of the military profession in
+
+society;
+
+– Upgrading of the system of recruitment, retention and exit of members of
+
+the Slovenian Armed Forces;
+
+– Development of military professionalism, leadership and organizational
+
+culture, which are the foundations of an effective military organization;
+
+– Upgrading of the military education and training system;
+
+– Establishment of conditions for increasing the contract reserve component
+
+and the voluntary military service;
+
+– An active role of the Slovenian Armed Forces in the recruitment and
+
+promotion of the military profession;
+
+– Strengthening of the connection of the Slovenian Armed Forces to the local
+
+environment in the wider area of the Republic of Slovenia;
+
+– Strengthening of the connection of the Slovenian Armed Forces to other
+
+national security subsystems.
+
+#### 4.2 Military capabilities and
+ military infrastructure
+
+The Slovenian Armed Forces will develop combat, combat support, combat
+service support, command support, and military education and training capa­
+bilities. Part of these capabilities will be dual purpose, which means that they
+can be used both for protection and rescue and for support to other national
+authorities.
+
+Certain capabilities will not be developed by the Slovenian Armed Forces on its
+own, but will be provided within the Alliance or jointly through appropriate agre­
+ements with individual allied or partner countries.
+
+Financial resources will be primarily devoted to launching major modernization
+projects and to infrastructure capabilities of the Slovenian Armed Forces. To
+this end, appropriate legislation will be prepared for the implementation of key
+equipping projects of the Slovenian Armed Forces.
+
+Key modernization projects will be the purchase of wheeled combat vehicles,
+self-propelled howitzers, short- to medium-range air defence systems, and
+multi-purpose helicopters. The possibilities for joint procurement with other
+countries or within the agencies of the European Union and NATO, and through
+intergovernmental agreements, will be primarily taken into account when the
+market analysis concludes that such purchases represent the best option in
+the light of cost optimization and transparency of procurement. This includes
+the purchase and modernization of military equipment already held by the
+Slovenian Armed Forces. Tested military equipment will be selected, with no
+risks in its development and use. The possibilities and purpose of purchasing
+used military equipment and weapons will be examined.
+
+
+-----
+
+the establishment of the capabilities of a medium battalion battle group. Its key
+
+4.2.1 Combat capabilities
+
+The combat capabilities of the Slovenian Armed Forces will be based on
+medium infantry with the ability to form a task brigade-level unit.
+
+The core of the Slovenian Armed Forces’ capabilities and modernization will be
+
+building blocks will be wheeled armoured vehicles with appropriate firepower,
+and ballistic and counter-mine protection of the crew. The capabilities of air
+defence, artillery, engineering, nuclear, radiological, chemical and biological
+defence, communications, and reconnaissance will be included in the medium
+battalion battle group. These capabilities will be designed in accordance with
+the standards of the Alliance. Taking into account the principle of a single set
+of forces, the medium battalion battle group will be dedicated to ensuring
+national defence and meeting the international obligations of the Republic of
+Slovenia. The first medium battalion battle group will be formed by 2027, and
+the second by 2030.
+
+Light infantry will carry out tasks within the national territory and in internati­
+onal operations and missions. It will complement the capabilities of medium
+infantry, and provide training and operation of the contract reserve component.
+It will enable the establishment of the elements for the growth of the force,
+based on the activation of the concept of military strategic reserve.
+
+The capabilities of special forces will be dedicated to carrying out special
+reconnaissance tasks, training foreign armed forces, obtaining important
+military information, and fighting against military objectives in the depths of
+the enemy’s territory.
+
+
+-----
+
+Armoured capabilities will participate in joint combat operations at the national
+level and, to a limited extent, within the Alliance’s territory, and provide capabi­
+lities for the training of infantry units.
+
+4.2.2 Combat support capabilities
+
+Combat support capabilities will be based on joint fire support capabiliti­
+es (artillery support, anti-tank missile support, air support); intelligence and
+reconnaissance support; electronic warfare; combat engineer support; air
+defence; nuclear, radiological, chemical and biological defence; psychological
+operations; civil-military cooperation; and ensuring the security and legality of
+operations.
+
+The capabilities of artillery support will support units up to the brigade level in
+the territory of the Republic of Slovenia, and provide appropriate capabilities for
+the medium battalion battle group. These capabilities will be based on self-pro­
+pelled artillery systems with digitized and networked systems for fire control
+and long-range operations.
+
+Anti-tank capabilities will be upgraded within the infantry capabilities, either as
+part of infantry units or as part of task anti-tank formations, operating indepen­
+dently or within the medium battalion battle group. They will be equipped with
+modern portable and mobile anti-tank weapons.
+
+
+-----
+
+capabilities for the medium battalion battle group. General engineering capa­
+
+Air defence capabilities will be based on modern short- to medium-range
+mobile systems. They will provide direct and indirect protection to the Slovenian
+Armed Forces and critical infrastructure.
+
+The capabilities of combat engineering will ensure the mobility and survival of
+friendly forces, and prevent the manoeuvring of enemy forces. They will provide
+
+bilities will ensure the construction and maintenance of military infrastructure.
+
+Nuclear, radiological, chemical and biological defence capabilities will be able
+to detect and identify nuclear, radiological, chemical and biological substan­
+ces, and to decontaminate personnel, equipment and assets. Modules for the
+medium battalion battle group will be established from a range of nuclear, ra­
+diological, chemical and biological defence capabilities. Nuclear, radiological,
+chemical and biological defence capabilities will be deployable.
+
+Military intelligence and reconnaissance capabilities will be used for reconna­
+issance, observation, targeting, data collection and analysis, and the provision
+of intelligence. They will consist of intelligence acquisition, analysis and dis­
+tribution capabilities. These capabilities will be deployable and interoperable
+with the capabilities of the Alliance; they will be able to support the operation
+of units to the brigade level.
+
+Electronic reconnaissance and warfare capabilities will support the implemen­
+tation of the Republic of Slovenia's defence interests, and protect the Slovenian
+Armed Forces’ units in the electromagnetic spectrum. Electronic warfare ca­
+pabilities will be deployable, while electronic reconnaissance capabilities will
+be partially deployable.
+
+Psychological operations (PSYOPS), civil-military cooperation (CIMIC), and
+Military Police capabilities will be deployable and will support the operation of
+the Slovenian Armed Forces.
+
+4.2.3 Combat service support capabilities
+
+Combat service support capabilities will enable the operation and sustaina­
+bility of the Slovenian Armed Forces within the national context, while part of
+the capabilities will be able to support the Slovenian Armed Forces outside the
+country. Development will cover autonomous and organic deployable logistic
+capabilities providing logistic sustainability and support to tactical units of the
+Slovenian Armed Forces in international operations and missions.
+
+Tactical units of the Slovenian Armed Forces will be logistically self-suffici­
+ent. The development of non-deployable logistic capabilities to support the
+Slovenian Armed Forces will be directed towards increasing its combat effecti­
+veness.
+
+The deployability of the Slovenian Armed Forces will be based on land, maritime
+and air strategic transport, which will be provided through various initiatives by
+NATO and the European Union, and by contractors.
+
+
+-----
+
+4.2.4 Military aviation capabilities
+
+Military aviation capabilities consist of the capabilities for air operations, air
+support, and aviation education and training. These capabilities will support
+air transport, provide protection to the Republic of Slovenia’s airspace, and
+
+operations within the Slovenian Armed Forces, and on joint operations within
+the Alliance.
+
+Military aviation capabilities will be deployable within the Alliance’s territory,
+and partly deployable outside it.
+
+The establishment of new capabilities will follow the principle of reducing the
+number of different types of aircraft, and the principle of their multi-purpose
+use. Efforts will also be directed towards the establishment and provision of
+medium-range air transport capabilities.
+
+Air surveillance by interceptor aircraft (air policing) will take place within NATO.
+
+
+-----
+
+4.2.5 Naval capabilities
+
+The Slovenian Armed Forces will develop capabilities for naval operations
+designed to operate at sea, on the coast, and on rivers and lakes, either inde­
+pendently or in cooperation with other units of the Slovenian Armed Forces
+
+operations, and for combat service support. Part of the naval capabilities will
+be deployable mainly within the Alliance's European area.
+
+4.2.6 Cyber defence capabilities
+
+The Slovenian Armed Forces' cyber defence capabilities will be integrated
+into the Ministry of Defence's comprehensive system and the national cyber
+security and defence system. Part of the capabilities will be deployable.
+
+The Slovenian Armed Forces will establish cyber defence capabilities which
+will be able to detect, prevent, and respond to cyber security incidents in real
+time. They will be based on a comprehensive approach that ensures secure
+communication channels and the protection of military information systems.
+
+In the development of these capabilities, the Slovenian Armed Forces will be
+closely involved in NATO and European Union projects. The possibilities in the
+context of bilateral cooperation with key strategic partners will continue to be
+used in the development.
+
+4.2.7 Command support capabilities
+
+Command support capabilities will support command and control functions
+at strategic, operational and tactical levels. The command and control system
+will enable interoperability and cooperation within the national and internati­
+onal environments.
+
+A secure and flexible high-availability network infrastructure will be establi­
+shed. The command and control system will be supported by application
+solutions to support decision-making and command. Part of these capabili­
+ties will be deployable.
+
+The Slovenian Armed Forces’ airspace command system will, in the long
+term, be based on NATO’s air command and control system. Air surveillance
+capabilities will be based on current long-range radar systems. The Airspace
+Surveillance and Control Centre will be an integral part of NATO's Integrated
+Air and Missile Defence System.
+
+Naval capabilities will be connected to maritime communication and in­
+formation systems in accordance with international standards. Situational
+awareness at sea will be established in cooperation with other maritime
+security actors at national and international levels.
+
+
+-----
+
+4.2.8 Military education and training capabilities
+
+Military education and training capabilities will enable and support the operation
+and development of the Slovenian Armed Forces. Their proper integration into
+the civilian education system will be ensured to support the development of
+
+To this end, military education and training capabilities will focus on enhancing
+professionalism and expertise, including in relation to foreign military educati­
+onal institutions. Military education and training capabilities will be developed
+and upgraded in line with changes in society, technological advances, the de­
+velopment of the military profession, and lessons learned in contemporary
+armed conflicts.
+
+Particular attention will be devoted to the development of the combat character
+and organizational culture of the Slovenian Armed Forces, to leadership skills,
+and the professionalism and morale of members.
+
+Research and scientific work will be strengthened and integrated as much as
+possible into civilian scientific research processes. An important mission and
+objective of military education and training will be to provide members of the
+Slovenian Armed Forces with an appropriate level of knowledge and compe­
+tence, and thus ensure their competitiveness in the civilian environment, espe­
+cially after the end of their military careers.
+
+The system of officer education will be renewed, with entry to the officer corps
+being made possible chiefly directly after the first level of Bologna education.
+
+
+-----
+
+The military education system will be expected to be verified and habilitated at
+the level of comparable civilian education systems. Basic military training will
+take place in the Republic of Slovenia. Military education and training abroad
+will be used to develop specific, specialized and high-skill profiles.
+
+There will be more specialist military education and training for the needs of
+branches and services, more functional and joint training and practice, and
+
+more joint tactical exercises, including tactical live-fire exercises. High-quality
+training will be ensured through the purchase of modern training equipment
+and assets, and the upgrading of training infrastructure.
+
+Military education and training of contract reserve officers and non-commissi­
+oned officers will be organized in order to increase the size of the Slovenian
+Armed Forces, and thus will ensure the necessary human resources for the
+operation of the contract reserve component and for the training of the military
+strategic reserve.
+
+Military exercises – as the most demanding form of training – will be intended
+for the training and verification of the competence and readiness of the
+Slovenian Armed Forces’ commands and units to operate across the entire
+spectrum of operations. The priority in the area of international exercises will
+be to participate in exercises that support the development of target capabiliti­
+es, and which are included in the Alliance’s exercise programme.
+
+4.2.9 Military infrastructure development
+
+Military infrastructure will provide the conditions for operation, training,
+practice and education. The infrastructure of the Slovenian Armed Forces
+will be adapted to the needs of the armed forces, and the development of
+the defence system. The development of military infrastructure will focus on
+system maintenance and the upgrading of infrastructure, equipment, devices
+and systems, on energy and the environmental rehabilitation of infrastructure,
+and on ensuring the prescribed conditions for its use.
+
+Parts of military infrastructure will be included in Host Nation Support to allied
+forces. Specific barracks capabilities will be arranged and modernized for the
+purpose of Host Nation Support.
+
+Firing ranges and training areas, by their regional location and equipment,
+will enable the training of units, and will be adapted to the increased size of
+the Slovenian Armed Forces. The Main Training Area of the Slovenian Armed
+Forces in Postojna will be the key training capability for the Slovenian Armed
+Forces’ commands and units, and for joint training and exercises with partners
+and allies. The Slovenian Armed Forces will also use the infrastructure of the
+Alliance member states and partner countries abroad for their training.
+
+The construction of infrastructure for the operational functioning of the
+Slovenian Armed Forces at Cerklje ob Krki Airfield will be completed, giving the
+airfield the status of an entry-exit point into international airspace for military
+aircraft. The airport will carry out the allied task of Host Nation Support.
+
+Part of Jože Pučnik Airport will remain in use for the Slovenian Armed Forces,
+
+
+mainly for the operation of the helicopter units of the Slovenian Armed Forces
+
+
+-----
+
+in support of the system of protection against natural and other disasters, and
+for the surveillance, control and protection of Slovenia’s airspace.
+
+Mooring of military vessels will be provided in the Port of Koper. The necessary
+additional naval infrastructure will be provided in the vicinity of existing military
+facilities.
+
+Infrastructure for cyber defence capabilities will be provided.
+
+The construction of infrastructure, equipment and facilities for communication
+and command support will continue. Telecommunication and optical networks
+will be upgraded, modernized and adapted.
+
+Repair shops, military depots and other necessary infrastructure will be built
+and modernized simultaneously with the purchase and introduction of new
+weapon systems into the operational use of the Slovenian Armed Forces.
+
+
+-----
+
+4.3.1 Size of the Slovenian Armed Forces
+
+#### 4.3 Size and structure of the
+ Slovenian Armed Forces
+
+
+The size of the Slovenian Armed Forces will reflect the real possibilities of
+the country’s human and economic capabilities, with an enhanced role of
+the contract reserve component in order to strengthen the country’s defence
+capacity and resilience.
+
+In pursuing the long-term target size and structure of the Slovenian Armed
+Forces within the framework of recasting development guidance and planning
+documents, it will be necessary for it to be based on the real situation and cir­
+cumstances under which the defence system and the Slovenian Armed Forces
+operate now and will operate in the future. The most important issue for armed
+forces with a professional system of recruitment is the establishment and ma­
+intenance of mechanisms to increase their size and structure, in accordance
+with the need and the available sources and resources of the state and society.
+On the basis of military professional assessments, the fulfilment of legal tasks
+and commitments, and the need to respond effectively, taking into account the
+uncertain security environment in the future, the target size of the Slovenian
+Armed Forces is set at 8,000 members of the active component and 2,000
+members of the contract reserve component.
+
+In order to achieve the long-term target size and structure of the Slovenian
+Armed Forces, it will be necessary to implement measures to successful­
+ly address both wider demographic trends and the decline in the population
+who have completed military service or have fundamental military knowledge,
+who represent an important resource of personnel for completing the active
+component and, even more so, the contract reserve component and the
+military strategic reserve. The actual human and financial resources, and also
+the current level of modernization and the already developed capabilities of
+the Slovenian Armed Forces, will be taken into account in the preparation of
+appropriate normative, development guidance and planning documents, and
+the proposal of the new Resolution on the General Long-Term Development
+and Equipping Programme of the Slovenian Armed Forces and the future me­
+dium-term defence programmes.
+
+The target size of the Slovenian Armed Forces will be achieved in stages.
+The objective in the period 2020-2025 is to have 7,000 members of the active
+component of the Slovenian Armed Forces, and 1,000 members of the contract
+reserve component of the Slovenian Armed Forces, while at the same time fun­
+damentally reforming the system of recruitment and retention of members and
+their leaving the service. The objective in the period 2025-2030 is to increase
+the size and structure of the Slovenian Armed Forces to 7,500 members of the
+active component and 1,500 members of the contract reserve component, if
+the measures to improve human and financial resources are successfully im­
+plemented and the process of modernization and capability development is
+strengthened. In the period 2030-2035, the target size of 8,000 members of
+the active component and 2,000 members of the contract reserve component
+will be achieved.
+
+
+-----
+
+Target for the
+
+number of SAF
+
+members
+
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+
+2020 2025 2030 2035
+
+Active component Contract reserve
+
+A concept of the contract reserve component, divided into a manoeuvre and a
+territorial part in the future, will be redefined. The manoeuvre part of the contract
+reserve component will carry out the whole range of tasks of the Slovenian
+Armed Forces, and will supplement the capabilities of their units manned by
+the active component, including participation in international operations and
+missions, and in collective defence. The system of training for the members
+of the contract reserve component to achieve an appropriate and comparable
+level of competence and training will be re-designed accordingly. The status
+of the members of the contract reserve component in the civilian environment
+will be improved; in particular, adequate legal protection for labour rights during
+longer absences from work due to the performance of military service.
+
+The territorial part of the contract reserve component, led by the active core
+of the active component, will operate exclusively in national territory. It will be
+trained for national defence, and will participate in support activities to the
+entities of the security system and of the system of protection against natural
+and other disasters.
+
+The military capabilities of the Republic of Slovenia will be increased through
+the military strategic reserve in the event of an imminent risk of an attack
+against the state or the declaration of a state of emergency or war.
+
+If the planned measures in the stated periods do not contribute to an
+increased number of personnel in the Slovenian Armed Forces (both the active
+component and the contract reserve component) or if the result is far from the
+target objective, it will be necessary to rethink the defence system concept of
+the Republic of Slovenia, the size and structure of the Slovenian Armed Forces,
+and the introduction of other components of military service.
+
+
+-----
+
+Armed
+
+4.3.2 Structure of the Slovenian Armed Forces
+
+The Slovenian Armed Forces will be organized at strategic, operational and
+tactical levels.
+
+Structure
+
+of the STRATEGIC
+
+GENERAL STAFF OF THE SAF
+
+Slovenian LEVEL
+
+Forces
+
+
+OPERATIONAL FORCE COMMAND OF THE SAF
+
+LEVEL MILITARY SCHOOLS CENTRE
+
+
+MANOEUVRE PART (commands and units)
+
+TACTICAL LEVEL TERRITORIAL PART (military territorial
+
+commands and units)
+
+
+The highest military professional body charged with commanding the Slovenian
+Armed Forces at the strategic level will be the General Staff of the Slovenian
+Armed Forces.
+
+At the operational level, the Force Command of the Slovenian Armed Forces will
+be responsible for the readiness and competence of subordinate commands
+and units; for the operation of the SAF forces in Slovenia and abroad, including
+support to the system of protection against natural and other disasters; for
+assistance to other state authorities; for civil-military cooperation; and for the
+maintenance of the peacetime cores which will enable a gradual increase in
+the size of the Slovenian Armed Forces. If other components of military service
+which would significantly increase the planned target size of the Slovenian
+Armed Forces are to be activated, the possibility of establishing additional
+commands at the operational level will be examined, if need be.
+
+The Military Schools Centre will be responsible for the organization and imple­
+mentation of military education.
+
+Commands and units, in addition to military territorial commands, will be esta­
+blished at the tactical level, representing the maneouvre part and, to a certain
+extent, the support part of the Slovenian Armed Forces. The main tasks of
+the manoeuvre part of the Slovenian Armed Forces, which will be composed
+mostly of the active component, self-sufficient in terms of logistics and mainly
+deployable, will be to ensure and maintain the required level of readiness of
+the response and declared forces intended for operations in the Republic of
+Slovenia and for collective defence, and to develop capabilities, maintain the
+ability to rapidly generate crisis response forces, form, train and prepare con­
+tingents for international operations and missions, and ensure interoperabili­
+ty and the ability to operate in a multinational environment. The support part
+of the Slovenian Armed Forces will be responsible for the maintenance of
+technical goods, equipment and weapons.
+
+The military territorial commands will complete the manoeuvre part of the
+Slovenian Armed Forces through territorial units; train the territorial part of the
+contract reserve component; implement civil-military cooperation; support the
+system of protection against natural and other disasters; provide assistance to
+other state authorities; carry out services regarding territorial logistics; provide
+Host Nation Support services; and maintain the peacetime cores which will
+
+
+-----
+
+enable a gradual increase in the size of the Slovenian Armed Forces. The core
+of commands will be manned by the active component.
+
+The Slovenian Armed Forces will conduct joint combat operations and be
+capable of forming a task tactical unit to the brigade level in the national
+framework, manned by the active component and the contract reserve
+component.
+
+
+The units of the Slovenian Armed Forces intended for combat, combat
+support, combat service support and command support will consist of the
+active component and the manoeuvre contract reserve component, and will
+be organized as battalions or regiments. The military territorial commands
+will be manned by the active component and the territorial contract reserve
+component at the regiment and brigade levels.
+
+The peacetime structure of the Slovenian Armed Forces will enable voluntary
+military service under its fundamental tasks.
+
+The proportion of deployable forces of the SAF land component will be 50%,
+meaning that up to 50% of the SAF land component will be organized, equipped
+and trained for operations outside national territory. Deployable forces will be
+declared as potentially usable in participation in international operations, parti­
+cularly in NATO’s collective defence. Up to 10% of the SAF land component will
+maintain a high level of readiness within the national territory, or for participati­
+on in international operations and missions.
+
+#### 4.4 Human resources
+
+Human resources are the major factor allowing the Slovenian Armed Forces
+to achieve its target size and fulfil its mission. A fundamental challenge with
+regard to the future development of the Slovenian Armed Forces, the achieve­
+ment of the development objectives, and its technical modernization, lies in
+providing a suitable number and quality of personnel.
+
+Efforts to increase the number of personnel in the Slovenian Armed Forces will
+be focused on the promotion of the military profession; the entry and recru­
+itment of new personnel; the retention of current personnel, including the
+provision of rewards, compensations and bonuses; and the exit of personnel
+from the defence system, including system solutions for all categories of
+members of the Slovenian Armed Forces (the contract reserve component
+and voluntary military service). The situation relating to human resources in the
+Slovenian Armed Forces will only improve through a comprehensive personnel
+approach within the entire national security system and the wider society,
+requiring certain adjustments and changes to legislation and implementing
+Acts. This is in fact a combination of necessary organizational and status-rela­
+ted measures in connection to specific features of the military profession and
+changes to legislation.
+
+Measures to encourage entry into the Slovenian Armed Forces will be focused
+on the acceleration of procedures, improved promotion of military professi­
+on and employment, the possibility of awards of scholarships, and the oppor­
+tunity to gain education during employment, among other things. Measures
+to improve the status of the members of the Slovenian Armed Forces, such
+as appropriate evaluations and rewards, housing, the regulation of status
+during education and of different obligations, and other measures under the
+
+
+-----
+
+comprehensive care for the members, will contribute to the retention of the
+members in the system.
+
+Measures to facilitate members to leave the Slovenian Armed Forces after
+reaching the age of 45 will be focused on ensuring the acquired rights, re­
+gulating the status, and providing financial and other benefits. Measures
+related to the contract reserve and voluntary military service will be focused
+
+on appropriate reimbursements and the motivation of employers for support,
+timely planning, better earnings, promotion, and so on. In order to successfully
+implement the measures in the area of human resources, it will be necessary
+to include the tasks related to the recruitment and retention of personnel in the
+work processes of the Slovenian Armed Forces.
+
+Improved implementation of strategic communication, the promotion of the
+military profession, and the increase in the territorial part of the Slovenian
+Armed Forces will contribute to a better integration of the defence system into
+the local environment and to permanent close contacts with the citizens.
+
+In addition, the system of career development for the members of the Slovenian
+Armed Forces will be upgraded, providing individuals with the possibilities of
+career promotion and professional development, and also enabling them to
+leave at a certain career level.
+
+#### 4.5 Financial resources
+
+Due to the changed international security situation, and the extremely negative
+consequences of several years of reduction in defence expenditure, large
+financial investments are required. Only by making these investments will the
+Republic of Slovenia be able to ensure an appropriate level of preparedness
+of the defence system in the future, and to meet all its obligations related to
+common defence arising from its membership in NATO and the European
+Union.
+
+By signing the Defence Investment Pledge in 2014, the NATO member states
+committed themselves to halting the trend of declining defence expenditure,
+and to aiming to gradually increase defence expenditure in real terms, as GDP
+grows, towards 2% of GDP for defence within the next decade. At the same
+time, the NATO member states will increase their defence spending on major
+equipment and on research and development, with the aim of allocating at
+least 20% of their defence spending for these purposes within the next decade.
+
+For national defence purposes, it is necessary to provide financial resources
+in the long term, which will enable the implementation of the development
+objectives of the Slovenian Armed Forces as laid down in national strategic
+and development guidance documents, including the development of defined
+capabilities and an increased number of Slovenian Armed Forces personnel in
+the event of a sharp deterioration in the security situation.
+
+
+-----
+
+Target defence 2,00 %
+
+expenditure share
+
+of GDP
+
+1,50 %
+
+1,00 %
+
+0,50 %
+
+0,00 %
+
+2020 2025 2030 2035
+
+Rational and sustainable defence expenditure able to effectively support the
+development objectives in this document and at the same time follow the
+Defence Investment Pledge, should gradually increase to at least 1.5% of GDP
+in 2024. Between 2024 and 2035, the share of GDP for defence will move
+towards 2% of GDP within broad fiscal frameworks.
+
+If defence expenditure in the next medium-term period does not reach the
+defined proportion, the vision of the Defence White Paper of the Republic of
+Slovenia will not be fully implemented. Moreover, it will be necessary to reflect
+on the level of the defence system’s capabilities and the adopted internatio­
+nal obligations, and on the related consequences for a wider national security
+system.
+
+
+-----
+
+### 5 CIVIL DEFENCE AS A
+ RESILIENCE BUILDING BLOCK OF THE STATE AND SOCIETY
+
+
+Civil defence, ensuring the conditions for the continual functioning of the autho­
+rities and the functioning of the entire defence system, will contribute to the en­
+hancement of civil preparedness and to the resilience of the state and society,
+and support the Slovenian Armed Forces and the Allied forces in the territory
+of the Republic of Slovenia in peace, crisis, emergency and war, through civilian
+capabilities and by preparing and implementing measures.
+
+In line with the new strategic reality, and towards the growing interdependen­
+ce of civilian and military capabilities, the content and tasks of civil defence
+will be adapted and updated accordingly. In terms of the enhancement of civil
+preparedness and the resilience of the state, the defence planning entities in
+the state will, through activities and measures, ensure civilian capabilities for
+Host Nation Support; the strengthening of resilience to hybrid threats; the pro­
+tection and resilience of critical infrastructure, information and communicati­
+on support; geospatial and cartographic support; and the implementation of
+military duties and of material and medical care.
+
+Solutions for the effectiveness of the defence system will be drafted in the
+defence planning process in the state, on the basis of defence plans prepared
+by all entities. With regard to intensified activities in planning civil prepared­
+ness, hybrid and cyber threats will also be taken into account, whereby the con­
+ditions for the state’s comprehensive responses to various security threats and
+risks will be ensured.
+
+Crisis response measures, as part of state preparedness measures, will be
+supplemented, updated and reviewed accordingly, both in national exercises
+and in the crisis management exercises of the European Union and NATO.
+Efforts towards the supply, protection and survival of the population will also
+play a key role in terms of strengthening civil preparedness at the national level.
+Here, constant inter-ministerial cooperation, responsibility, and the appropria­
+te organization of entities responsible for planning will be taken into account
+for the performance of tasks in crisis, emergency and war, in accordance with
+
+
+-----
+
+international obligations and the ability to adapt to change. Under changed cir­
+cumstances, the most important function of the Ministry of Defence will be
+the coordination of tasks in the field of defence at both the regional and local
+levels.
+
+By ensuring civil preparedness, civil defence will carry an important share
+of the functions of the Republic of Slovenia, including in the performance of
+
+tasks related to NATO’s collective defence and mutual assistance within the
+European Union. The established solutions will take into account NATO’s
+general requirements and criteria for the assessment of civil preparedness
+in order to ensure the continual functioning of the authorities, support to the
+armed forces with civilian capabilities, and the protection of key civil services.
+Defence planning upgraded in this direction will, on the basis of assessments,
+enable the Republic of Slovenia to respond in line with the risk degree of a state,
+NATO, and the European Union. The Ministry of Defence, responsible for the
+coordination and guidance of defence planning, will continue to facilitate co­
+operation with all entities responsible for defence planning.
+
+Activities of planning in the provision of support to the Slovenian Armed Forces
+and the Allied forces will complement NATO activities in the provision of Host
+Nation Support, and will be coherently developed in the strengthening of
+military mobility within the framework of the European Union. In this way, the
+coordination and implementation of Host Nation Support and military mobility
+will be improved. The Ministry of Defence, together with other competent go­
+vernment authorities, will find solutions and methods to ensure the approp­
+riate capabilities to support national and Allied transport needs and military
+mobility in the Republic of Slovenia and outside its territory. Simplified proced­
+ures for border crossings under military mobility will be in line with solutions in
+the European Union and NATO, and efforts should be made to synchronize and
+
+
+Since infrastructure is exposed to contemporary threats, appropriate protecti­
+ve and defence measures, and measures to prevent and mitigate the consequ­
+ences of such attacks will be adopted. In planning the effective protection,
+security and defence of critical infrastructure and strengthening its resilience,
+close cooperation will be established between the private and public sectors,
+and between critical infrastructure operators and managers.
+
+
+-----
+
+### 6 RESPONSE TO HYBRID
+ THREATS IN THE FIELD OF DEFENCE
+
+
+One particular challenge for the state’s defence is hybrid threats, whose
+negative effects have significantly magnified due to the development and
+use of new technologies and the coordinated operation of various actors. In
+carrying out activities to strengthen civil preparedness and adopt appropriate
+national solutions, vulnerability will be reduced and resilience to hybrid threats
+improved.
+
+In line with the efforts of NATO and the European Union to strengthen resilience
+in dealing with hybrid threats, national solutions and activities will be prepared
+and implemented in order to comprehensively address hybrid threats. Coordi­
+nation and other capabilities to identify and respond to hybrid threats will be
+developed within this framework. Situational awareness, resilience to hostile
+intelligence activities, cyber and information security and defence, strategic
+communication, and crisis management mechanisms will be enhanced, taking
+into account various methods of hybrid operation.
+
+Response to hybrid threats within the framework of defence planning and crisis
+response measures will be developed, with an emphasis on strengthening the
+resilience of the state and society, cyber security and defence, civil prepared­
+ness, and the protection of critical infrastructure.
+
+Within defence planning, measures and procedures will be developed for the
+event of the operation of non-military instability factors and hybrid factors
+which, due to their multiplicative effect, may require the engagement of military
+capabilities to manage and ensure the resilience of the state and society.
+
+
+Complexity and
+
+multidimensionality
+
+of hybrid threats
+
+
+-----
+
+### CYBER SECURITY
+
+### 7 COMMUNICATION AND
+ INFORMATION SYSTEM CAPABILITIES AND
+
+
+The importance and role of the capabilities of the communication and infor­
+mation system as one of the key elements affecting the operation and de­
+velopment of defence capacity are constantly growing, due to the intensifi­
+ed digitalization of processes and weapon systems, and the establishment
+of cyberspace as a domain for military operations. In parallel with the above,
+advanced computer technologies have inexorably changed both the theatre of
+war and the methods of military operations and defence processes.
+
+Cyber attacks on both state and non-state actors are growing in number, and
+becoming more aggressive and sophisticated. The defence system in cyber­
+space follows the norms and rules of operations in accordance with internati­
+onal law. The applicable international law, rules and norms for the responsible
+conduct of states in cyberspace are an important factor for reducing risks, pre­
+venting conflicts, and establishing trust and stability in international relations.
+
+The most important objective of the establishment of the capabilities of the
+defence system’s communication and information system will be to ensure
+adaptability and interoperability of timely, accurate and comprehensive data in
+real time which are necessary for the effectiveness of the defence system and
+
+
+-----
+
+the performance of military operations in Slovenia or abroad. The communi­
+cation and information system of the defence system will represent the whole,
+together with the communication and information system of the Slovenian
+Armed Forces.
+
+The development of capabilities will be based on the preparation and provision
+of dynamic and flexible information and communication solutions, with an
+
+emphasis on the introduction of advanced computer technologies, integration
+and security, and simple and safe user access. The interconnection of infor­
+mation systems and various data security domains will enable easier dataflow
+and thus more effective decision-making, resulting in cost optimization and
+more economical functioning of the defence system.
+
+By effectively managing cyber threats and responding to cyber security events,
+a safe and reliable communication and information system will be provided,
+with its services readily available to all users regardless of location and time.
+
+The most important objectives will be constant raising of awareness with
+regard to the possibilities enabled by the effective use of information solutions,
+the active participation of users in improving information systems, and a high
+level of users’ awareness of cyber threats.
+
+Bearing in mind that cyberspace has no borders and that defence is our
+common responsibility, the cyber resilience of our own communication and
+information systems will be developed, thus providing our contribution to the
+comprehensive system of national cyber security of the Alliance, in coopera­
+tion with other state, public and private, national and international actors. The
+establishment of a responsive management system, policies and the organi­
+zational structure, the introduction of advanced technologies, the development
+of relevant skills, knowledge, qualifications and awareness, and the enhance­
+ment of cooperation between national and international actors will contribute
+to the development of capabilities for protecting communication and informa­
+tion systems in the field of defence, and responding to cyber threats.
+
+A system of comprehensive management of cyber threats will be established,
+which will include all actors from the Ministry of Defence. Cooperation with the
+competent national authority and other actors in the system of cyber security
+will be developed.
+
+Intensive and systematic training, education and exercises in the area of
+cyber security will contribute to raising awareness of cyber threats, acquiring
+knowledge, and developing trust both at the national level and within the
+Alliance.
+
+The fulfilment of international commitments made in the area of cyber
+security will be accelerated. A comprehensive range of functionalities to
+ensure cyber security, encompassing defence, prevention, assessment,
+sustainability, and notification, will be set up in accordance with the national
+policy, and the policies of NATO and the European Union.
+
+
+-----
+
+-----
+
+of threats to the Republic of Slovenia and its defence system will be developed
+
+### 8 INTELLIGENCE AND
+ SECURITY CAPABILITIES
+
+Intelligence and security capabilities aimed at timely detection and countering
+
+in the field of defence. The complexity and changeability of contemporary
+security threats require the adaptation of intelligence and security capabilities.
+The integration of intelligence and security processes, and their technological
+and personnel capabilities will be reasonably strengthened, which will enable
+successful and timely detection of individual threats. An assessment of how
+appropriately the capabilities are placed in the defence system will be made in
+order to allow for the effective and expert implementation of tasks.
+
+The subsystem of rapid and safe exchange of data and information between
+the entities in the intelligence and security community and their users will be
+modernized. Thus, the subsystem of early warning, threat detection and situa­
+tional awareness will be strengthened. The thorough monitoring of and infor­
+mation on military and other threats likely to affect the security of the Republic
+of Slovenia and the situation in crisis areas and those areas where members of
+the security system operate, will continue.
+
+Individual entities of the intelligence and security community in the Republic
+of Slovenia will continue to cooperate in the exchange of data, capabilities,
+and expertise. Coordination of work in detecting and counteracting individual
+threats and data exchange between the entities forming part of the national
+security system will be strengthened. In addition, cooperation with the partner
+intelligence and security services of the member states of the European Union
+and NATO, and with other countries, if required, will continue in the exchange
+of data and experience.
+
+In the area of security, the procedures and standards for the protection, vetting
+and monitoring of people having access to security sensitive work posts,
+people, facilities, areas and classified information at the Ministry of Defence
+will be updated. Processes for the timely identification of security vulnerabiliti­
+es of the defence system will be developed and modernized. Also, appropriate
+normative and other solutions will be sought in the area of security.
+
+In addition to the development of traditional intelligence and security capabi­
+lities, with a focus on counter-intelligence activities, cyber, technological, and
+other support capabilities will be developed,, which will enable successful co­
+unteracting of threats.
+
+
+-----
+
+### 9 STRATEGIC COMMUNICATION
+
+In an increasingly complex, highly developed, and dynamic information envi­
+ronment, we are faced with continual information flow, a global audience, in­
+formation overload, fake news, and social media. Given the above, the defence
+
+system will develop the capabilities and potentials of strategic communica­
+tion, complemented by public diplomacy activities, and of all other actors of
+the national security system to support the implementation of the national
+security policy and strategic objectives in the field of defence. Such capabilities
+are vital for the assertion of the national security and defence interests of the
+Republic of Slovenia, and represent an essential element of informing society
+and raising awareness of the importance and role of the defence system in
+carrying out all functions and activities. This can contribute to transparency
+and broader social consent in relation to the functioning and activities of the
+defence system. Strategic communication also actively contributes to the limi­
+tation and reduction of the effects of contemporary security risks and threats.
+
+The adaptation and responsiveness of the defence system to the changing
+security environment requires the relevant placement and use of various
+elements of the concept of strategic communication, which will at the same
+time follow the concepts and guidelines of NATO and the European Union. By
+doing this, the development of strategic communication in the defence system
+will be inextricably connected to the development of the national concept.
+
+Through the preparation of a strategy, the concept of strategic communication
+in the defence system will be gradually established in all areas and levels of the
+functioning of the defence system, with the purpose of achieving the desired
+response of selected target audiences to support the implementation of the
+set objectives. Strategic development guidance documents will form the basis
+for the preparation of fundamental messages in the field of military defence,
+aimed at the widest public, and strengthening the functioning of the state and
+society in the field of military defence. In doing this, a fundamental principle
+of strategic communication will be followed, i.e. a consistency between the
+messages and the activities carried out.
+
+
+-----
+
+### 10 MEASURES FOR THE
+ IMPLEMENTATION OF THE WHITE PAPER
+
+
+The fulfilment of these measures will be defined by implementing strategic
+guidance and planning documents, and by amendments to legal and other
+normative bases for the functioning and development of the defence system in
+the Republic of Slovenia. The implementation of the guidelines and measures
+contained in the Defence White Paper of the Republic of Slovenia will be
+reviewed every two years.
+
+
+## 1.
+ 2.
+ 3.
+
+ 4.
+
+ 5.
+
+ 6.
+
+ 7.
+
+
+The main
+
+measures for the
+
+implementation
+
+of the Defence
+
+White Paper of
+
+the Republic of
+
+Slovenia
+
+
+To provide the bases for improved effectiveness and development of
+the defence system through amendments to the legislation.
+
+To gradually increase defence spending towards 2% of GDP and an
+investment share of at least 20% of defence spending.
+
+To implement measures to strengthen civil defence and prepared­
+ness, and in doing so the resilience of the state and society, with an
+emphasis on the continual operation of government at all levels, the
+continuity of public infrastructure and services, and the uninterrup­
+ted provision of energy, information and communication support
+and other resources important for the functioning of the state, the
+security and the lives of citizens, and for the protection of critical in­
+frastructure.
+
+To establish mechanisms providing the conditions for an increase
+in defence forces to successfully implement the Doctrine of Military
+Strategic Reserve of the Republic of Slovenia in the event of a sharp
+deterioration in the security situation or an immediate military threat
+to the Republic of Slovenia.
+
+To implement solutions regarding the territorial organization of the
+Slovenian Armed Forces, and to ensure their greater involvement in
+and connection to the local environment in the wider territory of the
+Republic of Slovenia.
+
+To re-define the concept of the contract reserve component by
+dividing it into the manoeuvre contract reserve component and the
+territorial contract reserve component, and to link it with the system
+of transition between the various forms of military service.
+
+To improve national solutions and activities for raising resilience to
+hybrid threats through comprehensive and uniform coordination, and
+the monitoring of hybrid threats in the Republic of Slovenia.
+
+
+-----
+
+effective protection of critical infrastructure and to strengthen its re­
+
+To ensure situational awareness and to provide an analytical as­
+sessment of hybrid threats in support of the decision-making
+
+## 8.
+
+process, with the purpose of effectively responding to hybrid threats.
+
+To enhance cooperation between the public and private sectors, and
+between critical infrastructure operators and managers, to plan the
+
+## 9.
+
+silience.
+
+To upgrade the crisis response measures in the field of defence. To
+
+periodically check, through national crisis management exercises,
+
+## 10.
+
+the crisis management system and the state's ability to promptly and
+effectively respond to various security threats.
+
+To upgrade the military education and training system.
+
+## 11.
+
+To renew the system of recruiting members to the Slovenian Armed
+
+Forces by improving their labour status and through financial rewards,
+
+## 12.
+
+and to enhance the promotion of the military profession.
+
+To examine the methods of recruiting more personnel in the Slovenian
+
+Armed Forces, including a potential introduction of all components of
+
+## 13.
+
+military service.
+
+To prepare legislative solutions for the implementation of key
+
+equipping projects of the Slovenian Armed Forces.
+
+## 14.
+
+To take into account, to the maximum extent possible, the possibilities
+for joint procurement with other countries or within the agencies of the
+
+## 15.
+
+European Union and NATO when purchasing military equipment and
+weapons, including through intergovernmental agreements, in the light
+of cost optimization and transparency of procurement. This includes the
+purchase and modernization of military equipment already held by the
+Slovenian Armed Forces. To examine the possibilities and purpose of
+purchasing used military equipment and weapons.
+
+To strengthen cooperation with and support to the public education
+
+system in relation to civic education.
+
+## 16.
+
+To upgrade strategic communication capabilities in the field of
+defence.
+
+## 17.
+
+To review and update normative solutions related to intelligence and
+
+security activities in the field of defence, and to integrate intelligence
+
+## 18.
+
+and security capabilities and processes.
+
+
+To intensify the introduction of advanced computer and communica­
+
+tion technologies into weapons systems and defence processes.
+
+## 19.
+
+
+To establish a comprehensive system for cyber defence manage­
+
+ment in the field of defence within the national cyber security system.
+
+## 20.
+
+
+-----
+
+### CONCLUSION
+
+The Defence White Paper of the Republic of Slovenia deals with the fundamen­
+tal challenges which the defence system of the Republic of Slovenia faces, and
+defines measures to improve its defence capacity. The measures to develop
+the defence system are, as a matter of priority, aimed at ensuring the stable and
+sufficiently ambitious funding of the defence system; reaching the necessary
+number of personnel in the Slovenian Armed Forces; completing its professi­
+onalization; improving the members’ status; carrying out modernization with
+a view to building defence capacity; modernizing the key infrastructure for the
+operation and development of the Slovenian Armed Forces; and strengthe­
+ning the connection of the defence system with the wider society, and thus
+achieving better recognition of national defence within society.
+
+The defence system of the Republic of Slovenia will pursue an intermedia­
+te defence spending target of 1.5% of GDP by 2024 within broad fiscal fra­
+meworks, and a gradual long-term approximation to the defence spending
+target of 2% of GDP. Increased investment in defence must be sufficiently
+ambitious and predictable, and at the same time balanced between financial
+resources to implement urgent personnel measures, resources to carry out
+priority modernization projects, and resources to ensure the preparedness and
+operation of the defence system in Slovenia and abroad.
+
+The recommendations in the Defence White Paper of the Republic of Slovenia
+will be the basis of the preparation of new normative, development guidance
+and planning documents, such as the defence strategy, the Resolution on the
+General Long-Term Development and Equipping Programme of the Slovenian
+Armed Forces, and medium-term defence programmes, which will define,
+on the basis of realistic assumptions, how intermediate targets in the deve­
+lopment of the defence system capabilities will be achieved in reaching the
+desired state by 2035.
+
+Monitoring the successful achievement of targets related to recruiting more
+personnel in the Slovenian Armed Forces, the changes to the system, the
+development and modernization of defence capabilities, and, consequen­
+tly, strengthening the defence capacity of the Republic of Slovenia, will be a
+continual process which will be based on clearly defined progress indicators.
+
+Building defence capabilities will be a gradual and long-term process requiring
+constant political support, stable long-term funding and a relevant normative
+framework. The effects of the measures to strengthen the defence capacity
+of the Republic of Slovenia and, particularly, to improve the capabilities and
+readiness of the Slovenian Armed Forces, will be visible in the middle of the
+long-term period.
+
+Through an effective, modern, and responsive defence system, the Republic of
+Slovenia will ensure security to its citizens as a condition for the functioning of
+other social subsystems, and contribute to a quality living environment for the
+development and perspective of all generations.
+
+
+-----
+
+-----
+
+DEFENCE WHITE PAPER OF THE REPUBLIC OF SLOVENIA
+
+Published by: Ministry of Defence of the Republic of Slovenia
+
+Ljubljana, January 2020
+
+Material is also available at:
+https://www.gov.si/en/state-authorities/ministries/ministry-of-defence/
+
+Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni
+knjižnici v Ljubljani
+
+COBISS.SI-ID=303943424
+
+ISBN 978-961-92687-8-0 (pdf)
+
+
+-----
+

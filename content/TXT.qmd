@@ -1,22 +1,376 @@
 ---
 title: "TXT Data"
 description: "Download data in TXT format"
-editor: source
+page-layout: full
+format:
+  html:
+    html-math-method: katex
+    css: styles.css
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  cache: false
 ---
 
-Taiwan's National Defense Reports:
 
-- [2002](data_copy/text_files/taiwan_2002_NationalDefenseReport.txt)
-- [2006](data_copy/text_files/taiwan_2006_NationalDefenseReport.txt)
-- [2008](data_copy/text_files/taiwan_2008_NationalDefenseReport.txt)
-- [2009](data_copy/text_files/taiwan_2009_NationalDefenseReport.txt)
-- [20011](data_copy/text_files/taiwan_2011_NationalDefenseReport.txt)
-- [20013](data_copy/text_files/taiwan_2013_NationalDefenseReport.txt)
-- [20015](data_copy/text_files/taiwan_2015_NationalDefenseReport.txt)
-- [20017](data_copy/text_files/taiwan_2017_NationalDefenseReport.txt)
-- [20019](data_copy/text_files/taiwan_2019_NationalDefenseReport.txt)
-- [20021](data_copy/text_files/taiwan_2021_NationalDefenseReport.txt)
-- [20023](data_copy/text_files/taiwan_2023_NationalDefenseReport.txt)
+```{r knitr_options}
+coverage_df <- read.csv("data_copy/country_year_coverage.csv")
+metadata <- read.csv("data_copy/nss_metadata.csv")
+```
+
+```{r}
+affective_salience <- read.csv("data_copy/affective_salience.csv")
+
+```
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(htmltools)
+```
+
+```{r}
+all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
+all_country_aliases <- readRDS("data_copy/country_aliases.rds")
+```
 
 
-*idea: interactive table/chart to find text files more easily
+```{r}
+library(dplyr)
+library(downloadthis)
+```
+
+```{r}
+# download_dir(
+#   path = "data_copy/txt_files/",
+#   output_name="all_documents",
+#   button_label = "Download all files (.txt)",
+#   button_type = c("default"),
+#   has_icon = TRUE,
+#   icon = "fa fa-save",
+#   self_contained = FALSE
+# )
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# First, create the country summary
+country_summary <- metadata %>%
+  filter(keep == TRUE) %>%
+  group_by(country_name) %>%
+  summarise(
+    num_documents = n(),
+    years_range = paste(min(year, na.rm = TRUE), "-", max(year, na.rm = TRUE)),
+    languages = paste(unique(language), collapse = ", ")
+  ) %>%
+  arrange(desc(num_documents))
+
+# Generate collapsible panels for each country
+generate_country_panels <- function() {
+  # Create a container div for all countries
+  panels_html <- tags$div(class = "country-accordion")
+  
+  # Loop through each country
+  for (i in 1:nrow(country_summary)) {
+    country_data <- country_summary[i, ]
+    
+    # Create a clean ID for the country (no spaces, special chars)
+    country_id <- gsub("[^a-zA-Z0-9]", "", tolower(country_data$country_name))
+    
+    # Format display name with proper capitalization
+    display_name <- case_when(
+      country_data$country_name == "southkorea" ~ "South Korea",
+      country_data$country_name == "southafrica" ~ "South Africa",
+      country_data$country_name == "centralafricanrepublic" ~ "Central African Republic",
+      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
+      country_data$country_name == "czechrepublic" ~ "Czech Republic",
+      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
+      country_data$country_name == "us" ~ "United States",
+      country_data$country_name == "newzealand" ~ "New Zealand",     
+      country_data$country_name == "northmacedonia" ~ "North Macedonia",    
+      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "solomonislands" ~ "Solomon Islands",       
+      country_data$country_name == "timor-leste" ~ "Timor Leste",  
+      country_data$country_name == "trinidadandtobago" ~ "Trinidad and Tobago",        
+      # Add any other special cases here
+      TRUE ~ tools::toTitleCase(country_data$country_name)  # Default case with proper capitalization
+    )
+    
+    # Use the original country_name for filtering documents
+    original_country_name <- country_data$country_name
+    
+    # Get documents for this country
+    country_docs <- metadata %>%
+      filter(keep == TRUE, country_name == original_country_name) %>%
+      select(title, language, year) %>%
+      arrange(year)
+    
+    # Create the accordion panel
+    panel <- tags$div(
+      class = "accordion-item",
+      
+      # Header (always visible)
+      tags$div(
+        class = "accordion-header",
+        onclick = sprintf("toggleAccordion('%s')", country_id),
+        tags$span(class = "country-name", display_name),
+        tags$span(
+          class = "badge",
+          sprintf("%d documents", country_data$num_documents)
+        ),
+        tags$i(class = "arrow-icon")
+      ),
+      
+      # Content (hidden by default)
+      tags$div(
+        id = paste0("content-", country_id),
+        class = "accordion-content",
+        tags$div(
+          class = "country-summary",
+          tags$p(
+            tags$strong("Period:"), country_data$years_range,
+            tags$br(),
+            tags$strong("Languages:"), country_data$languages
+          )
+        ),
+        tags$div(
+          class = "document-list",
+          tags$h4("Documents:"),
+          tags$ul(
+            lapply(1:nrow(country_docs), function(j) {
+              doc <- country_docs[j, ]
+              
+              # Create filename based on the specified format
+              # Format: {countryname}_{year}_title.txt
+              # Create a sanitized version of the title (remove spaces, special chars)
+              sanitized_title <- gsub(" ", "", doc$title)
+              sanitized_title <- gsub("[^a-zA-Z0-9_]", "", sanitized_title)
+              
+              # Limit title length to avoid excessively long filenames
+              if(nchar(sanitized_title) > 30) {
+                sanitized_title <- substr(sanitized_title, 1, 30)
+              }
+              language_suffix <- ifelse(tolower(doc$language) != "english" && tolower(doc$language) != "eng",
+                                        "_noneng", "")
+              file_path <- sprintf("data_copy/txt_files/%s_%s_%s%s.txt", 
+                                  original_country_name, 
+                                  doc$year, 
+                                  sanitized_title,
+                                  language_suffix)
+              tags$li(
+                tags$span(class = "doc-title", doc$title),
+                tags$span(class = "doc-lang", sprintf("(%s, %s)", doc$language, doc$year)),
+                tags$div(
+                  class = "download-buttons",
+                  tags$a(
+                    href = file_path,
+                    target = "_blank",
+                    class = "view-btn",
+                    "View"
+                  ),
+                  tags$a(
+                    href = file_path,
+                    download = basename(file_path),
+                    class = "download-btn",
+                    "Download"
+                  )
+                )
+              )
+            })
+          )
+        )
+      )
+    )
+    
+    # Add this panel to the container
+    panels_html <- tagAppendChild(panels_html, panel)
+  }
+  
+  return(panels_html)
+}
+```
+
+```{=html}
+<style>
+.country-accordion {
+  width: 100%;
+  margin: 20px 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.accordion-item {
+  margin-bottom: 8px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.accordion-header {
+  background-color: #f5f5f5;
+  padding: 12px 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: background-color 0.2s;
+}
+
+.accordion-header:hover {
+  background-color: #e8e8e8;
+}
+
+.country-name {
+  font-weight: 600;
+  font-size: 16px;
+  flex-grow: 1;
+}
+
+.badge {
+  background-color: #4c78a8;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin: 0 15px;
+}
+
+.arrow-icon {
+  border: solid #666;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  transition: transform 0.3s;
+}
+
+.accordion-item.active .arrow-icon {
+  transform: rotate(-135deg);
+}
+
+.accordion-content {
+  display: none;
+  padding: 15px;
+  background-color: white;
+  border-top: 1px solid #e0e0e0;
+}
+
+.country-summary {
+  margin-bottom: 15px;
+}
+
+.document-list ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.document-list li {
+  margin-bottom: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.doc-title {
+  font-weight: 500;
+}
+
+.doc-lang {
+  color: #666;
+  margin-left: 6px;
+  font-size: 13px;
+}
+
+/* New styles for download buttons */
+.download-buttons {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+
+.view-btn, .download-btn {
+  padding: 4px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.view-btn {
+  background-color: #e9ecef;
+  color: #495057;
+  border: 1px solid #ced4da;
+}
+
+.download-btn {
+  background-color: #4c78a8;
+  color: white;
+  border: 1px solid #4c78a8;
+}
+
+.view-btn:hover {
+  background-color: #dee2e6;
+}
+
+.download-btn:hover {
+  background-color: #3b5e85;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .document-list li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .download-buttons {
+    margin-left: 0;
+    margin-top: 8px;
+  }
+}
+</style>
+
+<script>
+function toggleAccordion(countryId) {
+  // Get the content element for this country
+  const contentId = 'content-' + countryId;
+  const content = document.getElementById(contentId);
+  
+  if (!content) {
+    console.error('Could not find element with id:', contentId);
+    return;
+  }
+  
+  const item = content.parentElement;
+  
+  // Toggle active class on the item
+  item.classList.toggle('active');
+  
+  // Toggle content visibility
+  if (content.style.display === 'block') {
+    content.style.display = 'none';
+  } else {
+    content.style.display = 'block';
+  }
+}
+</script>
+```
+
+```{r}
+#| echo: false
+#| results: 'asis'
+
+# Use htmltools::HTML instead of html_print
+accordion_html <- generate_country_panels()
+htmltools::HTML(as.character(accordion_html))
+```
+
+
+
+

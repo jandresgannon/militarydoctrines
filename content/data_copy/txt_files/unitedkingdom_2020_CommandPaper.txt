@@ -1,0 +1,4281 @@
+-----
+
+-----
+
+## Defence in a
+ competitive
+ age
+
+###### Presented to Parliament
+ by the Secretary of State for Defence
+ by Command of Her Majesty
+
+ March 2021
+
+
+###### CP 411
+
+
+-----
+
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence v3.0
+except where otherwise stated. To view this licence,
+[visit nationalarchives.gov.uk/doc/open-government-licence/version/3.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3)
+Where we have identified any third party copyright information you will need to
+obtain permission from the copyright holders concerned.
+[This publication is available at www.gov.uk/official-documents.](https://www.gov.uk/government/publications)
+Any enquiries regarding this publication should be sent to us at: SPOStrategyIntegratedReview@mod.gov.uk
+
+ISBN 978-1-5286-2462-6
+CCS0221109268. 03/21
+
+Printed on paper containing 75% recycled fibre content minimum
+
+Printed in the UK by the APS Group on behalf of the Controller of Her Majesty’s
+Stationery Office
+
+
+-----
+
+###### DEFENCE IN A COMPETITIVE AGE
+
+
+-----
+
+#### Defence in a competitive age
+
+###### Foreword from the Secretary of State for Defence
+
+
+As a young officer, thirty years ago almost to the day, I was summoned to the
+drill square to have read aloud key decisions from the government’s defence
+review, Options for Change. We did not know it then, but the world was set for a
+massive change. Not the fall of the Soviet Union, but other geopolitical changes
+such as the rise of China, terrorist threat from Al Qaeda and global impact of the
+internet, which were all some way off but no one was really prepared for what
+happened when they did.
+
+That is why we have put at the heart of this Defence Command Paper a mission
+to seek out and to understand future threats, and to invest in the capabilities to
+defeat them.
+
+In Defence it is always tempting to use the shield of sentimentality to protect previously battle-winning
+but now outdated capabilities. Such sentimentality, when coupled with over-ambition and underresourcing, leads to even harder consequences down the line. It risks the lives of our people, who are
+truly our finest asset.
+
+It would similarly endanger our people if we simply wielded a sword of cuts, slicing away the battleproven on the promise of novelty, without regard for what is left behind. Old capabilities are not
+necessarily redundant, just as new technologies are not always relevant. Those of us in government
+charged to protect and defend have a duty to enter new domains, as well as continuing investment in the
+traditional ones, but always adapting to the threat.
+
+History shows us, time and time again, that failing to do so risks irrelevance and defeat. As the threat
+changes we must change with it, remaining clear-eyed about what capabilities we retire, why we are
+doing so, and how they will be replaced.
+
+That is why the process for this Defence Command Paper began with assessing the threats we are
+encountering and anticipating, before considering how we should address them, and only then with
+which equipment, and what resources are required to field them. The Integrated Review gave us the
+framework to do just that and it is with good reason the next decade will see unprecedented levels of
+investment in our Defence.
+
+The Prime Minister’s vision for the UK in 2030 sees a stronger, more secure, prosperous and resilient
+Union, better equipped for a more competitive age, as a problem-solving and burden-sharing nation with
+a global perspective. To become so requires Britain’s soft and hard power to be better integrated. In this
+
+**1**
+
+
+-----
+
+more competitive age, a ‘Global Britain’ has no choice but to step up, ready to take on the challenges and
+shape the opportunities of the years ahead, alongside our allies and friends. Let us be clear, the benefits
+and institutions of multilateralism, to which we became so accustomed, are an extension not an
+alternative for our shared leadership and our hard power.
+
+We must actively champion those shared values of liberty, justice and tolerance that have given billions of
+souls the world over the chance of a better life, and do so through our actions, not just our words. UK
+diplomacy is underwritten by the credibility of the UK armed forces and they will be more integrated,
+active and agile, capable of both deterring threats and defeating enemies.
+
+The Prime Minister’s commitment to spending £188bn on Defence over the coming four years – an
+increase of £24bn or fourteen per cent – is an investment in that vision of security and prosperity in 2030.
+Previous reviews have been over-ambitious and under-funded, leaving forces that were overstretched
+and under-equipped. But the Integrated Review’s refreshed strategy and increased funding offers
+Defence an exciting opportunity to turn hollow forces into credible ones, modernising for the threats of
+the 2020s and beyond, and contributing to national prosperity in the process.
+
+The Royal Navy will have new ships and missiles, the RAF new fighters and sensors, and the Army will be
+more deployed and better protected. Most importantly our armed forces will be integrated across all
+domains, joining up our people, equipment and information to increase their outputs and effectiveness.
+This marks a shift from mass mobilisation to information age speed, readiness and relevance for
+confronting the threats of the future.
+
+These principles will guide our doctrine and force development. The Integrated Operating Concept,
+published last year, recognises that changes in the information and political environments now impact
+not just the context but conduct of military operations. The notion of war and peace as binary states has
+given way to a continuum of conflict, requiring us to prepare our forces for more persistent global
+engagement and constant campaigning, moving seamlessly from operating to war fighting.
+
+The armed forces, working with the rest of government, must think and act differently. They will no
+longer be held as a force of last resort, but become more present and active around the world, operating
+below the threshold of open conflict to uphold our values and secure our interests, partner our friends
+and enable our allies, whether they are in the Euro-Atlantic, the Indo-Pacific, or beyond.
+
+Just as we are seeing constant competition stretch out across the globe, so must we be constant in our
+self-criticism and challenge. The establishment of a net assessment and challenge function within the
+MOD will increase the rigour and candour of comparison with our adversaries, introduce a more
+
+**2**
+
+
+-----
+
+collaborative approach to lesson learning and strategy making, and drive a more coherent approach to
+force development.
+
+The steps to sustaining UK leadership in Defence must start with ensuring we are a credible and truly
+threat-oriented organisation, but we must do so in conjunction with our allies and friends. As the second
+biggest spender in NATO and a major contributor across all five domains and the nuclear deterrent, we
+have a responsibility to support the Alliance’s own transformation for this more competitive age.
+
+The MOD will prioritise more than £6.6bn of research, development, and experimentation over the next
+four years so the armed forces can adapt to the threat with advanced technologies. These investments in
+our future battle-winning capabilities will be guided by the Science and Technology Strategy 2020 and a
+new Defence and Security Industrial Strategy. Together they will build the partnerships, flexibility and
+pace of our capability development and procurement. Which, in turn, will not only sustain our strategic
+advantage as a science power, but energise innovation, stimulate the economy, and generate high-skilled
+jobs right across the United Kingdom.
+
+If this Defence Command Paper is anything, it is an honest assessment of what we can do and what we
+will do. We will ensure Defence is threat-focused, modernised, and financially sustainable, ready to
+confront future challenges, seize new opportunities for Global Britain and lay the foundations of a more
+secure and prosperous Union. We will, for the first time in decades, match genuine money to credible
+ambitions. We will retire platforms to make way for new systems and approaches. And we will invest in
+that most precious commodity of all – the people of our armed forces.
+
+To serve my country as a soldier was one of the greatest privileges of my life; contributing to keeping this
+country safe, upholding our values, and defending those who could not defend themselves. Putting
+yourself in harm’s way in the service of your country is something that fortunately few of us are ever
+required to do. But we all have a duty to ensure that those who do so on our behalves are as well
+prepared and equipped as possible.
+
+So, the success of this Defence Command Paper should not be judged on the sophistication of all the
+words that follow but our implementation of its reforms. And, ultimately, on the delivery of its capabilities
+into the hands of the men and women of our armed forces. It is they who keep us safe and will continue
+to do so in the years ahead. It is to them, their families, and all those in Defence that we owe it to make
+this policy into reality. The work to do so has only just begun.
+
+###### The Rt Hon. Ben Wallace MP
+
+**3**
+
+
+-----
+
+-----
+
+#### Changing strategic context
+
+###### Chapter 1
+
+
+**1.1.** The Integrated Review set out the
+
+Government’s current assessment of the major
+trends that will shape the national security and
+international environment to 2030. It is a context
+in which the nature and distribution of global
+power is changing as we move towards a more
+competitive and multipolar world. Over the
+coming decade, we judge that four overarching
+trends will be of particular importance to the UK
+and the changing international order:
+
+- Geopolitical and geo-economic shifts, such as
+the growing importance of the Indo-Pacific,
+China’s increasing international assertiveness
+and the influence of middle powers.
+
+- Systemic competition, including between
+states, and between democratic and
+authoritarian values and systems of
+government.
+
+- Rapid technological change, that will reshape
+our economies and societies, bringing
+enormous benefits but also becoming an
+arena of intensifying geopolitical competition.
+
+- Transnational challenges that require
+collective action, such as climate change,
+biosecurity risks, terrorism and serious and
+organised crime.
+
+**1.2.** These trends will overlap and interact,
+
+and the long-term effects of Covid-19 will
+influence their trajectory in ways that are
+currently difficult to predict.
+
+**1.3.** The Integrated Review also describes a
+
+deteriorating global security environment, in
+which the whole of the UK, its people and
+interests face a wider range of state and non
+
+state threats enabled by technology. It also
+makes clear how important every part of the
+United Kingdom is to our defence and security.
+In an era of systemic competition, the
+distinctions between peace and war; home and
+away; state and non-state; and virtual and real
+become increasingly blurred. Long established
+techniques of influence and leverage such as
+economic coercion, propaganda, intellectual
+property theft and espionage, have been
+supercharged by ubiquitous information and
+technological transformation. Our adversaries are
+undermining the international norms and values
+that have underpinned our security and our
+prosperity, and are seeking to fracture the
+cohesion and resolve of our alliances and
+international institutions. As we become
+increasingly challenged below the threshold of
+open warfare, the battle of the narratives and use
+of non-lethal means to influence and secure
+objectives will characterise the future operating
+environment.
+
+**1.4.** Russia continues to pose the greatest
+
+nuclear, conventional military and sub-threshold
+threat to European security. Modernisation of the
+Russian armed forces, the ability to integrate
+whole of state activity and a greater appetite for
+risk, makes Russia both a capable and
+unpredictable actor.
+
+**1.5.** The rising power of China is by far the
+
+most significant geopolitical factor in the world
+today. China poses a complex, systemic
+challenge. As the Integrated Review makes clear,
+we need to be prepared to push back to protect
+our values and global interests, while maintaining
+our ability to cooperate in tackling global
+challenges such as climate change and the
+mutual benefits of our economic relationship.
+
+**5**
+
+
+-----
+
+##### The threat```
+
+
+###### based
+ threats``
+
+
+###### groups
+
+ Chemical,
+
+
+###### threats``
+
+
+###### Global
+
+
+###### drones
+
+
+###### State
+ based
+ threats``
+
+
+###### groups
+
+ Chemical,
+
+
+###### areas`
+
+
+###### proxies`
+
+
+###### areas`
+
+ Commercially
+
+
+-----
+
+The significant impact of China’s military
+modernisation (which is proceeding faster than
+any other nation) and growing international
+assertiveness within the Indo-Pacific region will
+pose an increasing challenge.
+
+**1.6.** Iran and North Korea will continue to
+
+pose regional challenges and their nuclear
+programmes threaten global stability.
+
+**1.7.** Additionally, the UK will continue to need
+
+to counter a range of disruptive states and nonstate threats through a concerted crossgovernment effort. Terrorism will continue to
+pose a dynamic and evolving threat to the UK
+and its interests. Terror threats will be expanded
+through access to cyberspace capabilities and
+other advanced weapons, and the impact of such
+attacks will be exploited by our adversaries for
+their own interests. The proliferation of Chemical,
+Biological, Radiological and Nuclear (CBRN)
+weapons and advanced conventional weapons,
+combined with new technologies, will increase
+the risk of conflict and will serve to increase their
+ferocity. While international agreements have
+long sought to limit the development of these
+capabilities, our adversaries are increasingly
+breaching their terms or altogether withdrawing
+from these commitments.
+
+**1.8.** Climate change and biodiversity loss
+
+represents a global challenge. As a threat
+multiplier, climate change will drive instability,
+migration, desertification, competition for natural
+resources and conflict. For instance, it is likely
+that as a result of climate change the Northern
+Sea Route will open up within the next decade,
+which could pose significant geopolitical and
+security implications. Health emergencies will
+also shape the future operating environment and
+
+
+provide opportunity for malign states to increase
+their influence and create dependency.
+
+**1.9.** The newer domains of cyberspace and
+
+space pose significant challenges. Advanced
+technologies are already being developed for
+adoption in these arenas but with limited
+international agreement on norms and
+conventions to regulate them and a lack of
+ethical or moral standards to encourage their
+responsible use. States will increasingly seek to
+integrate these capabilities with the traditional
+military domains of maritime, land and air. Multidomain integration will become the norm.
+Adversaries will seek to avoid our areas of
+strength and seek to test us where they perceive
+us to be weak. Such an approach is not new, but
+it will reach well beyond the traditional
+battlefield.
+
+**1.10.** Our historic technological advantage is
+
+being increasingly challenged by targeted
+investment in capabilities designed to counter
+our strengths and challenge strategic stability,
+such as hypersonic missiles to defeat missile
+defences, and nuclear-powered cruise missiles.
+These advanced conventional weapons are
+increasingly available to a wider range of state
+actors. Some countries are also adopting a
+military-civil fusion approach towards the
+development of new technologies, harnessing
+civilian innovation for the benefit of their
+Defence capabilities. Conversely, the imaginative
+employment of relatively low-cost capabilities is
+challenging highly capable air defence and
+electronic warfare systems or heavily armoured
+forces, as we have seen in Libya and NagornoKarabakh respectively.
+
+
+-----
+
+##### Defence’s contribution to the IR
+
+###### Defence will contribute to the four overarching objectives set by the Integrated Review to 2025 as follows:
+
+ • Sustaining strategic advantage through science and technology – which we will support through: our contribution to UK cyber power through the National Cyber Force; investment of at least £6.6bn in Research and Development (R&D) over the next four years, guided in part by the Defence Science and Technology Strategy 2020; a network of innovation hubs and Defence and Security Accelerator challenges; supported by the Defence and Security Industrial Strategy in creating a more certain environment for industry.
+
+ • Shaping the open international order of the future – which we will support through: our adherence to International Humanitarian Law in our own operations; freedom of navigation operations in support of international maritime law efforts to shape responsible behaviour in cyberspace and space, and the ethical development and deployment of technology based on democratic values; and by embedding international laws, rules and norms in partners’ approach to security through capacity building.
+
+ • Strengthening security and defence at home and overseas – which we will support through: defence of the UK, the Overseas Territories and Crown Dependencies, our ability to conduct non-combatant evacuation operations when needed, and our CBRN expertise, which was called upon in response to the 2018 Salisbury attack; our contribution to deterrence through collective security with our Allies in NATO, and building the capacity and resilience of like-minded partners to evolving security threats; support for UN peacekeeping operations as part of the Government’s effort to reduce the frequency and incidence of conflict; and by providing high-end PURSUE counter-terrorism capabilities, maintaining our contribution to the Global Coalition against Daesh in Iraq and Syria, to coalition efforts in Afghanistan and to French operations in the Sahel, as well as further integrating our counter-terrorism activity through the new Counter Terrorism Operations Centre (CTOC).
+
+ • Building resilience at home and overseas – which we will support through: Military Aid to the Civilian Authorities, most recently in support of the Covid-19 response; support to local authorities in responding to extreme weather events, and to law enforcement following terror attacks, as in 2017; our readiness to provide humanitarian relief overseas at speed; and our ability to provide specialist and rapid support in responding to global health risks, such as during the 2014 Ebola outbreak.
+
+
+-----
+
+#### The future battlefield
+
+###### Chapter 2
+
+**2.1.** The future operating environment will
+
+not be limited by lines on maps or by geography.
+We will be confronted by complex and
+integrated challenges below, and potentially
+above, the threshold of armed conflict. These
+challenges will be complex, test our approach
+and target our most vulnerable areas. We will
+likely be confronted by state and non-state
+actors who will employ brinkmanship, malign
+activity below the threshold of armed conflict,
+terrorism, proxies, coercion and the deliberate
+use of economic tools to undermine our
+economic and security interests.
+
+**2.2.** The technical advantage of the UK and
+
+its allies has diminished over the past two
+decades, challenged by targeted investment in
+capabilities designed to counter our strengths
+and target our weaknesses. Some states will seek
+to acquire, overtly and covertly, technologies and
+knowledge from the West, including the UK, to
+advance their military programmes. Research and
+development conducted by state governments
+will be further enhanced by the increased
+availability of off-the-shelf equipment making
+the upgrading of legacy systems more accurate
+and more lethal. Conventional military
+capabilities are advancing. Several states are
+developing land systems including anti-armour
+missiles and artillery, that can exceed the
+capabilities of many NATO nations in range and
+lethality. The development of Hypersonic Glide
+Vehicles, capable of delivering a conventional or
+nuclear warhead and with an unpredictable flight
+path, will allow very little warning time and pose
+significant challenges for defensive missile
+systems to counter.
+
+
+**2.3.** Growing maritime capabilities will
+
+enable the projection of power further afield and
+to conduct operations from increased range.
+
+- The growth of China’s navy, already the
+largest in the world, is outpacing all
+competitors. China is set to have as many as
+five aircraft carriers by 2030 as well as up to
+four light helicopter carriers, and are
+supported by the growing fleet of destroyers.
+
+- Russia is investing in and developing
+significant underwater capabilities, including
+deep-sea capabilities which can threaten
+undersea cables, as well as a torpedo capable
+of delivering a nuclear payload to coastal
+targets.
+
+**2.4.** The development of long-range
+
+precision strike capabilities, combined with
+increasingly capable early warning radar and
+integrated air defence systems, will enable states
+to contest and even dominate airspace in many
+areas where the UK will need to operate.
+
+- China is developing a full spectrum of air
+capabilities including fourth and fifth
+generation fighters, multiple Intelligence
+Surveillance Targeting Acquisition and
+Reconnaissance (ISTAR) aircraft, the Y-20
+heavy transport aircraft, armed stealth
+Uncrewed Aerial Vehicles (UAVs) and a
+capable Integrated Air Defence System with
+the world’s most modern surface to air
+missiles.
+
+**9**
+
+
+-----
+
+- Russia has the capability to conduct precision
+strikes at range and to deny freedom of
+action to the UK and our allies through a
+highly capable integrated air defence system.
+Russia can therefore present a significant
+threat to the UK’s ability to support our forces
+and protect our interests in Europe, the
+eastern Mediterranean and the Middle East.
+
+**2.5.** The rapid development and large-scale
+
+deployment of high-end military capabilities will
+inevitably be a concern to our allies and partners
+in the regions in which they are fielded. But
+equally challenging is the de-stabilising effect
+that comes from the proliferation of these
+technologies to other states, often those whose
+malign behaviour is already a threat to their
+neighbours. Proliferation will make access to
+more advanced weapons systems ever more
+available for less technologically advanced
+countries and non-state actors. An adversary will
+no longer need to rely solely on its own research
+capabilities to field a credible threat to even the
+most technologically advanced nations. The most
+potent recent example is the use of Iranian
+supplied ballistic missiles by the Houthis. Also of
+significant concern, is an increasing readiness to
+use chemical or biological weapons, including on
+British soil and outside of conflict settings; both
+North Korea and Russia have used chemical
+agents in the last four years.
+
+**2.6.** Our space assets, both military and
+
+civilian, can be held at risk due to the
+development of anti-satellite weapons. Several
+states have already been investing in and testing
+these capabilities. Similarly, our potential
+adversaries are aware of how reliant space is on
+
+
+cyberspace. These technologies are growing in
+capability, type and number and now present a
+full spectrum of threats that modern space and
+space-enabled operations will need to counter.
+Space will be an increasingly contested domain
+and emerging technologies and applications will
+become ever more dependent upon the unique
+services it provides.
+
+**2.7.** As Defence relies on information held on
+
+connected networks and systems, opportunities
+to attack us via cyberspace will almost certainly
+increase. For Defence, the cyberspace threat
+surface is broad with information networks,
+weapon systems and platforms relying on
+cyberspace capabilities. Cyberspace threats will
+emanate from state, state-sponsored and
+criminal groups with personnel and capabilities
+moving seamlessly between them. As with other
+domains, cyberspace activity is often leveraged
+as part of a wider, coordinated and integrated
+attack. Cyberspace espionage can and will be
+used as part of wider influence and propaganda
+campaigns, as well as in support of wider hostile
+activity up to and including conventional warfare.
+
+**2.8.** These threats will continue to develop
+
+over the next few years. The application of
+increased automation and the power of artificial
+intelligence will transform many of these
+capabilities. We must be vigilant; understand the
+threats we face and be prepared to continue to
+adapt.
+
+**10**
+
+
+-----
+
+#### Our strategic approach
+
+###### Chapter 3
+
+**3.1.** As the strategic context and operating
+
+environment changes, so must Defence. This will
+be essential in keeping British citizens safe from
+future threats and in achieving the ambition and
+cross-government objectives established in the
+Integrated Review. This Chapter sets out how
+Defence will change its operating approach to
+meet the ambition for Global Britain set out in
+the Integrated Review and to protect the UK, its
+citizens and its interests in light of the strategic
+context presented in Chapter 1.
+
+**3.2.** As one of the principal instruments
+
+available to government, Defence plays a unique
+role in protecting and promoting the three
+fundamental national interests identified by the
+Integrated Review: sovereignty, security and
+prosperity. Our fundamental purpose is to
+protect our people, territory, critical national
+infrastructure and way of life. Our operations
+ensure that the UK maintains freedom of action
+and that its citizens are free from coercion or
+manipulation. Defence also makes a significant
+contribution to local communities and the UK
+economy alike, with our armed forces drawn
+from across the Union, our UK-wide footprint
+providing local jobs, our investment in cuttingedge R&D and British industry, and through
+defence exports.
+
+**3.3.** The values that bind together citizens in
+
+all parts of the UK are also our abiding strength
+and will remain core to our effort. We will seek to
+uphold the international laws, rules and
+behaviours that are founded on them – from
+International Humanitarian Law to the United
+Nations Convention on the Law of the Sea
+(UNCLOS). And we will ensure that the
+
+
+frameworks that govern our operations keep
+pace with technological change, embedding an
+ethical approach consistent with our core values
+and principles in the design and deployment of
+new technologies.
+
+**3.4.** Our approach to warfare has evolved
+
+relatively slowly in recent years, while our
+adversaries have invested in equipment and
+forces that expose our vulnerabilities. They are
+committed to understanding our capabilities and
+activities, adapting their approach to enable
+them to win without warfighting. They have
+increased their focus on speed and readiness.
+They are prepared to use hard military force to
+confront us, if they deem it necessary, either
+directly or through proxies. Failure to adapt our
+armed forces’s posture, skills and capabilities to
+the changing environment and threat will hand
+the advantage to our adversaries. Our armed
+forces must have the tools and capabilities they
+need to lead, influence, partner, deter and when
+necessary to fight to ensure the whole of the UK
+and its interests are protected. We cannot afford
+to stand still while the world changes around us.
+We must change how we deter our adversaries,
+defend our nation and our nation's interests.
+
+**3.5.** We are making a decisive shift in our
+
+approach. The Integrated Operating Concept,
+published in 2020, set out how we intend to
+adapt. Our spending review settlement of over
+£24bn over the next four years, which raised
+defence spending, has given us the resources
+needed to deliver on it. This is in addition to our
+planned investments to defence over the same
+period.
+
+**11**
+
+
+-----
+
+**3.6.** The Integrated Operating Concept sets
+
+out the continuum between 'operate' and
+'warfight,' which will allow our forces to be more
+versatile and flexible in delivering a range of
+tasks. Our response will be founded on
+modernisation and integration. We will play to
+our traditional strengths whilst acknowledging
+that we will need to adapt to be ready for the
+threats of the future. The core elements of our
+approach are as follows:
+
+- **Our allies and partners give us strategic**
+advantage, sharing the responsibilities of
+security and providing a force multiplication
+effect. NATO, and our ability to contribute to
+it a high end warfighting force useable against
+a peer opponent, will remain central to our
+policy. Along with our enduring relationship
+with the US, it will continue to be the bedrock
+of our security. Our collective Article V
+commitment, that an armed attack against
+one state shall be considered an attack on all,
+underpins the security of the UK and our
+Allies. We will also look to other alliances and
+partnerships – including in the Indo-Pacific to increase further our interoperability and
+burden sharing across the world. We will need
+to live up to the concept of allied by design
+both in how we build capability and how we
+operate. Ensuring we work alongside our allies
+to reinforce their resilience from shared
+threats will be key.
+
+- **Our people, from all four corners of the UK,**
+the Commonwealth and beyond, are our most
+important resource. They give us our edge.
+We will need to attract a more diverse
+workforce with the skills and experience
+required to operate in the information age
+and invest in and exploit rapid technology
+development.
+
+
+
+- **Innovation and experimentation will be the**
+drivers of modernisation, with access to
+cutting-edge technology. As much of
+technology development currently sits outside
+of government, we will develop new ways of
+partnering with industry to ensure that
+pioneering research and development is
+pulled through to capability delivery.
+
+- **Understanding and assessment will be**
+increasingly important to effective decisionmaking and action. We will need to integrate
+physically, virtually and cognitively.
+
+- Evolving from a force that is primarily
+designed for the contingency of a major
+conflict and warfighting, to one that is also
+designed for permanent and persistent
+**global engagement. To succeed in the era of**
+systemic competition we will need to be
+front-footed. We and our allies and partners
+must drive the tempo of strategic activity
+rather than responding to others. That
+requires a different way of thinking. It requires
+as much focus on how the force is postured
+and used as on its structure. It requires a
+mindset that is based on continuous
+campaigning, seeing all activity as part of an
+overall operational design.
+
+**3.7.** To deliver this we will need to be:
+
+- **Integrated across all 5 domains – space,**
+cyberspace, maritime, land and air. We will go
+beyond the traditional concept of 'joint' to a
+depth of multi-domain integration that adds
+up to far more than the sum of the parts.
+
+**12**
+
+
+-----
+
+- **Integrated nationally. As set out by the**
+Integrated Review, we need a step change in
+integration across government, where we
+share responsibilities, to create a truly national
+enterprise that can harness all elements of our
+society to secure national advantage. Led by
+the direction set in the Integrated Review, we
+will build on the progress we have made in
+recent years through the ‘comprehensive
+approach’ and ‘fusion doctrine’. But we must
+be bolder in our ambition.
+
+- **Engaged internationally. It is only through**
+persistent and proactive engagement that we
+will increase our understanding, pre-empt
+threats and build the partnerships and
+capability we will need to stay safe. Through a
+more engaged posture we will increase our
+influence, promote our values and create the
+unity which our adversaries fear.
+
+- **More assertive. We will need to**
+demonstrate the will and capability – lethal
+and non-lethal - to confront threats early.
+Only by being more confident will we enhance
+deterrence and be ready to seize
+opportunities when they arise. This will
+require a force that is more agile, resilient and
+responsive to events.
+
+- **Information led. Information is the**
+foundation of integration. We will need to
+invest in the capabilities that enable us to
+obtain and exploit information at speed to
+give us advantage over our rivals. We must
+carefully consider the impact of the messages
+we send.
+
+
+**3.8.** We will continue to invest in the hard
+
+power capabilities and in the global reach that
+sets the UK apart from other countries, with
+modernised platforms and weapon systems
+across all domains. As set out in the 2020
+Defence Science and Technology Strategy, we
+will prioritise higher-risk research to support the
+modernisation of our armed forces. Our renewed
+focus on R&D sets a new approach to ensure we
+use our investment strategically. It is vital that we
+seize the opportunities for innovation – focusing
+on game-changing technologies - and protect
+those technologies that will provide us with a
+decisive edge. This will enable us to ensure that
+the UK continues to have competitive, innovative
+and world-class defence to accelerate the
+transformation of our armed forces and sustain
+our strategic advantage.
+
+**3.9.** We will invest in the agile,
+
+interconnected, and data-driven capabilities of
+the future, targeting generational leaps in
+capability development to outpace our
+adversaries. The pace of technological change
+will require us to constantly adapt, experiment
+and take risks, to preserve strategic advantage.
+Through this approach, Defence will support the
+wider government ambition to build and
+leverage strategic advantage through Science
+and Technology to deliver national aims. Our
+investment will support other parts of
+government and industry to the benefit of
+security and resilience of the whole of the UK
+economy.
+
+
+-----
+
+##### Carrier Strike Group
+
+###### The arrival of Britain’s fifth generation Carrier Strike Group (CSG) marks a step change in capability. A symbol of Global Britain in action, both of our Carriers (HMS QUEEN ELIZABETH and HMS PRINCE OF WALES) were assembled in Scotland from sections built across the Union. The CSG provides a platform to deliver the Government’s defence, foreign policy and trade priorities and to project the UK’s global reach and influence. The ability to deploy a sovereign CSG underlines the UK’s global ambition and leadership as an inclusive, outward- facing and free-trading nation, assertive in defending our values and interests, and a champion of international rules.
+
+ The CSG comprises cutting-edge frigates, destroyers, a nuclear-powered submarine, support ships, and a carrier air wing of Royal Air Force and Royal Navy F-35B jets and helicopters. International and interchangeable by design, the CSG offers unique strategic flexibility, from countering state threats and non-state threats, through to humanitarian and disaster relief. A UK CSG will be permanently available to NATO, an embodiment of our unwavering commitment to the defence and deterrence of the Euro-Atlantic area. The strategic utility of the CSG will be demonstrated by its inaugural deployment in 2021 to the Indo-Pacific region. Integrated with United States Navy and United States Marine Corps it will showcase the UK’s ability to project global influence and send a powerful message about our ability, and our willingness, to act globally.
+
+
+-----
+
+#### Evolving for the future
+
+###### Chapter 4
+
+
+**4.1.** Implementing the Integrated Operating
+
+Concept will see Defence continuing to fulfil
+many of the tasks we have traditionally
+undertaken. But we also need to take on new
+tasks and adapt the way we do traditional tasks
+given the changing strategic context and the
+emerging threats we observe. We will develop
+new doctrine, new operating methods, new
+capabilities and new partners to deter and
+constrain our adversaries in the grey-zone
+between peace and conflict. Our model of
+Persistent Engagement is at the heart of our new
+approach to tasks overseas, but our ability to
+protect the UK, our Overseas Territories (OTs)
+and the Crown Dependencies will remain
+paramount.
+
+Persistent Engagement OverseasPersistent engagement overseas
+
+
+**4.2.** In the current threat landscape, and in an
+
+era of constant competition, we must have an
+increased forward presence to compete with and
+campaign against our adversaries below the
+threshold of armed conflict, and to understand,
+shape and influence the global landscape to the
+UK’s advantage. To pursue our foreign policy
+objectives and shape conditions for stability, we
+will rebalance our force to provide a more
+proactive, forward deployed, persistent presence.
+This will ensure our armed forces are more in use
+whilst maintaining the deterrent effect that
+comes from being ready for managing crises at
+scale.
+
+**4.3.** As set out in the Integrated Review, the
+
+UK will continue to play a leading international
+role in conflict resolution and prevention. Our
+persistent engagement will increase the UK’s
+ability to pre-empt and manage crises before
+they escalate and minimise the opportunities for
+
+
+state and non-state actors to undermine
+international security. We will engage in the
+places where we judge we will have best impact
+against the global challenges we face. We will
+integrate our efforts with those of other
+government departments, agencies, the police
+and our allies, including through collaborative
+work funded by the Conflict, Stability and
+Security Fund (CSSF).
+
+**4.4.** This approach will demonstrate a much
+
+greater commitment to our allies and partners
+than our current model of intermittent, ad hoc
+visits, exercises and training packages. It will also
+provide us with accurate, real-time
+understanding to inform decision-making to help
+us maintain strategic advantage.
+
+**4.5.** Overall, our engagement overseas will
+
+bring us influence and understanding, strengthen
+our partnerships, prosperity and trade, and deter
+our adversaries. More specifically, we will:
+
+- Have a larger, professionalised cadre of
+**permanently deployed personnel, delivering**
+defence diplomacy around the globe. We will
+increase our global network by a third,
+expanding our Defence Attaché network and
+our British Defence Staffs to co-ordinate
+activity across regions.
+
+- Integrate our activities into a scalable global
+**foundation, comprising sovereign or**
+partnered bases and facilities. We will invest in
+facilities and infrastructure across our
+network. In Cyprus, our investment will allow
+forward based troops and aircraft to be more
+quickly available in the Eastern Mediterranean,
+the Middle East and North Africa.
+
+**15**
+
+
+-----
+
+- Our continued commitment in Gibraltar will
+enable our ships to be persistently engaged
+from the Gulf of Guinea to the Eastern
+Mediterranean. An enhanced presence in
+Kenya will facilitate a greater commitment to
+East Africa, including through our Overseas
+Training and Exercises Programme. Further
+investment in Oman and increased
+deployments to the country and the region
+will demonstrate our long-term commitment
+to the Gulf’s stability and prosperity, in
+addition to our presence in the British Indian
+Ocean Territory. And in Germany, we will
+invest in our existing storage facilities to
+increase the readiness of land forces for
+deployment in Europe.
+
+- Use this foundation to maintain a persistent
+**forward presence to assert our influence,**
+support our friends and deter our adversaries.
+We will contribute to NATO’s forward posture
+in support of deterrence and defence, aligned
+with NATO’s own deterrence and defence
+concept. We will do this through persistent
+operations in peacetime, including through
+our Enhanced Forward Presence battlegroup
+in Estonia and our presence in Poland, air
+policing missions and contributions to NATO
+naval groups in the Euro-Atlantic area and an
+increase in our exercise presence with Allies in
+support of Supreme Allied Commander in
+Europe (SACEUR’s) objectives. And we will
+increase our presence and engagement in the
+Indo-Pacific and Africa, committed for the
+long-term, with closer and deeper regional
+partnerships. Our Offshore Patrol Vessels, and
+later our Type 31 frigates, will be key to our
+forward presence in the South Atlantic, the
+Caribbean, the Mediterranean and the Gulf of
+
+
+Guinea, as well as the Indian and Pacific
+Oceans.
+
+- Take a campaigning approach to building
+**partners’ capacity, with a capability**
+optimised to work alongside other nations’
+forces. We will train, advise, assist and, when
+necessary, accompany them. We will be
+prepared to operate with them in hostile
+environments. Such activities contribute to
+Euro-Atlantic security, in the Western Balkans
+and Ukraine; and more widely, in West and
+East Africa, the Gulf, Iraq, Afghanistan and the
+Indo-Pacific region. Defence’s contribution to
+our relationships in these regions will be part
+of the wider government approach to conflict
+and instability, as set out under the Integrated
+Review.
+
+- Enhance the defence contribution to the
+Government’s counter-terrorism strategy,
+campaigning to counter terrorism overseas.
+We will develop our intelligence, surveillance,
+reconnaissance and stand-off strike
+capabilities so we can respond quickly as the
+threat develops. Our Special Forces will be
+ready to intervene decisively when our
+interests are threatened.
+
+- **Counter and deny state threats, making a**
+sustained, dynamic and calibrated effort to
+ensure that the UK’s potential adversaries are
+not able to manipulate the security
+environment. To do this, we will use a mixture
+of operational activity, strategic
+communication and engagement. We will
+work closely with other departments and the
+intelligence community to maximise our
+national impact.
+
+
+-----
+
+##### Our global foundation
+
+###### British Defence Staffs
+
+ Defence Attaché network*
+
+ Hubs / bases
+
+ Large training areas
+
+
+-----
+
+###### All locations are indicative
+
+ *Defence Attaché network is illustrative
+
+
+-----
+
+**Crisis responseCrisis response** **WarfightingINTENSITY OF INFORMATION OPERATIONSINTENSITY OF UKIC AND DEFENCEINTEGRATED CAMPAIGNINGWarfighting**
+
+
+**4.6.** Our approach will be based on seizing
+
+the initiative, seeking to prevent and manage
+crises before they escalate and minimising the
+opportunity for our adversaries to exploit conflict
+and instability. But it will be underpinned by the
+will and the capability to reconfigure, surge and
+apply hard power when the threat demands it.
+These higher risk interventions will range from
+targeted counter-terrorism missions to larger
+and more complex operations. We will be
+smarter about where and how we can have a
+catalytic effect, playing to our strengths, making
+greater use of partnering and retaining the
+flexibility to reallocate our forces as the situation
+changes. As part of the UK's force for good
+agenda, Defence will continue to play a role in
+humanitarian assistance and disaster relief,
+including in the Atlantic and Caribbean during
+the annual hurricane season.
+
+
+**4.7.** The UK has an unwavering commitment
+
+to NATO and remains bound to the requirement
+for collective self-defence under Article V of the
+Washington Treaty: that an attack on one NATO
+Ally shall be considered an attack on all. To
+underpin the credibility of our deterrence
+posture, we will maintain well-supported and
+equipped nuclear and conventional forces at high
+readiness, across all domains, capable of highintensity warfighting. We will design our
+warfighting forces to be integrated with allies,
+first and foremost through NATO, acting as a
+framework nation (providing the lead command
+and enabling function to NATO) to command
+and cohere Alliance warfighting activity.
+
+**Capacity BuildingInt Co-opVisiting ExercisesForward PresenceForward PostureInt SharingVisiting ExercisesCapacity BuildingForward PresenceForward PostureDefence AttachéInt IntegrationVisiting ExercisesWarfighting at ScaleCapacity BuildingForward PresenceCT StrikeForward PostureSCALEHMG OBJECTIVES**
+
+**19**
+
+
+###### CONSTANT COMPETITION
+
+ EMERGING CRISIS
+
+ CONFLICT
+
+
+-----
+
+We will invest in readiness and lethality, ensuring
+UK forces can make a decisive difference in the
+early stages of any conflict. Rapidly deployable
+land forces will reinforce our forward presence,
+with the Carrier Strike Group offering a flexible
+basing option to respond in a warfighting
+scenario. The UK will be able to bring key
+capabilities to bear from land, air, sea,
+cyberspace and space along with our Special
+Forces, ensuring we can manage escalation
+against an adversary. The Army will deliver a
+modernised, adaptable and expeditionary
+fighting force, centred around HQ Allied Rapid
+Reaction Corps as a NATO corps HQ, and 3 (UK)
+Division as a warfighting division, optimised to
+fight a peer adversary in a NATO context.
+Smarter employment of our Reserves will make
+better use of expertise to backfill key defence
+roles in a crisis and provide follow-on forces in a
+major conflict. Our precision strike capabilities
+will continue to contribute to maintaining
+NATO’s defence and deterrence, as well as being
+an important component of our globally
+deployable force.
+
+**4.8.** Major investments in a new generation
+
+of Anti-Submarine Warfare frigates and a focus
+on deep inter-operability with allies such as the
+US, France, Norway, and the Netherlands will
+ensure that the UK retains its historic role as the
+heart of NATO’s ability to ensure our freedom to
+operate in the North Atlantic and reinforce
+European allies. These investments will ensure we
+can also be able to project UK forces into NATO’s
+flanks, in particular the High North and Arctic, the
+Baltic Sea, the Balkans, and the Mediterranean
+and the Black Sea. The High North and
+maintaining security in the defence of the North
+Atlantic remains of great importance, underlining
+the value of our strong relationship with Iceland
+and our Joint Expeditionary Force (JEF) partners,
+Denmark, Estonia, Finland, Latvia, Lithuania, the
+Netherlands, Norway, Sweden and from spring
+2021, Iceland.
+
+
+###### Defending the UK and our territoryDefending the UK and our territory
+
+
+**4.9.** Some tasks remain constant and our
+
+priority will always be to defend the UK, its
+people and its territory. We will provide high
+readiness air and maritime assets to deter and
+respond to threats to the UK. Working with the
+intelligence and security community, our
+cyberspace and intelligence networks will protect
+the UK against espionage and threats to our
+critical national infrastructure. We will continue to
+defend the Overseas Territories and the Crown
+Dependencies, protect their people and ensure
+their right of self-determination. The armed
+forces will retain a deterrent posture in the
+Falkland Islands, protect Gibraltar’s territorial
+waters and continue to contribute to the security
+of the Sovereign Base Areas in Cyprus. The British
+Antarctic Survey provides the UK’s permanent
+presence in the British Antarctic Territory and
+South Georgia & the South Sandwich Islands.
+Annual seasonal Antarctic patrols by our Ice
+Patrol ship, HMS PROTECTOR, will maintain and
+assure compliance of other state parties in the
+prohibition of military activity, weapons testing
+and observance of environmental protocols
+under the Antarctic Treaty System.
+
+**4.10.** We will continue to make an important
+
+contribution to the wider security and resilience
+of the UK in support of civil authorities, providing
+specialist skills. We will hold forces at high levels
+of readiness to respond to a wide range of
+national events and crises from environmental
+hazards such as severe flooding through to
+malicious attacks by terrorists or states. The
+armed forces and defence scientists will continue
+to support domestic authorities with explosive
+and CBRN threats and provide high-readiness
+explosive ordnance disposal teams to render safe
+bombs and other unexploded devices.
+
+**20**
+
+
+-----
+
+##### Protecting our homeland
+
+
+###### Ensuring Regional hubs
+ our
+ connectivity
+
+ Defensive
+
+ cyber
+ Defending our
+
+ seas and sky
+
+
+-----
+
+We will also provide support to UK security and
+intelligence agencies and other partners in
+countering the threat posed by smuggling, illegal
+migration and illegal access to UK fisheries. We
+will develop our approach to national resilience
+in line with the Comprehensive National
+Resilience Strategy.
+
+Nuclear deterrent
+
+###### Nuclear deterrent
+
+
+**4.11.** A minimum, credible, independent
+
+nuclear deterrent, based on a continuous at sea
+posture and assigned to the defence of NATO,
+remains essential as the ultimate guarantee to
+our security, and that of our allies. Since April
+1969, there has always been a Royal Navy
+ballistic missile submarine at sea on deterrent
+patrol. Armed with strategic nuclear missiles,
+these submarines have acted as the nation’s
+continuous nuclear deterrent against the most
+extreme threats to the UK and our allies, by
+sending a clear message to would-be aggressors.
+Extreme threats to the UK and our allies have not
+gone away.
+
+**4.12.** Some nuclear-armed states are
+
+increasing and diversifying their arsenals, while
+increases in global competition, challenges to the
+multilateral order, and proliferation of potentially
+disruptive technologies all pose a threat to
+strategic stability. The UK must ensure potential
+adversaries can never use their capabilities to
+threaten us or our NATO allies, to constrain our
+decision making in a crisis, or to sponsor nuclear
+terrorism. More detail on the UK’s nuclear
+
+
+deterrence policy is included in the Integrated
+Review.
+
+**4.13.** In this context, we have committed to a
+
+once-in-two-generations programme to
+modernise our nuclear forces. This will include
+replacing the current Vanguard Class submarines
+with four new Dreadnought Class submarines.
+Designed and built in the UK, these new
+submarines will be some of the most advanced
+machines ever built, employing world-leading
+and cutting-edge technology to deliver an
+extremely capable and intensely formidable
+capability. We will also replace the UK’s nuclear
+warheads to ensure we maintain an effective
+deterrent throughout the commission of the
+Dreadnought Class, working closely with the US
+so that our new sovereign warhead remains
+compatible with the Mk7 aeroshell and Trident
+Strategic Weapon System. We will continue to
+cooperate with France under the Teutates Treaty,
+working together on the technology associated
+with nuclear stockpile stewardship in support of
+our respective independent nuclear deterrent
+capabilities. We will work collaboratively across
+the nuclear sector to optimise the Defence
+Nuclear Enterprise for the future, ensuring that
+the UK retains and develops its world leading
+skills through a wide range of companies. We
+remain committed to the long-term goal of a
+world without nuclear weapons and continue to
+work for the preservation and strengthening of
+effective arms control, disarmament, and nonproliferation measures, taking into account the
+prevailing security environment.
+
+
+-----
+
+##### Countering the threat of CBRN
+
+###### Chemical, biological, radiological and nuclear (CBRN) weapon use remains an enduring and growing threat to the UK, deployed forces and international stability. To counter this threat, we will have capabilities in place that allow us to maintain our political and military freedom of action despite the presence, threat or use of CBRN materials. Defence must also be prepared to provide counter-CBRN forces to support a UK homeland resilience response to multiple threats and maintain our contingent capability to operate overseas. We should support NATO’s efforts to improve its preparedness to deter and defend against a CBRN incident and to ensure that its forces are best equipped to fight and prevail in a CBRN threat environment, both today and in the future. Defence’s world leading CBRN science and technology capability will continue to play a vital part in maintaining our counter-CBRN operational advantage and in countering current and emerging CBRN threats.
+
+
+-----
+
+-----
+
+##### Defence’s contribution to COVID-19
+
+###### From the renowned success of building field hospitals around the country, such as the Nightingale hospitals, to delivering vital Personal Protective Equipment (PPE) and supporting ambulance drivers, NHS hospital staff and care homes, Defence has been supporting on the front line and the complex planning effort behind it. We deployed military assessment teams to each of the NHS regions and to Scotland, Wales and Northern Ireland: assessing the situation on the ground and formulating and coordinating effective responses. This has included support with vaccine deployment, community testing, haulier testing in Kent, support to NHS and Ambulance Services, and airlifting patients from the Scottish Islands, on top of crisis planning support. Working in partnership with the Foreign, Commonwealth and Development Office, we supported our overseas territories’s Covid-19 response, delivering support to Gibraltar, the Falklands, and the Caribbean, and supported the Department for Transport by testing hauliers crossing the English Channel. Defence’s Covid-19 response has demonstrated the ability of our armed forces to adapt to new crises, surging and tailoring contributions to best assist the national pandemic response. Answering nearly 400 requests for Military Aid to the Civil Authorities, supporting fourteen other government departments, Defence’s contribution to the Covid-19 response has been a truly whole of force and whole of the UK response.
+
+
+-----
+
+-----
+
+#### Defence’s contribution to Global Britain
+
+###### Chapter 5
+
+
+**5.1.** Integration with allies will be
+
+fundamental to retaining our global strategic
+advantage. This chapter sets out our
+commitments to NATO, the US and beyond to
+tackle our shared security challenges. While
+NATO and our relationship with the US remain
+the bedrock of our security, we will look to other
+alliances and partnerships – including in support
+of the UK Government’s tilt to the Indo-Pacific to increase further our interoperability and
+burden sharing across the world.
+
+**5.2.** The ability and willingness to commit
+
+hard capability to fighting wars is a fundamental
+foundation of our influence and deterrence.
+Combined with the strength of our alliances and
+partnerships, it forms a vital part of the deterrent
+effect that keeps our adversaries in check. The
+flexibility of our armed forces and their ability to
+deploy where they are most needed, is central to
+our offer to allies and partners. Operating,
+training and exercising together, as well as
+developing doctrine and capabilities together, is
+the foundation on which modern defence is built.
+
+**5.3.** In an era of global competition and
+
+security threats, we must be ready to bring
+military support to our allies and partners
+wherever that might be needed. Britain’s ability
+to project power in this way remains a defining
+feature of our defence policy. Demonstrating our
+capability, and operating effectively alongside
+partners, is the best way to ensure stability and
+avoid conflict occurring.
+
+**5.4.** NATO will remain the foundation of
+
+collective security in our home region of the
+Euro-Atlantic. It is the pre-eminent forum in
+which Europe, the US and Canada shape their
+strategy for responding to threats, and as such
+must constantly adapt to a changing world.
+
+
+NATO adapted to the threat of extremist
+terrorists after 9/11, declaring Article V and
+developing its expeditionary role, and since 2014
+has successfully re-invigorated its defence and
+deterrence in response to the threat posed by an
+aggressive Russia.
+
+**5.5.** NATO’s enduring strength remains its
+
+ability to adapt. The Alliance must keep up with
+technological change and apply the full range of
+military and non-military capabilities against the
+threats we face. We will continue to be the
+leading European ally within NATO, as one of
+only two Allies (with the US) that can bring to
+bear nuclear, offensive cyber, precision strike
+weapons and fifth-generation strike aircraft
+across the NATO region. Our efforts to
+modernise our own armed forces will ensure we
+can play a leading role in NATO’s own
+transformation in delivering its deterrence and
+defence. From both a political and military
+standpoint, NATO must respond to trends such
+as:
+
+- the importance of space and cyberspace as
+operational and warfighting domains.
+
+- the systemic challenge posed by China.
+
+- the weakening of arms control architecture,
+the global proliferation of advanced weaponry
+and increased threat of nuclear coercion by
+our adversaries, especially Russia.
+
+- global health crises (including our response to
+Covid-19) and the challenges posed by
+climate change.
+
+- the speed, scale and potential disruptive
+impact of technological development.
+
+**27**
+
+
+-----
+
+- the need to deter and constrain hybrid attacks
+on the Alliance and its members, such as
+cyber attacks, assassinations, disruption to
+space based systems, disinformation and
+attempts to erode our technological base
+through espionage.
+
+**5.6.** These challenges require NATO to
+
+ensure that its command structure, force
+structure, operational activity, doctrine and the
+capabilities it asks allies to invest in, keep pace
+with the scale and complexity of change. They
+also require NATO to work in different ways,
+including with Allies’s non-military agencies, as
+well as with a range of partner countries who
+share its values and interests. Improving our
+collective ability to manage a wide range of
+multi-domain crises will be key. On all these
+issues the UK is committed to playing a leading
+role, driving NATO’s conceptual development
+and taking on our share of the burden across
+cash, capabilities and contributing to every NATO
+operation and mission. Our wider global role is
+an asset to NATO, as the Alliance’s security is
+inextricably bound up in global security.
+
+**5.7.** Our own approach within NATO will be
+
+driven by developing a truly joint, high readiness
+force, integrating innovative technologies and
+approaches, and operating in all five domains,
+including cyberspace and space. We will remain
+the leading European Defence spender in NATO,
+delivering a unique set of capabilities and
+activities, including:
+
+- A campaigning approach to better
+understand, manage and, where appropriate,
+contest aggression below the threshold of
+armed conflict in the Euro-Atlantic area.
+
+
+
+- Further developing the JEF (with Denmark,
+**Estonia, Finland, Latvia, Lithuania, the**
+**Netherlands, Norway, Sweden and from**
+spring 2021, Iceland) so that it offers these
+countries flexible options for managing subthreshold competition as well as responding
+to crises, and improving its interoperability
+with NATO.
+
+- Forward presence to deter our adversaries,
+including Enhanced Forward Presence, Air
+Policing, regular naval patrolling, and
+exercising with our allies.
+
+- Persistent engagement activities in NATO’s
+near and far geographic regions, delivering
+upstream prevention of instability and terror
+threats. We retain an enduring commitment
+to KFOR, the NATO mission in Kosovo. And
+we will remain committed to working with
+partners to address the threats to NATO’s
+southern and eastern flanks, including by
+addressing them through upstream
+interventions.
+
+- High readiness forces, including our Carrier
+Strike Group and Littoral Strike Forces, ready
+to respond to threats within 30 days.
+
+- a nuclear deterrent declared to the defence of
+NATO Allies.
+
+- Our offensive cyberspace capabilities
+committed to the Alliance.
+
+- A suite of high readiness warfighting
+capabilities aligned with our commitments to
+the NATO Readiness Initiative and NATO
+Defence Planning Process.
+
+**5.8.** The UK and the US are indispensable
+
+allies and pre-eminent partners for security,
+defence and foreign policy. UK-US defence cooperation is the broadest, deepest and most
+advanced of any two countries in the world.
+
+**28**
+
+
+-----
+
+Together, we help to share the burden of
+international leadership, based upon our shared
+values, our global reach and capabilities, and our
+common interest in maintaining international
+peace and security in this era of systemic
+competition. The breadth of our relationship is
+unparalleled, extending across the full spectrum
+of Defence including intelligence (notably
+through the Five Eyes relationships), nuclear
+cooperation, scientific research and flagship
+capability programmes. We will deepen our
+unique partnership in areas such as cyberspace,
+space, next generation capabilities and
+deterrence, and work together to further
+strengthen the NATO alliance.
+
+**5.9.** The Five Eyes (Australia, Canada, New
+
+**Zealand, the UK and the US) is fundamental to**
+our approach. It is a group of like-minded allies
+with a shared view of the threats, the challenges
+and the opportunities. It is also the pre-eminent
+global intelligence sharing arrangement. But it is
+much more than that. For Defence it is the basis
+for collaboration on strategic analysis, capability
+development, interoperability, burden-sharing
+and operational co-ordination. We will continue
+to engage as a Five Eyes community at all levels,
+from Defence Ministers down, to ensure we
+deliver on all that the group has to offer. Our
+partnerships with Canada, Australia and New
+**Zealand will be at the heart of our tilt to the**
+Indo-Pacific as we work to support them to
+tackle the security challenges in the region. The
+joint development with Australia and Canada of
+our Anti-Submarine Warfare capability through
+the Type 26 and Hunter class frigate
+programmes, is just one example of the benefits
+that deep collaboration can bring.
+
+**5.10.** The UK remains committed to working
+
+with European partners and allies, and will
+remain deeply invested in European security and
+prosperity. We will work together to build
+influence and cooperation across Europe, to
+
+
+counter malign influence, deter and defend
+against threats, build resilience and look for
+opportunities to enhance our shared prosperity
+where our interests align. While NATO will
+remain our main forum for engagement on
+European security, we will re-energise bilateral
+relationships in Europe, enhance our network of
+Defence Attachés and Defence Staffs and deepen
+our relationship with the Joint Expeditionary
+Force. We will increase our commitment to the
+Black Sea region, the High North, the Baltics and
+the Western Balkans (where we will implement a
+new regional training initiative), building and
+working through multilateral groupings, such as
+the Northern Group.
+
+**5.11.** Allies for over a century, France and UK
+
+are vital partners in the security of Europe and in
+NATO. We operate alongside each other in
+Estonia, West Africa and Iraq, and have a close
+nuclear partnership. A decade after the Lancaster
+House treaties we are closer and more
+interoperable than ever, with our Combined Joint
+Expeditionary Force (CJEF) reaching full operating
+capability in 2020. This provides a unique
+capability for expeditionary operations and a
+framework to ensure co-operation and alignment
+of national deployments, such as our respective
+Carrier Strike Groups. We will continue to
+collaborate on capability development, delivering
+next generation missile technologies, including
+cruise and anti-ship missiles, and a revolutionary
+autonomous mine hunting system. The UK and
+France are also natural partners when it comes to
+leading thinking in Europe on new trends such as
+adapting defence to climate change, evolutions
+in space and cyberspace, arms control, and our
+respective roles in the Indo-Pacific region.
+
+**5.12.** **Germany is a crucial member of NATO**
+
+with whom we share a wide range of defence
+interests and which remains an important
+location for the forward deployment of UK
+forces.
+
+
+-----
+
+Our defence industrial partnership, forged over
+40 years of co-operation on combat air, will
+develop into new areas including land systems.
+And we will be key partners on space, cyberspace
+and the security of Europe. Together with Italy
+and Spain, we will continue to develop the
+Eurofighter system, Europe’s most widely used
+fighter jet. We will look to partner more often
+with Germany on operational deployments, such
+as air policing and naval missions outside the
+Euro-Atlantic area.
+
+**5.13.** **Italy is becoming a more significant**
+
+partner for the UK, with a shared commitment to
+security in the Mediterranean, the Levant and
+Afghanistan. We are partners on helicopters,
+missiles and, together with Sweden, on future
+combat air capability development. As well as
+our JEF partners, Greece, Poland, Spain and
+**Turkey have key roles to play in the defence of**
+NATO’s flanks, face significant security threats
+the UK can help to manage, and are defence
+industrial partners for the UK. The Republic of
+**Cyprus has a uniquely close link with the UK**
+through the Sovereign Base Areas that are an
+increasingly important asset for the defence of
+Europe as a whole.
+
+**5.14.** **Ukraine has suffered significant**
+
+territorial loss as a result of Russian aggression.
+Together with NATO Allies we will help to build
+Ukraine’s resilience to the continued aggressive
+tactics – conventional and sub-threshold – used
+by its neighbour. Our capacity building mission,
+which includes both land and maritime training,
+will support the development of the Ukrainian
+Armed Forces and their interoperability with
+NATO. We will work with other partners in the
+**Black Sea region, notably Bulgaria, Greece,**
+**Romania and Turkey, to ensure freedom of**
+navigation and security. As part of this we will
+continue to exercise our freedom to operate in
+the Black Sea, in strict accordance with the
+Montreux Convention, both through NATO and
+
+
+on stand-alone deployments.
+
+**5.15.** **Turkey is a crucial NATO Ally with a role**
+
+to play in many aspects of wider regional
+security, including the fight against terrorism. It
+is dealing directly with Russia’s military
+interventions in the Mediterranean and Black Sea
+regions. We will work to cement a long-term
+relationship on operations (including NATO
+reassurance measures), capabilities and industrial
+co-operation.
+
+**5.16.** The UK has longstanding relationships
+
+with Saudi Arabia and all six countries of the
+**Gulf Cooperation Council in support of shared**
+security and prosperity objectives. With the
+region home to maritime choke points that are
+vital to global trade, these relationships will
+remain important, as will our increased
+commitments in Oman. We will work in
+partnership with our allies to make the region
+more secure and stable, including through our
+military exercising, training and loan service
+teams. We are also working to support the Saudi
+Arabian MOD’s reform programme. In 2018 we
+established an innovative Typhoon Joint
+Squadron, which trains both UK and Qatari pilots
+and provides Qatar with experience in
+preparation for receiving in 2022 their first
+Typhoon aircraft purchased from the UK.
+
+**5.17.** In Iraq, the UK is a significant contributor
+
+to the 82 Member Coalition to Defeat Daesh.
+Following a concerted campaign, Daesh no
+longer holds significant territory in Iraq and
+**Syria. The UK has trained over 120,000 Iraqi and**
+Iraqi Kurdish soldiers and during the decisive
+multi-domain air campaign over Iraq and Syria,
+we provided one third of all coalition intelligence,
+surveillance, target acquisition and
+reconnaissance, and released over 4,000
+precision weapons. This commitment to allied
+defence will endure into the future.
+
+**30**
+
+
+-----
+
+The enhancement of NATO Mission Iraq, and
+particularly professional military education and
+ministerial advisory support, will contribute to
+Iraq’s future as a functioning, stable and secure
+state, able to provide for its own security needs.
+The UK maintains our deep and historic ties
+across the Levant and North Africa, with regular
+joint training exercises and counter-terrorism
+cooperation in, for example, Egypt and
+**Morocco, along with persistent engagement in**
+**Jordan, with its permanent UK Loan Service staff.**
+**Israel remains a key strategic partner.**
+
+**5.18.** We recognise the strategic importance of
+
+**East Africa to UK interests, where Kenya will**
+continue to be our strategic partner and at the
+heart of our plans for the region. We will work
+closely with them regionally and internationally
+to ensure that we are able to tackle collective
+threats such as violent extremism and terrorism,
+promote regional stability and collaborate on
+peace support operations. Our relationship will
+evolve in all domains, developing plans for joint
+training and readiness and collective institutional
+development. Our forces can learn from each
+other by training and learning together. We plan
+to increase our military presence in Kenya,
+bolstering our networks with a British Defence
+Staff and regional hub.
+
+**5.19.** We will actively contribute to action
+
+against Al Shabab, the AQ-linked terrorist group
+based in Somalia that poses a direct threat to UK
+interests and regional stability. This will involve
+Defence working across government and with
+regional partners and key allies to weaken and
+constrain the group. We will also take a role in
+supporting the international community to help
+Somalia develop ways to provide their own
+security and preparing the ground for long-term
+solutions. We will continue to support a stronger
+and more stable Somalia; provide trainers and
+
+
+advisers to the Somali National Army and liaison
+officers to the African Union Mission in Somalia
+(AMISOM) and the UN missions. In parallel, we
+are providing capacity building for countries
+including Kenya, Ethiopia and Uganda
+contributing to support their AMISOM
+operations – and making it increasingly difficult
+for Al Shabab to operate.
+
+**5.20.** In West Africa our support to UN peace
+
+support operations now includes a substantial
+contribution of 300 UK personnel to the UN
+mission in Mali (MINUSMA) providing a longrange reconnaissance group. This supports our
+goal to not only bolster the UN’s ability to
+succeed in its most difficult missions, but also
+contribute in the immediate term against
+instability in the Sahel and support the efforts of
+our European allies and regional partners
+including the Economic Community of West
+**African States (ECOWAS). We will also work**
+with regional partners to support security efforts
+in the wider Lake Chad Basin while developing
+**Nigerian institutions consistent with our values.**
+We are taking a more strategic approach to
+addressing threats given the importance to the
+UK of our seaborne trade through the Gulf of
+**Guinea. We will develop maritime security**
+partnerships with key coastal states like Ghana.
+This will be supported by the visit of a UK
+Offshore Patrol Vessel later in 2021, contributing
+to maritime security, including tackling piracy.
+
+**5.21.** Our contributions to UN Peacekeeping
+
+across Africa demonstrate our commitment to
+international peace and security. We will look to
+help other countries develop their capacity as
+Troop Contributors through training and
+assistance missions, as well as deploy UK experts
+to missions and UN headquarters.
+
+**31**
+
+
+-----
+
+Indo-PacificIndo-Pacific
+
+**5.22.** The Indo-Pacific region matters to the
+
+UK: it is critical to our economy, our security and
+our global ambition to support open societies. At
+least 1.7 million British citizens live across the
+region and our trading relationships continue to
+grow. In the decades to come it will be the
+crucible for many of the most pressing global
+challenges – from climate and biodiversity to
+maritime security and geopolitical competition
+linked to rules and norms. The Integrated Review
+highlights the growing importance of the IndoPacific for the UK’s security and prosperity and
+sets a framework for increased UK engagement.
+Defence is an essential part of the UK’s
+integrated offer to the region and, as such, we
+will be strengthening our regional defence
+cooperation in the Indo-Pacific, in support of the
+Government’s efforts to build wider security
+partnerships. Our aim will be to mitigate growing
+threats to our security, working with Indo-Pacific
+partners to build resilience and capacity, tackle
+shared security challenges and uphold freedom
+of navigation and international law. We will
+develop capability partnerships and support UK
+prosperity by strengthening defence exports.
+More specifically, we will:
+
+- Increase our capacity building and training
+across the Indo-Pacific, delivered through
+longer and more consistent military
+deployments and by better leveraging our
+existing regional facilities.
+
+- Maximise regional engagement as part of the
+Carrier Strike Group deployment in 2021.
+
+- Increase our maritime presence in the IndoPacific region through the deployment of
+Offshore Patrol Vessels from 2021, Littoral
+Response Group from 2023 and Type 31
+frigates later in the decade, including to
+
+
+uphold freedom of navigation.
+
+- Make a bigger and more consistent
+contribution to the Five Power Defence
+**Arrangements (FPDA).**
+
+- Pursue closer defence cooperation with the
+**Association of Southeast Asian Nations**
+**(ASEAN) member states.**
+
+- Guarantee our regional access through
+existing UK bases, including the British Indian
+Ocean Territory, access to allied facilities, and
+the development of an enhanced training
+facility at Duqm, Oman.
+
+- Deepen and expand defence industrial
+relationships in the region, including with
+Australia, Japan, Republic of Korea and India,
+underpinned by co-operation on science and
+technology. We will also enhance our
+programmes of exercises, exchanges and
+capability development with these key
+partners.
+
+- Expand our Defence Attaché and Advisor
+network and build a new British Defence Staff
+in Canberra to work alongside the existing
+Defence Staff in Singapore and coordinate
+Defence activity across the region.
+
+**5.23.** Our partnership with India is a key pillar
+
+of the UK’s tilt to the Indo-Pacific. We will
+establish a maritime partnership with India in
+support of mutual security objectives in the
+Indian Ocean. We will enhance our industrial
+cooperation, uplift our defence education,
+training and reform relationship to enable us to
+work together more effectively. We will carry out
+integrated joint exercising, increase our
+understanding of the maritime environment, and
+sign key agreements to increase interoperability.
+
+**32**
+
+
+-----
+
+All our activity will be underpinned by strategic
+dialogues to promote high-level alignment and a
+strong programme of military education and
+exchanges.
+
+**5.24.** Our Defence relationship with Japan has
+
+deepened significantly in recent years with an
+enhanced programme of exercises, training
+exchanges, security arrangements and capability
+development programmes that span all five
+domains. The next decade will see further
+development with our closest security partner in
+Asia. We will deepen cooperation between the
+Japanese Self Defence Forces and the British
+armed forces towards a free and open IndoPacific.
+
+**5.25.** The UK has a longstanding relationship
+
+with Pakistan in support of shared regional
+security and stability objectives. Its diaspora links
+with the UK. Disputed borders and a complex
+security environment mean that Pakistan’s
+defence relationship with the UK will continue to
+be important. Our cooperation encompasses
+military exercising, professional military
+education and exchanges, training and visits.
+
+**5.26.** Our defence relationship with the
+
+**Republic of Korea (ROK) is a highly significant**
+area of focus for the UK, as it is a like-minded
+democracy with similar views on regional security
+priorities and the rules, norms and standards that
+shape the international system overall. We will
+build on the enduring strategic partnership
+
+
+established during the Korean War by enhancing
+opportunities for exchanges of personnel,
+training, education and information sharing. We
+will seek to improve our interoperability through
+integrated joint exercises and further strengthen
+our common commitment to work in third
+countries on global peacekeeping initiatives. The
+ROK has a modern, well-funded military force
+with aspirations to further contribute to global
+security. Their defence budget is projected to
+soon exceed our own, and the UK will support
+mutual prosperity through closer industrial
+cooperation underpinned by military expertise,
+particularly through their indigenous Light
+Aircraft Carrier programme.
+
+**5.27.** In Afghanistan, the UK is a key
+
+contributor to NATO’s Resolute Support Mission,
+to train, advise and assist the Afghan security
+forces. The UK Government is committed to the
+operation and to supporting the Afghan peace
+process. A lasting political settlement is the only
+means of ensuring security from terrorism for the
+people of Afghanistan, the United Kingdom and
+its Allies. The UK is committed to financial
+sustainment of the Afghan security forces
+through to 2024. Self-sufficient security forces,
+alongside progress towards a political
+settlement, offer the best prospects to achieve
+the UK’s security objectives not to allow
+Afghanistan to become a terrorist safe haven
+once again.
+
+
+-----
+
+-----
+
+#### Our workforce: our finest asset
+
+###### Chapter 6
+
+
+**6.1.** Our focus on exploiting technology at
+
+pace must be matched with a more modern
+approach to our finest asset – our people. This
+Chapter sets out how we will attract and retain a
+diverse, inclusive, motivated and professional
+workforce, drawn from across the Union and the
+Commonwealth, equipped with the specialist
+skills required for contemporary conflict and
+competition. And it sets out how we will
+organise, support and reward our people,
+through new career structures and a renewed
+offer that better reflects the way they want to live
+and work in the 21st century.
+
+
+Modern and relevant skills Modern and relevant skills
+
+
+**6.2.** As we respond to rapidly evolving
+
+threats to our values and way of life, our people –
+military and civilian – will remain fundamental to
+delivering our competitive advantage, our links
+to society, and our global standing. But that
+competitive advantage no longer stems from
+mass alone. Rather, it flows from the talents our
+people possess, individually and collectively, and
+how we harness them.
+
+**6.3.** We want to attract the most talented
+
+individuals to Defence. As the world changes
+around us, we will invest in our people and equip
+them with the specialist skills required to win in
+the era of global systemic competition. This starts
+from the moment they join. We will continue to
+offer apprenticeships to over 80% of armed
+forces recruits, with a third of those in science
+and technology fields. Our National Cyber Force
+and Space Command will be pathfinders and
+experts in their field. Our scientists will lead our
+innovation and experimentation. And we will
+professionalise defence diplomacy, as we expand
+our global network.
+
+
+**6.4.** Members of the armed forces are
+
+recruited from civilian life and will return to it at
+the end of their service. To ensure that they can
+make effective use of the skills and qualifications
+they acquire in the military, we will undertake a
+review within the next 12 months into the
+professional accreditation of career courses.
+
+**6.5.** Reflecting the increasingly specialised
+
+nature of many of our roles, we will place skills at
+the heart of how we organise and reward our
+workforce. This means transforming career
+structures, introducing new ways of recruiting
+talent, and breaking down barriers to movement
+between the military, the civil service and
+industry. Within the next two years, we will
+undertake a comprehensive review of how we
+pay and reward our military personnel. This costneutral review, led by an expert with a proven
+track record of managing global talent, will guide
+our efforts to develop a modern, holistic,
+through-life approach to the military offer. This
+will be tailored more closely to the changing
+needs of the individual at different stages of their
+career and will better reflect the skills that they
+bring to Defence. We are determined that a
+career in the armed forces remains at the
+vanguard of career choices on offer to the UK’s
+most talented people.
+
+
+**6.6.** The challenges of the next decade will
+
+require us to maximise the outputs, talents and
+synergies of the whole force. Our reserve forces
+will be given new, more clearly defined roles.
+They will provide capacity, alongside their regular
+and civilian colleagues, and an alternative source
+of diverse talent to conduct operations at home
+and abroad.
+
+**35**
+
+
+###### Modernising the Whole ForceModernising the Whole Force
+
+
+-----
+
+We will create an efficient and fluid spectrum of
+military service, providing our people with a
+range of commitment options at different stages
+of their lives. We will improve the way we recruit
+and employ reserves, enabling us to bring
+expertise from across society, government,
+industry and academia to bear on some of the
+greatest challenges we face, and consider any
+recommendations from the Reserves Forces 30
+review in due course.
+
+**6.7.** As we modernise, we will seize
+
+opportunities to automate tasks, driving greater
+efficiency and effectiveness. By harnessing
+technology, exploiting data and analytics, and
+comprehensively transforming our corporate
+services, we will develop a leaner but more highly
+skilled and capable workforce.
+
+**6.8.** If we are to attract and retain the UK’s
+
+most talented people, how we manage and
+empower that cohort must keep pace with our
+competitors. We will produce a Digital People
+Strategy, which will focus on putting career
+management in the palm of our people’s hands
+through digital applications in a unified approach
+across Defence.
+
+
+**6.10.** Service families are at the very heart of
+
+the armed forces community and it is vital that
+we provide our people with the appropriate
+flexibility and support to bring up their children
+while they serve. As part of a revised Families
+Strategy, we will introduce measures to ease the
+burden for parents who might be deployed at
+short notice, including investing £1.4bn over the
+next decade to provide wraparound childcare.
+Through spousal employment initiatives,
+increasing opportunities for flexible service and a
+modern approach to societal relationships, we
+are determined to make the armed forces a more
+family friendly employer, encouraging our people
+to pursue long and fulfilling careers in uniform.
+
+**6.11.** We are clear that whilst attracting the
+
+UK’s leading talents, we must foster an
+environment that genuinely empowers them to
+be the best version of themselves. We will further
+invest in our people’s health, wellbeing and
+welfare. And we will harness the lessons from
+elite sport and performance coaching to ensure
+that our finest asset – our people – are nurtured,
+trained and looked after in the way that they
+deserve.
+
+
+Support to our PeopleSupport to our people
+
+
+###### Diversity and InclusionDiversity and Inclusion
+
+
+**6.9.** We recognise that the demands of
+
+military life are unique, and we will continue to
+support our armed forces personnel and their
+families accordingly. We will go further over the
+next decade, by investing around £1.5bn in
+improving Single Living Accommodation. We will
+also provide greater choice over where, how, and
+with whom our people live, through the future
+accommodation model. We will set this out in a
+Defence Accommodation Strategy in 2021.
+
+
+**6.12.** We are proud of the opportunities that a
+
+career in Defence offers people from all walks of
+life, regardless of their race, gender, sexual
+orientation, disability, age or faith. But if we are
+to maximise the talents of all our people, we
+must go further in our efforts to become a more
+diverse and inclusive organisation, which better
+represents the society we serve. We recognise
+that diversity and inclusion is essential to our
+operational effectiveness and it ensures we can
+safeguard the security, stability and prosperity of
+our nation.
+
+**36**
+
+
+-----
+
+**6.13.** We will deliver our Diversity and
+
+Inclusion Strategy and implement the
+recommendations of the Wigston and Gray
+reviews into unacceptable behaviours. And we
+will improve the way we reach out to the
+community, forging strong links to all parts of
+the society. We have established a new Diversity
+and Inclusion Directorate to drive forward
+change, as a clear and public statement of our
+intent to tangibly, rapidly and significantly
+improve the lived experience of all those working
+in Defence. Progress will be reported quarterly to
+Ministers. We will continue to comply with the
+Public Sector Equality Duty. Defence has policy,
+guidance and tools to support compliance, help
+improve inclusion and encourage good equality
+thinking.
+
+**6.14.** The armed forces represent a key
+
+element of our national identity. We recruit
+nationally and base ourselves across all parts of
+the UK, we provide unparalleled opportunities for
+social mobility and personal development, and
+we represent the UK's interests overseas as a
+unified entity. The complementary efforts across
+the UK to support our personnel, their families
+and veterans provide positive examples of how,
+under devolved arrangements, governments and
+stakeholders can work together to achieve
+common interests. We will go further by
+enshrining the Armed Forces Covenant in law, to
+ensure that serving and former service personnel
+and their families are not disadvantaged by their
+service.
+
+CadetsCadets
+
+
+later this year which examines how cadets benefit
+from their experience and the contribution they
+make to wider society.
+
+Veterans
+
+###### Veterans
+
+
+**6.16.** The UK Government has committed to
+
+making the UK the best country in the world to
+be an Armed Forces Veteran. We have clear
+responsibilities in ensuring our people transition
+to civilian life greatly enhanced by their Service
+through a seamless transition. The new Defence
+Transition Service underlines this commitment,
+with specialist tailored support to those finding
+transition particularly difficult.
+
+**6.17.** The Armed Forces Covenant is a
+
+recognition between the nation and those who
+serve, of the unique sacrifices, way of life, and
+demands of military service. It is underpinned by
+two key principles, that of seeking to remove
+disadvantage because of military service, and
+that special consideration may be justified,
+including for the seriously injured and bereaved.
+This commitment will be enshrined in law in the
+Armed Forces Act of 2021 in the contexts of
+housing, education and healthcare, taking it from
+a voluntary code in those contexts to something
+that is enforceable on behalf of Service
+Personnel, Veterans and their families.
+
+**6.18.** The UK’s first Office for Veterans Affairs
+
+was established by the Prime Minster in July
+2019. It seeks to pull together all functions of
+government, harnessing existing and new
+programmes across the third sector and state
+provision, to ensure this nation’s duty to her
+Veterans by delivering the UK’s first ‘Strategy for
+our Veterans’ which was published in December
+2019. The Armed Forces Covenant annual report
+requirements will be amended to include delivery
+for our Veterans against this strategy.
+
+**6.19.** Veterans UK, the Government’s delivery
+
+arm to support veterans and their families, the
+Veterans Welfare Service and injury/bereavement
+compensation scheme payments, will undergo a
+£25m digital transformation programme from
+current paper-based records by 2023.
+
+**37**
+
+
+**6.15.** The cadets are a key part of our youth
+
+agenda and help young people from across the
+UK to broaden their horizons and unlock their
+potential. We will sustain the five MODsponsored cadet forces across the UK that
+currently provide opportunities for 130,000
+cadets. Having exceeded our previous target to
+increase the number of cadet units in state
+secondary schools, we will go further, with the
+Department for Education, by investing in the
+Cadet Expansion Programme to bring this
+fantastic opportunity to more young people. We
+will publish an independent peer-reviewed study
+
+
+-----
+
+-----
+
+#### Modernised forces for a competitive age
+
+###### Chapter 7
+
+
+**7.1.** This Chapter will set out how we will
+
+transform our armed forces to adapt to our new
+tasks and approach. As set out in Chapter 3, our
+Integrating Operating Concept requires our
+forces to be credible and capable to deter, and if
+necessary, defeat our adversaries in conflict as
+well as to allow us to compete below the
+threshold of armed conflict. It also requires our
+armed forces to be integrated across domains
+and across government, and to deliver a more
+dynamic posture through persistent
+engagement.
+
+**7.2.** These requirements have driven our
+
+future capability plans. We will invest more in
+our armed force’s capability to ensure they can
+deal with the threats we face now and in the
+future. We have taken a hard-headed and
+unsentimental view of those capabilities that will
+be less relevant to the changing threat. The
+changes we make will ensure our armed forces
+are more agile, more lethal and more integrated.
+We will maintain our operational advantage by
+increasing the pace at which we adapt our
+capabilities and by exploiting new and emerging
+technology. We will deliver this through
+increased R&D spending, increased focus on
+experimentation and by speeding up our
+acquisition processes.
+
+**7.3.** We must both mobilise our existing force
+
+to meet the challenges of today and modernise
+
+
+for the threats of tomorrow. We have already
+begun this journey of modernisation; capabilities
+we invested in a decade ago are coming into
+service now and will be vital to our success in the
+coming years. Our Carrier Strike Group is perhaps
+the most powerful example of this. Our new
+posture will demand more availability from our
+current and future force, so we will invest to
+improve readiness, resilience and sustainability of
+our armed forces.
+
+**7.4.** We will also invest in transformative and
+
+digital capabilities that will enable multi-domain
+integration and ensure that we are able to
+compete more effectively in space and
+cyberspace. Capability in the future will be less
+defined by numbers of people and platforms
+than by information-centric technologies,
+automation and a culture of innovation and
+experimentation.
+
+**7.5.** We will be one of the most integrated,
+
+digital, and agile forces in the world, projecting
+our influence and promoting our capabilities on
+the world stage across land, air, maritime,
+cyberspace and space. Multi-domain integration
+will underpin how we operate and fight. It will
+drive force experimentation, development and
+capability prioritisation. This will ensure the UK's
+armed forces remain interoperable with our most
+capable allies and keep ahead of adversaries.
+
+**39**
+
+
+-----
+
+###### Persistent
+
+ Engagement
+
+**Red** **Ice Patrol**
+
+**Arrows** **Ship**
+
+**Rivet Joint**
+
+**E-7A**
+
+**Shadow**
+
+
+**STA Regt**
+
+**Boxer Bn**
+
+**Field Hospital**
+
+**Operational**
+
+**Sustainment**
+
+**CEMA Regt**
+
+**CBRN Regt**
+
+**Land EWSI**
+
+###### Crisis Response
+
+ & Warfighting
+
+**Div HQ** **UAS Regt**
+
+**Theatre Sustainment**
+
+**(TLR, FLR, P&M, PC/MC)**
+
+
+###### Homeland
+
+**EOD Regt** **E-7A** **Voyager** **P-8A** **Chinook** **Wildcat**
+
+**Mine Counter**
+
+**Frigate**
+
+**(T23/T26/T31)** **Measure System** **CEMA Regt** **Typhoon** **A400M** **Rivet Joint**
+
+**Medium Lift**
+
+**Survey Vessel** **Tanker** **Light Infantry** **Merlin** **Helicopter**
+
+**Red**
+
+**Offshore Patrol** **Arrows**
+
+**MROSS** **Vessel** **Air Defence Regt** **CBRN Regt**
+
+**P-8A**
+
+**SSN** **SSBN**
+
+**SF** **Voyager**
+
+**Global**
+
+**Defence** **Strategic** **Protector** **A400M**
+
+**Science** **Network** **Base** **Combat Air**
+
+**& Tech** **Outload** **(F35B, Typhoon)**
+
+**Defence**
+
+**Intelligence** **Light Cavalry**
+
+**C-17** **Regt**
+
+**Air**
+
+**Manoeuvre**
+
+**Space** **NCF** **BCT**
+
+**Armoured**
+
+###### INTEGRATED Regt Ajax Regt
+
+**Digital Backbone**
+
+###### FORCE Ranger Bn
+
+**Deep Fires Regt** **Boxer Bn**
+
+###### 2030 Defence Medical
+
+**Cyprus** **Ascension** **Light**
+
+**Operational**
+
+**Mechanised Bn** **Light**
+
+**Sustainment**
+
+**Gibraltar** **Kenya** **Infantry Bn**
+
+**Germany** **Brunei**
+
+###### Global BIOT
+
+**Oman** **Air Defence Regt** **Chinook**
+
+**SFA Bn**
+
+###### Foundation Falklands
+
+**Medium Lift**
+**Merlin** **Wildcat** **Apache**
+
+**Helicopter**
+
+**LSD(A)** **LPD** **Destroyer** **Aircraft** **Frigate**
+
+**Amphibious Shipping** **(T45)** **Carrier** **(T23/T26/T31)**
+
+**SSN** **Survey Vessel**
+
+**Future** **Offshore Patrol** **Fleet Solid**
+
+**Commando** **Vessel** **Support Ship**
+
+###### Persistent Force
+
+ Engagement RAF FP Wing Div HQ
+
+**Tanker** **RoRo** **SF**
+
+###### Crisis Response
+
+**ARRC HQ** **Theatre Sustainment**
+
+###### & Warfighting Measure SystemMine Counter Warfighting (TLR, FLR, P&M, PC/MC)
+
+
+-----
+
+Research and DevelopmentResearch and Development
+
+**7.6.** The Integrated Review sets out the
+
+importance of building a durable competitive
+edge in science and technology, ensuring our
+research base translates into the design and use
+of critical and emerging technologies. As part of
+the Government’s commitment to spend at least
+2.4% of GDP on R&D by 2027, we are renewing
+our focus on R&D to make generational leaps in
+our future capability. We have committed to
+spending at least £6.6bn on R&D over the next
+four years. We will invest in next generation
+capabilities (including directed energy weapons
+and swarming drones), in the newer domains of
+space and cyberspace, and in the modern
+platforms and weapons systems that will enable
+us to extend our technological advantage over
+our competitors. Greater investment in R&D will
+underpin the modernisation of our armed forces
+and ensure long-term strategic advantage. A
+network of Defence innovation hubs working
+alongside UK technology clusters and investment
+in Defence and Security Accelerator challenges
+will maximise the 'pull through' of this R&D
+investment into cutting-edge equipment. As part
+of our longer-term strategy, we also intend to
+develop future Test and Evaluate (T&E) capability
+for Novel Weapons, Artificial Intelligence,
+synthetic/digital systems and space-based
+
+
+systems. These are areas we are starting to
+consider under the T&E Futures programme, in
+which we intend to invest over £60m over the
+next four years. Overall, our investment will
+accelerate these next generation technologies
+into the hands of our personnel and develop a
+pipeline of future capabilities for the armed
+forces of tomorrow.
+
+**7.7.** We will prioritise our R&D pipeline based
+
+on the capability challenges we need to address
+in this new operating environment. Our Science
+and Technology 2020 Strategy sets out the five
+most pressing areas where capability
+development can deliver a decisive edge to the
+UK in the future:
+
+- Pervasive, full spectrum, Intelligence,
+Surveillance and Reconnaissance.
+
+- Multi-domain Command and Control,
+Communications and Computers.
+
+- Securing and sustaining advantage in the subthreshold.
+
+- Asymmetric hard power.
+
+- Freedom of access and manoeuvre.
+
+
+-----
+
+##### Artificial Intelligence
+
+###### Artificial Intelligence (AI) and AI-enabled autonomous capabilities will be essential to Defence modernisation: accelerating decision-making and operational tempo; extending the range, persistence and mass of our capabilities; removing personnel from harm’s way by undertaking ‘dull, dirty and dangerous’ tasks; and delivering significant efficiency and affordability gains. Future conflicts may be won or lost on the speed and efficacy of the AI solutions employed. It is imperative that we move quickly to secure the benefits of these transformative technologies, and we will publish an ambitious AI Strategy to drive and cohere efforts across Defence at pace.
+
+ We are making significant investments in AI across Defence. The creation of a new Defence Centre for Artificial Intelligence will be at the core of these developments, serving as the nucleus to accelerate the development and exploitation of these critical technologies from the battlespace to the back office. Activities will range from implementing data management techniques, developing common AI platforms, toolkits and best practices, testing and validating novel capabilities, and ultimately delivering scalable solutions to meet the challenges and threats facing the nation.
+
+ Some of those threats will come from the unscrupulous and unprincipled use of AI by others. It is therefore critical that the UK remains at the forefront of the rapidly-evolving debate on responsible development and use of AI and Autonomy in Defence, working with liberal- democratic partners to shape international legal, ethical and regulatory norms and standards. We are developing a framework for our own ethical development and use of AI in partnership with experts in industry and academia, and closely aligning with wider government frameworks.
+
+
+-----
+
+###### Integrated Force 2030 Icons not to scale
+
+##### Strategic Command
+
+###### Defensive Cyber National Cyber Force
+
+ Digital Backbone Operational HQs
+
+ Defence Support Defence Medical
+
+ Defence Attaché Network Defence Intelligence
+
+ Skynet 6 Space ISR
+
+ Synthetics Defence Academy & DCDC
+
+ Special Air Service Special Boat Service
+
+
+-----
+
+**7.8.** Strategic Command is at the heart of
+
+confronting the myriad threats we now face.
+Driving integration across all domains. Strategic
+Command will ensure we join up the people, the
+equipment and the information, and deliver our
+outputs in a more sophisticated way – from
+space, in the skies, on land, at sea, or in
+cyberspace – making the whole force more than
+the sum of its parts.
+
+**7.9.** Our ability to share and exploit data will
+
+be fundamental to delivering multi-domain
+integration and information advantage. Strategic
+Command will lead a digital transformation
+programme so we can better share and exploit
+data. The creation of a Digital Backbone (digital
+infrastructure optimised for information
+exploitation and enabling multi-domain
+integration) will underpin the modernisation of
+our armed forces as well as supporting the
+broader transformation of Defence capability.
+This singular, modern and secure Digital
+Backbone will drive significant savings by
+replacing ageing and unreliable digital
+infrastructure. It will ensure we exploit all data
+through the cloud, and across secure networks,
+to enable faster, better decisions between
+decision-makers and with NATO and key allies. It
+will also ensure our digital networks are
+integrated across government.
+
+**7.10.** Strategic Command will provide the
+
+platform for our armed forces to shift to a more
+dynamic and competitive posture. Exploitation
+
+
+and enhancement of our existing operating
+bases across the globe will ensure greater
+presence. Investment in modernising and
+transforming engineering and logistical support
+systems will improve the availability and
+sustainment of capabilities, equipment and
+people. Strategic Command will continuously
+experiment and innovate with technology to
+ensure we maintain operational advantage.
+
+
+**7.11.** We will significantly increase investment
+
+to build on and maintain the UK’s status as a
+leading, responsible, democratic cyber power.
+The National Cyber Force (NCF) is transforming
+our ability to contest adversaries as an integrated
+component of our military capability. This is a
+national endeavour for which the MOD
+contributes the majority of the funding. It is a
+joint MOD, Government Communications
+Headquarters (GCHQ) and Secret Intelligence
+Service (SIS) mission, working in close
+partnership with law enforcement and
+international partners. The NCF provides
+capabilities that will be used to deceive, degrade,
+deny, disrupt, or destroy targets in and through
+cyberspace in pursuit of our national security
+objectives. The MOD’s operational expertise and
+scientific and technical capabilities, GCHQ’s
+global intelligence and SIS’s expertise in
+recruiting and running agents makes the NCF a
+powerful, integrated force.
+
+**44**
+
+
+###### CyberspaceCyberspace
+
+
+-----
+
+At the same time, we will uphold our values and
+are committed to using our cyber capabilities in a
+responsible way and in line with UK and
+international law.
+
+**7.12.** As part of wider cross-government
+
+efforts to improve the UK's cyber security, we will
+harden our own resilience to a cyber attack by
+protecting our systems and networks to ensure
+they are defended against current and future
+threats.
+
+**7.13.** We are investing in a new dedicated
+
+career pathway for Defence cyberspace
+specialists. This will include a new employment
+model to manage, develop and reward our
+cyberspace talent and expansion of our Defence
+Cyber School so we have the right skills in the
+right teams at the right time. We will enhance
+our understanding of the domain, through
+experimentation, education, collective training
+and by drawing on expertise from our allies,
+industry and academia.
+
+**7.14.** The electromagnetic environment, of
+
+which cyber is a part, is a fundamental aspect of
+the modern battlespace. Our adversaries are
+increasingly active across it and rely on it. We
+must be able to understand, exploit and secure
+advantage in this environment. We are therefore
+investing over £500m in capabilities that will
+enable us to respond in the electromagnetic
+environment. Integration across its continuum
+will be central to our approach.
+
+
+SpaceSpace
+
+
+**7.15.** Space, and our assured access to it, is
+
+fundamental to military operations. Loss of, or
+disruption to, the space domain could severely
+impact our ability to undertake most Defence
+tasks, and have a catastrophic effect on civilian,
+commercial and economic activity. As our
+reliance on space has grown, so has our
+vulnerability. Our adversaries now seek to
+undermine our capability in all domains and
+diminish our operational advantage. We must
+develop military, civilian and commercial
+capabilities that are resilient to and protected
+from space threats. We must also help shape an
+international environment of behaviours and
+operating norms that deters adversaries and
+lessens their appetite for engaging in deliberate
+disruption or denial of essential space services.
+By 2030, the Government’s ambition is for the UK
+to have the ability to monitor, protect and
+defend our interests in and through space, using
+a mixture of national capabilities and burdensharing partnerships with our allies.
+
+**7.16.** In support of this we will deliver the
+
+Skynet 6 programme, investing around £5bn
+over the next 10 years to recapitalise and
+enhance our satellite communication capabilities,
+and spend an additional £1.4bn on space over
+the next decade to:
+
+- Establish a new Space command to enhance
+the UK’s military command and control of the
+space domain, assist in coordination of
+commercial space operation and lead the
+development of new space-based capability.
+
+**45**
+
+
+-----
+
+- Enhance our space domain awareness,
+including the establishment of a National
+Space Operations Centre, so that we can
+track, attribute and take action against
+nefarious activity.
+
+- Develop a UK-built Intelligence, Surveillance
+and Reconnaissance satellite constellation and
+a supporting digital backbone in space.
+
+- Create a Space Academy to develop the skills
+and training of our Defence space specialists.
+
+**7.17.** Research and Development in space will
+
+accelerate development and adoption of new
+technologies. These investments will
+demonstrate our ability to operate in an
+increasingly congested and contested
+environment and signpost a credible path to
+meet the Government’s ambition to be a
+meaningful player in space by 2030. Our
+ambition in space will underpin a vibrant UK
+space commercial sector, harnessing niche UK
+expertise to place capability into the hands of the
+user and strengthening our credibility as a
+meaningful international partner. This ambition
+includes the ability to launch British satellites
+from the UK by 2022. The UK space sector
+currently contains an exceptionally skilled
+workforce totalling more than 41,900 jobs, from
+Cornwall to the Scottish Highlands and Islands.
+The global space sector is growing and is
+expected to double by 2040. It is expected to
+create well over 10,000 additional Science,
+Technology, Engineering and Mathematics
+(STEM) jobs in the UK.
+
+
+###### Special ForcesSpecial Forces
+
+
+**7.18.** Our Tier 1 Special Forces will continue to
+
+be second to none - respected by our friends
+and feared by our adversaries. We will ensure
+they continue to be equipped to undertake rapid,
+precision strike operations when UK interests are
+threatened. They will provide a high-end CT force
+to support the police in the UK, and a highreadiness intervention force with global reach.
+But we will also develop their role and capability
+to meet the changing threat. We will increase
+their capacity and improve their ability to operate
+covertly in the harshest environments worldwide,
+equipping them with integrated multi-domain
+capability. Special Forces are at the heart of our
+approach to modernisation. They embody the
+culture of innovation, experimentation and pull
+through of technology that delivers a cuttingedge.
+
+**7.19.** We will also draw on special operations
+
+capable forces from an Army Special Operations
+Brigade, the Future Commando Force and
+elsewhere in Defence to conduct special
+operations to train, advise and accompany
+partners in high threat environments. Special
+operations will integrate capability across all five
+operational domains. They will improve our
+interoperability with international partners like
+NATO, gain access to the most innovative
+equipment and intelligence capabilities and
+adopt a more assertive posture. They will project
+UK global influence and pre-empt and deter
+threats below the threshold of war as well as
+state aggression.
+
+
+-----
+
+###### Integrated Force 2030 Icons not to scale
+
+##### Royal Navy
+
+###### Attack Submarine (Astute Class) Ballistic Missile Submarine
+
+ Aircraft Carrier with F35B Landing Platform Dock
+
+ Destroyer (Type 45) Landing Ship Dock (Auxiliary)
+
+ Frigates (Type 23/26 Towed Array) Frigate (Type 31)
+
+ Mine Counter Measures Systems Survey Vessels
+
+ Batch 2 Offshore Patrol Vessel Multi Role Ocean Surveillance Ship
+
+ Tankers (Tide/Wave Class) Fleet Solid Support Ship
+
+ Strategic RoRo Ice Patrol Ship
+
+
+-----
+
+**7.20.** The Royal Navy is transforming at pace,
+
+becoming more threat focussed and more lethal.
+Optimised to fight alongside our allies, the Royal
+Navy will contribute to UK interests: safeguarding
+our homeland, Overseas Territories and Crown
+Dependencies, protecting the maritime
+environment, including our fisheries, projecting
+global influence, boosting UK trade and
+prosperity, and upholding our values and
+International law.
+
+**7.21.** As the foremost Navy in Europe - one of
+
+only three navies in the world to be able to
+operate two 5th generation carriers and F-35B
+jets - the Royal Navy provides a critical
+contribution to NATO’s Defence and Deterrence
+of the Euro-Atlantic area through its highly
+capable, high readiness forces. By permanently
+attributing the nuclear deterrent, a Carrier Strike
+Group and Littoral Strike forces, we will cement
+our enduring commitment to NATO security
+objectives.
+
+**7.22.** The Royal Navy will be a constant global
+
+presence, with more ships, submarines, sailors
+and marines deployed on an enduring basis,
+including to protect shipping lanes and uphold
+freedom of navigation. With support from
+partners in the Indo-Pacific, Offshore Patrol
+Vessels will be persistently deployed and a
+Littoral Response Group (LRG) in 2023 will
+complement the episodic deployment of our
+Carrier Strike Group; contributing to regional
+security and assurance.
+
+
+**7.23.** The Royal Navy will invest £40m more
+
+over the next four years to develop our Future
+Commando Force as part of the transformation
+of our amphibious forces, as well as more than
+£50m in converting a Bay class support ship to
+deliver a more agile and lethal littoral strike
+capability. Forward deployed to respond rapidly
+to crises, this special operations-capable force
+will operate alongside our allies and partners in
+areas of UK interest, ready to strike from the sea,
+pre-empt and deter sub-threshold activity, and
+counter state threats. This will be enabled by the
+deployment of two Littoral Response Groups; the
+first in 2021 will be deployed to the Euro-Atlantic
+under a NATO and JEF construct, while a second
+will be deployed to the Indo-Pacific region in
+2023. They will also be able to deliver training to
+our partners in regions of the world where
+maritime security is most challenging.
+
+**7.24.** In conjunction with the US, and other
+
+NATO Allies, the Royal Navy will continue to
+invest in underwater capabilities as this remains
+pivotal to protect our critical national
+infrastructure, safeguard maritime trade and
+maintain our underwater advantage. This will
+include delivering a safer, faster and automated
+Mine Hunting Capability (MHC) in partnership
+with France. The Royal Navy will retire Mine
+Counter Measures Vessels as these new
+capabilities come into service.
+
+**48**
+
+
+-----
+
+We will also develop a new Multi-Role Ocean
+Surveillance capability to safeguard the critical
+undersea national infrastructure on which our
+prosperity depends. We remain committed to
+building seven Astute class submarines, four of
+which have already been delivered into service.
+The Trafalgar class has been extended to ensure
+a seamless transition to the Astute class. We
+commit to funding for the next generation of
+nuclear submarines (SSNs) to guarantee our
+security well into the second half of the century.
+
+**7.25.** Our Offshore Patrol Vessels will be
+
+permanently stationed in the Falklands,
+Caribbean, Gibraltar (to service both the
+Mediterranean and Gulf of Guinea), and East of
+Suez in the Indo-Pacific region. Providing a
+platform for persistent engagement and
+protecting UK’s interests, this will free frigates
+and destroyers from less-demanding tasks. OPVs
+have successfully been operating in these roles in
+the South Atlantic for over 20 years and more
+recently in the Caribbean, capable of contributing
+to counter-narcotic, counter-piracy, counterillegal fishing and humanitarian operations
+alongside our partners in these regions.
+
+
+**7.26.** The Royal Navy will focus investment on
+
+improving the sustainability, lethality and
+availability of the fleet and delivering a more
+modern, high-tech and automated Navy. To
+enable this, the Royal Navy will retire legacy
+capabilities including two of our oldest T23
+frigates. We will bring Type 31 and Type 32
+frigates into service, these new vessels are not
+just replacements for existing platforms, they will
+be more flexible than their predecessors.
+Equipped with advanced sensors and weapons,
+they will embrace modularisation to allow them
+to quickly adopt emerging technology
+throughout their life and to switch role
+depending on the nature of the threat. The
+lethality of the surface fleet will be increased by
+upgrading the air defence capability in our Type
+45 destroyers, replacing our Harpoon ship-toship missiles, and launching the UK-design
+cutting-edge Type 26 Anti-Submarine Warfare
+frigates alongside Canada and Australia.
+
+
+-----
+
+##### Shipbuilding
+
+###### The Government’s vision for 2030 is to have a shipbuilding enterprise that is at the forefront of technological and environmental innovations, driving the sector to be globally competitive in key market segments, including the design, build, integration, test and evaluation and repair of naval vessels. As one of the major customers of the UK shipbuilding enterprise, Defence is committed to playing a leading role across government in support of the Defence Secretary in his role as Shipbuilding Tsar.  
+
+ We will be investing in a renaissance in British shipbuilding through a shipbuilding pipeline. This will reinforce current spending in Scotland, Wales and Northern Ireland and provide opportunities across the Union.
+
+ Strategic and long-term investment will increase the capability of the Royal Navy’s surface fleet and allow the development of:
+
+ • A fleet of 3 Fleet Solid Support ships so the Carrier Strike Group can operate globally.
+
+ • A Multi-Role Ocean Surveillance capability, improving our ability to protect our underwater critical national infrastructure and improving our ability to detect threats in the North Atlantic. 
+
+ • Type 32 frigates, designed to protect territorial waters, provide persistent presence overseas and support our Littoral Response Groups.
+
+ • Multi-Role Support Ships (MRSS), to provide the platforms to deliver Littoral Strike, including Maritime Special Operations, in the early 2030s.
+
+ • The concept and assessment phase for our new Type 83 destroyer which will begin to replace our Type 45 destroyers in the late 2030s.
+
+ This is on top of our existing commitments to build eight Type 26 Anti-Submarine Warfare frigates on the Clyde and five Type 31 general purpose frigates in Rosyth. These investments will help ensure the competitiveness of British shipbuilding and provide the modern vessels required by the Royal Navy to protect our territorial waters and the global shipping routes on which our economy relies.
+
+ Overall shipbuilding investment will double over the life of this Parliament rising to over
+
+
+-----
+
+###### Integrated Force 2030 Icons not to scale
+
+##### Army
+
+###### ARRC HQ & Divisional HQs Heavy Brigade Combat Teams
+
+ Deep Recce Strike Brigade Combat Team Light Brigade Combat Teams
+
+ Air Manoeuvre Brigade Combat Team Combat Aviation Brigade Combat Team
+
+ Army Special Operations Brigade Security Force Assistance Brigade
+
+ 77 Brigade Information Manoeuvre Groups
+
+
+-----
+
+**7.27.** The Army will receive significant
+
+investment in order to become more agile,
+integrated, lethal and expeditionary. We will
+invest an additional £3bn in new Army
+equipment on top of the more than £20bn
+planned. Investment in new vehicles (including
+Ajax, Boxer and, Challenger III); modernised longrange precision fires (including multiple launched
+rocket systems and Apache); new air defences;
+tactical surveillance drones; and new electronic
+warfare and cyberspace capabilities, will
+transform the Army’s equipment over the next
+decade.
+
+**7.28.** The Army will be designed to operate
+
+globally on a persistent basis. A new Ranger
+Regiment will be the vanguard of this
+expeditionary posture as part of an Army Special
+Operations Brigade. This Regiment’s four all-arms
+units will be aligned with the new Divisions of
+Infantry and initially seeded from the current
+Specialised Infantry Battalions: 1 SCOTS, 2 PWRR,
+2 LANCS and 4 RIFLES. They will be able to
+operate in complex, high-threat environments,
+taking on some tasks traditionally done by
+Special Forces. This work will involve deterring
+adversaries and contributing to collective
+deterrence by training, advising and, if necessary,
+accompanying partners. The Army will establish
+this Regiment in August and invest over £120m
+over the next four years in equipping it.
+
+**7.29.** In addition, a new Security Force
+
+Assistance Brigade will be established. They will
+draw on personnel and expertise from across the
+
+
+Army. These units will be expert in building the
+capacity of allied and partner nations. Routinely
+deployed around the world these Security Force
+Assistance units will contribute to conflict
+prevention and resilience at an early stage.
+Defence's global foundation will underpin this.
+
+**7.30.** The Army’s increased forward presence
+
+will be supported by a very high readiness Global
+Response Force, consisting of 16 Air Assault
+Brigade and the newly formed 1st Combat
+Aviation Brigade, which will be ready to respond
+to emerging crises from humanitarian relief
+through to crisis response and warfighting. The
+newly formed Land Operations Command will
+coordinate the Army’s global engagement daily.
+
+**7.31.** While this renewed structured is
+
+optimised to operate, warfighting capability
+remains the cornerstone of deterrence and the
+bedrock of a world-class British Army. The 3rd
+(UK) Division will remain at the heart of this, able
+to manage a multi-domain battle in ever greater
+depth; designed to act with NATO and capable of
+providing a framework for Allies. The 1st (UK)
+Division will be capable of operating
+independently or as part of multilateral
+deployments. It will provide theatre enablement
+and offers NATO the agility to command
+operations on its flanks.
+
+**52**
+
+
+-----
+
+The 6th (UK) Division will deliver cyber, electronic
+warfare, information operations and
+unconventional capabilities designed for
+warfighting and for operations conducted below
+the threshold of war. We will also continue to
+lead the Allied Rapid Reaction Corps (ARRC)
+headquarters, which stands at high readiness to
+deploy and lead NATO’s Response Force. The
+Reserve component is intrinsically important to
+the generation of warfighting mass.
+
+**7.32.** The Army of the future will be leaner,
+
+more lethal, nimbler, and more effectively
+matched to current and future threats. The new
+structure will reorganise the Army into more selfsufficient Brigade Combat Teams (BCT) able to
+meet demand by drawing on their own
+dedicated logistics and combat support units. A
+new Deep Recce Strike BCT will combine the
+Ajax’s formidable sensors with enhanced fires
+systems to provide long-range persistent
+surveillance for the coordination of deep fires.
+Overall, this restructuring will see a reduction
+from the current Full Time Trade Trained strength
+of 76,000 to 72,500 by 2025.
+
+**7.33.** The restructuring of the Army means
+
+fewer units are required. The creation of Combat
+Service Support Battalions will require fewer
+separate units of logisticians, electrical and
+mechanical engineers, and medics. The Infantry
+will be restructured into four divisions. These
+divisions will comprise a balanced number of
+battalions offering the full range of infantry roles.
+No cap badges will be deleted nor any
+redundancies required. It will ensure all infantry
+
+
+soldiers can access the full range of operational
+opportunities. Across all parts of the Army, these
+new structures provide more operational
+resilience, integration, deployability and greater
+opportunity for our people. The introduction of
+‘Intelligent Recruiting’ will ensure that personnel
+are also better allocated across the Infantry. This
+new structure will require the deletion of a single
+infantry battalion and a further four battalions
+will provide the foundational units of the Ranger
+Regiment.
+
+**7.34.** Through a more productive integration
+
+of the Reserves, increased lethality of weapon
+systems and survivability of platforms, and a
+specialised workforce fit for the digital age, the
+Army will continue to be world-class. Humanmachine teaming will also play an increasingly
+prominent role in how the Army delivers effects.
+We will make sure that we are fit for the
+challenges of the future with the establishment
+of a new experimentation battalion, drawn from
+the Yorkshire Regiment, which will lead in the
+trialling of cutting-edge technology and its
+integration into the way we fight; testing the
+BCTs to their limits, driving innovation and
+ensuring that the Army's structures, equipment
+and way of fighting evolve in line with the
+threats.
+
+**7.35.** Investment in longer range artillery will
+
+mean the Army is able to deliver a more precise
+and lethal response and attack potential
+adversaries at greater depth, providing greater
+protection.
+
+**53**
+
+
+-----
+
+We plan to invest over £250m over ten years in
+the Guided Multiple Launch Rocket System
+(GMLRS) which will provide an upgraded longrange rocket artillery platform with new missiles
+that travel further and are more accurate. In
+addition, the Army is spending over £800m over
+the next ten years on a new automated Mobile
+Fires Platform that will deliver enhanced close
+support artillery systems and greater operational
+mobility. In the short term, the Army will invest to
+sustain the Exactor missile system. Over the
+longer-term this capability will be upgraded to
+provide enhanced lethality against emerging
+threats.
+
+**7.36.** Investment in ground-based air defence
+
+will deliver a system of survivable and digitally
+connected platforms with a new short-range
+capability, including small drones, and a new
+deployable medium range capability. These will
+give the Army an air defence capability to defeat
+modern airborne threats.
+
+**7.37.** An investment of over £200m over ten
+
+years will deliver an enhanced electronic warfare
+and signal intelligence capability. An increase in
+new personnel able to collect and exploit signals
+intelligence will demonstrate a significant uplift in
+our electronic warfighting capability in all
+formations.
+
+
+**7.38.** Modernising the Army will mean some
+
+legacy platforms that have already been
+extended beyond their planned life will be
+retired. In doing so, the Army will be able to
+invest new funds into accelerating the in-service
+date of the Boxer armoured vehicle and
+enhancing its capability. Boxer will allow the
+Army to respond at pace to deliver soldiers
+around the battlefield, travelling long distances
+quickly, cross country, and in the most austere
+and hostile environments. As planned, the Army
+will invest around £1.3bn in our armoured
+capability by upgrading 148 of our main battle
+tanks to ensure the Challenger III will become
+one of the most protected and most lethal in
+Europe. The remaining fleet will be retired. We
+will no longer upgrade Warrior but it will remain
+in service until replaced by Boxer, which we
+expect to happen by the middle of this decade.
+
+**7.39.** The Army is retiring its oldest CH-47
+
+Chinook helicopters and investing, alongside the
+US, in newer variants of this operationally proven
+aircraft, enhancing capability, efficiency and
+interoperability. Our AH-64 Apache Attack
+Helicopters will be upgraded to a state-of-the-art
+capability by 2025. Investment in a new medium
+lift helicopter in the mid-2020s will enable a
+consolidation of the Army’s disparate fleet of
+medium lift helicopters from four platform types
+to one; including the replacement of Puma. The
+Army will also retain and upgrade Watchkeeper.
+
+
+-----
+
+###### Integrated Force 2030 Icons not to scale
+
+##### Royal Air Force
+
+###### Typhoon Shadow
+
+ F35B Lightning II Protector
+
+ P-8A Poseidon E-7A Wedgetail
+
+ Voyager Red Arrows
+
+ C-17 Globemaster CH-47 Chinook
+
+
+-----
+
+**7.40.** The Royal Air Force will continue to
+
+deliver decisive air and space power even as the
+operating environment becomes more complex
+and contested. The Royal Air Force will conduct a
+radical overhaul of how it is organised and how it
+approaches its people, training, bases and the
+aircraft and equipment it operates, harnessing
+the ever-increasing effectiveness of a digitally
+empowered force.
+
+**7.41.** The Royal Air Force will continue to grow
+
+its Combat Air capacity over the next few years
+as we fully establish all seven operational
+Typhoon Squadrons and grow the Lightning II
+Force, increasing the fleet size beyond the 48
+aircraft that we have already ordered. Together
+they will provide a formidable capability, which
+will be continually upgraded to meet the threat,
+exploit multi-domain integration and expand
+utility. The Royal Air Force will spiral develop
+Typhoon capability, integrate new weapons such
+as the UK-developed ‘SPEAR Cap 3’ precision airlaunched weapon and invest in the Radar 2
+programme to give it a powerful electronically
+scanned array radar. We will integrate more UK
+weapons onto Lightning II and invest to ensure
+that its software and capability are updated
+alongside the rest of the global F-35 fleet.
+
+**7.42.** We will also make a strategic investment
+
+of more than £2bn over the next four years in the
+Future Combat Air System (FCAS). FCAS will
+deliver an innovative mix of crewed, uncrewed
+
+
+and autonomous platforms including swarming
+drones. This will deliver an advanced combat air
+system capable of fighting in the most hostile
+environments. The development of novel
+technologies, and a step change in how we use
+simulators for mission rehearsal and training, will
+enable the Royal Air Force to be among the most
+technologically innovative, productive and lethal
+air forces in the world.
+
+**7.43.** The Royal Air Force’s cutting-edge
+
+equipment programmes will supercharge our
+contribution to national prosperity through
+innovation and investment in science and
+technology, building on our unique partnership
+with the UK’s aerospace and space technology
+sector.
+
+**7.44.** The Royal Air Force will retire equipment
+
+that has increasingly limited utility in the digital
+and future operating environment. This will
+include rationalising older fleets to improve
+efficiency, retiring Typhoon Tranche 1 by 2025,
+and Hawk T1. We will enhance the new military
+flying training system with further investment in
+synthetic training that will deliver more capable
+pilots more quickly and more efficiently. The
+Royal Air Force will retire the BAe146 as planned
+by 2022 and take the C130 Hercules out of
+service by 2023. The A400M Atlas force will
+increase its capacity and capability, operating
+alongside C-17 Globemaster and Voyager
+transport aircraft and tankers.
+
+**56**
+
+
+-----
+
+**7.45.** We will retire the E-3D Sentry in 2021, as
+
+part of the transition to the more modern and
+more capable fleet of three E-7A Wedgetail in
+2023. The E-7A will transform our UK Airborne
+Early Warning and Control capability and the
+UK’s contribution to NATO. The nine P-8A
+Poseidon maritime patrol aircraft will help to
+secure our seas. The introduction into service of
+the 16 long-range Protector remotely piloted
+systems will be the backbone of persistent, multispectral surveillance, with the ability to strike and
+act decisively against our potential adversaries
+around the globe.
+
+**7.46.** The Royal Air Force will amplify UK
+
+global influence by deepening our alliances in
+the Indo-Pacific, Middle East and Africa.
+Developing a global network of adaptable basing
+with key allies and partners will enable our
+aircraft to be forward deployed and able to
+respond ahead of potential adversaries. The
+
+
+Royal Air Force will play a key role in persistent
+engagement, including seeking prosperity
+opportunities through the delivery of world-class
+aviation training and building the capacity of
+partner nations’ air forces, such as the Joint
+Typhoon Squadron with Qatar. In addition, the
+Royal Air Force will continue to provide niche
+capacity building missions, including in areas
+such as intelligence and targeting, space,
+surveillance and reconnaissance, force protection,
+battlespace management, air traffic control,
+aeromedical advice and air safety.
+
+
+-----
+
+##### All the UK’s Defence
+
+###### With widespread capabilities and a large footprint across the UK investing in industry, infrastructure, jobs and skills, Defence embodies the mutual benefits and shared dependencies that bring the UK together so successfully across the Union. Whether that is keeping the UK safe, or the pan-UK Covid-19 response, Defence is woven into the four nations. In 2019-20, Defence spending with UK industry and commerce directly supported over 18,000 jobs in Scotland, Wales and Northern Ireland. The latest settlement has allowed us to protect our existing commitments in these nations and catalyse growth in associated sectors.
+
+ Our investments in Future Combat Air System (FCAS) and the UK space programme are two examples where companies in Scotland, Wales and Northern Ireland can take full advantage of Defence’s funding pipeline. Defence employs around 14,000 service personnel and 6,000 civilians in Scotland, Wales and Northern Ireland, with many of the service personnel routinely deployed on operations in support of UK commitments to NATO and UN Peacekeeping. Defence returns over 15,000 skilled veterans and civilians per year to society throughout the UK, improving links to communities and enriching our contribution to the nation.
+
+ Scotland, Wales and Northern Ireland all play an important role in supporting our people and our capabilities to defend the whole of the UK. Scotland is the home of our UK submarines, Continuous At-Sea Deterrence and the RAF’s fleet of Boeing P8 Poseidon and E-7A Wedgetail airborne warning aircraft. Her Majesty's Naval Base on the Clyde is one of the largest employers in Scotland providing over 6,800 jobs and infrastructure improvements are estimated to be worth about £1.5bn over ten years. At RAF Lossiemouth, we are still to spend approximately £160m of the £470m committed to ongoing infrastructure improvements to accommodate the new Maritime Patrol Aircraft and support Typhoon force growth. This will see an extra 550 service personnel and their families moving to the base.
+
+ The excellence of the training our armed forces receive in Wales is central to their success - from fast jet pilot training at RAF Valley to the warfighting edge forged in the training areas around Brecon, and the vital testing and evaluation in Aberporth. The new £11m Royal Maritime Reserve centre in Cardiff will provide opportunities to expand the Royal Navy’s presence.
+
+ In Northern Ireland, the regional economy continues to be boosted by defence contracts. As an example, Belfast-based companies have recently secured a five-year extension to maintain UK land forces’s Short Range Air Defence systems and a £30m deal to design and manufacture a prototype for the UK’s first fleet of uncrewed fighter aircraft, which is supporting more than 100 jobs in Belfast. Additionally, with Northern Ireland's renowned capabilities in the fields of cybersecurity and advanced manufacturing, it is well placed to benefit from additional Defence investment in new technology in both these domains.
+
+
+-----
+
+##### All the UK’s Defence
+
+###### Regular military numbers Reserve military numbers Civilians
+
+ Scotland
+
+ Northern Ireland 9,820
+
+ 1,780
+ 4,800
+
+ 1,940
+ 3,970
+
+ 900
+ £2.1bn total spend with industry
+ £83m total spend with industry
+ 12,400 direct jobs
+ 500 direct jobs supported with supported with Industry industry
+ Shipbuilding  Professional Services - £1.06bn: largest £22m: largest industrial industrial category of category of spend spend
+
+ Wales
+
+ 2,160 1,700 1,080
+
+ £909m total spend with industry
+
+ 5,700 direct jobs supported with Industry >500 personnel MOD locations
+
+ Weapons & Ammo - £329m: largest industrial category of spend Other MOD locations
+
+**59**
+
+
+###### 4,800
+
+ 3,970
+
+ £2.1bn t with industry
+ total spend with
+
+ 12,400 supported with Industry
+
+ Shipbuilding -
+ Professional Services - £1.06bn: largest industrial industrial category of
+ spend
+
+ 1,700 1,080
+
+ total spend with industry
+
+ direct jobs supported with
+
+
+###### Wales
+
+ 2,160 1,700 1,080
+
+ £909m total spend with industry
+
+ 5,700 direct jobs supported with Industry
+
+ Weapons & Ammo - £329m: largest industrial category of spend
+
+
+-----
+
+**Belfast: Continued investment in** **Scotstoun, Rosyth and Govan shipyards will**
+lightweight Multirole Missiles will sustain Thales benefit from the shipbuilding pipeline. Babcock
+workforce. Additionally, in March 2021, the site in Rosyth will be the principal assembly site for
+secured a 5-year extension to maintain Short- Type 31 frigates. BAE Systems’ Glasgow yards
+Range Air Defence. are working on Type 26 ships. Scottish yards
+
+will likely benefit from the new Type 32,
+
+**Belfast: Spirit AeroSystems has recently been** MROSS and MRSS, and LSDA conversion.
+awarded a £30m contract for a 3-year deal to
+
+**Lossiemouth: There is an ongoing £470m**
+
+design and manufacture a prototype for the UK’s
+
+infrastructure investment to accommodate
+
+first fleet of un-crewed fighter aircraft.
+
+the new Maritime Patrol Aircraft Strategic
+
+**Belfast: There is an opportunity for** Facility and support Typhoon force growth.
+the Harland and Wolff shipyard to About £220m is still to be spent.
+take advantage of the shipbuilding Lossiemouth will also base the RAF’s fleet
+pipeline. of three Boeing E-7A Wedgetail Airborne
+
+Early Warning aircraft.
+
+**Belfast: Thales Alenia is home to the**
+
+**Clyde Naval Base: HMNB Clyde is the**
+
+company’s global Space Electric
+
+second largest single-site employer in
+
+Propulsion Integration Centre and
+
+Scotland employing around 6,800 people
+
+would be well placed to benefit from
+
+now, a figure which will increase as
+
+defence spending with
+
+the base becomes home to all Royal Navy
+
+the space industry.
+
+submarines. The ongoing Clyde
+
+Infrastructure Programme was
+
+established in 2015 and is worth an
+
+estimated £1.6bn.
+
+###### Wales
+
+**Sealand: The Defence Electronics and**
+Components Agency employs more than
+400 staff specialising in electronic and
+component maintenance, repair, overhaul and upgrade. In 2019 DECA was awarded a long-term
+assignment worth £500m by the US to support crucial services for the F-35 global fleet.
+
+**Brecon will continue to be home to 160th Infantry Brigade and Headquarters (HQ Wales) and the**
+Army also remains committed to relocating a major Regular Army unit to Wales.
+
+**Merthyr Tydfil: General Dynamics UK is building the Army’s next generation of AJAX armoured**
+vehicles. It is set to run until 2025 and support hundreds of jobs at the south Wales Plant
+
+**Anglesey: RAF Valley is home to the RAF’s only fighter pilot training school. A total of around**
+1,500 personnel, civil servants and contractors work together to delivery aircrew training. The base
+on the island has been chosen as the future location for Defence Basic Flying Training.
+
+**Cardiff Bay: In 2020 a new £11m Royal Maritime Reserve centre opened in the bay, providing**
+opportunities further to expand the Royal Navy presence in Wales.
+
+**60**
+
+
+-----
+
+### A stronger relationship with industry
+
+###### Chapter 8
+
+
+**8.1.** This Chapter sets out how we will adopt
+
+a more strategic relationship with industry and
+build a more sustainable industrial base. As well
+as making our armed forces more effective, it will
+drive benefits across the UK – sustaining high
+tech jobs, strengthening productivity, and
+powering UK competitiveness on the global
+market.
+
+**8.2.** We need a sustainable industrial base to
+
+ensure that the UK has access to the most
+sensitive and operationally critical areas of
+capability for our national security, and to
+maximise the economic potential of one of
+Britain’s most successful and innovative sectors.
+Alongside this paper, a new Defence and Security
+Industrial Strategy (DSIS) will set out our plans
+for a more strategic partnership between
+government and the defence and security
+industries.
+
+**8.3.** We will take a more strategic approach
+
+to industrial capability critical to our strategic and
+operational needs. While competition will
+remain an important tool to drive value for
+money in many areas, and in the supply chain,
+DSIS provides greater flexibility in designing
+capability and acquisition strategies to deliver
+and grow the onshore skills, technologies and
+capabilities needed to counter the threats and
+exploit opportunities. DSIS will ensure a more
+consistent consideration of the longer-term
+implications of Defence’s procurement decisions
+for military capability and the industry that
+produces and supports it.
+
+**8.4.** The Defence settlement brings stability
+
+to the Defence programme and provides industry
+
+
+with the certainty they need to plan, invest and
+grow. Increased investment in R&D and close
+collaboration with industry will allow us to
+experiment and bring new and emerging
+capabilities more rapidly into service, creating
+strategic advantage and economic opportunity.
+
+**8.5.** Our investment in the Future Combat Air
+
+System (FCAS) programme represents a
+paradigm shift in the UK’s combat air industrial
+sector to achieve the pace, affordability and
+operational capability we need to meet our
+requirements. This approach will deliver
+capabilities twice as fast, at a lower cost,
+designed and delivered in a fully digital
+enterprise. Exploiting model-based design,
+systems engineering and embedding the latest
+agile design principles to deliver faster. FCAS has
+already created over 1,800 new STEM jobs in
+over 300 companies nationwide, sustaining and
+supporting over 18,000 existing highly skilled
+jobs in the sector, as well as tens of thousands
+more in the wider supply chains across the UK.
+
+**8.6.** To stay ahead of our adversaries, we also
+
+need to make our acquisition and procurement
+policies and processes more agile. We will reform
+acquisition to make it more responsive to the
+changing nature of the industry. We will also
+review our procurement practices to enable more
+small and medium sized enterprises to
+participate in Defence procurement. The Land
+Industrial Strategy within DSIS will be a catalyst
+for such an approach for land combat systems,
+while assisting with the development of a
+globally competitive land industrial and
+technology sector in the UK.
+
+**61**
+
+
+-----
+
+**8.7.** We are working to grow the contribution
+
+that defence makes to UK prosperity. Together
+with industry, we are refreshing the Defence
+Growth Partnership’s strategy on exports and
+economic growth. We are jointly investing in the
+UK Defence Solutions Centre to improve the
+quality of information on the UK defence sector
+and potential market opportunities. Within the
+MOD, with UK Defence & Security Exports, and
+with other government departments, there is a
+renewed focus on delivering export success at
+every stage, from defining military requirements
+for our equipment, to building crossdepartmental packages and expanded export
+finance support. We will work collaboratively to
+support prosperity objectives across all four
+nations of the UK and to support regional and
+local growth through initiatives such as the
+Defence and Security Accelerator’s involvement
+in Regional Defence and Security Clusters. We
+will continue to strengthen our prosperity work
+with key global primes to create opportunities
+for the UK’s highly capable and innovative
+defence supply chain. We will include the
+Government’s new Social Value criteria in
+contracts covered by the Defence and Security
+Public Contracts Regulations, supporting the
+creation of new businesses, new jobs and new
+skills within the UK.
+
+**8.8.** The UK is open to research, capability
+
+
+and industrial collaboration with trusted Allies
+and partners, and we will support our industrial
+and technology base to work internationally
+whilst strengthening our protections from
+investments in supply chains that could harm
+national security. Alongside this we are
+strengthening our protections against economic
+risks and hostile investments in sensitive, defence
+and dual-use technology that acts against
+national security. As outlined further in the DSIS,
+Defence will look to invest in priority
+international strategic partnerships across the
+globe, including with Five Eyes, Europe, Gulf and
+Indo-Pacific nations.
+
+**8.9.** We will work at pace with our allies to
+
+reduce barriers to sharing technology, skills and
+knowledge, and accelerate collaborative
+innovation and industrial cooperation to secure
+and extend our collective advantage over our
+potential adversaries. From the business space to
+the battlespace, we will enhance the UK’s
+academic and industrial base, collaborating with
+partners to shape global thinking, standards and
+norms for the responsible and ethical adoption
+of these new technologies. We will work to
+reduce barriers to cooperation with our closest
+allies. And we will provide the foundations of
+new strategic relationships with industry to shape
+the market, stimulate innovation, build skills and
+foster a thriving and competitive sector.
+
+
+-----
+
+##### Future Combat Air System
+
+###### Combat Air will play a vital role in our military strategic capabilities for decades to come, enabling us to make a decisive contribution to global security as well as create jobs and spread prosperity across the United Kingdom. We are investing now to launch the next phase of the FCAS Acquisition Programme to design and deliver the Tempest Concept: innovative systems of optionally-crewed and autonomous systems to preserve our operational advantage long into the future. Tempest will exploit our unique industrial base to create a 6th generation combat air enterprise centred in the UK. This fully digital enterprise will transform delivery, achieving pace and lowering cost and disrupting traditional approaches to defence procurement. We are deepening FCAS partnering with Italy and Sweden through an international Concept and Assessment Phase beginning this year and are exploring important cooperative opportunities with Japan. Combat Air will remain a key pillar of the UK’s global approach as we reinforce interoperability and cooperation with the US and strengthen our relationships with the Typhoon consortium in Europe and other like-minded nations. The UK Combat Air industry directly supports 18,000 jobs with tens of thousands more in the wider supply chain, with the number of highly skilled jobs set to rise rapidly from 2021. This is a major national and international endeavour, investing in our domestic technology and skills base across the United Kingdom, and showcasing UK leadership on the global stage.
+
+
+-----
+
+-----
+
+#### Transforming our ways of working
+
+###### Chapter 9
+
+
+**9.1.** We also need to make changes to the
+
+way we manage our business. This Chapter sets
+out the role of our new Secretary of State’s Office
+for Net Assessment and Challenge (SONAC),
+which will ensure that everything we do is
+informed by the evolving threat picture. We also
+need to undertake a programme of reform,
+optimise our infrastructure based on value,
+potential and sustainability, and build the
+resilience of our estate and our armed forces to
+respond to the challenges posed by climate
+change.
+
+
+the department. SONAC will work with external
+experts to bring their expertise and cutting-edge
+analytical techniques to sharpen our thinking and
+explore innovative strategic options to offer
+alternative perspectives to Ministers. This will
+include wargaming and red teaming work,
+informed by Defence Intelligence, to ensure
+strategies are tested by independent and diverse
+voices before they are implemented.
+
+**9.5.** These changes will radically change the
+
+way the MOD thinks about strategy – shifting
+from an approach that was grounded in the 20th
+Century to one that is forward looking to the
+threats of the future and ready to drive the UK’s
+advantage forward in the mid-21st Century.
+
+
+Secretary of State’s Office for Secretary of State’s Office for
+Net Assessment and ChallengeNet Assessment and Challenge
+
+
+**9.2.** Given the complex, multifaceted
+
+challenges that we face, strategic decision
+making in the MOD must be guided by clear
+objectives, threat-focused and evidence-driven.
+We are establishing the SONAC which will bring
+together the best of the civil service, armed
+forces, academia and business.
+
+**9.3.** SONAC will challenge the accepted
+
+wisdom and way of doing things. The unit will
+provide a central hub for strategic analysis in our
+Head Office, ensuring that our strategy and joint
+force development remains threat and evidenceled, now and in the far future. It will develop new
+ways to understand the threat, including by
+incorporating a Net Assessment approach to
+assess how we compare to adversaries now and
+in the future. It will ensure we learn the strategic
+lessons from our own activity, but also
+importantly the approaches of other
+international actors.
+
+**9.4.** The team will improve the use of
+
+challenge and drive innovative new thinking in
+
+
+**9.7.** We will be a global leader in the
+
+
+Defence IntelligenceDefence Intelligence
+
+
+**9.6.** Defence’s intelligence enterprise also
+
+needs to adapt to the new threat. Open source
+intelligence, automation and AI provide
+potentially game-changing ways to understand
+and counter these new challenges. By
+understanding the threats, we will be able to
+protect our most precious assets, whether our
+armed forces personnel, our critical national
+infrastructure, our intellectual property or our
+strategic nuclear deterrent. We can protect our
+vulnerabilities as well as identifying opportunities
+to exploit those of our adversaries. As the threat
+continues to evolve and as technology presents
+new opportunities, Defence Intelligence will
+direct and coordinate intelligence operations
+across Defence and will become more agile in
+exploiting its knowledge for impact and effect.
+
+
+Climate Change and SustainabilityClimate Change and Sustainability
+
+
+**65**
+
+
+-----
+
+response to the emerging geopolitical and
+conflict-related threats being exacerbated by
+climate change. Driven by an ambitious Climate
+Change and Sustainability Strategy, we will build
+the resilience of our armed forces to more
+extreme weather conditions to sustain our
+strategic advantage and freedom of manoeuvre
+in ever more unforgiving environments. In
+addition, we will mitigate against the impact of
+our Departmental carbon footprint on the
+climate and seize opportunities to improve the
+sustainability of our operations.
+
+**9.8.** We will be in the vanguard for
+
+contributing to achieving HMG’s legal
+commitment of Net Zero emissions by 2050. To
+date, Defence has outperformed its emissions
+reduction targets, reducing its emissions by 48%
+against a 39.9% target as well as increasing its
+recycling by 56%, and reducing overall waste by
+38% in comparison to the 2009/2010 baseline.
+However, we acknowledge we need to do more.
+We will embrace the opportunity presented by
+the UK’s presidency of COP26 to work with our
+allies and partners to achieve commitments on
+adaptation, resilience and mitigation activities. In
+addition, we will seek to reduce our impact on
+the environment and seize opportunities to
+embed sustainability considerations into every
+part of Defence from infrastructure and estates,
+to contracting, culture, equipment and operating
+practices; all supported by technology. This will
+enable defence to actively contribute to the
+achievement of the UK's Net Zero commitment
+and wider sustainability commitments.
+
+
+compliant estate. The Defence Estate
+Optimisation (DEO) Portfolio is an ambitious 25year portfolio of interdependent programmes
+across the UK, including construction activity, unit
+and personnel moves, and land release. We are
+investing some £4.3bn over the next decade in
+this programme, ensuring that we build back
+better, faster and greener. The MOD has
+responsibility for approximately 1% of the UK’s
+landmass in its estates, primarily used for training
+purposes. Emissions from infrastructure make up
+approximately 30% of the baseline emissions for
+Defence. The DEO Programme will modernise
+infrastructure and increase efficiency in estates
+management over the next 25 years.
+
+**9.10.** Over time we will move away from
+
+reactive maintenance regimes and augment our
+building standards to ensure that we only
+construct accommodation and offices that meet
+the expectations of our personnel both now and
+in the future. We continue to make
+improvements to our service accommodation to
+improve the lived experience of our personnel.
+We plan to spend around £1.5bn over ten years
+on upgrades to Single Living Accommodation.
+
+
+###### Financial SustainabilityFinancial Sustainability
+
+
+InfrastructureInfrastructure
+
+
+**9.9.** We will invest to transform our estate to
+
+maximise its value and potential. We will
+prioritise funding for our critical infrastructure
+projects to enhance our resilience while reducing
+the size of the estate, consolidating our asset
+base and continuing to maintain a safe and
+
+
+**9.11.** Our approach is predicated on meeting
+
+the threats we face affordably and at the pace
+required to keep us safe. This is a crucial
+opportunity for Defence to move to a sound
+financial footing. We are working to strengthen
+our mechanisms to drive and assure value for
+money. We are instigating improvements in
+programme delivery, procurement, and
+acquisition to manage complexity, risk, and the
+pace of technological change affordably and
+rigorously.
+
+**66**
+
+
+-----
+
+##### Acronyms
+
+**AI** Artificial Intelligence
+
+**AMISOM** African Union Mission to Somalia
+
+**ARRC** Allied Rapid Reaction Corps
+
+**ASEAN** The Association of Southeast Asian Nations
+
+**BCT** Brigade Combat Team
+
+**CBRN** Chemical, Biological, Radiological and Nuclear
+
+**CJEF** Combined Joint Expeditionary Force
+
+**CT** Counter Terrorism
+
+**DEO** Defence Estate Optimisation
+
+**DSIS** Defence and Security Industrial Strategy
+
+**Dstl** Defence Science and Technology Laboratory
+
+**ECOWAS** Economic Community of West African States
+
+**FPDA** Five Power Defence Arrangements
+
+**GCHQ** Government Communications Headquarters
+
+**GMLRS** Guided Multiple Launch Rocket System
+
+**HMG** Her Majesty’s Government
+
+**HQ** Headquarters
+
+**ISTAR** Intelligence, Surveillance, Target Acquisition and Reconnaissance
+
+**IOpC** Integrated Operating Concept
+
+**JEF** Joint Expeditionary Force
+
+**KFOR** Kosovo Force (NATO-led peacekeeping force)
+
+**LRG** Littoral Response Group
+
+**MINUSMA** United Nations Multidimensional Integrated Stabilisation Mission in Mali
+
+**MOD** Ministry of Defence
+
+**NATO** North Atlantic Treaty Organisation
+
+**NCF** National Cyber Force
+
+**NHS** National Health Service
+
+**PPE** Personal Protective Equipment
+
+**R&D** Research and Development
+
+**SIS** Secret Intelligence Service
+
+**STEM** Science, Technology, Engineering and Mathematics
+
+**UAV** Uncrewed Aerial Vehicle
+
+**UN** United Nations
+
+**UNCLOS** United Nations Convention on the Law Of the Sea
+
+
+**67**
+
+
+-----
+
+##### Technical Terminology
+
+**Capability** **Description**
+
+**16 Air Assault Brigade** Army’s most rapidly deployable brigade
+
+**1st Combat Aviation Brigade** Formation comprising Army’s attack and reconnaissance and RAF support helicopters
+
+**1st (UK) Division** Army’s second deployable manoeuvre Division
+
+**3rd (UK) Division** Army’s principal combat formation and primary armoured warfighting capability
+
+**6th (UK) Division** Army’s unconventional warfare Division
+
+**A400M** Aircraft providing tactical and strategic lift
+
+**AH64 Apache** Attack helicopter with surveillance and force protection capabilities
+
+**Ajax** Army’s family of armoured reconnaissance fighting vehicles
+
+**Army Special Ops Brigade** Army formation for preparing and generating special operations-capable forces (Ranger Regiment) for
+deployment
+
+**Astute class** Nuclear powered submarine
+
+**ASW frigate** A surface warship optimised for Anti-Submarine Warfare
+
+**BAE 146 - CSAT** Command Support Air Transport capable of passenger and cargo delivery
+
+**Ballistic Missile Submarine** Submarine capable of firing inter-continental ballistic missiles
+
+**Bay class support ship** Royal Fleet Auxiliary ship used in amphibious operations
+
+**Boxer** The Army’s new wheeled Mechanised Infantry Vehicle (MIV), a highly mobile armoured vehicle to carry troops
+at long range into operational theatres
+
+
+**Combat Service Support**
+**Battalions**
+
+
+Army’s new integrated units combining logistic, equipment and medical support elements
+
+
+**C130J Hercules** Multi-role tactical transport aircraft
+
+**C-17 Globemaster** Strategic over-sized lift military transport aircraft
+
+**Carrier Strike Group** Fifth generation aircraft carrier supported by frigates, destroyers, submarines and F-35B jets
+
+**CH-47 Chinook** Multi-role heavy lift support helicopter
+
+**Challenger III** Upgrade of Challenger II battle tank with added mobility, survivability and lethality
+
+**CJEF** Combined Joint Expeditionary Force – UK-French bilateral force designed to be an early entry intervention
+force
+
+**Deep Recce Strike Brigade** Army fighting formation for executing long-range strike and reconnaissance activities
+
+**Defence Cyber School** A centre of excellence for cyber training and exercise based at the Defence Academy
+
+**Directed Energy Weapons** Highly focused energy aimed at damaging a target, including laser, microwaves and particle beams
+
+**Dreadnought class** Nuclear powered ballistic missile submarine replacing the Vanguard Class
+
+**E-3D Sentry** Airborne early warning and command and control aircraft
+
+**E-7A Wedgetail** Next generation airborne early warning and command and control aircraft
+
+**Exactor Missile System** Electro-optically guided missile capability
+
+**F-35B Lightning II** Fifth-generation multi-role aircraft
+
+**FCAS** The Future Combat Air System containing highly networked aircraft, uncrewed drones, sensors and weapons,
+connected across every domain
+
+**Five Eyes (countries)** Australia, Canada, New Zealand, UK and US intelligence sharing community
+
+**Fleet Solid Support Ship** Royal Fleet Auxiliary ship mainly used to supply the Carrier Strike Group with stores and ammunition
+
+**Future Commando Force (FCF)** UK’s new littoral strike fighting capability, centred around the Royal Marines
+
+**Global Response Force** Army’s very-high-readiness crisis response capability drawing from 16 Air Assault Brigade and 1[st] Combat
+Aviation Brigade
+
+**Hawk T1** Training aircraft used by RAF and Royal Navy front-line units
+
+**High North** The Arctic and surrounding region
+
+**Hunter class frigate** Name of the Australian variant of the Type 26 Frigate
+
+**Hypersonic glide vehicles** A strategic weapon system that is capable of speeds greater than five times the speed of sound
+
+**Hypersonic missiles** A missile capable of travelling at more than five times the speed of sound
+
+**Ice Patrol Ship** Royal Navy ship capable of ice breaking
+
+**HQ Allied Rapid Reaction Corps** UK commanded NATO 3-star headquarters based in the UK
+
+**68**
+
+
+-----
+
+**Capability** **Description**
+
+**JEF** The Joint Expeditionary Force is a UK-led coalition of like-minded Partner Nations (Denmark, Estonia, Finland
+Latvia, Lithuania, The Netherlands, Norway, Sweden and Iceland from spring 2021), composed of high
+readiness forces, primarily configured for responding rapidly to crises in the High North and Baltic Sea
+Region
+
+**Landing Platform Dock (LPD)** Royal Navy ship used in amphibious operations
+
+
+**Landing Ship Dock Auxiliary**
+**(LSD(A))**
+
+
+Royal Fleet Auxiliary Ship used principally in support of amphibious operations
+
+
+**Light Brigade Combat Teams** Army fighting formation centred around light infantry units
+
+**Lightning II Force** F-35B Lightning II (see F-35 definition)
+
+**Littoral Response Group** A bespoke force assigned to a geographical area, that contains dedicated shipping, helicopters and boats
+
+**Mine Hunting Capability** Royal Navy’s new, autonomous and remote system for hunting and destroying mines
+
+**Mobile Fires Platform** A future indirect fire weapon system
+
+**Multi-Role Ocean Surveillance** Planned Royal Navy ship which will support a broad array of missions
+**Ship**
+
+**Northern Group** Nations committed to maintaining security and stability in Northern European region and wider continent.
+Includes Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, the Netherlands, Norway, Poland,
+Sweden and UK
+
+**Offshore Patrol Vessel** Royal Navy vessel which undertakes constabulary, support and training missions around the globe
+
+**P8-A Poseidon** Maritime Patrol Aircraft primarily focussed on Anti-Submarine Warfare
+
+**Protector** New remotely piloted air system with surveillance and strike capability
+
+**Puma** Medium lift helicopter
+
+**Radar 2** A new radar system to be fitted to RAF Typhoons
+
+**Ranger Regiment** Army’s new all-arms special operations-capable units
+
+**Security Force Assistance** Army formation for conducting overseas capacity building and assistance missions
+**Brigade**
+
+
+**Skynet 6** Military satellite communication network
+
+**SPEAR Cap 3** Precision air-launched weapon
+
+**Synthetics** The use of advanced digital technology to support training and planning
+
+**Tempest** See FCAS
+
+**Trafalgar class** Nuclear powered submarine
+
+
+**Trident Strategic Weapon**
+**System**
+
+
+The UK’s nuclear deterrent
+
+
+**Type 23 frigate** A general purpose frigate, typically optimised for Anti-Submarine Warfare
+
+**Type 26 frigate** A global combat ship optimised for Anti-Submarine Warfare
+
+**Type 31 frigate** A versatile, surface warship. The replacement for Type 23 frigates
+
+**Type 32 frigate** A new class of surface warship
+
+**Type 45 destroyer** A destroyer optimised for Air Defence Warfare
+
+**Type 83 destroyer** Concept replacement warship for Type 45
+
+**Typhoon** Multi-role fourth-generation combat aircraft
+
+**Vanguard class** Nuclear-powered ballistic missile submarine
+
+**Voyager** Air-to-air refuelling tanker capable of air transport
+
+**Watchkeeper** Uncrewed aerial vehicle with Intelligence, Surveillance, Target Acquisition and Reconnaissance capability
+
+**Y-20** Chinese heavy transport aircraft
+
+**Skynet 6** Military satellite communication network
+
+**SPEAR Cap 3** Precision air-launched weapon
+
+**Synthetics** The use of advanced digital technology to support training and planning
+
+**Tempest** See FCAS
+
+**Trafalgar class** Nuclear powered submarine
+
+
+**Trident Strategic Weapon**
+**System**
+
+
+The UK’s nuclear deterrent
+
+
+**Type 23 frigate** A general purpose frigate, typically optimised for Anti-Submarine Warfare
+
+**Type 26 frigate** A global combat ship optimised for Anti-Submarine Warfare
+
+
+**69**
+
+
+-----
+
+-----
+
+###### ISBN: 978-1-5286-2462-6
+
+
+###### ISBN:
+
+
+-----
+

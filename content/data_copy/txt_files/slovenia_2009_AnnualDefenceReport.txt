@@ -1,0 +1,2130 @@
+#### REPUBLIC OF SLOVENIA
+ MINISTRY OF DEFENCE
+
+# ANNUAL REPORT
+
+ of the Ministry of Defence
+
+ for 2009
+
+### Ljubljana, 2010
+
+
+-----
+
+#### REPUBLIC OF SLOVENIA
+ MINISTRY OF DEFENCE
+
+## ANNUAL REPORT
+
+ of the Ministry of Defence
+
+ for 2009
+
+#### Number: 0100-56/2010-37
+ Date: 18 August 2010
+
+ Ljubljana, 2010
+
+
+#### 1
+
+
+-----
+
+#### ISSN 1617-6958
+
+ Editor and Publisher: Republic of Slovenia
+ Ministry of Defence
+
+ Technical realisation: Secretariat of Secretary
+ General of MoD
+ Publishing Service
+
+ Print: Collegium Graphicum, d. o. o.
+
+
+#### 2
+
+
+-----
+
+### TABLE OF CONTENTS
+
+#### FOREWORD ...............................................................................................................5 INTRODUCTION ..........................................................................................................8 1 AREA OF DEFENCE .................................................................................................9 1.1 Defence System Management .................................................................9
+ 1.1.1 Defence Policy ..............................................................................9
+ 1.1.2 Civil Defence and Crisis Management ....................................... 17
+ 1.1.3 Intelligence and Security Operations ..........................................18
+ 1.2 Military Defence ....................................................................................19
+ 1.2.1 Establishment of SAF Capabilities .............................................19
+ 1.2.2 Certification of SAF Units ..........................................................20
+ 1.2.3 SAF Military Training and Exercises .........................................23
+ 1.2.4 SAF Peace and Wartime Structure ..............................................25
+ 1.2.5 Voluntary Military Service .........................................................26
+ 1.2.6 Cooperation with Civilian Organisations ...................................26
+ 1.3 Participation in International Operations and Missions ........................27
+ 1.3.1 UN Operations ............................................................................30
+ 1.3.2 EU Operations ............................................................................30
+ 1.3.3 NATO Operations .......................................................................30
+ 1.3.4 Non-Military Capabilities and Civilian Functional Experts .......32
+ 2 PROTECTION AGAINST NATURAL AND OTHER DISASTERS ......................................34 2.1 Prevention Activities..............................................................................34
+ 2.2 Preparedness ..........................................................................................35
+ 2.2.1 Monitoring, Notification and Alerting ........................................35
+ 2.2.2 Information and Communications System..................................36
+ 2.2.3 Operational Planning ..................................................................36
+ 2.2.4 Protection, Rescue and Relief Forces .........................................37
+ 2.2.5 Providing Conditions for the Operation of Protection, Rescue
+ and Relief Forces ........................................................................38
+ 2.3 Disaster Response and Damage Assessment .........................................38
+ 2.4 Education, Training and Assessment of Training Level ........................40
+ 2.4.1 Education and Training ...............................................................40
+ 2.4.2 Assessment of Training Level and Exercises ..............................42
+ 2.5 International Cooperation ......................................................................44
+
+ 3
+
+
+-----
+
+#### 3 NORMATIVE AND OTHER ACTS .............................................................................46 4 INSPECTIONS AT THE MINISTRY OF DEFENCE ........................................................49 4.1 Defence Inspections ...............................................................................49
+ 4.2 Inspections in the Area of Protection against Natural and Other
+ Disasters ................................................................................................49
+ 4.3 Internal Auditing ...................................................................................50
+ 5 IMPLEMENTATION OF MOD RESOURCE PLANS.......................................................51 5.1 Implementation of the Financial Plan ...................................................51
+ 5.2 Implementation of the Personnel Plan ...................................................57
+ 5.3 Implementation of the Plan for the Acquisition of Physical Assets ......64
+ 5.4 Implementation of the Plan for the Sale of State Property ....................72
+ 5.5 Implementation of the Education, Training and Advanced
+ Training Plan .........................................................................................73
+ 5.6 Implementation of the Research and Development plan .......................76
+ CONCLUSION ...........................................................................................................80
+
+ 4
+
+
+-----
+
+#### Dr. Ljubica Jelušič, Minister of Defence
+
+### FOREWORD
+
+#### The first year of my mandate as Minister of Defence was a year marked by the global economic and financial crisis and one in which, consequently, we suffered a substantial reduction in budget funds. The purchase of some equipment, for example, had to be relinquished, investments were cut and operational costs reduced. We had, therefore, to change our development goals and, as a result, were able to accomplish our key tasks in the areas of defence and protection against natural and other disasters, as well as make a responsible contribution to international peace and security.
+
+ Due to the magnitude of the global economic crisis, the changed international security situation and the recommendations of the Alliance, we also initiated a Defence Sector Strategic Review, not only to streamline, improve and increase the effectiveness of the Ministry of Defence (MoD) and the Slovenian Armed Forces (SAF), but to build upon our constitutional and statutory obligations.
+
+ The result of this Review was the establishment of a more efficient operation of the MoD that, through a more balanced organisational structure, will accelerate the implementation of strategic and operational goals, increase the efficiency of our military and non-military capabilities in the areas of defence and protection against natural and other disasters and enable a more economically viable and rational use of resources. As this will be
+
+ 5
+
+
+-----
+
+#### FOREWORD
+
+ an ongoing process, we have also implemented procedures for updating strategic and planning documents to serve as a basis for introducing changes in the MoD.
+
+ The findings of the Defence Sector Strategic Review were also taken into consideration when developing the Resolution on the National Security Strategy that will replace the 2001 document, as well as define systemic organisational solutions of the state functioning with regards to providing national security.
+
+ In July 2009, the National Assembly also adopted the Resolution on the National Programme of Protection against Natural and Other Disasters for the period 2009 - 2015, which sets forth the goals, policies and strategies in this area for the following mid-term period.
+
+ In the second half of 2009, we then began to draw up a Resolution on the Long-Term Development and Equipping Programme for the SAF up to 2025, a document that will provide the basis and framework for the long-term development and equipping of the SAF. Thus the SAF will ensure capabilities required by the Republic of Slovenia for pursuing national interests in the defence area.
+
+ Furthermore, by preparing the Strategy of the Participation of the Republic of Slovenia in International Operations and Missions (approved by the Government at the end of 2009), we introduced a, two-stage process for decision taking regarding Slovenia’s engagement in international operations and missions of crisis management, and thus actually enhanced the role of the National Assembly.
+
+ In the context of the Alliance, we also presented and discussed national viewpoints in developing the proposal of the new NATO Strategic Concept which will, in its final form, eventually lay down the framework for the Alliance's operation over the next decade.
+
+ Although the year 2009 was of particular importance for the SAF in establishing our capabilities, certain setbacks did occur as a result of the two supplementary budgets. Despite this however, we did manage to address the main issues:
+
+ Significant military capabilities were established and the Light Battalion Battle Group, the 18th CBRN Defence Battalion and the medical capability of ROLE 2 LM were NATO certified. In addition, key medium wheeled armoured vehicles 8 x 8 weapons systems were introduced into operational use by the 74th Motorised Battalion, the unit that is now the basis for our future, medium-sized battalion battle group. Activities for the final part of the integration of the SAF into the Allied Force Structure were also implemented.
+
+ In addition, as a partner in international operations and missions, we actively contributed through military and non-military capabilities to international peace, security and stability with our most visible contributions being to Kosovo (KFOR), Bosnia and Herzegovina (ALTHEA), the Lebanon and the Middle East (UNFIL and UNTSO), and Afghanistan
+
+ 6
+
+
+-----
+
+#### FOREWORD
+
+ (ISAF). Last year, at the close of our participation in Chad (EUFOR), we also joined Operation ATALANTA. In fact, more than 500 SAF members and civilian experts on average per month have participated in international operations and missions on behalf of Slovenia.
+
+ Another positive change has been the influx of personnel into the SAF. As a direct consequence of the economic crisis, a large number of young people have either been directly employed or entered the Contract Reserve and many more are now participating in the Voluntary Service.
+
+ Over the year, the System of Protection against Natural and Other Disasters has also improved in its organisation and preparedness for a more efficient and comprehensive service. The response of competent services and bodies to natural and other disasters has been a success and this was clearly demonstrated by the measures taken during the floods that occurred during the middle of last winter. As a result, in accordance with the adopted national programme, increased attention is now being dedicated to preventive actions.
+
+ On the international stage, we successfully contributed concrete initiatives to the formation of policies and the implementation of activities in the framework of the United Nations, the European Union, NATO and other international organisations and initiatives. Through the planned use of our defence and rescue capabilities, we also actively participated in the endeavours of the international community to enhancing global peace, stability and security throughout the world. Furthermore, individual attention and resources, in accordance with foreign political guidelines, were dedicated to the region of the Western Balkans.
+
+ Once again, as in the previous year, my colleagues joined forces and forged better ways to accomplish our goals, better ways to use the resources available to us and better ways to interoperate with our partners, and this has actively contributed to the security of the Republic of Slovenia.
+
+    Dr. Ljubica Jelušič,
+   Minister of Defence
+
+ 7
+
+
+####    Dr. Ljubica Jelušič,
+   Minister of Defence
+
+
+-----
+
+### INTRODUCTION
+
+#### This Annual Report outlines the progress in various areas of work of the MoD, namely the areas of defence and protection against natural and other disasters, for 2009. The assignments were performed in line with the objectives and tasks defined in the Business Plan of the MoD for 2009.
+
+ The first chapter of the Annual Report deals with the area of defence. Defence system management addresses the implementation of defence policy and international cooperation, crisis management in the area of defence as well as intelligence and security operations. Military defence emphasises the establishment of capabilities, the certification of units and the military training of the SAF in the context of ensuring national defence within the collective defence and security systems, as well as the development of own defence capabilities. Slovenia’s contribution of military and non-military capabilities to international peace, security and stability is evident in its participation in international operations and missions.
+
+ The second chapter of this Annual Report deals with the area of protection against natural and other disasters. It presents key achievements in preventive actions and preparedness for protection, rescue and relief, as well as response measures taken during last year's disasters. Education and training, and international cooperation in the area of protection against natural and other disasters are also covered.
+
+ The third, fourth and fifth chapters of the report encompass the entire MoD, covering the area of defence and the area of protection against natural and other disasters in the context of normative acts, control mechanisms of the MoD and the implementation of individual resource plans in the MoD.
+
+ 8
+
+
+-----
+
+### 1 AREA OF DEFENCE
+
+#### 1.1 Defence System Management
+
+ 1.1.1 Defence Policy
+
+ Strategic and Planning Documents
+
+ National activities and activities of international cooperation in the defence area were in line with the priorities, programmes and objectives of the Republic of Slovenia’s defence policy, as well as the implementation of national and defence interests.
+
+ In light of the changes in the international security situation, the magnitude of the global economic crisis, the increasingly critical attitude towards the defence area in society and outdated strategic documents, the MoD began, in 2009, based on the recommendations of the Alliance, to intensify the implementation of its defence reforms. As a result, the Defence Sector Strategic Review (DSSR), covering the area of defence and the area of protection against natural and other disasters, that was carried out exposed several proposals for rationalising, improving and increasing the efficiency of the MoD and the SAF, as well as accomplishing constitutional and statutory tasks.
+
+ The MoD, in cooperation with other ministries and state bodies, began to develop the Resolution on the National Security Strategy, submitted to the Government for discussion at the end of 2009. The National Assembly adopted the document on 26 March 2010. The resolution is, in all parts, future-oriented and emphasises a pro-active response by the state to modern sources of threats and risks to national security. This document determines the starting points for strategies concerning the provision and development of national security, as well as calls for substantial changes in the organisation of the national security system and the required upgrading of the system’s management.
+
+ A document relevant to the further planning and implementation of the national security and defence policy is the Strategy on the Participation of the Republic of Slovenia in International Operations and Missions. This document was adopted by the Government at the end of 2009. The above-mentioned strategy provides a framework for taking decisions on participation and defines a general set of capabilities for its implementation.
+
+ In the second half of 2009, the MoD began to prepare the proposal of the Resolution on the SAF’s Long-Term Development and Equipping Programme, up to 2025. This document will provide a basis and framework for the long-term development and equipping of the SAF, ensuring the capabilities that are needed by Slovenia to implement national interests in the defence area. Concerning the defence system’s development, it will increase the efficiency and rationalisation of its use of resources and its limitations in the long-term planning period up to 2025. Despite such circumstances, the SAF will continue with its transformation and adapt efficiently to the changes in the security environment, providing an appropriate level of national defence capability and the ability to contribute to international peace, security and stability in a credible and selective manner.
+
+ 9
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ Slovenia's security and defence policy was implemented in the international environment through contributions to international operations and missions based on a fair and proportionate sharing of the burdens of common security and defence.
+
+ Given its active participation in the UN, EU, NATO and OSCE, as well as other international organisations, regional security and military and defence initiatives, the Republic of Slovenia has attained an appropriate level of security and defence. Slovenia has hence promoted security in the context of collective defence and security through the balanced and planned development of its military and non-military defence capabilities, its selective and responsible contribution to common capabilities and the international activities of NATO and the EU. This was compounded through having achieved an adequate degree of national defence capability and readiness. Defence interests were furthered, in particular, through the enhancement and preservation of international peace, security and stability, with emphasis on the area of South-Eastern Europe.
+
+ International Defence Cooperation
+
+ Activities in the context of NATO
+
+ The MoD, by laying down defence policy guidelines and promoting them through representatives at the Republic of Slovenia’s Permanent Mission to NATO and sessions of NATO working bodies, actively participated in forming the policy of the Alliance and, at the same time, effectively put forward the interests of the Republic of Slovenia within the Alliance.
+
+ In compliance with foreign policy guidelines, the MoD supported the accession and integration of the Western Balkan countries into NATO. Hence, the integration of Croatia and Albania, as well as the granting of the Membership Action Plan to Montenegro, significantly contributed to the stabilisation of and confidence in this region.
+
+ Significant NATO events attended by the MoD were the Informal Defence Ministers Meetings in Cracow in February and in Bratislava in October. Furthermore, a formal meeting was held in Brussels in June and the NATO Summit was held in Strasbourg and Kehl in April. At the latter, Albania and Croatia achieved full membership, the new NATO Secretary General Anders Fogh Rasmussen was confirmed and the decision on initiating the process of forming a new NATO Strategic Concept was taken.
+
+ 10
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ NATO Defence Ministers Meeting (Poland, Cracow)
+ Photo: NATO Public Diplomacy Division
+
+ In sessions of the Conference of National Armaments Directors, the MoD made contributions to the work of the committee which is significant for implementing NATO's transformation in the area of weapons, development and research, and security investments. Significant were also international activities related to achieving interoperability, which were implemented through defence standardisation, identification and codification of supply resources, as well as the quality assurance of technical systems.
+
+ On the basis of decisions, adopted during events and meetings that were attended by the MoD, we began, in the context of NATO, to establish a more responsive structure and flexible way of manning NATO’s Response Forces; a smaller, as well as a more deployable and cost effective command structure and a more integrated defence planning process. We also adopted new and stringent criteria for employing forces (10% sustainable land forces on international operations and missions), saving measures in managing resources as well as decisions on participating in individual multinational projects in consideration of rationalising costs. Among the most prominent are the Alliance Ground Surveillance (AGS) project, the strategic air and sealift, etc.
+
+ One of the major results of the NATO Strasbourg and Kehl Summit was the adoption of the Declaration on Alliance Security which officially launched the process of creating the new Strategic Concept that takes into account the comprehensive political guidance provisions related to the development of military capabilities adopted in 2005. In August, the new NATO Secretary General appointed a group of twelve independent experts to make recommendations on the main priorities of the new Strategic Concept, and this
+
+ 11
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ will be the basis for the final alignment of the document in the framework of the North Atlantic Council at the NATO Summit in the autumn of 2010. The MoD also significantly contributed to the new Strategic Concept as it, on 13 November 2009 at Brdo pri Kranju and in cooperation with the Ministry of Foreign Affairs and the British RUSI Institute, organised the second of four seminars, during which a group of experts (including NATO representatives as well as experts of individual member and partner states) discussed key aspects of the new concept, particularly in the light of a comprehensive approach to operations. At this seminar, Slovenia presented expert opinions on lessons learned during operations and suggestions for improvement. Also, an official document on Slovenia's perspective regarding contents that have to be taken into consideration in the new concept was prepared. The new Strategic Concept will, in its final form, present a framework for the Alliance’s operation over the next decade.
+
+ Seminar on NATO’s New Strategic Concept
+ (Slovenia, Brdo pri Kranju)
+
+ By participating in ISAF and KFOR operations, the MoD made a direct contribution to the achievement of foreign political, economic and other interests of the Republic of Slovenia in the framework of NATO as well as in a broader context.
+
+ Concerning operations, the Alliance focused most of its attention on the ISAF operation in Afghanistan, which remains NATO's priority task. The revised Comprehensive Political-Military Strategic Plan for Afghanistan was adopted and the process of security support to the Afghan presidential elections was successfully carried out. Furthermore,
+
+ 12
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ in compliance with plans to increase Afghan National Security Forces (ANSF), NATO enhanced efforts for their equipping and training. In 2009, the MoD also focused its attention on these areas and hence, it provided forces, capabilities and field assets in order to secure the elections, ANSF training and other civil projects. In the second half of the year, the MoD engaged in many activities associated with the adopted ISAF operational plans. These activities were aimed at informing, consulting and taking political-level decisions concerning the take-over of the command of an Operational Mentoring and Liaison Team (OMLT) for the training of the Afghan National Army (ANA). Slovenia will assume the command of this OMLT in the autumn of 2010.
+
+ In compliance with Slovenia’s defence interests, a major part of its defence capabilities continued to focus on South-Eastern Europe and on the participation in the KFOR operation. In the light of enhancing peace, security and stability in Kosovo, the development of the operation progressed to the point where the Alliance began to gradually decrease its forces, support the performance of new tasks in the field of security sector reform, as well as strengthen its assistance in establishing the Kosovo Security Force (KSF). In addition to tasks related to ensuring a safe and stable environment, the MoD, as part of the Alliance’s operation, provided assistance in training and equipping the KSF, introducing defence reforms in Kosovo as well as in matters related to civil and military cooperation in development projects. In the context of the Alliance’s structures in the Western Balkans, the MoD actively cooperated with NATO HQ Sarajevo and NATO military liaison offices in Sarajevo, Belgrade and Skopje, thereby providing a more integrated approach to asserting Slovenian interests in the region.
+
+ At the end of 2009, as part of NATO’s Civil Emergency Planning (CEP), ministerial guidelines were adopted for the period 2010 - 2013. Slovenia made every effort to enhance cooperation with partners that already significantly contribute to the development of civil emergency planning which will also be included in NATO’s defence planning.
+
+ Activities within the European Security and Defence Policy
+
+ In 2009, the EU structure changed. On 1 December, the Treaty of Lisbon came into force, introducing several innovations in the institutional operation of the EU. The General Affairs and External Relations Council was split into two structures, the Foreign Affairs Council and the General Affairs Council. Herman Van Rompuy was, for two and a half years, appointed first President of the European Council. With the appointment of Catherine Ashton as High Representative for Common Foreign and Security Policy, the EU is entering a new era that will bring about substantive and organisational changes. These will enhance global visibility and ensure both expediency and efficiency with regard to cooperation and coordination with other global players in the areas of security and defence, as well as enable a greater responsiveness to security threats and risks.
+
+ The MoD participated in the development and implementation of the European Security and Defence Policy (ESDP) by increasing its presence and providing concrete initiatives
+
+ 13
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ in EU institutions and bodies as well as its working bodies. We participated in the Informal EU Defence Ministers Meetings in Prague in March and in Göteborg in September, as well as in EU Defence Ministers Meetings in the context of the EU General Affairs and External Relations Council (GAERC) in Brussels in May and November. Opinions, evaluations and contributions on various ESDP substantive issues were prepared and discussed during meetings of the Political and Security Council (PSC). We cooperated on a regular basis with working groups of the Government Office of the Republic of Slovenia for Development and European Affairs, during which discussions were held with the Permanent Representation of Slovenia to the EU and representatives of all ministries on current issues as well as on the viewpoints of Slovenia regarding EU-related issues.
+
+ As with NATO, we continued, in view of strengthening EU military capabilities, to develop concepts and capabilities for conducting international operations and missions with military and non-military components. In this context, emphasis was given to the use of battle groups, the improvement of strategic lift and helicopter transport, maritime traffic control, communications and the use of modern technologies, etc.
+
+ Related to the cooperation with the EU, particular attention was given to the cooperation with the European Defence Agency (EDA). The MoD was involved in the work of the steering committee at the level of armament, capability, research, development and technology directors. The cooperation with the EDA is significant for Slovenia, in particular due to its participation in European development and research programmes. EDA invitations to tenders open up possibilities for the Slovenian development and research bodies to cooperate with traditionally closed Western European bodies in the area of science and technology.
+
+ An EU Crisis Management Exercise (EU CME 09) was carried out with the purpose of evaluating the efficiency of EU crisis management structures and procedures.
+
+ Multilateral Cooperation and Defence Diplomacy
+
+ In implementing the UN defence policy, the Government decision was taken in 2009 to increase the participation of SAF members in international UN missions on the Golan Heights. In addition, a procedure was initiated to conclude a memorandum with the UN on the participation of SAF members in the UNIFIL operation.
+
+ Special attention was also dedicated to the monitoring of the main OSCE activities and the regular reporting on international agreements adopted by Slovenia in the military political area.
+
+ In the field of disarmament and non-proliferation of weapons, the National Assembly, on the initiative of the MoD, adopted the Act on the Ratification of the Convention on Cluster Munitions.
+
+ 14
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ In compliance with Slovenia’s defence interests, as well as in the light of supporting its foreign policy, defence policy in 2009 was directed towards enhancing support for and engagement in a broader area of the Western Balkans, establishing international cooperation with new strategically important countries, as well as providing further support to the Western Balkan countries on their way towards Euro-Atlantic integration.
+
+ A joint declaration, therefore, on enhancing regional cooperation through the regional centres in the Western Balkans (Adriatic Charter A-5) was signed and brought about significant political progress towards the commitment to strengthen the regional cooperation, the exchange of information and the lessons learned related to defence reforms as well as the interoperability with regional centres.
+
+ Supported by the Republic of Slovenia, a new agreement on the operation of the coordination committee was adopted at the ministerial meeting of the SEDM initiative (South-Eastern European Defence Ministerial) that will facilitate procedures for the admission of new members and the operation of its bodies. In the context of implementing the defence policy in the Western Balkans, Slovenia supported the integration of Serbia and Montenegro into SEDM, with both countries becoming full members.
+
+ The MoD also took part in all planned forms of multilateral defence and military cooperation within the SEDM working bodies, the Multinational Land Forces (MLF), the Regional Arms Control Verification and Implementation Assistance Centre (RACVIAC), the Geneva Centre for Security Policy (GCSP), the Quadrilateral and the Stability Pact for South-Eastern Europe.
+
+ Together with the USA, Slovenia continued co-chairing the informal South-Eastern Europe Clearinghouse (SEEC) initiative, in which it, in addition to the six Western Balkan countries (Albania, Bosnia and Herzegovina, Montenegro, Croatia, FYROM and Serbia), cooperates with, approximately, another 30 countries in international organisations. The SEEC initiative is characterised by practicability and concrete projects related to defence reforms in the Western Balkans. An initiative to establish regional centres related to peace support operations, as well as CBRN defence and media training, was adopted.
+
+ The MoD continued redefining the military diplomatic network. The position of the defence attaché in the United Kingdom, also serving as a non-resident attaché for Ireland, was abolished. Also now redundant, albeit temporarily, is the function of the defence attaché in FYROM, with final decisions on this position to be taken in 2010. Furthermore, the MoD began to prepare and supplement regulations that govern the area of selection, training and operation for military diplomatic representatives.
+
+ Bilateral Cooperation
+
+ The Minister of Defence, Ljubica Jelušič, hosted the Minister of Defence of the Republic of Serbia on an official visit to Slovenia in April. In June, July and November she
+
+ 15
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ paid official visits to FYROM, Austria and Croatia. During a visit to SAF members participating in the KFOR operation in Kosovo, she met the Minister of the Kosovo Security Forces for a short working meeting in December. The conference on the occasion of the 60th Anniversary of NATO at Brdo pri Kranju, provided an opportunity to meet the Minister of Defence of Bosnia and Herzegovina.
+
+ The Agreement between the Republic of Slovenia and the Republic of Serbia on Defence Cooperation was concluded and ratified by the National Assembly. Based on an agreement between the Slovenian Minister of Defence and the Minister of the Kosovo Security Forces, procedures for the signature and ratification of the central agreement on cooperation in defence and military areas with the Republic of Kosovo were initiated.
+
+ In order to maintain regular contacts with her counterparts from the neighbouring countries, the Minister of Defence paid a working visit to the Republic of Austria in July. Both ministers dedicated particular attention to defence reforms and the transformation of both armed forces, the political and security situation in the Western Balkans, international operations and missions, as well as the bilateral defence and military cooperation between both countries.
+
+ In order to intensify and strengthen contacts with new, strategically important countries with rapidly growing economies, the Minister of Defence hosted her counterpart from the Federal Republic of Brazil. The high-ranking MoD delegation also paid its first official visit to the People’s Republic of China in May, to enhance partner defence-military cooperation.
+
+ The MoD State Secretary also paid, in the context of bilateral meetings, working visits to the United States of America and the Republic of Serbia. He hosted the MoD State Secretary of FYROM to discuss issues related to defence logistics. At the same time, he joined members of the National Assembly Defence Committee at an emergency meeting that was held in the context of the visit to the SAF KFOR contingent in December in Kosovo and to the Minister of the Kosovo Security Forces. In his talks with high representatives of the above mentioned states, he stressed the importance of further developing and strengthening defence and military cooperation, in particular the area of the defence industry.
+
+ In the area of logistics, the MoD developed cooperation with the Czech Republic, the Republic of Austria and the Republic of Slovakia. Cooperation with the Czech Republic is particularly important in view of exchanging contents and experience related to CBRN defence, as well as 8 x 8 infantry combat vehicles. The cooperation with Austria’s defence industry is a significant part of Slovenia's collaboration with Austria. The MoD began to cooperate with Slovakia in the area of defence standardisation and quality assurance. It exchanged viewpoints and experience related to financial issues with the Croatian Ministry of Defence as well as discussed defence issues with Austria and Hungary. A meeting also took place with representatives of the geo-information service of the Hungarian Ministry of Defence.
+
+ 16
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ 1.1.2 Civil Defence and Crisis Management
+
+ With regard to civil defence and crisis management, the MoD monitored and directed the accomplishment of tasks arising from the Republic of Slovenia’s Government Programme for implementing the country’s Civil Defence Doctrine and the action plan for its implementation.
+
+ Proposals for changes in civil defence were presented that involved the provision of non- military capabilities and measures as well as crisis management in the defence area and any necessary legal changes.
+
+ Slovenia successfully participated in planning the NATO Crisis Management Exercise (CMX 09), which was carried out in March 2010. In planning the joint event, the Republic of Slovenia cooperated with the Republic of Italy. Based on the Government of the Republic of Slovenia’s decision on participating in CMX 09, the MoD was also responsible for preparing the documentation on planning and conducting the exercise in Slovenia. It also took part in preparing the EU Crisis Management Exercise (CME 09), which was conducted at the end of the year.
+
+ In verifying compliance with provisions of the Decree on Defence Plans, it was established that the planning authorities were not always consistent in implementing the provisions that referred to the part of the plan defining the operation of economic and other activities. Hence, in connection with the contents of the Rules on the Equipping of Government Bodies and Other Facilitators of Civil Defence in Defence Area were prepared.
+
+ The MoD also prepared a proposal of new starting points and a plan as well as an overview regarding the capabilities of the National Crisis Management Centre that are employed to ensure working conditions for the state leadership in peacetime, crises and war.
+
+ Government bodies and companies of particular importance to the defence of the Republic of Slovenia have also been offered professional assistance in defence preparations.
+
+ In order to implement the NATO Crisis Response System in the Republic of Slovenia, preparations for national activities were coordinated with bodies responsible for carrying out preparations for crisis response measures. The Slovenian version of the NATO Crisis Response Manual was prepared and submitted to all those responsible for carrying out such preparations.
+
+ In May 2009, the Poljče Defence Training Centre organised the presentation of the research project Definition and Protection of Critical Infrastructure in the Republic of Slovenia. This event was attended by experts on critical infrastructure protection from competent ministries as well as representatives of managers and owners of public or private companies, institutes and organisations whose infrastructure and activities are related to establishing or upgrading critical infrastructure protection in Slovenia.
+
+ 17
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ With regard to the inter-ministerial coordination group for coordinating preparations for critical infrastructure protection in Slovenia, a proposal of the definition of critical infrastructure was designed and a programme for its operation was adopted for the next year.
+
+ The visit of the EU working group for establishing the European Reference Network for Critical Infrastructure Protection (ERN CIP) was organised and carried out. The purpose of this visit was to identify the needs and priority tasks as well as capabilities of member states in this area.
+
+ In providing non-military Host Nation Support (HNS) capabilities, the Memorandum of Understanding between the Government of the Republic of Slovenia and the Supreme Headquarters Allied Powers Europe (SHAPE) was harmonised on providing HNS during the execution of NATO operations and exercises. The harmonised proposal of the Slovenian text was sent to SHAPE in September 2009.
+
+ With regard to cartography and geo-spatial issues, six pages of the Republic of Slovenia’s military and state topographic map (1:50,000) were updated in digital form, for which also a vector data collection has been established. 26 sheets of military topographic maps of Slovenia, which were substantially renewed between 2006 and 2008 as well as harmonised with the last SAF Standard and STANAG issues, have been printed (1:50,000) in 1000 copies. We also monitored the air imaging of Slovenia, and digital ortophoto plans for the southern half of the country were developed. Furthermore, a catalogue of MoD cartographic material for 2009 was prepared and printed, and cartographic materials for preparing SAF members for international operations and missions in Chad and Afghanistan were acquired.
+
+ In response to the request of the NATO Geographic Conference that all Alliance Members participating in the ISAF operation should share the burden of mapping the Afghan area, the MoD took over the development and production of three satellite city maps, all of which were subsequently recommended to other member states as exemplary models by the USA.
+
+ As a body responsible for regulating the defence area, the MoD was also involved in the preparation and procedures of adopting national and local spatial plans.
+
+ 1.1.3 Intelligence and Security Operations
+
+ Key tasks and objectives were related to the provision of adequate intelligence and security support to the SAF in Slovenia and abroad as well as to other national security bodies.
+
+ The priority task, related to intelligence in this period, was to assess the military as well as political and security conditions in the Western Balkans, in particular Bosnia and Herzegovina and Kosovo, and Afghanistan. The Intelligence and Security Service also
+
+ 18
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ focused its operation on other crisis areas, such as those in Africa (Somalia, Chad, the Democratic Republic of Congo and Sudan) and the Middle East (Lebanon), where SAF members are engaged in international operations and missions. It particularly monitored indicators that could impact the threat to Slovenian defence interests or increase the degree of military threat.
+
+ One of the key priority tasks in 2009 was providing efficient intelligence and security support to SAF members in operations. In providing intelligence and security support, the Intelligence and Security Service continued its proactive approach and cooperated with all responsible bodies within the defence system. Likewise, in the framework of the Slovenian national security system, it cooperated with partner intelligence and security services as well as with NATO and the EU.
+
+ The focus of security-related tasks was on detecting, investigating and preventing the security threats to persons, professions, facilities and areas of special importance to the defence of the Republic of Slovenia and abroad.
+
+ In 2009, the cooperation of the Intelligence and Security Service with NATO and the EU continued and was, in certain areas, enhanced. A regular meeting of the directors of intelligence and security services of NATO member states was held at Brdo pri Kranju. The main topics discussed during this meeting were the enhancement of intelligence cooperation as well as intelligence and security support to armed forces members that participate in Allied international operations and missions, in particular those in Afghanistan and the Western Balkans.
+
+ The integration of intelligence, counter-intelligence and security activities in the defence area were continued in accordance with the findings of the Defence Sector Strategic Review concerning intelligence and security activities.
+
+ Our final objective remains the establishment of an appropriate and integrated structure of intelligence and security activity in the defence area, allowing the gathering of intelligence from a whole range of defence resources, and its analysis and dissemination in real time.
+
+ 1.2 Military Defence
+
+ 1.2.1 Establishment of SAF Capabilities
+
+ The main effort of capability building focused on SAF deployable units for operations and SAF mission accomplishment at the national level and in the context of international activities as well as on the establishment of capabilities for conducting command and control functions and air policing in Slovenia.
+
+ Discrepancies in implementing certain goals occurred as a result of reducing military appropriations, resulting from two supplementary budgets.
+
+ 19
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ As a result of the restructuring process, the organisation and accomplishment of military territorial command (MTC) tasks were changed by the end of 2009. The 23rd MTC, 24th MTC, 25th MTC, 32nd MTC, 37th MTC and 38th MTC were all abolished.
+
+ In January 2009, after the successful certification of the Light Battalion Battle Group (LBBG) with limited capabilities on the Grafenwöhr training ground in Germany, a technical agreement was signed on integrating it into the NATO Rapid Deployable Corps in Italy (NRDC-ITA). Conditions for integrating the 18th CBRN Defence Battalion into the NATO Multinational Corps North East (MNC NE) in Poland were also fulfilled.
+
+ The 18th CBRN Defence Battalion and the ROLE 2 LM were certified after accomplishing the SAF exercise SVIZEC 09. As part of the exercise, the national evaluation of the Airspace Surveillance and Control Centre – the 16th Air Surveillance Battalion – was carried out in compliance with TACEVAL.
+
+ Priority in equipping and purchasing new basic equipment was given to those units that provided capabilities in accordance with the adopted international commitments. Four of a total of thirteen medium wheeled armoured vehicles (MWAV 8 x 8) have been launched into operational use in the 74th Motorised Battalion and this will serve as a basis for a future medium-sized battalion battle group.
+
+ Furthermore, equipment for modernising SAF units and equipment used by units for performing operational tasks was purchased and installed. SAF equipment and infrastructure is detailed in the chapter Implementation of the Plan for the Acquisition of Physical Assets.
+
+ 1.2.2 Certification of SAF Units
+
+ All elements of the Light Battalion Battle Group achieved final operational capability with limitations. The Light Battalion Battle Group was evaluated and certified during the SOKOL II exercise in Germany, which lasted over a month. More than 1100 SAF members participated in the exercise that took place from 6 January to 18 February on US training grounds in Germany. Along with the HQs of the 1st Brigade and the 10th Motorised Battalion, as the main units of the Light Battalion Battle Group, another eight modules of SAF units took part in this exercise.
+
+ The exercise was carried out in two parts. The first part of the SOKOL II – GRAF exercise took place at the Joint Multinational Training Command (JMTC) in Grafenwöhr between 13 and 21 January. The purpose of this exercise was to conduct combat training, assess combat readiness according to NATO Combat Readiness Evaluation (CREVAL) requirements and exercise combat firing of the battalion group as well as its individual companies. During this part of the exercise, the Light Battalion Battle Group acquired the certificate of readiness for operating as a whole unit. In the second part of the SOKOL II – HOH exercise, which took place between 24 January and 11 February at the Joint Military Readiness Centre (JMRC) in Hohenfels, the participants trained for NATO crisis
+
+ 20
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ response operations adapted to the situation in Kosovo. The most important part of the HOH Exercise was the period between 6 and 11 February, during which a crisis response operations tactical exercise and a training analysis of the 10th Motorised Battalion for operating in KFOR were carried out at the same time.
+
+ LBBG Certification during the SOKOL II Exercise (Germany, Grafenwöhr)
+
+ In the final analysis of the exercises conducted between 11 and 12 February, supervisors and commanders analysed the course of the exercise and concluded that it had been performed well. This was also confirmed by the Minister of Defence during her visit:
+
+ “The Light Battalion Battle Group has carried out all of its tasks perfectly. At the end of February we will be ready to continue the mission in Kosovo.”
+
+ The entire Light Battalion Battle Group also participated in an exercise with the purpose of establishing the readiness of the 19th Slovenian KFOR Contingent. Part of the certified Light Battalion Battle Group (10th Motorised Battalion and parts of other modules) operated in the framework of the 19th Slovenian KFOR Contingent in Kosovo. In July 2009, the technical agreement on integrating the Slovenian Light Battalion Battle Group into NRDC-ITA was signed.
+
+ In November 2009, the 18th CBRN Defence Battalion and the ROLE 2 LM medical unit were successfully certified and achieved NATO affirmation during the SAF exercise SVIZEC 09. The Ministry of Health of the Republic of Slovenia granted a license in the form of a verification document for conducting medical services in the military ROLE 2 LM medical unit to the SAF.
+
+ 21
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ In 2009, the integration of the SAF into NATO military structures took place as a key and comprehensive process. Progress and activities related to integration continued in all functional areas.
+
+ Training of the Certified 18th CBRN Defence Battalion
+
+ By the completion of the integration process, all of the main tasks had been achieved. Hence, the final operational capability for key SAF units (Light Battalion Battle Group and the 18th CBRN Defence Battalion) in the Alliance and, thus, their integration into the NATO Force Structure has been achieved. Furthermore, integration of the SAF into the NATO Integrated Air Defence System (NATINADS) has been assured, enabling the surveillance of Slovenian air space in compliance with agreements that were adopted within the Alliance.
+
+ Successfully Certified ROLE 2 LM Capability for Providing Health Care
+
+ 22
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ 1.2.3 SAF Military Training and Exercises
+
+ Training and exercises of SAF commands and units were aimed at achieving the planned capabilities of declared units assigned to international operations and missions as well as providing forces for protocol and CIMIC tasks. In the period between 1 January and 31 December 2009, 27 of the most important training courses for SAF units were conducted.
+
+ In the first half of 2009, training was conducted in accordance with prepared SAF unit plans. In the second half of 2009, as a consequence of cost-saving measures, training was carried out in a more selective manner and focused on achieving the planned operational capabilities of certain units.
+
+ Along with the training of active component members, training was also carried out for contract reserve members. The priority task of training was to prepare contract reserve members for deployment on international operations and missions. Forty selected contract reserve members (of the 132nd Mountain Battalion, the 460th Artillery Battalion and the 45th Armoured Mechanised Battalion) took part in special training designed for participation in international operations and missions as part of the 20th Slovenian KFOR Contingent.
+
+ The central SAF exercise SVIZEC 09 took place in November 2009. The objective of the exercise was to certify and affirm the 18th CBRN Defence Battalion and the ROLE 2 LM medical capability, to examine the operation of the command and control (C2) system as well as the units' capabilities in accordance with the adopted NATO Force Goals for the Republic of Slovenia. A total of 990 SAF members took part in this exercise. Along with the exercise, readiness was established through national certification and NATO affirmation. Both activities were successfully carried out and received an excellent evaluation.
+
+ The SAF also participated in a number of rescue and relief exercises. The SAF Air Defence and Aviation Brigade participated in the fire-fighting exercise Požig 2009 that was organised by the Fire-Fighting Association of Slovenia and in which a B-412 and a Cougar AS-532 AL helicopters demonstrated aerial fire-fighting techniques. Exercise Završnica 2009 was carried out with the purpose of examining the training and readiness of the 15th Helicopter Battalion for carrying out rescue and relief operations. In October 2009, SAF units, such as the 1st Brigade/670th HQ Logistics Battalion, the 72nd Brigade/18th CBRN Defence Battalion, the 14th Engineer Battalion and the Air Defence and Aviation Brigade/15th Helicopter Battalion, took part in the Rescue and Relief Days 2009 in Novo mesto.
+
+ 23
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ SAF Cougar (AS-532 AL) Helicopter Demonstrating Aerial Fire-Fighting
+
+ In 2009, the SAF carried out 142 rescue operations for 149 injured people with 116 helicopter rescue operations and 26 helicopter emergency medical operations being carried out. As a total, SAF helicopters logged 181 flying hours with costs of the rescue operations and helicopter emergency medical aid amounting to more than EUR 280,000.
+
+ Helicopter Rescue Operations and Emergency Medical Aid (Bell-412)
+
+ 24
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ 1.2.4 SAF Peace and Wartime Structure
+
+ On 31 December 2009, the SAF peacetime structure was composed of 7,647 active component members. Since the abolition of conscription in 2003, Slovenians do no longer have to enrol for compulsory military service.
+
+ Table 1.2.1: SAF Active and Wartime Structure
+
+ Wartime Status Active Structure* Contract Reserve
+ Structure
+
+1 2 3 = 1 + 2
+
+#### Officers 1,245 34 1,279
+
+ NCOs 2,018 82 2,100
+
+ Soldiers 3,076 1,575 4,651
+
+ Senior military specialist 300 9 309
+
+ Junior military specialist 470 12 482
+
+ Civilian personnel 525 525
+
+ Clerks 13 13
+
+ TOTAL 7,647 1,712 9,359
+
+ Note: * Taken into account were 144 employees assigned to military service positions as laid down by Articles 47 and 48 of the Defence Act.
+
+ On 31 December 2009, the SAF wartime structure consisted of 9,359 service-members, including members of the active structure and the contract reserve.
+
+ Based on the contract reserve manning structure, SAF units consist of 34 officers, 82 non-commissioned officers (NCOs), 1,575 soldiers, 9 senior and 12 junior military specialists.
+
+ As much as 86% of the personnel plan regarding contract reserve members has been implemented. Of the targeted 2,000 SAF members for 2009, 1,712 contract reserve members were assigned to SAF units. In particular, the following units have been fully manned: the 11th Signals Battalion, the 670th HQ Logistics Battalion, the 132nd Mountain Battalion, the 45th Armoured Battalion, the 460th Artillery Battalion, the 14th Engineer Battalion, the 71st and the 72nd HQ Logistics Platoon, the 9th Air Defence Battalion, the 16th Air Space Surveillance Battalion, the 157th Logistics Battalion and the Military Medical Unit. In manning, priority was given to the ROLE 2 LM MTF medical unit.
+
+ In 2009, the first generation of 39 SAF contract reserve members was deployed on an international operation. The 20th KFOR Contingent was manned with reserve component
+
+ 25
+
+|Status|Active Structure*|Contract Reserve|Wartime Structure|
+|---|---|---|---|
+||1|2|3 = 1 + 2|
+|Officers|1,245|34|1,279|
+|NCOs|2,018|82|2,100|
+|Soldiers|3,076|1,575|4,651|
+|Senior military specialist|300|9|309|
+|Junior military specialist|470|12|482|
+|Civilian personnel|525||525|
+|Clerks|13||13|
+|TOTAL|7,647|1,712|9,359|
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ members of the 132nd Mountain Battalion, the 460th Artillery Battalion and the 45th Armoured Battalion. In February, activities were performed concerning the deployment of other groups (30 contract reserve members) to the KFOR operation.
+
+ As part of the education and training process, contract reserve members participated in the following areas:
+ – Officer Candidate School: three members of the contract reserve graduated from the
+ Officer Candidate School (the Military Education and Training Programmes include four contract reserve members).
+ – The NCO School: in 2009, seven contract reserve members were enrolled at the
+ NCO School.
+
+ In 2009, 13 new contracts were signed for the contract reserve service.
+
+ The Commission for the Selection of Contract Reserve Candidates selected 20 candidates with whom contracts will be signed. However, their record lists another 514 candidates who met the formal requirements for concluding contracts for serving in the SAF contract reserve component.
+
+ In the period concerned, 143 annexes regarding the extension of service in the SAF contract reserve have been concluded. Similarly, annexes for all members of the contract reserve, due to the conversion of salary quotients into salary classes, have been undertaken.
+
+ 1.2.5 Voluntary Military Service
+
+ In 2009, 200 of 428 candidates attended the voluntary military service. During the processing phase, 74 candidates resigned and 73 candidates failed to meet the Service’s health requirements or the impunity conditions.
+
+ A total of 254 candidates respectively 127%, with respect to available possibilities in the SAF at the beginning of the year, were sent to voluntary military service. However, 27 candidates could not be sent, as the training group had already been completed.
+
+ A total of 10,605 conscripts born in 1991 were invited to a briefing session for national service personnel. The briefing session was attended by 8,396 military conscripts, almost 79.2% of the planned number. Those who did not attend the briefing session were informed of their obligations and rights with regard to the national service by letter.
+
+ 1.2.6 Cooperation with Civilian Organisations
+
+ In 2009, the cooperation of the SAF with civilian organisations centred mainly on two significant areas. The first one refers to the cooperation with organisations, national societies and associations that are significant to the operation of the Slovenian defence system. The second one refers to the participation of civilian (functional) experts in international operations and missions.
+
+ 26
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ In 2009, the SAF supported 1,242 events related to cooperation. The result of reductions in funding and two supplementary budgets was a lower percentage of the implemented planned tasks. Despite this, the SAF, through directly co-funding the Association of Slovenian Officers, the Association of General Maister Unions and the MoD Retired Personnel Association, provided funds for their operation. As a result, its annual allocation to cooperation with civilian institutions and non-governmental organisations was EUR 735,901.
+
+ In the context of civil-military cooperation in international operations and missions, the SAF increased the number of trained personnel and facilitated the operation of CIMIC groups in various projects, such as in construction works, support to humanitarian activities and cooperation with civilian functional experts. A total of 3 CIMIC groups completed 79 projects as part of Slovenian KFOR contingents in 2009.
+
+ The CIMIC group of the 18th Slovenian KFOR Contingent implemented 12 of 14 proposed projects, the CIMIC group of the 19th Slovenian KFOR Contingent implemented 32 of 45 projects and the CIMIC group of the 20th Slovenian KFOR Contingent implemented 35 of 45 projects.
+
+ 1.3 Participation in International Operations and Missions
+
+ Participation of SAF military capabilities in international operations and missions in 2009 followed the principles listed below:
+ – A uniform pool of forces (mainly formational units). – Directed (with focus on South-Eastern Europe, namely the Western Balkans)
+ and concentrated integration into crisis hit areas (KFOR), taking into account a comprehensive national approach to the participation of civilian functional experts and the use of national advantages (Bosnia and Herzegovina, and Kosovo) in the context of NATO and the EU.
+ – Moderate geographical dispersion (operating in four operational areas). – Greater specialisation in the provision of some niche capabilities (OMLT, LMT and
+ Engineers).
+
+ Participation in international operations and missions was conducted in a routine and coordinated manner. There have been no significant discrepancies in this area. In this context, it is necessary to emphasise the lessons learned and the improvements that were achieved during the international operations and missions of 2009.
+ – Deployment of contract reserve members on international operations and missions
+ was an organisational achievement in managing human resources and demonstrated our operational capability to man formational units as well as handle the formation and manning of task units and specialised elements (KFOR).
+ – The deployment of military specialists, military functional experts and civilian
+ functional experts on international operations and missions demonstrated that individual units and members of the SAF are capable of performing demanding tasks in the context of the Alliance (the SAF, for example, has taken over the
+
+ 27
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ responsibilities of a leading country for providing CBRN support in NRF).
+ – Lessons have been learned in the participation of the SAF in building the military
+ capabilities of Host Nations (for example, in Bosnia and Herzegovina, where the SAF performs mentorship through military functional experts).
+ – SAF members have contributed in carrying out assignments in the command structure
+ as well as increasingly taking over demanding and responsible duties (KFOR)
+ – There has been an increase in the capability of operating with operational support
+ elements, combat service support and command support with the deployment of greater SAF capabilities (Light Battalion Battle Group to KFOR) to international operations and missions.
+ – Regular information is provided to internal and external public on topics such as the
+ training of commands and units prior to their deployment to international operations and missions (in an operational cycle), on activities of the Slovenian contingents during their operation in international operations and missions, as well as on their return to Slovenia. In addition, information is made available by the Military Museum which organises presentations and thematic exhibitions in order to meet this purpose.
+ – Furthermore, progress has been made in conducting a comprehensive approach
+ to operations at the national level with the adoption of the Strategy of Slovenia’s Participation in International Operations and Missions.
+ – Individual SAF units and members have been able to gain and use the lessons learned
+ by foreign armed forces on their international and joint preparations for participation in international operations and missions.
+ – Participation in international exercises allowed the SAF to examine its capabilities
+ and evaluate its ability to operate in a complex environment. Individual SAF units and members performed direct preparations for participation in international operations and missions, as well as for their consolidation with units of partner countries. These turned into regular forms of preparation for participation in international operations and missions.
+
+ 28
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ Table 1.3.1: Overview of SAF Participation in International Operations and Missions in 2009
+
+**No. of**
+
+#### Name of International Operational Operational Rotation Service
+ Operation Forces Area Leadership (Months) Members
+
+**in 2009**
+
+#### UNTSO Middle East UN 12 3[1]
+
+ UNIFIL Libanon UN 6 29
+
+ 6 KFOR Kosovo NATO 794
+ 12
+ Joint
+ Sarajevo,
+ Enterprise HQ NATO,
+ Skopje, NATO 6 8
+ MLO
+ Belgrade
+
+ ISAF ISAF Afganistan NATO 6 152
+
+ ATALANTA EUNAVFOR Djibouti EU 6 1[2]
+
+ Bosnia and ALTHEA EUFOR EU 6 49 Herzegovina
+
+ CHAD/CAR EUFOR Chad EU 6 15[1]
+
+ TOTAL 1,037
+
+ Note: 1 – Deployment in 2008, which ended in March 2009 2 – Deployment in October 2009
+
+ In 2009, 1,037 SAF members were deployed on international operations and missions, which constitutes 6.4% of the SAF land component members. The overview of the SAF participation in international operations and missions in 2009 with regard to the medium average value is shown in Table 1.3.1.
+
+ Table 1.3.2: Average Number of SAF Participants in International Operations and Missions between 1997 and 2009
+
+ Year 1997 1998 1999 2000 2001 2002 2003
+
+ Number of 57 36 108 97 99 69 174 Participants
+
+ Year 2004 2005 2006 2007 2008 2009
+
+ Number of 199 238 284 542 456 512 Participants
+
+ 29
+
+|Name of Operation|International Forces|Operational Area|Operational Leadership|Rotation (Months)|No. of Service Members in 2009|
+|---|---|---|---|---|---|
+|UNTSO||Middle East|UN|12|31|
+|UNIFIL||Libanon|UN|6|29|
+|Joint Enterprise|KFOR|Kosovo|NATO|6 12|794|
+||HQ NATO, MLO|Sarajevo, Skopje, Belgrade|NATO|6|8|
+|ISAF|ISAF|Afganistan|NATO|6|152|
+|ATALANTA|EUNAVFOR|Djibouti|EU|6|12|
+|ALTHEA|EUFOR|Bosnia and Herzegovina|EU|6|49|
+|CHAD/CAR|EUFOR|Chad|EU|6|151|
+|TOTAL|||||1,037|
+
+|Year|1997|1998|1999|2000|2001|2002|2003|
+|---|---|---|---|---|---|---|---|
+|Number of Participants|57|36|108|97|99|69|174|
+|Year|2004|2005|2006|2007|2008|2009||
+|Number of Participants|199|238|284|542|456|512||
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ In 2009, a monthly average of 512 SAF members is calculated with regard to the number of SAF members in individual SAF contingents participating in international operations and missions.
+
+ 1.3.1 UN Operations
+
+ Within the framework of the UN, the SAF took part in two operations in the Middle East. As a part of the United Nations Interim Force in Lebanon (UNIFIL), the SAF contributed one squad-level unit and staff for the operational command. It also contributed three military observers to the United Nations Truce Supervision Organisation (UNTSO) along the border areas of Israel, Lebanon and Syria.
+
+ 1.3.2 EU Operations
+
+ Through its long-standing participation in Operation ALTHEA (and prior to its transition from NATO-led SFOR to EUFOR), the SAF significantly contributed to the promotion of security and stability in Bosnia and Herzegovina. The current mandate of ALTHEA is mainly completed. Hence, it is planned to transform this operation into a training and mentoring mission for the Bosnian Armed Forces and Ministry of Defence. In line with the anticipated transformation of ALTHEA, the SAF prepared a proposal concerning the reorganisation of its forces participating in the operation. In 2009, the SAF contributed two liaison groups (EUPIC) to the EUFOR Command, alongside a transport aircraft and crew. The Slovenian contingent received support by two national support elements and a national intelligence cell. As a total, the SAF contingents each consisted of up to 26 participants. The operational focus was on the maintenance of a stable and safe environment, and the transfer of military matters to the responsible national authorities.
+
+ A liaison officer was assigned to the ATALANTA EUNAVFOR Operational HQ in the Gulf of Arden, Somalia, in October 2009. The SAF completed its operation in the Chad/ CAR operation in March 2009.
+
+ 1.3.3 NATO Operations
+
+ Participation in the KFOR operation remains the main task of the SAF, since peace, security, stability and development in the Balkans are of particular interest to Slovenia and the entire international community. In 2009, the SAF participated in the operation with a Battalion Battle Group consisting of up to 390 SAF members. In the second half of the year, this unit embarked on more extensive tasks and responsibilities within the Multinational Task Force – West (MNTF-W). In 2009, the SAF contributed a monthly average of 397 participants to KFOR. In the KFOR context, the SAF performed an active and important role in civil-military cooperation, where it gained a reputable name and a high degree of trust through its CIMIC group.
+
+ 30
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ Enhancing Peace, Security and Stability as well as Fostering Development in the
+ Western Balkans (Kosovo)
+
+ The development of events in Afghanistan has been intensive, especially those occurring in the context of the NATO ISAF operation. At the beginning of the year, attention was directed towards the preparation and conduct of the presidential elections as well as the formation of a new Allied Strategy concerning Afghanistan and Pakistan. This strategy included the deployment of additional forces in this operation.
+
+ Establishing Trust between SAF Troops Participating in ISAF and Afghan Locals
+
+ 31
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ The SAF adapted to all these challenges and hence, it deployed an INFOOPS group to the operation during the elections and launched preparations that, in 2010, will lead to taking over the command of the Operational Mentoring and Liaison Team (OMLT). Although the structure, scope and tasks of the contingent have not significantly changed in ISAF, the SAF has increased its participation in the combat support provided to OMLT and HQ structures, where one-time 6-month deployments have been carried out. As a whole, the SAF provided up to 84 participants to individual contingents.
+
+ Preparations for Assuming the Command of OMLT in ISAF (Afghanistan)
+
+ 1.3.4 Non-Military Capabilities and Civilian Functional Experts
+
+ Non-military capabilities were also provided for international operations and missions. Three civilian functional experts took part in international operations and missions as part of the 19th and 20th Slovenian KFOR Contingent in Kosovo, participating in the establishment of disaster management capabilities with an emphasis on fire safety and fire-fighting (12 months) as well as working in the area of agriculture (3 months). Another civilian functional expert was assigned to the CIMIC Centre in ISAF’s PRT Herat in Afghanistan. Through recognised projects offering assistance to the local authorities and population, Slovenia was able to efficiently participate in international operations and missions in the defence area on a par with other members of the Alliance.
+
+ 32
+
+
+-----
+
+#### AREA OF DEFENCE
+
+ Civil–Military Cooperation (CIMIC) in the Local Environment (Kosovo)
+
+ In 2009, 11 new civilian functional experts were trained in accordance with national criteria. Likewise, a total of 90 civilian functional experts were trained in accordance with NATO criteria.
+
+ Given the findings of the Defence Sector Strategic Review, a draft has been prepared on amendments and supplements to the Decree on Participation of Civilian Experts and Capabilities in International Operations in Defence Area. Based on this, other executive regulations and SOPs will be prepared for the provision of civilian functional experts on international operations and missions.
+
+ 33
+
+
+-----
+
+### 2 PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+#### Administrative and professional tasks of protection, rescue and relief as well as other tasks regarding the protection against natural and other disasters are performed by the Administration of the Republic of Slovenia for Civil Protection and Disaster Relief (ACPDR) and its branch offices.
+
+ 2.1 Prevention Activities
+
+ Prevention activities are of utmost importance for effective protection against disasters. The scope, planning and coordination of prevention activities differ from area to area. In preparing horizontal legislation, the ACPDR strives for consistent consideration of preventive measures and monitors their implementation. Particular attention is dedicated to prevention activities within the ACPDR primary responsibility, i.e. protection against fire and protection against drowning.
+
+ In 2009, the following activities were carried out in the field of fire protection:
+ – A total of 1,708 documents were issued on project requirements and fire permits for
+ project solutions as part of the approval process for building permits for facilities subject to prescribed fire protection studies and the issuance of guidance and opinions on physical planning documents.
+ – A total of 99 authorisations for contracting parties including regulations on specific
+ fire protection tasks were issued.
+ – The approach to taking a particular part of the professional examination was revised. – Several activities were carried out to improve the qualification level of expert workers
+ and persons authorised to carry out fire protection measures. Related materials were prepared and three consultation sessions were organised on Fire Safety in the Third Age and on Integrated Active Fire Protection Systems. All activities were carried out in the framework of the ‘Fire Protection Month’.
+ – The consultation sessions on fire regulations, fire plans and fire evacuation were
+ repeated and attended by more than 1,000 participants.
+ – Activities for including fire protection-related contents into educational study
+ programmes were initiated at individual faculties.
+ – Activities concerning changes to the Fire Protection Study were carried out. – Expert documents on hot work processes that serve as the bases for systematically
+ regulated measures were prepared.
+
+ As regards protection against drowning, two documents were adopted: the new Instructions for the Work of the Examination Committee for Water Rescuers and the Examination Committee Criteria for Evaluating the Knowledge of Water Rescuers. Furthermore, the annual training of the examination committee for evaluating the training level of water rescuers was carried out.
+
+ 34
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ 2.2 Preparedness
+
+ 2.2.1 Monitoring, Notification and Alerting
+
+ Operational and communications tasks regarding monitoring, notification and alerting are carried out by the National Notification Centre (NNC) and 13 regional notification centres responding to the emergency call number 112.
+
+ The NNC provides daily information for the public on events in the area of protection against natural and other disasters. It regularly updates the graphical overview of events that have occurred over the last 24 hours on the ACPDR website. Furthermore, it prepares a daily bulletin that is disseminated to more than 120 addressees and publishes information on the TTX-page of the Television Slovenia as well as the ACPDR website. NNC’s duty officers give daily live reports on the most significant events of the previous day on Radio Slovenia 1. In case of emergency or imminent threat thereof, the NNC prepares special- edition bulletins. A total of 26 special-edition bulletins were prepared in 2009.
+
+ An overview of protection, rescue and relief units as well as the number of participants in emergency response operations during individual events are shown in Table 2.2.1.
+
+ Table 2.2.1: Overview of Protection, Rescue and Relief Units Participating in Particular Emergency Response Operations
+
+ No. of Emergency
+ Type of Unit Response No. of Participants
+ Operations
+
+ Ecological Laboratory with a Mobile 2 4 Unit
+
+ Technical Diver Unit 1 5
+
+ Technical rescue Unit 17 109
+
+ Dog Handler Units 60 367
+
+ Surface and Subsurface Water rescue 17 55 Units
+
+ Units for Protection against UXO 363 592
+
+ Mountain Rescue Service 427 3,234
+
+ Cave Rescue Service 8 47
+
+ Professional Fire-Fighting Units 6,775 27,044
+
+ Volunteer Industrial Fire-Fighting 44 211 Association
+
+ Volunteer Territorial Fire-Fighting 9,472 71,985 Association
+
+ 35
+
+|Type of Unit|No. of Emergency Response Operations|No. of Participants|
+|---|---|---|
+|Ecological Laboratory with a Mobile Unit|2|4|
+|Technical Diver Unit|1|5|
+|Technical rescue Unit|17|109|
+|Dog Handler Units|60|367|
+|Surface and Subsurface Water rescue Units|17|55|
+|Units for Protection against UXO|363|592|
+|Mountain Rescue Service|427|3,234|
+|Cave Rescue Service|8|47|
+|Professional Fire-Fighting Units|6,775|27,044|
+|Volunteer Industrial Fire-Fighting Association|44|211|
+|Volunteer Territorial Fire-Fighting Association|9,472|71,985|
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ 2.2.2 Information and Communications System
+
+ The ACPDR took an active part in recasting the Act on Electronic Communications. This act determined new possibilities for 112 emergency calls in the form of SMS and video calls, which are designed especially for the equal opportunities of deaf and hard-of- hearing persons. The original Slovenian technical solution of WAP 112 SMS emergency calls was awarded by the European 112 Foundation and the European Emergency Number Association. The above-mentioned act also includes mandatory promotion of the 112 emergency call number at all operators and providers of public telephone services.
+
+ The majority of the communication nodes in regional notification centres were replaced with terminal equipment for receiving 112 emergency calls and other equipment. Hence, it will be possible to introduce new services and provide a more effective exchange of information with other services. Consequently, this will result in shorter rescue times.
+
+ Representatives of the ACPDR participated in the inter-ministerial group for introducing a unified digital radio network of state bodies according to the TETRA standard that should be operational before 2013.
+
+ The public alert system was modernised in compliance with the newly changed plan that envisages the completion of the renewal by the end of 2015. Between 2007 and 2009, the public alert systems were replaced in all larger cities as well as in areas of particular importance, such as the wider surrounding area of the Krško Nuclear Power Plant.
+
+ The project of introducing the next generation of communication solutions for mountain rescue operations U-2010 has been successfully completed. Users who tested individual solutions that had been developed in the context of this project considered them adequate and valuable assets.
+
+ 2.2.3 Operational Planning
+
+ Emergency response plans provide for an organised and coordinated operation to avoid the disasters or minimize their consequences, and the rapid provision of basic life conditions after a disaster. In 2009, the following plans were prepared:
+ – Draft revised plan for any massive outbreak of contagious animal diseases. – Draft revised plan for events of nuclear or radiological disasters. – Draft plan in the event of contagious human diseases. – Plan in the event of aircraft accidents (version 4.0). The plan was adopted in July
+ 2009.
+
+ Emergency response plans for individual disasters are also prepared by responsible planning authorities at the regional, local and installation levels. In 2009, activities of various drafting authorities for emergency response plans in the event of earthquakes, large-scale fires in the natural environment, accidents in the Trojane tunnels and ski lift accidents were coordinated.
+
+ 36
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ 2.2.4 Protection, Rescue and Relief Forces
+
+ Activities were mainly concentrated on preparing by-laws and adapting the organisation of various rescue services and units to the requirements of and changes in legislation.
+
+ In addition to the Regulation on Registering, Regrouping and Activating of Civil Protection (CP) Members and other Protection, Rescue and Relief Forces, a Decision on the Organisation of CP Units, Services and Bodies at the National and Regional Levels was adopted. This document determines the criteria for organising and equipping CP units, services and bodies at the national and regional levels, as well as the criteria for the organisation and equipping of the national rapid response unit.
+
+ At the national level, efforts were directed towards the establishment, the personnel and materiel, as well as the planning and training of a psychological support team, the establishment of a modular organised national rapid response unit, a special service for the support and conduct of special tasks concerning protection, rescue and relief during environmental and other disasters at sea, a technical rescue team with special working machines and devices as well as the reorganisation of the unexploded ordnance disposal unit.
+
+ At the end of 2009, protection, rescue and relief units consisted of 789 professional members, 45,656 volunteer members and 2,133 members of compulsory service units at the national level.
+
+ Chart 2.2.2: Record of Protection, Rescue and Relief Units’ Members by Regions at the End of 2009
+
+ By the end of the year, the CP record listed 48,578 protection, rescue and relief force members. The Chart 2.2.2 shows the situation across all regions.
+
+ The ACPDR began concluding contracts on service in CP with members of units that are assigned to perform country-wide specialised protection, rescue and relief tasks that require special expert knowledge and special qualifications, and are also intended for the relief provided to other countries. The ACPDR concluded priority contracts on
+
+ 37
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ CP service with 68 individuals of various profiles. These contracts came into effect in November 2009.
+
+ A new formation of the unexploded ordnance (UXO) disposal unit was established. Thus, individual units are no longer under regional responsibility. The formation was manned with 49 members. Certain additional security measures were carried out as well as the improvement of physical protection at temporary UXO storage facilities. By November 2009, unexploded ordnance from all regions was destroyed.
+
+ 2.2.5 Providing Conditions for the Operation of Protection, Rescue and Relief Forces
+
+ A total of 71 contracts on co-financing activities have been concluded and implemented with organisations that participate in protection, rescue and relief.
+
+ For the purpose of modernising the protection and rescue equipment of volunteer fire- fighting associations, a total of 796 contracts totalling EUR 1,770,200 were concluded.
+
+ In previous years, based on a special programme designed in 2001, national material reserves for the event of natural and other disasters were built up. In 2009, when the programme was completed, material resources and equipment for disaster relief during floods, weather-related disasters, outbreaks of contagious diseases, mass disasters, and for temporary housing were purchased.
+
+ According to the annual protection, rescue and relief units equipping programme and the available financial assets, the required personal and collective equipment was purchased in 2009. The ACPDR handed over a special vehicle to the Jesenice fire-fighting rescue service to be used for emergency rescue in the event of accidents in the Karavanke tunnel. The Celje professional fire-fighting unit received the first trailer equipped with reserve protection and rescue equipment, reserve protection, rescue and relief tools, and reserve medical supplies.
+
+ In cooperation with the Institute of the Republic of Slovenia for Commodity Reserves, means of personal protection in the event of nuclear and radiological disasters in the value of EUR 800,000 were purchased.
+
+ As part of the funds from the fire-tax, five public tenders and 39 procedures for minor public invitations to tender were implemented in 2009. Public tenders for co-financing fire-fighting vehicles for western Slovenia (the Kras) in the amount of EUR 205,000 and for co-financing the training of operational volunteer fire-fighters in the amount of EUR 474,000 were also conducted.
+
+ 2.3 Disaster Response and Damage Assessment
+
+ Last year was marked by weather-related disasters: a storm with floods in Primorska in March, storm winds and hail in northern and north-eastern Slovenia in June, a hail storm in central Slovenia and Štajerska in July, heavy rainfall in August, and floods in December.
+
+ 38
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ Storms and heavy rainfall on 3 and 4 August 2009: As a consequence of heavy rainfall, two successive natural disasters caused relatively large damage to north-eastern Slovenia. A total of 131 fire-fighting units with 2,892 operational members were involved in mitigating the consequences. Some municipalities activated CP operational HQs and others CP units and services. The mitigation of consequences involved 22 public services with 62 employees, 31 construction companies and entrepreneurs with 136 employees as well as 235 citizens - volunteers.
+
+ Floods between 22 and 26 December 2009: By the end of the year, floods affected the area of 46 municipalities in the Gorenjska, Littoral, Notranjska, Ljubljana, northern Primorska, western Štajerska, Posavje and Zasavje regions. As water levels and river discharges reached critical levels, professional and volunteer fire-fighting units, municipal, road and other services, such as water management companies, were activated in individual areas. In the most affected municipalities, CP HQs as well as other services and organisations, in particular those that manage various types of infrastructure, such as the Telekom telephone company and the Drava and the Sava Rivers Hydro Power Plants, were activated. All activities in the affected areas were carried out in cooperation with the ACPDR, which provided 44,600 sandbags to the affected municipalities. A total of 2,365 fire-fighters and 284 fire-fighting vehicles participated in these emergency response operations.
+
+Fortunately, although the damage was fairly high, these disasters did not claim any casualties.
+
+#### Floods in the Krško Basin
+ Photo: Jakob Oražem
+
+ The material damage caused during the storm and floods of 30 March 2009 in the municipalities Ajdovščina, Miren - Kostanjevica, Nova Gorica, Renče - Vogrsko and Vipava amounted to EUR 1,985,300. The storm, rain, strong winds and hail of 16 June 2009 affected several municipalities in the Pomurje and eastern Štajerska regions, as well as a smaller number of municipalities in the Drava and Koroška regions. A total of 2,451
+
+ 39
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ persons reported damage to property on 16 June 2009. The total damage was assessed at EUR 3,397,783.91. The hail storm of 9 and 10 July affected three municipalities in Ljubljana and five municipalities in the western Štajerska region causing EUR 2,043,939.35 of damage to property and EUR 3,400,603.02 of damage to water courses. A total of 244 persons reported damage.
+
+ A storm with heavy rain, winds and hail in the night from 3 to 4 August 2009 caused EUR 6,473,094.40 of damage to 1,884 victims.
+
+ The AJDA application for damage assessment during natural disasters was upgraded, including information from the register of buildings and land cadastre that will allow for a quicker and more detailed inventory of facilities and crop damage. The ACPDR was awarded for the above-mentioned application by the Ministry of Public Administration for good practice.
+
+ 2.4 Education, Training and Assessment of Training Level
+
+ 2.4.1 Education and Training
+
+ The most important tasks in 2009 were updating programmes, introducing new forms of functional training, providing personnel, spatial, material and other conditions for the operation of the Training Centre for Civil Protection and Disaster Relief, as well as informing the population on measures to be taken during disasters.
+
+ Training Centre for Civil Protection and Disaster Relief in Ig
+ Photo: Jakob Oražem
+
+ 40
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ More than 24,000 participants attended various forms of education, training and other activities (18,585 persons at the Training Centre for Civil Protection and Disaster Relief in Ig, 5,064 persons at the Centre’s training unit in Pekre and 486 persons at the unit in Sežana).
+
+ All planned forms of educating and training members of various protection, rescue and relief forces were attended by the anticipated number, except the training of members of units for protection against UXO, which had been adjourned due to a break-in to a storage facility.
+
+ In 2009, several new programmes were adopted: the Programme for the Introductory and Basic Training of CP Commissioners, the Programme for the Basic Training of Cave Rescuers, the Advanced Training Programme - Protection and Rescue Application, and the Programme for Training Committee Members for Assessing Damage Caused to Facilities. Furthermore, the Training Programme for Water Rescue for the requirements of the CP, fire-fighters and other protection, rescue and relief forces, as well as the Advanced Training Programme for Fire-Fighters for High and Low Altitude Rescue in Urban Environments were prepared and are in the process of being adopted. Moreover, assistance was provided to the Slovenian Fire-Fighting Association, mountain rescuers, cave rescuers and other rescue services and organisations in harmonising their training programmes with the Methodology of Preparing Protection, Rescue and Relief Education Programmes.
+
+ Five courses were also held for members of the CP modules of the EU member states. These courses were carried out by Slovenia in cooperation with Germany and Croatia in accordance with the provisions of the European Commission tender. The Training Centre for Civil Protection and Disaster Relief in Ig presented itself at the third EU Civil Protection Forum in Brussels in November. Presented were the fire-fighting school as well as fire-fighting education and training units.
+
+ The most demanding task was the preparation of a higher education fire-fighting programme for the acquisition of the professional title officer fire-fighter. The programme will serve as a publicly valid study programme.
+
+ In February 2009, the General Education Expert Council adopted a curriculum for the optional subject of protection against natural and other disasters in line with the primary school education programme. Thus, the conditions for launching the implementation of the optional subject in the last three years of primary school in the school year 2010/2011 were fulfilled. Also prepared was a programme for training future teachers. In addition, topics for a methodological manual that will help teachers in teaching this optional subject were selected. In 2010, the subject will become part of the list of optional subjects and offered to primary school pupils.
+
+ 41
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ Maintenance work in the Pekre training unit was carried out to meet the requirements of fire-fighter training: At the Sežana training unit, renovation works started in May and are likely to be completed by the end of 2010. The number of training courses was smaller than in 2008 as, since May 2009, the Sežana centre did not provide conditions for training. Consequently, planned training was carried out by the Training Centre for Civil Protection and Disaster Relief in Ig.
+
+ All planned information and training activities related to protection and rescue of the population as well as preschool and school children were carried out. In February 2009, a regional selection of the best literary and fine art works was completed as part of the contest Natural and Other Disasters – 112 Emergency Call. The national selection concerning the same contest was completed in March. For the school year 2009/2010, an invitation for a literary and fine art works contest on the theme of Animals and Disasters was published.
+
+ Instructional games for preschool and school children were prepared for publication in youth publications. Websites for children were also updated and a new children's book, Ježek Snežek and the Flood, was published.
+
+ Opportunities to enhance knowledge and skills in the area of protection against disasters were also exploited during public events, such as at the children’s bazaar, the third age festival, the national examination of the training level of the CP and Red Cross first aid teams as well as during regional events.
+
+ A comprehensive overview of activities was presented to the inhabitants of Novo mesto and its broader surrounding area at the Third Protection and Rescue Days 2009. During this three-day event between 15 and 17 October, members of the rescue services, CP associations and organisations, as well as the SAF and the Police, which are included in the System of Protection against Natural and Other Disasters, presented their organisation, equipment and training for carrying out efficient disaster response. More than 4000 children participated in the activities that were designed for preschool and school children. In addition, two expert consultations were conducted with mayors on the topic of implementing organisational changes concerning protection and rescue, and with Slovenian primary school headmasters regarding their commitments to preparedness for disasters as well as concerning the related optional subject.
+
+ 2.4.2 Assessment of Training Level and Exercises
+
+ In the area of protection against natural and other disasters, two exercises of national significance were carried out in 2009.
+
+ Exercise KARAVANKE 2009 took place in Jesenice in May. The scenario was that a severe traffic accident had occurred in the Karavanke road tunnel, approximately three kilometres from the entrance on the Slovenian side. The accident involved several cars. A large number of people were injured and one car had burst into flames. In the tunnel,
+
+ 42
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ a large column of vehicles was trapped, among which there was also a truck loaded with dangerous substances. A total of 432 acting participants and 255 support personnel (actors, evaluators, observers and journalists etc.) took part in this exercise.
+
+ The exercise proved that the concept for renewing protection and rescue in the event of disasters in longer single-tube road tunnels is adequately designed. As a result, the regional response plan in the event of tunnel accidents in the Gorenjska region was revised accordingly.
+
+ Exercise KRKA 2009 took place in October in the framework of the Protection and Rescue Days event in Novo mesto. According to the scenario, a wet road and the inappropriate speed of a local bus carrying a driver and 13 passengers led to the vehicle breaking through the protection fence on the Šmihelj bridge and falling into the Krka river. Six passengers managed to escape through broken windows and saved themselves by climbing onto the roof of the bus, two passengers managed to swim to the right bank of the Krka river, four persons remained trapped in the bus and two passengers fell into the water and drowned.
+
+ The purpose of the exercise was to fully examine the planning process, preparedness for and response of the protection, rescue and relief forces to a mass traffic accident along a river. This exercise also included the management authorities, the health system, the Police, the SAF and other capabilities. A total of 179 acting participants and 219 support personnel (actors, evaluators, observers and journalists etc.) took part in this exercise.
+
+ Along with these two exercises, another two major exercises were conducted. The regional exercise CERKNO 2009, with ski lifts, took place in November. The purpose of this exercise was to test the work and conduct of the forces managed by the SC Cerkno ski slope operator as well as other protection and rescue forces that would assist in the event of a ski lift accident.
+
+ The international exercise BUDVA 2009 (Montenegro), which was based on an earthquake scenario, was organised in the context of the Disaster Preparedness and Prevention Initiative for South-Eastern Europe (DPPI SEE). The exercise aimed at examining the procedures of deploying rescue teams to another country and the joint operation of South-Eastern European units in an affected country.
+
+ The exercise was attended by the Slovenian unit for urban rescue, the unit for high altitude rescue and the leadership which consisted of employees of the ACPDR. Experience gained during this exercise contributed to the completion of the formation of the unit (module) for urban search and rescue (MUSAR) which Slovenia will include in the EU civil protection database.
+
+ 43
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ Slovenian Urban Rescue Unit in Montenegrin Settlements
+ during the BUDVA 2009 Exercise
+ Photo: Janez Melanšek
+
+ 2.5 International Cooperation
+
+ International cooperation is one of the basic tasks of the System of Protection against Natural and Other Disasters.
+
+ Bilateral Cooperation
+
+ In accordance with bilateral agreements, Slovenia cooperated intensively with the neighbouring countries, particularly in the bordering area. Slovenia continued productive cooperation in the field of education and training with the Kingdom of Sweden and the Republic of France. Several joint fire-fighting training courses took place and experience was also exchanged in other fields. A formal agreement on cooperation with the new Swedish Civil Contingencies Agency was signed. Also, cooperation with the Federal Republic of Germany intensified, above all in the framework of EU projects. Cooperation with the Western Balkan countries took place in the way of sharing Slovenia’s experience with countries in the region.
+
+ Cooperation within the EU
+
+ In the framework of EU civil protection, work took place in the competent working group of the EU Council in the preparation of documents concerning civil protection, in implementing tasks in the context of comitology and in the coordination of disaster response. Through the European Commission Monitoring and Information Centre, assistance was provided in the event of natural and other disasters within the EU and to
+
+ 44
+
+
+-----
+
+#### PROTECTION AGAINST NATURAL AND OTHER DISASTERS
+
+ the third countries. In response to the L'Aquila earthquake in Italy, Slovenia posted an expert for assessing the damage caused to buildings. The Slovenian expert was part of an EU expert group. During the Indonesian earthquake, a Slovenian rescue dog handler team provided assistance as part of the International Rescue Dog Organisation. During the outbreak of the flu epidemic, financial assistance was provided through the World Health Organisation to Ukraine for the purchasing of medicines in cooperation with the Ministry of Foreign Affairs of the Republic of Slovenia. Fifteen experts and members of the protection, rescue and relief forces took part in planned EU training courses. Units, observers and experts also participated in the following exercises EU HUNEX DECHATLON, EU DANUBIUS and SweNor EX 2009, as well as in the implementation of the EU projects PIS.A.R.T.E and SERM.
+
+ According to the Treaty on the Functioning of the European Union, which came into force at the end of 2009, CP has assumed a position equal to other Union’s policies and internal actions.
+
+ Multilateral Cooperation
+
+ For representatives of South-Eastern European countries, basic hot fire training was carried out in Ig, and Slovenian instructors conducted cave rescue training in Montenegro.
+
+ In the NATO context, numerous discussions took place on the new NATO Strategic Concept. In relation to protection against natural and other disasters, Slovenia expressed its viewpoint regarding NATO's role in disaster response. Furthermore, Slovenia took an active part in the development of the Ministerial Guidelines for the period 2010 - 2013 which were adopted at the end of the year.
+
+ 45
+
+
+-----
+
+### 3 NORMATIVE AND OTHER ACTS
+
+#### The adoption of 12 implementing regulations was planned for 2009 (7 under the responsibility of the Government and 5 under the responsibility of the MoD) in accordance with the RS Government Work Programme for 2009 (RS Government Decision, No. 00404-4/2008/57 dated 24 December 2008). Seven implementing regulations were adopted and published in the RS Official Gazette. Within this period, 13 implementing regulations were prepared by the MoD. These, however, were not included in the RS Government Work Programme for 2009, since the requirement for their adoption occurred only in the course of the year 2009. Concerning the RS Government Work Programme, only five implementing regulations had yet to be implemented. This did not, however, have a negative impact on the legal regulation of the areas that were governed by it.
+
+ The normative field centred on the further harmonisation of implementing regulations to legal novelties, that is in the working area of the MoD as well as other ministerial areas. To a lesser extent, changes were related to the introduction of the European legal order into the legal order of the Republic of Slovenia.
+
+ With regard to the subject matter, the Regulation on the Methodology for Preparing and Managing Defence Related Investment Documentation in greater detail necessitated procedures for preparing and managing investment documentation in the defence area. In this context, common starting points have been considered that are determined by the Regulation on Uniform Methodology for the Preparation and Management of Investment Documentation concerning Public Finances.
+
+ In compliance with the Rules Supplementing the Procedures for the Registration and Designating of MoD Motor Vehicles, Aircraft and Watercraft, certain technical issues related to painting military vehicles have been settled. The rules were amended again by the end of the year.
+
+ The new Rules on Implementing Commitments to the President of the Republic in the Defence Area simplified the procedures for informing and advising the President of the Republic on the defence matters.
+
+ The Regulation Amending and Supplementing the Regulation on the Contract Reserve Service in the SAF harmonised the age limits of men and women serving in the SAF contract reserve. Furthermore, payments for this service were adapted to the public sector salary system (salary classes) and the amount of the long-service bonus was changed.
+
+ The Rules on Equipping State Bodies and other Civil Defence Contractors in the Defence Area determined, in particular, the criteria for purchasing, storing and using the equipment of civilian experts for conducting assignments on international operations and missions.
+
+ 46
+
+
+-----
+
+#### NORMATIVE AND OTHER ACTS
+
+ The Military Code of Ethics of the SAF determines the basic ethical guidance and principles of the SAF operation as a military organisation. It also defines certain basic principles of performing military service in accordance with the starting points of the Service in the SAF Act.
+
+ Certain solutions regarding the organisation, implementation and provision of military aircraft flight security related to the Aviation Act were amended and harmonised through Rules on Military Aircraft Flights.
+
+ One of the most significant legal acts adopted in 2009 was the new Rules on the Service in the SAF. Given the premises that were brought about in particular through the SAF Service Act, new rules govern general principles of performing military service, conduct, behaviour and relations in the SAF, including the procedures for establishing disciplinary liability and liability for damages. A significant new feature, in comparison with the current arrangement, is a new chapter that governs the readiness and general rules of the SAF operating in international operations and missions.
+
+ The Rules Amending and Supplementing the Rules on Scholarships in the SAF partially changed the criteria for acquiring a scholarship as a result of experience gained in the area of granting scholarships for SAF requirements. Along with this, scholarships for education at foreign military academies were also regulated by law.
+
+ The Decree on Certification for Participation in NATO Invitations to Tender (in accordance with NATO documents on procurement) determines the responsibilities and procedures as well as the most important conditions for issuing certificates of eligibility for companies in the Republic of Slovenia to participate in NATO invitations to tender, its agencies and member states. This document also deals with the adequacy of certificates for the register of NATO agency suppliers.
+
+ Taking into account sources of threats and risks as well as the situation in the area of protection against natural and other disasters, achieved through implementing the national programme of 2002, the RS National Assembly adopted, in July, the Resolution on the National Programme of Protection against Natural and Other Disasters between 2009 and 2015. This document determines relevant goals, policy and strategy in the next mid-term period.
+
+ The amended Regulation on the Organisation, Equipping and Training of Protection, Rescue and Relief Forces partially changed solutions related to the performance of helicopter transport for the provision of emergency medical aid in the event of traffic accidents, other accidents and mountain rescue. To a smaller degree it also changed the criteria for regrouping industrial fire-fighting units.
+
+ Through the new Regulation on Registering, Regrouping and Activating of CP Members and other Protection, Rescue and Relief Forces, registers of CP members and other
+
+ 47
+
+
+-----
+
+#### NORMATIVE AND OTHER ACTS
+
+ persons participating in protection, rescue and relief operations were unified in line with the Act on Protection against Natural and Other Disasters.
+
+ The key novelty of the Regulation on Education and Training in the Area of Protection against Natural and Other Disasters was the determination of conditions and procedures in the education and training process at the Training Centre for Civil Protection and Disaster Relief in Ig. Also, conditions for carrying out any other relevant training in protection against natural and other disasters were determined.
+
+ The Regulation on Providing European 112 Emergency Call Quality Services was also published by the Ministry of Economy in consent with the MoD. This document, in compliance with the relevant European directive, details quality parameters in performing 112 emergency call services.
+
+ 48
+
+
+-----
+
+### 4 INSPECTIONS AT THE MINISTRY OF DEFENCE
+
+#### 4.1 Defence Inspections
+
+ The Defence Inspectorate of the Republic of Slovenia (DIRS) performs inspections and is, at the same time, a law-enforcement authority in the defence area. As such it is responsible for military defence, civil defence as well as expert and administrative defence matters. It also performs inspections of the implementation of the Act on the Protection of Classified Information as well as regulations issued based on the above- mentioned act.
+
+ In 2009, the DIRS performed 92 inspections within 588 inspection days. The overall result is close to the planned target; despite a lower number of inspections, more inspection work was accomplished with more inspection days compared to the plan.
+
+ In 2009, the inspected bodies performed 99% of tasks for removing established deficiencies that were imposed by the inspection reports. Unrealised tasks will be performed in the following year, since they are monitored by the inspectors up to their rectification.
+
+ 4.2 Inspections in the Area of Protection against Natural and Other Disasters
+
+ The Inspectorate of the Republic of Slovenia for Protection against Natural and Other Disasters (IRSPANOD) performs inspections of the implementation of legislation in the field of fire protection, fire-fighting, protection against natural and other disasters and protection against drowning. In compliance with the Minor Offences Act, the IRSPANOD also performs the function of a law-enforcement authority. Inspectors also participate in emergency response operations during natural and other disasters, as well as in the investigation of the causes of fire. As assessors, they participate in national and regional protection and rescue exercises as well as in NATO and EU crisis management exercises.
+
+ With reference to inspections, 6,678 inspection tasks were accomplished, 4,747 of which included inspections. A total of 1,454 regulatory decisions were issued, 636 of which included inspection, determining deadlines for the necessary improvements in fire protection, protection and rescue, and protection against drowning. 584 were acts on the extension of deadlines for improvements, 33, decisions based on the General Administrative Procedure Act, 92, enforcement decisions, 109, decisions on procedural termination based on the Inspection Act, as well as 456 notes for the file.
+
+ In 21 cases, matters were handed over to other inspections. Inspectors also participated in 4 boards for the identification of fire causes and in 12 emergency operations during fires, explosions or other disasters.
+
+ As part of their law enforcement authority, inspectors accomplished 806 tasks, 91 of which involved payment notices and 28 procedures were related to the issuance of offence decisions, comprising 687 offence warnings and 4 offence decisions.
+
+ 49
+
+
+-----
+
+#### INSPECTIONS AT THE MINISTRY OF DEFENCE
+
+ In the municipalities, inspectors controlled emergency response plans and the organisation of the System of Protection against Natural and Other Disasters. It has been established that the situation is relatively good. Some deficiencies in units and services were removed in the continuation of the procedure. Certain deficiencies were also established in individual drafting authorities for emergency response plans.
+
+ In November, the process for providing uniform criteria for conducting inspections in Slovenia was initiated. Based on proposed organisational changes, the basic goal was achieved, i.e. the provision of uniform inspection standards in Slovenia.
+
+ 4.3 Internal Auditing
+
+ In accordance with the annual work plan, in 2009 emphasis was given to audits that aimed at establishing whether the processes that had been audited were monitored and whether that was performed in a continuous, consistent and successful manner. Special attention was dedicated to the establishment of whether internal audits in the area of civil-military cooperation and in the operation of the MoD units abroad managed the risks occurring in operating and reporting as well harmonising with legislation. Five extraordinary audits were also carried out.
+
+ The audit of the balance of statements was carried out in order to establish whether there is an internal control system that provides correct, accurate and complete information in accounts.
+
+ In identifying and assessing risks, it was established that there is no systematic recording and evaluating, yet progress in this area was observed. However, there is still no comprehensive risk assessment at the MoD level. Hence, risk assessment was only made for certain areas of the MoD operation. A record of risks at the level of the entire MoD will be included in the Business Plan of the MoD for 2010.
+
+ 50
+
+
+-----
+
+### 5 IMPLEMENTATION OF MoD RESOURCE PLANS
+
+#### 5.1 Implementation of the Financial Plan
+
+ In 2009, the MoD spent EUR 549.8 million on the accomplishment of its tasks, which makes up 97.7% of the valid or 99.6% of the adopted financial plan, following the second supplementary budget (see Table 5.1.1).
+
+ Table 5.1.1: 2009 Budgetary Resources (EUR)
+
+ 630,942,005 589,346,564 552,055,386 562,521,298 549,814,172 97.7
+
+ 100 % 93.4 % 87.5 % 89.2 % 87.1 %
+
+ The first adopted financial plan was confirmed by the National Assembly of the Republic of Slovenia at the end of November 2007, along with the revised 2008 financial plan, in the amount of EUR 630.9 million. The 2009 financial plan was not revised on account of the 2008 elections, which is also the reason for the early supplementary budget of the 2009 financial plan.
+
+ The first supplementary budget of the financial plan was adopted in late March in the amount of EUR 589.3 million. Funds were reduced by EUR 41.6 million or by 6.6 percentage points.
+
+ A detailed overview of the reduction includes:
+ – Reallocation of EUR 34 million to other spending units. – Reallocation of EUR 6 million to the Ministry of Foreign Affairs, in addition to the
+ transfer of all obligations of the Republic of Slovenia to the UN (regular budget, peacekeeping operations etc.). Obligations to the UN were transferred to the MoD in 2008 due to the increase in defence expenditures.
+ – Reallocation of EUR 1.6 million to the Ministry of Labour, Family and Social
+ Affairs, in addition to the transfer of all obligations to the veterans’ organisations’ programmes, which the SAF were meant to assume in 2009. These obligations were also transferred to the MoD on account of the increase in defence expenditures.
+
+ 51
+
+|Adopted Financial Plan 2009 (28 November 2007)|Supplementary Budget 2009 I (26 March 2009)|Supplementary Budget 2009 II (16 July 2009)|Valid Financial Plan 2009|Realisation 2009|Realisation & of the Valid Financial Plan|
+|---|---|---|---|---|---|
+|630,942,005|589,346,564|552,055,386|562,521,298|549,814,172|97.7|
+|100 %|93.4 %|87.5 %|89.2 %|87.1 %||
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ In addition to reducing the financial plan on account of reallocations to other spending units, the MoD had to reduce individual categories of expenditures, particularly investments, to provide additional resources for:
+ – Salaries, in accordance with the new law, in the amount of nearly EUR 20 million. – SAF promotion, grants and tuition fees in the amount of EUR 997,000 – to the
+ Defence Affairs Directorate.
+ – Operation and preparedness of the System of Protection against Natural and Other
+ Disasters.
+ – Maintenance of assets, construction and infrastructure, as well as financial support
+ to organisations of special importance in the amount of EUR 4 million.
+
+ A comparison of the adopted financial plan and the adopted financial plan following the supplementary budget shows the largest reduction in the SAF spending unit in the amount of EUR 43 million. This was followed by the administrative section spending unit, where the reduction reached EUR 1.7 million. The reduction of funds was minimal in both inspectorates, while there was an increase in the financial plan in the case of the ACPDR by EUR 3.2 million.
+
+ The second supplementary budget of the financial plan was adopted on 16 July 2009 in the amount of EUR 552 million. Financial resources were reduced by:
+ – EUR 37.3 million or 6.3 percentage points in relation to the first supplementary
+ budget, the index being 93.7; or
+ – EUR 78.9 million or 12.5 percentage points in relation to the adopted financial plan,
+ the index being 87.5.
+
+ The second supplementary budget took into account economy measures in the current business (entertaining expenses, outsourcing costs, mobile telephony, lease agreements, rationalisation of business trips, and rationalisation of costs for representations abroad) and large reductions in the area of investments. In comparison with the first supplementary budget, there was a reduction in financial resources for all users, except the ACPDR.
+
+ The structure of economic categories shows the following:
+ – Increase in salaries by EUR 3.5 million or 1.3 percentage points. Most of the
+ increase was intended for SAF members participating in international operations and missions.
+ – Reduction in operating costs by EUR 2.2 million or 1.9 percentage points. – Reduction in investments by EUR 35.9 million or 21.9 percentage points. – Reduction in funds for science and technological development by EUR 2.7 million
+ or 7.5 percentage points.
+
+ The difference between the valid financial plan (as of 31 December 2009) and the adopted financial plan following the second supplementary budget (hereinafter referred to as the adopted financial plan), in the total amount of EUR 10.5 million, resulted from an increase in appropriations by EUR 9 million and the funds acquired following decisions of the Government in the amount of EUR 1.5 million.
+
+ 52
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ The Ministry of Finance reallocated EUR 1 million to the ACPDR to finance the operation of the Red Cross and Caritas, and EUR 960,000 of the still required funds to the administrative part of the MoD for the payment of VAT on the import of the Falcon aircraft. Following the decision of the Government, the administrative part of the MoD reallocated EUR 492,576 to the ministries responsible for giving psychosocial support to children, families and teachers in Iraq, for the operation of TIA (Slovenian Technology Agency), for the implementation of the Expo 2010 Shanghai project, and for the salaries of temporarily transferred the MoD employees.
+
+ The financial plan realisation was EUR 549,814,172, while the realisation of integral funds compared to the valid financial plan was 99.6%. The realisation of appropriations was 58.8%, chiefly as a result of state property management, for which the largest amount of unapplied funds will be transferred to the next year. The integral funds of the MoD represented 97.3% and appropriations represented 2.7% of the financial plan realisation.
+
+ Table 5.1.2: 2009 Financial Plan Realisation by Economic Purposes (EUR)
+
+ 549,814,172 292,140,208 107,099,267 124,406,137 11,174,383 14,994,178
+
+ 100 % 53.1 % 19.5 % 22.6 % 2.0 % 2.7 %
+
+ The breakdown of the 2009 expenditure by economic purposes shows (see also Table 5.1.2 and Chart 5.1.3) that salaries accounted for 53% of the entire MoD expenditure. In comparison with the plan, the salaries increased by over EUR 10 million. The share of salaries has been growing since 2008, mainly due to lower investment (the 2009 realisation was EUR 15.8 million lower than the 2008 realisation). The share of salaries in 2006 was 50%, dropped to 48% in 2007, and then started growing again to reach 54% in 2010.
+
+ Current expenditure stood at EUR 107 million, accounting for 19.5% of the total expenditure, while the average share, between 18% and 19%, rose to nearly 22% in 2008. 2% of the MoD realisation is earmarked for education, 5% for maintenance, somewhat less than 5% for co-financing, and 8% for international cooperation and salaries.
+
+ 53
+
+|Financial Plan|Salaries|Current Expenditure|Investment Expenditure|Science and Technological Development|Appropriations|
+|---|---|---|---|---|---|
+|549,814,172|292,140,208|107,099,267|124,406,137|11,174,383|14,994,178|
+|100 %|53.1 %|19.5 %|22.6 %|2.0 %|2.7 %|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Chart 5.1.3: Realisation Growth Index by Economic Purposes (Base Year 2006)
+
+ Investment expenditure stood at EUR 77 million, accounting for 14% of the total MoD expenditure. The percentage has been dropping since 2008 and will presumably reach 11.4% in 2010. By adding the EUR 47 million invested in the Basic Development Programme to the investment expenditure, the share of the total investment expenditure increases to nearly 23% of the realisation. Over EUR 11 million was spent on research and development, accounting for 2% of the total expenditure. Spending in this area fell EUR 1.7 million short of the plan.
+
+ The realisation of the 2009 financial plan exceeded that of the 2008 financial plan by EUR 3.5 million, while the annual growth index was at 100.6. In the expenditure structure by economic purposes, integral funds included an increased proportion of salaries and investments into the Basic Development Programme, for which nominal amounts were also higher. All other categories were lower both in terms of their nominal values and structural shares. In the structure of appropriations, spending decreased by 0.8 percentage points. EUR 12.2 million of appropriations were transferred from 2008. The comparison of the financial plan realisation for 2008 and 2009 is shown in Table 5.1.4 below.
+
+ Table 5.1.4: Comparison of the Financial Plan Realisation for 2008 and 2009 (EUR)
+
+ Realisation Realisation Index Fund Type Structure Structure
+ 2008 2009 2009/2008
+
+ INTEGRAL 527,062,427 96.5 534,819,994 97.3 101.5
+
+ EARMARKED 19,209,141 3.5 14,994,178 2.7 78.1
+
+ TOTAL 546,271,569 100 549,814,172 100 100.6
+
+ 54
+
+|Fund Type|Realisation 2008|Structure|Realisation 2009|Structure|Index 2009/2008|
+|---|---|---|---|---|---|
+|INTEGRAL|527,062,427|96.5|534,819,994|97.3|101.5|
+|EARMARKED|19,209,141|3.5|14,994,178|2.7|78.1|
+|TOTAL|546,271,569|100|549,814,172|100|100.6|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ In comparison with the adopted financial plan, the realisation dropped by EUR 2.2 million, and the spending index was at 99.6. The realisation of integral funds indicates a reduction of EUR 750,000, a lower proportion for investments, current expenditure, and science and technological development, and a higher proportion for salaries and the Basic Development Programme. The realisation of appropriations was EUR 1.5 million lower than planned, particularly owing to the state property management funds.
+
+ Table 5.1.5 shows the nominal growth of the financial plan in the period 2001-2009. The financial plan reached the highest nominal growth in 2006, while its growth was lowest in 2009 and 2002.
+
+ Table 5.1.5: Nominal Growth of the Financial Plan for 2001-2011 (EUR)
+
+ Year Financial Plan Nominal Growth Inflation in %
+
+ 2001 286,119,963 8.4
+
+ 2002 291,250,512 102 7.5
+
+ 2003 321,075,010 110 5.6
+
+ 2004 357,884,342 111 3.6
+
+ 2005 386,507,496 108 2.5
+
+ 2006 446,653,994 116 2.5
+
+ 2007 488,061,046 109 3.6
+
+ 2008 546,271,569 112 5.7
+
+ 2009 549,814,172 101 0.9
+
+ Defence Expenditure
+
+ Unlike the financial plan, defence expenditure includes military pensions and resources of the Government Office for the Protection of Classified Information, but excludes resources of the System of Protection against Natural and Other Disasters.
+
+ The realised defence expenditure for 2009 was EUR 570,512, following the second supplementary budget, accounting for 99.2%. This represents 1.63% of GDP for 2009 (Spring Forecast of Economic Trends 2010, IMAD). In comparison with 2008, defence spending in 2009 increased by EUR 4.6 million or 0.11 percentage points. Salaries increased by EUR 18 million and investments by EUR 4.9 million, while current expenditure decreased by EUR 18.4 million. Defence expenditure for 2008 and 2009 is shown in Table 5.1.8.
+
+ Defence system resources (the SAF, the administrative part of the MoD and the Slovenian Defence Inspectorate) represent 90% of the defence expenditure. The remaining 10% is represented by military pensions and resources of the Government Office for the Protection of Classified Information. The latter does not exceed EUR 0.5 million and therefore has no significant impact on the defence expenditure.
+
+ 55
+
+|Year|Financial Plan|Nominal Growth|Inflation in %|
+|---|---|---|---|
+|2001|286,119,963||8.4|
+|2002|291,250,512|102|7.5|
+|2003|321,075,010|110|5.6|
+|2004|357,884,342|111|3.6|
+|2005|386,507,496|108|2.5|
+|2006|446,653,994|116|2.5|
+|2007|488,061,046|109|3.6|
+|2008|546,271,569|112|5.7|
+|2009|549,814,172|101|0.9|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Defence expenditure for 2009 was first approved on 13 December 2007 in the amount of EUR 643.9 million, which represented 1.67% of GDP (Autumn Forecast of Economic Trends 2007, IMAD).
+
+ The first supplementary budget reduced defence expenditure by EUR 31.6 million, to stand at EUR 612.2 million, which represented 1.67% of GDP (Spring Forecast of Economic Trends 2009, IMAD). Large reductions in defence system resources, in the amount of EUR 44.7 million, were mitigated by military pensions. These increased by EUR 13.4 million on account of the new data acquisition method at the Pension and Disability Insurance Institute.
+
+ The second supplementary budget brought a further reduction in defence expenditure in the amount of EUR 37.3 million to EUR 574.95 million, which represented 1.57% of GDP (Spring Forecast of Economic Trends 2009, IMAD).
+
+ Table 5.1.6: Defence Expenditure for 2008 and 2009
+
+ A comparison of the percentage of approved defence expenditure in GDP shows a high dependence on the amount of the predicted GDP. If the same GDP was taken into account for defence expenditure and realisation, it would be possible to determine a drop from 1.85% to 1.63%. Table 5.1.6 shows a detailed overview of the available defence expenditure for 2009, a comparison with the 2008 realisation, GDP amounts and percentages.
+
+ The defence system realisation for 2009 was EUR 4.7 million lower than planned according to the second supplementary budget or EUR 86.7 million lower than according to the first adopted financial plan dated 13 December 2007. Investment was reduced by EUR 102 million and current expenditure by EUR 16.8 million, while salaries increased by EUR 32.1 million.
+
+ 56
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Chart 5.1.7: Comparison of the Percentage of Approved and Realised Defence Expenditure in GDP
+
+ Chart 5.1.7 shows that realised defence expenditure represented the lowest percent of GDP in 2005, namely 1.44%. The highest percentage was reached in 2009 when defence expenditure stood at 1.63% of GDP. The highest percentage of the approved defence expenditure was recorded in 2009 and 2010, namely 1.65% of GDP. In the period 2006
+ - 2009, the average approved defence expenditure represented 1.57% of GDP, while the average realised defence expenditure represented 1.54% of GDP.
+
+ 5.2 Implementation of the Personnel Plan
+
+ On the basis of the 2009 Joint Personnel Plan for State Administration Bodies, set by the Government, a 2009 Joint MoD Personnel Plan was formed. It defines the personnel employment policy at the MoD (including the ACPDR, DIRS and IRSPANOD) and in the SAF (including the GSSAF).
+
+ Table 5.2.1 shows the number of employees at the MoD and in the SAF (as permitted on the basis of the personnel plan), and the number of employees as of 31 December 2009 (personnel plan realisation).
+
+ 57
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Table 5.2.1: Personnel Plan Implementation at the MoD and in the SAF
+
+1 2 3 4 5 6 7 = 4 + 5 + 6 8
+
+#### MO 1,359 1,328 1,482 –10 –144 1,328 0
+
+ SV 7,034 7,600 7,503 +144 7,647 47
+
+ In accordance with the amendment of the Rules amending the Rules on the Contents and Procedures of Preparation and Submission of Personnel Plans (Official Gazette of the RS, No. 96, dated 27 November 2009), the personnel plan realisation excludes temporary employment (employees replacing temporarily absent government officials whose salary compensation is not provided by the MoD; the number of such employees is given in column 5), maternity and childcare leave, sick leave of over 30 working days and parental leave.
+
+ On the basis of the 2009 Joint Personnel Plan for State Administration Bodies, the Government determined the permitted number of MoD employees (1,328) and SAF members (7,600). The total number of personnel as of 31 December 2009 can be seen in Table 5.2.2.
+
+ In accordance with the RS Government decision, the permitted number of SAF members includes personnel (144 people) performing military duties (PPMD) in positions within the administrative section of the MoD and other government bodies under Articles 47 and 48 of the Defence Act.
+
+ Of the total number of 144 employees, 97 are on the SAF payroll. There are an additional 47 employees on the MoD and DIRS payroll, performing military duties in positions within the administrative section of the MoD under Articles 47 and 48 of the Defence Act.
+
+ The total number of SAF members was 7,647, of whom 1,245 were officers (CO), 2,018 non-commissioned officers (NCO), 3,076 soldiers, 300 senior military specialists, 470 junior military specialists, 525 civilian personnel (CP) and 13 officials performing civilian duties. There were minor deviations from the planned structure in individual categories. However, these deviations were in favour of the structural change, for the employment of new soldiers. The SAF personnel plan was exceeded by 47 employees (0.6%).
+
+ 58
+
+|Col1|Permitted Number 31 Dec 2008|Permitted Number 31 Dec 2009|Actual Number 31 Dec 2009|Temporary Employment|Personnel Performing Military Duties|Realisation of the Personnel Plan 31 Dec 2009|Difference|
+|---|---|---|---|---|---|---|---|
+|1|2|3|4|5|6|7 = 4 + 5 + 6|8|
+|MO|1,359|1,328|1,482|–10|–144|1,328|0|
+|SV|7,034|7,600|7,503||+144|7,647|47|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Table 5.2.2: Number of Personnel at the MoD and in the SAF on 31 December 2009
+
+1 2 3 4 5 6 7 8=5+6+7 9
+
+**1** **ACTIVE COMPONENT** **7,600** **7,503** **7,503** **97** **47** **7,647** **100.62**
+
+**1.1** **_Military Personnel_** **6,965** **6,965** **97** **47** **7,109**
+
+1.1.1 COs 1,165 1,165 48 32 1,245
+
+Senior Military
+1.1.2 284 284 12 4 300
+Specialists
+
+1.1.3 NCOs 1,981 1,981 27 10 2,018
+
+1.1.4 Junior Military Specialists 463 463 6 1 470
+
+1.1.5 Soldiers 3,072 3,072 4 3,076
+
+**1.2** **_Civilian Personnel_** **538** **538** **538**
+
+1.2.1 Support Staff 525 525 525
+
+1.2.2 Officials 13 13 13
+
+**2** **CONTRACT RESERVE** **2,000** **1,712** **1,712** **85.60**
+
+2.1 COs 34 34
+
+Senior Military
+2.2 9 9
+Specialists
+
+2.3 NCOs 82 82
+
+2.4 Junior Military Specialists 12 12
+
+2.5 Soldiers 1,575 1,575
+
+**GOVERNMENT**
+**3** **1,328** **1,482** **1,472** **–97** **–47** **1,328** **100.00**
+**OFFICIALS at the MoD**
+
+3.1 IOU 1,081 1,072 –97 –38 **937**
+
+3.2 ACPDR 325 324 **324**
+
+3.3 IRSPANOD 57 57 **57**
+
+3.4 DIRS 19 19 –9 –9 **10**
+
+**4** **TOTAL (1 + 3)** **8,928** **8,975** **100.53**
+
+#### 59
+
+|Seq. No.|Personnel by Categories|No. according to Personnel Plan|No. of Personnel with Temp. Employment|No. of Personnel without Temp. Empl.|PPMD on SAF payroll|PPMD on MoD and DIRS payroll|Total|(%)|
+|---|---|---|---|---|---|---|---|---|
+|1|2|3|4|5|6|7|8=5+6+7|9|
+|1|ACTIVE COMPONENT|7,600|7,503|7,503|97|47|7,647|100.62|
+|1.1|Military Personnel||6,965|6,965|97|47|7,109||
+|1.1.1|COs||1,165|1,165|48|32|1,245||
+|1.1.2|Senior Military Specialists||284|284|12|4|300||
+|1.1.3|NCOs||1,981|1,981|27|10|2,018||
+|1.1.4|Junior Military Specialists||463|463|6|1|470||
+|1.1.5|Soldiers||3,072|3,072|4||3,076||
+|1.2|Civilian Personnel||538|538|||538||
+|1.2.1|Support Staff||525|525|||525||
+|1.2.2|Officials||13|13|||13||
+|2|CONTRACT RESERVE|2,000||1,712|||1,712|85.60|
+|2.1|COs|||34|||34||
+|2.2|Senior Military Specialists|||9|||9||
+|2.3|NCOs|||82|||82||
+|2.4|Junior Military Specialists|||12|||12||
+|2.5|Soldiers|||1,575|||1,575||
+|3|GOVERNMENT OFFICIALS at the MoD|1,328|1,482|1,472|–97|–47|1,328|100.00|
+|3.1|IOU||1,081|1,072|–97|–38|937||
+|3.2|ACPDR||325|324|||324||
+|3.3|IRSPANOD||57|57|||57||
+|3.4|DIRS||19|19|–9|–9|10||
+|4|TOTAL (1 + 3)|8,928|||||8,975|100.53|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Given the Government requirements to reduce the number of employees and find solutions, particularly in the exploitation of reserves and internal personnel restructuring, the target number of employees permitted at the MoD as of 31 December 2009 was reached.
+
+ There were 1,482 employees in internal organisational units and constituent bodies (excluding the GSSAF), of whom 1,081 were employed in internal organisational units (IOU), 325 in the ACPDR, 57 in the IRSPANOD and 19 in the DIRS. Of the total number of employees, 144 performed military duties under Articles 47 and 48 of the Defence Act (135 in the IOU and 9 in the DIRS), and 10 were substituting for absent government officials (9 in the IOU and 1 in the ACPDR) and are excluded from the personnel plan realisation. At the end of the year there were thus 1,328 MoD employees (excluding the GSSAF), of whom 937 were employed in the IOU, 324 in the ACPDR, 57 in the IRSPANOD and 10 in the DIRS.
+
+ The professionalization of the Armed Forces continued in 2009. On the one hand this signified a substantial reduction in SAF strength, but high qualification and specialisation of a small and highly mobile professional army on the other. The first phase of the personnel and organisational consolidation was successfully completed by 31 December 2009. The SAF had a total of 7,647 members, of whom 1,245 were officers, 2,018 non- commissioned officers, 3,076 soldiers, 300 senior military specialists, 470 junior military specialists, 525 civilian personnel and 13 officials performing civilian duties. There were minor deviations from the planned structure in individual categories. However, these deviations were in favour of the structural change, that is for the employment of new soldiers. See Table 5.2.3.
+
+ 60
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Table 5.2.3: Comparison of the Number and Status of SAF Members in 2008 and 2009
+
+ Situation Situation Situation Situation
+ on on on on
+ 31 Dec 2008 31 Dec 2008 31 Dec 2009 31 Dec 2009 Difference
+ Status
+ (excluding (including (excluding (including 2009–2008
+ PPMD at PPMD at PPMD at PPMD at
+ the MoD) the MoD*) the MoD) the MoD*)
+
+ Officers 1,234 1,320 1,165 1,245 –75
+
+ NCOs 1,861 1,909 1,981 2,018 109
+
+ Soldiers 2,671 2,676 3,072 3,076 400
+
+ Senior Military 272 292 284 300 8 Specialists
+
+ Junior Military 481 487 463 470 –17 Specialists
+
+ Civilian Personnel
+ 493 493 525 525 32
+ (support staff)
+
+ Civilian Personnel 22 22 13 13 –9 (officials)
+
+ TOTAL 7,034 7,199 7,503 7,647 448
+
+ Note: * Taken into account were employees assigned to military service positions at the MoD and in other government bodies as laid down by Articles 47 and 48 of the Defence Act (165 such employees in 2008, and 144 in 2009).
+
+ The year 2009 saw a significant improvement in the age and educational structure of the SAF, and particularly in the relationship between individual levels within the SAF active component. The number of officers and junior military specialists decreased, while the number of soldiers increased significantly. The ratio between officers, non- commissioned officers and soldiers improved to 1 : 1.6 : 2.5 (including the 144 employees performing military duties in the administrative part of the MoD). There were still too many military specialists. The results were achieved through the priority employment of soldier candidates. Military specialists were only employed for positions in shortage in both priority units certified at the end of 2009.
+
+ 61
+
+|Status|Situation on 31 Dec 2008 (excluding PPMD at the MoD)|Situation on 31 Dec 2008 (including PPMD at the MoD*)|Situation on 31 Dec 2009 (excluding PPMD at the MoD)|Situation on 31 Dec 2009 (including PPMD at the MoD*)|Difference 2009–2008|
+|---|---|---|---|---|---|
+|Officers|1,234|1,320|1,165|1,245|–75|
+|NCOs|1,861|1,909|1,981|2,018|109|
+|Soldiers|2,671|2,676|3,072|3,076|400|
+|Senior Military Specialists|272|292|284|300|8|
+|Junior Military Specialists|481|487|463|470|–17|
+|Civilian Personnel (support staff)|493|493|525|525|32|
+|Civilian Personnel (officials)|22|22|13|13|–9|
+|TOTAL|7,034|7,199|7,503|7,647|448|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Movement of Personnel
+
+ Movement of personnel, particularly the total number of new appointments, largely depends on the Government approved personnel plan and interest in employment at the MoD. Overview of the SAF and MoD personnel appointments and departures is shown in Table 5.2.4.
+
+ In 2009, the MoD employed 19 persons, of which the IOU employed 11, the ACPDR 6 and the IRSPANOD 2. Of these, 13 persons were given permanent employment and 6 were given fixed-term contracts.
+
+ Table 5.2.4: Appointments and Departures at the MoD and in the SAF in 2009
+
+ Total IOU ACPDR IRSPANOD DIRS SAF MoD
+
+1 2 3 4 5=1+2+3+4 6
+
+#### Appointments 11 6 2 0 19 680
+
+ Departures 61 11 2 2 76 215
+
+ Difference –50 –5 0 –2 –57 +465
+
+ Of 19 new appointments, 6 persons were employed on the basis of a public tender, 1 on the basis of an internal job tender, and 12 were employed without a tender notice. Among the employments without a tender notice, 5 persons transferred from a different state administrative body, 1 person was employed for the period of the Minister's mandate, 2 were employed after the suspension of rights, 1 was employed under Article 48 of the Defence Act (civilian expert), and 3 were given fixed-term employment as replacements of absent employees.
+
+ There were 76 departures from the MoD, of which 61 employees left the IOU, 11 the ACPDR, 2 the IRSPANOD and 2 the DIRS.
+
+ 8 employees terminated their employment by common consent, 53 retired, 4 reached the end of their fixed-term employment, 5 transferred to another state administrative body, 2 retired from disability, 1 person had their rights suspended, and 3 terminated their employment on the proposal of the employer or in accordance with the Civil Servants Act or another Act.
+
+ There were 1,523 candidates for employment in the SAF. The staffing procedure came to a halt for 841 candidates due to various reasons, including the cancellation of applications, non-compliance with the general conditions, medical unfitness for military service, non- compliance with conditions based on the assessment of security risk, and physical fitness test failures. Of the total number of candidates who submitted their applications for employment in 2009, 566 complete applications were submitted for further consideration.
+
+ 62
+
+|Col1|IOU|ACPDR|IRSPANOD|DIRS|Total MoD|SAF|
+|---|---|---|---|---|---|---|
+||1|2|3|4|5=1+2+3+4|6|
+|Appointments|11|6|2|0|19|680|
+|Departures|61|11|2|2|76|215|
+|Difference|–50|–5|0|–2|–57|+465|
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ In 2009, 680 persons were employed in the SAF, while 215 persons left the SAF.
+
+ By substitute employments and new appointments, the SAF wished to establish a better ratio between soldiers, non-commissioned officers and officers. This was achieved by employing mainly soldiers (87.5%), and replacing officers with scholarship holders (27). The SAF also employed 11 senior military specialists, 14 junior military specialists and 25 civilians. These positions require specific professional knowledge and cannot be manned by the current personnel.
+
+ There were no difficulties in acquiring new members, as the recession and less job vacancies on the market resulted in a greater interest in SAF employment. There were, however, some minor difficulties in acquiring specific, highly trained professional staff.
+
+ In the search for candidates, the SAF organised promotional campaigns which were carried out through the media, held events for the familiarisation of conscripts with their obligations and rights, and participated in various other events throughout Slovenia (barracks open days, ski jumping in Planica, a trade fair in Celje, an agricultural and food fair in Gornja Radgona, local job fairs and school visits). The SAF searched for candidates for employment, for military service in the contract reserve, for voluntary military service and for the award of scholarships for SAF employment.
+
+ Most departures from the SAF (46.5%) were due to retirement, while other causes were less common. It is interesting to note that only 13 members left the SAF on fault-based grounds.
+
+ Given the status of employees, most departures were noted among soldiers. This was expected, as employment contracts expired for 15 members, and 43 soldiers cancelled contracts on being offered a different job.
+
+ To manage departures from military service, a proposal for guidance on departure from military service has been prepared. Pre-retirement seminars for SAF members and other MoD employees have also been organised.
+
+ Scholarship Holders
+
+ For the academic year 2009/2010, there were 20 calls for high school scholarships and 15 calls for college scholarships. Within an open competition for the award of scholarships, Regional Defence Administrations received 198 applications, of which 101 were submitted to the Commission for the selection of scholarship holders. The procedure was completed for 15 applicants who are waiting to sign the scholarship contract. Procedures for the selection of suitable candidates for the remaining open scholarships will be conducted in 2010.
+
+ As of 31 December 2009, there were still 17 government scholarship holders for employment in the SAF. The most numerous of these are students of the Faculty of
+
+ 63
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Mechanical Engineering (Study Programme Mechanical Engineering, Study Field Aviation, Group Commercial Pilot). 7 scholarship holders were employed in the SAF as officer candidates – trainees.
+
+ 4 scholarship holders are being educated and trained at foreign military academies (U.S. Military Academy, West Point and U.S. Air Force Academy) and will terminate their education in 2012 and 2013. There were no calls for scholarships and study at foreign military academies in 2009, due to limited finances.
+
+ The MoD planned mandatory practical training for government scholarship holders of those faculties with which it has concluded agreements, and for occupations in shortage. 52 trainees completed their professional practice in the SAF, of whom 30 were scholarship holders. 15 scholarship holders studied for their Private Pilot’s Licence in the SAF’s Aviation School. Scholarship holders who have reached the age of majority were given the opportunity to participate in military practice, which was successfully completed by all 10 participants. Scholarship holders did not attend the military camp; however, 53 students of the Faculty of Criminal Justice and Security and the Faculty of Social Sciences completed their professional practice at the camp. The military camp was attended and successfully completed by 96 students of various faculties. Military practice was completed by 102 students of the Faculty of Social Sciences. Students of this faculty must complete their practice in accordance with the study programme.
+
+ 5.3 Implementation of the Plan for the Acquisition of Physical Assets
+
+ Reduction of the Plan for the Acquisition of Physical Assets on Account of the Supplementary Budget
+
+ Due to the reduction of financial resources for SAF modernisation and development programmes, the MoD, following the first supplementary budget, partially or fully waived the acquisition of certain equipment:
+ – 22 light wheeled armoured vehicles (LWAV 4 x 4) for the establishment of a Light
+ Battalion Battle Group (LBBG).
+ – Two fire-fighting vehicles and a rescue and recovery vehicle for the Cerklje airfield. – Navigation devices for the Cerklje airfield. – 3 small unmanned aircraft systems (UMA). – Kit for the destruction of unexploded CBRN ordnance. – 13 MWAV 8 x 8 (from the total of 42 vehicles, 29 remain to be purchased). – 3 fire control centres. – Ammunition, at the expense of stocks reduction.
+
+ On account of the additional reduction of financial resources for SAF modernisation, development programmes and infrastructure, the MoD, following the second supplementary budget, partially or fully waived the acquisition of certain equipment and the completion of construction works:
+ – Ship’s weapons system.
+
+ 64
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ – 16 MWAV 8 x 8 (additional reduction of 16 vehicles: from the total of 42 vehicles
+ planned, only 13 were purchased).
+ – Camouflage nets for MWAV 8 x 8. – Engineering equipment (mining, demining and demolition sets, and telerobot
+ modernisation).
+ – Electronic countermeasures systems for force protection. – Upgrade of the Tactical Operation Simulation System. – CBRN sample collection kit (supplied at a reduced level). – ROLE 1 equipment. – Modular Armoured Tactical Combat House. – Set of command post elements. – Mobile device used in vehicle roadworthiness tests. – Arrangement of the exterior of the Kadetnica. – Construction of the Electronic Warfare Centre (postponement). – Decrease in technical security and fences. – Planned scope of works at the Cerklje airfield (reduction). – Demolition of certain buildings (postponement).
+
+ Implementation of the Plan for the Acquisition of Physical Assets
+
+ Investment in SAF Main Equipment
+
+ 13 MWAV 8 x 8 were purchased, while four types (having the appropriate weapons) were introduced into operational use.
+
+ The situation in the field of systems mobility and vehicle logistics was as follows: 5 new supporting ambulances and 56 passenger and multi-purpose vehicles for the transportation of cargo and food were purchased, while 5 off-road vehicles were upgraded with load bins and tarpaulins.
+
+ 65
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Introduction of MWAV 8 x 8 Svarun into Operational Use
+
+ As part of the 18th CBRN Defence Battalion equipment, ten sets of Cobra light reconnaissance vehicles were introduced into use, along with a mobile chemical laboratory, CBRN observer equipment, a mobile biological laboratory, and a decontamination trailer.
+
+ The procurement of equipment and the upgrade of Cougar AS-532 AL helicopters were carried out in accordance with contractual provisions. The SAF also started the process of introducing the helicopters into operational use, along with the Spike anti-tank missile system.
+
+ Training with New Light Reconnaissance Vehicles 4 x 4 Cobra
+
+ 66
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ As part of the air defence equipping projects, a short-range radar system, equipment for the light air defence missile battery, and a long-range radar were introduced into operational use. The project of missile systems and fire control centres includes equipping the light air defence missile battery with fire control centres, modern missiles and mobile multiple-launch rocket systems. The first funds for this project were acquired in 2009, based on the agreement between the Government of the Republic of Slovenia and the Government of the Russian Federation on settling the obligations of the former Soviet Union towards the Republic of Slovenia concerning the balance of goods trading with the former SFRY (referred to as the clearing debt). In connection to this, the year 2009 saw the construction of a multi-purpose military patrol ship and its introduction into operational use.
+
+ The project of a long-range radar is intended for the improvement of SAF capabilities for the detection of all possible targets in Slovenia’s airspace, and for the achievement of full interoperability of the national airspace command and control system with appropriate NATO systems. Project documentation for the installation of radars was prepared in 2009.
+
+ The MoD purchased offensive and defensive hand grenades, and started introducing them into operational use.
+
+ With regard to naval equipment, a hyperbaric chamber and two rubber boats were procured.
+
+ The MoD also used the available funds to make other purchases and install equipment for the modernisation of SAF units, as well as for SAF operational capabilities and task performance.
+
+ Investment in the Equipment for the Protection, Rescue and Relief Units and National Reserves
+
+ Based on the 2002 Government decision, percentage proportions of the Fire Fund (including the fire tax revenue) were to be used for the following purposes: 70% of the funds for local communities and 30% for general purposes (co-financing of equipment, training and functioning of operational fire-fighting units of wider importance; operation and equipping of fire-fighting units; research in the area of fire protection; and fire protection education and training). In 2009, the following purchases were made: communication resources (550 pagers, 50 command pagers and 330 radio stations), a PV2 fire-fighting vehicle, barrier reels for the prevention of marine pollution (500 m), various equipment for the Kras Centre, and equipment for the elimination of the consequences of major floods (pumps, lifejackets). There was a public call for co-financing fire-fighting vehicles for western Slovenia (the Kras) in the amount of EUR 205,000, and for co-financing the training of operational volunteer fire-fighters in the amount of EUR 474,000.
+
+ Within the annual programme for the establishment of national reserves, rescue equipment for floods, weather disasters, outbreaks of infectious animal diseases, transportation
+
+ 67
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ of casualties in the event of mass disasters, and for temporary accommodation was purchased. A mass casualty trailer was upgraded and introduced into operational use for the Celje professional fire brigade. Eight mobile sludge pumps were also distributed to regional logistics centres in flood risk areas.
+
+ Investment in Infrastructure and its Maintenance
+
+ The SAF infrastructure works proceeded according to the plan and within the budgetary constraints.
+
+ Cerklje ob Krki airfield: A control tower with utility infrastructure and an aircraft technical facility with the entire utility infrastructure were built and handed over to the user. Investments are being implemented in phases (from 2006 to 2012), and are primarily intended for airfield modernisation. In 2009, project documentation and building permits were collected for facilities and devices for the runway, airfield ramps, the fire-fighting facility, and demolition of 16 buildings. The national spatial plan for the airfield was adopted and land was allotted in accordance with the national spatial plan for Cerklje. 290 parcels of land are in the process of being purchased. The MoD purchased equipment for airfield illumination, an aircraft docking system and electronic navigation. Two contractors were selected for the implementation and control of construction, finishing and installation works for the construction of the runway and the local bypass road Drnovo-Črešnjice.
+
+ Škrilj firing range and training area: A contractor for the construction of the Škrilj firing range and training area was selected, following a contract award procedure.
+
+ Franc Rozman Stane Barracks in Ljubljana: Two buildings were demolished, while two asphalt ramps and four 'recycling islands' were constructed, and the surrounding area organised.
+
+ The first phase of construction of the branch Training Centre for Civil Protection and Disaster Relief in Sežana was completed. It included office space organisation in the service facility and handover to the user.
+
+ The building at Maistrova 5 in Celje was partly renovated, and employees of the ACPDR and IRSPANOD branch offices were moved to these premises.
+
+ Other investments included the construction and adaptation of infrastructure for MWAV 8 x 8, roof renovation of SAF barracks and warehouses in seven locations, reconstruction of fences and technical security in SAF facilities, reconstruction of firing ranges and other maintenance work on buildings and other infrastructure managed by the MoD.
+
+ The Vipava gymnasium was built, its operating permit obtained, and the building handed over to the user. A public competition was carried out for the construction of the Kranj gymnasium. The contract is in the process of being signed.
+
+ 68
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Infrastructure funds were used for co-investments in the infrastructure of Postojna, Ilirska Bistrica and Brežice municipalities.
+
+ 46 empty MoD apartments in Maribor, Ljubljana, Postojna, Ilirska Bistrica, Vrhnika, Bled and Novo mesto were renovated. Maintenance work was carried out in 243 housing units.
+
+ Vrhnika singles housing: A public competition was carried out for the execution of construction, finishing and installation works, and a contractor was selected. The MoD is purchasing 11 apartments which will be allocated to SAF members in 2010.
+
+ There was a handover of the St. Stanislav's Institution in Ljubljana between the MoD and the Roman Catholic Church.
+
+ Implementation of the Informatisation Plan
+
+ To achieve the high availability of services within the MoD communications and information system (CIS), the most congested transmission paths and nodes of the communications and information backbone were upgraded.
+
+ Informatisation in the Area of Defence
+
+ The MoD fully realised the planned scope of investments in the upgrading of the CIS infrastructure building blocks, particularly with regard to the communications and information backbone. Also upgraded were applications related to the SAF data warehouse. Acquisition and maintenance of cryptographic equipment, as well as the maintenance of the system for secure transmission of messages in the context of secure e-mail ensured the operation of administrative communications, server infrastructure and data protection solutions.
+
+ A small amount of cryptographic devices were purchased to be installed in the intranet, mainly due to the replacement of spent equipment, and to increase data transmission capabilities. As the system was spent, a GSM cryptographic system was purchased and installed to provide secure voice communications in the GSM network. Communication nodes were upgraded and terminal equipment purchased in order to maintain the availability of communication services and channels, and to replace spent equipment.
+
+ Leased CIS lines were replaced with more modern and significantly cheaper VPN connections (IP VPN technology). For this purpose, the initial quantity of the appropriate equipment was purchased.
+
+ To improve the management of defence resources, a new software product was introduced into use for the implementation of the NATO Codification System (N-CORE New Generation). The NATO codification data has also been made available to all employees in the field of logistics.
+
+ 69
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ The informatisation of military defence has contributed to the introduction of priority land capabilities, command and control capabilities, air surveillance in the Republic of Slovenia, and the sharing of situational images at sea, in the framework of the existing arrangements within the Alliance.
+
+ To provide an upgraded, secure and flexible communications and information network infrastructure, in accordance with the requirements of the NATO Network-Enabled Capability (NNEC), works were carried out on several key projects.
+
+ The availability of landline CIS for the command and control information system (C2IS) has been provided at the required level. Less available equipment was replaced or upgraded. As part of the modernisation process, hardware, software, server and telecommunication equipment was purchased and introduced into operational use. The service centre took over the management of problem (incidents) solving. Local support services were partly established, while technical support and the CIS control centre are in the process of being established. Requirements related to the provision of C2IS in international operations and missions have been met. To obtain security clearances, accreditation procedures of CIS subsystems in the SAF have been initialised.
+
+ The concepts of the video teleconference (VTC) system and Military Message Handling System (MMHS) were introduced in the SAF. The VTC technology was introduced into operational use, and connection with military representations abroad as well as in international operations and missions was established (most equipment was delivered through the FMF). As part of the introduction of initial MMHS capabilities, infrastructure and equipment were installed in vehicles of the 10th Motorised Battalion, the 20th Motorised Battalion and the 18th CBRN Defence Battalion.
+
+ The project of Maritime Command and Control Information System (MCCIS) has been almost entirely realised, and equipment was delivered.
+
+ Tactical UHF-satellite terminals were introduced into operational use, along with the tactical UHF-satellite telecommunications technology (TSATT UHF-X). Terminal equipment was purchased and an anchor station established for protected and secure connection with units participating in international operations and missions.
+
+ The research and development project PEACE Technological Programme 07/RR/17 Tactical Backbone MoD Telecommunication System was successfully completed within the time limit provided.
+
+ The SAF actively participated in the TETRA inter-ministerial project, run by the Ministry of the Interior. Applications in command and control centres were established as planned.
+
+ Equipment for the upgrading of voice communications at the Cerklje ob Krki airfield and the Brnik airport was delivered in order to provide air surveillance at the Cerklje airfield.
+
+ 70
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Informatisation in the Area of Protection against Natural and Other Disasters
+
+ To shorten the response time of emergency services in the event of natural and other disasters, the system of radio communications ZARE was upgraded in Pomurje and between the Trojane tunnels. Two new base radio stations were set up in Pomurje, while two were moved to a new location. A new base radio station was also set up between the Trojane tunnels, and connected to regional notification centres (RNC) in Celje and Ljubljana. A calculation was made regarding the radio signal coverage of the ZARE communication system in Pomurje, which demonstrated adequate coverage.
+
+ Efforts continued for the introduction of the unified digital radio network (TETRA). It is expected that, after the year 2012, all protection, rescue and relief forces, including all fire-fighting units, will be using the TETRA system.
+
+ The RNCs in Brežice, Novo mesto, Trbovlje and Nova Gorica replaced old switchboards and upgraded them with dispatch terminals and video terminal equipment. The new equipment is more user-friendly and reliable, and allows the addition of new services (e-calls, video emergency calls etc.). Modern dispatch consoles were installed in RNCs in Koper, Postojna and Murska Sobota.
+
+ The year 2009 saw the introduction of the Application of Geographical Information Systems (3D-GIS), which will replace the current two-dimensional applications eGIS_ UJME and GIS_UJME in 2010. The application will be of great help in identifying the location of an accident and in planning rescue operations.
+
+ The WAP112 application was developed in 2008 and upgraded in 2009. It provides text and video emergency calls, thereby implementing the revised Act on Electronic Communications and Rules on Quality 112 Emergency Call Service.
+
+ The SPIN web application was upgraded, ensuring rapid monitoring of data on natural and other disasters.
+
+ The MoD purchased a system in support of the response to the single European 112 emergency call number (SiPod). The system was prepared for test installation in the RNC Kranj and for integration with 3D-GIS and SPIN.
+
+ To store information on caller location, a system was set up to display a person's location (caller location display) when dialling 112. Location information must be forwarded to the MoD server by telecommunications service operators. In 2009, five operators were included in the system: Mobitel, Telekom, Tušmobil (mobile and VOIP), Amis and T2.
+
+ The AJDA damage assessment application was upgraded to include information from the register of buildings and agricultural land. In cooperation with the Chamber of Agriculture and Forestry, the ACPDR acquired an estimation district database, and linked
+
+ 71
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ it to AJDA. By using the application, the ACPDR submits processed digital data to the Ministry of the Environment and Spatial Planning, and thus shortens the time for the preparation of a recovery plan.
+
+ Within the public alert system at the local level, slightly more than 30% of the expected 1,496 sirens were renovated between 2006 and 2009. Within the public alert system, 92 sirens with the communication component were purchased and installed in 2009, as well as one alarm central station and four radio access points. A mobile siren was also renovated.
+
+ In 2009, ten new DMR repeaters, seven alarm centrals and eleven radio access points were set up in different locations in Slovenia. DMR repeaters and radio access points are designed to build a radio network to control the public alert sirens.
+
+ 5.4 Implementation of the Plan for the Sale of State Property
+
+ MoD apartments were sold at public auctions at a total bid price of EUR 2.3 million. Real estate in the value of EUR 242,240 (including VAT) was sold through direct sale. In 2009, MoD real estate was sold for a total of EUR 2.6 million.
+
+ The sales revenue is intended for the provision of infrastructure facilities, particularly for the SAF and other spending units at the MoD. In 2009, maintenance funds for MoD apartments were also provided from this source.
+
+ Funds from rents were used for management charges, operating costs and the regular maintenance of apartments and empty houses.
+
+ At the end of 2008, 100 apartments were delivered on consignment, and 75 contracts for these apartments were concluded in 2009. In 2009, 78 apartments were delivered on consignment, and 43 contracts for these apartments were concluded.
+
+ The percentage of concluded lease agreements represented a 66% realisation. Applicants had different reasons for rejecting the assigned apartments.
+
+ In 2009, the MoD donated a mobile bridge to the Afghan army, three vehicles to the Ministry of Higher Education and Technology, and one vehicle to the Ministry of Foreign Affairs.
+
+ In accordance with the RS Government’s decision, the MoD concluded a contract with the RS Housing Fund on the free use of 304 apartments, of which 297 were actually handed over to users. In the process of transferring management rights, it became evident that six apartments are still in the process of denationalisation.
+
+ 72
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ 5.5 Implementation of the Education, Training and Advanced Training Plan
+
+ Further Education of the MoD and SAF Employees
+
+ In 2009, the MoD held no internal competitions for the acquisition of education; consequently, no new education contracts were signed. In the SAF, however, 64 new education contracts were signed.
+
+ By the end of 2009, 23 education contracts were concluded with MoD employees, the majority for the acquisition of postgraduate specialist education. 177 contracts were concluded with SAF members. In accordance with the contractual obligations, 18 employees had to complete their education by 31 December 2009 (12 actually did so, 3 withdrew from their studies and 3 had their deadline for the completion of their education extended).
+
+ Table 5.5.1: Further Education at the MoD and in the SAF from 1 January to 31 December 2009
+
+ Planned Realisation
+ Total of
+ No. of New No. of of
+ Level of Education Valid
+ Contracts Concluded Concluded
+ Acquired Contracts
+ Contracts Contracts
+
+ MoD SAF MoD SAF MoD SAF MoD SAF
+
+ Secondary School 20 20 28
+
+ Higher Vocational 24 2 40 2 26 2 79 School
+
+ College 6 3 10 2 39 2 79
+
+ University 2 0 1 1 2 19
+
+ Postgraduate (Specialisation,
+ 34 11 52 7 45 17 44
+ Masters Degrees, PhDs)
+
+ Total 64 18 122 12 131 23 177
+
+ TOTAL (MoD + 64 140 143 200 SAF)
+
+ Employees usually give work overload, health and other personal reasons for withdrawing from their studies.
+
+ 73
+
+|Level of Education Acquired|No. of New Contracts|Col3|Planned No. of Concluded Contracts|Col5|Realisation of Concluded Contracts|Col7|Total of Valid Contracts|Col9|
+|---|---|---|---|---|---|---|---|---|
+||MoD|SAF|MoD|SAF|MoD|SAF|MoD|SAF|
+|Secondary School||||20||20||28|
+|Higher Vocational School||24|2|40|2|26|2|79|
+|College||6|3|10|2|39|2|79|
+|University|||2|0|1|1|2|19|
+|Postgraduate (Specialisation, Masters Degrees, PhDs)||34|11|52|7|45|17|44|
+|Total||64|18|122|12|131|23|177|
+|TOTAL (MoD + SAF)|64||140||143||200||
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Functional Training
+
+ Functional training is aimed at providing general and specific knowledge which employees must acquire in connection with the demands of their specific post. Various forms of functional training are organised by the Poljče Defence Training Centre, the Training Centre for Civil Protection and Disaster Relief in Ig, the Doctrine, Development, Education and Training Command, and external institutions.
+
+ There was an 88% realisation of the functional training plan at the MoD. The Poljče Defence Training Centre exceeded the planned number of training courses, while only 30% of employees took part in training organised by external institutions. There is still too much unplanned training, attended by as much as 10% of employees.
+
+ After a number of years, a defence inspector course was again organised, attended by 26 students (both DIRS inspectors and SAF members). The total of training days was 18 per each DIRS employee, which amounted to 150% realisation.
+
+ Language Training
+
+ The 2009 education, training and advanced training plan foresaw the attendance of 244 employees in various forms of language training (44 MoD employees and 200 SAF members), primarily in English language courses.
+
+ The realisation achieved in the MoD was 120.5%, as 9 additional public employees attended various forms of language training. They participated in language training organised by external institutions (Albanian, Arabic, Hungarian and Italian languages). The realisation in the SAF was 116%. 36 students attended refresher English courses, while 1,307 candidates took placement tests.
+
+ Training Abroad
+
+ The education, training and advanced training plan foresaw 124 training programmes abroad; the realisation, however, was only 30%. Attendance was lowest in various planned short-term training programmes (merely 12%).
+
+ 74
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ Table 5.5.2: Training Abroad from 1 January to 31 December 2009
+
+ MoD SAF MoD SAF MoD SAF MoD SAF
+
+ Germany – NATO 16 104 16 94 100.0 90.4 3 School
+
+ Italy – NATO 2 2 100.4 Defence College
+
+ USA – IMET 9 98 7 93 77.8 94.9
+
+ Canada 2 2 100.0
+
+ Germany – Marshall 3 3 3 1 100.0 33.3 Centre
+
+ UK 17 17 100.0
+
+ Croatia 21 19 90.5
+
+ Luxembourg 5 1 20.0
+
+ Switzerland 7 7 100.0
+
+ Italy 51 39 76.5
+
+ Netherlands 6 6 100.0
+
+ Other countries 96 230 12 218 12.5 94.8
+
+ TOTAL 124 546 38 499 30.1 91.39 3 0
+
+ TOTAL 670 537 80.14 3
+
+ Other planned forms of education abroad (IMET programme in the USA, NATO School and Marshall Centre in Germany) were almost entirely realised. The realisation rate for the planned training abroad for SAF members was 91%, while the realisation rate for the entire training abroad plan was 80.1%.
+
+ For more efficient referral to and application for military education and training in accordance with the IMET programme, functional training of the SAF personnel department staff that is directly involved in carrying out the applications and referrals,
+
+ 75
+
+|Country|Annual Planned No. of Participants|Col3|No. of Participants Referred|Col5|Realised No. of Participants (%)|Col7|No. of Participants (unplanned attendance)|Col9|
+|---|---|---|---|---|---|---|---|---|
+||MoD|SAF|MoD|SAF|MoD|SAF|MoD|SAF|
+|Germany – NATO School|16|104|16|94|100.0|90.4|3||
+|Italy – NATO Defence College||2||2||100.4|||
+|USA – IMET|9|98|7|93|77.8|94.9|||
+|Canada||2||2||100.0|||
+|Germany – Marshall Centre|3|3|3|1|100.0|33.3|||
+|UK||17||17||100.0|||
+|Croatia||21||19||90.5|||
+|Luxembourg||5||1||20.0|||
+|Switzerland||7||7||100.0|||
+|Italy||51||39||76.5|||
+|Netherlands||6||6||100.0|||
+|Other countries|96|230|12|218|12.5|94.8|||
+|TOTAL|124|546|38|499|30.1|91.39|3|0|
+|TOTAL|670||537||80.14||3||
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ to the level of battalion, took place in June 2009. Training was attended by 34 SAF members.
+
+ 5.6 Implementation of the Research and Development Plan
+
+ The mission of the research and development (R&D) activities at the MoD is to provide the best possible scientific and technological development for the long-term requirements of the military and other capabilities at the MoD and within joint NATO and EU projects.
+
+ The MoD continued activities for a more transparent R&D management. In 2009, it started publishing results of projects completed on the basis of individual tenders and thus took a step towards greater transparency in research and development. The results of completed projects were presented to the internal expert public at the MoD. However, limiting information to the expert public is insufficient; a step forward would be proper information of the widest general public.
+
+ Scientific and Research Activity
+
+ The year 2009 saw the completion of applied research in the areas of defence and protection against natural and other disasters from the 2007 invitation to tender. By the end of 2009, 41 of total 42 projects from the Target Research Programme (TRP) entitled "Knowledge for Security and Peace 2004 - 2010" were successfully completed, while one project had already been completed in 2008. The planned 2009 invitation to tender was not published on account of the supplementary budget. Activities were focused on the completion of projects from the 2007 invitation to tender and on the preparation of the 2010 invitation to tender.
+
+ Through successful completion of projects by the end of 2009 and applied research in the areas of defence and protection against natural and other disasters, the MoD promoted applied interdisciplinary scientific and research work. Activities were carried out in collaboration with the Slovenian Research Agency. An encouraging finding in the field of R&D is that in 2009 there was an increase in the percentage of those projects that continue at higher Technology Readiness Levels (TRL) through development in the area of technology (7% average) and in the framework of international projects in relation to NATO (12% average). As regards the latter, the MoD successfully continued R&D activity within NATO in the field of NATO AC/323 RTO (Research Technology Organisation). Already included are also 22 TRP PEACE projects.
+
+ The state is also responsible for the planning of development projects and research activities for protection against natural and other disasters. Results of research projects, practical projects and case studies are used in work processes, the preparation of legislation, risk assessment revisions, and the organisation and planning of protection, rescue and relief.
+
+ 76
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ In the framework of various programmes and projects, the year 2009 saw the completion of tasks dealing with electromagnetic radiation, risk and protection, the development of a simulator for the training of fire-fighters, preparation of a model for e-learning and learning content on protection and rescue, as well as the basis for the establishment of a system of multi-disciplinary information service for the prediction and assessment of agricultural damage due to natural disasters. A prototype of a mobile waste management system was completed, a prototype of a light trailer platform developed, and a dangerous substances database updated.
+
+ Technological Research and Development
+
+ By (co)financing projects in the framework of technological research, the MoD promoted and ensured the implementation of applied research, technology development, development and testing of military equipment, weapons and systems, as well as development of protection, rescue and relief equipment. The result is better equipment of the SAF and the protection, rescue and relief forces in the mid-term period, the promotion of technological development in some parts of the economy, and greater cooperation of the MoD within the EU and NATO.
+
+ Technological research was carried out by means of several "tools":
+ – Implementation of applied research on the basis of public invitations to tender within
+ the PEACE Technological Programme – TP PEACE (TRL 3-7).
+ – Development through the introduction of a prototype (TRL 7-9). – Development of key technologies – KT (TRL 1-9). – Participation in international cooperation projects (TRL 1-9).
+
+ By the end of 2009, 18 projects of the PEACE Technological Programme from the 2007 invitation to tender were successfully completed. There was an increase in the number of projects whose development continues at higher Technology Readiness Levels (up to TRL 7, 10% average of all TP PEACE projects), which are based on the introduction of a prototype (TRL 7 and higher, 5% average of all TP PEACE projects), which are in the context of international cooperation in the field of R&D (9% average of all TP PEACE projects), or whose results have been used for the development of key technologies (13% average of all TP PEACE projects).
+
+ Preparation of tenders on the basis of previous public calls for TP PEACE tenders has proven to be good practice both in terms of greater activity in the interconnection of economic entities and institutions of knowledge, as well as in terms of better coordination of the announced subject matter in the invitations to tender, regarding the SAF and the MoD medium-term objectives. The analysis results confirm the set direction. There was an increase in the percentage of those projects that continue at higher Technology Readiness Levels (10% average) and those in the framework of international projects in relation to NATO and the EU (9% average).
+
+ Multi-annual activity, consistent with priority capabilities and key technologies in NATO and the European Defence Agency (EDA), has led to other results in Slovenia and the
+
+ 77
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ international arena. There is better integration of Slovenian R&D entities in Slovenian and international consortia, or a higher number of international consortia, and an increase in the number of applications, as well as greater success in international calls for tenders within the EDA.
+
+ Cooperation within NATO
+
+ In 2009, the MoD successfully continued R&D activity within NATO and cooperated intensively in the field of NATO AC/323 RTO (Research Technology Organisation). MoD representatives participated in seven RTO technical panels. After a period of three years, numerous projects have been successfully completed. In one of the activities, results of three projects co-financed through the TP PEACE programme have been used.
+
+ In connection to the RTO activity, the MoD organised a spring meeting of the Sensors and Electronics Technology (SET) Panel. In September 2009, the MoD hosted a plenary and executive Research and Technology Board (RTB) meeting, and presented Slovenian achievements in the area of scientific research and technological development to the NATO structure. The achievements were taken from the top 12 projects implemented to date. The majority of presented contractors were invited to further participate in the NATO AC/323 RTO.
+
+ Cooperation within the EU
+
+ The MoD participated in the management of two R&D EDA programmes: Force Protection in Urban Environments (JIP-FP) from 2007 and Innovative Concepts and Emerging Technologies (JIP-ICET) from 2008, a participant of both of which is also Slovenia. Within the JIP-FP programme, the last invitation to tender was carried out in 2009, on the basis of which contractors were selected and contracts concluded. Two Slovenian contractors participate in two of the total of 18 projects within the programme. Within the JIP-ICET programme, the second EDA invitation to tender was carried out. Among the applicants are two projects of the international consortium of contractors, including four Slovenian contractors. Both projects have been rated very highly. Slovenian participation in both programmes guarantees reimbursement of the assets invested. Slovenia's greatest benefit will be access to the results of all 27 projects after the implementation of both programmes.
+
+ In 2009, work continued on two Slovenian multi-annual programmes, financed by the MoD, which were launched in 2007 with the aim to develop projects that will form the basis for the EDA projects. The MoD has been actively involved in the work of relevant EDA groups, with a view to influencing the requirements for future international research and technology projects that will result in the upgrade of both Slovenian programmes and their projects, and will present the opportunity to include Slovenian R&D organisations in future international projects.
+
+ 78
+
+
+-----
+
+#### IMPLEMENTATION OF MOD RESOURCE PLANS
+
+ One of the participants in the international projects is also the ACPDR. Within the South- Eastern European programme, the ACPDR acts as an observer in the Monitor II project, participates in the External Users Advisory Committee (EUAC) for the Safer, Linker and Monet projects, and, together with other ministries, participates in the transnational project titled "Climate Change Adaptation by Spatial Planning in the Alpine Space" (CLISP).
+
+ 79
+
+
+-----
+
+### CONCLUSION
+
+#### To conclude, the MoD both weathered the adverse economic conditions of 2009 and achieved its key tasks as outlined in the Business Plan of the MoD.
+
+ Despite the discrepancies in the implementation of certain goals caused by the two supplementary budgets, the SAF successfully implemented their key tasks and provided constant operational readiness. The MoD also established significant military capabilities and obtained Alliance certificates. At the beginning of the year, the Light Battalion Battle Group was certified at the tactical training exercise in Germany, and the 18th CBRN Defence Battalion and the ROLE 2 LM medical unit were certified in November. And, with the introduction of key MWAV 8 x 8 weapons systems in the 74th Motorised Battalion, we now have the makings of a future, medium-sized battalion battle group.
+
+ Other activities were also carried out to complete the integration of the SAF into the Allied Force Structure. Responsibility and solidarity within the common security and defence in the international arena were provided by increasing the scope of our cooperation in peacekeeping operations and missions. With regards to these, Slovenia’s emphasis is now on Kosovo (KFOR) and Afghanistan (ISAF), where more than 500 SAF members and civilian experts on average per month have worked together.
+
+ Although the priority tasks of the SAF will remain associated with the further rationalisation of operating under the conditions of reduced financial resources, the SAF will continue to maintain an adequate level of preparedness and a quality of training that achieves a more coordinated capability development. Above all, the SAF will continue to focus on their mission objectives and the practice of functional professionalization.
+
+ By participating in international operations and missions, the Republic of Slovenia has also provided and continues to provide a significant contribution to international peace, security and stability, as well as to the stabilisation of crisis areas. In the future, the SAF will be faced with two key challenges: a change in the KFOR operation in Kosovo and the preparation of conditions for the implementation of more complex tasks in ISAF. By taking over the Operational Mentoring and Liaison Team in Afghanistan, the SAF will be able to test in the new operational environment the knowledge, skills and preparedness of their members, their capabilities, and gain new operational experience.
+
+ The administrative part of the MoD will continue to develop and implement an effective defence policy of the Republic of Slovenia in line with the activities of the UN, EU, NATO, OSCE and other international organisations and initiatives. It will also implement other measures for the defence of the country and continue to provide effective support for the SAF and Alliance’s forces.
+
+ The increasing frequency of disasters and their consequences will require constant adaptation and improvement to the System of Protection against Natural and Other
+
+ 80
+
+
+-----
+
+#### CONCLUSION
+
+ Disasters and the year 2009 was not a year of major investment for the ACPDR. In accordance with the available resources however, several small projects important for long-term development were nevertheless realised: notification centres were modernised; a Medium Urban Search and Rescue (MUSAR) unit was established and trained; a new approach to the CP Service was introduced through the conclusion of contracts with unit members who perform specialised tasks; an elective course syllabus for primary education was prepared and adopted; and a most demanding project in the area of education and training was completed, namely the preparation of a higher education study programme for the fire service. These and other tasks are outlined in the Resolution on the National Programme of Protection against Natural and Other Disasters for the period 2009 – 2015.
+
+ Finally, over the next year, the MoD will strive for the implementation of its key tasks and for a more rational organisational, procedural and functional integration of the entities that make up the MoD. On the outside, the MoD will strengthen its reputation and trust amongst the citizenry and promote a greater awareness of the importance of ensuring national defence and disaster protection.
+
+ 81
+
+
+-----
+
+-----
+

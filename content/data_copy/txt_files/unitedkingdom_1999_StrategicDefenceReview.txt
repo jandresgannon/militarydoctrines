@@ -1,0 +1,2755 @@
+**RESEARCH PAPER 98/91**
+# The Strategic Defence
+15 OCTOBER 1998
+# Review White Paper
+
+The Labour Government began its Strategic Defence
+Review (SDR) in May 1997. After longer than
+expected, an SDR White Paper was published on 8 July
+1998 as Command Paper 3999.
+
+This Paper will summarise the course and results of the
+Review, outline reactions to it and discuss its merits.
+An earlier Paper, RP 97/106, _The Strategic Defence_
+_Review, examines the origins of the Review and its_
+parameters.
+
+The SDR has been the subject of an extensive
+investigation by the House of Commons Defence
+Select Committee. The resulting report, The Strategic
+_Defence Review, HC 138 1997-1998, was published on_
+3 September.
+
+The House will debate a motion to approve the
+conclusions of the SDR on 19 and 20 October.
+
+Tom Dodd and Mark Oakes
+
+INTERNATIONAL AFFAIRS AND DEFENCE SECTION
+
+HOUSE OF COMMONS LIBRARY
+
+
+-----
+
+**Recent Library Research Papers include:**
+
+List of 15 most recent RPs
+
+**98/76** The Northern Ireland Bill: Implementing the Belfast Agreement 20.07.98
+
+[Bill No 229]
+
+**98/77** The Northern Ireland Bill: Some Legislative and Operational Aspects 17.07.98
+
+of the Assembly
+
+**98/78** EMU: the constitutional implications 27.07.98
+
+**98/79** Child Benefit 29.07.98
+
+**98/80** Voting Systems - The Government's Proposals (2[nd] revised edition) 31.07.98
+
+**98/81** Cancellation of Third World Debt 04.08.98
+
+**98/82** Working Time Regulations SI 1998 No 1833 10.08.98
+
+**98/83** Unemployment by Constituency - July 1998 12.08.98
+
+**98/84** Fireworks 18.08.98
+
+**98/85** House of Lords reform: developments since the general election 19.08.98
+
+**98/86** Parliamentary Pay and Allowances: Current Rates 21.08.98
+
+**98/87** The Criminal Justice (Terrorism & Conspiracy) Bill Bill 244 of 1997-9802.09.98
+
+**98/88** Unemployment by Constituency - August 1998 16.09.98
+
+**98/89** Democracy in Russia 07.10.98
+
+**98/90** Unemployment by Constituency - September 1998 14.10.98
+
+_Research Papers are available as PDF files:_
+
+_• to members of the general public on the Parliamentary web site,_
+
+_URL: http://www.parliament.uk_
+
+_• within Parliament to users of the Parliamentary Intranet,_
+
+_URL: http://hcl1.hclibrary.parliament.uk_
+
+Library Research Papers are compiled for the benefit of Members of Parliament and their
+personal staff. Authors are available to discuss the contents of these papers with Members
+and their staff but cannot advise members of the general public.
+
+
+-----
+
+## Summary
+
+Following fourteen months of consultation and preparation, the results of the Government's
+Strategic Defence Review were finally announced to the House on 8 July 1998. The SDR
+fulfils the Government's manifesto commitment to undertake a foreign policy-led review to
+reassess the UK's security and defence needs. This paper takes each main element of the
+SDR in turn, providing a summary of Government policy followed by an attempt to assess
+the possible implications of the White Paper's proposals.
+
+The two central pillars to emerge from the SDR are the moves towards more rapidly
+deployable armed forces and "jointery".[1]
+
+The SDR begins with an assessment of the strategic realities and security context of the post
+Cold War world. The Government recognises that the collapse of the Warsaw Pact means
+that there is no longer a direct military threat to the UK. It also acknowledges, however, that
+the world is an increasingly unstable and unpredictable place where indirect threats to the UK
+still persist and can arise in many areas around the globe. In this scenario a requirement for
+more mobile, responsive and flexible armed forces is called for. To this end the SDR
+signifies a major shift towards expeditionary armed forces, involving the rapid deployment of
+sustainable military force often over long distances. The planned purchase of two new large
+aircraft carriers and the establishment of structures to support new Joint Rapid Reaction
+Forces (JRRF) represent the most potent symbols of this change.
+
+The JRRFs form part of a wider "Joint Vision" intended to maximise the operational and cost
+effectiveness of the Armed Forces through initiatives aimed at co-ordinating the activities of
+the three Services more closely. Other elements of this "Joint" approach include combined
+RAF/RN Harrier forces (Joint Force 2000), a Joint Helicopter Command, a Joint Ground
+Based Air Defence organisation and the establishment of a further joint command of Army
+and RAF personnel in a Nuclear, Chemical and Biological Defence Regiment. The joint
+approach also extends to the logistical base at home where the three single Service logistical
+organisations will be grouped under a new four-star Chief of Defence Logistics.
+
+Of the other key findings of the SDR, the most controversial would appear to be the planned
+reduction in the number of Territorial Army units. Other noteworthy points include: the
+Government's commitment to maintaining a nuclear deterrent, but at a reduced level; a
+revision of equipment procurement through the 'Smart Procurement' initiative; Government
+support for greater defence industrial collaboration and rationalisation; and an attempt to
+address the problems of overstretch and undermanning through the 'Policy for People'
+initiatives.
+
+1 "a series of initiatives across defence to co-ordinate the activities of the three services more closely, pooling
+their expertise and maximising their punch, while at the same time eliminating duplication and waste." The
+_Strategic Defence Review, Cm 3999, Introduction, para 4_
+
+
+-----
+
+### CONTENTS
+
+ I The Course of the Review 9
+
+ A. The Review Process 9
+
+ B. Consultation 11
+
+ C. Immediate Reactions to the Review 12
+
+ II Defence Strategy: Threats and Commitments in a Changing World 14
+
+ A. The Security Context 14
+
+ B. The Impact of Technological Change 16
+
+ C. Assessment 17
+
+ III Defence Missions and Tasks 22
+
+ A. Policy 22
+
+ B. Assessment 25
+
+ IV Joint Operations 27
+
+ A. Policy 27
+
+ B. Assessment 29
+
+ V Nuclear Forces and Arms Control 31
+
+ A. Policy 31
+
+ B. Assessment 33
+
+ VI Conventional Forces 36
+
+ A. The Royal Navy 36
+
+ B. The Army 38
+
+
+-----
+
+### C. The Royal Air Force 42
+
+ D. The Reserves 44
+
+ VII Defence Procurement 49
+
+ A. Policy 49
+
+ B. Assessment 52
+
+ VIII Defence Industries 54
+
+ A. Policy 54
+
+ B. Assessment 56
+
+ IX Personnel Issues 57
+
+ A. Policy 57
+
+ B. Assessment 59
+
+ X Defence Expenditure 62
+
+ A. Spending 62
+
+ B. Assessment 63
+
+ XI The Longer Term 65
+
+
+-----
+
+## I The Course of the Review
+
+### A. The Review Process
+
+On 8 July 1998 George Robertson, the Secretary of State for Defence, came to the House
+to announce the results of the Strategic Defence Review and their publication in a White
+Paper.[2] He concluded his opening remarks by stating that:
+
+This truly radical review builds on the strengths and successes of our armed
+forces. It rectifies the weaknesses that we inherited, and it modernises our forces
+to deal with tomorrow’s threats rather than yesterday’s enemies. It places the
+skilled, brave and versatile people on whom our defence depends firmly at the
+centre of planning, and it gives them a clear sense of direction into the next
+century. Above all it delivers the modern forces Britain needs for the modern
+world.
+
+A promise to conduct “a strategic defence and security review to reassess our essential
+security and defence needs” was included in the Labour Party's 1997 election manifesto.[3]
+
+The Review was officially launched by Mr Robertson at a press conference on 28 May
+1997, although earlier notice had been given in the Queen's Speech on 14 May.[4]
+
+The SDR was originally intended to last six months. This period was then extended to
+around nine months. There was then evidence of further delay and, in November 1997,
+the MOD stated that the White Paper detailing the Review’s results would now be
+published in the “first part of next year [1998].”[5] The SDR White Paper was finally
+presented to the House by the Defence Secretary and published in July 1998. The
+statement’s impact was lessened by the leaking of the White Paper the day before. This
+leak was the subject of mutual recrimination between Government and Opposition and
+became the subject of a Cabinet Office inquiry. However, many of the Review’s broad
+conclusions had been known for some time as a result of the Government’s own efforts at
+consultation and previous seepage of information from the MOD. The Review had, in
+fact, been broadly concluded prior to Easter, being presented to the Prime Minister on 23
+March 1998.[6] There then followed a debate with the Treasury over the future size of the
+defence budget, the SDR constituting the MOD’s contribution to the Treasury’s
+Comprehensive Spending Review (CSR).[7] These deliberations were apparently still not
+
+2 HC Deb 8 July 1998 c 1073-1096 and Cm 3999
+3 New Labour Because Britain Deserves Better, p. 38
+4 MOD PR 28 May 97 and HC Deb 14 May 1997 c 43
+5 HC Deb 25 November 1997 c 499-500w
+6 Essay One, Para 33
+7 HC Deb 3 November 1997 c 79w
+
+
+-----
+
+concluded in late June.[8] The results of the CSR were announced after the statement on
+the SDR on 14 July 1998.[9]
+
+A central element of the SDR was that it was to be “foreign policy and not Treasury led,”
+that the new shape of the armed forces would be dictated by defence and security needs
+over a twenty year timeframe, rather than by any overriding quest for financial savings.[10]
+
+Accordingly, the first stage of the Review was conducted jointly by the MOD and FCO to
+determine the policy framework or baseline. This:
+
+assessed our national interests, commitments and responsibilities, and considered
+potential risks and challenges in the decades ahead, and set out the overall role of
+defence in support of Britain’s foreign and security policy.[11]
+
+This stage was completed by September 1997. Its assessment was converted into
+guidance for the second stage, the drawing up of planning assumptions by broadly based
+working groups, and identified in eight military missions. In a third stage, working
+groups translated these missions into 28 military tasks and additional work was carried
+out on the development of specific capabilities and the future impact of technology on
+equipment and capability. In the fourth and largest stage of the Review, working groups,
+overseen by senior officers and officials, assessed the forces, capabilities, equipment and
+support needed to conduct the missions and military tasks.[12] The Treasury was kept
+abreast of discussions in post-first stage working groups, whilst the DTI was involved in
+those with potential industrial aspects.[13] The work was overseen and co-ordinated by a
+steering group, chaired by John Reid, the Minister of State for the Armed Forces. John
+Spellar, the Parliamentary Under Secretary of State for Defence, led work on Smart
+Procurement, the initiative to make procurement “faster, cheaper and better”, announced
+by the Secretary of State and incorporated in the SDR on 30 July 1998. Dr Reid chaired a
+parallel review of efficiency and assets aimed at maximising “the efficiency of our
+organisational structures and working practices”.[14] The options emerging from the
+Review were costed and then considered by the Defence Secretary and other Defence
+Ministers, the Chiefs of Staff and senior officials in early 1998 and in some cases were
+referred for further examination. The views of other departments were sought via an
+inter-departmental committee in the Cabinet Office. Options were then drawn together
+into a package for presentation to the Prime Minister.[15]
+
+8 “£2bn defence cuts showdown looms”, The Daily Telegraph 27 June 1998
+9 See Chancellor’s statement HC Deb 14 July 1998 c 187-21 and see Modern Public Services for Britain:
+_Investing in Reform, Cm 4011_
+10 HC Deb 16 June 1997 c 9
+11 Essay One, Para 8
+12 Examples of working groups are given in Essay One, Annex A
+13 HC 138, pp.10-11
+14 Essay One, Paras 11-18
+15 Essay One, Paras 30-33
+
+
+-----
+
+The Review is presented in a White Paper, with important additional information in a
+separate volume of eleven supporting essays and 41 separate factsheets on specific forces
+and policies. The press summary also contains information on costings of force
+enhancements which is not covered elsewhere. The SDE White Paper does not contain
+some of the data, particularly financial, which has appeared in previous Defence White
+Papers. Due to the Review, the MOD did not publish a Defence White Paper in 1997,
+although some of the factual information normally contained in it was later released in
+autumn 1997 in an expanded performance report.[16]
+
+### B. Consultation
+
+Another aim of the SDR was to forge a national consensus on defence. In his press
+statement announcing the SDR, the Defence Secretary promised to involve both the
+opposition parties and parliamentary defence committees in the review process. Mr
+Robertson wrote to all Members outlining the scope of the SDR in similar language.[17] He
+held meetings on the SDR with interested Members of both Houses and with spokesmen
+of all the leading parties. Ministers also held a series of lunches and meetings with
+former defence ministers and retired senior civil servants and Service leaders.[18] The
+House of Commons Defence Committee took evidence from Mr Robertson, other ministers,
+civil servants, academic defence specialists and NGOs and published a comprehensive
+report on the review on 3 September 1998.[19]
+
+The process of consultation also encompassed the wider defence community and the public.
+Three seminars on the SDR were arranged with defence and foreign affairs specialists from
+outside the civil service in 1997 and their proceedings were made available to the House.[20]
+
+In addition, the Secretary of State established a panel of 18 external experts, who acted as a
+sounding board for conclusions as they emerged from the review.[21] The MOD also asked
+for written submissions from the general public and received over 450.[22] MOD civilian and
+service personnel were also invited to submit their views.[23] A Liaison Team visited bases
+and 7,500 staff were given the opportunity to express their views.[24] Serving members of
+the armed forces and MOD officials will also be able to submit written comments on the
+SDR, outside the chain of command.[25] Digests of internal submissions and Liaison Team
+reports were deposited in the House in July 1998.[ 26]
+
+16 HL Deb 3 June 1997 WA31
+17 HC Deb 19 June 1997 c 264w
+18 MOD PR 11 December 1997
+19 Defence Committee, The Strategic Defence Review, HC 138, 1997-98
+20 Deposited Papers 3S/5396 and 5768
+21 A list of the experts is provided in Essay One, Annex B
+22 Where author permission was obtained these were deposited (Dep 3S/ 5433)
+23 HC Deb 16 January 1998 c 348w
+24 Essay One, Para 28
+25 _The Independent 13 October 1997_
+26 Dep 98/723
+
+
+-----
+
+The consultation process also encompassed work on ‘Smart Procurement’. The subject of
+defence procurement was not specifically mentioned in the official launch of the SDR but
+was added in July 1997.[27] The concept of 'Smart Procurement' was deliberately taken
+forward under the auspices of the National Defence Industries Council (NDIC), a joint
+Government and industry body which is chaired by the Secretary of State. A combined
+industry-government steering group was established in November 1997 and was jointly
+led by Kevin Smith, a BAe executive, and Mr Spellar.[28] The group supervised the work
+of a number of teams, composed of MOD officials, representatives from industry and
+staff from the consulting firm, McKinsey.[29] Details of preliminary findings were given to
+an MOD seminar at Didcot at the end of January 1998.[30]
+
+### C. Immediate Reactions to the Review
+
+Reactions to the Review have been varied. Responding to the Secretary of State’s statement
+on the Review, John Maples, Conservative defence spokesman, welcomed many aspects of
+the White Paper, seeing much, as a continuation of initiatives of the Conservative
+Government. However, pointing to cuts both in the defence budget and in manpower and
+equipment, he challenged the essential premise of the SDR, declaring that “… this was never
+a strategic defence review, but was always about cutting defence expenditure”. He also
+expressed concern about the delay in completing the SDR and the impact that this had had
+on Service morale.[31]
+
+For the Liberal Democrats, Menzies Campbell also supported many of the SDR’s measures
+including “the premium to be placed on flexibility, mobility and rapid deployment, the
+decision to restrict the number of Trident warheads, the confirmation of the commitment to
+Eurofighter and the emphasis on joint operations and planning”. However, he expressed
+regret at the paucity of information on European defence co-operation.[32]
+
+Given that this review was intended to be driven by foreign policy considerations, both the
+leading opposition parties and the Defence Select Committee, the latter generally endorsing
+the Review, as well as a number of commentators, have expressed concern about the lack of
+clarity on foreign and security policy commitments and objectives.[33] Mr Maples commented
+during the statement on the SDR:
+
+27 HC 138, pp. 2-3
+28 MOD PR 13/11/97
+29 Essay Ten, Paras 7-11
+30 _The Financial Times 21 January 1998_
+31 HC Deb 8 July 1998, c 1076-1077
+32 Ibid, c 1082
+33 HC 138, Para 54
+
+
+-----
+
+Nor was it [the SDR] ever a foreign policy-led review. The Government has
+never published the foreign policy baseline as they promised – not even today.
+Even the panel of experts set up by the Government to advise them has never
+seen it. If the review had genuinely been foreign policy-led, it would have had to
+have made some effort to match capabilities to commitments. There is no
+attempt in the White Paper to do that.[34]
+
+Separately, Mr Campbell has written:
+
+The Government’s much-anticipated Strategic Defence Review will be
+memorable for its premature publication, but not, I fear, for the clarity of the
+foreign policy objectives, which the armed forces are being redesigned to
+support. In a document allegedly foreign policy-driven the reader requires much
+diligence to find detailed reference to foreign policy.[35]
+
+An account of the policy framework, or policy baseline, was originally to have been
+published as a separate document prior to the end of the Review.[36] This did not occur as
+“this work could not be easily separated out from the review’s later stages”.[37] However, the
+MOD maintains that some of the “broad conclusions” of the review of the policy framework
+were revealed by the Secretary of State in a speech to the Royal United Services Institute
+(RUSI) on 18 September and during the annual defence debate in October 1997.
+
+The general response of the defence community has been favourable. However,
+commentators have tended to disagree with the Secretary of State’s view that the SDR is
+“the most radical restructuring of our armed forces for a generation”, seeing it more as
+“sensible” and “evolutionary”.[38] They have welcomed the SDR’s relative openness in most
+areas, the lack of Service in-fighting and the signs of successful co-operation between
+Servicemen and officials in its production. All of the Service chiefs published statements
+personally endorsing the SDR. This contrasts with what was seen by many as the excessive
+secrecy surrounding previous defence reviews, such as Options for Change, and the interService competition which has also affected earlier attempts to reorder British defence
+policy.
+
+34 HC Deb 8 July 1998, c 1077
+35 _The House Magazine, July 27, 1998_
+36 HC Deb 28 July 1997 c 75w
+37 Essay One, Para 10
+38 George Robertson in The House Magazine 27 July 1998, Michael Evans “Robertson’s blueprint is more
+sensible than truly radical”, The Times 8 July 1998 and Michael Codner, ‘The Strategic Defence Review
+A Good Job’, RUSI Newsbrief, August 1998
+
+
+-----
+
+## II Defence Strategy: Threats and Commitments in a Changing World
+
+### A. The Security Context
+
+The White Paper and the Second Supporting Essay give the Government view of the new
+strategic realities of the post-Cold War world. The Government recognises that the
+collapse of the Warsaw Pact and the emergence of democracy throughout most of Eastern
+Europe and in Russia means that there is now no direct military threat to the UK
+(excluding terrorism related to Northern Ireland), its dependent territories or its western
+European allies. However, this does not mean that this general state of European security
+should be taken for granted; the wider world is no less dangerous.
+
+During the Cold War, the East/West Confrontation dominated strategic thinking
+in a way that produced a misleading impression of stability in large parts of the
+world. In part this was because that confrontation temporarily suppressed
+underlying tensions and problems. In part, it was because the scale of risks
+involved in the Cold War obscured the potential importance of the newer style
+security risks that were emerging.[39]
+
+Such instability in, for example, Africa, the Balkans and the Middle East can affect
+Britain indirectly. “There is an increasing danger from the proliferation of nuclear,
+biological and chemical technologies.”[40] Terrorism, drugs and organised crime pose a
+threat both to British society and in other countries. Environmental degradation, ethnic
+tensions, population pressures, competition for resources, and the collapse of states which
+may result, also fuel instability and human misery. The nature of conflict has therefore
+changed. The wars of the future are less likely to be between states, but rather within
+them, with instability and conflict spreading across international borders.[41]
+
+The challenges to British security are most likely to arise in Europe, in the Mediterranean
+and in the Middle East and Persian Gulf. Although Europe is more secure than in the
+past, there is still evidence of instability. This, and any deterioration in the political
+climate, can best be insured against through continued membership of NATO, although
+the EU, WEU and OSCE also have a (lesser) role in enhancing and preserving European
+security. The maintenance of an effective Alliance is therefore important, particularly the
+strength of the transatlantic link. The UK’s influence in NATO is based on a
+commensurate national conventional and nuclear contribution. Further afield, British
+interests are most likely to be affected by events in the Gulf, threatening oil supplies, and
+
+39 Cm 3999, Para 5
+40 Ibid, Para 8
+41 Ibid, Paras 29-30
+
+
+-----
+
+in the Mediterranean, potentially threatening the EU’s and NATO’s southern members.
+However, in responding to potential crises Britain is unlikely to operate alone.
+
+The best way to manage these challenges to security is through prevention. This requires
+an “integrated external policy through which we can pursue our interests using all the
+instruments at our disposal, including diplomatic, developmental and military.”[42]
+
+However, the armed forces may be needed to conduct effective military operations if
+prevention and military deterrence fails: “Our armed forces are Britain’s insurance against
+a huge variety of risks”.[43] They need to be flexible, highly capable, mobile and
+responsive, i.e. they need to be prepared for expeditionary operations. In the words of the
+Secretary of State, “In the post Cold War world, we must be prepared to go to the crisis,
+rather than have the crisis come to us.”[44] They also need to be ready for, "modern, high
+intensity conventional warfare”.[45] They have responded “outstandingly” to “a series of
+new and largely unexpected operational challenges” but personnel shortages, coupled
+with a high level of operational commitments, have led to overstretch. These and other
+weaknesses, particularly in rapid deployment capabilities, need to be addressed.[46]
+
+The Government explains that it is following this expeditionary strategy because Britain
+is internationalist:
+
+Britain’s place in the world is determined by our interests as a nation and as a
+leading member of the international community. Indeed, the two are inextricably
+linked because our national interests have a vital international dimension.[47]
+
+The UK is a leading member of many international organisations, including the EU and
+NATO and is a Permanent Member of the United Nations Security Council. (Indeed, the
+Government intends to make more forces potentially available to the UN for peace
+support and humanitarian operations.)[48] The economy is founded on international trade,
+is assisted by extensive foreign investment and is dependent on imports of raw materials.
+These overseas economic interests and historical links around the world give rise to
+international responsibilities. Ten million British citizens live and work abroad and there
+are 13 Overseas Territories scattered across the globe.[49] Yet this global role is more than
+just self-interest, it is also founded on idealism. In the words of the Defence Secretary:
+
+42 Cm 3999, Chapter 1, para 10
+43 Ibid, Introduction, Para 2
+44 Ibid, Para 6
+45 Essay Two, Para 25
+46 Cm 3999, Para 11
+47 Ibid, Para 17
+48 Ibid, Para 52
+49 Paras 36-40
+
+
+-----
+
+The British are, by instinct, an internationalist people. We believe that as well as
+defending our rights, we should discharge our responsibilities in the world. We
+do not want to stand idly by and watch humanitarian disasters or aggression of
+dictators go unchecked. We want to give a lead, we want to be a force for good.[50]
+
+This explanation reflects the mission statement issued by the Foreign and Commonwealth
+Office shortly after the last election.
+
+The Mission of the Foreign and Commonwealth Officer is to promote the
+national interests of the United Kingdom and to contribute to a strong world
+community.
+
+We shall pursue that Mission to secure for Britain four benefits through our
+foreign policy:
+
+    - Security: We shall ensure the security of the United Kingdom and the
+Dependent Territories and peace for our people by promoting international
+stability, fostering our defence alliances and promoting arms control actively;
+
+    - Prosperity: We shall make maximum use of our overseas posts to promote
+trade abroad and boost jobs at home;
+
+    - Quality of Life: We shall work with others to protect the World's environment
+and to counter the menace of drugs, terrorism and crime;
+
+    - Mutual Respect: We shall work through international forums and bilateral
+relationships to spread the values of human rights, civil liberties and democracy
+which we demand for ourselves.[51]
+
+### B. The Impact of Technological Change
+
+Technological change will also alter the shape of future conflict and this is discussed in
+some depth in Supporting Essay Three. Whereas it will enhance British and Allied
+strengths in conventional weaponry, it may also open their armed forces and society to
+novel forms of attack. These include the use of information warfare against increasingly
+vital computer systems, and the wider availability of chemical and biological weapons
+and other so-called dual use technologies. There will also be greater pressures on
+operational decisions arising from instant media coverage (the CNN factor).[52]
+
+50 Introduction by Secretary of State, Para 19
+51 FCO PR 12/5/97
+52 Essay Three. Para 34
+
+
+-----
+
+The rapid pace of technological change will also have implications for defence
+procurement. Weapons platforms, for example aircraft, may have longer lives but will
+need more frequent upgrades.[53] It is important that the UK's armed forces remain at the
+forefront of military technological change, although civil equipment may have increasing
+numbers of defence applications. The application of information technology, in particular
+to command and control, may be leading to a Revolution in Military Affairs. By the year
+2015, the distinction between air, land or maritime operations will have faded with the
+creation of a single battlespace, where joint and combined operations will dominate. The
+USA is leading the process of applying new technologies to warfare and it is important
+for the conduct of multinational operations, likely to be led by US forces, that British
+forces can inter-operate with them. This may lead to choices between national and
+European technologies and those advanced by the Americans.
+
+Domestically, the MOD needs to remain abreast of technological developments as they
+impact on defence. This will involve collaborative research and planning between the
+MOD, its Defence Evaluation and Research Agency (DERA), other Government
+departments, allies and industry. Technology transfer will become more a two-way
+street, where the MOD will not only contribute skills to industry but will also benefit
+from “industrial developments in the world market”.[54] A key part in this process will be
+played by the Defence Diversification Agency.[55] With a view to the advantages of interoperability, international collaboration to develop new defence technologies will become
+the norm. There will be a greater use of modelling and simulation and of technology
+demonstrators.
+
+### C. Assessment
+
+The Government’s analysis of the UK's security environment and of the potential threats
+and benefits from advancing technology is fairly orthodox. The Review could, however
+be criticised on a number of grounds.
+
+One of the chief criticisms of the Review is that it is one-sided. It produces a fairly
+comprehensive security analysis but then only proceeds to set out how the Ministry of
+Defence and armed forces should respond to these threats and opportunities. The Labour
+manifesto promised a “strategic defence and security review” but only delivers on the
+former. The SDR outlines the threats posed to the United Kingdom and UK interests by
+drugs, international crime and environmental degradation, but it could be argued that
+these problems lie outside the remit of the armed forces. What was required, in this view,
+was a cross-departmental military and security review, involving from the outset, the
+MOD, FCO, the intelligence services, the Home Office, Customs and Excise, the DTI,
+
+53 Ibid, Para 9
+54 Ibid, Para 24
+55 See Defence Diversification: Getting the Most Out of Defence Technology, Cm 3861
+
+
+-----
+
+DETR and Department for International Development (DFID), which could have
+considered the threats to both UK interests abroad and the UK homeland and thought out
+suitable countermeasures. Instead what occurred was a SDR baseline drawn up by the
+FCO and MOD, with other departments with an external or security interest only
+involved at a later date. Thus, responses to threats to the UK homeland were given less
+consideration than some had hoped. In the words of the Defence Select Committee:
+
+… because the Review was foreign policy led, we fear it may have led to neglect
+of certain aspects of the fundamental duty of defence of the United Kingdom's
+territory, its constitution and the way of life of its citizens. The chosen strategy is
+to prepare for the expected—for our Armed Forces to be ready to do the kind of
+operations they are most likely to be called upon to undertake. This is common
+sense. But the diminished probability of the emergence of a serious threat to the
+United Kingdom should not cause us to forget the first purpose and mission of
+defence. There are elements of the package contained in the Review that suggest
+to us that this is a danger that has not entirely been avoided.[56]
+
+The Review does make a nod towards a cross-government approach by stating that the
+defence of national security requires an “integrated external policy with the combined
+application of all tools at our disposal – diplomatic, trade, developmental as well as
+Armed Forces”. However, what is presented is a reorganised military instrument and no
+new central government mechanisms are established to promote such integration.
+
+One defence analyst suggests:
+
+For all its virtues, the SDR is an internal management review with the MOD. It
+has not been “strategic” as the MOD would have us believe, and has made some
+important assumptions that may not stand up over the next few years. We do
+need another review, but not of the MOD alone, rather of the way our
+government and our civil service approach the world around them.[57]
+
+The SDR does include a new emphasis on conflict prevention, but some critics,
+particularly on the Left, do not see this as going far enough. The use of military force,
+they would maintain, is ultimately reactive and the Review does little to address one of
+the main causes of global insecurity, which is inequality. Conflict is not only generated
+by differences of wealth between states, but more often by vast differences in wealth
+between elites and the masses in many less developed countries. Notwithstanding an
+increase in the DFID budget under the Comprehensive Spending Review, some maintain
+that more should be spent on alleviating global poverty, particularly in relation to the
+reduction of Third World debt.[58] This school of thought would also favour stronger curbs
+on the arms trade, whereas the SDR sees the defence industries as an important national
+
+56 HC 138, Para 419
+57 Michael Clarke ‘How the MoD came to rewrite our foreign policy’ The Independent 8 July 1998
+58 Paul Rogers at RUSI Seminar ‘The Outcome of the Strategic Defence Review’, 10 September 1998
+
+
+-----
+
+asset and defence exports as beneficial “not just to Britain’s economy but directly to the
+MOD”.[59]
+
+The confirmation of an expeditionary strategy is also open to debate. Britain has fought a
+series of expeditionary and "withdrawal from empire" campaigns overseas since the end
+of the Second World War. These engagements have generally been successful and have
+resulted in very few casualties. In contrast, other states which have followed an
+interventionist foreign policy have suffered heavy casualties and, on occasion, major
+defeat. The USA lost over 100,000 men in Korea and Vietnam combined. France lost
+similar numbers in Vietnam and Algeria. Whether it is under UN auspices or in concert
+with the USA, the UK could be committing itself to future conflicts which could turn out
+to be domestically divisive and costly, both in terms of expenditure and in lives.
+
+The acceptance of a secondary role to the USA is also a matter of concern to some
+analysts. Although there are good arguments for retaining a continued alliance with the
+world’s strongest power, some see active UK military support to US expeditionary
+operations as irrelevant and thus pointless. In almost every area the US armed forces
+possess significantly more capability than those of Britain. Whether in the Gulf War or
+the more recent Iraq crisis, the UK's significance to Washington has been more in
+providing political than military support. Others worry that given the known US aversion
+to incurring any military casualties abroad, British and perhaps French soldiers could
+become the tool of US foreign policy:
+
+Since the fear of ‘body bags’ is most keenly felt in Washington, the possibility
+exists that the Americans will offer the Europeans logistic support, while
+expecting Britain and France to provide most of the soldiers and casualties.[60]
+
+Some analysts question whether such a close alliance with the USA is really in Britain’s
+long-term interests.[61] As Lord Wallace, a Liberal Democrat spokesman, remarks,
+“Following the Americans up and down the Gulf, grappling with the confusions and
+domestic lobbies which shape American foreign policy, is scarcely a firm basis for British
+strategy”.[62] This school of thought would see the future of UK defence and security
+policy lying with the majority of its trade, in Europe. The dominance of the AngloAmerican relationship in defence could be seen as being at odds with a continuing
+economic and possible further political convergence in Europe.
+
+Those who fear the implications of being too closely linked to US military power are also
+concerned at the relative absence of reference to even current military links with Britain’s
+
+59 Essay Ten, Paras 28-30
+60 Jonathan. Eyal “Defence on the cheap’, The Financial Times 9 July 1998
+61 Michael Clarke ‘How the MoD cam to rewrite our foreign policy’ The Independent 8 July 1998
+62 ‘Spent Force: Following the Americans up and down the Gulf scarcely justifies us spending billions on
+new aircraft carriers’, The Guardian 9 July 1998
+
+
+-----
+
+European allies.[63] Although NATO’s survival and renewal in the post-Cold War era has
+surprised many of its critics, it certainly cannot be regarded as immutable over the next
+two decades, nor are significant developments in European security co-operation to be
+ruled out. The SDR says little about the future development of the WEU as an equal
+European pillar of the Atlantic Alliance, the European Security and Defence Identity, or
+as the defence dimension of the European Union.[64] Although the UK under successive
+governments has opposed the creation of independent European defence institutions,
+which were not linked or subordinate to the Atlantic Alliance, one way in which it can
+maximise its defence output is via bilateral defence co-operation with European allies.
+One of the most productive initiatives in the last decade has been a new, mutual
+enthusiasm for Franco-British defence co-operation, born, in part, out of a shared military
+experience of peace-keeping in Bosnia. In another example, the Army has recently
+signed a new co-operation agreement with the Dutch Army. The SDR says nothing about
+such co-operation. Although European allies were informed about the SDR as it
+progressed, it seems that no attempt was made to co-ordinate the proposed changes in the
+British armed forces with them.[65] There is also no reference to NATO’s strategy review,
+due to finish in 1999, which might, it could be argued, have important implications for the
+role and structure of UK defence.
+
+The Review, while reducing defence expenditure and forces, does not actually reduce the
+UK’s defence commitments. Indeed, by making more forces potentially available to the
+UN for peace support and humanitarian missions, it could be said to increase them.
+Although there are some indications that deployments beyond the Gulf are not planned,
+the UK is still committed under the Five Power Pact to “consult” along with Australia and
+New Zealand with Malaysia and Singapore if the latter fell under threat. The armed
+forces must assist the civil power in Northern Ireland, while maintaining a division in
+central Germany as part of a NATO commitment, defend widely spread overseas
+territories, and, potentially, come to the assistance of allies in the Middle East.
+
+The SDR thus commits the UK to maintaining sophisticated and expensive armed forces
+and engaging them in crises far from home. Although there may be diplomatic gains
+from having armed forces which are capable and respected, it is still open to question why
+Britain should spend more in GDP terms on defence than many of its competitors, when
+home is acknowledged to be no longer under a direct threat.[66] _The Economist comments,_
+“a truly radical review would have asked why Britain needed much defence at all, once
+the threat to it had disappeared”.[67] Both Japan and Germany follow more low key
+diplomatic and military policies in international affairs but have enjoyed economic
+success in the post-war period. The SDR does recognise that, after the end of the Cold
+
+63 _The Guardian 10 July 1998_
+64 Essay Two, Para 12
+65 Essay One, Para 25
+66 In 1996, while the USA spent 3.7 per cent of its GDP on defence, France and Britain spent 3 per cent,
+Italy 2 per cent, Germany 1.7 per cent and Canada 1.5 per cent (Cm 3781, Para 40).
+67 The Economist 11 July 1998
+
+
+-----
+
+War, a policy of active internationalism is a matter of choice, “We could, of course, as a
+country, choose to take a narrow view of our role and responsibilities which did not
+require a significant military capability”, before dismissing this approach. Being “a force
+for good” in the language of the Labour Government, or “punching above our weight” in
+the words of its predecessor, runs a risk of perpetuating a delusion about Britain’s status
+in the world and the real economic means it has to support it. As The Economist remarks,
+“In real life, boxers who punch above their weight tend to get flattened …”.[68]
+
+The implications of following an active internationalist policy in a reduced threat
+environment remains to be seen. Ultimately, it may depend on public support. This point
+is addressed by Freedman: 
+The success of deterrence during the Cold War could be readily judged. If
+nothing happened, the policy could be assumed to be working. The success of
+the new policy will be far harder to judge. If nothing happens, it will soon be
+argued that the Government is making provisions for which there is no call. A
+similar view may be taken if contingencies regularly arise but prudence and
+politics argue against intervention. The policy will also be questioned if
+interventions turn out to be hazardous and ineffectual. A substantial military
+establishment can be justified only if it is kept busy at low risk to good purpose. [69]
+
+68 Ibid
+
+69
+Lawrence Freedman ‘Britannia returns to the waves’, The Times 7 July 1998
+
+
+-----
+
+## III Defence Missions and Tasks
+
+### A. Policy
+
+The SDR White Paper translates responses to the UK’s external challenges and
+responsibilities into a number of missions and subordinate military tasks, which are
+outlined in Supporting Essay Six.
+
+Between 1992 and early 1997 UK strategy was configured around three defence roles:
+one, the defence of the UK mainland and its dependent territories; two, insurance against a
+major external threat to the UK and its allies (i.e NATO); and finally, the promotion of the
+UK's wider security interests through the maintenance of international peace and stability
+(UN peacekeeping, etc).[70] These three roles were then replaced by seven core missions:
+security of the UK; security of the Dependent Territories; military assistance; support of
+international order and humanitarian principles; regional conflict outside NATO; NATO
+regional conflict; all-out War.[71] Apart from the addition of a new mission, Defence
+Diplomacy, the SDR does not lead to great change. The new missions are as follows: 
+_A: Peacetime Security: To provide forces needed in peacetime, to ensure the_
+protection and security of the United Kingdom, to assist as required with the
+evacuation of British nationals overseas, and to afford Military Aid to the Civil
+Authorities in the United Kingdom, including Military Aid to the Civil Power,
+Military Aid to Other Government Departments and Military Aid to the Civil
+Community.
+
+_B: Security of the Overseas Territories: To provide forces to meet any challenges_
+to the external security of a British Overseas Territory (including overseas
+possessions and the Sovereign Base Areas) or to assist the civil authorities in
+meeting a challenge to internal security. (An amendment to legislation in due
+course will formalise the change of title from "Dependent Territories" to
+"Overseas Territories".)
+
+_C: Defence Diplomacy:_ To provide forces to meet the varied activities
+undertaken by the Ministry of Defence to dispel hostility, build and maintain
+trust, and assist in the development of democratically accountable armed forces
+(thereby making a significant contribution to conflict prevention and resolution).
+
+_D: Support to Wider British Interests: To provide forces to conduct activities to_
+promote British interests, influence and standing abroad.
+
+70 _SDE 93, Para 103_
+71 _British Defence Doctrine, February 1997_
+
+
+-----
+
+_E: Peace Support and Humanitarian Operations: To contribute forces to_
+operations other than war in support of British interests and international order
+and humanitarian principles, the latter most likely under UN auspices.
+
+_F: Regional Conflict Outside the NATO Area: To contribute forces for a regional_
+conflict (but not an attack on NATO or one of its members) which, if unchecked,
+could adversely affect European security, or which could pose a serious threat to
+British interests elsewhere, or to international security. Operations are usually
+under the auspices of the UN or the Organisation for Security Co-operation in
+Europe.
+
+_G: Regional Conflict Inside the NATO Area: To provide forces needed to respond_
+to a regional crisis or conflict involving a NATO ally who calls for assistance
+under Article 5 of the Washington Treaty.
+
+_H: Strategic Attack on NATO: To provide, within the expected warning and_
+readiness preparation times, the forces required to counter a strategic attack
+against NATO.[72]
+
+Outlined in a separate Supporting Essay Four, Defence Diplomacy will include the work
+of the MOD and armed forces in arms control, non-proliferation and confidence and
+security building, including the restoration of a British aircraft to help to enforce the Open
+Skies Agreement. It will include an expanded ‘Outreach’, the programme which aims to
+promote security and stability in Eastern Europe and the Former Soviet Union,
+particularly in Russia, by encouraging efficient, democratically-accountable armed forces
+and promoting their integration with and understanding of NATO forces. This is
+accomplished through activities such as unit and ship visits, defence consulting, loan
+personnel, joint training, and educational courses. Similar activities will take place in
+non-Outreach countries. New Defence Diplomacy Scholarships will be established for
+foreign officers and officials at the Joint Service Command and Staff College. Following
+a review of requirements, the number of British defence attachés abroad will be increased
+and they will be given new importance and training as "ambassadors of defence
+diplomacy".
+
+In Essay Six, the military tasks identified within the missions of the armed forces are
+maintained but refined and rationalised from 50 to 28. As before, the force planning
+assumptions for each Military Task are shown. The most important change here is that
+Britain “will no longer maintain forces to meet a strategic attack on NATO”.[73] Other
+thinking behind the levels of forces allocated to each Military Task is revealed. Firstly,
+the MOD considered the scales of effort required over and above that needed to meet dayto-day commitments. These are defined as: small scale (requiring the allocations of a
+battalion, squadron, ship as in the No-Fly Zones over Iraq, the Armilla Patrol in the Gulf
+and UNFICYP in Cyprus); medium scale (needing a brigade, as in Bosnia); large scale,
+
+72 Ibid, Annex A
+73 Essay Six, Para 4
+
+
+-----
+
+which would be the largest contribution to peace enforcement or regional conflict outside
+NATO (at divisional level as during the Gulf War); very large scale and full scale (a
+contribution of all available forces to NATO to defend an ally, with the distinction being
+differing lengths of warning times, ranging from at least months to years). Planning for
+these force commitments was then influenced by other factors: the levels of _readiness_
+required for units; the _endurance of the total force structure, shaped by length of_
+deployments and the possible need for unit rotation. Once all these factors were
+examined, the MOD decided that the shape of the armed forces should be guided by a
+requirement to plan for: either two concurrent small-scale operations, one six-monthslong warfighting operation and another enduring non-warfighting operation; or, a single
+full scale operation, utilising the bulk of the UK’s armed forces.
+
+Force planning is also governed by a number of conclusions about the nature of warfare.
+Firstly, the new importance of force projection. During the Cold War, the UK faced the
+prospect of fighting a brief but highly intense conflict close to home from well-stocked
+home bases. With the risk of a strategic attack on NATO now remote, UK forces will
+now need to be deployed to a (distant) operation, which they will possibly need to
+undertake without a local military infrastructure, for an indefinite period of time.
+Secondly, with the exception of national commitments, future operations “will almost
+always be multinational”.[74] The UK will work in the UN, NATO or WEU context or with
+other states in "coalitions of the willing" and “this means that we do not need to hold
+sufficient national capabilities for every eventuality”. The analysis rejects any distinction
+between high and low intensity warfare. Recent experience in Bosnia has shown that
+troops trained for conventional war and their heavy armour, such as tanks, can
+successfully be turned to peacekeeping. “We therefore need a balanced and coherent
+spectrum of capabilities, which collectively provide a range of deployment options”.[75]
+
+The Essay identifies certain trends in military capabilities. Of increasing importance are
+command, control and communications; ISTAR (Intelligence, Surveillance, Target
+Acquisition and Reconnaissance); rapid deployment, and therefore transport (lift);
+sustainability, and therefore combat support (logistics, equipment and medical services);
+the need to protect forces against the chemical and biological weapons they may
+encounter in certain theatres of operations; the utility of Special Forces and of air
+manoeuvre forces in high intensity conflict. Of relatively declining importance are some
+required for the direct defence of the UK and blue water naval operations. This analysis
+also informs changes to the force structure, which are set out below.
+
+74 Essay Six, Para 13
+75 Ibid, Six, Para 14
+
+
+-----
+
+### B. Assessment
+
+The military missions and military tasks identified with them represent continuity rather
+than change. The military missions were last redefined in 1997 and no major alteration,
+apart from the definition of defence diplomacy, has been made. The only exception is
+that the UK will no longer maintain forces to meet a strategic attack on NATO. This
+statement is important since it, in a sense, reverses a half century of UK defence planning.
+From the onset of the Cold War and increasingly thereafter, the UK’s defence effort was
+dedicated to NATO. Forces to meet contingencies outside western Europe were to be
+drawn from those allocated to NATO. This assumption is now reversed. No longer is the
+force structure primarily defined by the contribution to NATO, but, rather by the need to
+launch expeditionary operations. It is therefore missions which UK forces are likely to
+perform which determine the force structure, rather than commitments.
+
+On the one hand, the SDR states that such missions are likely to be multinational but on
+the other, it decides not only to maintain a purely national capability to deploy and
+operate overseas, but also to enhance it. This may preserve a degree of UK independence
+of action and also increase leverage with the USA, by retaining the ability to deploy fully
+coherent national force packages, but it could also be seen as wasteful. The SDR
+implicitly rejects role prioritisation, the idea that allies should specialise in specific
+defence functions either within NATO or in preparation of rapid deployment operations.
+If operations overseas are to be multinational, then, it could be argued, the UK could enter
+into binding agreements with other European states to supply force components, along the
+lines of similar agreements in defence supply being considered (see below). As one
+academic study comments:
+
+Since the UK’s slimmed down forces will only be able to contribute to even these
+smaller operations as part of a multinational effort, it is especially regrettable that
+the SDR has so little to say about this multinational context and how Britain’s
+input can be co-ordinated more closely with that of other nations.[76]
+
+There is the risk here of ‘role prioritisation’ by default with certain European states
+shedding capabilities and making unchecked assumptions about the types of forces which
+may be made available by their allies.
+
+As it stands, the SDR is absolutely clear as to which forces are required for which
+mission. It has been argued that this could place the Government and the MOD in a
+politically precarious position in the future if force cuts were being considered. The 'twocampaign' strategy may also prove a liability. The new force structure may create the
+impression in the international community that the UK will contribute to military
+intervention missions come what may. If the UK were involved in one major
+
+76 _The Strategic Defence Review: How Strategic? How much of a Review?, London Defence Studies, July_
+_1998_
+
+
+-----
+
+peacekeeping operation, it would be difficult to reply to the UN or the USA that forces
+were insufficient to provide for another, whatever its circumstances.[77]
+
+Defence Diplomacy, although it has been given much publicity, is as the MOD admits,
+“not a new idea”.[78] UK servicemen have been engaged in training foreign forces for
+many years. In the 1981 Defence Review, the MOD envisaged the projection of British
+interests overseas by politico-military activity based on “military assistance, advice,
+training, loan of personnel, and provision of equipment to friendly countries whose
+security benefits from our help”.[79] The Defence Diplomacy initiative does, however, give
+a greater intellectual coherence to a number of previously unlinked activities and fits in
+with the new preventative onus on security policy. Still, in this new guise it could be
+regarded as insufficiently ambitious. Given that the greatest indirect threats to British
+security have been identified as coming from the (southern) Mediterranean, Near and
+Middle East, perhaps a greater emphasis could have been placed on defence diplomacy
+activities in these regions, rather than in eastern Europe and the Commonwealth.
+
+77 M. Codner “The Strategic Defence Review: How Much? How Far? How Joint is Enough? _RUSI_
+_Journal, August 1998_
+78 Speech by George Robertson to the European Atlantic Group on “NATO, its Partners and Defence
+Diplomacy” 29 October 1997 and Essay Four, Para 1.
+79 1981 White Paper, p. 11, Para 33
+
+
+-----
+
+## IV Joint Operations
+
+### A. Policy
+
+A key element of the SDR is the establishment of structures to support one, and if need
+be, two new Joint Rapid Reaction Forces (JRRFs), which will carry out the new
+expeditionary strategy. This is part of a wider Joint Vision intended to maximise the cost
+and operational effectiveness of the armed forces through inter-service co-operation or
+pooling in what is expected to be a three-dimensional battlespace.[80]
+
+The JRRFs will be available from a pool of Service assets. For the Army, this will
+include four high readiness brigades: the 3[rd] Commando Brigade; a new Air manoeuvre
+Brigade; and two ‘ready’ brigades, one each from the 1[st] Armoured and 3[rd] Mechanised
+Divisions. The Navy will supply around 20 major warships, including carriers, attack
+submarines, destroyers, and 22 minor/support vessels. The RAF will commit around 110
+combat aircraft and 160 other support aircraft. Special Forces will also be available.
+There will be a dedicated JRRF HQ, together with the nucleus of another. Both will be
+backed up by medical and logistical chains, under Joint Force Logistics Component HQs.
+As a result, the Forces will be able to support two concurrent operations, each including
+up to 15,000 tri-service personnel. Deficiencies have been identified in supporting JRRFs
+overseas. These will be remedied by the acquisition of new strategic air and sea lift and
+through extra spending on the defence medical services, both in front-line units and in the
+Defence Secondary Care Agency. These enhancements are shown under individual
+Service headings below.
+
+Responsibility for command and the organisation of the JRRFs, due to be operational in
+2001, falls to the existing three-star Chief of Joint Operations (CJO) at the Permanent
+Joint HQ, Northwood. This post will be given more responsibility and accordingly raised
+to four-star level and become a Top Level Budget Holder (TLB), on a similar budgetary
+level as the single-Service commanders. (Within the MOD, the Vice Chief of the
+Defence Staff (VCDS) and 2nd Permanent Under Secretary (PUS) Top Level Budgets
+(TLBs) will be merged into a single centre TLB.) The CJO will be supported in this role
+by a new two-star Chief of Joint Force Operations and Training. The planning and
+conduct of joint operations will be influenced by a new Joint Defence Centre which will
+work on tri-service doctrine.
+
+In keeping with the new emphasis on "jointery", a number of joint forces are to be
+created. RAF Harriers GR7, dedicated to ground attack, and RN Sea Harriers FA2,
+optimised for air defence, were embarked together on RN carriers during the recent Iraq
+crisis, providing a combined and more powerful air wing. Both RN and RAF Harrier
+forces will now be brought together under a Joint Force 2000, which will harmonise
+
+80 See Joint Vision Statement, Essay Eight, Para 1
+
+
+-----
+
+operational practice and orchestrate joint RN/RAF Harrier forces able to operate from
+both land and sea. In the longer term, such co-operation will be taken a step further with
+the acquisition of a Future Carrier Borne Aircraft, common to both services. Separately,
+all Service battlefield helicopters, that is including Navy commando helicopters, Army
+attack helicopters and RAF support helicopters, but excluding those used for antisubmarine warfare, search and rescue and airborne early warning, will be brought
+together in a Joint Helicopter Command, under a 2-star officer. In addition, a Joint
+Ground Based Air Defence organisation will be set up by 2002, pooling Army and RAF
+Rapier surface to air missile units around a common Rapier standard C system.[81] A
+further joint command will be established in Nuclear, Chemical and Biological Defence
+Regiment, formed from both Army and RAF personnel. This will take over a role
+currently performed by the TA. In all cases, the intention is to promote best practice,
+enchance operational effectiveness and make economies in support costs.
+
+The joint approach extends not only to joint force logistics abroad, but also to the
+logistical base at home. Here, the main initiative will involve bringing the three single
+Service logistical organisations (CinC Fleet Support, the Quartermaster General and RAF
+Logistics Command) under a new four-star Chief of Defence Logistics in April 1999,
+with a view to their later merger into a single organisation. The aim is again to spread
+best practice and make efficiency gains. A number of changes will be made to support
+organisations. In some areas these will merge on a greater tri-service basis, in others a
+single Service will take the lead in providing a particular function. Thus, there will be a
+single Defence Transport and Movements Organisation, pooling the work of the Defence
+Transport and Movements Executive, the Air Movements Executive and the Joint
+Transport and Movements organisation; and a Defence Storage and Distribution Agency
+responsible for all third and fourth line storage. Both should be established by April
+1999. Responsibility for explosive storage, processing and distribution, currently divided
+between the Army and RN, will pass to the Naval Base Support Agency. A fully unified
+explosive distribution and storage organisation is envisaged by 2004/5. The RAF will
+take lead responsibility for fuel and lubricants. A tri-service Defence Aviation Repair
+Agency will be established, responsible for both helicopters and fixed wing aircraft and
+will become a trading fund.[82] This consolidation will result in a number of future base
+closures. In the short-term, storage depots at Rosyth and Colerne will close earlier than
+previously planned.[83]
+
+81 Factsheet 4
+82 Essay Eleven, Para 38-47
+83 Factsheet 30
+
+
+-----
+
+### B. Assessment
+
+As the Review admits, the development of the concept of "jointery" is based on
+inheritance. A Joint Rapid Deployment Force, albeit weaker than the JRRFs now
+planned, was formed in 1996, as was a Permanent Joint Headquarters to plan and execute
+all overseas operations. It was the Defence Costs Study of 1994 which first pushed ahead
+the concept of tri-service defence organisations in the support and training field, leading
+to, for example, the Joint Service Command and Staff College. Although evolutionary in
+advancing jointery, the SDR does attempt to give some greater direction to the process,
+via the Joint Vision Statement, and greater operational robustness to rapid deployment,
+though the establishment of JRRFs.
+
+The SDR could still be accused of some timidity in this respect by not taking jointery
+further. Few would advocate a total unification of the armed forces, as occurred in
+Canada thirty years ago with rather mixed results. However, more could perhaps have
+been done. Whilst merging the three separate logistical commands, the SDR might also
+have formed a comparable single personnel and training command. Similarly, the single
+Service chiefs have become much more like Service administrators, lending their forces
+to the PJFHQ for overseas missions. Why not scrap this role and place all combat forces
+under the Chief of Joint Operations? Ultimately, the single-Service Boards and their
+related staffs could be abolished and the single-Service chiefs could be turned into
+inspector generals and figureheads of their own Services, with all other functions done on
+a tri-service basis.[84]
+
+On the other hand, jointery should not be regarded as a panacea. There may be justifiable
+reasons why certain operational functions should remain on a single-Service basis. A
+major impetus for jointery is that it is expected to produce cost savings. Although this
+may prove true in most cases in the long-term, in the short-term joint organisations, such
+as the Chief of Defence Logistics, may be costly to set up.
+
+In the operational context, jointery may also take some time to implement. For example,
+the merger of the two Harrier forces, from two different traditions, into the Joint Force
+2000 will require lengthy and complex implementation and, as a result, any financial or
+operational gains arising may take many years to appear. One commentator writes:
+
+… the Joint Force 2000 initiative will take years to implement and bed down, and
+fundamental operational and training issues have not even begun to be addressed.
+It remains to be determined, for instance, whether aircrew will be cross-trained
+from air-to-air and air-to-surface operations.
+
+84 Michael Codner, ‘The Strategic Defence Review: How Much? How Far? How Joint is Enough?’, RUSI
+_Journal, August 1998_
+
+
+-----
+
+In terms of timescale, some senior RAF officers believe that it will take at least a
+decade to implement the Joint Force 2000 concept of operations.[85]
+
+It could be argued that the MOD could have avoided some of these problems by unifying
+certain functions on a single service basis. Thus, rather than see the Royal Artillery and
+RAF painfully thrash out joint practice in air defence in their new Joint Force, simply
+transfer the RA air defence regiments into the RAF Regiment or the RAF air defence
+squadrons into the Army. Notwithstanding, the trend towards jointery, coupled with the
+development of common approaches to personnel issues, may lay the foundations for an
+eventual merger of the armed forces sometime in the next century should future
+governments wish to pursue this option.
+
+85 D. Barrie, ‘Rhetoric or reality: the UK’s Labour Government has delivered its magum opus on its armed
+forces’, Flight International, 15 July 1998
+
+
+-----
+
+## V Nuclear Forces and Arms Control
+
+### A. Policy
+
+As declared in the Labour election manifesto and confirmed at the start of the Review, the
+SDR affirms the Government’s commitment to maintaining a nuclear deterrent but makes
+a number of changes to it.
+
+In Essay Five, the Government declares that:
+
+The world would be a better place if such weapons were not still necessary, but
+the conditions for complete nuclear disarmament do not yet exist.
+
+Progress has been made through the START process in reducing Russian and
+United States strategic range nuclear forces and deployed warheads.
+Nonetheless, very large numbers of strategic and shorter range nuclear weapons,
+and substantial conventional military capabilities, remain as a potent potential
+threat to the security of Britain and our Allies should current circumstances
+change for the worse. We and NATO have radically reduced our reliance on
+nuclear weapons, but in present conditions nuclear deterrence still has an
+important contribution to make in insuring against the re-emergence of major
+strategic military threats, in preventing coercion, and in preserving peace and
+stability in Europe.
+
+The Government’s General Election Manifesto therefore promised to retain
+Trident as the ultimate guarantee of the United Kingdom’s security while
+pressing for multilateral negotiations towards mutual, balanced and verifiable
+reductions in nuclear weapons. When we are satisfied with progress towards our
+goal of global elimination of nuclear weapons, we will ensure that British nuclear
+weapons are included in the negotiations.[86]
+
+In the meantime, improvements in the strategic landscape mean that it is possible to make
+changes in the manner in which the deterrent is exercised. The British warhead stockpile
+is to be cut from the ceiling of up to 300 warheads maintained by the previous
+government to less than 200 operationally available warheads.[87] With earlier reductions
+under Conservative administrations, the potential explosive power of the deterrent will
+have fallen by more than 70 per cent since the end of the Cold War. “This is the
+minimum necessary to provide for our security for the foreseeable future and smaller than
+those of the major nuclear powers”.[88]
+
+86 Essay Five, Paras 3 -5
+87 Cm 3999, Para 64
+88 Ibid, Para 70
+
+
+-----
+
+The patrol cycle of the Trident submarines has also been relaxed with normally only one
+submarine on patrol at any one time. Each submarine will have one instead of the current
+two crews and will carry out secondary tasks while on patrol, such as exercises, “without
+compromising their security”.[89] As with pre-Chevaline Polaris, each submarine will now
+only carry a maximum of 48 warheads, rather than the ceiling of up to 96 under the
+Conservatives.[90] The Government claims that the explosive power of a Trident submarine
+will now be less than one third of that of the previous Polaris Chevaline submarine.[91] The
+Trident submarine's alert status will also be reduced. Missiles have not been targeted for
+some years but, in addition, henceforth submarines will normally be at several days’
+notice to fire them. A requirement for an additional seven Trident missile bodies has
+been cancelled, leaving a new total of 58.[92]
+
+The SDR did consider more radical measures such as taking the Vanguard submarines off
+patrol altogether and also separating warheads from the missiles. However, it felt that
+both measures could lead to a crisis of escalation if they were required to be reversed
+during a period of rising tensions and could, as a result, undermine the deterrence effect
+of the weapons system.[93] Although the Government intends to retain a capability to
+design and produce nuclear warheads, “There are no current plans for any replacement for
+Trident, and no decision on any possible successor system would be needed for several
+years”.[94] Fresh information is given on the costs of the nuclear deterrent. The total cost
+of Trident is estimated to be about £12.5bn and the running costs of Trident submarines
+are put at £280m per annum over the next 30 years. The nuclear warhead programme
+will cost £410m in 1997/98, of which £114m is directly related to Trident.[95]
+
+On nuclear arms control, while hoping for progress in the START negotiations, the SDR
+catalogues a number of British initiatives. The UK is committed to its obligations under
+the Non-Proliferation Treaty (NPT) and was one of the first states to ratify the
+Comprehensive Nuclear Test Ban Treaty (CTBT). The UK continues to pressure other
+countries to do so. It encourages India and Pakistan, states which have both recently
+tested atomic bombs, to sign the CTBT and NPT. Britain is also committed to the
+negotiation of a Fissile Material Cut-Off Convention, i.e. that no more bomb-making
+nuclear material should be manufactured. To support this aim, the White Paper reveals a
+decision to make a minor cut in the UK’s stock of fissile material as well as other
+measures to reduce the use and increase the transparency of this stockpile; the UK claims
+to be the first nuclear weapons state to declare the size of its stocks of nuclear materials.
+These total 7.6 tonnes of plutonium, 21.9 tonnes of highly enriched uranium (HEU) and
+
+89 Essay Five, Para 12
+90 Cm 3999, Paras 66-67
+91 Chevaline was a secret project begun by the Callaghan Government to upgrade Polaris. One effect was
+to reduce the number of warheads on each upgraded submarine from the previous 48 to 36.
+92 Cm 3999, Para 68
+93 Essay Five, Para 13
+94 Ibid, Para 14
+95 Ibid, Para 18-19
+
+
+-----
+
+15,000 tonnes of other uranium.[96] Nine thousand tonnes of non-HEU will be placed
+under international safeguards alongside 4.4 tonnes of plutonium (including 0.3 tonnes of
+weapons grade material). All planned future reprocessing and enrichment will also take
+place under international safeguards, but the UK retains the right to resume activities if
+necessary. It aims to publish a report on past fissile production in 2000.[97] The
+Government will also develop a new capability to verify reduction and elimination of
+nuclear weapons. Separately, it supports the various nuclear weapons free zones around
+the world “where conditions are right”.[98]
+
+The SDR details UK support for the implementation of the Chemical Weapons
+Convention, the strengthening of the Biological and Toxin Weapons Convention and the
+operation of various international export control regimes. It assesses that 20 states either
+possess or show an interest in developing offensive chemical/or biological capabilities.
+These capabilities pose a threat to UK forces deployed overseas and hence steps are
+described elsewhere in the White Paper to strengthen Army/RAF NBC defence. The
+SDR states that:
+
+At present, any risk to Britain from the ballistic missiles of nations of concern in
+terms of proliferation is many years off, but the risk to some of our NATO allies
+is less distant; and British forces must be able to operate in regions, such as the
+Gulf, where they might face these risks.[99]
+
+The Government has decided not to develop a national ballistic defence capability, partly
+as technology in this field is changing rapidly. However, the government will monitor
+developments and consult with allies, particularly within NATO.[100]
+
+Essay Five details other areas of work in conventional arms control. These include
+negotiations to ensure the continued relevance of the CFE Treaty, which since 1991 has
+limited heavy weapons in NATO and the former Warsaw Pact, and of the Vienna
+Document on confidence-building measures in the OSCE. An RAF Andover will be reroled for use in inspection flights under the Open Skies Treaty, restoring a previously
+deleted capability.
+
+### B. Assessment
+
+The changes announced to Trident in the SDR are minor rather than fundamental. On the
+operational side, the use of single crewing and the practice of having one submarine on
+patrol at any one time has reduced Trident to a minimum _active nuclear deterrent._
+
+96 Cm 3999, Para 72
+97 Essay Five, Para 26-28
+98 Ibid, Para 32
+99 Ibid, Para 40
+100 Ibid, Para 45
+
+
+-----
+
+However, on close analysis, the reduction in warhead numbers may represent an act of
+frankness rather than a real cut. Under the Conservative Government, Britain was to have
+maintained up to 300 warheads but, according to SIPRI, it actually possessed around 260,
+including at least a ten per cent margin for spares and maintenance, that is about enough
+for three boatloads (48 missiles), each with five warheads. This requirement was due to
+fall with the introduction of a small number of single warhead missiles, to be used in the
+sub-strategic role.[101] The figure of “less than 200 operationally available warheads” must
+be seen in this light.
+
+The SDR states that “There are no current plans for any replacement for Trident, and no
+decision on any possible successor system would be needed for several years”.[102]
+
+However, this should be considered within the twenty-year purview of the Review. It
+took 15 years from the firm decision to procure Trident (1980) to the operational
+deployment of the first Trident submarine (1995). If the pre-procurement studies are
+taken into account, then the procurement span was almost 20 years. On this basis,
+preliminary decisions about a possible follow-on to Trident might need to be taken
+between 2000 and 2005.
+
+The SDR might be criticised by those in favour of more rapid progress towards nuclear
+disarmament. The Government states that it is “unequivocally committed to Britain’s
+obligations under the Nuclear Non-Proliferation Treaty”.[103] Under Article VI of the NPT,
+the nuclear weapons states, that is the Permanent Five members of the UN Security
+Council, are "to pursue negotiations in good faith on effective measures relating to cessation
+of the nuclear arms race at an early date and to nuclear disarmament". Notwithstanding
+other arms control initiatives, the UK Government position to wait for progress in
+bilateral reduction negotiations between Russia and USA could be viewed as being rather
+passive. In addition, its decision not to end nuclear patrols and store nuclear warheads
+separately from missile bodies would also be seen by some as overly cautious. At a time
+when there is concern about the physical security of Russian nuclear weapons, it might be
+appropriate for the UK to promote an international agreement to store warheads
+separately from missile bodies.
+
+CND has expressed doubts about the Government figure for Trident running costs, some
+£280m per annum. It points out that this figure ignores the costs of decommissioning the
+Trident submarines and claims that 70 per cent of the operating costs of the Faslane and
+Coulport nuclear bases have been excluded (some £170m). It also suggests that other
+related expenditure, such as the ships, submarines and aircraft required to protect Trident
+submarines on the departure and return from patrol, and the costs of the physical security
+of nuclear bases should also be added (some £50m). Coupled with the £114m for
+1997/98 which the MOD states is attributable to Trident costs, CND maintains that
+
+101 _SIPRI Yearbook 1998, pp. 439-440_
+102 Essay Five, Para 14
+103 Ibid, Para 22
+
+
+-----
+
+Trident operating costs are in fact in excess of £500m per annum. CND also holds that,
+due to insufficient clarity in the defence votes, the true costs of the nuclear weapons
+programme is not £410m but in excess of £1bn.[104] The USA became the first nuclear
+weapons state to reveal full details of its stocks of plutonium, and their location, in
+1996.[105]
+
+Perhaps the most trenchant criticism of the UK’s nuclear weapons policy is the lack of
+clarity about the role of the sub-strategic nuclear deterrent. Given that this is the most
+likely, although still remote, contingency for Trident use, there is no text in the SDR on
+sub-strategic doctrine. If Trident is intended to have a deterrent role against the use of,
+for example, chemical weapons by ‘rogue’ states, then some explanation of the thinking
+might be expected.
+
+The Government’s position on the threat from ballistic missile development overseas
+could also be regarded as unduly complacent. In 1997, the US Congress established a
+Commission to Assess the Ballistic Missile Threat, known as the Rumsfeld Commission.
+This is a bi-partisan expert body tasked with examining the US administration’s claim
+that the continental USA faced no threat of missile attack from states newly acquiring this
+capability before 2010. The Commission reported that the long-range ballistic missile
+threat to the USA is “broader, more mature and evolving more rapidly than has been
+reported in estimates and reports by the intelligence community”. The report did not rule
+out the development of long-range missiles by Iran, North Korea and Iraq within the next
+decade.[106] Whatever the nature of the Government’s risk assessment, an influence on
+decision-making is likely to have been the huge cost of any ballistic missile defence
+system. On the one hand, the UK appears to look to US capabilities for the current
+defence of UK forces from ballistic missile attack in certain expeditionary operations, i.e.
+an act of role prioritisation, and, on the other, looks to possible future multilateral NATO
+solutions to European defence. However, the principle of role prioritisation and multilateralism of defence capabilities is implicitly rejected elsewhere in the SDR.
+
+104 CND, Lies and Damn Lies Within the Strategic Defence Review, August 1998 CND states that, when
+related expenditure such as on the development of Trident reactor, construction at AWE, Faslane and
+Coulport, and work on the Trident warhead are included, the capital costs of Trident are in excess of
+£20bn, rather than the £12,520million stated by the Government.
+105 ‘US Plutonium Inventory is nearly 100 Metric Tons’, The Washington Post, 7 February 1996
+106 _Armed Forces Journal International, August 1998_
+
+
+-----
+
+## VI Conventional Forces
+
+### A. The Royal Navy
+
+**New Structure**
+
+In line with the greater emphasis on rapid deployment, the Royal Navy will change its
+bias from open-ocean warfare, as formally envisaged in the North Atlantic, to force
+protection and near coast (littoral) operations. Shallow water operations in UK waters
+will also be given less importance.
+
+The centrepiece of the new strategy of force projection is the planned acquisition of two
+large, 40,000 ton aircraft carriers, with a complement of up to 50 aircraft and helicopters
+each. The first will have an in-service date of 2012. The fixed-wing component could be
+provided by the Joint Strike Fighter but the MOD is also studying a marinised Eurofighter
+2000, an upgraded Sea Harrier and other existing US and French naval jets for its Future
+Carrier Borne Aircraft requirement.[107] The two new carriers will replace the three
+existing Invincible class light carriers, which will be retained in the meantime. The latter,
+of 20,000 tons, only deploy a maximum of 24 aircraft and helicopters and were originally
+designed for anti-submarine warfare operations rather than force projection.
+
+Deployment capabilities will be improved by the acquisition, possibly as part of a PrivatePublic Partnership, of four additional 'roll-on roll-off' container ships to add to the
+existing two (Sea Chieftain and _Sea Crusader). The 3[rd] Commando Brigade will be_
+retained in its present form. Modernisation of the amphibious squadron will continue
+with the recent addition of a helicopter carrier (HMS Ocean) and the construction of two
+replacement Landing Platforms Dock (HMS Albion and HMS Bulwark). A tender will be
+invited for two replacement Landing Ships Logistic(LSL); refurbishment of two older
+LSLs has proved more expensive and time-consuming than originally intended.[108] As
+planned, the Royal Fleet Auxiliary will also acquire 2 Auxiliary Oilers. A 200-bed
+hospital ship will be procured with provision made for a second.
+
+Due to the reduced threat in UK waters and new flexibility in certain deployments, the
+size of the destroyer/frigate force will be cut from 35 ships to 32. This will be achieved
+over the next three years by paying-off five Type 22 frigates (HMS Boxer, _Beaver and_
+_London_ in 1999, _HMS Brave_ in 2000 and _HMS Coventry in 2001) and, as previously_
+intended, one Type 42 destroyer (HMS Birmingham in 1999) and bringing three Type 23
+frigates into service over the same period.[109] There will be no further order for Merlin
+ASW helicopters; the RN will only procure 44. In order to fill the gap left by an earlier
+
+107 ‘UK studies Eurofighter for future carrier’, Jane’s Defence Weekly 22 July 1998
+108 See R. Scott, ‘RN abandons plans to prolong LSL vessels’, Jane’s Defence Contracts, December 1997
+109 HC Deb 8 July 1998 c 1096
+
+
+-----
+
+expected order for 24 Merlins, 10 Lynxs will be upgraded from Mk 3 to Mk 8 standard.[110]
+
+The MOD remains committed to the Horizon anti-air frigate as a replacement for the
+Type 42. A Future Escort is planned to replace the Type 22 and 23s.[111]
+
+The attack submarine fleet will be cut from 12 to 10 with the paying off of HMS Splendid
+in 2003, when it is due for refit, and HMS Spartan in 2006, after a refit in 1999.[112] All
+remaining attack submarines will be fitted with (conventionally-armed) Tomahawk cruise
+missiles, rather than only seven as originally planned. Despite the cut in the fleet size,
+two further Astute class submarines will be ordered after 2000 to join the three already on
+order, which will start to enter service in 2005.
+
+Due to a reduced mine threat in home waters, the Mine Counter Measures Vessel
+(MCMV) fleet will increase from a current 19 to only 22 ships, rather than 25 as
+previously intended. This will be achieved by continuing to commission Sandown
+MCMVs while paying off three Hunt class ships after 2000.[113] Although the often
+reviewed Fishery Protection Squadron will remain in being, the decision of the Scottish
+Fishery Protection Agency that it no longer requires a dedicated RN ship means that HMS
+_Orkney will pay off in 1999.[114] Overall, personnel freed from reductions in the fleet will_
+be used to fill gaps elsewhere. However, the net effect of the force changes will be a cut
+of 1,400 posts.
+
+**Assessment**
+
+The decision to acquire two large carriers has a certain irony, in that it was an earlier
+Labour government which decided to scrap plans for a new generation of large fixedwing carriers in 1966. The new ships will also be expensive, costing perhaps £2bn not
+including aircraft, and it remains to be seen whether the MOD will be able to afford them,
+even if, as with _HMS Ocean, commercial rather than military specifications are used._
+Given that the first is not intended to enter service until 2012, it stands outside the MOD’s
+current long-term costings. Indeed, a future government could well review this decision
+on economic grounds. It is also open to question whether Britain should place so many of
+its financial and weaponry eggs in one carrier basket, which may be vulnerable to attack
+from mines, missiles and aircraft. Still, the reluctance of all the Gulf States but Kuwait to
+sanction the use of their airfields for potential air strikes on Iraq earlier this year, severely
+hampered the organisation of a projected air campaign. In international waters, aircraft
+carriers offer independence and mobility as command and force platforms. However, it is
+notable that the MOD has only decided to plan for two carriers. Although this may be all
+that Britain can afford, the provision of two ships will mean that when one is in refit and
+
+110 D. Barrie, ‘Rhetoric or reality: the UK’s Labour Government has delivered its magum opus on its armed
+forces’, Flight International, 15 July 1998
+111 HC Deb 21 July 98 c 478w
+112 Ibid
+113 Factsheet 28
+114 Factsheet 29
+
+
+-----
+
+another undergoing a period of regular maintenance, none will be available. In these
+circumstances, a naval task force would lack its most potent element or, more likely, opt
+to deploy HMS Ocean in a task for which it has not been designed.
+
+Within a fixed Naval budget, as with the other services, new capabilities have been
+bought with cuts elsewhere. In the RN these fall primarily on the submarine and
+destroyer/frigates fleets. The decision to continue with the £150m refit of HMS Spartan
+at the Rosyth dockyard, for only an additional four years of service life has been the
+subject of criticism by the Opposition.[115] NATO, overseas, training and other
+destroyer/frigate commitments have not been changed. The cuts in the destroyer/frigate
+force are partly gained by altering the manner in which some of these commitments are
+discharged. With new ‘flexibility’ the Falklands and Caribbean guardships and Armilla
+patrol are maintained, but, in the former two cases, 12-month cover will no longer be
+instantly available, and for the latter a reduction from two ships to one.[116] It remains to be
+seen whether these changes are entirely consistent with the UK’s ostensible commitments
+to the defence of its Overseas Territories and its reaffirmed defence interest in the Gulf.
+Moreover, the paying off early of a number of frigates is not reversible. Rather than
+perhaps being placed in reserve for future eventualities, as for example, certain ships are
+in the US Navy, these frigates will be sold abroad. A reduction of the national antisubmarine warfare capability must also be balanced against the proliferation of submarine
+technology, particularly in the Middle and Far East. Forty countries now operate dieselelectric submarines. Iran, for example, has acquired such submarines from Russia.[117]
+
+And given the commitment to rapid deployment, it seems odd that there is no mention of
+a replacement for the Sea King helicopters in either their commando or early warning
+role.
+
+### B. The Army
+
+**New Structure**
+
+The SDR reorganises the Army’s existing structure in order to conform with the policy of
+retaining forces capable of engaging in conventional warfare but making them more
+deployable and more mobile. The basic structure of two combat divisions is retained but
+significant changes are made to the brigade structure. The current force of five heavy
+brigades (three armoured and two mechanised) and three light brigades (one airborne, one
+airmobile and one attached RM Commando) will be altered by converting the 5[th]
+
+Airborne Brigade into a third mechanised brigade (the 12th Brigade). This is because
+“we do not see a need for parachute operations at bigger than battalion level”.[118] The new
+
+115 See HC Deb 20 July 1998 c 771w
+116 HC 138, Para 227
+117 D. Foxwell,' Sub proliferation sends navies diving for cover: the multiple menace of diesel electric
+submarines', International Defense Review, August 1997
+118 Cm 3999, Para 112
+
+
+-----
+
+brigade will also help with overstretch and form part of an innovative readiness cycle.
+Each Brigade will “spend a year training, followed by a year at high readiness as part of
+the Joint Rapid Reaction Forces pool, followed by a year either preparing for, deployed
+on (for six months) or recovering from peace support operations such as Bosnia”. The
+plan is to make available: an armoured or mechanised brigade at high readiness for JRRF
+operations; two brigades annually to meet an indefinite one brigade peacekeeping
+commitment; a division of up to three brigades with a choice of capabilities at varying
+states of readiness for warfighting; and an armoured and a mechanised brigade able to
+train coherently; and, in parallel, retain Britain’s contribution to NATO.[119] A key element
+of the JRRF will be the 24 Airmobile Brigade, incorporating two battalions of the
+Parachute Regiment and the new attack helicopters as a new air manoeuvre force under
+the Joint Helicopter Command (see below).
+
+Although no cuts will be made to the number of armoured and infantry formations, there
+will be some changes in their role to fit the new brigade structure. Only six heavy
+armoured regiments will be retained with the remaining two being re-roled as a fourth
+armoured reconnaissance regiment and an NBC regiment. Of the 40 infantry battalions, 9
+instead of 8 will be armoured infantry (with Warrior) and 6 instead of 4 mechanised (with
+Saxon), leaving 22 rather than 25 in the light infantry role. In the Parachute Regiment
+only one battalion, instead of the current two, will be prepared for airborne operations.
+Provision for airborne support elements will presumably be made from within 24
+Brigade.
+
+386 Challenger II main battle tanks will still be procured but will be organised in a
+manner aimed at maximising efficiency and at prolonging their longevity. The six
+remaining armoured regiments will each gain an additional squadron, expanding from 38
+tanks and 470 personnel to 58 tanks and 600 personnel. They will only utilise 30 tanks
+each for training purposes, with the remaining being in maintenance or reserve for rapid
+deployment. Similar ‘whole fleet management’ of the Warrior and Saxon fleets will
+allow extra equipment to be released for the new armoured infantry and mechanised
+battalions. The MOD will collaborate with the US government to develop a new
+reconnaissance vehicle in the TRACER/Future Scout and Cavalry System programme
+and with France and Germany to develop a Multi-Role Armoured Vehicle (MRAV).
+
+Plans to acquire Medium Range Trigat and a Next Light Anti-Armour Weapon are
+retained but orders will be reduced to reflect the Army’s new structure and readiness
+patterns.
+
+In combat support, the Royal Artillery will retain its 15 regiments, but one will convert
+from l05mm light guns to the AS90 self-propelled gun. Programmes for new precision
+munitions for the AS90 and Multi-Launch Rocket System and a light gun replacement
+will continue. The Royal Engineers will expand with an increase from five to six close
+
+119 Factsheet 31
+
+
+-----
+
+support regiments, the establishment of a full regiment to support the air manoeuvre force
+and two new engineering squadrons to back RAF overseas deployments. Two new
+signals squadrons will also be formed for this purpose.
+
+Extensive enhancements are made to combat service support units centred around the
+formation of two logistical supply chains capable of sustaining two concurrent medium
+scale deployments and reinforcing the support elements of the six heavy brigades. This
+will involve the establishment of 2,000 additional posts chiefly in the Royal Logistics
+Corps, Royal Electrical and Mechanical Engineers, Royal Engineers and Royal Signals.
+A new field ambulance regiment will also be formed. Four field hospitals will be given
+higher readiness. In the only reduction in this area the Army's Landing Craft Logistic
+will be withdrawn from service from 1 April 1999.[120] In support, Army equipment
+support will be reorganised with the absorption of the Army Technical Support Agency
+into this new body. The Army Base Repair Organisation will be re-structured and may
+become a trading fund.[121]
+
+The British Signals Brigade and 1[st] Armoured Division dedicated to the Allied Rapid
+Reaction Corps (ARRC) will remain in Germany although three of the existing six heavy
+armoured regiments and some support units, together 186 tanks and some 2,500 personnel,
+will be repatriated. The garrisons and units affected by these changes have yet to be
+selected. Retaining a German deployment is justified on grounds of mutual NATO
+obligations, particularly to the ARRC, training opportunities with allies, closer proximity of
+potential operational areas, and the cost and practicality of finding barracks and training
+areas for the division in the UK.[122]
+
+The rationalisation of the Army’s district/divisional structure is still under study, with a
+possible reduction from the six districts to three.[123] Overall, the regular Army’s
+establishment will increase by 3,300 posts to 111,300. Full implementation of the postSDR structure will not be complete until the Army has recruited to new manpower levels
+and sustainability shortfalls are met, although the JRRF should be operational by 2001.[124]
+
+**Assessment**
+
+In a review which is fairly neutral in its impact, the Army could be said to be the chief
+beneficiary. This arises partly from a realisation that it is the Army, of all the Services, that
+has suffered the most from overstretch. The combination of heavy commitments in
+Northern Ireland and Bosnia, coupled with personnel shortages, has placed it under intense
+pressure in recent years. The strain has fallen not only on the infantry but also on combat
+service support units. The additional manpower is intended to relieve this overstretch.
+
+120 Factsheet 38
+121 Essay 11, Para 48
+122 Factsheet 33
+123 Essay 11, Para 36
+124 Essay Six, Paras 30-36
+
+
+-----
+
+However, it remains to be seen whether recruitment will be sufficient to meet this target.
+Full manning at the previous level was not expected until 2002; this date has now been put
+back to 2004.[125] The extra manpower allotted to the Army is also a feature of the SDR’s
+land-based emphasis. Whatever the publicity given to the concept of a three-dimensional
+battlespace, the strategy which the SDR assumes is based mainly on achieving security
+objectives on foreign territory. The major improvements to lift and logistical and medical
+support are all about getting the Army to a crisis and supporting it there.
+
+The creation of the readiness cycle is an innovative attempt to grapple both with the
+problems of overstretch and with the need for more rapidly deployable forces. However, it
+is predicated on formations of brigade size. Most emergency deployments are at battalion or
+sub-battalion level. In particular, the cycle also does not seem to allow for the deployment
+of units to Northern Ireland for six-month roulement tours; formations in the six deployable
+brigades may still be sent to Ulster when they are supposedly training or recovering from
+overseas operations. The main burden of roulement tours in Northern Ireland is likely to
+continue to fall on home-based defence battalions outside the JRRFs. The maintenance of
+reasonable gaps between such tours for these units and for those in the ‘readiness cycle’ will
+be dependent on developments in the Northern Ireland security situation, which may allow
+the future reduction of the Army garrison there, and on the pattern of overseas missions.
+
+The decision to scrap the airborne brigade has had its critics, fearful of the impact on the
+Parachute Regiment’s particular ethic and the loss of this capability at brigade level.
+However, the SDR does retain a battalion in a secondary air-dropping role, albeit that in the
+longer term this will be dependent on retaining para-trained combat and combat service
+support units. It remains a fact that the last British combat drop was at Suez in 1956 and the
+RAF probably does not have sufficient airlift for more than a battalion group mission in any
+case. Even its close ally, the USA, which retains an entire parachute division, last dropped
+in brigade strength during the Vietnam War. As the Army’s new elite rapid deployment
+force, the air manoeuvre brigade will take some time to bed down. It should also be pointed
+out that the brigade is only manoeuvrable for as far as the range of its helicopters and is
+dependent on a large logistical base. Although the SDR has made some extra provision for
+this, the last operational deployment of 24 Airmobile Brigade to Bosnia and Croatia in 1995
+was delayed and hampered by a lack of logistical support.
+
+Although some reductions are made and a practical justification given, the commitment to
+retain a division in Germany over the twenty year purview of the SDR is open to question.
+The SDR admits that “the specific military argument for stationing forces close to the Cold
+War front line has disappeared”.[126] Many would see the continued stationing of a quarter of
+the UK Army on the continent as a Cold War anachronism. The British military presence
+may look even more anomalous following NATO enlargement to the east in 1999 The SDR
+talks of the benefits of training with allies, but it is actually quite difficult to train in
+
+125 Essay Eight, Para 13
+126 Essay Six, Para 34
+
+
+-----
+
+Germany due to environmental restrictions. There would seem to be no reason why units
+could not be sent from the UK to exercise with allies on the continent, as indeed they were
+frequently during the Cold War. As regards NATO, Britain could be said to be enhancing
+its contribution to the Alliance of the future by developing its rapid deployment forces for
+service outside the NATO area. In this context, Britain could retain leadership of the ARRC,
+whilst withdrawing its combat formation from Germany. In the same manner, it could be
+argued that the Eurocorps has not been materially affected by the French decision, in 1996,
+to withdraw all but a few thousand of its remaining troops in Germany by the end of the
+decade. It remains open to doubt whether Britain will still need to retain a permanent force
+in Germany in 2015.
+
+### C. The Royal Air Force
+
+**New Structure**
+
+Air power is seen by the SDR as complementing ground and maritime operations but also
+having an offensive role in its own right. This will be further enhanced by the acquisition
+of further precision air-delivered weapons. Air power will also have a role in non-war
+fighting missions, such as the enforcement of no fly zones and the provision of
+humanitarian aid. The SDR concludes that a balanced force, similar to the present force
+structure, is required to meet these contingencies.
+
+The Review reconfirms the procurement of 232 Eurofighter 2000s, now renamed the
+Typhoon. “Eurofighter will be the primary component of the Royal Air Force future
+fighting capability and a vital element in Britain’s overall defence effort”.[127] The
+Typhoons will replace the Tornado fighters and the Jaguars with 140 in the front-line and
+the remainder used for training and replacement. The existing front-line fast jet strike
+fleet will be reduced from 177 aircraft to 154. Consequently, 12 Tornado GR1s, 9
+Harriers and 2 Jaguars will be placed in store. One of the existing strike squadrons, No.
+17 (Tornado GR) Squadron at RAF Bruggen will disband in 1999. Of the other Tornado
+squadrons at Bruggen, 14 Squadron will move to RAF Lossiemouth and 9 and 31
+Squadrons to RAF Marham. The Tornado Operational Conversion Units (OCU) will
+move to RAF Colisthall. The moves will occur in 2001.[128] The Harrier squadrons will
+form part of the Joint Force 2000. The air defence force will be cut from 100 to 87
+aircraft with one of the six squadrons, No. 29 (Tornado F3) Squadron at RAF Coningsby,
+being disbanded.[129] A greater call will be made on aircraft and staff aircrew in OCUs for
+use in combat operations.
+
+127 Essay Six, Para 38
+128 MOD PR 19 August 1998
+129 HC Deb 9 July 1998 c 595w
+
+
+-----
+
+Elsewhere, the RAF Regiment will be reduced from 14 to 13 squadrons but some
+Regiment personnel will be drafted into a new joint Army/RAF NBC defence unit. The
+Regiment’s air defence squadrons will form part of the joint air defence command with
+the Army. In order to improve medical evacuation, an additional RAF aeromedical flight
+and 18 paramedic air escort flights will be established. The Search and Rescue helicopter
+force will retain its current structure but there will be more civilianisation. The support
+helicopter fleet, with 22 Merlin and 14 Chinook helicopters already ordered, will transfer
+to the new Joint Helicopter Command. There will be no redundancies in the RAF arising
+from the SDR, with the released manpower used to help fill current shortfalls.
+
+On procurement, the Review confirms a number of existing missile projects: BVRAAM
+(Beyond Visual Range Air to Air Missile), the Brimstone advanced anti-armour missile,
+and the Storm Shadow stand off air-to-surface long range cruise missile. More
+AMRAAMs (Advanced Medium Range Air to Air Missile) will be acquired. The
+Tornado GR4 squadrons will be given more logistical support to improve their
+deployability, as well as a new collision warning system early in the next century. The
+Nimrod reconnaissance aircraft will be fitted with the Joint Tactical Information
+Distribution System to enhance their integration with other forces. The RAF’s
+reconnaissance capabilities will also be improved by the procurement of ASTOR (the
+Airborne Stand-Off Radar) perhaps involving five new aircraft. The MOD will continue
+to pursue a successor to the Tornado GR4, the Future Offensive Air System (FOAS).
+This could be supplied by manned aircraft, cruise missiles or Unmanned Air Vehicles
+(UAVs).[130]
+
+The modernisation of the air transport fleet, begun with acquisition of 25 Hercules C130Js, will continue with the procurement of four US Globemaster II C-17s “or their
+equivalents” in the short-term and complete renewal of the remainder of the fleet in the
+longer term. Requests for proposals will be issued in both cases in 1999 with a decision
+expected in 2000. The Future Large Aircraft is a contender for the second order. The
+tanker force will also be renewed.[131]
+
+**Assessment**
+
+For the RAF, by preserving a broad range of capabilities, the SDR essentially represents
+the status quo, although the transfer of the Harriers and RAF helicopters to new joint
+forces could be said to weaken the Service’s independence. The order for the Eurofighter
+2000, although regarded as an expensive white elephant by some commentators, had been
+ring-fenced at the start of the Review and was never in doubt. There is, however, a tilt
+towards strategic lift with new aircraft here being paid for by cuts in the existing fast jet
+fleet. Given the level of the perceived threat to UK airspace, a justification can be made
+for the disbandment of an air defence squadron. More difficult to understand is the
+
+130 Essay Six, Paras 37-49 and Factsheet 41
+131 Essay Six, Para 18
+
+
+-----
+
+decision to cut the strike fleet in the light of potential calls for the use of RAF offensive
+air power in future crises and conflicts abroad. However, it seems that one Tornado
+squadron was to be disbanded in any case in order to stretch the life of the Tornado fleet
+as a whole to 2018, when FOAS is intended to enter into service.[132]
+
+Many expected RAF victims of the SDR escape. For Example, the often mooted
+disbandment of the Jaguar force and merger of the RAF Regiment into the Army did not
+occur. The Brimstone air launched anti-armour weapon, originally envisaged to counter
+massed columns of Soviet tanks, also survives, but, although not mentioned in the
+Review, the Tornado has apparently lost its anti-ship role. The withdrawal of the RAF
+from Germany will still take place by 2002, despite the fact that an earlier pull out of
+Tornado squadrons based there would save approximately £2 million per month.[133]
+
+On the debit side a possible order for additional support helicopters did not materialise.
+The BVRAAM will not enter service until 2008. This was earlier planned to occur in
+2003, when the Typhoon will enter squadron service.[134] As an interim measure the MOD
+will procure Raytheon ALM-120 active radar guided Advanced Medium Range Air-Air
+Missiles (AMRAAM).[135]
+
+Finally, the commitment to procure four large C-17 transport aircraft “or their equivalent”
+appears curious when there is no comparable aircraft immediately available. A RAF
+spokesman has been quoted as saying, “no decision has been taken on whether to buy or
+lease the C-17; there really is no equivalent”.[136] Given that each C-17 costs some $200m,
+leasing would seem a more likely option until such time as the second and larger batch of
+new air transport aircraft is acquired.[137]
+
+### D. The Reserves
+
+**New Structure**
+
+The SDR devotes considerable space to the future of the reserves and the Territorial
+Army in particular. Both the Royal Naval Reserve (RNR) and the Reserve Air Forces are
+to see minor expansions. The RNR will be increased by 350 posts to 3,850 to, "provide
+an expanded pool of personnel to provide additional reinforcements for the Fleet”.[138] The
+Royal Marines Reserve (RMR) will remain the same size but both the RNR and RMR
+will be given provision for extra training. Two hundred and seventy posts are created in
+
+132 HC 138, Para 254
+133 MOD PR 19 August 1998
+134 D. Barrie, ’Rocket’s red glare’, Flight International, March 1998 and Cm 3781, p. 34
+135 D. Barrie, ‘Rhetoric or reality: the UK’s Labour Government has delivered its magum opus on its armed
+forces’, Flight International, 15 July 1998
+136 _Jane’s Defence Weekly 15 July 1998_
+137 _The Financial Times 8 September 1998_
+138 Essay 16, Para 16
+
+
+-----
+
+logistics and other supporting roles in the Reserve Air Forces, which will expand from an
+establishment of 2,650 to 2,920. Firm support is given to the use of reservist aircrew. In
+contrast, the TA will see a significant reduction from 57,000 to “around 40,000”[139]. The
+bulk of these reductions will fall on yeomanry and infantry units.
+
+The aim of the changes to the reserves is to make them more relevant and useable and
+integrate them more closely into regular forces, in the context of a changed strategic
+environment. Much of the TA, particularly its armoured and infantry units, has been
+configured to resist a Russian attack. These units have either been allocated to home
+defence or as reinforcements to UK forces in Germany. When there is no perceived
+direct military threat to the UK, these formations had become less useful. The TA, both
+as individuals and as formed units, will now be optimised to support the armed forces in
+rapid deployment missions abroad under the authority of the Reserve Forces Act 1996.
+The TA will not only meet routine commitments in Bosnia and elsewhere but, for the first
+time, will be mobilised to support warfighting expeditionary forces of divisional size.
+The TA will be particularly important to the medical services and as a consequence will
+be mobilised for missions of brigade level. In order to facilitate rapid call-out, an Army
+Mobilisation Centre is to be established at Chilwell for pre- and post-call out training. In
+addition, a Reserves Manning and Career Management Division in the Army Personnel
+Centre, Glasgow “will centralise all personnel management for the TA, bringing it into
+line with the Regular Army and also providing a single focus for identifying and notifying
+individuals for mobilisation”.[140] The Sponsored Reserve concept will be developed, that
+is where the personnel of defence contractors have a liability for call-out. Such personnel
+may be used, in particular, to fill logistical posts in an overseas mission after an initial
+deployment phase. The number of Territorial Army and Volunteer Reserve Associations
+(TAVRAs), which both administer and represent the TA, will be reduced from 14 to 12 to
+conform with the boundaries of the Land Command Brigade structure.[141] The TAVRAs
+will loose their financial autonomy and become financially subordinate to the
+district/divisional commanders.[142] The reduction of the TA will only take place after
+further consultation, not due to finish until the autumn, and with a view to the links
+between the TA and local communities and TA support for the cadet forces, the latter
+receiving some additional resources. A consultative document, TA Restructuring, which
+outlines the suggested changes, has not yet been made available to the House.
+
+**Assessment**
+
+The changes to the Territorial Army have proved one of the most controversial elements
+of the SDR. The reductions announced by the SDR amount to the fourth round of cuts
+since the end of the Cold War. At 40,000 personnel, the TA will be less than half of its
+
+139 Cm 3999 Para 109
+140 Factsheet 39
+141 Essay 11, Para 37
+142 Factsheet 10
+
+
+-----
+
+91,000 establishment in 1991.[143] The new total bears comparison with that which resulted
+from cuts to the TA under the Wilson government in the 1960s and which succeeding
+governments reversed between 1970 and 1981.[144]
+
+Although details of the implementation of the cuts have not been revealed officially, it
+has been reported that the TA infantry battalions will be the hardest hit, falling from the
+current 36 to 15. The TA RAC units will also see a reduction of over 50 per cent.
+Perhaps more significantly, 140 out of the 443 TA centres will close. No mention is made
+of the loss of an estimated 600 regular and MOD civilian posts attached to the
+TAVRAs.[145]
+
+The fact remains that no single formed unit of the TA infantry has been directly involved
+in a UK military operation since World War II. Some members of the TA complained at
+the time of the Gulf War of 1990-91 that TA units were not sent to the region. Although
+this was partly for legal reasons, TA infantry units pointed to the use of three battalions of
+regular infantry in the communications and guarding role. This was exactly the role
+envisaged for much of the TA infantry in plans for the defence of West Germany against
+a Warsaw Pact invasion during the Cold War. What the TA may have overlooked was
+that in the Gulf, this prisoner guard force may also have been intended to provide a pool
+of battle casualty replacements. It may have been the case that the Defence Staff felt that
+it was not wise to use the TA in a front-line combat role. By contrast the US Army used
+whole reservist artillery units in the Gulf.
+
+TA enthusiasts would see the cuts as a result of a persistent neglect of the TA by the
+regular Army.[146] When TA strength amounts to over half regular strength, then, it is
+suggested, the TA should have far greater influence in the Army and MOD. There is, for
+example, no TA officer above the level of brigadier. TA supporters also oppose the trend
+towards breaking up TA formations into smaller groups. They might prefer to see the
+formation of wholly TA Brigades within Land Command and more training at whole unit
+level. It is certainly the case that the TA has had, in the past, a poor reputation in the
+regular Army as the home of bands of ‘weekend warriors’. However, the TA has gained
+much respect for its activities in Bosnia. In addition, there are now four TA brigadiers
+and one RNR Commodore where there were no one-star volunteer reservists at all.[147]
+
+Clearly the military potential of the TA will remain a matter of debate. However, the TA
+does have a number of distinct advantages. The TA soldier is cheap and costs about 20
+per cent of his regular counterpart.[148] The Reserves cost £360m per annum, plus the £80m
+cost of the TAVRAs. As the Defence Committee points out, this sum supplies over
+60,000 military personnel for about 2 per cent of the defence budget.[149] Perhaps more
+importantly, at a time when memories of National Service are fading, the network of TA
+
+143 The TA establishment was cut to 63,500 in 1991, to 59,000 in 1994 and 57,000 in 1997 (See RP 96/40,
+_The Reserve Forces Bill, pp. 10-11)_
+144 See RP 96/40, pp. 7-8
+145 _The Times 20 April 1998 and The Sunday Telegraph 16 August 1998_
+146 See, for example, Julian Brazier HC Deb 27 October 1997 c 664-5
+147 HC 138, p. 59
+148 _The Sunday Times 28 September 1997_
+149 HC 138, Para 280
+
+
+-----
+
+units and drill halls provides an important link between the armed forces and the wider
+community. Under the TA restructuring proposals, geographical coverage will be thin.
+For example, there will apparently only be seven TA bases in the whole of Scotland and
+five in East Anglia.[150] The distances involved in reaching them may not only harm TA
+recruitment and retention but also affect the military ‘footprint’ which the Government is
+keen to preserve.
+
+The TA forms an important source of regular recruitment, both directly but also indirectly
+through the cadet forces. The SDR recognises the role of the cadet forces as “a
+significant national volunteer youth movement”.[151] Of the 443 TA centres, 376 are used
+by the cadet forces.[152] The closure of many centres could have an adverse affect on cadet
+recruitment, particularly if cadets are asked to travel long distances to their particular unit.
+(The SDR promises to minimise this impact.)[153] Domestically, TA units have also been
+used in various Military Aid to the Civil Community (MACC) tasks, such as disaster
+relief, as a supplement to the usual emergency services, who are often hard-pressed in
+such contingencies. On this point, the NBC defence role currently performed by the TA
+is to transfer to the regulars. When this new regular force is abroad, there could be a role
+for reservists in national defence against CBW attack.
+
+There is a clear role to be played by individual specialists and groups of combat reservists
+in support of the regulars in currently envisaged operations. Although the SDR states that
+the number of medical reservists will increase, there will be reductions in the engineering
+and transport units. Even if, as the SDR states, some of them “exist to support a rather
+larger force than we are now likely to deploy”, it could be argued that this particular
+reduction is inconsistent with the emphasis on deployment and logistical support.[154]
+
+Furthermore, the modalities of how a TA support contingent would fit in with proposals
+for a contracted civilian support force for expeditionary operations are unclear. The
+personnel employed by such a contractor would presumably be required to join the as yet
+untested Sponsored Reserve. Whatever the operational difficulties with this concept, this
+might mean three tiers of personnel involved in a particular operation: regulars, TA and
+sponsored reservists.
+
+In a wider sense, there may be a critical mass, both in terms of size and number of
+enthusiasts, below which the TA will loose any real effectiveness. TA membership could
+be regarded as a pyramid in which only a fraction of the total is engaged to the highest
+extent in reservist activities. An excessive cut in the overall TA strength could merely
+demoralise and deconstruct the organisation as whole and hinder the 10 or 20 per cent of
+the readily useable contingent from volunteering for additional call-outs.
+
+Ultimately, as in other areas of the SDR, working within existing budgets has dictated
+trade-offs. The most immediate missions in which the Army is likely to be engaged are
+short-notice overseas expeditions. There are currently manning deficiencies in these
+
+150 The Sunday Telegraph 16 August 1998 and The Scotsman 17 August 1998
+151 Essay Seven, Para 28
+152 HC Deb 27 April 1998 c 23w
+153 Factsheet 10
+154 Essay Seven, Para 17c
+
+
+-----
+
+areas and an extra 3,000 men can be paid for by reducing resources available to a TA,
+much of which would be regarded as inappropriate to these contingencies. However, the
+TA does serve as a platform upon which to reconstitute and expand the Army in the
+future, should the UK face a greater level of threat. Even in the short-term the TA may
+have an understated value as a last reserve. The SDR strategy sees the bulk of the Army
+as an expeditionary force. This is at best a two-shot weapon, able to respond to at most
+two small-scale overseas deployments at any one time. The potential destructiveness of
+conventional warfare for the forces of a western power may often be underestimated and
+should the regular Army suffer heavy casualties in a foreign campaign, then the TA may
+offer an essential kernel for reconstruction. Here, the TA armour and infantry units could
+play an important part. The TA in its present form could therefore be regarded as
+providing a limited insurance policy. The SDR seems to have decided that, given the
+perceived low level of threat to the UK, and the longer warning times that result, such an
+insurance is not necessary.
+
+
+-----
+
+## VII Defence Procurement
+
+### A. Policy
+
+The SDR devotes considerable importance to achieving “faster, cheaper and better”
+defence procurement as, in the Defence Secretary’s words, “too often in the past our new
+equipment has been too expensive and delivered too late”.[155] As the SDR points out,
+“The 1997 National Audit Office (NAO) report on major programmes reported an
+average delay of 37 months, unchanged from 1996”.[156] The costs of the 25 major projects
+identified in the NAO report have registered a 7.5-8.5 per cent overrun over original
+estimates in each of the last three years.[157] One commentator has described this picture
+more trenchantly:
+
+The defence ministry’s capacity to waste money is legendary. Procurement is a
+dismal story of delays and extortion. The defence contractors, assured their
+prosperity is vital to national security, have a captive customer and no incentive
+to cut costs.[158]
+
+This situation may appear bleak but other countries also encounter problems in defence
+procurement. The NAO reviewed procurement practices in 11 other countries in 1994
+and concluded that "relatively, and particularly in terms of the pursuit of competition, the
+Department was performing well".[159]
+
+The main causes of procurement problems were identified by the MOD as:
+
+– slippage due to technical difficulties, budgetary constraints leading to the
+postponement of expenditure, the redefinition of requirements and difficulties
+over collaborative programmes;
+
+– cost over-runs due to programme changes, changes in equipment
+specification, poor estimating and inflation of prices for defence equipment in
+excess of inflation in the economy as a whole.[160]
+
+155 Cm 3999, Introduction, Para 17
+156 Ibid, Para 151
+157 Essay Ten, Fig. 1
+158 Philip Stephens ‘Short range target: Tony Blair’s defence review has taken the politics out of the issue
+but has missed the opportunity to think 10 years ahead’, The Financial Times 25 May 1998
+159 NAO, MOD Defence Procurement in the 1990s, HC 390, 1993-94, Para 6
+160 Essay Ten, Para 4
+
+
+-----
+
+The SDR provided an opportunity to examine the procurement process from first
+principles, drawing on best practice from the private sector.[161] One of the study’s main
+conclusions was that the MOD should no longer operate the same acquisition process for
+all items purchased, but instead should use different means of procuring three separate
+categories of items, each valued at around £3bn. The first category or ‘Tier’ comprises
+low-tech and low cost civil and military items, which are readily available ‘off-the-shelf’.
+Tier 2 includes items which do require some development work and an associated active
+MOD role, but are relatively low cost and low risk, such as components of a weapon or a
+weapons upgrade. Finally, Tier 3 includes the most complex projects, such as ships and
+aircraft, which will involve Tier 1 and 2 items, but are of high cost and risk with few
+potential contractors. The acquisition of all ‘Tiers’ would retain certain common
+characteristics, such as a military requirement, a competition, a contract, testing and
+public accountability, but savings could be made in the way in which procurement was
+managed. For example, Tier 1 items could be procured on much longer contracts.
+
+The SDR also suggests other changes to procurement. This includes a new through-life
+_approach to procurement decisions. During the Cold War, it was often felt necessary to_
+rush equipment into development and production to meet a particular perceived Soviet
+threat. In today’s threat environment, the MOD can spend more time assessing a concept
+and a project before authorising development. Better project planning and estimating
+may reduce the risks of later overruns and delays. Procurement may also now be
+_incremental,_ that is, instead of waiting to introduce an item into service until optimum
+performance has been achieved, equipment will initially be accepted with less ambitious
+capability. Taking account of rapid changes in technology, the equipment will be
+upgraded incrementally, rather than awaiting large mid-life upgrades. The MOD also
+intends that future contracts will be less inflationary. Contracts will be fixed price for
+agreements under five years duration. Contracts over five years will have variation
+clauses based on general output indices, i.e. the general producer price index, rather than
+input indices, such as labour and materials. Historically, general inflation has been less
+than inflation in defence goods. The MOD wishes to pass greater risk and incentive to
+control costs to the contractor.
+
+Another feature of the new procurement policy is closer ‘partnering’, particularly in
+situations where competition is no longer available. This approach will influence the
+formation of integrated project teams, which, unlike the current position where functions
+are conducted separately, will be responsible for both procurement and through-life
+support. Project teams, under long-term and specially recruited leaders, will include
+representatives from all the bodies with an interest in the particular programme including
+the contractors. Project leaders will be given greater powers to take decisions. It is hoped
+that the co-operation engendered by this team approach should, on US experience, lead to
+earlier problem solving and more efficient development and oversight of a project
+throughout its pre- and in-service life.
+
+161 See Essay Ten, Paras 7 –27 for results
+
+
+-----
+
+In earlier efforts to control projects, the MOD introduced the Downey Cycle in the 1960s.
+Projects had to pass a series of assessment hurdles on the way from concept to entering
+into service. Formal approval for entering each new stage was required, often at senior
+level, and the approvals often proved time-consuming. The new Acquisition Cycle will
+reduce these hurdles to only two: at initiation of the project; and at approval for full
+manufacture or the production of a demonstrator. Between these approvals, the team
+leaders will be given greater authority to take decisions, but will be held accountable for
+their actions. The Equipment Approvals Committee, which reports to ministers, will
+remain the highest level equipment approval body in the MOD but will examine fewer
+projects and normally only those in excess of £400m.[162]
+
+The SDR also examined the position and role of the Procurement Executive, and whether,
+the MOD needed a specialist procurement arm or whether its work could be done in the
+private sector. Having decided that there was still a requirement for a civil service,
+although more commercially minded, defence procurement body, the Review then
+examined what the place of the PE should be within the MOD. It resolved that there
+needed to be a clearer customer/supplier relationship. The Review decided that these
+requirements could be best met by turning the PE into an Agency, with effect from April
+1999, and establishing a new central defence customer in MOD HQ. Changes to the PE
+are intended to cut its operating costs by around 20% by 2001/02. Much of this figure will
+be gained by cutting the number of staff by 650.[163]
+
+Important to these procurement reforms will be the establishment of a new specialist
+stream of acquisition personnel in the MOD, a cadre of both civil and military staff, who
+will be specifically trained and spend much of their careers in the procurement field.
+Collectively, the above initiatives are intended to save £2bn over the next decade.[164] A
+team of officials, industry representatives and external consultants, under ministerial
+leadership, will see that the package of Smart Procurement measures are implemented.
+
+The Defence Evaluation and Research Agency (DERA) has played an important part in
+developing new defence technologies and in the procurement process. The SDR studied
+five options for DERA’s future. These included: retaining the status quo; franchising its
+capabilities to university/research sector and industry; limiting DERA to only those
+activities which could not be carried out by industry, i.e. partial privatisation; allowing
+DERA to expand into a wider range of non-defence activities; and seeking more private
+investment via public-private partnerships. Although information on the outcome of this
+particular part of the SDR is limited, it did decide to support public-private partnership
+
+162 HC 138, Para 339. EAC is chaired by the Chief Scientific Advisor and includes the Vice Chief of the
+Defence Staff, the Chief of Defence Procurement and the 2[nd] Permanent Under Secretary.
+163 Factsheet 15 and HC 138, Para 340
+164 Essay Ten, Para 21 and HC 138, Para 350
+
+
+-----
+
+initiatives in order “to strengthen DERA’s ability to continue to provide world class
+scientific research well into the next century”.[165]
+
+### B. Assessment
+
+Smart Procurement is not the first initiative to try to tackle the cost overruns and delays
+which plague defence projects. As the Defence Committee report demonstrates, such
+initiatives stretch back to the Downey Cycle, introduced in the 1960s, and before. It was
+not until the introduction of the Levene Reforms in the mid-1980s that they had any
+significant impact.[166] The introduction of greater competition and fixed price contracting
+in this period is said by the MOD to have led to a reduction of more than 10% in
+procurement costs over the following decade, although the extent of this reduction has
+been disputed.[167] Procurement mechanisms were most recently examined as part of the
+Defence Costs Study in 1993/94. Recommendations arising included: among other
+things, an examination of longer-term contracts; a reduction in the number of tenders for
+a requirement; and the use of single-source suppliers.[168]
+
+Although it draws on a less adversarial relationship with industry practised in the last few
+years, the inclusion of industry in project teams in a ‘partnership’ approach is novel. It
+may help to reduce the likelihood of delays and excess costs. However, there is at least
+the potential danger of industry ‘capture’ of certain defence projects. The MOD has
+sought to define a clearer customer/supplier relationship by separating a future
+Procurement Agency from a new single, central defence customer in the Main Building.
+
+Comment has also been made on the potential dangers of constant incremental change to
+defence systems. Incremental upgrades will need to be managed very carefully to avoid
+harming the availability of equipment to the front-line and are better suited to stand alone
+subsystems of a macrosystem, such as air defence, where improvement of a part will
+benefit the whole. The cost of the Tornado Mid-Life Update, albeit a major upgrade, has
+been almost 70 per cent beyond original estimates and is an object lesson in how control
+can be lost of upgrades.[169]
+
+The procurement reforms may also create further instability for the Procurement
+Executive. Staffing was reduced substantially following co-location of PE branches at
+Abbey Wood on the outskirts of Bristol and then after implementation of the Defence
+Costs Study. Further job cuts may have an impact on morale and destabilise the PE at a
+time when experienced personnel are needed to implement many of the proposals. It is
+
+165 Essay Eleven, Para 51
+166 Named after the former Chief of Defence Procurement Sir Peter Levene (1985-1991).
+167 HC 390, 1993-94, Para 11 and S. Schofield, 'The Levene Reforms: An Evaluation', Defense Analysis,
+August 1995
+168 _Frontline-First: The Defence Costs Study, 1994, Paras 402-412_
+169 David Kirkpatrick, ‘Smart Procurement’, RUSI Newsbrief, August 1998
+
+
+-----
+
+notable, here, that the MOD aims to develop a special ‘acquisition stream’ of personnel,
+perhaps along the lines of the European stream in the home civil service, who are trained
+specifically for jobs in or dealing with the EU institutions. The new team projects may
+also only work if such staff remain in post for five years or more, beyond the usual civil
+service/military job cycle. Hanging on to skilled civil service procurement personnel may
+prove particularly difficult, when they may well be in demand in the private sector.
+Administrative grade salaries are already considerably below those payable in the private
+sector. Contracting-in skilled procurement staff from industry is feasible, but could prove
+divisive and demoralising to civil service team staff.
+
+In sum, 'Smart Procurement' may not be a radical departure but rather a continuation of a
+longer reform process where each new generation of procurement processes is built on
+the foundations of the previous one. Due to the long-term nature of procurement, many
+of the improvements introduced by the SDR will take time to bear fruit. It will not be
+surprising if the NAO _Major Projects Report 1999, which will comment on defence_
+procurement under the first year of the Labour Government, reveals the same litany of
+cost-overruns and delays as its predecessors.
+
+According to the Defence Committee, the savings target set for procurement by the MOD
+is fairly conservative and therefore probably achievable. However, even this projection
+may be optimistic. The MOD procures often complex defence systems, conceived,
+produced and brought into service over perhaps a twenty-year period and these may
+seldom proceed according to plan. The most common reasons for cost increases in
+programmes are re-orientation and inflation. Whatever the dangers of gold-plating and
+notwithstanding the new incremental approach to acquisition, the pace of technological
+change and the shifting needs of the armed forces may require projects to be altered.
+Similarly, longer-term levels of inflation and exchange rates are also unpredictable.[170]
+
+Ultimately, although defence procurement may always be improved, it may never, due to
+its very nature, become perfect and a certain degree of cost overruns and delays may
+prove an inevitable part of the procurement process.
+
+The Defence Select Committee has also expressed concerns about the use of PrivatePublic Partnerships in DERA and the manner in which this might compromise the
+Agency’s role as an independent expert advisor.[171] The Committee stated that:
+
+…we would regard the risks to DERA's impartiality and critical mass of even
+partial privatisation, in the shape of Public Private Partnerships, as unacceptable
+and against the public interest.[172]
+
+170 See HC 238
+171 Defence Committee, The Defence Evaluation and Research Agency, HC 621 1997-98, Paras 20-21
+172 Ibid, Para 35
+
+
+-----
+
+## VIII Defence Industries
+
+### A. Policy
+
+The SDR makes a firm commitment to the maintenance of a strong UK defence industry:
+
+The British defence industry is outstandingly successful and a vital national asset.
+It provides jobs for over 400,000 people and earns the country around £5bn from
+exports each year. From a defence point of view a healthy and competitive
+industrial base is crucial to ensuring that we will be able to continue to procure
+the right equipment for our forces at competitive prices.[173]
+
+The issue of arms exports is only mentioned briefly in the Review and this is via a
+commitment to:
+
+support and promote defence exports within the strict criteria which the
+Government laid down in July 1997 to avoid their misuse for aggression or
+internal repression.[174]
+
+The response from industry to the SDR has been favourable, particularly as almost every
+major conventional defence equipment programme has been kept intact. John Weston,
+Chief Executive of British Aerospace, said: “The SDR offers greater stability to the
+defence industry, allowing for better planning of investments and organisational
+structures.”[175] The Defence Industries Council, which represents defence manufacturing
+associations, has commented that it was looking forward to “implementing ideas which
+can produce cheaper, faster and better procurement.”[176]
+
+While underlining the strategic importance of a healthy defence industry, the SDR does
+acknowledge the problems that the sector has faced following the end of the Cold War.
+The 1990s have witnessed a significant contraction of the global defence market as most
+Western nations dramatically reduced their expenditure on defence equipment.
+According to the Stockholm International Peace Research Institute (SIPRI), world
+military expenditure fell by around one-third in real terms over the period 1988-97.[177] At
+the same time the dissolution of the Cold War power blocs has made the global arms
+market much more competitive.
+
+173 Cm 3999, para 162
+174 Ibid, para 163
+175 D Kemp, "UK companies relieved at review ", Janes Defence Weekly, 15 July 1998, p20
+176 Ibid
+177 SIPRI Yearbook 1998, page 191
+
+
+-----
+
+The SDR points to two possible ways of alleviating these problems.
+
+Firstly, a greater emphasis on finding new ways of exploiting defence technology and
+expertise in civilian markets is proposed. This proposal takes practical shape in the plan
+to establish a Defence Diversification Agency within DERA, whose remit will be to
+“foster, in partnership with industry, greater two-way technology transfer between the
+military and civilian sectors.”[178]
+
+Secondly, competitiveness could be improved, with the SDR pointing to greater
+international industrial collaboration and restructuring as a means of achieving better
+economies of scale. The main impetus behind this move has been the increased
+competition from huge US defence conglomerates, such as Boeing and Lockheed Martin,
+that have emerged from the intense US defence consolidation that has taken place over
+the past five years. Concerns have been expressed that European industries will lose the
+capability to design and manufacture defence systems independently and become mere
+outstation sub-contractors of the US defence giants. Such a scenario would have serious
+implications for national and continental defence capabilities and national sovereignty.
+The SDR underlines the Government’s commitment to assisting the UK and European
+defence industry in achieving greater efficiency through restructuring by its involvement
+in international initiatives to facilitate this process. A key event in this process was the
+tri-lateral statement issued in December 1997 by the UK, France and Germany calling on
+their defence industries to present a clear plan for possible restructuring of their aerospace
+and defence electronics industries. This process has now been joined by the governments
+of Italy, Spain and Sweden.
+
+In addition to industrial restructuring, the SDR suggests that efficiency in procurement
+could be improved through the harmonisation of the requirements of the various
+European Armed Forces. Such harmonisation would reduce duplication of development
+and production costs and would, according to the Review, make "sound operational
+sense."[179] The creation of the multinational common procurement organisation, OCCAR
+(Organisme Conjointe de Co-operation en matière d'Armament), involving the UK,
+France, Germany and Italy, is regarded by the SDR as an important factor in this
+harmonisation process. The SDR also points to its forward equipment procurement plans
+as evidence of its commitment to a "strong and healthy British and European defence
+industry."[180] These future equipment plans involve a number of European collaborative
+projects including Eurofighter, Horizon frigate, and the Multi-Role Armoured Vehicle
+(MRAV). Moreover, the Review states that the Government will attempt to ensure that
+there are realistic European options for consideration regarding "our longer term
+requirements such as the replacement for the Tornado bomber and improved strategic air
+transports."[181]
+
+178 Cm 3999, para 164
+179 Ibid, para 167
+180 Ibid, para 168
+181 Cm 3999, para 168
+
+
+-----
+
+### B. Assessment
+
+There are some contradictions and potential pitfalls evident in the Government's defence
+industrial policy as presented in the SDR. Firstly, the Review begins by emphasising the
+importance of a "healthy and competitive industrial base" but then proceeds to highlight
+the need for greater international collaboration and industrial restructuring. As industrial
+restructuring often results in company mergers, this approach, if taken to US levels, will
+result in a subsequent loss of competition. How effective competitive pressures will be
+maintained, should a pan-European defence company emerge, is not made clear. Indeed,
+the recent abandonment by Lockheed Martin of its bid to purchase Northrop Grumman
+was the result of US Department of Defense (DOD) concerns about vertical and
+horizontal integration. Secondly, further rationalisation of the defence industry and
+greater international collaboration will make the preservation of the strategic role of the
+industry more problematic and expensive:
+
+The key to retaining access to strategically important technologies and
+manufacturing capabilities, in an era of an increasingly rationalised industry and
+collaborative programmes, is to ensure mutual inter-dependence. The risks of
+dependency are high, however, and the Government must take a hard-nosed and
+critical look at our ability to keep open such access, and where there are doubts
+we must still be willing to fund the necessary capabilities single-handed.[182]
+
+While the SDR makes several references to greater co-operation and harmonisation
+within the European defence industry, little mention is made regarding the very close ties
+between many UK and US defence companies.  The previous government's policy on
+international defence industrial co-operation essentially followed a twin-track approach of
+sanctioning European collaboration while simultaneously retaining links to US
+technology and industry. The SDR does not clearly state how this balancing act will be
+performed in future. Indeed, there is a danger that what emerges from the process of
+European defence industrial consolidation is not a strong European defence pillar that is
+better able to compete and collaborate with the large US conglomerates, but a "Fortress
+Europe" where preference is given to European solutions for future equipment
+requirements. Concerns over this issue have been expressed by the House of Commons
+Defence Committee:
+
+A careful balance is needed, with the UK government using its influence in
+Europe to avoid any undue European-preference policy emerging while also
+playing a full part in rationalising the defence equipment market in Europe.[183]
+
+The future defence industrial relationship between Europe and the US will become a key
+issue because, as the costs of developing new defence products escalate, then the trend
+towards 'global' products, such as the Joint Strike Fighter (JSF), may become the norm.
+
+182 Defence Committe/Trade and Industry Committee, _Aspects of Defence Procurement and Industrial_
+_Policy, HC 675 1997-98, para 55_
+183 HC 675 1997-98, para 55
+
+
+-----
+
+## IX Personnel Issues
+
+### A. Policy
+
+The SDR is notable in devoting, in comparison with predecessor reviews, considerable
+space to Armed Forces and Civil Service personnel issues. Essay Nine starts with the
+premise:
+
+To have modern and effective Armed Forces, we must recruit and retain our fair
+share of the best people the country has to offer. The quality of our people and
+their readiness for the tasks entrusted to them are the true measure of our Forces'
+operational capability. The skills and experience we have been able to give our
+personnel, Service and civilian, their capacity for innovation and their morale and
+motivation are fundamental to Britain's defence.[184]
+
+The SDR recognises that the armed forces have suffered from overstretch and
+undermanning. Overstretch is a result, in some cases, of having too few units to meet
+certain commitments. In others, it is a product of having too few individuals, which
+arises from undermanning, which in turn fuels further overstretch, causes dissatisfaction
+and low morale, leads to retention problems and hence more undermanning in a vicious
+circle.
+
+As at 1 October 1997 the Army was undermanned by 4,500 trained personnel or around
+four per cent,[185] and in the spring of that year the RAF and Navy were undermanned by
+1,200 (two per cent) and 2,200 (five per cent) trained personnel respectively.[186]
+
+The MOD proposes to respond to this key problem in two ways. Firstly, for the RN and
+RAF forces are to be cut and the manpower released used to fill gaps elsewhere. For the
+Army, manpower is being increased by 3,300 and a sixth deployable brigade and new
+logistical and medical units, where overstretch is at its worst, are being established.
+Secondly, the MOD will take a number of measures to improve recruitment and retention,
+aiming to achieve full manning in the RAF by 2000, the RN by 2002 and the Army by
+2004.
+
+A major element of this second tier is the ‘Learning Forces’ initiative. This aims to
+provide a range of educational measures and thereby to attract recruits and to persuade
+them and existing Service personnel to stay in the armed forces for longer, while assisting
+their passage with transferable skills into the civil labour market. All recruits will be
+given the opportunity to gain six essential skills identified by the DFEE, including
+
+184 Essay Nine, Para 1
+185 HC Deb, 27 November 1997, c601w
+186 Ministry of Defence Performance Report, 1996/97, Cm 3781
+
+
+-----
+
+competence in literacy, numeracy and IT and will be given the opportunity to gain
+Scottish and National Vocational Qualifications (S/NVQs) Level 2 within three years of
+engagement. Service personnel will given personal logs of their experience and
+qualifications to assist their return to civil society, as well as the ability to earn ‘learning
+credits’, which can be used to purchase education both during and after being in service.
+More resettlement assistance will be given to Service leavers with over five years’
+service.
+
+Another initiative is to improve Service welfare. This includes improving single
+accommodation, providing a common leave entitlement of 30 working days a year
+irrespective of rank, increasing the telephone allowance for those on overseas
+deployments from three to ten minutes a week and providing extra rest and recuperation
+flights for those on more than 10 months deployments. A new Task Force will address
+the needs of Service families and changes will be made to Service schools to reflect
+recent reforms in the civil educational sector. For ex-Servicemen, the MOD will establish
+a Veterans’ Advice Cell later this year as “a single point of contact” to “provide guidance
+on where and how to obtain specific assistance”. [187]
+
+In a further aid to recruitment and retention, the armed forces will continue to pursue an
+equal opportunities policy. Women are currently allowed to serve in 96 per cent of posts
+in the RAF, 73 per cent of the Navy and 70 per cent of the Army.  a further review 1300
+specialist posts in the RM Brigade, manned by the Army and RN, will be opened to
+female personnel. However, posts in RM, RAF and Army front-line combat units will
+remain closed to women for the next two-to-three years to allow a recent increase in
+female roles in the Army to be assessed. A review of whether women can serve on RN
+submarines and diving teams will conclude later this year. In an agreement with the
+Commission for Racial Equality, the armed forces intend to recruit 6 per cent of their
+recruits from the ethnic minorities by 2002. Ethnic minorities currently comprise only 1
+per cent of armed forces personnel. Equal opportunities training will become more
+widespread, following the creation of a Tri-Service Equal Opportunities Centre at
+Shrivenham.
+
+The SDR also contains details of a number of longer-term initiatives. These include the
+introduction of an overarching personnel and parallel overarching recruiting strategy.
+Both will aim to establish common practices between the three Services in these areas,
+whilst recognising the strengths of the single Service ethos. The Review also promises
+better career management and the introduction of a common appraisal system for all the
+Services. Further changes will be made to officer and NCO career structures. While
+better use will be made of the experience of NCOs, more will be encouraged to gain late
+commissions. A new pay system will be introduced in April 2000, in which individual
+pay progression will be linked to experience, qualifications and performance.
+
+187 Essay Nine, Para 34
+
+
+-----
+
+Changes will also be made to Service pensions and compensation for injury
+arrangements. A review of compensation is underway, with a view to issuing a
+consultation document. The Armed Forces Pension Scheme will also be reviewed.
+Separately, the Government will introduce a tri-service discipline act, consolidating
+Service law and replacing the current three single service discipline acts. In the
+meantime, rules on the membership of courts-martial boards will be altered to allow
+warrant officers to serve on them. The MOD promises a similar package of educational,
+career management, consultation and equal opportunities initiatives for its civil service
+staff. A total of 1,400 MOD civil service posts will be abolished under the Review. There
+will be some compulsory redundancies.
+
+### B. Assessment
+
+The ‘Policy for People’ has generally been welcomed by commentators. Historically, the
+UK has made up for its relatively small armed forces by the quality of its military
+personnel. Recruiting and holding on to these personnel may prove to be the MOD’s
+biggest challenge. The MOD has set itself targets for achieving full manning and the real
+test of the personnel policy will be whether these targets are met. With its increase in
+size, the Army may face the most difficult task, but all the Services may face particular
+problems in attracting the increasing number of technically qualified or intelligent recruits
+that they require to meet the demands of the advanced technology battlespace of the
+future. Since the end of National Service, the armed forces have never succeeded in
+being fully manned and traditionally the best recruiting officer has often been the dole
+queue, rather than the attractiveness of Service life.
+
+The improvements offered in education are in some cases novel and should assist with
+recruiting. However, in another sense, the recent concentration on educational
+qualifications in recruitment advertising could be seen as rather defeatist, since they
+suggest what recruits can get out of the Services for when they leave, rather than on
+enjoying Service life for its own sake. Although, as often stated, the armed forces require
+the fit and the young, there is also a need to retain longer serving personnel, who provide
+the senior NCOs and middle ranking officers. Here, the commissioning of more officers
+from the ranks at a young age could be regarded as beneficial. However, the SDR’s
+commitment to commissioning more late entry officers could result in weakening the
+NCO caste. An alternative might be to give NCOs more responsibilities and pay, whilst
+reducing the number of officers, leading to a more efficient and overall cheaper rank
+structure along German lines.
+
+There is also the danger that the Government has raised expectations that quantifiable
+improvements will be made to Service life. The SDR Liaison Team was apparently
+surprised by the extent of discontent in the armed forces and MOD.[188] Morale was
+
+188 _The Independent 22 January 1998_
+
+
+-----
+
+described as between “good and adequate” and, although personnel were “keen to get on
+with their work”, they found “a more deep seated pessimism about the long-term future of
+the defence of the UK”. In particular, they found considerable scepticism about the then
+continuing review and “cynicism about messages delivered from on high”.[189] The SDR
+has been careful to state:
+
+If some of the proposals in our Policy for People seem modest it is only because
+we have promised what we can deliver. Addressing the personnel problems that
+affect the Armed Forces will take time, trust, and money. Trust needs to be
+earned and will only arise from the delivery of tangible improvements in
+overstretch and undermanning. [190]
+
+If the SDR fails to deliver on even its “modest” proposals then this may lead to
+considerable disillusionment and could exacerbate retention problems.
+
+The establishment of a form of Veterans Advice Cell has long been called for by exService organisations. It, of course, bears no comparison with the Veterans Affairs
+Administration in the USA, for example, which provides not only ex-Service benefits but
+extensive facilities for medical care. The modalities of the Cell are unclear. On the face
+of it, it would seem to offer no more assistance than is currently available from such
+organisations as the Royal British Legion. Many ex-Service complaints are material,
+relating to levels of pensions and benefits. A small Advice Cell may be able to do little to
+address their problems.
+
+The Government’s commitment to the drafting of a Tri-Service Discipline Act to
+consolidate and replace the existing single Service Acts appears to take no account of
+previous work on this subject. Both the 1991 and 1996 Select Committees on the Armed
+Forces Bill recommended that Service legislation be consolidated. Parliamentary
+Counsel actually began work on such a new Bill in 1991 and had reached “an advanced
+stage” before this work was abandoned in 1993.[191]
+
+As in other areas and, indeed, as the SDR makes clear, the Policy for People builds on
+work undertaken by the Conservative Government. In particular, it endorses work arising
+from the Independent Review of the Armed Forces' Manpower, Career and Remuneration
+_Structures (the Bett Report), published in 1995 and The Armed Forces of The Future - A_
+_Personnel Strategy, published in January 1997.[192] It could be argued that the MOD has_
+been remarkably slow in responding to some of Bett’s proposals. Many of these have
+been controversial. In particular, Bett recommended far-reaching changes to the Armed
+Forces Pension Scheme. Currently, officers can receive partial pensions on leaving after
+16 years service from the age of 21 and other ranks after 22 years service from the age of
+
+189 Dep 98/723
+190 Essay Nine, Para 9
+191 _Special Report from the Select Committee on the Armed Forces Bill, HC 143, 1995-96_
+192 HINF 95/845 and Dep. 3S/4655
+
+
+-----
+
+18. These particular pension arrangements are very generous in comparison with others
+and are costly to the MOD. Bett recommended that an immediate pension would only be
+payable to those leaving over 50. Leavers before the age of 50 would not be able to
+receive any pension until age 60.[193] The prospect of a new pay scheme being partly
+related to performance has also attracted critics and could prove divisive. The
+introduction of a tri-service appraisal system for officers means that the systems just
+introduced for the RN and RAF will now be scrapped.
+
+193 Bett Report, Ch. 8
+
+
+-----
+
+## X Defence Expenditure
+
+### A. Spending
+
+The incoming Labour Government accepted the first two years of the Conservative
+Government’s November 1996 PES round i.e 97/98 and 98/99 but effectively cancelled
+the third year’s estimates (99-2000). The November 1997 PES round did not take place,
+being replaced by the Comprehensive Spending Review. The impact of the CSR on the
+MOD was revealed in the Defence White Paper. Fixed expenditure plans for the next
+three years are to be: £22,295m (99/00); £22,830m (00/01); and £22,987m (01/02). As a
+result defence spending is expected to fall from 2.7 per cent of GDP or £22,250m in
+1998/99 to 2.4 per cent in 2001/2.[194] This represents a real-term cut of £915m, although
+due to one-off asset sales this will be reduced to £685m.[195] UK defence spending has
+fallen from a recent peak of 5.3 per cent of GDP in 1984/5 to 2.7 per cent in 1998/9.
+Defence spending has fallen by 23 per cent in real terms since 1989/90.[196] It is already at
+its lowest level since the early 1930s.
+
+Future defence spending merits only one page in the White Paper, although additional
+limited financial information appears in other SDR documents For example, the Press
+Notice released with the Review indicates that defence diplomacy will receive an
+additional £15m per annum and the cadets an additional £1m. Extra spending on
+logistical enhancements was to peak at an additional £100m per annum, with an up to
+£40m on the Defence Medical Services by 2000/01.[ 197] In evidence, the Defence
+Committee was told that the Policy for People and Learning Forces initiatives would cost
+£30m per year and that an additional 3,300 regular soldiers would require £100m per
+annum. Expenditure on equipment would rise from £6bn in 98/99 to £6.8bn in 01/02.[198]
+
+On the debit side, savings will be made chiefly by asset sales and efficiency savings.
+
+The MOD aims to double the value of expected surplus property sales over the next four
+years to £700m. The most significant new item in the disposal programme is the sale of
+the Duke of York’s HQ in Chelsea, mainly occupied by the TA. Other existing or new
+proposals in London contained in an MOD study of property requirements in the capital
+include: a public/private partnership project to replace Chelsea Barracks (not necessarily
+on the same site); the sale of Millbank barracks; and a rationalisation of MOD HQ from
+the current seven buildings to two by 2004. Future basing requirements in London,
+including at RAF Northholt and Uxbridge, are under study. Outside London the following
+
+194 HC Deb 10 December 1997 c 568-570w
+195 Cm 3999, Para 198
+196 Cm 4011, Para 14.1
+197 MOD PR 8/7/98
+198 HC 138, Para 385
+
+
+-----
+
+sites, in whole or in part, will be sold: Chilwell, Didcot, Malvern, Old Dalby and
+Woolwich (Army); Cardington (RAF); Bromley, Chertsey and Farnborough (DERA);
+Bath (MOD); and numerous TA centres.[ 199] The MOD will share with the Treasury an
+additional £250m expected in 2001/02, arising from non-property sales and public/private
+partnerships asset sales in DERA.[200] The latter may include sales of surplus ammunition
+and supplies resulting from reduction of stocks (see below) and equipment. For example,
+the decommissioned Type 22 frigates may be sold to various South American navies.
+
+While operating costs will be reduced by cuts in the force structure, chiefly in the RN,
+RAF and TA, other savings have been anticipated by raising the MOD efficiency target.
+This was 2 per cent in 98/99, although the MOD achieved 3.2 per cent.[201] The efficiency
+target for the next four years will be 3 per cent per annum, which the SDR sees as
+“challenging” but “achievable”.[202] Savings will arise from the establishment of various
+tri-service bodies and the more widespread use of commercial practices. The latter will
+play a role in a major destocking programme, where stocks will only be maintained when
+realistically required for operations or deployments. Stockholdings will fall by a book
+value of 20 per cent or £2.2bn over the next three years.[203] Separately, the SDR identifies
+savings of £2bn from Smart Procurement over the next decade, although, due to long
+duration of many procurement projects, these are likely to fall towards the end of this
+period.[204]
+
+### B. Assessment
+
+The future level of defence spending is central to the SDR. The SDR confirms an
+expeditionary strategy and this is linked to the implementation of existing equipment
+programmes and procuring some new items as well as rectifying manpower shortfalls.
+The SDR ‘package’ is tightly costed and would seem to lose some credibility if it is not
+broadly carried out as predicted. Analysis of the financial support of the SDR is limited
+by the MOD’s long-standing practice of not publishing its ten-year long-term costings.
+
+The SDR was concluded in March 1998 and then submitted to the Treasury as part of the
+Comprehensive Spending Review. Press reports suggest that the SDR costings originally
+included savings of £500m over three years. The Treasury apparently pressed for longterm cuts of £2bn (some 10 per cent of the current budget) or even £4bn (20 per cent),
+although, as usual, these assessments may arise from propaganda and counterpropaganda.[205] The final MOD offering of £915m, reduced to £685m by one-off sales,
+
+199 Essay Eleven, Paras 13-17
+200 HC 138, Para 390
+201 HC 138, Paras 393-397
+202 Essay Eleven, Para 53
+203 Essay Eleven, Para 21-23
+204 Essay Ten, Para 21
+205 _The Observer_ and The Sunday Times 1 February 1998
+
+
+-----
+
+may have been agreed by increasing the size of the property disposal programme and
+boosting the efficiency target. The exact way in which the MOD CSR was carried out is
+unclear.
+
+The MOD budget is now fixed for the next three years. Although large extraordinary
+overseas operations, such as the peacekeeping mission in Bosnia, may continue to be
+wholly or largely funded from the reserve, if the MOD’s financial plans go awry then it
+must make any necessary economies from within its own budget. Doubling the property
+disposal programme could be described as ambitious, particularly as future disposals are
+estimated against a notoriously cyclical property market. The MOD was recently
+criticised by the NAO for its poor handling of property sales[206] Fears have also been
+expressed that property sales will be influenced by potential value rather than operational
+need. The SDR also admits that its three per cent efficiency target is challenging. One
+commentator has said that this “would represent heroic efforts”.[207] Marrying the cultures
+of the three Services in various new tri-service bodies may prove more time consuming
+and costly than at first apparent. In addition, as discussed above, controlling procurement
+spending is enormously difficult and has at least partly defied the best management
+efforts of previous governments. The costs of collaborative projects with foreign
+countries, which are given new favour in the SDR, can be particularly difficult to keep in
+check.
+
+If the MOD does not stick to its spending plans then it must fall back on the traditional
+budgetary expedients. These include stretching existing procurement projects or
+postponing/cancelling new ones; cutting support services; or general salami slicing in
+which budgets are cut across the board. The difficulty here, and with the last two
+measures in particular, is that they would run counter to the whole thrust of the SDR to
+promote logistics and increase levels of readiness.
+
+Even if the MOD can, or is allowed to, remain within its current budgetary plans, the fact
+remains that the SDR has maintained existing commitments, but attempts to meet these
+responsibilities with reduced resources. All of these commitments, whether they be to the
+Overseas Territories, to NATO, or to allies in the Middle and Far East, are potentially
+extremely costly. There is then, in the eyes of some commentators, a fundamental
+distinction between the Government’s desire to continue to play an active global military
+role and the ability of this country to pay for it.
+
+Overall, the SDR commits the armed forces to doing more in operational terms,
+with slightly fewer resources, and slightly less cash available. This is not a costcutting review, and it seeks to create a broadly stable base of spending for the
+next three years up to financial year 2001-02. Nevertheless, if defence policy
+was generally overstretched before the review by an increasing mismatch
+between commitments and resources, it is hard to see what there is anything in
+the review which structurally addresses this problem.[208]
+
+206 NAO, Ministry of Defence: Identifying and selling surplus property, HC776 Sess 1997-98
+**207 The Strategic Defence Review: How Strategic? How much of a Review?** London Defence Studies 46,
+p. 32.
+208 _The Strategic Defence Review: How Strategic? How much of a Review, p. 32_
+
+
+-----
+
+## XI The Longer Term
+
+The Strategic Defence Review is the fifth major attempt to recast the UK's armed forces
+since the Second World War. Although the SDR did not accept the institution of formal
+periodic defence review, as, for example, is now practised in the USA, it is likely that it
+will not be the last. Major reviews have occurred approximately every decade. Despite
+the 20 year purview of the SDR, another major defence review may be expected before
+2010.
+
+The SDR draws what is widely regarded as rightful attention to the rapid pace of
+technological change and the unpredictable ways in which new instabilities may impact
+upon the United Kingdom and UK interests. However, these factors mean that some of
+the assumptions made by the current Review could turn out to be incorrect. The Sandys
+Review of 1957 was predicated on the superiority of nuclear weapons, but British forces
+were embroiled in a series of conventional post-colonial conflicts in the succeeding years.
+The Nott Review reshaped British forces to respond to what was then perceived to be the
+most powerful threat to national security, that of the forces of the Warsaw Pact in central
+Europe, and failed to anticipate threats to British dependent territories, such as the
+invasion of the Falklands.
+
+To some extent the White Paper resulting from the SDR insures against future uncertainty
+by continuing to plan for a very diverse range of defence capabilities, the precise balance
+of which could be reviewed and readjusted. It also attempts to keep future options open
+by paying due attention to the need for a highly trained but flexible military workforce.
+
+Indeed, it can be argued that the UK’s military power lies less in its equipment than in the
+quality of personnel. In order to continue to attract recruits of quality and retain existing
+personnel, Service pay and conditions may increasingly need to approximate to those in
+the civilian private sector. However, in order to remain effective, the armed forces may
+also need in some areas to remain distinct from civilian society. The Government desires
+to “have terms and conditions of service which are both relevant to the 21st century and
+balance the needs of the individual with those of the organisation”. Preserving this
+balance may be one of the greatest challenges in the wake of the defence review.
+
+
+-----
+

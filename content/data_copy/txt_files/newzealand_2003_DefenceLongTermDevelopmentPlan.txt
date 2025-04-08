@@ -1,0 +1,2051 @@
+# DEFENCE  LONG-TERM DEVELOPMENT PLAN
+
+## UPDATE June 2003
+
+
+-----
+
+### SUMMARY OF CONTENTS
+
+**Section** **Subject** **Page Numbers**
+
+1. Introduction 3
+
+2. The Long-Term Development Plan
+and Defence Policy 4-6
+
+3. Funding 7-8
+
+4. Managing the LTDP 9-10
+
+5. Projects Approved in Principle by
+Government 11-27
+Light Operational Vehicle 11
+Multi-Role Vessel 12-13
+Patrol Vessels 14-15
+P-3 Mission Systems Upgrade 16-17
+C-130 Life Extension 18-19
+P-3 Communications and
+Navigation Systems Upgrade 20-21
+C-130 Communications and
+Navigation Systems Upgrade 22-23
+Boeing 727 Replacement 24-25
+Direct Fire Support Weapon – Area 26
+Medium Range Anti-Armour Weapon 27
+
+6. Projects Necessary to Avoid the
+Failure of Policy 28-32
+NZDF Helicopter Capability 28-29
+Special Operations Capability 30
+Joint Command & Control System 31-32
+
+7. Projects Necessary to Provide a
+Well-Equipped Land Force 33-40
+Land Intelligence Surveillance
+Reconnaissance (ISR) 33
+Army Tactical Trunk Communications 34
+Combat Service Support Vehicles 35-36
+Army Engineering Equipment 37-38
+Army In-Service Weapon Replacement 39
+Very Low Level Air Defence 40
+
+8. Projects Necessary to Avoid Significant
+Risks to Policy 41-50
+ANZAC Self-Defence Upgrade 41-42
+NZDF Torpedo Replacement 43-44
+C-130/P-3 Self-Protection 45-46
+Anti-ship Missiles 47
+Joint Communications Modernisation 48-49
+Ohakea Hardstanding Reconstruction 50
+
+9. Projects that have Benefit but are
+Less Critical to Achieving Policy Objectives 51-52
+
+
+-----
+
+### 1 INTRODUCTION
+
+1.1 First released on 11 June 2002, the Long-Term Development Plan (LTDP) is a
+planning tool to enable decisions on defence acquisitions to be taken in the context
+of the Government’s defence policy, the priority of projects and affordability. The
+LTDP links the Government’s defence policy objectives, which were set out in the
+Defence Policy Framework released in June 2000, with the capability requirements
+announced in the Defence Statement of 8 May 2001. This LTDP contains a
+comprehensive list of projects, with preliminary costing, timings, and priorities. The
+LTDP has a rolling forward focus of 10 years and was constructed as an active
+document, to be updated regularly. This is the first updated version of the LTDP.
+
+1.2 The LTDP:
+
+a. describes major acquisition projects required over the next 10 years to
+provide military capabilities that meet the Government’s defence policy
+objectives;
+
+b. reflects relative priorities of the projects, measured against the Government’s
+defence policy and security needs and interests;
+
+c. works within agreed financial limitations; and
+
+d. sets out planning and decision-making processes incorporating management
+of both operational and financial risks to ensure that investment in defence
+provides best value for money.
+
+**Funding Parameters**
+
+1.3 The LTDP will be managed within approved financial parameters. These are:
+
+a. up to $1 billion, in nominal terms, in capital injections over the next 10 years;
+
+b. any inflationary pressure to be managed within these constraints until
+2005/06; and
+
+c. leasing options may be considered where there is a neutral trade-off between
+capital and operating expenditure.
+
+**Project Summary Sheets**
+
+1.4 A project summary sheet for each project on the LTDP can be found in
+sections 5 to 9. Each summary sheet describes the project, how it contributes to the
+Government’s defence policy, links to other capabilities, timing issues, costs and
+possible options where these are known. Options and trade-offs for defence
+acquisitions will be properly investigated, costed and presented to Ministers as
+projects are brought forward for approval.
+
+
+-----
+
+### 2 THE LONG-TERM DEVELOPMENT PLAN AND DEFENCE POLICY
+
+2.1 The LTDP sets out the defence acquisition projects that will enable the NZDF
+to implement the Government’s defence policy.
+
+2.2 In its 8 May 2001 Defence Statement, the Government stated that it:
+
+is building a modern, professional and well-equipped Defence Force with
+the necessary military capabilities across all three services to meet New
+Zealand's objectives… the New Zealand Defence Force is being
+reconfigured so that it is sustainable and affordable over the long-term. It
+will be able both to meet New Zealand's own defence and security needs,
+and to make a useful contribution when it is deployed.[1]
+
+2.3 The Government’s defence policy objectives are:
+
+- to defend New Zealand and to protect its people, land, territorial waters, EEZ,
+natural resources and critical infrastructure;
+
+- to meet our alliance commitments to Australia by maintaining a close defence
+partnership in pursuit of common security interests;
+
+- to assist in the maintenance of security in the South Pacific and to provide
+assistance to our Pacific neighbours;
+
+- to play an appropriate role in the maintenance of security in the Asia-Pacific
+region, including meeting our obligations as a member of the FPDA; and
+
+- to contribute to global security and peacekeeping through participation in the full
+range of UN and other appropriate multilateral peace support and humanitarian
+relief operations.[2]
+
+**Prioritising the LTDP**
+
+2.4 The LTDP prioritisation will be reviewed regularly to ensure continuity with
+defence policy and strategic circumstances. In this updated version, a number of
+projects in the category of ‘Necessary to Avoid the Failure of Policy’ have been
+approved by the Government. They have consequently shifted into the category of
+‘Projects Approved in Principle by Government’. Two projects from the category
+‘Projects Necessary to Provide a Well-Equipped Land Force’, Direct Fire Support
+Weapon – Area and Medium Range Anti-Armour Weapon, have also been approved
+in principle by the Government. Two projects from the category ‘Projects Necessary
+to Avoid Significant Risks to Policy’, Whenuapai runway and hardstanding
+reconstruction, have been removed from the LTDP following the Government’s
+decision to consolidate all Air Force operations at Ohakea. The Ohakea runway
+project has been removed from the LTDP as this project has been approved and
+construction is underway. No other projects have been reprioritised.
+
+1 Government Defence Statement, 8 May 2001, A Modern, Sustainable Defence Force Matched to
+New Zealand’s Needs, p.2.
+2 Defence Policy Framework, June 2000, para.19.
+
+
+-----
+
+2.5 The first step in the prioritisation process was a gap analysis. It identified
+those areas where, over the next 10 years, a capability gap will impact on the
+NZDF’s ability to meet the roles and tasks set out in the Defence Policy Framework
+under each policy objective. This gap analysis demonstrated that acquisition projects
+to meet the capability gaps fell into three broad categories:
+
+a. Projects that are critical to avoiding failure to achieve policy objectives. The
+projects consist of “enabling capabilities” that are necessary to facilitate
+operational missions (for example, joint command and control system, airfield
+infrastructure maintenance), and operational capabilities that are
+fundamental to meet defence policy objectives.
+
+b. Projects that are necessary to avoid significant policy risks. These projects
+affect the degree to which policy objectives can be achieved and the manner
+in which they are fulfilled.
+
+c. Projects that carry a lower level of risk affecting the degree to which policy
+objectives are met and the manner in which they are fulfilled.
+
+2.6 The gap analysis considered the five defence policy objectives to be equally
+important. A sensitivity analysis assessed the impact of weighting the importance of
+each objective. It demonstrated that the projects within the top category remained
+constant, and confirmed their importance to avoid policy failure.
+
+2.7 As a further check, the list of high priority projects was compared with the
+priorities set out in the Defence Policy Framework, which states that:
+
+A capital investment programme will concentrate defence resources in a
+range of affordable and sustainable military capabilities that contribute to
+meeting our objectives. Priority will be given to the acquisition and
+maintenance of essential equipment. Our core requirement is for wellequipped, combat trained land forces which are also able to act as
+effective peacekeepers, supported by the Navy and Air Force.[3]
+
+2.8 To be consistent with this statement, higher priority was accorded to a number
+of projects that are necessary to provide well-equipped, combat trained land forces,
+also able to act as effective peacekeepers.
+
+2.9 Projects already approved in principle by the Government are treated in the
+prioritisation as a separate category. Other considerations that affect the sequencing
+of high priority projects were also taken into account. These include the projected
+end-of-life of current equipment and the amount of pre-acquisition work that is
+required.
+
+3 Defence Policy Framework, June 2000, para. 31.
+
+
+-----
+
+**Long-Term Development Plan Priorities**
+
+2.10 The projects under each category are:
+
+Projects Approved in Principle by Government
+Light Operational Vehicle
+Multi-Role Vessel
+Patrol Vessels
+P-3 Mission Systems Upgrade
+C-130 Life Extension
+P-3 Communications and Navigation Systems Upgrade
+C-130 Communications and Navigation Systems Upgrade
+Boeing 727 Replacement
+Direct Fire Support Weapon – Area
+Medium Range Anti-Armour Weapon
+
+Projects Necessary to Avoid the Failure of Policy
+NZDF Helicopter Capability
+Special Operations Capability
+Joint Command and Control System
+
+Projects Necessary to Provide a Well-Equipped Land Force
+Land Intelligence Surveillance Reconnaissance
+Army Tactical Trunk Communications
+Combat Service Support Vehicles
+Army Engineering Equipment
+Army In-Service Weapon Replacement
+Very Low Level Air Defence
+
+Projects Necessary to Avoid Significant Risks to Policy
+ANZAC Self-defence Upgrade
+NZDF Torpedo Replacement
+C-130/P-3 Self-Protection
+Anti-Ship Missiles
+Joint Communications Modernisation
+Ohakea Hardstanding Reconstruction
+
+Projects that have Benefit but are Less Critical to Achieving Policy Objectives
+High Readiness Infantry Company
+Short Range Air Patrol
+Modifications to enable MRV/OPV to operate in the Ross Sea
+Remote Mine Detection
+Army Manoeuvre Range
+Indirect Fire Support Weapon
+Infrastructure Projects
+
+2.11 The list does not indicate the order in which projects will be completed.
+
+
+-----
+
+### 3 FUNDING
+
+**Funding Guidelines**
+
+3.1 Following a review of the financial effects caused by revaluation of the NZDF’s
+assets on the LTDP (CAB Min (03) 11/4), the Government directed financial
+parameters are now:
+
+a. up to $1 billion, in nominal terms, in capital injections over the next 10 years;
+
+b. any inflationary pressure to be managed within these constraints until
+2005/06; and
+
+c. leasing options may be considered where there is a neutral trade-off between
+capital and operating expenditure.
+
+**Affordability, Options and Trade-Offs**
+
+3.2 Funding constraints, cash flow management (both from depreciation and new
+capital) and defence industry considerations will also affect priorities, timing and the
+overall affordability of the LTDP. Trade-offs within and between projects are
+necessary. The projects presented in the LTDP take into account the Government’s
+existing funding parameters. Solutions have been developed to provide capabilities
+within the financial parameters that are appropriate for New Zealand’s circumstances
+and will deliver the Government’s policy. For most projects, however, present
+costing information is not refined. It is acknowledged that in order to determine the
+affordability of the LTDP, Defence needs to improve the individual costing data on
+which the plan is based, on a project-by-project basis.
+
+3.3 In order to provide more robust decision-making information the process by
+which costing for acquisition projects is developed is being reviewed. A revised
+costing review process will consider all elements of defence capital expenditure,
+including acquisition costs, through-life costs and cost/risk mitigation. Life cycle
+costing policy is being developed and through-life costs are being obtained for
+projects currently at the acquisition phase. The full introduction of life cycle costing
+into long-term development will take some time to be implemented. NZDF and
+Treasury officials are continuing to work on strategies to minimise financial risks.
+
+3.4 By changing levels of capability, cost and policy compliance it is possible to
+identify options within projects. These options, which will be investigated for each
+project, could include phasing projects to spread the cash flow or reducing the size
+and/or scope of a project. Reducing the level of capability acquired could affect the
+NZDF's ability to deliver outputs designed to achieve the Government’s policy
+objectives.
+
+**Financial Risks**
+
+3.5 There are several financial risks associated with the LTDP that will have to be
+managed to ensure the plan remains affordable.
+
+a. Inflation. Estimated costs need to reflect inflation.
+
+
+-----
+
+b. Foreign Exchange Movements. The majority of the project costs included in
+the revised LTDP have been converted from USD into NZD using exchange
+rate projections advised by Treasury (below). Any change to these
+projections will result in changes to project costs.
+
+**FY 02/03** **FY 03/04** **FY 04/05 Onwards**
+
+0.56 0.55 0.53
+
+c. Upgrades. Military equipment requires regular upgrades to ensure that it is
+able to provide the required capability. Upgrades are also important to keep
+pace with technological changes and to maintain interoperability with other
+defence forces. Known upgrades have been included in the LTDP. Other
+unpredicted upgrades may be required during the life of the equipment.
+
+d. Personnel and Operating Costs. Operating baseline changes will need to be
+managed to take account of pay increases and changes in NZDF personnel
+numbers, training requirements, maintenance and operating resulting from
+new equipment.
+
+**Projects Currently ‘Below the Funding Line’**
+
+3.6 The LTDP contains those projects currently deemed necessary to deliver the
+capability required by the Government, and which are being processed by the NZDF.
+Given the current financial parameters, however, projects in the category of those
+that have benefit but are less critical to achieving policy objectives are unlikely to be
+funded. This underlines the importance of reviewing projects that are ‘above the line’
+in order to realise potential savings. These projects will still require work to clarify
+their scope, utility across the policy objectives and cost, and will be included in future
+reviews of the LTDP. Changing strategic circumstances could result in
+reprioritisation of projects.
+
+|FY 02/03|FY 03/04|FY 04/05 Onwards|
+|---|---|---|
+|0.56|0.55|0.53|
+
+
+-----
+
+### 4 MANAGING THE LTDP
+
+4.1 Several processes have been developed to ensure that the LTDP will be a
+core decision-making tool for the Government.
+
+**Updating the LTDP**
+
+4.2 It is important that the LTDP is updated regularly to provide the best
+information possible to inform decisions on defence acquisitions and the budget
+cycle. The following processes will, therefore, be a feature of managing the LTDP:
+
+a. An updated LTDP and accompanying report from officials will be submitted to
+Ministers to inform their considerations during the strategic phase of the
+budget process.
+
+b. The LTDP will be treated as a dynamic, evolutionary document and updated
+on a regular basis as warranted by the availability of new and more accurate
+information.
+
+c. The LTDP will be updated whenever there is a significant change in the
+Government’s financial circumstances, a change in policy, or to support the
+financial impact of NZDF asset revaluations.
+
+d. An updated LTDP will be made available whenever acquisition proposals are
+submitted for government consideration and approval. This will permit
+Ministers to consider each project within the overall context of total planned
+acquisitions and with a clear view of priorities, risks and trade-offs.
+
+4.3 It is also important that Ministers have confidence that projects are well
+managed and that acquisition activity is consistent with the LTDP and government
+direction. This has been achieved by the use of the following processes by the MoD
+and the NZDF:
+
+a. Government approval will be sought to proceed with acquisition activity for
+each project.
+
+b. The Minister of Defence will be consulted prior to commencing major project
+definition studies.
+
+c. The Minister of Defence will be consulted prior to documentation being made
+available to commercial suppliers.
+
+d. The Minister of Defence will be advised of the outcome of the evaluation of
+the responses from commercial suppliers.
+
+e. The Minister of Defence will be consulted prior to documentation being made
+available to short-listed suppliers, and on the criteria to be used for
+evaluating the responses.
+
+f. The Minister of Defence will be advised of the outcome of the tender
+evaluation, including an analysis of the ability of the equipment to be
+
+
+-----
+
+acquired to meet the capability, and on contract negotiations with the
+preferred supplier(s).
+
+g. On completion of the contract negotiations, Ministerial approval will be sought
+to enter into contract with the preferred supplier(s) and for the appropriation
+of funds.
+
+**Capability Management Framework**
+
+4.4 Defence is developing a Capability Management Framework setting out
+governance arrangements and procedures to provide a robust and sustainable basis
+for the NZDF/MoD to progress capability development and implementation. The
+Framework will ensure that the projects on the LTDP are defined, costed and
+presented to Ministers in a timely manner. The Framework will also allow HQ NZDF,
+single Services, and the MoD to plan for, and allocate appropriate resources to,
+those projects that have a higher priority on the LTDP.
+
+
+-----
+
+### 5 PROJECTS APPROVED IN PRINCIPLE BY GOVERNMENT
+
+#### Light Operational Vehicle (LOV)
+
+**Description**
+
+5.1 This project provides the Army and Special Forces with a modern, light
+operational, military vehicle.
+
+**Policy Value**
+
+5.2 The LOV provides an essential capability to enable the Army and Special
+Forces to train and to participate in operations in the South Pacific, Asia-Pacific
+region and globally. LOVs are the primary means of transport used by the Army and
+Special Forces in peacekeeping operations and also in peace enforcement
+operations, including in support of the LAV. In addition, the LOVs may provide
+support for evacuation operations in the South Pacific.
+
+**Capability Gap**
+
+5.3 The Army’s military mobility needs are currently met by the obsolete fleet of
+Land Rovers. The Land Rovers have reached the end of their economic life.
+
+**Links to other Capabilities**
+
+5.4 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Air transport
+
+- Multi-Role Vessel
+
+- Land Intelligence Surveillance Reconnaissance
+
+- Medium Range Anti-Armour Weapon
+
+- Direct Fire Support Weapon – (Area)
+
+**Timing**
+
+5.5 Acquisition needs to occur as soon as possible to ensure that the Army and
+Special Forces can continue to meet the Government’s policy requirements.
+
+**Current Status**
+
+5.6 The Ministry of Defence has invited tenders for three LOV variants: armoured,
+non-armoured military, and special operations. Evaluation of the Best and Final Offer
+is nearing completion.
+
+**Costs**
+
+5.7 This project is expected to cost $60 million - $110 million.
+
+
+-----
+
+#### Multi-Role Vessel 
+
+**Description**
+
+5.8 This project involves the purchase of a Multi-Role Vessel (MRV) to provide
+tactical sealift for the NZDF, to support disaster relief and peace support operations,
+to conduct resource protection patrols, to provide diplomatic/military presence, and
+for training. The vessel will replace HMNZS Canterbury.
+
+**Policy Value**
+
+5.9 The MRV would be used in the South Pacific and Asia-Pacific region for
+contributing to peace support operations, evacuations of personnel during civil
+emergencies, and disaster relief. A tactical sealift capability, to off-load people and
+equipment without access to a port facility, will be particularly useful in meeting the
+Government’s policy objectives in the South Pacific. The MRV will also be able to
+undertake patrol and presence operations in New Zealand's EEZ and the South
+Pacific, and provide the Government with an additional option for global deployments
+(or allow the ANZAC frigates to be deployed for global tasks). The MRV will provide
+additional berths for sea training purposes.
+
+**Capability Gap**
+
+5.10 The NZDF has no tactical sealift capability and cannot easily deploy land force
+personnel and equipment into areas without port facilities. Tactical sealift vessels
+cannot be chartered. Without a MRV New Zealand will continue to rely on the
+tactical sealift capabilities of our allies and friends in the region for deploying to peace
+support operations and evacuating our nationals from trouble spots.
+
+5.11 The MRV, in conjunction with the frigates and the offshore patrol vessels, will
+provide additional capacity for tasks such as presence, support to land operations,
+patrol and disaster relief, and for training.
+
+**Links to Other Capabilities**
+
+5.12 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Light Operational Vehicle
+
+- Patrol Vessels
+
+- NZDF Helicopter Capability
+
+- P-3 Mission Systems Upgrade
+
+**Timing**
+
+5.13 It is intended that the MRV will be brought into service to replace Canterbury
+when she is retired in 2005.
+
+
+-----
+
+**Current Status**
+
+5.14 The Ministry of Defence, in consultation with the NZDF and other departments
+and agencies as appropriate, has developed functional descriptions of the
+capabilities required for the MRV as the basis of tender documents. The Request for
+Proposals, including functional and performance specifications, was issued to the six
+short-listed companies in May 2003. Responses are due in late October 2003.
+
+**Costs**
+
+5.15 The total cost of the MRV and patrol vessels is not to exceed $500 million.
+The cost of the MRV is capped at US$100 million.
+
+
+-----
+
+#### Patrol Vessels
+
+**Description**
+
+5.16 This project proposes the acquisition of patrol capabilities to meet inshore and
+offshore requirements for maritime surface surveillance in New Zealand's EEZ and
+the South Pacific.
+
+**Policy Value**
+
+5.17 Patrol vessels are an important element in the surveillance of New Zealand's
+EEZ and other maritime areas of interest. They work in conjunction with maritime
+patrol aircraft to protect our natural resources and detect and deter maritime
+transnational threats. Patrol vessels will meet many government agencies’ needs,
+including the Ministry of Fisheries, the New Zealand Customs Service, the
+Department of Conservation, the Police, the Maritime Safety Authority and others.
+Offshore patrol vessels will also be able to support maritime counter-terrorism, and
+provide a presence in the South Pacific to support peace and stability and help with
+disaster relief.
+
+**Capability Gap**
+
+5.18 New Zealand currently has a very limited maritime surface patrol capability,
+provided by three frigates (and by 2005, two ANZAC class frigates). The largest gap
+is in New Zealand's ability to patrol the inshore zone around New Zealand where the
+majority of civilian patrol requirements – primarily Ministry of Fisheries and Customs
+– are situated. There is also very limited capacity to undertake counter-terrorism
+operations at sea.
+
+**Links to other Capabilities**
+
+5.19 This project has links to the following projects and capabilities:
+
+- Multi-Role Vessel
+
+- P-3 Mission Systems Upgrade
+
+- NZDF Helicopter Capability
+
+- Special Operations Capabilities
+
+**Timing**
+
+5.20 The introduction into service of the patrol vessels will depend upon a number
+of factors. These include: the Navy’s ability to crew new vessels, the length of time
+required to design and build new vessels, and capital and operating funding
+constraints.
+
+**Current Status**
+
+5.21 The Ministry of Defence, in consultation with the NZDF and other departments
+and agencies as appropriate, has developed functional descriptions of the
+capabilities required for the patrol vessels as the basis of tender documents. The
+Request for Proposals, including functional and performance specifications, was
+
+
+-----
+
+issued to the six short-listed companies in May 2003. Responses are due in late
+October 2003.
+
+**Costs**
+
+5.22 The total cost of the MRV and patrol vessels is not to exceed $500 million.
+
+**Possible Options**
+
+5.23 Final decisions on the fleet composition will not be made until proposals from
+industry have been evaluated.
+
+
+-----
+
+### P-3 Mission Systems Upgrade
+
+**Description**
+
+5.24 This project proposes to upgrade the sensors and mission management
+systems required for the P-3 Orion maritime patrol aircraft to conduct surface
+surveillance tasks.
+
+**Policy Value**
+
+5.25 The capability provided by the P-3 is central to meeting a broad range of
+civilian roles and tasks and for many functions required of the NZDF across the
+range of the Government’s five defence policy objectives. The P-3 undertakes
+surveillance of New Zealand’s EEZ and the Southern Ocean, meets our South
+Pacific search and rescue obligations, and provides surveillance assistance to Pacific
+Island countries. The P-3 has a high utility for a wide range of civilian and military
+operations. It is one of the primary force elements contributing to our defence
+relationships with Australia and Five Power Defence Arrangement (FPDA) partners.
+
+**Capability Gap**
+
+5.26 The obsolescent mission systems onboard the P-3 are limiting availability for
+surveillance flights and other missions due to repeated equipment failures. Without
+an upgrade, the Government may be faced with policy failure in meeting its
+objectives for EEZ and Southern Ocean surveillance and assisting South Pacific
+countries with surveillance of their EEZs. The Government would also have difficulty
+meeting commitments to Australia and the FPDA.
+
+**Associated Projects**
+
+5.27 The P-3 communications and navigation systems also need to be upgraded to
+address equipment obsolescence, meet operational requirements, and comply with
+evolving international air traffic regulations. The communications and navigation
+upgrade requirements are covered in a separate project.
+
+5.28 The P-3 also lacks self-protection capability against man-portable, infrared
+missiles. This deficiency is also addressed in a separate project.
+
+**Links to other Capabilities**
+
+5.29 This project has links to the following projects and capabilities:
+
+- Patrol Vessels
+
+- Multi-Role Vessel
+
+- Land Intelligence Surveillance Reconnaissance
+
+- Joint Command and Control System
+
+- NZDF Torpedo Replacement
+
+- Anti-Ship Missile
+
+- P-3/C-130 Self-Protection
+
+- P-3 Communications and Navigation Systems Upgrade
+
+- ANZAC frigates
+
+
+-----
+
+**Timing**
+
+5.30 The tender and evaluation process will be conducted through 2003 with the
+intention of signing a contract by mid 2004. The first mission capable aircraft is
+expected to be in service in 2006, with fleet modernisation complete in 2008/9.
+
+**Current Status**
+
+5.31 On 9 December 2002 Cabinet noted the options for upgrading both the P-3
+mission systems and communications and navigation systems, and authorised the
+Ministry of Defence to seek proposals from industry. The Request for Tender will be
+released in June 2003 to the four short-listed companies with responses due in
+October 2003.
+
+**Costs**
+
+5.32 This project is expected to cost $150 million - $220 million depending on the
+extent of the upgrade.
+
+
+-----
+
+#### C-130 Life Extension
+
+**Description**
+
+5.33 This project proposes to extend the life of the C-130 aircraft by upgrading the
+avionics and aircraft systems and undertaking some structural refurbishment work.
+
+**Policy Value**
+
+5.34 The C-130 is a critical enabler for many NZDF operations. It provides essential
+air transport for the deployment of NZDF personnel and equipment, within New
+Zealand, to the South Pacific, Australia, the Asia-Pacific region and globally. Air
+transport is a critical capability for a number of roles and tasks, including: supporting
+counter-terrorist operations; peace support operations; evacuations of New
+Zealanders from trouble spots; disaster relief and humanitarian operations;
+supporting the civil power; and supporting New Zealand's Antarctic programme. The
+C-130 has particular utility where runways are short or in poor condition.
+
+**Capability Gaps**
+
+5.35 The declining availability of C-130 air transport is a major capability gap that
+will increasingly impinge on the NZDF’s ability to deploy and support personnel. This
+is due to the age of the airframe and systems. There is a risk of policy failure,
+particularly in the New Zealand, South Pacific and Asia-Pacific contexts, if this project
+is not carried out, as the NZDF would not have sufficient air transport to support
+deployments and perform other tasks.
+
+**Associate Projects**
+
+5.36 The C-130 communications and navigation systems also need to be upgraded
+to address equipment obsolescence and comply with evolving international air traffic
+regulations. The communications and navigation upgrade requirements for the C130 are covered in a separate project.
+
+5.37 The C-130 also lacks an adequate self-protection system against manportable infrared missiles. This deficiency is also addressed in a separate project.
+
+**Links to Other Capabilities**
+
+5.38 This project has links to the following projects and capabilities:
+
+- Boeing 727 Replacement
+
+- Light Armoured Vehicles
+
+- Light Operational Vehicles
+
+- Special Forces Capabilities
+
+- C-130/P-3 Self-Protection
+
+- C-130 Communications and Navigation Systems Upgrade
+
+- Deployment of other capabilities
+
+
+-----
+
+**Timing**
+
+5.39 On 18 November 2002 Cabinet agreed that the C-130 should undergo a 15year life extension and authorised the Ministry of Defence to seek proposals from
+industry to complete the necessary work. The tender and evaluation process will be
+conducted through 2003 with the intention of signing a contract by mid 2004. The
+first mission capable aircraft is expected to be in service in 2006, with fleet
+modernisation complete in 2008.
+
+**Current Status**
+
+5.40 Defence officials are preparing the Request for Tender for release to the five
+short-listed companies in early July 2003.
+
+**Costs**
+
+5.41 A 15-year life extension is expected to cost $100 million - $170 million.
+
+
+-----
+
+#### P-3 Communications and Navigation Systems Upgrade
+
+**Description**
+
+5.42 This project involves the upgrade of the P-3 communications and navigation
+systems to address equipment obsolescence, meet operational requirements and
+comply with evolving international air traffic regulations. This project has been
+separated from the previous C-130/P-3 Communications and Navigation Systems
+Upgrade project due to the differing requirements of the P-3 and C-130.
+
+**Policy Value**
+
+5.43 The capability provided by the P-3 is central to meeting a broad range of
+civilian roles and tasks and for many functions required of the NZDF across the
+range of the Government’s five defence policy objectives. The P-3 undertakes
+surveillance of New Zealand’s EEZ and the Southern Ocean, meets our South
+Pacific search and rescue obligations and provides surveillance assistance to Pacific
+Island countries. The P-3 has a high utility for peace support operations, particularly
+peace enforcement, both regionally and globally. It is one of the primary force
+elements contributing to our defence relationships with Australia and FPDA partners.
+
+**Capability Gap**
+
+5.44 The global air traffic system is being progressively upgraded to increase
+system capacity and improve flight efficiency within required flight safety standards.
+This upgrade is designed to enable greater use of automated systems, with less
+reliance on human input and ground-based systems.
+
+5.45 The P-3s have systems designed for an earlier generation. They are not
+compliant with the new air traffic regulations. They also have limited ability to
+exchange operational information and will not adequately interface with modernised
+NZDF and defence partner capabilities.
+
+5.46 Without upgrading the P-3 communication and navigation systems, the
+Government will be faced with policy failure in meeting its objectives relating to aerial
+surveillance.
+
+**Links to Other Capabilities**
+
+5.47 This project has links to the following projects and capabilities:
+
+- P-3 Mission Systems Upgrade
+
+- Maritime surveillance
+
+**Timing**
+
+5.48 On 9 December 2002 Cabinet noted the options for upgrading both the P-3
+mission systems and communications and navigation systems, and authorised the
+Ministry of Defence to seek proposals from industry. The communications and
+navigation systems upgrade will be undertaken in conjunction with the P-3 Mission
+Systems Upgrade project. The tender and evaluation process will be conducted
+through 2003 with the intention of signing a contract by mid 2004. The first mission
+
+
+-----
+
+capable aircraft is expected to be in service in 2006, with fleet modernisation
+complete in 2008/9.
+
+**Current Status**
+
+5.49 The requirements for this project have been incorporated into the Request for
+Tender documents that will be issued in June 2003.
+
+**Costs**
+
+5.50 This project is expected to cost $60 million - $100 million.
+
+
+-----
+
+#### C-130 Communications and Navigation Systems Upgrade
+
+**Description**
+
+5.51 This project involves the upgrade of the C-130 communications and navigation
+systems to address equipment obsolescence and comply with evolving international
+air traffic regulations. This project has been separated from the previous C-130/P-3
+Communications and Navigation Systems Upgrade project due to the differing
+requirements of the P-3 and the C-130.
+
+**Policy Value**
+
+5.52 The C-130 is a critical enabler for many NZDF operations. It provides
+essential air transport for the deployment of NZDF personnel and some equipment,
+within New Zealand, to the South Pacific, Australia, the Asia-Pacific region and
+globally. Air transport is a critical capability for a number of roles and tasks,
+including: supporting counter-terrorist operations; peace support operations;
+evacuations of New Zealanders from trouble spots; disaster relief and humanitarian
+operations; supporting the civil power; and supporting New Zealand's Antarctic
+programme. The C-130 has particular utility where runways are short or in poor
+condition.
+
+**Capability Gap**
+
+5.53 The global air traffic system is being progressively upgraded to increase
+system capacity and improve flight efficiency within required flight safety standards.
+This upgrade is designed to enable greater use of automated systems, with less
+reliance on human input and ground-based systems.
+
+5.54 The C-130s have systems designed for an earlier generation. They are not
+compliant with the new air traffic regulations. As more stringent rules and procedures
+are implemented, the C-130s will be increasingly restricted in their operation, and
+ultimately will be unable to operate.
+
+5.55 Without upgrading the C-130 communication and navigation systems, the
+Government will be faced with policy failure in meeting its objectives relating to air
+transport.
+
+**Links to Other Capabilities**
+
+5.56 This project has links to the following projects and capabilities:
+
+- C-130 Life Extension
+
+- Air transport
+
+**Timing**
+
+5.57 On 18 November 2002 Cabinet agreed that the C-130 should undergo a 15year life extension and authorised the Ministry of Defence to seek proposals from
+industry to complete the necessary work. The communications and navigation
+systems upgrade will be undertaken in conjunction with the C-130 Life Extension
+project. The tender and evaluation process will be conducted through 2003 with the
+
+
+-----
+
+intention of signing a contract by mid 2004. The first mission capable aircraft is
+expected to be in service in 2006, with fleet modernisation complete in 2008.
+
+**Current Status**
+
+5.58 The requirements for this project have been incorporated into the Request for
+Tender documents that will be issued in June 2003.
+
+**Costs**
+
+5.59 This project is expected to cost $100 million - $150 million.
+
+
+-----
+
+#### Boeing 727 Replacement
+
+**Description**
+
+5.60 This project proposes to replace the Boeing 727 aircraft with commercial jet
+aircraft with greater range and payload capacity.
+
+**Policy Value**
+
+5.61 In addition to the C-130s, New Zealand requires a strategic airlift capability
+provided by jet transport aircraft. This was previously provided by two Boeing 727
+aircraft. Strategic airlift is an enabler for the same roles and tasks as the C-130,
+particularly the deployment and sustainment of NZDF forces on overseas
+deployments and the evacuation of New Zealand citizens.
+
+**Capability Gaps**
+
+5.62 The declining availability of air transport is a major capability gap that will
+increasingly impinge on the NZDF’s ability to deploy and support forces. This decline
+is related to both the age of the airframe and systems, and developments in
+international navigation/communications requirements. There is a risk of policy
+failure, particularly in the New Zealand, South Pacific and Asia-Pacific contexts, if this
+project is not carried out, as the NZDF would not have sufficient air transport to
+support deployments and perform other tasks.
+
+5.63 The growing pressures on C-130 availability are partly due to the extra use of
+C-130s to make up for the declining capability of the Boeing 727. C-130 availability
+will decline further when aircraft are taken out of service to undergo a life extension
+upgrade. In order to avoid a serious shortfall in the NZDF’s total airlift capacity, it is
+desirable to have the Boeing 727 replacement in service before the C-130 life
+extension programme commences.
+
+**Links to other Capabilities**
+
+5.64 This project has links to the following projects and capabilities:
+
+- C-130 Life Extension
+
+- Deployment of other NZDF capabilities
+
+**Timing**
+
+5.65 On 18 November 2002 Cabinet agreed to purchase two Boeing 757 aircraft,
+including necessary modifications, and authorised the Ministry of Defence to proceed
+with the acquisition process. Two Boeing 757 aircraft, in a passenger configuration,
+are expected to be in service by mid 2003. Modifications (cargo door, strengthened
+floor, airstairs and long range fuel tanks) necessary to meet the full capability
+requirements will be undertaken over the following 18 months.
+
+
+-----
+
+**Current Status**
+
+5.66 Two aircraft have been purchased in a passenger configuration. The first
+aircraft arrived in New Zealand in early May and the second aircraft is scheduled to
+arrive in June. The required modifications will be made to the aircraft in 2004.
+
+**Costs**
+
+5.67 This project is expected to cost $100 million - $200 million.
+
+
+-----
+
+#### Direct Fire Support Weapon – Area
+
+**Description**
+
+5.68 The area direct fire support weapon (DFSW-A) project will provide land forces
+with the ability to engage groups of enemy at a range of up to two kilometres.
+
+**Policy Value**
+
+5.69 DFSW-A forms an element of any significant land force contribution to peace
+enforcement operations in the Asia-Pacific region and globally where land forces may
+face a threat on the ground. The DFSW-A is also important in peacekeeping
+operations for self-protection and as a deterrent to escalation. The weapon may
+have some utility in higher-threat situations in the South Pacific.
+
+**Capability Gap**
+
+5.70 The New Zealand Army presently lacks this capability. This limits the
+effectiveness and self-protection capability of land forces, particularly during peace
+enforcement operations in the Asia-Pacific region and globally.
+
+**Links to other Capabilities**
+
+5.71 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Light Operational Vehicle
+
+- Medium Range Anti-Armour Weapon
+
+- Land Intelligence Surveillance Reconnaissance
+
+**Timing**
+
+5.72 The optimum entry into service for DFSW-A would be during 2004 to coincide
+with introduction of the LAV into service.
+
+**Current Status**
+
+5.73 On 9 December 2002 Cabinet authorised the Ministry of Defence to seek
+proposals from industry. The acquisition process is now underway.
+
+**Costs**
+
+5.74 This project is expected to cost $15 million.
+
+
+-----
+
+#### Medium Range Anti-Armour Weapon
+
+**Description**
+
+5.75 This project proposes to provide protection for our land forces from armoured
+threats.
+
+**Policy Value**
+
+5.76 The Medium Range Anti-Armour Weapon (MRAAW) provides land forces with
+a medium-range capability against armoured vehicles and other targets. It is a critical
+part of any contribution to peace enforcement operations where land forces may face
+an armoured vehicle threat. The MRAAW also has some utility in peacekeeping
+operations in the Asia-Pacific region and globally for self-protection in the event of an
+escalation in the threat to ground forces.
+
+**Capability Gap**
+
+5.77 New Zealand land forces are currently very vulnerable to threats from tanks,
+armoured vehicles or other anti-armour weapons. There is a need for a capability to
+engage these threats at the greatest distance practicable.
+
+5.78 The Army currently has a short-range anti-armour weapon, but it is limited in
+range and lethality. A medium-range anti-armour weapon is required to defeat
+threats at a greater range (2,300 metres) than the current weapon.
+
+**Links to other Capabilities**
+
+5.79 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Light Operational Vehicle
+
+- Direct Fire Support Weapon
+
+- Land Intelligence Surveillance Reconnaissance
+
+**Timing**
+
+5.80 The optimum entry into service for MRAAW would be during 2004 to coincide
+with introduction of the LAV into service.
+
+**Current Status**
+
+5.81 On 9 December 2002 Cabinet authorised the Ministry of Defence to acquire
+Javelin missiles. The acquisition process is now underway.
+
+**Costs**
+
+5.82 This project is expected to cost $22 million.
+
+
+-----
+
+### 6 PROJECTS NECESSARY TO AVOID THE FAILURE OF POLICY
+
+#### NZDF Helicopter Capability
+
+**Description**
+
+6.1 This project proposes to replace the Iroquois utility and Sioux training
+helicopters with a capability that meets the NZDF’s contemporary needs.
+
+**Policy Value**
+
+6.2 Utility helicopters provide essential support to the Army, particularly in the
+South Pacific and in peace support operations. Helicopters are important for
+supporting police operations in New Zealand. In addition, utility helicopters are able
+to provide a range of support functions within New Zealand and the South Pacific,
+such as search and rescue and disaster relief.
+
+6.3 The introduction into service of the MRV will create an additional role for utility
+helicopters in supporting the Army ashore, especially in the South Pacific.
+
+**Capability Gap**
+
+6.4 The Iroquois no longer provide the capability required by a modern, mobile
+land force. These 36-year-old aircraft are becoming increasingly difficult to support
+because of their age. With helicopters assuming greater importance for mobility and
+tasks in peace support operations, there is a risk that the Army will be unable
+adequately to perform its policy roles and tasks if the Iroquois is not upgraded or
+replaced to meet current requirements.
+
+6.5 The Sioux training helicopter is of 1950s vintage and is inadequate to meet
+training needs. It does not provide an adequate step in pilot training progression
+from the Airtrainer aircraft to operational utility and maritime helicopters.
+
+**Links to other Capabilities**
+
+6.6 This project has links to the following projects and capabilities:
+
+- Special Operations Capabilities
+
+- Multi-Role Vessel
+
+- Army capabilities
+
+**Timing**
+
+6.7 The Iroquois is becoming increasingly difficult and costly to support. The
+United States military has begun to withdraw support of the Iroquois to foreign
+owners in advance of retiring that aircraft from United States Army service by 2004.
+As the Iroquois no long adequately meets NZDF capability requirements, there will
+be some operational limitations until the aircraft is replaced, although these will be
+manageable. A replacement should be in service around 2007.
+
+
+-----
+
+6.8 There is some urgency to replace the Sioux training helicopter. It dates from
+the 1950s and does not provide an adequate training capability for converting pilots
+to helicopter operations. This has caused difficulties in maintaining training
+standards and placed an increased burden on the Iroquois, as extra training time is
+required on the Iroquois to compensate for the deficiencies of the Sioux.
+
+**Current Status**
+
+6.9 Defence has commenced a project to identify the policy and operational
+requirements for an NZDF helicopter capability and then develop costed options.
+Once the costed options have been developed, a paper will be brought forward for
+Cabinet consideration in August 2003.
+
+**Costs**
+
+6.10 Replacement of the Iroquois is expected to cost $400-550 million.
+Replacement of the Sioux with a dedicated training helicopter is expected to cost
+around $11 million. The lower end of the cost range is based on 12 helicopters at the
+lower end of the capability range replacing the 14 Iroquois.
+
+
+-----
+
+#### Special Operations Capability
+
+**Description**
+
+6.11 This project provides the Army with equipment to undertake special
+operations.
+
+**Policy Value**
+
+6.12 Army special operations capabilities have utility in meeting a range of the
+Government’s defence policy objectives and also in supporting policing operations in
+New Zealand and the South Pacific.
+
+**Links to Other Capabilities**
+
+6.13 This project has links to the following capabilities:
+
+- Light Operational Vehicles (Special Forces variant)
+
+- Land Intelligence Surveillance Reconnaissance
+
+- NZDF Helicopter Capability
+
+- C-130 Life Extension
+
+**Current Status**
+
+6.14 Work is underway to identify the immediate capability requirements that will
+make up this project and the Government will be able to consider options by the end
+of August 2003.
+
+**Costs**
+
+6.15 This project is expected to cost around $10 million.
+
+
+-----
+
+#### Joint Command and Control System 
+
+**Description**
+
+6.16 The Joint Command and Control System (JCCS) project is a programme to
+implement an automated command and control system for the NZDF. This IT system
+will collect, collate, process, display, store, disseminate and protect command and
+control information in near real-time.
+
+**Policy Value**
+
+6.17 Joint command and control is an enabling capability for all of the policy roles
+and tasks required of the NZDF. Joint command and control enables elements from
+all three services to work together efficiently and effectively by enhancing decisionmaking processes.
+
+**Capability Gap**
+
+6.18 The NZDF’s current command and control systems are largely manual and
+paper based. Experience in recent operations and exercises have shown that the
+NZDF system is dated and inefficient. This has impacted on the effectiveness of the
+Joint Force Headquarters. The slower and less accurate decision making cycle
+currently available to commanders is likely to lead to policy failure as it becomes
+increasingly difficult for the NZDF to plan operations and effectively co-ordinate its
+own operations.
+
+**Links to Other Capabilities**
+
+6.19 The JCCS is an overarching capability that contributes to all NZDF outputs.
+
+6.20 While the JCCS will give the NZDF the ability to manage command and
+control information, the project does not provide the ability to communicate data. The
+JCCS will therefore depend on the ability of a suitable communications infrastructure,
+part of which will be provided by the:
+
+- Joint Communications Modernisation
+
+- Army Tactical Trunk Communications
+
+6.21 These two projects will, however, be directly influenced by the JCCS as the
+JCCS will largely determine the requirements for future improvements to the
+communications infrastructure.
+
+**Timing**
+
+6.22 A Project Definition Study (PDS) to investigate, provide advice and options,
+and make recommendations on a JCCS to meet the NZDF’s command and control
+and interoperability requirements commenced in November 2002. The PDS is
+planned for completion in October 2003, following which proposals will be brought
+forward to Cabinet.
+
+
+-----
+
+**Current Status**
+
+6.23 The joint NZDF/MoD project team for the JCCS is currently managing the PDS
+acquisition process under State Services Commission and Treasury guidelines for
+major IT projects.
+
+**Costs**
+
+6.24 This project is expected to cost $15 million - $30 million.
+
+
+-----
+
+### 7 PROJECTS NECESSARY TO PROVIDE A WELL- EQUIPPED LAND FORCE
+
+#### Land Intelligence Surveillance Reconnaissance 
+
+**Description**
+
+7.1 This project proposes to equip the Army with an improved land Intelligence
+Surveillance Reconnaissance (ISR) capability.
+
+**Policy Value**
+
+7.2 An improved land ISR capability provides land forces with the ability to detect
+threats at greater distances and with greater certainty. An improved land ISR
+capability is an important element in operations where land forces face a demanding
+threat environment and need to know what is happening around them.
+
+**Capability Gap**
+
+7.3 Land forces require integral capabilities to identify personnel and vehicles,
+both static and moving. Current ISR capabilities are limited to foot, vehicle and
+motorcycle patrols and include night vision and some ground sensors. A significantly
+larger area, up to 100 by 60 square kilometres, will need to be observed when the
+LAV is introduced into service.
+
+**Links to other Capabilities**
+
+7.4 This project has links to the following projects and capabilities:
+
+- Special Operations Capability
+
+- Light Operational Vehicle
+
+- Light Armoured Vehicle
+
+- P-3 Mission Systems Upgrade
+
+- NZDF Helicopter Capability
+
+**Timing**
+
+7.5 A land ISR capability has linkages to a number of projects including the
+introduction of the LAV into service, which will start in 2004. Timing of the
+introduction of land ISR into service will be calibrated with these projects.
+
+**Current Status**
+
+7.6 Further studies are required to assess joint contributions to land ISR needs,
+assess the best mix and numbers of sensors and review personnel issues.
+
+**Costs**
+
+7.7   This project is expected to cost $25 million - $52 million.
+
+
+-----
+
+#### Army Tactical Trunk Communications
+
+**Description**
+
+7.8 This project proposes to replace and/or upgrade existing Army short-range
+communications systems to provide a high bandwidth (high capacity) digital theatre
+communication system to support command and control requirements of the NZDF
+Battalion Group operations.
+
+**Policy Value**
+
+7.9 The Army Tactical Trunk Communications system will provide an enhanced
+capability to exercise command and control over an NZDF battalion group, as well as
+communicate with allied forces. It forms an important component of any battalion
+group deployment, particularly in peace enforcement operations where good
+command, control and communications enhance the safety and effectiveness of land
+forces.
+
+**Capability Gap**
+
+7.10 Current Army tactical trunk communications systems are voice oriented,
+technologically old, and are comprised of ad hoc and short-term systems. This limits
+the Army’s ability to exchange information between deployed Army sub-units. An
+upgraded system would provide short-range communications that interface between
+medium/long range communications and the tactical units. This system needs to be
+military specification equipment.
+
+**Links to Other Capabilities**
+
+7.11 The Army tactical trunk communications system will need to be interoperable
+with other NZDF communications systems, particularly the JCCS and the Joint
+Modernisation Communications.
+
+**Timing and Current Status**
+
+7.12 This capability needs to be implemented following the outcome of the JCCS
+project definition study and on completion of a separate study to determine the work
+required to achieve an integrated communications infrastructure.
+
+**Costs**
+
+7.13 This project is expected to cost up to $10 million.
+
+
+-----
+
+#### Combat Service Support Vehicles
+
+**Description**
+
+7.14 This project has two parts:
+
+- Additional combat service support trucks, to provide support to the LAV. LAV
+support vehicles include fuel, water and bulk-handling equipment (moving
+containers/pallets over rough terrain).
+
+- Later in the decade, a replacement for the Unimog general service trucks that
+provide service, maintenance and sustainability to the motorised battalions,
+specifically LAV and LOV logistic support.
+
+**Policy Value**
+
+7.15 Combat service support vehicles are a critical enabler for LAV motorised
+operations. They sustain and resupply the LAVs with fuel, personnel and spares and
+provide maintenance support. Their utility in meeting policy objectives is in peace
+support operations in the Asia-Pacific region and globally.
+
+**Capability Gap**
+
+7.16 The introduction of the LAV will create an additional requirement for combat
+service support trucks beyond the Army’s current capabilities.
+
+7.17 In addition, the current fleet of Unimog general service trucks (2.5 and 4
+tonne) will be 25 years old in 2008. At this age they will be approaching the end of
+their economic life and will require replacement.
+
+**Links to other Capabilities**
+
+7.18 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Light Operational Vehicle
+
+- Multi-Role Vessel
+
+**Timing**
+
+7.19 The optimum start time for the introduction into service of the additional
+combat service support capabilities would be during 2004 to coincide with
+introduction of the LAV into service.
+
+7.20 The Unimogs will need to be replaced from around 2008/9. Timing will
+depend on the levels of serviceability of the Unimogs..
+
+**Current Status**
+
+7.21 Defence officials are preparing options for the Government to consider
+towards the end of 2003.
+
+
+-----
+
+**Costs**
+
+7.22 This project is expected to cost $10 million for immediate needs and $20
+million from 2008/09 to replace the Unimogs.
+
+
+-----
+
+#### Army Engineering Equipment
+
+**Description**
+
+7.23 This project proposes to enhance Army engineering equipment to support
+mobility of the motorised land force. Equipment includes:
+
+- Combat engineering tractors
+
+- 20 metre light bridging equipment
+
+- Lane way track laying equipment (metal carpet rolled in front of a truck)
+
+- Water purification/storage
+
+**Policy Value**
+
+7.24 Additional engineering equipment will enable LAVs and LOVs to cross
+obstacles that may be encountered. Some engineering equipment may also be
+necessary to enable landing operations from the MRV.
+
+7.25 The policy utility of this equipment will be in supporting the LAVs when
+deployed on peace support operations in the Asia-Pacific region and globally.
+
+**Capability Gap**
+
+7.26 Current engineering capabilities are very limited and not oriented towards
+motorisation. Additional capabilities are necessary to provide for the increase in the
+scale of mobility requirements associated with the increased number of vehicles in
+the motorised battalion. This also includes providing for the crossing of gaps and
+broken or soft ground, potentially including beach crossing from the MRV.
+
+7.27 The Army lacks water purification and storage capacity.
+
+**Links to other Capabilities**
+
+7.28 This project has links to the following projects and capabilities:
+
+- Light Armoured Vehicle
+
+- Light Operational Vehicle
+
+- Multi-Role Vessel
+
+**Timing**
+
+7.29 The engineering equipment is required to coincide with introduction of the LAV
+into service, starting in 2004.
+
+**Current Status**
+
+7.30 Defence officials are preparing options for the Government to consider
+towards the end of 2003.
+
+
+-----
+
+**Costs**
+
+7.31 This project is expected to cost around $15 million.
+
+
+-----
+
+#### Army In-Service Weapon Replacement
+
+**Description**
+
+7.32 This project proposes to replace the following in-service weapons when they
+become due for replacement around 2007-2009:
+
+- 1000 C9 light machine guns
+
+- Special Forces miscellaneous weapons
+
+- Carl Gustav light anti-armour weapons
+
+**Policy Value**
+
+7.33 The above small arms are integral to the full range of land force operations
+and have applications in a host of policy roles.
+
+**Capability Gap**
+
+7.34 Current weapons are serviceable but will require replacement around 2007–
+2009.
+
+**Timing**
+
+7.35 The weapons do not require replacement until 2007-2009.
+
+**Current Status**
+
+7.36. No action required at this stage.
+
+**Costs**
+
+7.37 This project is expected to cost around $8 million.
+
+
+-----
+
+#### Very Low Level Air Defence
+
+**Description**
+
+7.38 This project proposes to purchase additional equipment to bring the Mistral Air
+Defence System up to operational standard.
+
+**Policy Value**
+
+7.39 An air defence capability is necessary to protect critical land force elements
+from air threats such as low flying aircraft and armed helicopters.
+
+**Capability Gap**
+
+7.40 The current system is not fully operational. Target detection, identification and
+tracking rely on visual observation. To be fully effective and minimise risk to friendly
+aircraft, the system requires an auto cueing and identification friend or foe (IFF)
+capability.
+
+**Timing**
+
+7.41 This project should proceed as soon as possible.
+
+**Current Status**
+
+7.42 Work is underway to identify the best option to bring the system up to a fully
+operational standard. Once updated cost information is received, a submission will
+be brought forward to Cabinet seeking approval to proceed with acquisition of the
+required components.
+
+**Costs**
+
+7.43 This project is estimated to cost $12 million.
+
+
+-----
+
+### 8 PROJECTS NECESSARY TO AVOID SIGNIFICANT RISKS TO POLICY
+
+#### ANZAC Self-Defence Upgrade
+
+**Description**
+
+8.1 This project proposes to upgrade the ANZAC frigates’ self-defence systems to
+protect the Naval Combat Force against increasingly sophisticated anti-ship systems
+and to address equipment obsolescence.
+
+**Policy Value**
+
+8.2 The role of the Naval Combat Force is to meet military tasks, particularly in
+support of the Government’s regional and global objectives. The ANZACs are critical
+to the protection of New Zealand/Australian territorial sovereignty, for participating in
+FPDA activities, supporting our relationships with regional partners, and undertaking
+peace support operations in the Asia-Pacific region and beyond. These
+environments contain significantly higher threats to surface vessels than exist in New
+Zealand’s immediate area, including air and sub-surface threats. To continue
+operating in these environments, and therefore meet the Government’s policy
+requirements, the ANZACs will require an upgrade to their defensive systems to
+meet the changing threat levels in these areas.
+
+**Capability Gap**
+
+8.3 By the end of the decade, the increase in air, surface and sub-surface threats,
+and the sophistication of these threats, within the Australia/Asia-Pacific region and
+beyond will mean that the defensive systems onboard the ANZACs will become
+increasingly ineffective. Consequently, the operational capability of the ANZACs will
+decline to the point where their ability to operate in these environments would carry
+serious risks.
+
+8.4 The design of the majority of self-defence equipment on the ANZACs will be
+approaching 25 years of age by 2010. Support will become increasingly difficult and
+operating costs will rise. In some cases, such as the anti-air missile, existing
+systems are becoming increasingly difficult to support.
+
+**Links to other Capabilities**
+
+8.5 This project has links to the following projects and capabilities:
+
+- NZDF Torpedo Replacement
+
+- Multi-Role Vessel
+
+- Anti-Ship Missiles
+
+- P-3 Mission Systems Upgrade
+
+**Timing**
+
+8.6 This project needs to be implemented from around the end of this decade.
+
+
+-----
+
+**Current Status**
+
+8.7 Preliminary work is underway to scope the project and determine the best way
+to implement the package of required work.
+
+**Costs**
+
+8.8 This project is expected to cost around $300 million.
+
+**Possible Options**
+
+8.9 It may be possible to share in economies of scale with the Australian project to
+upgrade ANZAC self-defence systems. The self-defence capability comprises a
+number of components and these may be able to be implemented in a phased
+manner.
+
+
+-----
+
+#### NZDF Torpedo Replacement
+
+**Description**
+
+8.10 This project proposes to replace the torpedoes for the ANZAC frigates, P-3
+Orions and SH-2G Seasprite helicopters to maintain the ANZAC’s basic self-defence
+capability against sub-surface threats and the P-3’s area anti-submarine capability.
+
+**Policy Value**
+
+8.11 The role of the Naval Combat Force is to meet military tasks, particularly in
+support of the Government’s regional and global objectives. The ANZACs are critical
+to the protection of New Zealand/Australia territorial sovereignty, for participating in
+FPDA activities, supporting our relationships with regional partners, and undertaking
+peace support operations in the Asia-Pacific region and beyond. These
+environments contain significantly higher threats to surface vessels than exist in New
+Zealand’s immediate environs, including air and sub-surface threats. Torpedoes
+provide a basic self-defence capability against sub-surface threats, and enable the
+ANZACs to be safely deployed in these environments.
+
+8.12 The P-3s require a torpedo replacement to maintain their current capability to
+fulfil the above policy roles.
+
+**Capability Gap**
+
+8.13 The current torpedoes will reach the end of their life around 2007, limiting the
+ability of the ANZACs to be deployed to areas beyond the South Pacific where subsurface threats may be encountered. This would impact most significantly on the
+ability of the ANZACs to provide support for peace enforcement operations, such as
+during INTERFET. It would also limit the utility of the ANZACs as a contribution to
+the protection of New Zealand/Australia territorial sovereignty.
+
+8.14 The absence of a torpedo capability will mean that the P-3 aircraft will be
+unable to provide area protection for New Zealand naval vessels against submarine
+threats.
+
+**Links to other Capabilities**
+
+8.15 This project has links to the following projects and capabilities:
+
+- ANZAC Self-Defence Upgrade
+
+- Multi-Role Vessel
+
+- Anti-Ship Missiles
+
+- P-3 Mission Systems Upgrade
+
+**Timing**
+
+8.16 The current Mark 46 Mod 2 torpedo will not be supportable beyond about
+2007. A replacement will need to be in service before the current torpedoes become
+unsupportable.
+
+
+-----
+
+**Current Status**
+
+8.17 Work is underway to consider options to replace the current torpedo.
+
+**Costs**
+
+8.18 This project is expected to cost around $30 million.
+
+
+-----
+
+#### C-130/P-3 Self-Protection
+
+**Description**
+
+8.19 This project proposes to equip the C-130 and P-3 with a self-protection
+capability against likely threats, primarily man-portable infrared (IR) missiles.
+
+**Policy Value**
+
+8.20 The C-130 is a critical enabler for many NZDF operations. It provides
+essential air transport for a number of roles and tasks, including: supporting counterterrorist operations; peace support operations; evacuations of New Zealanders from
+trouble spots; disaster relief and humanitarian operations; supporting the civil power;
+and supporting New Zealand's Antarctic programme.
+
+8.21 The capability provided by the P-3 is critical to meeting many of the roles and
+tasks required of the NZDF across the range of the Government’s five defence policy
+objectives. The P-3 is critical for the surveillance of New Zealand’s EEZ and the
+Southern Ocean. It is also critical to meeting our South Pacific obligations. The P-3
+is one of the primary capabilities that contributes to our defence relationships with
+Australia and FPDA partners, and is of high utility for peace support operations.
+
+8.22 C-130s and P-3s are expensive assets and moreover carry a significant
+number of people. It is important therefore to protect those assets and minimise the
+risks to people onboard.
+
+**Capability Gaps**
+
+8.23 The current C-130 self-protection fit was installed in the early 1990s. Since
+that time there has been a significant increase in the sophistication and availability of
+missiles. The current system is no longer appropriate for today’s threat environment.
+
+8.24 The P-3 currently has no dedicated self-protection equipment. The aircraft’s
+sensors inherently provide protection from long-range and/or obvious threats. Manportable missiles are easy to conceal, however, and detection may not be possible
+before the aircraft has closed within range of the weapon. It is therefore necessary to
+be able to detect the missile launch and use countermeasure techniques to defeat it.
+
+8.25 In the last 15 years, 90 percent of all aircraft lost in combat have been
+attributed to infrared (IR) guided missiles. Specifically, these aircraft have fallen to
+man-portable missile systems. These shoulder-launched systems are widespread
+globally. Lack of a self-protection capability could limit the use of our C-130s or P-3s
+in humanitarian or peace support operations globally.
+
+**Links to Other Capabilities**
+
+8.26 This project has links to the following projects and capabilities:
+
+- C-130 Life Extension
+
+- P-3 Mission Systems Upgrade
+
+
+-----
+
+**Timing**
+
+8.27 This project should be considered to allow this project to be completed during
+the upgrade projects for the C-130 and P-3. This project will, however, be tendered
+separately. Ideally, a self-protection capability would be available as the upgraded
+aircraft return to service.
+
+**Current Status**
+
+8.28 Work is underway to determine the appropriate self-protection requirement
+and the Government will be able to consider options by mid-2004.
+
+**Costs**
+
+8.29 This project is expected to cost around $30 million.
+
+
+-----
+
+#### Anti-Ship Missiles
+
+**Description**
+
+8.30 This project proposes to equip the P-3 aircraft with an anti-ship missile
+capability.
+
+**Policy Value**
+
+8.31 Equipping the P-3 aircraft with an anti-ship missile capability would
+significantly enhance the value of these aircraft in fulfilling policy roles relating to the
+territorial sovereignty of New Zealand and Australia, playing an appropriate role in
+the maintenance of security in the Asia-Pacific region, and participating in the FPDA.
+
+**Capability Gap**
+
+8.32 Disbanding the Air Combat Force has resulted in the loss of the maritime
+strike capability. The P-3s provide targeting information but do not have an anti-ship
+capability. The inability to take immediate action against surface threats limits the P3’s ability to provide force protection for New Zealand naval vessels, particularly the
+frigates and, in future, the MRV.
+
+**Links to other Capabilities**
+
+8.33 This project has links to the following projects and capabilities:
+
+- P-3 Mission Systems Upgrade
+
+- Multi-Role Vessel
+
+- ANZAC frigates
+
+**Timing**
+
+8.34 The timing of this project is dependent on the completion of the P-3 mission
+systems upgrade. The modification required to enable the P-3 to launch anti-ship
+missiles is relatively straightforward and could be done during routine maintenance.
+A minimum number of missiles would need to be purchased, with the rest obtainable
+through an access arrangement. Before a missile capability is added, the mission
+systems upgrade would be necessary to provide sensors capable of locating and
+properly identifying targets.
+
+**Current Status**
+
+8.35 A study will be conducted in due course to determine the appropriate weapons
+for the P-3.
+
+**Costs**
+
+8.36 This project is expected to cost $10 million to equip the P-3 with the capability
+to launch anti-ship missiles and a further $10 million - $15 million for the missiles.
+
+
+-----
+
+#### Joint Communications Modernisation
+
+**Description**
+
+8.37 This project proposes to modernise the NZDF’s long-range and medium-range
+communications capability to ensure that the NZDF maintains a reliable, integrated,
+world-wide communications infrastructure. This communications infrastructure will
+support NZDF deployed forces, ships and aircraft operating outside short-range radio
+coverage and enable communications between force elements deployed to different
+parts of a theatre of operations.
+
+8.38 The modernisation will support higher data transfer rates and modern
+communication protocols, with a mix of military and commercial communications
+services.
+
+**Policy Value**
+
+8.39 As communications are critical in almost all roles, the modernisation of the
+communications infrastructure is important in the achievement of defence policy
+objectives in New Zealand’s environs, the South Pacific, the Asia-Pacific region and,
+potentially, in contributions to global security and peacekeeping.
+
+**Capability Gap**
+
+8.40 Current communications systems are single Service oriented, technologically
+dated, and comprise ad hoc and short-term systems. Communications between the
+Joint Force Headquarters and units deployed or operating beyond short-range radio
+coverage will not meet requirements, resulting in an inability to exchange information
+between NZDF units and allies. Deferral of this project will limit the type and
+timeliness of information that can be exchanged and thus will limit the ability of the
+NZDF to develop a modern, integrated command control communications and
+intelligence capability.
+
+**Links to Other Capabilities**
+
+8.41 Long-range and medium-range communication systems form an essential part
+of the NZDF communications infrastructure and contribute to all NZDF outputs. This
+project is dependent on the completion of the JCCS project definition study and is
+linked to the Army Tactical Communications System.
+
+**Timing**
+
+8.42 Modernisation of this capability needs to be started around 2005 to fully
+realise the benefits of the JCCS and the enhanced communications systems being
+introduced with other projects such as the P-3 mission systems upgrade and the
+MRV. To provide a fully effective command, control, communications and
+intelligence capability, the communications infrastructure must match the capability of
+the JCCS.
+
+
+-----
+
+**Current Status**
+
+8.43 A study is underway to determine the programme of work required to achieve
+an integrated communications infrastructure. This study, along with input from the
+JCCS project definition study, will assist in developing a strategy to implement this
+project.
+
+**Costs**
+
+8.44 This project is expected to cost $20 million - $40 million.
+
+
+-----
+
+#### Ohakea Hardstanding Reconstruction
+
+**Description**
+
+8.45 This project proposes to reconstruct the Ohakea hardstanding and taxiways to
+keep the airfield fully operational for military and commercial use.
+
+**Policy Value**
+
+8.46 The Government has agreed in principle to vacate Whenuapai and
+consolidate RNZAF operational capability at Ohakea. Ohakea will be the sole
+operational airfield for the Air Force supporting the operations of the maritime
+surveillance aircraft, air transport aircraft, and helicopters.
+
+**Capability Gap**
+
+8.47 The hexagonal block construction of the hardstanding area and taxiways is
+failing due to irregular aircraft usage far above the original design limits. Eventually,
+the hardstanding and taxiways will become unusable and restrict aircraft operation.
+An upgrade of these areas is essential for Ohakea to continue as an operational
+base and to support an increase in air traffic. Restrictions on aircraft operations at
+Ohakea impact on the ability of the Air Force to operate.
+
+**Links to Other Capabilities**
+
+8.48 This project has links to the following projects and capabilities:
+
+- Ohakea Runway Reconstruction (now completed)
+
+- Air Force consolidation at Ohakea
+
+- Air transport
+
+- Maritime surveillance
+
+**Timing**
+
+8.49 Reconstruction work needs to be undertaken around 2010.
+
+**Current Status**
+
+8.50 Ongoing monitoring of hardstanding and taxiway condition.
+
+**Costs**
+
+8.51 This project is expected to cost $8 million.
+
+
+-----
+
+### 9 PROJECTS THAT HAVE BENEFIT BUT ARE LESS CRITICAL TO ACHIEVING POLICY OBJECTIVES
+
+**High Readiness Infantry Company**
+
+9.1 The Army does not maintain a high readiness infantry company that can
+undertake many short-notice tasks. This represents a policy gap and affects
+deployment times.
+
+**Short Range Air Patrol**
+
+9.2 The Maritime Patrol Review identified a need for a short-medium range air
+patrol capability to complement the long range P-3. Options include provision of
+patrol services by a commercial contractor or by the Air Force. A commercial
+contract is estimated to cost in the order of $8-10 million annually. The Air Force
+could potentially provide the service at a lower annual cost by combining this task
+with existing training requirements or increasing P-3 surveillance hours. The Ministry
+of Fisheries is undertaking a study of coastal and mid-range air patrol capabilities
+and this work will consider the options available, including RNZAF aircraft and
+commercial service providers amongst others, and assess their cost-effectiveness. A
+final report to departments – including Defence – is due by 31 October 2003.
+
+**Modifications to enable MRV/OPV to operate in the Ross Sea**
+
+9.3 The Maritime Forces Review identified a requirement for patrolling in the
+Southern Ocean and in the Ross Sea. At least one of the vessels (the MRV and/or
+OPVs) should be capable of conducting operations in these waters. Advice will be
+sought from industry as to the marginal cost of including an ice-strenthened capability
+in the vessel design. Funding for this capability is included in the $500 million
+allocated for the naval surface fleet.
+
+**Remote Mine Detection**
+
+9.4 The Maritime Forces Review identified a requirement to protect New Zealand's
+major ports by developing a capacity to detect and dispose of mines and other
+explosives underwater. The Review concluded that the mine countermeasures role
+should be retained. The capability of the Navy to detect mine-like objects is
+becoming increasingly difficult as current equipment reaches the end of its
+economical life. Upgrading this capability would significantly improve the safety of
+personnel and ships over the current inadequate, emergency only, systems.
+
+**Army Manoeuvre Range**
+
+9.5 A moving target range enables soldiers and commanders to practice skills
+necessary to conduct motorised operations. The range would allow the practice of
+low level manoeuvre (up to platoon level) while engaging static and moving targets.
+
+**Indirect Fire Support Weapon**
+
+9.6 Army currently has 81mm mortars and the 105mm artillery howitzer. Based
+on current usage and firing wear and tear, both weapons are expected to require
+replacement around 2012.
+
+
+-----
+
+**Infrastructure projects**
+
+9.7 There are a range of infrastructure requirements that will need to be
+addressed over the next ten years. These projects will upgrade or replace existing
+facilities and may reduce infrastructure and operating costs.
+
+
+-----
+
