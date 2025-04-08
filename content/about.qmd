@@ -25,6 +25,8 @@ page-layout: full
 
 ![Jacqueline Huang](images/headshots/huang_jacqueline.png){fig-align="left" width="200"}
 
+![Claire Jeon](images/headshots/jeon_claire.jpg){fig-align="left" width="200"}
+
 ![Junhao Luo](images/headshots/luo_junhao.png){fig-align="left" width="200"}
 
 ![Emerson McCarthy](images/headshots/mccarthy_emerson.png){fig-align="left" width="200"}

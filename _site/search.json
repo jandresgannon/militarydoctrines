@@ -45,7 +45,7 @@
     "href": "content/about.html#research-assistants",
     "title": "About",
     "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\n\n\n\n\n\n\nIsabel Arvelo\n\n\n\n\n\n\n\nSorin Caldararu\n\n\n\n\n\n\n\nClaire Cho\n\n\n\n\n\n\n\n\n\nJacqueline Huang\n\n\n\n\n\n\n\nJunhao Luo\n\n\n\n\n\n\n\nEmerson McCarthy\n\n\n\n\n\n\n\n\n\nBlaire Richards\n\n\n\n\n\n\n\nAnthony Rodas\n\n\n\n\n\n\n\nSimon Rosenbaum\n\n\n\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\nHarmony Wang\n\n\n\n\n\n\n\nNikki Weitzenhoffer\n\n\n\n\n\n\n\n\n\nEthan Xu\n\n\n\n\n\n\n\nJenny Yang",
+    "text": "Research Assistants\n\n\n\n\n\n\n\n\n\nIsabel Arvelo\n\n\n\n\n\n\n\nSorin Caldararu\n\n\n\n\n\n\n\nClaire Cho\n\n\n\n\n\n\n\n\n\nJacqueline Huang\n\n\n\n\n\n\n\nClaire Jeon\n\n\n\n\n\n\n\nJunhao Luo\n\n\n\n\n\n\n\n\n\nEmerson McCarthy\n\n\n\n\n\n\n\nBlaire Richards\n\n\n\n\n\n\n\nAnthony Rodas\n\n\n\n\n\n\n\n\n\nSimon Rosenbaum\n\n\n\n\n\n\n\nAlexandra Sniezek\n\n\n\n\n\n\n\nHarmony Wang\n\n\n\n\n\n\n\n\n\nNikki Weitzenhoffer\n\n\n\n\n\n\n\nEthan Xu\n\n\n\n\n\n\n\nJenny Yang",
     "crumbs": [
       "About"
     ]
@@ -95,6 +95,20 @@
     "title": "Wordfish",
     "section": "",
     "text": "Figure 1\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6"
+  },
+  {
+    "objectID": "c3ef7648eacbba4f/content/penguins.html",
+    "href": "c3ef7648eacbba4f/content/penguins.html",
+    "title": "Penguins",
+    "section": "",
+    "text": "penguins"
+  },
+  {
+    "objectID": "c3ef7648eacbba4f/content/Untitled.html",
+    "href": "c3ef7648eacbba4f/content/Untitled.html",
+    "title": "Penguins",
+    "section": "",
+    "text": "data = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })"
   },
   {
     "objectID": "content/wordcloud.html",
