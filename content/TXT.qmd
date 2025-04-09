@@ -15,7 +15,6 @@ execute:
   cache: false
 ---
 
-
 ```{r knitr_options}
 coverage_df <- read.csv("data_copy/country_year_coverage.csv")
 metadata <- read.csv("data_copy/nss_metadata.csv")
@@ -36,7 +35,6 @@ library(htmltools)
 all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
 all_country_aliases <- readRDS("data_copy/country_aliases.rds")
 ```
-
 
 ```{r}
 library(dplyr)
@@ -69,7 +67,7 @@ country_summary <- metadata %>%
     years_range = paste(min(year, na.rm = TRUE), "-", max(year, na.rm = TRUE)),
     languages = paste(unique(language), collapse = ", ")
   ) %>%
-  arrange(desc(num_documents))
+  arrange(-desc(country_name))
 
 # Generate collapsible panels for each country
 generate_country_panels <- function() {
@@ -370,7 +368,3 @@ function toggleAccordion(countryId) {
 accordion_html <- generate_country_panels()
 htmltools::HTML(as.character(accordion_html))
 ```
-
-
-
-

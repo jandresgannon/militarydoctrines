@@ -19,15 +19,8 @@ library(dplyr)
 library(downloadthis)
 ```
 
-
-- [Country Year Coverage](data_copy/country_year_coverage.csv)
-- [DTM](data_copy/document_term_matrix.csv)
-- [First Nato Mention](data_copy/first_nato_mention.csv)
-- [New NATO State Mentions of Russia ](data_copy/new_nato_russia_mention.csv)
-- [New NATO State Mentions of NATO](data_copy/new_nato_russia_mention.csv)
-- [First Taiwan Mention](data_copy/first_taiwan_mention.csv)
-- [nss_metadata_all_txts.csv](data_copy/nss_metadata_all_txts.csv)
-- [nss_metadata](data_copy/nss_metadata.csv)
+-   [nss_metadata_all_txts.csv](data_copy/nss_metadata_all_txts.csv)
+-   [nss_metadata](data_copy/nss_metadata.csv)
 
 ```{r}
 # download_dir(
@@ -62,7 +55,6 @@ all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.c
 all_country_aliases <- readRDS("data_copy/country_aliases.rds")
 ```
 
-
 ```{r}
 library(dplyr)
 library(downloadthis)
@@ -82,7 +74,7 @@ country_summary <- metadata %>%
     years_range = paste(min(year, na.rm = TRUE), "-", max(year, na.rm = TRUE)),
     languages = paste(unique(language), collapse = ", ")
   ) %>%
-  arrange(desc(num_documents))
+  arrange(-desc(country_name))
 
 # Generate collapsible panels for each country
 generate_country_panels <- function() {
@@ -383,10 +375,3 @@ function toggleAccordion(countryId) {
 accordion_html <- generate_country_panels()
 htmltools::HTML(as.character(accordion_html))
 ```
-
-
-
-
-
-
-

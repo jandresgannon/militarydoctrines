@@ -4,9 +4,8 @@ description: "Download data in PDF format"
 editor: source
 ---
 
-
-- [Australia 2022 Defence Information](data_copy/nss_pdf/australia_2022_DefenceInformationAndCommunicationsTechnologyStrategy.pdf)
-- [Australia 2023 Cybersecurity Strategy](.data_copy/nss_pdf/australia_2023_AustralianCybersecurityStrategy.pdf)
+- [Individual NSS documents](https://www.dropbox.com/scl/fo/3ymtsdj56ql27esobmwrz/AD4CNJLKn-fL3__f7qwQ2j8?rlkey=50k5ronmzaoi8l0ek2czwenyw&dl=0)
+- [All NSS documents](https://www.dropbox.com/scl/fi/2pyy7nbykt43c2jzjzwsp/doctrines_compiled.zip?rlkey=31h9xp4djjf4qr5y83xlub0rd&dl=0)
 
 
 

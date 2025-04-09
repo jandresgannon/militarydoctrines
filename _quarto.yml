@@ -28,16 +28,14 @@ website:
         text: Paper
       - section: "Data"
         contents:
-          - href: content/Data.qmd
-            text: Data
           - href: content/PDF.qmd
-            text: PDF
+            text: pdf
           - href: content/CSV.qmd
-            text: CSV
+            text: csv
           - href: content/TXT.qmd
-            text: TXT
+            text: txt
       - href: content/Selected_Viz.qmd
-        text: Selected Visualizations         
+        text: Visualizations         
 
 format:
   html:

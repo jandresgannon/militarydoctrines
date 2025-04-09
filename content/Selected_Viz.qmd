@@ -48,7 +48,6 @@ library(ggtext)
 all_summary_df <- read.csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
 ```
 
-
 ```{r}
 # Define highlighted countries
 countries_to_highlight <- c("United States", "North Korea", "Japan", "China")
@@ -135,7 +134,6 @@ sk_mention_plot <- ggplot(plot_data, aes(x = year,
   )
 ```
 
-
 ```{r}
 # Define highlighted countries
 countries_to_highlight <- c("Russia", "China", "Iran", "Japan")
@@ -200,24 +198,22 @@ us_mention_plot <- ggplot(plot_data, aes(x = year, y = value, color = target_cou
   )
 ```
 
-## Directed Dyad Affinity Over Time 
+## Directed Dyad Affinity
 
 ```{r fig.width=12, fig.height=6, fig.fullwidth=TRUE}
 plot_grid(sk_mention_plot, us_mention_plot, labels = "AUTO")
 ```
 
-## Text Scaling 
+## Text Scaling
 
 ```{r}
 all_doctrine_df <- read_csv("data_copy/nss_doctrine_text.csv")
 ```
 
-
 ```{r}
 sk_japan_2014_plot_data <- read.csv("data_copy/sk_japan_2014_plot_data.csv")
 metadata  <- read.csv("data_copy/nss_metadata.csv")
 ```
-
 
 ```{r}
 show(ggplot(sk_japan_2014_plot_data, aes(x = beta, y = psi, label = word)) +
@@ -265,9 +261,7 @@ show(ggplot(sk_japan_2014_plot_data, aes(x = beta, y = psi, label = word)) +
            hjust = 0.5, size = 2, color = "black", fontface = "italic"))
 ```
 
-## New NATO State Documents 
-
-
+## NATO Expansion
 
 ```{r}
 russia_mention_levels <- c("Albania", "Bulgaria", "Croatia", "Czech Republic", "Estonia", "Finland",         "Hungary", "Latvia", "Lithuania", "Montenegro", "North Macedonia", "Poland", "Romania", "Slovakia", 
@@ -286,7 +280,6 @@ every_other_year <- unique(nato_merged_data $doc_year)[seq(1, length(unique(nato
 nato_merged_data <- nato_merged_data  %>%
   mutate(doc_country = factor(doc_country, levels = nato_mention_levels))
 ```
-
 
 ```{r}
 russia_mentions <- ggplot(russia_merged_data , aes(x = year_position, y = doc_country, fill = normalized_mention_count)) +
@@ -326,8 +319,6 @@ russia_mentions <- ggplot(russia_merged_data , aes(x = year_position, y = doc_co
   ) +
   coord_equal()
 ```
-
-
 
 ```{r}
 nato_mentions <- ggplot(nato_merged_data, aes(x = year_position, y = doc_country, fill = normalized_mention_count)) +
@@ -369,9 +360,6 @@ nato_mentions <- ggplot(nato_merged_data, aes(x = year_position, y = doc_country
 
 ```
 
-
 ```{r fig.width=14, fig.height=8,  fig.fullwidth=TRUE}
 plot_grid(russia_mentions, nato_mentions, labels = "AUTO", nrow = 2)
 ```
-
-
