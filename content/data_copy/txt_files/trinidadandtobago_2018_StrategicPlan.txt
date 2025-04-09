@@ -1,0 +1,3167 @@
+#### MINISTRY OF NATIONAL SECURITY
+
+# STRATEGIC PLAN
+
+### 2018 - 2023
+
+###### March 5[th], 2018
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### TABLE OF CONTENTS
+
+
+TABLE OF CONTENTS .................................................................................................................. 1
+
+FOREWORD .............................................................................................................................. 2
+
+MINISTER OF NATIONAL SECURITY ........................................................................................................... 2
+
+PERMANENT SECRETARY – MINISTRY OF NATIONAL SECURITY ................................................................ 4
+
+EXECUTIVE SUMMARY ................................................................................................................ 5
+
+INTRODUCTION ......................................................................................................................... 8
+
+METHODOLOGY ...................................................................................................................... 11
+
+DIAGNOSTICS .......................................................................................................................................... 13
+
+INTERNAL ENVIRONMENTAL CONTEXT ......................................................................................... 17
+
+EXTERNAL ENVIRONMENTAL CONTEXT ........................................................................................ 20
+
+THE NEW STRATEGY ................................................................................................................ 25
+
+VISION, MISSION AND VALUES ................................................................................................... 25
+
+CORE VALUES BEHAVIOURAL FRAMEWORK ........................................................................................... 26
+
+THE STRATEGIC IMPERATIVES .................................................................................................... 31
+
+THE STRATEGIC FRAMEWORK .................................................................................................... 34
+
+LINKING IMPERATIVES, INTENT, OUTCOMES AND OUTPUTS ............................................................... 34
+
+SHORT – MEDIUM – LONG TERM GOALS ....................................................................................... 54
+
+STRATEGY MAP ...................................................................................................................... 59
+
+RISK MITIGATION FRAMEWORK .................................................................................................. 61
+
+CONCLUSION .......................................................................................................................... 62
+
+APPENDICES ........................................................................................................................... 63
+
+APPENDIX I – MINISTRY OF NATIONAL SECURITY ORGANISATION STRUCTURE .................................... 64
+
+APPENDIX II  - 24-MONTH OPERATIONAL PLAN WITH RACI ................................................................. 65
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### FOREWORD
+
+
+###### MINISTER OF NATIONAL SECURITY
+
+The 2018-2023 Ministry of National Security Strategic Plan is anchored to the Vision 2030 National
+
+Strategic Development Plan, towards the achievement of the goals as they relate to the security and
+
+safety of the Republic of Trinidad and Tobago. In furtherance of Vision 2030’s Theme II: “Promoting
+
+Good Governance and Service Excellence,” we, at the Ministry of National Security will work towards
+
+the stated National Outcome to develop and implement a Modern and Effective Law Enforcement
+
+System and Defence and Security sector. In so doing, we will enhance our capabilities to predict,
+
+deter, detect and prosecute crime, criminality and any attack on our democracy, as well as improve
+
+our systems for rehabilitation, and partner with key stakeholders in the pursuit of restorative justice.
+
+The Ministry of National Security has primary responsibility for safety and security of the nation.
+
+However, I believe that safety and security is ultimately the responsibility of each and every one of us
+
+and as the Ministry adopts a ‘whole of Ministry’ and ‘whole of society’ approach, I urge my fellow
+
+citizens to commit to a multi-dimensional holistic approach to our fight to effectively reduce crime and
+
+criminality, and enhance the security of our population. Given the diversity and complexity of National
+
+Security challenges in the 21st century, the Ministry must create sustainable long-term solutions that
+
+can be grounded in the strengthening of our alliances within the Ministry, with civil society and with
+
+our regional and international partners to protect the nation and to contribute to a stable Caribbean
+
+region.
+
+It has become apparent that gang violence accounts for the majority of serious violent crime in this
+
+country, with firearms the preferred weapon of choice. Transnational organised crime, such as
+
+trafficking in all its forms, youth violence, terrorism, and pervasive gang culture and associated gang
+
+violence contribute to the increase in our country’s crime rate and murder toll nearly every day. The
+
+security, safety and well-being of this country are the concerns of every citizen. In this regard, the
+
+Ministry of National Security recognizes it has the responsibility to provide strong leadership and
+
+therefore determined that its mission is “to advance national development by creating a safer and
+
+more secure society through enhanced collaboration among all stakeholders, intelligence-based
+
+decision-making and strengthened inter-agency structures and systems.”
+
+The Ministry adopted a ‘whole of Ministry’ approach in the development of the Plan, through the
+
+establishment of a cross-Divisional Strategic Planning, Implementation, Monitoring and Evaluation
+
+Team. The Team played a key role in the Plan’s development and will continue in an oversight and
+
+reporting capacity for its implementation, monitoring and evaluation. This approach was designed to
+
+ensure continuous tracking and assessment of the performance of the Ministry, towards achievement
+
+of its goals and objectives. The passion and commitment demonstrated by staff and other
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+stakeholders in the development of the plan speaks volumes for the desire to work assiduously towards
+
+the achievement of the Ministry’s goals to ensure safer and more secure communities.
+
+Our strategy sets out to integrate Government, civil society and our international partners to create
+
+focused and innovative solutions to traditional and emerging national security issues and challenges.
+
+Our endeavours will not be in vain; because I believe that National Security is not an elusive
+
+accomplishment but an achievement possible with the help and vigilance of every citizen. As such,
+
+we will facilitate the strengthening of an environment which ensures public safety and security through
+
+the enforcement of the rule of law and maintenance of order, and the commitment of all available
+
+resources to the protection of life and property.
+
+In moving towards a sustainable path we are therefore repositioning our strategic direction to serve
+
+our country better and achieve much greater levels of safety and security. We put forward a Plan for
+
+the period 2018 – 2023 outlining our short, medium and long term goals, and include a detailed
+
+twenty-four (24) month Operational Plan, given the realities of the current economic situation. This
+
+Operational Plan will be reviewed prior to its expiration with a view to the proactive development of a
+
+plan for a further two-year period.
+
+As Minister of National Security, I am confident that through the continued commitment, cooperation
+
+and collaboration with all our stakeholders, we will achieve our goal of improved safety and security
+
+of our nation.
+
+Major General (Ret’d) the Honourable Edmund Dillon
+
+Minister of National Security
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### PERMANENT SECRETARIES – MINISTRY OF NATIONAL SECURITY
+
+The Ministry of National Security, having primary responsibility for the maintenance of law and order,
+
+public safety and security, co-ordination of disaster preparedness and emergency relief, and control
+
+of the flow of people in and out of the country, has developed a Strategic Plan for the period 2018
+2023 which outlines initiatives to support these goals. The Ministry is well poised to bring this plan to
+
+fruition as it is comprised of a highly skilled, experienced and committed workforce.
+
+The Ministry must ensure continued alignment with Government’s mandate articulated in the Vision
+
+2030 National Strategic Development Plan. As a critical contributor to the Pillar: “Promoting Good
+
+Governance and Service Excellence”, the Plan focuses on targeted areas as the Ministry’s strategic
+
+imperatives to achieve the desired goals. In pursuit of the strategic imperatives outlined in the plan,
+
+the Ministry intends to review and improve its structure and systems to create a more robust, efficient
+
+and effective organization. This is set out under the strategic imperative “Governance” in the plan
+
+which will pursue the Ministry’s policy and legislative agenda to support its mandate.
+
+In the face of limited resources, the Ministry must strive to optimize those resources available to it by
+
+improving efficiency. In accordance with this, “Stakeholder Partnership and Collaboration” is also a
+
+critical imperative in the plan to harmonise working relationships and foster closer communication and
+
+collaboration. The plan seeks to put the Ministry on this path as it sets out clear lines of responsibility
+
+and accountability. The Ministry will strive to bring about the change necessary to cultivate an
+
+environment where our citizenry feel a greater sense of safety and security.
+
+We wish to recognize the efforts of the staff of the Ministry for their commitment and support in the
+
+development of this plan. The engagement of key stakeholder Ministries and other agencies also
+
+provided valuable information to aid the development process. It is our intention to maintain this
+
+communication and collaboration as we move forward to the implementation and monitoring and
+
+evaluation stage of the plan and towards the achievement of our stated objectives.
+
+Ms. Lydia Jacobs
+
+Permanent Secretary, Ministry of National Security
+
+Mr. Vel Lewis
+
+Permanent Secretary, Ministry of National Security
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### EXECUTIVE SUMMARY
+
+
+Determined to meet the evolving challenges and opportunities of a changing environment that includes
+
+an expanded Ministry, the Ministry of National Security (MNS) undertook a transformational strategic
+
+planning exercise. The process was aimed at improving the capacity and capability of the organisation
+
+to drive superior service delivery to the citizenry of Trinidad and Tobago.
+
+To this end, an MNS Strategic Leadership Session was held in July 2016. This session set the stage
+
+and created the opportunity for revisiting the MNS’ strategic direction, and the development of a MNS
+
+Strategic Plan for the period 2018-2023. Accordingly, the following recommendations were made:
+
+ Establish a Strategic Planning, Implementation, Monitoring & Evaluation [SPIME] Team that
+
+would have the responsibility for advancing the Strategic Planning process and ensuring
+
+planning timelines were met
+
+ Engage key stakeholders with a view to gathering and verifying data that is critical to the
+
+strategic direction of the MNS
+
+ Facilitate a process that would ensure a deeper and more rigorous analysis of conclusions
+
+ Develop Strategic Imperatives, Objectives and Core Values
+
+ Develop Operational Plans for each Strategic Imperative
+
+The Strategic Plan was developed to ensure alignment with the Vision 2030 National Development
+
+Strategy, particularly with respect to “Theme II - Promoting Good Governance and Service
+
+Excellence” and “Theme V - Placing the Environment at the Centre of Socio-economic Development”.
+
+Within Theme II, the National Performance Management Framework outlines the National Outcome
+
+5 “A Modern and Effective Law Enforcement System” which states that “it is expected that a
+
+modernized and effective law enforcement and policing system will create an environment which
+
+ensures public safety through the maintenance of law and order.” This plan is designed to support
+
+this outcome in its direct focus in the Strategic Imperative of “Crime Prevention and Reduction.”
+
+Within Theme V, the National Performance Management Framework outlines National Outcome 4
+
+which is “Increased Resilience of Climate Vulnerable Sectors”. The plan addresses this outcome in
+
+the Strategic Imperative of “Hazard Resilience” under which Disaster Risk Management will be
+
+pursued to improve the response to hazards and disasters.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+The Ministry of National Security’s Strategic Plan 2018 - 2023 has been designed to enable the Ministry
+
+to fulfill its mandate -- to ensure a safer Trinidad and Tobago. This 5-year plan will facilitate the
+
+strengthening of an environment of public safety and security through enforcement of the rule of law
+
+and maintenance of order. Additionally, the plan is crafted to promote strategic and innovative thinking
+
+among MNS personnel and other key stakeholders. This approach is geared towards enabling the
+
+Ministry to be more agile and responsive to mitigate current and emerging threats with up-to-date
+
+technology and innovative strategies. The plan will also provide stakeholders with an in-depth analysis
+
+of the Ministry’s contextual environment as it relates to capacity and capability.
+
+The strategic formulation process was driven by extensive information gathering from primary and
+
+secondary sources to assess the Ministry’s current state. Secondary sources included previous strategic
+
+plans, reports, statistics and newspaper articles. These facilitated a clearer understanding of the
+
+historical evolution of the Ministry and provided details on its present governance structure, processes,
+
+policies and culture. To complete the current state assessment, extensive stakeholder sessions were
+
+conducted. The engagement of both internal and external stakeholders produced an aggregation of
+
+perspectives that allowed for a more holistic understanding of the capacity and capability of the
+
+Ministry.
+
+Through the work of a core planning team that comprised representatives of all Divisions of the
+
+Ministry (SPIME - Strategic Planning Implementation, Monitoring and Evaluation), the data was
+
+analysed and categorised to identify major areas of priority - strategic imperatives. These strategic
+
+imperatives represent the Ministry’s broad areas of focus from which strategic objectives, major
+
+initiatives and supporting projects were developed.
+
+The five (5) strategic imperatives listed below focus on developing and strengthening internal
+
+competencies, while simultaneously enhancing the services that the Ministry provides to its
+
+stakeholders.
+
+**Crime Prevention and Reduction**
+
+**Hazard Resilience**
+
+**Governance**
+
+**Stakeholder Collaboration and Partnership**
+
+**Capacity and Capability Resourcing**
+
+**and Optimization**
+
+**Fig. 1: Ministry of National Security Strategic Imperatives 2018 - 2023**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+Each strategic imperative is defined by a statement of intent that articulates the desired outcome of
+
+the imperative. This built-in focus on outcomes would serve as a point of reference in evaluating the
+
+success of the strategy when it is implemented. The implementation process will be guided by a
+
+twenty-four (24) month operational plan.
+
+Strategic imperatives were disaggregated into major initiatives, which were further broken down into
+
+specific projects. Each project was then scheduled and assigned for execution using the RACI
+
+Framework (a model that identifies the persons who are Responsible, Accountable, and those who
+
+should be Consulted and Informed within each project).
+
+Within the operational plan, an assessment of risk and possible mitigating activities was designed for
+
+each project. This contingency plan approach is intended to trigger innovative problem-solving
+
+activities within the MNS (culture change), and increase the prospects of successful implementation.
+
+This Strategic Plan is holistic as it incorporates and aligns the activities and resources of the Ministry’s
+
+nine divisions to enhance service delivery to all stakeholders. Through its implementation, it is
+
+anticipated that the Ministry will become the hallmark of the “whole of Ministry” (a synergized efficient
+
+Ministry) approach, a leading force in the “whole of Government” ambition, and a major enabler of
+
+peace, prosperity and economic and social stability for all citizens of Trinidad and Tobago.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### INTRODUCTION
+
+
+The Ministry of National Security (MNS) is among the largest and most complex entities within the
+
+public sector. It is the arm of the Government of Trinidad and Tobago with primary responsibility for
+
+ensuring and maintaining the security and safety of the public, as well as the sovereignty and security
+
+of the national space. The MNS is charged with an operational mandate that includes:
+
+ Maintenance of Law and Order, Public Safety and Defence against Aggression
+
+ Management of Disaster Preparedness and Relief
+
+ Monitoring and Control of the flow of persons into and out of the country
+
+To fulfill its functions, the Ministry is staffed with approximately 21,000 persons, which includes
+
+military, paramilitary and civilian personnel, some of whom are on contract, while the majority is on
+
+the establishment. These persons are assigned to primary Divisions listed hereunder:
+
+**Key Agencies of the Ministry of National Security**
+
+1. Trinidad and Tobago Defence Force
+
+2. Trinidad and Tobago Police Service
+
+3. Trinidad and Tobago Fire Service
+
+4. Trinidad and Tobago Prison Service
+
+5. Trinidad and Tobago Cadet Force
+
+6. Immigration Division
+
+7. Office of Disaster Preparedness and Management
+
+8. Trinidad and Tobago Forensic Science Centre
+
+9. Strategic Services Agency (specially-mandated Agency at the Divisional level)
+
+10. General Administration
+
+In addition to the Divisions listed above, there are several other ‘specifically-mandated’ Units/ Agencies
+
+under the purview of the Ministry of National Security. These are as follows and also represented on
+
+the organisation chart as Appendix 1:
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+**Sections and Units of the Ministry of National Security**
+
+ - Anti-Money Laundering /CFT Compliance  - Work Permits
+
+ - Citizenship and Immigration  - Legal
+
+ - Citizen Security Programme  - Lifeguard Section
+
+ - Computer Security Incident Response Team  - Military Liaison Office
+
+ - Corporate Communications  - Monitoring and Evaluation
+
+ - Corporate Services  - National Crime Prevention Programme
+
+ - Counter Trafficking  - National Drug Council
+
+ - Criminal Injuries Compensation Board  - Office Management
+
+ - Defence and Protective Services  - Office of Law Enforcement Policy
+
+ - DNA  - Probation Services
+
+ - Electronic Monitoring  - Procurement
+
+ - Facilities Management  - Programme Management
+
+ - Finance and Accounts  - Penal Reform and Transformation Unit
+
+ - HIV & AIDS Coordinating Unit  - Record Management
+
+ - Human Resource Management  - Registry
+
+ - Information Technology  - Research
+
+ - Internal Audit
+
+ - International Affairs
+
+**The Executive**
+
+The responsibility for introducing policy, consistent with Government’s strategic priorities and
+
+overseeing its implementation lies with the Minister of National Security, who is supported at the Head
+
+Office by a Minister in the Ministry of National Security, a Parliamentary Secretary, two (2) Permanent
+
+Secretaries, one of whom is the Accounting Officer for the Ministry, and three (3) Deputy Permanent
+
+Secretaries. Collectively, they constitute the Executive Leadership Team of the Ministry.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+The Minister and his Leadership Team bear the responsibility for overseeing all matters relating to the
+
+Ministry’s established mandate, which focuses primarily on the following:
+
+  - Public Order: Safety and Law Enforcement
+
+  - Protection of the Airspace and Territorial Waters
+
+  - Intelligence
+
+  - Immigration
+
+  - Disaster Preparedness and Management
+
+  - Social Programmes (which include the Citizen Security Programme and Specialized Youth
+
+Service Programmes)
+
+The Leadership Team is supported by and works closely with the Heads of the various
+
+Divisions/Agencies of the Ministry to ensure fulfilment of the organisation’s mandate. The Heads are
+
+charged with the day-to-day operations of their respective Divisions/Agencies and together with the
+
+Leadership Team, form the Executive arm of the Ministry of National Security.
+
+It was highlighted quite early in the diagnostic and conceptual discussions, that the MNS was
+
+considered to be the sum of many parts and thus, there was a need to establish a clear Ministry
+
+“identity”. This was opined as being critical to the development of the MNS Strategic Plan, which is to
+
+be driven by a more “whole of Ministry” approach. It is believed that the MNS identity would inform
+
+the development of policies and heighten the probability of strategic cohesion and participation
+
+towards the improvement of service delivery.
+
+The Ministry of National Security has nine (9) Divisions, each with its own sub-identity. A concerted
+
+effort was made throughout the planning process to promote the benefits of synergy and resource
+
+optimization, whilst taking into consideration their diverse responsibilities and approaches. Through
+
+this plan, it is expected that a clearer Ministry identity would emerge - one that is supported by core
+
+values that would govern how services are provided inter-divisionally, nationally, regionally and
+
+internationally.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### METHODOLOGY
+
+
+The methodology used for the process was essentially qualitative due to the nature and complexity of the organisation, as well as the expected process outcomes. The participative and
+
+inclusive methods utilized are summarized in “The Strategic Planning Process” map below.
+
+
+**ENVISIONING POSSIBILITIES**
+
+_What might/will we do about it?_
+
+
+**DISCERNING SIGNIFICANCE**
+
+_What does it mean?_
+
+
+**ROTI**
+
+Revisit the OTI
+
+
+**EXPLORING PERSPECTIVES**
+
+_What is going on?_
+
+
+**OT of the SWOT**
+
+
+**PESTILE**
+
+**Implications**
+
+
+**Stakeholder**
+
+**Analysis**
+
+
+**Organisational**
+
+**Model**
+
+PESTILE Analysis
+
+of the Contextual
+
+and Transactional
+
+Environment
+
+SW of the SWOT
+
+Analysis of the
+
+Human,
+
+Operational
+Functional and
+
+Socio-Cultural
+
+Elements
+
+
+**Develop SP**
+
+**Framework**
+
+Mission and Vision
+
+Core Values and
+
+Behavioural
+
+Framework
+
+Strategic
+
+Imperatives,
+
+Statements of
+
+Strategic Intent
+
+Strategic Objectives
+Strategic Outcomes
+
+Strategic Outputs
+
+Initiatives for each
+
+output
+
+Timelines for each
+
+output
+
+
+**Scenario Planning**
+
+**and Risk**
+
+**Assessment**
+
+
+**Develop 24-month**
+
+**Operational/**
+
+**Roadmap Plan**
+
+including RACI (with
+
+Change Champions)
+
+and Performance
+
+Targets and
+
+Resource
+
+Requirements
+
+
+**Performance**
+
+**Monitoring and**
+
+**Evaluation**
+
+**Framework with**
+
+**incentives**
+
+
+**Fig. 2: The Strategic Planning Process Map**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+As illustrated above, the process that guided the development of the Strategic Plan involved the use
+
+of the Odyssey Strategic Thinking Model[©] which anchored all activities undertaken. This model
+
+employs a three-tiered approach to strategy formulation. Each level is then broken down into smaller
+
+components which help to map and align the strategic building blocks. The model mandates that at
+
+the first stage (Exploring Perspectives), a comprehensive assessment of “what is going on?” or the
+
+Current State Assessment is done.
+
+The key focus was on capturing data from different perspectives on the external and internal
+
+environmental issues which affect and will continue to affect the MNS in fulfilling its mandate. It is in
+
+this context that Odyssey and the SPIME team undertook to conduct extensive primary research
+
+through internal and external stakeholder sessions and secondary research through key document
+
+review. The primary data collected through the stakeholder sessions and interviews was guided by
+
+the Odyssey Organisational Model[©] and the SW (Strengths and Weaknesses) of the SWOT Model. The
+
+Odyssey Organisational Model[©] divides the organisation into four (4) major elements of analysis,
+
+ensuring all aspects of the organisation are captured within the strategic analysis. These four elements
+
+are:
+
+1. The Vision element (where the Ministry is going and should be operating)
+
+2. The Socio-cultural element (cultural identity of the organisation)
+
+3. The Operational-functional element (systems/processes, capacity, capability)
+
+4. The Human element (personal competencies, attitudes)
+
+In the second stage of the Strategic Thinking Model (Discerning Significance), key levels of validation,
+
+connection and distillation were done. Thereafter, through discussions, Odyssey and the SPIME team
+
+tested the validity, accuracy and soundness of the data, placed the data in context and established
+
+patterns, connections and themes, and ultimately clarified the potential impact and implications for
+
+the MNS. The Discerning Significance stage was used to determine the Opportunities and Threats
+
+(OT) for both the external (PESTILE analysis) and internal (SWOT) environment.
+
+The identification and analysis of Opportunities and Threats (OT) provided the basis upon which the
+
+third stage (Envisioning Possibilities) of the plan was developed. The team was able to distill the
+
+strategic imperatives and strategic objectives by reviewing these opportunities and threats. The
+
+process was further detailed to develop a 24-month plan with a RACI matrix and a Risk Mitigation
+
+Framework, all designed to increase the probability of implementation success. The RACI matrix is a
+
+tool used to track roles and responsibilities, and increase the probability of successful implementation.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### DIAGNOSTICS
+
+ The Data-Gathering Process
+
+The diagnostic information was gathered by asking open-ended questions on the operating
+
+environment of the Ministry to internal and key external stakeholders.
+
+ **The External Environment**
+
+The PESTILE model (a derivative of the PESTLE model, in which “industry-related” factors are
+
+included) was used to gather external environmental information.
+
+**Technological**
+
+**Industry-**
+
+**Socio-cultural**
+
+**Sector**
+
+**Economic** **Legal**
+
+**MINISTRY OF**
+
+**Political** **NATIONAL** **Ecological**
+
+**SECURITY**
+
+**Fig. 3: PESTILE Analysis**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+ **Internal Current State Assessment**
+
+The SW (Strengths and Weaknesses) internal current state assessment is a derivative of the
+
+SWOT analysis. Stakeholders were asked to clearly outline the strengths of the organisation,
+
+and then define the weaknesses of the organisation as it pertains to structure, processes,
+
+culture and its character.
+
+The combination of these analyses facilitated an in-depth assessment of the current state of
+
+the Ministry, and provided the basis upon which strategic possibilities could be explored.
+
+To commence the diagnostic analysis of the Ministry, the Odyssey Organisational Model[©] was
+
+used to frame the organisation. The four major organisational elements used ensured that all
+
+aspects of the organisation were captured within the strategic analysis.
+
+These elements were analysed within the context of the transactional environment within
+
+which the Ministry conducts its operations, and further, the contextual environment, which is
+
+the wider environment in which Ministry may have limited or no impact. The concepts are
+
+illustrated in the diagram below:
+
+**Fig. 4: Odyssey Organisational Model [©]**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### Diagnostic Structure and Process
+
+The diagnostic process required a structure that enabled efficient and effective information gathering.
+
+Focus groups and interviews provided key MNS stakeholders the opportunity to make valuable input
+
+into the Strategic Plan. These groupings were as follows:
+
+ **Ministry’s Executive Leadership Group**
+
+This group consisted of the Minister and the Executive of the Ministry. Discussions generated
+
+information on the strategic viewpoint of the Ministry and a working understanding of Cabinet’s
+
+mandate with respect to National Security.
+
+ **Heads of Divisions**
+
+Meeting with the Executives of the various Divisions helped gather significant information
+
+relative to uniqueness and peculiarities in the nature and operations of each. From a
+
+comparative analysis of the feedback, clear trends emerged. These trends were taken into
+
+consideration to develop a more cohesive Strategic Plan, as well as increase the probability of
+
+seamless operations in the future.
+
+ **Internal Stakeholder Groups**
+
+The internal stakeholder groups comprised cross-sections of employees from each Division
+
+with different designations, background disciplines and strata. These internal stakeholder
+
+sessions used three methods of data gathering – observation, focus groups and interviews.
+
+1. Observation of special MNS Staff Session
+
+A special session of all MNS General Administration Staff generated valuable insights on
+
+the challenges that needed to be addressed to improve the performance of the Ministry.
+
+2. Focus groups
+
+There were thirteen (13) focus group sessions, which were each attended by
+
+approximately forty (40) persons. These meetings produced the bulk of critical information
+
+and trends that formed the building blocks of the strategic formulation.
+
+3. Interviews
+
+Through this approach, Heads were interviewed to attain a deeper perspective of the
+
+functionality of varying Sections/Units and Divisions within the Ministry. This data
+
+collection method provided an avenue for deeper and more intimate understanding of the
+
+various arms of the Ministry.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+ **Validation Groups**
+
+The validation groups comprised an essential cross-section of all the intra-ministerial groups
+
+from different strata and Divisions. These groups were charged with the responsibility to
+
+critically assess the information gathered throughout the process. Feedback from these
+
+sessions served as quality control for the information gathered.
+
+ **External Stakeholder Groups**
+
+Every entity has stakeholders that are upstream, downstream and associates. Capturing the
+
+perspectives of these entities enabled a 360 degree assessment of the impact of the Ministry’s
+
+operations, and afforded a deeper understanding of the perceived role of the MNS. The MNS
+
+Stakeholder map revealed intricate links among key stakeholder entities. These included:
+
+    - The Ministry of the Attorney General and Legal Affairs
+
+    - The Judiciary of Trinidad and Tobago
+
+    - Ministry of Foreign and CARICOM Affairs
+
+    - Ministry of Finance
+
+    - Ministry of Social Development and Family Services
+
+    - Ministry of Community Development, Culture and the Arts
+
+To complete the stakeholder assessments, interviews were conducted with external
+
+stakeholders. The external stakeholders were asked to describe their understanding of the
+
+role of the MNS and their assessment of the MNS’ performance in relation to this role. Following
+
+the assessment, participants were asked to provide suggestions to improve the gaps they
+
+highlighted. This information was recorded and used to shape an appropriate and relevant
+
+strategy.
+
+ **The SPIME Team**
+
+The creation of a Strategic Planning Implementation Monitoring and Evaluation (SPIME) Team
+
+was testimony to the cross-functional/cross-divisional approach adopted throughout this
+
+process. The SPIME team was charged with leading the planning process, and will also
+
+facilitate and monitor the implementation of the 24-month operational plan.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### INTERNAL ENVIRONMENTAL CONTEXT
+
+
+The following are some of the major issues raised by internal stakeholders regarding the operations
+
+of the Ministry of National Security.
+
+**Sub-optimal planning**
+**“Silo Effect”** **Poor Communication**
+
+**and procurement**
+
+
+**Poor Human Resource**
+**Outdated processes**
+
+**Planning**
+
+
+**Governed by outdated**
+
+**laws**
+
+
+**Inadequate**
+
+**Multi-Lingual staff**
+
+
+**Knowledgeable and**
+
+**Capable Workforce**
+
+
+**Fig. 5: Internal Environmental Context**
+
+ **“Silo Effect”**
+
+The Ministry is comprised of nine (9) Divisions, all possessing their own resources, systems
+
+and cultures. Stakeholders raised concerns about the Ministry’s seeming inability to maximize
+
+the use of resources inclusive of funding, expertise, networks, manpower and equipment. The
+
+negative impact of the silo effect was viewed as counter-productive, particularly within the
+
+context of a contracting national economy.
+
+ **Poor Communication**
+
+Poor communication has become a growing concern within the Ministry. The size of the
+
+Ministry, compounded by the silo effect, contributes to inefficient distribution of critical
+
+information. In an attempt to address this issue, stakeholders suggested the implementation
+
+of a “whole of Ministry” communication policy and structure.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+ **Sub-optimal planning and procurement**
+
+Though it was unanimously stated that the MNS is one of the better funded ministries, there
+
+were indicators that the processes for accessing funds remain arduous. According to
+
+participants, sub-optimal planning, budgeting procurement systems and competencies
+
+continue to significantly retard the development and operations of the Ministry.
+
+ **Outdated processes**
+
+Stakeholders have stated that key processes within the Ministry should be tested for
+
+efficiencies as current systems are not producing the desired results. This was considered a
+
+major point of resource wastage. Participants also indicated that improvement of systems,
+
+processes and procedures ought to be a strategic focus, as this could enable the delivery of
+
+‘more with less’.
+
+ **Poor Human Resource Planning**
+
+There has been a resounding plea for an improvement of Human Resource practices within
+
+the Ministry. Employees have stated that there is need to review recruitment procedures,
+
+competency alignment, human resource communications, training policies, promotion policies
+
+and human resource operational efficiencies. The present human resource practices were
+
+viewed as a major contributor to demotivated staff and grievances. Reference was also made
+
+to the protracted responses from the Chief Personnel Officer (CPO) and the Service
+
+Commissions Department as a major obstacle to efficient and effective human resource
+
+practices within the Ministry.
+
+ **Governed by outdated laws**
+
+Internal stakeholders were emphatic that the laws governing the activities of the Ministry,
+
+though not within its remit, are outdated and inhibit the Ministry’s responsiveness. As such,
+
+the Ministry’s strategic plan ought to advocate for the laws governing the Ministry’s activities
+
+to be reviewed and amended to enable the improvement of the Ministry’s overall capacity and
+
+capability.
+
+ **Inadequate multi-lingual staff**
+
+Trinidad and Tobago has been viewed as an attractive destination for conducting business as
+
+well as for those seeking a better life. This, combined with the socio-economic conditions in
+
+neighbouring countries, has triggered an influx of persons. It has been reported that among
+
+all illegal immigrants, South Americans are among the highest number registered within the
+
+country. In addition there has been an increased presence of Chinese and other nationalities.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+Within this context, stakeholders reported that the Ministry lacks the capacity and capability
+
+to deal effectively with this influx because of the language barrier. An increase in multilingual
+
+capacity was recommended to strengthen the MNS’s capability to address the challenges of
+
+migration.
+
+ **Knowledgeable and Capable Workforce**
+
+The Ministry of National Security is perceived as having a large knowledge pool. The Ministry
+
+has been able to attract, retain and develop a wide spectrum of persons with varying skills,
+
+knowledge and expertise. This fortifies the collective capability and net worth of the
+
+organisation. With limited resources, the Ministry has been able to respond effectively to
+
+urgent and critical situations. However, a perspective was expressed that there is a greater
+
+need to leverage this asset by improving the work ethic in different parts of the MNS.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### EXTERNAL ENVIRONMENTAL CONTEXT
+
+
+In the analysis of the external environment, Odyssey’s PESTILE (Political, Economic, Sociological,
+
+Technological, Industry, Legal and Ecological) Model was used. The model provided the underlying
+
+framework to conduct both secondary and primary research. Upon completion, major issues and
+
+phenomena within the external environment emerged. The major issues discerned were:
+
+**Political**
+
+Politically, most stakeholders believed that Trinidad and Tobago has a relatively stable political system.
+
+However, they highlighted that issues of continuity after a change in government or change of the
+
+Minister pose a problem for the seamless development of the Ministry.
+
+Further afield, there is growing nationalism, political migration and the escalating political situation in
+
+Venezuela. The growing trend of nationalism, where nations are becoming more inwardly focused,
+
+was viewed not only as having a political impact but also an economic and social one. It is expected
+
+that this trend would impact on trade and the movement and migration procedures of many nationals
+
+abroad.
+
+Political migration focuses on persons fleeing from unrest within their homeland. With building unrest
+
+in the Middle East, Europe and South America, political migration has become a major consideration
+
+in the design of a strategy for the Ministry of National Security.
+
+**Economic**
+
+Economically, stakeholders focused on the national economy of Trinidad and Tobago. With declining
+
+global oil and gas prices, all stakeholders felt that it would be imperative for the Ministry to do more
+
+with less. In doing so, it was suggested that the Ministry attempts to review processes and policies
+
+and become more efficient and innovative.
+
+**Socio-cultural**
+
+Discussion of the socio-cultural impact on the Ministry focused on a wide range of issues. Stakeholders
+
+highlighted the increasing disregard for law and order, the increase in gang and gang related activities,
+
+drug abuse and violence as common place within the national society. Focus on violence within the
+
+home was also a major issue as most persons agreed that there has been a stark increase in child
+
+abuse and domestic violence.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+Human trafficking was also highlighted as a growing problem. It was emphasized that there has been
+
+an increase in human trafficking into Trinidad and Tobago as more South Americans are brought into
+
+the country for use in nefarious activities.
+
+The prevalence of white-collar crimes and corruption was also viewed as a prominent phenomenon
+
+as most participants believed that there is a significant connection between white-collar crime,
+
+corruption, the drug trade and violent crime.
+
+Special mention was made on the impact of social media - the role it played in influencing public
+
+opinion as well as the threat it poses in the security of critical information. It was suggested that new
+
+policies must be developed to guide employees of the Ministry in their handling of information.
+
+Finally, local extremism and its connection globally were considered a growing threat to the way of
+
+life of the citizens of this nation. It is believed that increased permeation of extremism within the
+
+society can lead to more violence on the streets of this country, increased support for global extremism
+
+from Trinidad and Tobago and tarnishing of the nation’s global image.
+
+**Technological**
+
+Technology was seen by most as a vehicle for improvement in the delivery of national security to the
+
+people of Trinidad and Tobago. Contributors believed that technology should become an integral part
+
+of all the Ministry’s processes. Participants suggested that computerized management systems and
+
+information sharing would support crime fighting initiatives and encouraged the use of technologies
+
+such as CCTV, speed guns, GPS and drones.
+
+The need for enhanced technology for forensic activities was also cited as an integral aspect in crime
+
+detection. Advanced forensic technology, such as AFIS and forensic testing, have been known globally
+
+to play a pivotal role in the detection and conviction of criminals
+
+**Industry**
+
+With the increasing demand for security, many private security firms have been established within
+
+Trinidad and Tobago. Concerns were raised when focus was placed on the recruitment processes
+
+within these firms and the regulations that govern these establishments. Contributors suggested that
+
+greater emphasis must be placed on regulating the activities of these establishments to ensure that
+
+proper procedures are being adhered to.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+**Legal**
+
+The review and updating of laws has become a central aspect in the provision of security and safety
+
+to the people of Trinidad and Tobago. It should be noted that the suggestion was made for the
+
+advocacy for a “review and update” of laws governing the MNS and it operations. Participants posited
+
+that doing this would aid in streamlining the operations of the MNS and the judicial system.
+
+Mention was made of the impact of the new procurement legislation on the MNS. Most candidates
+
+believed that the process would support transparency and accountability but were concerned that it
+
+may further retard an already slow process.
+
+**Ecological**
+
+The physical environment and the management of it, has also been viewed as having an impact on
+
+the MNS. Changes in the global environment have led to an increase likelihood of natural disasters.
+
+This phenomenon would have a direct impact on the MNS, particularly the activities of the ODPM.
+
+Illegal quarrying and pollution were also viewed as activities impacting the operations of the MNS.
+
+Illegal quarrying is not only punishable by law but it heightens the probability of a natural disaster
+
+affecting the citizens of Trinidad and Tobago.
+
+The impact of water, air, noise and earth pollution which have been prevalent particularly in sectors
+
+such as agriculture, heavy industry, and manufacturing are also infractions which have impacted the
+
+operations of the MNS. Monitoring of potential perpetrators and enforcement of the law once broken
+
+are activities that would require greater resource allocation and thus should be considered within the
+
+strategic and operational plan.
+
+Given their substantial impact on operations of the Ministry of National Security, the following major
+
+themes emerged and were taken into consideration in the strategy formulation process:
+
+
+**Low crime**
+
+**detection rates**
+
+
+**Crime prevention** **Increasing**
+
+**Porous Borders**
+**efficacy** **Financial Crimes**
+
+
+**Human**
+
+**Trafficking**
+
+
+**Influx of illegal**
+
+**immigrants**
+
+
+**Safety and hazard**
+
+**resilience**
+
+
+**Lack of public**
+
+**trust**
+
+
+**The impact of**
+
+**technology on**
+
+**crime and crime**
+
+**on Technology**
+
+
+**Gang Warfare**
+
+
+**Youth**
+
+**delinquency and**
+
+**criminality in**
+
+**depressed**
+
+**communities**
+
+
+**Violent**
+
+**Extremism**
+
+
+**Fig. 6: External Environmental Context**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+ **Low crime detection rates**
+
+A low rate of detection has been identified as one of the catalysts of criminality within our
+
+society.
+
+ **Crime prevention efficacy**
+
+Both internal and external stakeholders emphasized that there must be a strengthening of
+
+crime prevention strategies to prevent persons from believing that criminal activity is the only
+
+or easiest option for their lives. There was a call for more community-based crime prevention
+
+activities that aim to nurture and channel minds away from crime and toward productive lives.
+
+ **Porous Borders**
+
+Borders that are not effectively policed facilitate human trafficking and the inflow of illegal
+
+immigrants, arms, ammunition and drugs. This threat attracts transnational organized criminal
+
+activities. Special mention was made of the inadequacy of current assets, infrastructure, inter
+agency collaboration, legislation and personnel to guard and protect our borders.
+
+ **Increasing Financial Crimes**
+
+Corrupt activities and white-collar crimes are on the rise within both the public and private
+
+sectors. Stakeholders stated that there is a prevalent belief that the authorities do not consider
+
+white collar crime to be as destructive as serious crimes which results in less attention being
+
+placed on surveillance and control of criminal activities within this sphere. It was further stated
+
+that white collar crime is inextricably linked to serious crime, which, if actively and consistently
+
+pursued, would lead to a marked increase in overall crime detection. Significant white-collar
+
+crimes that were highlighted include:
+
+    - Money laundering
+
+    - Fraud
+
+    - Bribery (Public corruption)
+
+    - Cybercrime including ATM Fraud
+
+    - Technology
+
+ **Human Trafficking**
+
+This is tied closely to our geographical location and the socio-economic climate in neighbouring
+
+and other countries. Our porous borders have facilitated an increase in human trafficking in
+
+Trinidad and Tobago.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+ **Influx of illegal immigrants**
+
+Regionally, Trinidad and Tobago is considered a land of opportunity and wealth. This status
+
+has resulted in an increased tendency for persons to migrate to the country. Facilitated by our
+
+porous borders, there has been a marked increase in illegal immigrants within the nation. This
+
+adversely impacts the nation’s resources and has the potential to increase levels of criminality.
+
+ **Safety and hazard resilience**
+
+Even with the introduction of the OSH Act and the EMA Act, safety practices are not rigidly
+
+practiced or enforced within Trinidad and Tobago. Poor adherence to stipulated laws has
+
+compromised the hazard resilience of the nation and thus increased the likelihood of hazards
+
+becoming disasters. The role of the ODPM and its responder partner stakeholders is key in
+
+advocating the concept and importance of Hazard Resilience.
+
+ **Lack of public trust**
+
+There is a lack of trust in members of the protective services. Because of this, persons within
+
+the society are resistant to partnering with protective service representatives. Information
+
+leaks, rogue elements, delinquency, poor processes and procedures, and lack of knowledge
+
+were identified as some of the major impediments impacting the level of public trust.
+
+ **Gang Warfare**
+
+Intricately linked to porous borders and drug trafficking, gang warfare is considered prevalent
+
+throughout many communities. It has been stated by some that this alone has contributed
+
+most to homicides within the country.
+
+ **Youth delinquency and criminality in depressed communities**
+
+There is an increasing trend of juvenile delinquency being linked to gang proliferation and
+
+youth unemployment. This is particularly prevalent in depressed communities.
+
+ **Violent Extremism**
+
+The increase in extremism within the society is a growing concern. The “radicalization” of
+
+certain members of the society and the funding of terrorism is viewed as a growing threat to
+
+local, regional and international security.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### THE NEW STRATEGY
+###### VISION, MISSION AND VALUES
+
+ VISION
+
+To be at the pinnacle of public safety and security delivery.
+
+###### MISSION
+
+To advance national development by creating a safer and more secure society
+
+through enhanced collaboration among all stakeholders, intelligence-based decision-making
+
+and strengthened inter-agency structures and systems.
+
+###### CORE VALUES
+
+**PEOPLE-CENTRIC**
+
+
+**FAIRNESS**
+
+
+**INTEGRITY AND**
+
+**ETHICAL BEHAVIOUR**
+
+
+**TEAMWORK**
+**PROFESSIONALISM**
+
+**Fig. 7: MNS Core Values**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### CORE VALUES BEHAVIOURAL FRAMEWORK
+
+The Core Values define and describe the MNS of the future - an organisation committed to building a
+
+culture within that improves service to the public.
+
+The Core Values Behavioural Framework highlights key behaviours that demonstrate these values at
+
+every major level in the MNS.
+
+###### People-Centric
+
+Driven by a concerted and consistent service-oriented approach, we will, in our daily actions,
+
+demonstrate a higher level of responsiveness to the issues and concerns of both the public and our
+
+employees.
+
+|Leadership Level|Management/Supervisory Level|Operational/Frontline Level|
+|---|---|---|
+|• We will keep staff and stakeholders on course with the Ministry’s mandate through various modes of communication|• We will respond to our external stakeholders’ requests for service within established standards.|• We will be service-oriented and responsive to our colleagues and the public|
+|• We will invite the views and perspectives of staff and be willing to listen|• We will be supportive, empathetic and understanding to staff and stakeholders|• We will commit to being current with the philosophy, plans and undertakings of the MNS|
+|• We will foster an environment that promotes employee engagement, supports staff’s wellbeing and facilitates collaboration|• We will mentor and coach staff where required|• We will be alert and responsive to the needs of our colleagues and the public|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### Integrity and Ethical Behaviour
+
+Guided by our respect for the rule of law and approved rules and regulations, we will demonstrate the
+
+highest levels of ethical behaviour in the performance of our duties, earning and maintaining the trust
+
+and respect of fellow employees, citizens and visitors.
+
+|Leadership Level|Management/Supervisory Level|Operational/Frontline Level|
+|---|---|---|
+|• We will observe the tenets of the Integrity in Public Life Act|• We will be the physical and psychological embodiment of the Code of Conduct|• We will be the physical and psychological embodiment of the Code of Conduct|
+|• We will develop a Code of Conduct for the MNS as part of our ongoing culture change, to which we will adhere|• We will demonstrate consistency with our words and through our actions, across the board without being misleading or deceptive|• We will be discrete with sensitive information.|
+|• We will be the physical and psychological embodiment of the Code of Conduct|• We will create an environment which fosters conditioning and corrective behaviour||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+###### Fairness
+
+We will treat all persons equitably.
+
+|Leadership Level|Management/Supervisory Level|Operational/Frontline Level|
+|---|---|---|
+|• We will found our interaction with all stakeholders on the principles of equity, justice and fair-play|• We will recognize and respect gender sensitivity, cultural and spiritual diversity|• We will recognize and respect gender sensitivity, cultural and spiritual diversity|
+|• We will recognize gender sensitivity, cultural and spiritual diversity|• We will promote sensitivity and cultural awareness in our delivery of service|• We will promote sensitivity and cultural awareness in our delivery of service|
+||• We will treat all persons with dignity and respect|• We will execute our duties in fairness to our colleagues and stakeholders regardless of their differences • We will treat all persons with dignity and respect|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### Professionalism
+
+Our work will be defined by an uncompromising focus on honesty, high quality and intelligence driven
+
+decision-making.
+
+|Leadership Level|Management/Supervisory Level|Operational/Frontline Level|
+|---|---|---|
+|• We will act without consideration of personal gain|• We will demonstrate the values of the MNS in daily activities and behaviours|• We will represent the renewed MNS image, principles and values by our actions and attitude|
+|• We will resist undue political pressure in decision-making|• We will stand by decisions that are in the organisation’s interest, even if they are unpopular|• We will demonstrate professional competence and mastery in our respective disciplines|
+|• We will stand by decisions that are in the organisation’s best interest, even if they are unpopular|• We will demonstrate professional competence and mastery in our respective disciplines|• We will execute our duty consistently and fearlessly|
+|• We will demonstrate professional competence and mastery in our respective disciplines|• We will take prompt action in cases of unprofessional or unethical behaviour|• We will seek to improve our professional capability|
+|• We will take prompt action in cases of unprofessional or unethical behaviour||• We will avoid and discourage unprofessional or unethical behavior|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### Teamwork
+
+Guided by the highest standards of professionalism, we will consistently respect, support and
+
+collaborate with one another in pursuit of our Ministry’s mission.
+
+|Leadership Level|Management/Supervisory Level|Operational/Frontline Level|
+|---|---|---|
+|• We will collaborate and coordinate with other leaders in the MNS and key stakeholder agencies in support of achieving public safety and security targets|• We will create the environment for cross- functional collaboration to leverage on capacity and capabilities|• We will support and participate in the affairs of the MNS, within and across functional boundaries.|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### THE STRATEGIC IMPERATIVES
+
+
+At the core of the new strategy are five (5) major imperatives that emerged as keys to achieving the
+
+Vision of the MNS. These strategic imperatives illustrate the MNS’ commitment to public security and
+
+safety and represent two (2) major areas of delivery that will have direct impact on the public:
+
+1. Crime Prevention and Reduction
+
+2. Hazard Resilience
+
+To support these two major imperatives, three (3) other imperatives address the importance of
+
+enabling strategies that will facilitate the achievement of the MNS Vision and Mission.
+
+3. Stakeholder Partnership and Collaboration
+
+4. Governance
+
+5. Capacity and Capability Resourcing and Optimisation
+
+**SI 3: Governance**
+
+**SI 4: Capacity and**
+
+**SI 2: Stakeholder**
+
+**Capability**
+
+**Partnership and**
+
+**Resourcing and**
+
+**Collaboration**
+
+**Optimisation**
+
+**SI 1: Crime** **MNS**
+
+**SI 5: Hazard**
+
+**Prevention and** **MANDATE**
+
+**Resilience**
+
+**Reduction** **AND VISION**
+
+**Fig. 8: MNS Strategic Imperatives**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+At the centre of the MNS strategy are five (5) fundamental pillars which act as the framework on
+
+which the Strategic Imperatives (SIs) have been built. These pillars are Prediction, Deterrence,
+
+Detection, Prosecution and Rehabilitation, and are the raison d’être of the plan. At every stage in the
+
+plan, these pillars in some way are referenced.
+
+
+**Prediction:**
+
+
+The diagnostics that provided the context for this plan recognized the need to reduce crime as well
+
+as address the fear of crime. The public expects and demands an MNS that is much more proactive
+
+and preemptive in keeping them safe. The expectation is that the increased use of modern technology
+
+would enhance the MNS’ ability to predict and thereby prevent crime. Moreover, in a resource
+constrained environment, the plan aims to optimize resources through leveraging the skills and
+
+competencies of internal and external stakeholders.
+
+
+**Detection:**
+
+
+A major concern of the public has been the rate of crime detection. The plan articulates a strategy to
+
+improve our competencies, reengineer policies and structures, and improve our stakeholder
+
+collaboration. The MNS will seek to develop and enhance the necessary tools, techniques and systems
+
+to achieve the desired outcome.
+
+
+**Deterrence:**
+
+
+This principle is very closely tied to prediction. The plan has been developed not just to address and
+
+respond to crimes committed through stronger law enforcement measures, but to implement plans
+
+and programmes that will discourage crimes. In many instances, the plan seeks to engender
+
+communities that deter crime by way of taking a more active role in the development of stronger
+
+neighborhoods. These include the implementation of a National Crime Prevention Programme,
+
+rehabilitative and reintegration initiatives, the use of electronic monitoring and other strategies
+
+implemented by the Trinidad and Tobago Police Service, Trinidad and Tobago Prison Service and the
+
+Trinidad and Tobago Defence Force.
+
+
+**Prosecution:**
+
+
+While the MNS does not have full jurisdiction over prosecution, its supporting role is critical as part of
+
+the criminal justice system. The MNS in recognising the importance of prosecution not just as a means
+
+of enforcing the law but also as a deterrent for further crime, has sought through the plan to improve
+
+efficiency at the Trinidad and Tobago Forensic Science Centre and implement A more effective and
+
+integrative case management system to effect speedier prosecution of crime. The imperatives of Crime
+
+Prevention and Reduction, Stakeholder Partnership and Governance speak to this responsibility.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+**Rehabilitation:**
+
+
+At the core of this plan is the aim to transform the Prison Service to Correctional Services through the
+
+establishment of a Prison Management Policy. This transformation is based on the premise that our
+
+priority in the Prison Service should be much more about rehabilitation than retribution. The plan
+
+seeks to advance and actualize this concept through initiatives that address penal transformation that
+
+are steeped in a wider context of preparation for reintegration and improving the rates of recidivism.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+##### THE STRATEGIC FRAMEWORK
+###### LINKING IMPERATIVES, INTENT, OUTCOMES AND OUTPUTS
+
+The following diagram illustrates the key terms and concepts that were used in the plan.
+
+**Statement of** **Strategic**
+
+**Strategic Intent** **Objective**
+
+                                                              - his is what
+
+  - he major  - he expected should actually be
+
+strategic   - description area of final   - he Strategic delivered,
+theme of the impact Objective is a produced or
+
+intended final statement that clearly achieved in a
+impact of the articulates what we tangible or
+strategic **Strategic** are aiming to achieve measurable way.
+
+**Strategic** theme **Outcome**
+
+**Imperative**
+
+**Strategic**
+
+**Output**
+
+**Fig. 9: The Strategic Framework**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 1- Crime Prevention and Reduction
+
+
+###### Statement of Strategic Intent
+
+We will improve the prevention, detection and prosecution of criminality, through the synergy of
+
+key stakeholder efforts and resources, towards a just and ordered society.
+
+###### Strategic Outcomes
+
+    - A public that is safe and feels safe
+
+    - A reduction in illegal immigrants
+
+    - An improvement in conviction of law breakers
+
+    - Increased collaboration with the community in crime prevention and reduction initiatives
+
+    - Increased knowledge of law throughout the society
+
+    - Reduced white-collar and all other types of crime
+
+    - Reduced gangs and gang-related activity
+
+    - Reduced reoffending and recidivism rates
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 1- Crime Prevention and Reduction
+
+
+**Alignment of Strategic Outcomes to Strategic Objectives**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+**Strategic Objectives to Strategic Outputs and Initiatives**
+
+
+**Strategic Imperative 1- Crime Prevention and Reduction**
+
+|Strategic Imperative 1- Crime Prevention and Reduction|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO1|Improve Crime Detection Rates| 30% serious crime detection rate achieved  ‘White collar crime’ detection rate increased by 5%  MNS Crime Detection Skills Inventory established by November 2018  MoA between TTPS Crime Scene Specialists and TTFSC developed by September 2018  TTFSC DNA Lab Accreditation achieved by July 2018| Conduct an MNS Crime Detection Skills/ Competency Gap Analysis  Increase the use of DNA and other up to date scientific methods and technology to improve the rate of detection  Pursue legislative changes to address short falls by the TTPS and other law enforcement agencies  Develop MoA between Crime Scene Specialists and TTFSC  Acquire accreditation for TTFSC DNA lab|
+|SO2|Improve Border Protection| MOA with participating agencies completed by August 2018.  Joint Border Protection Task Force operationalized by Fiscal 2018-2019| Establish a Joint Border Protection Task Force with requisite policy, strategy and legislation  Develop rules of engagement for Joint, Interagency, Intergovernmental and Multinational (JIIM) operational environments|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 1- Crime Prevention and Reduction|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO3|Improve Intelligence Gathering and Analysis| MOA on the gathering and sharing of intelligence completed and operationalized by November 2018| Establish MOA amongst the relevant agencies and other partners that focus on the managing, gathering, storing, utilization, sharing and the harmonization of intelligence.  Critically review existing policies and procedures amongst local, regional and international stakeholders towards effective intelligence gathering  Establish a central data information gathering and processing centre|
+|SO4|Improve the Case Management process and systems| Improved offender information flow between and amongst agencies under MNS  Real-time access to offender data Increased rate of successful prosecution of cases achieved.  A formalized structured integrated approach to the management of offender files from intake by the TTPS through TTPrS and post-release established  MOA between/amongst stakeholders signed by January 2019  Specific protocols for transfer of data and accountability framework established| Establish an MOA amongst the (internal) partnering agencies to govern integrated systems (case file management system)  Develop standardized internal policies on case management among MNS agencies|
+|SO5:|Strengthen the comprehensive integrated offender and gang identification data base management system| A structured implementable DBM system established  Real-time access to offender data attained  Agreement on specific agencies, types and extent of data shared by June 2018| Conduct Gap/Needs Analysis  Procure required resources from Gap Analysis recommendations  Develop information sharing MOI for interagency collaboration|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 1- Crime Prevention and Reduction|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO6|Operationalise the National Crime Prevention Programme (NCPP)| The NCPP operationalised within Fiscal 2018-2019| Develop the most appropriate organisation structure  Recruit and select personnel for the organisation structure  Develop policies, procedures and processes for the programme  Develop innovative crime prevention initiatives through community participation|
+|SO7|Improve/strengthen juvenile and youth development programmes| Juvenile treatment programme retention rate increased  Tracer studies for all programmes implemented in Fiscal 2018-2019| Design and implement an integrated approach to Juvenile Treatment that increases the retention rate  Implement Tracer studies|
+|SO8|Improve the Infrastructural development of the TTFSC| TTFSC Refurbishment by September 2019| Relocate/Refurbish Forensic Science Centre to improve its capacity and capability|
+|SO9|Build capacity in key MNS Divisions/Units| Manpower and Resource Audits for selected Divisions/Units conducted by October 2018: Key Units: GA; Immigration Division (Enforcement, Refugee, Migration, Legal and Procurement Units); Counter- Trafficking; Probation; ODPM; AML/CFT| Conduct Gap Analysis  Build capacity in the Immigration Division’s Enforcement and Refugee Units.  Establish a Migration Unit, a Legal Unit and a Procurement Unit at the Immigration Division  Build capacity in the MNS’s Counter Trafficking Unit  Build capacity in the AML/CFT Unit|
+|SO10|Improve the efficacy of rehabilitation and reform/restorative initiatives| Develop a Policy on Prison Management that will address the overall Correctional System  Penal Transformation Action Plan implemented by June 2019  Electronic Monitoring (EM) Plan implemented by December 2018| Critically review the recommendations of the Task Force report  Develop & Implement Penal Transformation Action Plan that prioritises short-medium term projects that support crime prevention and reduction|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 2- Stakeholder Partnership and Collaboration
+
+
+###### Statement of Strategic Intent
+
+We will forge new strategic partnerships and enhance existing ones, fostering meaningful
+
+networks of stakeholders, towards strengthening the MNS’ capacity to improve public safety and
+
+security.
+
+###### Strategic Outcomes:
+
+    - More efficient use of available resources
+
+    - The MNS would be part of global networks that share expertise, personnel, assets and
+
+other resources in the fulfillment of their mandate
+
+    - Improved cross divisional and cross governmental value-added processes to become the
+
+leader in the “whole of Ministry” and “whole of Government” initiative
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 2 -Stakeholder Partnership and Collaboration
+
+
+**Alignment of Strategic Outcomes and Strategic Objectives**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 2 - Stakeholder Partnership and Collaboration|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO 1|Improve Stakeholder Management- External| Stakeholder Management Strategy implemented by Jun 2019  Strategic Meeting with major stakeholders held bi-annually  Stakeholder satisfaction increased by 5% through a stakeholder survey| Conduct a comprehensive Stakeholder Analysis  Implement Stakeholder Satisfaction survey|
+|SO 2|Improve Stakeholder Management-Internal| Stakeholder satisfaction Increased by 5% through an employee (GA) survey generated by the HR unit by May 2019  Meeting conducted biannually with Heads of Divisions  Meeting conducted quarterly with Heads of Sections  Employee Relationship Management Plan developed and implemented by June 2020| Conduct a comprehensive Stakeholder Analysis  Implement Employee Satisfaction survey  Develop a Stakeholder Communication Plan  Develop Employee Orientation Handbook  Develop an Employee Relationship Management (ERM) strategy|
+|SO 3|Review and strengthen channels of communication to ensure appropriate information dissemination and feedback| Communication Policy and Strategy implemented across the Ministry by August 2019| Develop and Implement a Communications Policy  Develop and implement Communications Strategy within MNS  Extend the implementation of communication capability across all Divisions|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 3 - Governance
+
+
+###### Statement of Strategic Intent
+
+We will strengthen accountability, transparency and integrity through continuous review and
+
+amendment of our systems, policies, processes and procedures; developing new mechanisms and
+
+advocating for legislative change where necessary, in keeping with the constantly changing
+
+internal and external environment.
+
+###### Strategic Outcomes:
+
+    - Improved policy review and development that govern all major systems
+
+    - Increase in amendments of governing legislation to enable greater efficiency and
+
+effectiveness
+
+    - Faster and more effective decision-making processes
+
+    - Improved leadership development for all leaders/ managers of the organisation
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 3 - Governance
+
+
+**Alignment of Strategic Outcomes and Strategic Objectives**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 3- Governance|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO1|Strengthen the leadership capacity to lead and manage major change within the MNS| 10% increase in projects (that can significantly transform the approach to work) initiated by MNS leadership  100% of all leaders from the supervisory level to be trained in leading and managing change by April 2019| Training and Development  Orientation of new Executive members|
+|SO2|Review and Improve Strategic Performance Management across the MNS| New Strategic Performance Management System with targets developed and Implemented by January 2019  M & E Structure developed and unit fully staffed by February 2019  M&E Framework developed for MNS by December 2018  Quarterly Monitoring and Evaluation Reports submitted| Collaboratively develop strategic performance targets for all divisions and at the Ministry level (whole of Ministry)  Develop Structure for an M&E Unit for the MNS  Recruitment and Selection for the unit Develop a whole of ministry collaborative M&E mechanism  Develop M&E Framework  Implement/ Inculcate M&E throughout MNS|
+|SO3|Improve advocacy efforts re: legislative change| Legislation enacted based on MNS advocacy (prioritise based on the importance to and impact on the MNS)| Conduct Gap analysis and present recommendations for approval  Develop an innovative approach to accessing specialist legal resources (develop and leverage on partnerships, MOAs)  Establish Inter-ministerial Team based on sector-specific issue (collaborative approach)  Develop Policy document to treat with specific issue (from gaps)  Seek approval to be placed on legislative agenda (including Cabinet approval)|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 3- Governance|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO4|Review and reengineer existing policies| New policies developed and implemented| Establish Policy Review Team and determine operating guidelines  Review Policies and present recommendations  Roll-out revised Policy|
+|SO5|Review and revise organisational and functional structures to maximize efficiency| New organisational and functional structures developed by June 2019| Review Existing Structure  Develop New Structure|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 4 - Capacity and Capability Resourcing and Optimisation
+
+
+###### Statement of Strategic Intent
+
+We will continuously assess the Ministry’s capacity and capability to develop programmes and
+
+technological and communication systems that can leverage cross-functional collaborations to
+
+create an agile institution that achieves performance goals & cost efficiencies.
+
+###### Strategic Outcomes:
+
+    - Revised and/or reengineered systems and processes
+
+    - Efficient delivery of services to the public
+
+    - Strategically linked performance management system
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 4 - Capacity and Capability Resourcing and Optimisation
+
+
+**Alignment of Strategic Outcomes and Strategic Objectives**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+|Strategic Imperative 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|
+|---|---|---|---|
+|Strategic Objectives||Outputs/Targets|Major Initiatives|
+|SO1|Improve ICT across the MNS| Whole-of Ministry ICT Action Plan developed by Jan 2019  MNS ICT Security Policy developed by December 2018| Develop a Whole-of-Ministry ICT action Plan  Develop an MNS ICT Security Policy|
+|SO2|Identify and implement a common inter-agency technological and communication platform| Integrated communications systems Action Plan implemented by December 2019| Develop and implement action plan to integrate communications systems|
+|SO3|Review and improve human resource planning and development systems| Succession Planning Framework for all Divisions/Units develop by December 2018  New Orientation and Induction system institutionalised by December 2018| Institutionalize an orientation and induction system  Implement a succession planning mechanism|
+|SO4|Improve staff Motivation and Morale| New employee motivation policy/strategy implemented by December 2019| Develop a motivation strategy|
+|SO5|Improve the efficiency of programme and project management systems| Project management governance structure, policies and standards established by June 2018| Operationalise the project management dashboard|
+|SO6|Improve the efficiency of budgeting and procurement management systems| Centralized/joint purchasing/procurement model/framework developed by May 2018| Develop centralized/joint purchasing/procurement model/framework|
+|SO7|Develop Performance Management Competency across the MNS| Individual performance management metrics developed by August 2018| Design and implement new performance management metrics|
+|SO8|Facilitate cross-functional team development and collaboration| Job rotation policy developed by September 2018| Develop job rotation policy|
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 5 - Hazard Resilience
+
+
+###### Statement of Strategic Intent
+
+Disaster risk reduction and management will be a pillar of our national development efforts,
+
+underpinning a systematic approach to creating a society that is resilient to all forms of natural
+
+and man-made hazards.
+
+###### Strategic Outcomes:
+
+    - Improved knowledge about hazards within communities and schools
+
+    - Improved hazard resistant engineering
+
+    - Improved response to hazards and disasters
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+###### Strategic Imperative 5 - Hazard Resilience
+
+
+**Alignment of Strategic Outcomes and Strategic Objectives**
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|Strategic Imperative 5 - Hazard Resilience|Col2|Col3|Col4|
+|---|---|---|---|
+||Strategic Objectives|Outputs/Targets|Major Initiatives|
+|SO1|Update disaster policy and legislative framework for Disaster Risk Management (DRM)| National DRM Policy and Implementation Plan developed by September 2019  PPP framework developed and implemented by March 2019| Develop National DRM Policy and Implementation Plan  Realign Divisional Policies to include DRM  Establish Public-Private Partnership (PPP) Framework to support the institutionalization and delivery of DRR (Disaster Risk Reduction) practices at all levels|
+|SO2|Strengthen institutional capacities to manage disaster risk| National capability and capacity assessment of DRM capacities (Host stakeholder consultations) against adopted national system conducted by May 2019  National Incident Management System adapted and institutionalized by November 2019| Strengthen DRM capacity (in coordination and communication)  Source and acquire DRM training for key personnel within the various Divisions|
+|SO3|Improve knowledge and understanding of hazard and disaster risk| DR Assessment standards and relevant training programmes implemented by January 2019  A robust education (including public awareness) strategy developed by December 2018| Improve Disaster Risk Assessment and mapping  Sensitize, educate and train All Stakeholder / Divisions on DRM (Public Sector, Private Sector, Civil Society and General Public)|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|Strategic Imperative 5 - Hazard Resilience|Col2|Col3|Col4|
+|---|---|---|---|
+||Strategic Objectives|Outputs/Targets|Major Initiatives|
+|SO4|Increase resilience to hazards and disasters| Assessment of Early Warning Systems (in Trinidad and Tobago conducted by September 2018  National Critical Information Infrastructure Protection Policy developed by February 2019| Advocate for enactment of National Building Codes  Ensure compliance with relevant codes for existing and new physical infrastructure through collaboration with relevant agencies  Implement an integrated approach for Early Warning Systems in Trinidad and Tobago  Develop and implement Critical Infrastructure Protection Strategy|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+###### SHORT – MEDIUM – LONG TERM GOALS
+
+
+The table below outlines the Short, Medium and Long Terms Goals set out in the MNS Strategic Plan.
+
+Included as an Appendix will be the detailed breakdown of the 24-Month Operational Plan.
+
+|GOALS OF THE MINISTRY OF NATIONAL SECURITY 2018-2023|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|SI 1 – Crime Prevention and Reduction|Goals|Short-term (2018-2020)|Medium-term (2020-2022)|Long-term (2022 & beyond)|
+|| Improve Crime Detection Rates|Improve Crime Detection competency and resourcing Attain accreditation of the DNA laboratory and implement all necessary architecture Establish the National Forensic DNA Databank (NFDD) Pursue supporting legislation||Attain accreditation of TTFSC|
+|| Improve Border Protection|Establish a Joint Border Protection Task Force||Strengthen military assets and coordination and collaboration among partner agencies|
+|| Improve intelligence gathering and analysis|Establish a central data gathering and processing centre|||
+|| Improve the case management process and systems|Established Computerised Integrated Case Management System|||
+|| Establish a National Crime Prevention Programme (NCPP)|Operationalise the NCPP|||
+|| Improve the Infrastructural development of the Trinidad and Tobago Forensic Science Centre|Refurbishment of the TTFSC||Relocation of the TTFSC|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|GOALS OF THE MINISTRY OF NATIONAL SECURITY 2018-2023|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|SI 1 – Crime Prevention and Reduction|Goals|Short-term (2018-2020)|Medium-term (2020-2022)|Long-term (2022 & beyond)|
+|| Build capacity in key MNS Divisions/Units|Conduct Manpower and Resource Audit, and develop Action Plan|Implement Action Plan||
+|| Improve the efficacy of rehabilitation and reform/restorative initiatives|Develop a policy on Prison Management that will address the overall Correctional System|Upgrade and enhance the Physical facilities; Health services at the Prisons; Rehabilitation of offenders; Security management services; and Prison officer security||
+|||Implementation of Electronic Monitoring|||
+|SI 2 – Stakeholder Partnership and Collaboration| Improve Stakeholder Management- External|Develop Stakeholder Management Strategies|Implement initiatives to manage stakeholder interests and expectations||
+|| Improve Stakeholder Management- Internal|Develop Stakeholder Management Strategies (e.g an Employee Relationship Management Strategy)|Implement initiatives to manage stakeholder interests and expectations||
+|| Review and strengthen channels of communication to ensure appropriate information dissemination and feedback|Develop Policy and Communications Strategy for the MNS|Implement strategy and monitor effectiveness of communications systems||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|GOALS OF THE MINISTRY OF NATIONAL SECURITY 2018-2023|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|SI 3 - Governance|Goals|Short-term (2018-2020)|Medium-term (2020-2022)||Long-term (2022 & beyond)|
+|| Strengthen the leadership capacity to lead and manage major change within the MNS|Develop and implement leadership development programmes (e.g Change Management/Culture Change)||||
+|| Review and Improve Strategic Performance Management across the MNS|Develop and implement performance standards (linked to Strategy) across the MNS||Monitor and access the effectiveness of the performance management system||
+|||Develop an M & E Culture in the MNS||||
+|||Review and revise organisational and functional structures to maximize efficiency||||
+|| Improve advocacy efforts re: legislative change|Conduct Gap Analysis and develop relevant policies to be placed on the legislative agenda||||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|GOALS OF THE MINISTRY OF NATIONAL SECURITY 2018-2023|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|SI 4 – Capacity and Capability Resourcing and Optimisation|Goals|Short-term (2018-2020)|Medium-term (2020-2022)|Long-term (2022 & beyond)|
+|| Improve ICT across the MNS|Develop an MNS ICT Security Policy|Develop a Whole-of-Ministry ICT action Plan||
+|| Identify and implement a common inter-agency technological and communication platform|Complete the implementation of the Enterprise GIS Platform|||
+|||Roll out of Unified Communications Solution (Skype for Business) to interconnect communications, including video- conferencing across the MNS|||
+|||Upgrade Document Management Software|Implement a centralised DMS solution across the Ministry||
+|| Review and improve human resource planning and development systems|Develop a Succession Planning (SP)Framework for all Divisions/Units|Monitor and Assess the efficacy of the SP Framework||
+|| Improve staff Motivation and Morale|Develop a New employee motivation policy/strategy|Monitor and Assess the efficacy of the strategy||
+|| Improve the efficiency of programme, project management and procurement systems|Operationalise the project management dashboard|Monitor the effectiveness of the dashboard||
+|||Develop a centralized/joint purchasing/procurem ent model/framework|Monitor the effectiveness of the model||
+|| Develop Performance Management Competency across the MNS|Design and implement new individual performance management metrics across the MNS|Develop Training and Development plans based on performance management reports||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|GOALS OF THE MINISTRY OF NATIONAL SECURITY 2018-2023|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|SI 5 – Hazard Resilience|Goals|Short-term (2018-2020)|Medium-term (2020-2022)|Long-term (2022 & beyond)|
+|| Update disaster policy and legislative framework for Disaster Risk Management (DRM)|Build capacity of the Office of Disaster Preparedness and Management|Develop and implement National Policy on DRM||
+|| Improve knowledge and understanding of hazard and disaster risk|Conduct training, sensitisation and educational programmes on DRM with all stakeholders|Monitor and assess responsiveness and effectiveness of DRM measures||
+|| Increase resilience to hazards and disasters|Conduct an assessment of Early Warning Systems|Conduct an assessment of the effectiveness of Early Warning Systems||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### STRATEGY MAP
+
+
+The Strategy Map below provides a clear illustration of the major areas of focus of the MNS Strategic
+
+Plan. The map is an adaptation of the Balanced Scorecard approach and shows the importance of
+
+establishing a strong foundation of capacity and capability in human resources, physical infrastructure,
+
+ICT and technology. This foundation supports the design or redesign or reengineering of key
+
+operational elements that include systems, policies, processes, and structures. These operational
+
+elements are designed to improve the levels of efficacy in decision-making, ideation/innovation and
+
+task execution. In many areas, the foundational areas of capacity and capability have a direct impact
+
+on the achievement of final deliverables within public safety and security.
+
+The top of the strategy map illustrates the major deliverables and their value to the public -- greater
+
+**public safety and** **increased public security. Public safety is specifically articulated within the**
+
+realm of hazard resilience, and speaks to inculcating and building a culture, systems and approaches
+
+that increase the level of resilience to hazards, and thus increase the level of public safety. Public
+
+security captures elements that aim to both reduce and prevent crime.
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+**PROCESSES AND SYSTEMS** **STRUCTURAL AND POLICY REVIEW AND REENGINEERING**
+
+
+
+- Improve/Reengineer Processes in key areas:
+
+
+
+- Build “umbrella” structures to provide MNS leadership and direction to coordinate programmes
+
+
+o Acquiring cabinet approvals
+
+
+
+- Improve legislative advocacy
+
+
+o Case Management Process and Systems
+
+
+
+- Improve compliance with treaties and agreements
+
+
+o Procurement Management
+
+
+
+- Improve organisational and functional structures
+
+
+o Project Management
+
+
+
+- Develop a National Refugee Policy
+
+
+o Performance Management
+
+
+
+- Develop a DRM Policy and Legislative Framework
+
+
+o HR Responsiveness
+
+
+o Cross-functional team collaboration and communication
+
+
+
+- Improve the systems and structures of key areas:
+
+
+o Monitoring and Evaluation
+
+
+o Intelligence-gathering and sharing
+
+
+
+- Strengthen channels of communication
+
+
+
+- Improve Business Continuity systems
+
+
+
+- Improve Stakeholder Management systems
+
+
+**HR OPTIMISATION** **PHYSICAL SPACE AND INFRASTRUCTURE** **ICT and TECHNOLOGY OPTIMISATION**
+
+
+
+- Build capacity in key MNS Units/Divisions
+
+
+
+- Improve the infrastructural development of key units/Divisions
+
+
+
+- Improve database capability, management and integration:
+
+
+
+- Empower MNS Leaders to be Change agents
+
+
+o Offender database management
+
+
+
+- Improve Human Resource Planning
+
+
+o Gang identification and management
+
+
+
+- Improve Human Resource Development
+
+
+
+- Develop a common inter-agency technological platform
+
+
+
+- Improve MNS Staff Motivation and Morale
+
+
+
+- Improve communication infrastructure
+
+
+
+- Acquire TTFSC Lab Accreditation
+
+
+
+- Increase the support for the use of new technological tools
+
+
+
+- Enhance MNS Operational and Intelligence Capability
+
+
+**Fig. 10: MNS Strategy Map**
+
+
+-----
+
+_Updated: March 5, 2018_
+
+
+##### RISK MITIGATION FRAMEWORK
+
+
+This Risk Mitigation Framework represents a distillation of the major risks and mitigators in the Operational Plan (Appendix II). What has
+
+emerged is a clustering of four major types of Risks that should be assessed and then urgently addressed. The major types of risks are:
+
+    - Resource Risks: Are critical resources available in time?
+
+    - Process Risks: Are there current systems and processes that will impede execution?
+
+    - Capacity Risks: Are there capacity issues that will retard progress?
+
+    - Risks of Staff Commitment and Synergy: How much will staff buy-in and support affect execution?
+
+|RESOURCES|Col2|PROCESSES|Col4|CAPACITY|Col6|STAFF COMMITMENT AND SYNERGY|Col8|
+|---|---|---|---|---|---|---|---|
+|Risks/Obstacles|Mitigator|Risks/Obstacles|Mitigator|Risks/Obstacles|Mitigator|Risks/Obstacles|Mitigator|
+|Lack of SMEs (Subject Matter Experts)|Timely procurement of SMEs Internal development of SME capability|Delayed decision-making|HoD buy-in Proactive Monitoring and Evaluation Reengineered processes|Delayed TTFSC relocation|Strong lobbying to Cabinet for funding and approvals HoD support Structured project management|Competing ideologies|Cabinet/Ministerial Directive HoD buy-in|
+|Lack of funding Shifting priorities|Strong and convincing advocacy and lobbying to Cabinet|Delayed/poor reporting|Reengineered reporting processes and templates|Delayed TTFSC Lab Accreditation|Timely procurement of accreditation SME Structured project management|Duplication of efforts|HoD buy-in Reengineered policies and processes|
+|Limited legal resources|Urgent resourcing legal expertise|Poor candidate/employee recruitment|More rigorous recruitment and selection processes|Loss of institutional knowledge|Revised succession management systems|Resistance to change|Cabinet/Ministerial Directive HoD buy-in Innovative internal communication approaches|
+|Delayed Joint Border Management Agency|Budgetary prioritisation for the Agency HoD support|Delayed EMU implementation|HoD buy-in Strong legislative advocacy|||Lack of buy-in to the Strategic Plan|Cabinet/Ministerial Directive HoD buy-in Innovative internal communication approaches|
+|||Delayed external decision-making: PMCD, PSC and CPO|Revised communication approaches with external stakeholders|||Lack of staff buy-in|HoD buy-in Innovative internal communication approaches|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### CONCLUSION
+
+
+In the face of a continuously changing external environment, the Ministry of National Security must
+
+be adaptable and resilient. Thus, this Strategic Plan will be treated as a living document, subject to
+
+review and revision along the way. The initiatives in the Plan aim to change the current environment
+
+significantly to realize the desired outcomes with respect to public safety and security.
+
+This is an ambitious but manageable plan with many actionable elements. However, not all things can
+
+be achieved at once, taking cognizance of the current economic climate. As such, the plan reflects
+
+some inevitable sequencing, especially for elements that will require additional resources or clear
+
+points of focus. As practitioners, we will seize on opportunities for efficiencies and savings in terms of
+
+both time and money which may require adjustments to some of our ongoing activities.
+
+This plan aims to be comprehensive, addressing both practical needs at the Ministry level, and policy
+
+and planning needs at a nation-wide level. As a result, this plan should be viewed as the first step in
+
+a long-term process to ensure continued effective and responsible governance. To this end, annual
+
+reviews of progress against each of the five (5) Strategic Imperatives, a mid-term assessment of the
+
+strategy in Year Two (2020) and a major review in Year Four (2022) will be conducted to assess how
+
+effective the current plan has been in meeting objectives.
+
+It is essential to keep the momentum going in order to ensure continuous improvement. The spirit of
+
+collaboration, innovation and resource optimization that were imbued in the plan from the start must
+
+be sustained to propel the plan to actualization and realization. It is also essential that the leadership
+
+commitment exhibited to date continues, and that managers and staff be provided with the support
+
+and guidance necessary to bring this plan to fruition.
+
+Ultimately, it is expected that through the successful implementation of this plan, the MNS will be
+
+better prepared to significantly change the current environment with respect to public safety and
+
+security of all citizens of Trinidad and Tobago.
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+##### APPENDICES
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+###### APPENDIX I – MINISTRY OF NATIONAL SECURITY ORGANISATION STRUCTURE
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+###### APPENDIX II - 24-MONTH OPERATIONAL PLAN WITH RACI
+
+The monitoring and evaluation framework is critical for the effective performance management of the strategy over the period. It identifies
+
+the specific strategies, initiatives and respective measures and targets. Additionally, the M&E framework will identify initiative timelines and
+
+the associated RACI matrix for the period.
+
+Where there are teams with cross-department and inter-organisational collaboration, it is very important to create a process to track
+
+responsibilities.
+
+One of the important tools for tracking roles and responsibilities is the Responsibility Assignment Matrix (RACI matrix). RACI stands for:
+
+ Responsible – Who is responsible for the execution of the initiative/ task?
+
+ Accountable – Who is accountable for the tasks and signs off the work?
+
+ Consulted – Who are the subject matter experts to be consulted?
+
+ Informed – Who needs to be updated on the progress?
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|STRATEGIC OBJECTIVE 1: Improve Crime Detection Rates||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Conduct an MNS Crime Detection Skills/ Competency Gap Analysis| Develop an MNS Crime Detection Competency Matrix|Lead- Joint MNS Divisional Team|DPS (D&PS)|HoDs DPS Admin|PS|June 2018|Aug 2018| Competing ideologies and levels of autonomy  Access to updated/benchmarked research/information| Cabinet/Ministerial directive  HoD buy-in and support|
+|| Establish an MNS Crime Detection Skills Inventory|Lead- Joint MNS Divisional Team|DPS (D&PS)|HoDs DPS Admin|PS|Sept 2018|Nov 2018| Availability and reliability of information| Timely allocation of resources  Integrated database management|
+|2. Increase the use of DNA and other up-to-date scientific methods and technology to improve the rate of detection| Acquire accreditation for TTFSC DNA lab|Dir TTFSC|PS Account|SMEs|Minister Key Stakeholders (case management)|July 2017|July 2018| Lack of rigour in review of Labs  Heavy current caseload of each lab (impact on time and focus)  Competing ideologies  Lack of experience in process| Procurement of Accreditation expertise  Structured project planning and emphasis  Buy-in by all stakeholders|
+|| Identify and procure critical equipment / software for DNA analysis (identified by DNA custodian)|DNA Custodian|DPS (D&PS)|Relevant SMEs|PS Minister|June 2017|Sep 2019| Delay in Lab accreditation| Acquisition of Lab Accreditation  Availability of funding|
+|| Develop policy and regulations in alignment with legislation|Dir Legal|PS|SMEs|Minister SMEs Other stakeholders|June 2017|June 2018| Limited legal resources| Prioritised procurement of legal resources|
+|| Develop MoA between TTPS (Crime Scene Specialists) and TTFSC|DPS (D & PS)|PS|CoP Dir TTFSC|Key SMEs Minister|Jun 2018|Sept 2018| Competing ideologies  Lack of commitment| Min/Cabinet Directive  Buy-in of key leaders|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|STRATEGIC OBJECTIVE 1: Improve Crime Detection Rates||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|3. Pursue legislative changes to address shortfalls by the TTPS and other law enforcement agencies| Identify Crime Detection legislative gaps|Lead- Joint MNS Divisional Team|PS CoP|Relevant stakeholders|Minister|June 2018|Nov 2018| Lack of collaboration  Lack of implementation of other key crime detection mechanisms  New gaps created by litigation.| Widespread consultation and collaboration  Develop and amend legislation|
+|| Develop relevant policies to initiate the drafting of legislation|Lead- Joint MNS Divisional Team|PS CoP|Relevant stakeholders|Minister|Dec 2018|Feb 2019| Lack of collaboration| Widespread consultation and collaboration|
+|| Draft Note for Cabinet approval|Dir. Legal|PS|Relevant stakeholders|Minister|Mar 2019|Mar 2019|||
+|| Submit approved Policy to CPC for drafting|Senior Legal Officer|Dir. Legal|Relevant stakeholders|PS /Minister|Apr 2019|Apr 2019|||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Improve Border Protection||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Establish a Joint Border Protection Task Force with requisite policy, strategy and legislation| Conduct Security needs analysis/ Security sector reform|MNS|MNS|All Stakeholders|All Stakeholders|Jun 2018|Aug 2018| State of the economy  Timeline for implementation  Non- available resources (including manpower in the MNS key agencies)| Determine resource challenges and address them (shortage of manpower)|
+|| Develop concept of operations|MNS Committee|Minister|All Stakeholders|All Stakeholders|Jun 2018|Aug 2018| Legislative authority to operate may be required.||
+|| Develop command and control protocols including a MoA for all participating agencies|MNS Committee|Minister|All Stakeholders|All Stakeholders|Jun 2018|Aug 2018| Determining which agency will control resources/ who will support?||
+|| Develop rules of engagement for Joint, Interagency, Intergovernmental and Multinational (JIIM) operational environments|MNS Committee|Minister|All Stakeholders|All Stakeholders|Jun 2018|Aug 2018| Training of personnel to operate in different environments||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 3: Improve Intelligence Gathering and Analysis||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Establish an Information Management Policy and supporting MoA amongst the relevant agencies that focuses on the managing, gathering, storing, utilization, sharing and harmonization of intelligence.| Initiate collaborative sessions with relevant stakeholders of MNS|Dir SSA|PS|Minister PS HOD|Minister Relevant stakeholders|Jun 2018|Aug 2018| Lack of collaboration  Different ideologies  Trust| Minister and government support  Buy-in from relevant stakeholders|
+|| Establish policy specific for the treatment of data gathering, management and sharing|Dir SSA|PS|Minister PS HODs|Minister Relevant stakeholders|Sept 2018|Nov 2018| Lack of SME  Lack of collaboration  Different ideologies| Minister and government support  Buy-in from relevant stakeholders|
+|| Develop protocols for bilateral & multi-lateral agreements|Dir SSA|PS|Minister MoFCA|Minister Relevant Stakeholders|Sept 2018|Nov 2018| Lack of collaboration  Lack of signed agreements| Minister and government support|
+|| Provide the relevant agencies with the necessary resources (staffing, training, systems and funding) to boost their capacity for intelligence gathering|PS Dir SSA CoP HODs|PS|Minister PS HODs SMEs|Minister|Dec 2018|Nov 2019| Lack of funding  Low priority  Lack of collaboration| Government support|
+|2. Critically review existing policies and procedures amongst local, regional and international stakeholders towards effective intelligence gathering| (Research) Source relevant documentation - Treaties & Agreements|Dir INTAF|DPS Policy Research|PS Relevant stakeholders|Minister Relevant stakeholders|June 2018|Aug 2018| Lack of collaboration  Availability of information| Buy-in and support from Minister and PS|
+|3. Establish a central data information gathering and processing centre| Designate a centralized location as the repository for data|Minister Cabinet|PS|Relevant stakeholders HODs HOS|Relevant stakeholders|June 2018|Aug 2018| No funding  Different ideologies  Lack of collaboration| Buy-in from Government and agencies|
+|| Identify and quantify resource needs for operationalisation|SME|PS Minister|PS Minister Relevant stakeholders|Relevant stakeholders|Sept 2018|Feb 2019| No funding  Different ideologies  Lack of collaboration| Designated repository location identified and funding available.|
+|| Establish security protocols for access|SME|PS Minister|PS Minister Relevant stakeholders|Relevant stakeholders|Mar 2019|May 2019| Lack of SME  Lack of collaboration  Delay in identification of repository| Buy-in from stakeholders  Early engagement|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 4: Improve the Case Management process and systems (people and systems)||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop standardized internal policies on Case Management among MNS agencies| Convene collaborative sessions with relevant (internal and external) stakeholders of MNS to establish remit|DPS Policy|PS|HoDs|Stakeholders|Jun 2018|July 2018| Time, focus, dissonance and commitment| Assign responsibility and ensure commitment to respective deadlines|
+|| Research: o case management statistics o comparable systems and processes o capability and capacity needs of agencies|Lead- Joint MNS Divisional Research Team|DPS Policy|DPS(D&PS) HoDs|Stakeholders|Aug 2018|Nov 2018| Lack of commitment  Data availability  Time constraints| Buy-in of all agencies  Committed/ assigned resources to collate required data|
+|| Draft and review detailed MOA including protocols, policies and standards|Lead- Joint MNS Divisional Research Team|DPS Policy|DPS(D&PS) HoDs|Stakeholders|Dec 2018|Jan 2019| Data availability  Availability of key stakeholders| Committed schedule for stakeholder deadlines  Completion of comprehensive research report|
+|| Conduct gap analysis of internal policies: o Stakeholder engagement sessions o Document review analysis|SME|DPS Policy|DPS(D&PS) HoDs|PS|Feb 2019|Apr 2019| Data availability  Availability of key stakeholders| Buy-in of all agencies  Committed/ assigned resources to collate required data|
+|| Draft and review detailed policies|SME|DPS Policy|DPS(D&PS) HoDs|Stakeholders|May 2019|May 2019| Data availability  Availability of key stakeholders| Committed schedule for stakeholder deadlines  Completion of comprehensive research report|
+|| Create and roll-out implementation plan|Lead- Joint MNS Divisional Research Team|DPS Policy|DPS (D&PS) HoDs|Stakeholders|Jun 2019|Aug 2019| Availability of required resources| Timely procurement of resources|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 5: Strengthen the comprehensive integrated offender and gang identification data base management system||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Critical review of existing systems| Develop detailed MOI and policy framework|Lead- Joint MNS Divisional (TTPrS, TTPS, GA) Team|DPS (D& PS)|HoDs Stakeholders|PS|June 2018|June 2018| Data availability  Availability of key stakeholders| Committed schedule for stakeholder deadlines  Completion of comprehensive research report|
+|| Conduct gap analysis of existing systems|Lead- Joint MNS Divisional (TTPrS, TTPS, GA) Team|DPS (D& PS)|HoDs Stakeholders|PS|July 2018|Sept 2018| Availability of key stakeholders| Commitment of stakeholders|
+|2. Upgrade existing systems| Develop action plan (based on Gap Analysis)|Lead- Joint MNS Divisional (TTPrS, TTPS, GA) Team|DPS (D& PS)|HoDs Stakeholders|PS|Oct 2018|Dec 2018| Availability of key resources| Effective project planning|
+|| Implement action plan (based on Gap Analysis)|Lead- Joint MNS Divisional (TTPrS, TTPS, GA) Team|DPS (D& PS)|HoDs Stakeholders|PS|Jan 2019|Sept 2019| Availability of key resources| Effective project planning|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 6: Operationalise the National Crime Prevention Programme||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop the most appropriate organisation structure| Conduct needs/ gap analysis|SME HoS|DPS|PS|Minister|Dec2017|Jun 2018| Availability of key resources  Approval for procurement| Timely approvals  Effective networking/ leveraging of resources|
+|| Design the structure to meet the established needs|SME HoS|DPS|PS|Minister|Apr 2018|May 2018|||
+|| Acquire approval for structure|HoS|DPS|PS|Minister|Jun 2018|July 2018|||
+|2. Recruit and select personnel for the organisation structure| Develop JDs and Job Specs for all positions in approved structure|Dir. HR|DPS|PS|Minister|Oct 2017|Sept 2018| Lack of rigour in needs analysis| Rigorous needs analysis|
+|3. Develop policies, procedures and processes for the programme| Establish joint multi-sectoral teams to improve community engagement for al agencies|DPS|PS|HoDs|Minister|Sep 2017|June 2018| Lack of cooperation  Fear of the unknown| Shared vision and inclusion|
+|| Draft joint community engagement policies and procedures|SME|HoDs|DPS|Stakeholders|Nov 2017|Dec 2017| Resistance to change| HoD buy-in and support|
+|| Communicate across all Stakeholder Agencies both internal and external i.e. public and private|Mgr.Comm./ Sen. Comms Off. NCPP MNS|PS|Div. Comm. Officers HoDs|Media|Jan 2018|Ongoing| Lack of/ poor coordination among Divisions and NCPP (Communication Officers)  Lack of a Communications Strategy| HoDs commitment  Cooperation/ collaboration among Communications Officers/external stakeholders  Development and implementation of a Communications Strategy|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 6: Operationalise the National Crime Prevention Programme||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|4. Develop innovative crime prevention initiatives through community participation| Conduct needs assessment for specifically identified community targets for programmes|SME|DPS|HoDs|Targeted Communities|Jun 2018|Jun 2018| Community buy-in  Top-down approach to communication and coordination  Stakeholder support| Effective public relations and marketing  A participatory approach to communication|
+|| Develop detailed initiatives and action plan|SME|HoDs|DPS|Minister|July 2018|Aug 2018| Time constraints| Structured scheduling and project planning|
+|| Communicate across Ministries and with the public stakeholders in the identified communities|Mgr Comm./ Sen. Comms Off.|PS|Div. Comm. Officers HoDs|Media|Sept 2017|Ongoing| Lack of/ Poor coordination among Divisions/ Ministries (Communication Officers)| HoDs Commitment  Cooperation/ collaboration among Communications Officers|
+|| Roll-out joint initiatives (at least quarterly)|HoDs Ministries|DPS|Stakeholders|PS|Sept 2018|Ongoing| Resistance to change  Disorganised projects| HoD buy-in and support  Effective project management|
+|| Monitor and evaluate efficacy of initiatives|Dir. M & E|DPS|HoDs|PS|Dec 2018|Ongoing| Delayed and inaccurate reporting| Rigorous and continuous reporting|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 7: Improve/ Strengthen Juvenile and Youth Development Programmes||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Improve the efficacy of current Juvenile and Youth Development programmes| Conduct an assessment on current programme/s impact|Lead- Joint MNS Team (GA, Probation, TTPS, TTPrS, TTDF)|PS|Relevant Stakeholders|Relevant Stakeholders|June 2018|Sept 2018| Access to key information  Lack of collaboration| Timely communication of schedules  Early stakeholder input and participation|
+|| Develop programmes to increase impact|Lead- Joint MNS Team (GA, Probation, TTPS, TTPrS, TTDF)|PS|Relevant Stakeholders|Relevant Stakeholders|Oct 2018|Nov 2018| Lack of collaboration  Limited resources| Executive buy-in and commitment  Effective planning  Networking|
+|| Roll-out new/revised programmes|HoDs|DPS|PS|Relevant Stakeholders|Dec 2018|Ongoing| Funding  No prioritisation| Timely access to funding  Adequate funding  Prioritisation in one-year Action Plan|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|SI 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 8: Improve the Infrastructural development of the Trinidad and Tobago Forensic Science Centre (TTFSC)||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Relocate the Forensic Science Centre to a location which improves its accessibility, capacity and capability| Identify and secure location|DPS|PS Minister|Other stakeholders|Other stakeholders|June 2018|Nov 2018| Location may have legal encumbrances  Lack of funding  Agreement on location  Not government agenda  Vulnerability of centralisation| On Government agenda  Identification of various options for locations  Cabinet approval  Ensure IT considers offsite storage of data (disaster recovery)|
+|| Design of infrastructure|SME|DPS PS Minister|HoDs and HoS Relevant stakeholders|Other stakeholders|Dec 2018|Mar 2019| Delay in identifying and securing location  Lack of SME  Lack of structured project planning| On Government fiscal agenda  Structured project plan|
+|| Procure Contractor|SME|DPS|HoDs and HoS Relevant stakeholders|Other stakeholders|Apr 2019|Sept 2019| Delay in identifying and securing location  Lack of SME  Lack of structured project planning| On Government fiscal agenda  Structured project plan|
+|2. Refurbish the Forensic Science Centre to improve its capacity and capability| Development of Refurbishment plan|Project Team Lead|DPS Policy Dir TTFSC|HoDs and HoS Relevant stakeholders|Other stakeholders|Jun 2018|Aug 2018| Delay in identifying and securing location  Lack of SME  Lack of structured project planning| On Government fiscal agenda  Structured project plan|
+|| Implementation of Refurbishment Plan|Project Team Lead|DPS Policy Dir TTFSC|HoDs and HoS Relevant stakeholders|Other stakeholders|Oct 2018|Sep 2019| Lack of funding  Delay in construction  Availability of equipment etc.  Delay in procurement process| Secured funding  Engaged tendering process commencing early  Ensure relevant and timely stakeholder consultation  Ensure contractor consequence management|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|SI 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 9: Build capacity in key MNS Divisions/Units||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Improve the efficacy of the following key agencies which have a direct impact on crime prevention and reduction:  Immigration Division  CTU  AML/CFT  CSIRT  TTPS-Cyber crime unit| Conduct a Manpower Audit and Resource Audit to determine strengths and weaknesses for resource development/ allocation|Lead- Joint MNS Divisional Team|PS|HoDs|Relevant Stakeholders|Jun 2018|Dec 2018| State of the economy  Other competing projects (shifting priorities)  Timeline for Implementation  Public Service Commission (slow recruitment process)  Sourcing specialized training abroad| Prioritization of Audits/Initiative  Communication of increased risk and vulnerability if issues are not addressed|
+|| Develop Action Plan based on Audit|Lead- Joint MNS Divisional Team|PS|HoDs|Relevant Stakeholders|Jan 2019|Mar 2019| State of the economy  Other competing projects (shifting priorities)  Timeline for Implementation  Public Service Commission (slow recruitment process)  Sourcing specialized training abroad| Prioritization of Audits/Initiative  Communication of increased risk and vulnerability if issues are not addressed|
+|| Implement Action Plan|Lead- Joint MNS Divisional Team|PS|HoDs|Relevant Stakeholders|Apr 2019|Sep 2019| State of the economy  Other competing projects (shifting priorities)  Timeline for Implementation  Public Service Commission (slow recruitment process)  Sourcing specialized training abroad| Prioritization of Audits/Initiative  Communication of increased risk and vulnerability if issues are not addressed|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 10: Improve the efficacy of rehabilitation and reform/restorative initiatives||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Implement Electronic Monitoring| Procure Electronic Monitoring system|EMU Manager|PS|Relevant stakeholders|Minister Key stakeholders|Feb 2018|July 2018| Lack of implementation and use of EM device and other equipment  Lack of collaboration with relevant stakeholders  Legal challenges| Legislative support  Procurement of devices & equipment and other support|
+|| Develop policy and seek Cabinet approval for electronic monitoring|Dir Legal|PS|Relevant stakeholders|Minister Key stakeholders|Dec 2017|June 2018| Lack of implementation and use of EM device and other equipment  Lack of collaboration with relevant stakeholders  Legal challenges| Legislative support  Procurement of devices & equipment and other support|
+|| Develop EM Implementation Plan|EMU Manager|DPS(D & PS)|PS Relevant stakeholders|Minister Key stakeholders|Aug 2018|Sept 2018| Lack of implementation and use of EM device and other equipment  Lack of collaboration with relevant stakeholders  Legal challenges| Legislative support  Procurement of devices & equipment and other support|
+|| Implement EM Plan|EMU Manager|DPS(D & PS)|PS Relevant stakeholders|Minister Key stakeholders|Nov 2018|Dec 2018| Lack of implementation and use of EM device and other equipment  Lack of collaboration with relevant stakeholders  Legal challenges| Legislative support  Procurement of devices & equipment and other support|
+|2. Implement key Penal Transformation Task Force recommendations| Review and Prioritise short-medium term Penal Transformation projects that support crime prevention and reduction|Director Penal Transformation Unit|DPS(D & PS)|CoPr Chief Probation Officer TTPS|PS|Jun 2018|Sept 2018| Inaccurate identification/ justification of priority projects| Collaboration and consensus on priority projects  Increased Buy-in to the Restorative and Rehabilitation thrust and philosophy|
+|| Develop Penal Transformation Action Plan|Director Penal Transformation Unit|DPS(D & PS)|CoPr Chief Probation Officer TTPS|PS|Oct 2018|Dec 2018| Inaccurate identification/ justification of priority projects| Collaboration and consensus on priority projects|
+|| Implement Action Plan|Director Penal Transformation Unit|DPS(D & PS)|CoPr Chief Probation Officer TTPS|PS|Jan 2019|June 2019| Inaccurate identification/ justification of priority projects| Collaboration and consensus on priority projects|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 1: Crime Prevention and Reduction|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 10: Improve the efficacy of rehabilitation and reform/restorative initiatives||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|3. Develop a Policy on Prison Management that will address the overall Correctional System|Undertake a Comprehensive review of the offender intake systems of the TTPrS, for both remanded and Convicted inmates.|DCoPr|CoP (TTPrS)|DPS(D & PS) PRTU|PS|July 2017|Apr 2018| Buy-in from Stakeholders| Implement a Communications Strategy|
+||Recruit train and deploy appropriate staff including Infirmary Officers, Welfare Officers, and LSCMI Officers to the dedicated Intake Assessment Facility (Reception).|DCoPr|CoP (TTPrS)|DPS(D & PS) PRTU|PS|Apr 2018|Mar 2019| Limited Financial and other resources  Current infrastructural constraints| Implement project for the improvement of required facility  Buy-in from Government Agencies|
+||Review the Programmes delivery method in keeping with results of the Assessment|Programmes Dept (TTPrS)|CoP (TTPrS)|DPS(D & PS) PRTU|PS|Jun 2018|May 2019| Limited Financial and other resources | Buy-in from Government Agencies|
+||Implement an Offender Management System.|Programmes Dept (TTPrS)|CoP (TTPrS)|DPS(D & PS) PRTU|PS|Apr 2018|Ongoing| Limited Financial and other resources  Lack of collaboration| Buy-in from Government Agencies|
+||Improve collaboration between external agencies and TTPrS intelligence Unit|Programmes Dept (TTPrS)|CoP (TTPrS)|DPS(D & PS) PRTU|PS|Nov 2017|Sept 2019| Limited Financial and other resources| Buy-in from Government Agencies|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 2: Stakeholder Partnership and Collaboration|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 1: Improve External Stakeholder Management||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop and implement Stakeholder Management Strategy| Conduct comprehensive stakeholder analysis|Lead- Joint MNS Divisional Team|DPS HR|HoDs Relevant Stakeholders|PS|Jun 2018|Sept 2018| Lack of stakeholder involvement  Lack of financial allocation  Change of Government priority/ lack of buy-in from Cabinet| Continued engagement, encouragement and positive feedback|
+|| Develop Stakeholder Management Strategy|Lead- Joint MNS Divisional Team|DPS HR|HoDs Relevant Stakeholders|PS|Oct 2018|Dec 2018| Lack of stakeholder involvement  Lack of financial allocation|Continued engagement, encouragement and positive feedback|
+|| Implement strategy|Lead- Joint MNS Divisional Team|DPS HR|HoDs Relevant Stakeholders|PS|Jan 2019|Jun 2019| Lack of human resource and technical competence to properly evaluate  Lack of financial allocation| Hiring a consultant to monitor and evaluate the strategies identified by the stakeholders|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 2: Stakeholder Partnership and Collaboration|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Improve Internal Stakeholder Management||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop an Employee Relationship Management (ERM) strategy| Conduct an Employee Satisfaction survey on phased basis|Dir HR (one selected from among the team of HR Dirs)|DPS HR|HoDs|PS|June 2018|May 2019| Lack of Executive Buy-in  Lack of staff participation| Early engagement with Executives and Staff to get buy- in|
+|| Develop Action Plan from Employee Satisfaction Survey|Dir HR (one selected from among the team of HR Dirs)|DPS HR|HoDs|PS|Jun 2019|Aug 2019| Inaccurate and/or inadequate Survey report| Ensure the Survey Design and Report are rigorous and comprehensive|
+|| Implement Action Plan that includes but is not limited to: o HR Help Desk/Electronic Feedback to Staff Questions/Concerns o Web portal to view employee personnel information (IHRIS) such as sick days, casual days, vacation days, appraisal status, increments and pre-retirement|Dir HR (in each particular unit using a peer assessment framework)|DPS HR|HoDs|HOD EM|Sept 2019|June 2020| Lack of financial/ human resources| Hire an HR Consultant  Engage Public Management Consultative Division|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 2: Stakeholder Partnership and Collaboration|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 3: Review and strengthen channels of communication to ensure appropriate information dissemination and feedback||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop and implement a communications policy| Establish a cross-divisional team and determine operating guidelines|DPS Policy|PS|HoDs|Relevant Stakeholders|June 2018|June 2018| Resource (human) constraints| Assign responsibility and commit to deadline|
+|| Conduct a comprehensive gap analysis and present recommendations for approval|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|June 2018|Aug 2018| Resource (human) constraints||
+|| Draft policy|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Sept 2018|Nov 2018|||
+|| Seek approval for the communications policy|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Dec 2018|Dec 2018| Resource (human) constraints  Delayed decision-making||
+|| Implement policy|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Jan 2019|Feb 2019| Resource (human) constraints||
+|2. Develop and implement communications strategy within MNS| Review the present communication strategy and mechanisms within MNS|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Jan 2019|Mar 2019| Resource (human) constraints  Buy-in from staff  Resource continuity| Assign responsibility and commit to deadline|
+|| Develop and prioritize strategy to be implemented|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Apr 2019|May 2019| Resource (human) constraints  Buy-in from staff  Resource continuity||
+|| Implement communication strategy across MNS Divisions (e.g: New Communication Mechanism) o Create Social Media Team o Set up a system to collect information o Establish goals, guidelines and direction o Determine target audience and appropriate message o Review and approve content|Lead- Joint MNS Divisional Team|DPS Policy|HoDs|PS|Jun 2019|Aug 2019| Resource (human) constraints  Buy-in from staff  Resource continuity| Hire a consultant to set up, advise and implement|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 1: Strengthen the leadership capacity to lead and manage major change within the MNS||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop and implement a customised leadership development programme| Conduct an MNS leadership development needs assessment|Dir HR|DPS HR|PS|HoDs HoS|Jun 2018|Aug 2018| Lack of Executive buy-in  Lack of rigour in needs assessment  Lack of financial resources to conduct training| Executive Champion  Structured and detailed needs assessment  Persuasive lobbying for resources|
+|| Engage consultant (source provider)|DPS HR|PS|Dir HR|HoDs HoS|Sept 2018|Oct 2018|||
+|| Conduct training/ development sessions (covering areas that include with change management, integrity, accountability, emotional intelligence)|Consultant/ SME|Dir HR|HR Officers|HoDs HoS|Nov 2018|Apr 2019|||
+|| Monitor and evaluate progress in line with standards and core values|Dir HR|DPS HR|PS|HoDs HoS|May 2019|Ongoing|||
+|2. Facilitate re-orientation programme for members of the Executive| Review /Revise Orientation briefs for all departments|DPS|PS|HoDs HoS|Minister|Jun 2018|July 2018| Lack of Executive buy-in| Executive Champion|
+|| Develop and implement re-orientation programme for all MNS leaders|Dir HR|DPS HR|HoDs HoS|PS|June 2018|Aug 2018|||
+|3. Facilitate increased information sharing among the leadership| Develop schedule and agenda for monthly leadership meetings that increase collaboration|DPS|PS|Min|HoDs HoS|Jan 2018|Jan 2018| Lack of Executive buy-in| Executive Champion|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Review and Improve Strategic Performance Management across the MNS||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Collaboratively develop strategic performance targets for all Divisions and at the Ministry level (whole of Ministry)| Develop standing HoD and HoS forum to establish and monitor targets|DPS HR|PS|HoDs HoS|Minister|Jun 2018|July 2018| Lack of Executive buy-in| Executive buy-in|
+|| Develop common approaches to performance target setting across the Ministry|DPS HR|PS|HoDs HoS|Minister|Aug 2018|Oct 2018|||
+|| Develop standards & targets document|HoDs HoS|DPS HR|PS|Minister|Nov 2018|Jan 2019|||
+|2. Develop the organisation structure for an M&E Unit for the MNS| Conduct awareness campaign throughout the MNS|M&E Coor Dir M&E|Dir M&E|HoDs|PS|Jun 2018|Aug 2018| Resource (human, financial) constraints  Buy-in from staff| Designate an Executive Champion|
+|| Conduct needs analysis|M&E Coor|Dir M&E|HoDs|PS|Sept 2018|Oct 2018| Resource (human, financial) constraints  Buy-in from staff||
+|| Develop draft Note for comments by PMCD (includes workflows, process maps, roles and responsibilities etc.)|Dir HR|DPS HR|Dir M&E PMCD|PS|Nov 2018|Jan 2019| Resource (human, financial) constraints  PMCD’s Timeline||
+|| Seek Cabinet approval for the M&E Structure|Dir HR|DPS HR|Dir M&E PMCD|PS|Feb 2019|Feb 2019| Resource (human, financial) constraints  PMCD’s and Cabinet’s timelines||
+|3. Recruit and select appropriate staff for the unit| Advertise positions|Dir HR|DPS HR|Mgr. Comms|PS|Apr 2019|May 2019| Resource (financial) constraints| Executive Champion|
+|| Interview and select candidates|Dir HR|DPS HR|Dir M&E|PS|Jun 2019|Sept 2019| Selected candidates may no longer be available| Commit to deadline|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Review and Improve Strategic Performance Management across the MNS||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|4. Develop a ‘whole of ministry’ collaborative M&E mechanism| Identification of key stakeholder representatives in each Division|Dir M&E|DPS HR|HoDs|PS|Jun 2018|Jun 2018| Resource (human) constraints  Buy-in from staff  Resource continuity| HoDs’ commitment and support|
+|| Develop (common) operating guidelines/ standard reporting systems and structures for M&E across Divisions|Dir M&E|DPS HR|HoDs|PS|July 2018|July 2018| Resource (human) constraints  Buy-in from staff  Resource continuity||
+|5. Develop and implement M&E Framework| Conduct meetings|M&E Coor|Dir M&E|HoDs|PS|Aug 2018|Oct 2018| Resource (human) constraints  Buy-in from staff| Assign responsibility and commit to deadline  Ensure early and complete PS buy-in and aggressive follow-up|
+|| Produce framework|M&E Coor M&E Team|Dir M&E|HoDs|PS|Nov 2018|Dec 2018| Resource (human) constraints  Delayed decision-making (for final approval)||
+|| Implement Framework including reporting and review mechanism|M&E Coor|Dir M&E HoDs|Divisions PMU Research|PS|Jan 2019|Ongoing| Resource (human) constraints  Resource continuity  Resistance to change| Assign responsibility and commit to deadline  HoD buy-in|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 3: Improve advocacy efforts re Legislative change||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Review the legislative landscape as it relates to safety and security| Conduct gap analysis and present recommendations for approval|Lead- Joint MNS Divisional Legal Team|PS|Relevant Depts/ Divisions/ Agencies|Minister HoDs|Jun 2018|Aug 2018| Resource (human) constraints| Assign responsibility and commit to deadline|
+|| Develop an innovative approach to accessing specialist legal resources (develop and leverage on partnerships, MOAs)|Lead- Joint MNS Divisional Legal Team|PS|Relevant Depts/ Divisions/ Agencies|Minister HoDs|Jun 2018|July 2018| Resource (human) constraints| Assign responsibility and commit to deadline|
+|| Develop policy document to treat with specific issue (from gaps)|Lead- Joint MNS Divisional Legal Team|PS|Relevant Depts/ Divisions/ Agencies|Minister HoDs|Sept 2018|Dec 2018| Resource (human) constraints| Assign responsibility and commit to deadline|
+|| Seek approval to be placed on legislative agenda (including Cabinet approval)|DPS Policy|PS (Accounting Officer) Minister|Relevant Depts/ Divisions|AG’s Office|Jan 2019|Mar 2019| Resource (human) constraints  Delayed decision-making| Assign responsibility and commit to deadline|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 4: Review and reengineer existing policies||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Review policies and present recommendations| Establish policy review team and determine operating guidelines|DPS Policy|PS|HoDs HoS|Minister|Jun 2018|Jun 2018| Resource (human) constraints  Resource continuity| Assign responsibility and commit to deadline|
+|| Identify Gaps  Conduct analysis in keeping with the objectives of the organisation  Present recommendations for approval|Lead- Joint MNS Divisional Team|DPS Policy|HoDs HoS|PS/ Minister|July 2018|Oct 2018| Resource (human) constraints  Resource continuity||
+|| Draft and seek approval for policy|DPS Policy|PS|HoDs HoS|Minister|Nov 2018|Mar 2019|||
+|| Roll-out revised policy|HoDs HoS|DPS Policy|Relevant Dept.|PS|April 2019|June 2019| Resource (human) constraints  Buy-in from staff  Resource continuity||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 3 - Governance|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 5: Review and revise organisational and functional structures (at the GA level and across the MNS) to maximize efficiency (leveraging on areas of functional alignment)||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. (Critical) Review of Existing Structure| Establish cross-functional team|DPS HR|PS HR|HoDs|PS|Jun 2018|Jun 2018| Resource (human) constraints  Resource continuity| Assign responsibility and commit to deadline|
+|| Conduct needs analysis and identify gaps: o Review the efficacy and relevance of Divisional organisational structures|DPS HR|PS HR|HoDs|PS|July 2018|Oct 2018| Resource (human) constraints  Buy-in from staff  Resource continuity||
+|2. Develop and implement new organisational structures| Draft proposed structure for PMCD approval|Team Lead|DPS Admin|Dir M&E|PSs|Nov 2018|Dec 2018| Resource (human) constraints  Resource continuity| Assign responsibility and commit to deadline|
+|| Validate and approve new structure|DPS Admin PMCD|PS HR|HoDs HoS|Minister|Jan 2019|Jun 2019| Resource (human) constraints  Delayed decision-making||
+|| Roll-out and implement|HoDs|DPS Admin|DPS HR|PSs|Jul 2019|Dec 2019| Resource (human) constraints  Buy-in from staff  Resource continuity||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 1: Improve ICT across the MNS||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop a whole of Ministry ICT Action plan| Establish ICT Audit Project Team and project scope|DPS HR|PS|HoDs HoS|Minister|Jun 2018|June 2018| Continuity| Minister/ Cabinet appointed committee with a stipend|
+|| Conduct assessment|Lead- Joint MNS Divisional ICT Team|DPS HR|HoDs HoS|PS|July 2018|Nov 2018| Delays caused by office priorities at Divisions| Ministry mandate|
+|| Review recommendations & develop ICT Action Plan|Lead- Joint MNS Divisional ICT Team|DPS HR|PS|Minister|Dec 2018|Mar 2019| Delayed decision-making| Leadership commitment|
+|| Implement recommendations|Lead- Joint MNS Divisional ICT Team|HoDs HoS|DPS HR|PS/ Minister|Apr 2019|Mar 2020| Delayed decision-making| Leadership commitment|
+|2. Develop and adopt an MNS ICT Security policy| Assess the ICT security gaps across the MNS|Lead- Joint MNS Divisional ICT Team|HoDs HoS|DPS HR|PS/ Minister|Jun 2018|Aug 2018| Lack of champions and execution champions within the Divisions| Develop structured ICT departments in each Division|
+|| Finalize, adopt & roll-out the ICT Information Security Policy|Lead- Joint MNS Divisional ICT Team|HoDs HoS|DPS HR|PS/Minister|Sept 2018|Dec 2018| Lack of champions and execution champions within the Divisions| Develop structured ICT departments in each Division|
+|3. Strengthen ICT competency across the MNS| Develop ICT competency development plan based on ICT Audit|Lead- Joint MNS Divisional ICT Team|HoDs HoS|DPS HR|PS/ Minister|Oct 2017|Aug 2018| Delayed decision-making| Executive buy-in|
+|| Implement plan recommendations|Lead- Joint MNS Divisional ICT Team|HoDs HoS|DPS HR|PS/Minister|Sep 2018|Dec 2018| Delays due to competing priorities| Leadership commitment|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Identify and implement a common inter-agency communications platform||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Implement a unified communications solution for the Ministry| Assess existing communications systems|Lead- Joint MNS Divisional ICT-Comm Team|DPS HR|HoDs HoS|PS/Minister|July 2018|Sep 2018| Divisional buy-in  Delays due to competing priorities| Leadership commitment|
+|| Develop Action plan for integration|Lead- Joint MNS Divisional ICT-Comm Team|DPS HR|HoDs HoS|PS/Minister|Oct 2018|Dec 2018| Divisional buy-in  Delays due to competing priorities| Leadership commitment|
+|| Execute Action Plan including change management activities|Lead- Joint MNS Divisional ICT-Comm Team|DPS HR|HoDs HoS|PS/Minister|Jan 2019|Dec 2019| Divisional buy-in| Executive buy-in  Leadership commitment|
+|2. Implement Document Management System| Review existing DMS|Records Manager|Comptroller, Admin Services|ICTU|PS|Jun 2018|Aug 2018|||
+|| Develop Implementation Plan based on review|Records Manager|Comptroller, Admin Services|ICTU|PS|Sept 2018|Oct 2018| Divisional buy-in| Sensitization of Divisional Staff|
+|| Implement Plan  Recruit Critical Staff|Records Manager|Comptroller, Admin Services|ICTU|PS|Nov 2018|Mar 2019| Funding| Budget|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 3: Review and improve human resource planning and development||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Institutionalize an orientation and induction system| Establish a committee|DPS HR|PS|HoDs HoS|Minister|Jun 2018|Jun 2018| Delays caused by office priorities at Divisions| DV buy-in to allow time off from regular workload|
+|| Design and develop programmes|Lead- Joint MNS Divisional HR Team|DPS HR|HoDs HoS|PS|July 2018|Sept 2018| Priorities with work schedules| Leadership commitment|
+|| Implement system|Dirs HR|DPS HR|HoDs HoS|PS|Oct 2018|Dec 2018| Delays due to competing priorities| Leadership commitment|
+|2. Implement a succession planning mechanism| Establish a committee to develop a Succession Planning Framework|DPS HR|PS|HoDs HoS|PS|Jun 2018|Jun 2018| Committed staff| Time off for project|
+|| Develop a Succession Planning Framework|Lead- Joint MNS Divisional HR Team|DPS HR|HoDs HoS|PS|July 2018|Dec 2018| Committed staff| Time off for project|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 4: Improve staff Motivation and Morale||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Implement an MNS “whole of Ministry” staff motivation strategy| Establish a committee to develop an MNS “whole of Ministry” staff motivation strategy|DPS HR|PS|HoDs HoS|PS|Jun 2018|Jun 2018| Committed staff| Time off for project|
+|| Develop motivation strategy based on the results of the ERM survey|Lead- Joint MNS Divisional HR Team|DPS HR|HoDs HoS|PS|July 2018|Oct 2018| Committed staff| Time off for project|
+|| Implement the motivation strategy|Dirs HR|DPS HR|HoDs HoS|PS|Nov 2018|Dec 2019| Committed staff| Time off for project|
+|Strategic Objective 5: Ensure efficient programme and project management systems||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Operationalise the Project Management Dashboard| Establish project management governance structure, policies and standards|Programme Manager|DPS Policy|Dir M & E|PS/Minister|Jun 2018|July 2018| Delays due to competing priorities| Divisional buy-in|
+|| Rollout new project management systems|Programme Manager|DPS Policy|Dir M & E|PS/Minister|Aug 2018|Oct 2018| Delays due to competing priorities  Staffing challenges| Leadership commitment|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 6: Ensure efficient budgeting and procurement systems||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Implement an integrated whole of Ministry procurement system in keeping with Procurement Legislation| Develop a centralized/ joint purchasing/ procurement model/ framework (category management) consistent with MNS needs o Develop work flow process o Customize Handbook|O/C Procurement|Comptroller, Admin Services|Divisional ICT|PS/Minister|October 2017|May 2018| Delays due to competing priorities| Ministry mandate|
+|| Implement new Model  Relocate Unit  Recruit Staff|Procurement U O/C Procurement|Comptroller, Admin Services|Divisional ICT|PS/Minister|Jun 2018|Ongoing| Delays in implementing national oversight body/office  Delays due to competing priorities| GORTT Priority  Ministry mandate  Leadership commitment|
+|Strategic Objective 7: Develop Performance Management Competency across the MNS||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Review and operationalise the MNS individual performance appraisal system| Develop/revise individual performance metrics across the MNS|HoDs/HoS|DPS HR|Dirs HR|PS|Jun 2018|Aug 2018|||
+|| Implement new performance management system metrics|HoDs/HoS|DPS HR|PS|Directors of HR|Sept 2018|May 2019| Lack of final amendments  Lack of resources for training/ coaching| Funding availability of SME to provide training/ coaching|
+|| Monitor & evaluate implemented performance management system|Directors of HR|HoDs/HoS|DPS HR|PS|Jun 2019|On-Going| Lack of implemented performance system  Limited capacity to M&E| Available resources to M&E  Timely implementation of performance management|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 4 - Capacity and Capability Resourcing and Optimisation|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 8: Facilitate cross-functional team development and collaboration||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Institutionalize a / job rotation model for the benefit of the wider Ministry of National Security to maximize the use of resources/ skillsets throughout the MNS| Establish a review committee|DPS HR|PS|HoDs HoS|Relevant stakeholders|Jun 2018|Jun 2018| Lack of collaboration| Executive buy-in|
+|| Develop and approve Job Rotation policy|Lead- Joint MNS Divisional HR Team -|DPS HR|HoDs HoS|Relevant stakeholders|July 2018|Sept 2018| Lack of SMEs  Delay in assessment| Adherence to timely delivery of prior activities|
+|| Conduct assessment and identify the skills gaps|Lead- Joint MNS Divisional HR Team -|DPS HR|HoDs HoS|Relevant stakeholders|July 2018|Dec 2018| Lack cooperation, readily available information| Buy in from HODS, etc.  Information readily available|
+|| Develop and roll-out Job Rotation Plan|Lead- Joint MNS Divisional HR Team -|DPS HR|HoDs HoS|Relevant stakeholders|Jan 2019|Sept 2019|||
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 1: Update disaster policy and legislative framework for DRM||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Develop National DRM Policy and Implementation Plan| Conduct Desk Research  Prepare Project Plan & Cabinet Note|ODPM|DPS HR|Legal / other relevant stakeholders|PS All Stakeholders/ Divisions|Jun 2018|Sept 2018| Lack of Human Resources  Lack of leadership commitment| Engage staff on 3 year contract|
+|| Obtain Cabinet Approval to Initiate project|DPS HR|PS|Legal/ other relevant stakeholders|All Stakeholders/ Divisions|Oct 2018|Oct 2018| Lack of Finance  Protracted Administrative delays| Ensure it is listed on the PSIP|
+|| Contract Consultant|DPS HR|PS|Legal/ other relevant stakeholders|All Stakeholders/ Divisions|Nov 2018|Jan 2019| Lack of Finance  Protracted administrative delays (TOR, procurement, legal, approvals)| Robust TOR  Funds committed|
+|| Draft Policy and Implementation Plan|Consultant|ODPM|All Stakeholders/ Divisions|All Stakeholders/ Divisions|Feb 2019|Jul 2019| Stakeholder resistance  Force majeure  Inadequate communication| Meaningful consultation  Ensure proper communication|
+|| Obtain Cabinet Approval for DRM Policy|DPS HR|PS|Legal/ other relevant stakeholders|All Stakeholders/ Divisions|Aug 2019|Sep 2019| No Cabinet Approval  Administrative Delays| Due diligence be taken in the preparation of policy|
+|2. Develop Legislative Framework for DRM| Engage Chief Parliamentary Counsel to develop legislation to accommodate DRM|Dir. Legal|PS|Other relevant stakeholders|Minister/ All Stakeholders/ Divisions|Oct 2019|To continue into next Op. Phase| Political Will  Administrative Delays Insufficient human resources  Not deemed as priority| Advocacy to ensure it is high on agenda  Foster a risk based culture|
+|3. Realign Divisional Policies to include DRM| Review Divisional Policies to incorporate the strategic DRM policy|HoDs HoS|PS|All relevant Stakeholders|All Stakeholders|Oct 2019|Dec 2019| Lack of buy-in from All Stakeholder / Divisions  Not viewed as a priority| Institutionalize the process of CDM|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 1: Update disaster policy and legislative framework for DRM||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|4. Establish Public-Private Sector Partnership (PPSP) Framework to support the institutionalization and delivery of DRR practices at all levels| Prepare Note to Cabinet|ODPM|DPS HR|All Stakeholders/ Divisions|All Stakeholders|July 2018|Sep 2018| Lack of participation, lack of finances| Robust advertisement campaign|
+|| Obtain Cabinet Approval|DPS HR|PS|Minister|All Stakeholders|Oct 2018|Dec 2018| Lack of human and financial resources| Provision of adequate human and financial resources  Presentation of a persuasive business case|
+|| Roll-out PPP framework|ODPM|DPS HR|All relevant Stakeholders|All Stakeholders/ Divisions|Jan 2019|Mar 2019| Lack of human and financial resources| Provision of adequate human and financial resources|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Strengthen institutional capacities to manage disaster risk||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Strengthen DRM capacity (in coordination and communication)| Conduct national capability and capacity assessment of DRM capacities (Host stakeholder consultations) against adopted national system|ODPM|DPS HR|All relevant Stakeholders|PS/ Minister/ All Stakeholders|Sept 2018|Mar 2019| Lack of participation, lack of finances and human resources| Robust advertisement campaign  Procurement  Availability of required resources  Hire Consultant|
+|| Identify and rank recommendations emerging from the national assessment|ODPM|DPS HR|All relevant Stakeholders|PS/ Minister/ All Stakeholders|April 2019|April 2019| Lack of consensus| Full participatory approach from the start|
+|| Implement recommendations emerging from national assessment|ODPM|DPS HR|All relevant Stakeholders|PS/ Minister/ All Stakeholders|May 2019|To be continued into next Op Phase| Lack of human and financial resources| Provision of adequate human and financial resources|
+|2. Identify and acquire DRM training for key personnel within the National Disaster Management System| Conduct Training Needs Assessment and develop Training Plan|Consultant|ODPM|All Stakeholders|All Stakeholders|Oct 2018|Mar 2019| Lack of finances, competing priorities| Provision of adequate financial resources|
+|| Conduct relevant training|Consultant|ODPM|All Stakeholders|All Stakeholders|April; 2019|To be continued into next Op Phase| Staff movement / reassignment| Continuous training (for additional numbers, refresher)|
+|| Evaluate impact of training|ODPM|DPS HR|All Stakeholders|PS/ Minister/All Stakeholders|Jul 2019|To be continued into next Op Phase| Time allotted to evaluate impact of training| Institutionalize the process|
+|3. Ensure the availability of critical apparatus (tools and equipment) to facilitate efficient disaster risk management activities| Conduct Needs Analysis including Inventory Audit|Consultant|ODPM|All relevant Stakeholders|All Stakeholders|Jun 2018|Dec 2018| Lack of human and financial, competing priorities| Provision of adequate human and financial resources|
+|| Procurement of critical apparatus (apply risk- based method also leveraging economies of scale)|O/C Procurement ODPM|Comptroller Admin|All relevant Stakeholders|All Stakeholders|Jan 2019|Sept 2019| Lack of financial resources, resistance from agencies| Provision of adequate financial resources|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 2: Strengthen institutional capacities to manage disaster risk||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|4. Adapt and institutionalize a National Incident Management System| Develop Preparedness Protocols|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Oct 2018|May 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources, Executive Intervention|
+|| Develop Communications and Information Management Protocols|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Oct 2018|May 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources, Executive Intervention|
+|| Develop Resource Management Protocols|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Jun 2019|Sep 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources, Executive Intervention|
+|| Develop Command and Management Protocols|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Jun 2019|Oct 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources, Executive Intervention|
+|| Institutionalize a National Incident Management System|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Nov 2019|Ongoing| Resistance from Div Heads| Executive Buy-in at NSC level and support; Persuasive communication|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 3: Improve knowledge and understanding of severe hazard and disaster risk||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Improve Disaster Risk Assessment (DRA) and mapping processes| Review and select appropriate DR assessment standards / methodologies|ODPM|DPS HR|All Stakeholders/ Divisions|PS/Minister All Stakeholders|Jun 2018|Dec 2018| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources, Executive Intervention|
+|| Procure DR assessment and mapping tool|ODPM|DPS HR|All Stakeholders/ Divisions|PS/Minister All Stakeholders|Jan 2019|Mar 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Implement DR Assessment standards and train users in use of methodologies and tool|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Apr 2019|Ongoing| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Conduct relevant DR assessments|ODPM Led MNS Team|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Apr 2019|Ongoing| Lack of Authority to instruct stakeholders to comply| Executive intervention|
+|2. Sensitize, educate and train All Stakeholders / Divisions on DRM (Public Sector, Private Sector, Civil Society and General Public)| Develop a robust education (including public awareness) strategy|ODPM Consultant|ODPM|All Stakeholders/ Divisions|All Stakeholders/ Divisions|Jun 2018|Dec 2018| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Roll-out education campaign/strategy|ODPM & TTFS led team|PS Minister|All Stakeholders/ Divisions|All Stakeholders/ Divisions|Jan 2019|Ongoing| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Develop a robust DRM training strategy|ODPM TTFS Consultant|ODPM|All Stakeholders/ Divisions|All Stakeholders/ Divisions|Jun 2018|Dec 2018| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Roll-out robust DRM training strategy|ODPM TTFS Consultant|ODPM|All Stakeholders/ Divisions|All Stakeholders/ Divisions|Jan 2019|Ongoing| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 4: Increase resilience to severe hazards and disasters||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|1. Advocate for enactment of National Building Codes| Host quarterly meetings with stakeholders|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Jun 2018|Ongoing| Lack of priority| Cabinet to prioritize|
+|| Submit at least 2 position papers|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Sept 2018|Jun 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|2. Ensure compliance with relevant codes for existing and new physical infrastructure| Establish linkages & develop operational framework with other stakeholders/Ministries with responsibilities for approvals for structures|ODPM/ TTFS led multi-sectoral team|Legal / other relevant stakeholders|All relevant Stakeholders|PS/Minister All Stakeholders|Jun 2018|Dec 2018| Buy-in from stakeholders;| Executive champion|
+|| Establish & document clear guidelines to govern TTFS access to development plans (proposed, existing and redesign of structures)|Chief Fire Officer|DPS (D & PS)|All relevant Stakeholders|PS/Minister All Stakeholders|Jul 2018|Sept 2018| Resistance from stakeholders| Executive champion|
+|3. Implement an integrated approach for Early Warning Systems in Trinidad and Tobago| Conduct assessment of Early Warning Systems ( in Trinidad and Tobago)|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Jun 2018|Sept 2018| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Implement recommendations from EWS Assessment Report|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Oct 2018|To go into next Op Phase| Lack of Cabinet Approval| High priority by Cabinet|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+|STRATEGIC IMPERATIVE 5 - Hazard Resilience|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Strategic Objective 4: Increase resilience to severe hazards and disasters||||||||||
+|Major Initiative|Detailed Task Information|R|A|C|I|Start Date|Due Date|Major risks/obstacles|Risk Mitigators|
+|4. Develop a National Critical Information Infrastructure Protection Policy| Engage SME|DPS HR|PS|Executive ICT Heads|All Stakeholders/ Divisions|Jun 2018|Aug 2018| Executive buy-in| Early engagement of executives|
+|| Conduct Gap Analysis of critical information infrastructure vulnerability|Lead- Multi- sectoral Team|DPS HR|All relevant ICT Stakeholders|PS/Minister All Stakeholders|Sept 2018|Nov 2018| Lack of collaboration| Extensive consultation|
+|| Design Policy based on Gap Analysis:|Lead- Multi- sectoral Team|DPS HR|All relevant ICT Stakeholders|PS/Minister All Stakeholders|Dec 2018|Feb 2019| Inadequate information| Rigorous quality controls for information collection and reporting|
+|5. Develop and implement Critical Infrastructure Protection Strategy| Engage stakeholders|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Mar 2019|Jun 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Convene Sector Working Groups|ODPM|DPS HR|All relevant Stakeholders|PS/Minister/ All Stakeholders|July 2019|Aug 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Define information sharing protocols|ODPM|DPS HR|All relevant Stakeholders|PS/Minister All Stakeholders|Sept 2019|Nov 2019| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+|| Perform national Critical Facilities protection risk assessments|Consultant|ODPM|All relevant Stakeholders|PS/Minister/ All Stakeholders|Dec 2019|To go into next Op Phase| Lack of human and financial resources, competing priorities| Provision of adequate human and financial resources|
+
+
+-----
+
+_Updated: March 5[th], 2018_
+
+
+**RACI GLOSSARY**
+
+AG Attorney General
+
+CoP Commissioner of Police
+
+CoPr Commissioner of Prisons
+
+DCoP Deputy Commissioner of Police
+
+DCoPr Deputy Commissioner of Prisons
+
+Dir Comm. Director, Communications
+
+Dir(s). HR Director(s), Human Resources
+
+Dir. INTAF Director, International Affairs Unit
+
+Dir. Legal Director, Legal
+
+Dir. M & E Director, Monitoring and Evaluation
+
+Dir. SSA Director, Strategic Services Agency
+
+Dir. TTFSC Director, Trinidad and Tobago Forensic Science Centre
+
+Div. Comm. Officers Divisional Commanding Officers
+
+DPS Deputy Permanent Secretary
+
+DPS Admin Deputy Permanent Secretary - Administration
+
+DPS HR Deputy Permanent Secretary – Human Resources
+
+DPS Policy Deputy Permanent Secretary - Policy
+
+DPS (D & PS) Deputy Permanent Secretary – Defence & Protective Services
+
+EM Employee Management
+
+EMU Electronic Monitoring Unit
+
+GA General Administration
+
+HOD(s) Head(s) of Division(s)
+
+HOS(s) Head(s) of Section(s)
+
+HR Human Resources
+
+ICT Information and Communication Technology
+
+ICTU Information Communication and Technology Unit
+
+M&E Monitoring and Evaluation
+
+Mgr Comm Manager Communications
+
+MNS Ministry of National Security
+
+NCPP National Crime Prevention Programme
+
+ODPM Office of Disaster Preparedness and Management
+
+PMCD Public Management Consulting Division
+
+PMU Project Management Unit
+
+PRTU Penal Reform Transformation Unit
+
+PS Permanent Secretary
+
+SME(s) Subject Matter Expert(s)
+
+SSA Strategic Services Agency
+
+TTDF Trinidad and Tobago Defence Force
+
+TTFS Trinidad and Tobago Fire Service
+
+TTFSC Trinidad and Tobago Forensic Science Centre
+
+TTPS Trinidad and Tobago Police Service
+
+TTPrS Trinidad and Tobago Prison Service
+
+
+-----
+

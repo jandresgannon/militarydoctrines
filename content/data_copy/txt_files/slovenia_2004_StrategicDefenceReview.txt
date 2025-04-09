@@ -1,0 +1,2909 @@
+**Republic of Slovenia**
+**Ministry of Defence**
+
+# STRATEGIC DEFENCE REVIEW
+ Comprehensive Summary
+
+**Ljubljana, May 2004**
+
+
+-----
+
+Editor and Publisher: Republic of Slovenia
+Ministry of Defence
+
+Print: Birografika BORI, d.o.o.,
+Ljubljana
+
+CIP - Kataložni zapis o publikaciji
+Narodna in univerzitetna knjižnica, Ljubljana
+
+355.02(497.4)
+
+STRATEGIC defence review : comprehensive summary. Ljubljana : Ministry of Defence, 2004
+
+ISBN 961-228-046-0
+
+214086144
+
+
+-----
+
+**CONTENTS**
+
+MINISTER’S ADDRESS ............................................................................ 6
+1 INTRODUCTION .................................................................................. 7
+1.1 Purpose of defence reforms .............................................. 7
+1.2 Process of defence reforms ............................................... 7
+1.3 Key starting points of the Strategic Defence Review ...... 8
+2 CHANGES IN THE STRATEGIC ENVIRONMENT ......................................... 9
+2.1 Living environment ........................................................... 9
+2.2 Economic and social environment ................................. 10
+2.3 Information technology environment ..............................11
+2.4 Political environment ...................................................... 12
+2.5 Military environment ...................................................... 14
+2.6 Threats to the national security of the Republic
+of Slovenia ....................................................................... 16
+3 NATIONAL SECURITY AND DEFENCE POLICY OF THE REPUBLIC
+OF SLOVENIA ................................................................................ 17
+3.1 National security policy ...................................................17
+3.2 Defence policy ................................................................ 18
+3.2.1 Multinational integration and cooperation ........... 18
+3.2.2 Participation in international operations .............. 23
+3.2.3 Defence planning ................................................... 24
+3.2.4 Defence resources.................................................. 25
+4 STRATEGIC VISION TO 2015 .............................................................. 27
+4.1 Strategic environment of the Republic of Slovenia ....... 27
+4.2 Security policy of the Republic of Slovenia ................. 28
+4.3 Defence policy of the Republic of Slovenia................... 29
+4.3.1 Defence planning ................................................... 29
+4.3.2 Defence resources and key capabilities ................ 30
+5 SLOVENIAN ARMED FORCES ............................................................. 34
+5.1 Purpose of the SAF ......................................................... 34
+5.2 Tasks of the SAF ............................................................. 34
+5.3 Scale and structure of the SAF ....................................... 35
+5.4 Key challanges ................................................................ 37
+5.5 Development assumptions .............................................. 38
+
+
+-----
+
+5.6 Key development principles and development
+of SAF capabilities .......................................................... 38
+5.7 Long-term SAF capabilities 2015 ................................... 39
+5.8 Capabilities and envisaged structure of the
+SAF in 2010 ......................................................................41
+5.9 Modernisation of military capabilities ........................... 42
+5.10Key development challenges and priorities.................... 42
+6 CIVIL DEFENCE AND CRISIS MANAGEMENT .......................................... 44
+6.1 Purpose ............................................................................ 44
+6.1.1 Civil defence .......................................................... 44
+6.1.2 Crisis management ................................................ 44
+6.2 Tasks ................................................................................ 45
+6.2.1 Civil defence .......................................................... 45
+6.2.2 Crisis management ................................................ 46
+6.3 Planning assumptions...................................................... 47
+6.4 Key development principles............................................ 48
+6.5 Modernisation ................................................................. 49
+6.6 Key development challenges .......................................... 49
+7 INTELLIGENCE AND SECURITY ACTIVITIES ........................................... 51
+7.1 Purpose ............................................................................ 51
+7.2 Tasks ................................................................................ 51
+7.3 Planning assumptions...................................................... 52
+7.4 Key development principles............................................ 52
+7.5 Modernisation ................................................................. 52
+7.6 Key development challenges .......................................... 52
+8 LOGISTIC ................................................................................ 54
+8.1 Purpose ............................................................................ 54
+8.2 Tasks ................................................................................ 54
+8.3 Key challenges ................................................................ 54
+8.4 Planning assumptions and key development
+principles ......................................................................... 55
+9 COMMUNICATIONS AND INFORMATION SYSTEM ................................... 56
+9.1 Purpose ............................................................................ 56
+9.2 Tasks ................................................................................ 56
+9.3 Key development challenges and goals .......................... 56
+
+
+-----
+
+10 HUMAN RESOURCE MANAGEMENT .................................................... 60
+10.1 Purpose ........................................................................... 60
+10.2 Scale and structure of human resources ........................ 60
+10.3 Human resource development ........................................61
+10.4 Establishing a modern personnel function .....................61
+10.5 Overall development of human resources and
+human capital ................................................................. 62
+11 ORGANISATIONAL STRUCTURE OF THE MOD ..................................... 64
+11.1 Characteristics ................................................................ 64
+11.2 Future.............................................................................. 65
+11.3 Administrative territorial organisation .......................... 66
+12 Conclusions ................................................................................ 69
+
+
+-----
+
+**MINISTER’S** **ADDRESS**
+
+Dynamic changes in the security environment, membership of the EU and
+NATO and the professionalisation of the Slovenian Armed Forces have all
+lead to the need for a rational modification of Slovenia’s national security
+and national defence system.
+
+Radical changes in security are the result of internal and external security
+issues, while the consequential reform of the defence sector is aimed at
+improving the efficiency and effectiveness of the defence system.
+
+Defence reforms must follow from a comprehensive analysis of all the elements
+related to defence and the current status of the defence system. A decision
+was therefore taken to conduct a Strategic Defence Review which would
+include long-term guidelines and a vision of the defence system up to 2015.
+
+Development of the defence system must take into account new circumstances
+and changes in the international security environment as well as national
+interests, goals and available resources.
+
+The effectiveness of the defence reforms and the systematic transformation
+of the Slovenian Armed Forces into a professional force depend on sufficient
+financial resources being made available. Similarly important is functional
+professionalisation which requires a holistic and coherent structure relating
+to organisation, processes, values and motivation.
+
+The importance of the Strategic Defence Review lies in the linkage between
+theoretical assumptions relating to national security and defence, and practical
+experience. The document is at the same time general and focused on the
+long-term, but also practical with short-term orientations.
+
+The Strategic Defence Review has given us the relevant basis for an extensive
+and thorough analysis of the further development of the Slovenian Armed
+Forces and of the defence system. It has also defined a firm basis for further
+implementation of the defence reforms and strong guarantees for matching
+defence reforms with available resources and the new security challenges.
+The resulting defence system will enable the development of well trained,
+motivated and combat capable defence forces which will be able to carry out
+all types of missions and tasks.
+
+As the Strategic Defence Review is successfully brought to a conclusion, the
+necessary defence reforms must now take a place.
+
+**Dr. Anton GRIZOLD**
+
+
+**Minister of Defence**
+
+
+-----
+
+**1 INTRODUCTION**
+
+**1.1 Purpose of defence reforms**
+
+Defence reforms are a necessary consequence of changes in the external and
+internal factors which have affected, or will affect, the operation and
+effectiveness of the defence system. Defence reforms have been under way
+for some time, and with changes in national goals, availability of resources
+and threats to national interests, we now need to carry out a Strategic Defence
+Review which will result in orientations being set for further implementation
+of reforms in the defence field.
+
+In the past decade many changes have occurred in the security environment,
+and with its accession to NATO and the European Union in 2004 Slovenia is
+taking on a growing obligation in relation to the controlling and shaping of
+these changes. The key changes in external factors are the increasingly diverse,
+unpredictable and constantly changing international environment, the ever
+more frequent and intensive regional and local conflicts, and the changing
+nature and priorities of security risks and threats (particularly since 11
+September 2001).
+
+The changes in the environment necessitate a thorough consideration of the
+new mission, tasks and capabilities of the defence forces of the Republic of
+Slovenia (Slovenian Armed Forces or “SAF”), and Slovenia’s entire defence
+system will need to adapt to these changes. The main goal of the defence
+reforms is to form and provide trained, motivated, combat-ready and
+interoperable defence forces which, under clear leadership that is changeoriented and based on knowledge, experience and positive tradition,
+supplemented by modern doctrine and technology, will effectively pursue
+clear strategic goals. This is what the defence forces of the Republic of Slovenia
+must be if they are to be recognised as trustworthy at home and abroad and
+capable of fulfilling their national and international role.
+
+**1.2 Process of defence reforms**
+
+The Strategic Defence Review is the basis for the implementation or
+continuation of defence reforms. In the review we set out the long-term
+strategic goals, founded on national interests but balanced by membership of
+NATO, and the required capabilities and force structure, as well as the
+intermediate goals leading to their achievement. The review is the basis for
+determining competencies and responsibilities in the defence system, priority
+activities and the resources for achieving the goals. It is essential that the
+activities and resources enable achievement of the desired strategic results as
+far as ensuring national security is concerned.
+
+
+-----
+
+On the basis of the results of the Strategic Defence Review, the defence reforms
+carried out will include changes to the defence strategy and plans, the
+capabilities and structure of the SAF and the related manning, modernisation,
+infrastructure, doctrine and training. The implementation of the defence
+reforms also encompasses financial and human resource management,
+armaments and military equipment, as well as the other parts of the defence
+system.
+
+**1.3 Key starting points of the Strategic Defence Review**
+
+1. The national security environment is exposed to new and changed risks
+and threats which represent the main challenge to the security of the
+Republic of Slovenia, while the likelihood of a military threat remains
+relatively small.
+
+2. The strategic assessment of the security environment dictates the need
+for a security and defence policy that will form a suitable basis for the
+effective operation of the defence system, and the SAF in particular, in
+preventing and managing crises and conflicts, and also the basis for
+activities within alliances and coalitions.
+
+3. With a view to strengthening national security and reducing exposure to
+risks, Slovenian defence policy is oriented towards an active and
+constructive role, particularly within the various bodies of the United
+Nations, NATO and the European Union. International organisations will
+continue to have a key role in the stabilisation of the Euro-Atlantic security
+environment.
+
+4. The transformation of the SAF must take into account the need for a
+balance between mission, tasks, modernisation (equipment) and resources.
+The priority tasks of the SAF and its capabilities need to be determined
+in relation to the changes in the security environment and the availability
+of financial resources.
+
+5. Participation by the SAF in international operations, particularly in crisis
+response operations, requires them to be operationally trained and
+prepared and able to make forces available. These forces must be capable
+of operating in joint international operations together with other armed
+forces.
+
+6. In accordance with legislation, by 2003 the conscript system for manning
+in the SAF had already largely been replaced by professional recruitment.
+Also introduced were contractual reserves, which in accordance with the
+legislation will continue to be supplemented with compulsory reserves
+until 2010 at the latest.
+
+
+-----
+
+**2 CHANGES** **IN** **THE** **STRATEGIC** **ENVIRONMENT**
+
+The strategic environment is characterised by a high degree of complexity,
+instability and changeability and a growing number of low-intensity conflicts.
+In the past decade conflicts have been dominated by ethnic and border disputes,
+which are frequently incited and accompanied by political, economic and
+social destabilisation of environments.
+
+Potential points of conflict in our immediate region and beyond are the
+Balkans, the Middle East and the Caucasus. In Slovenia’s strategic
+environment the majority of sources of threat are asymmetric. The importance
+of traditional military threats is declining, although they cannot be entirely
+ruled out. While military sources of threat are limited, non-military sources
+of threat are becoming ever more frequent, with terrorism, drug trafficking,
+organised crime and weapons of mass destruction particularly notable. The
+appropriate response to asymmetric threats lies in forming a unified and
+integrated national security system, incorporated into both the collective
+defence system and the collective security system, with the key elements of
+the power of the state needing to be used effectively to ensure political,
+diplomatic, economic, information and military security.
+
+Slovenia needs to set up a responsive national security system, including the
+defence system as part of it, which will be able to adapt effectively to frequent
+and intensive changes in the strategic environment and reduce the possibility
+of crises occurring, and which will be able to respond decisively and
+successively to negative developments that may lead to a state of emergency.
+
+As the strategic environment changes, so too does the range of military tasks
+undertaken by the SAF. In peacetime its tasks will be dominated by various
+forms of exercise and training, providing assistance in the event of natural
+and other disasters, participating in crisis response operations and tasks
+connected with supporting other governmental agencies and organisations in
+ensuring the security and welfare of the citizens of the Republic of Slovenia.
+The range of military tasks in wartime will be wider, and the unpredictability
+and range of operational tasks will be increased.
+
+**2.1 Living environment**
+
+A healthy and stable living environment is an essential precondition for
+ensuring an appropriate level of general (national) security. The living
+environment is a complex structure that has a decisive impact in ensuring the
+various aspects of security – global, international, regional, national and even
+individual – as it determines the possibilities for development and defines
+relations both in the international community as well as at the regional and
+national levels. At the same time it also has a strong influence on the personal
+development of the individual and the development of society as a whole, as
+well as general social welfare.
+
+
+-----
+
+Both the natural environment and all the interferences and activities of man
+within the environment have an impact on the guaranteeing of security. General
+social and technological development has further increased the importance
+of these factors. As society in general has developed, so the dependence of
+the individual, society, the state and also the international community on the
+state of the environment has increased. At the same time we need to
+acknowledge the fact that in an absolute sense dependence and vulnerability
+resulting from the natural environment remain high.
+
+The social environment has developed in parallel with technological
+development, including the aspect of guaranteeing greater human security.
+General social progress and prosperity also directly increase the level of
+security. At the same time this same environment represents new sources of
+threat which result from man’s interference and activities in the environment.
+In particular, the possibility of planetary destruction in the event of global
+nuclear conflict has increased, as has the possibility of technological and
+other disasters.
+
+As far as national security is concerned, the natural environment is important
+primarily because it represents a source of many natural disasters, such as
+earthquakes, landslides, floods and so on.
+
+But the threat from technological and other disasters is also important,
+including those that can have cross-border effects, and therefore in the future
+Slovenia will have to continue to pay close attention to this aspect of
+guaranteeing national security.
+
+The living environment will always represent an essential security element,
+and with the changing strategic environment will continue to have a decisive
+influence on the guaranteeing of national security in the future.
+
+**2.2 Economic and social environment**
+
+The economic and social environment, its laws, characteristics and
+phenomena, directly affect and shape the political and security processes,
+and therefore we treat this environment as an essential element as far as
+guaranteeing security is concerned. Following the end of the cold war era,
+with an increasing trend towards the demilitarisation of the sources of threat,
+it has been the social and economic aspects of security that are becoming
+increasingly important to the preservation of general (national) security.
+
+In this era of globalisation, countries’ economies are becoming increasingly
+connected and inter-dependent, and thus more sensitive to global economic
+trends. The Republic of Slovenia must therefore actively endeavour to ensure
+stability in the region and beyond, because stability in the regional and global
+economic environment has a positive impact on the country’s economy.
+
+
+-----
+
+Slovenia is also actively working to achieve a stabilisation and strengthening
+of the social environment in the region, as greater social security in the region
+means greater security for the Republic of Slovenia and a reduction in nonmilitary sources of threat to our country. The security and stability of the
+economic and social environment is dependent on a large number of mutually
+related factors. Therefore it is essential as far as regional stabilisation is
+concerned that appropriate social patterns based on mutual tolerance and
+modern civilised values develop alongside the development of the economy
+and general social well-being.
+
+Slovenia’s membership of the EU will certainly have positive effects that will
+strengthen the capacity of the Slovenian economy. And membership of NATO
+also has a positive impact on our economic strength and on the economic and
+political standing of Slovenia in the international environment. These effects
+will be mainly medium and long term, and dependent above all on the
+preparedness of the Slovenian economy.
+
+The expansion of markets and the opening up of Slovenia’s economy are also
+increasing the danger and the possibility of economic destabilisation in
+Slovenia resulting from economic shocks in the international market. Although
+extreme forms of economic threat (boycotts, blockades, industrial sabotage)
+to Slovenia on a large scale are unlikely at the present time, they nevertheless
+have to be prepared for.
+
+Slovenia must seek to formulate a social policy that guarantees social security
+for all its inhabitants. The key elements of such a policy are socially oriented
+education and health systems and an effective policy to reduce unemployment.
+
+In the future the Ministry of Defence (MoD) and in particular the SAF will be
+among the country’s bigger consumers, and also one of the bigger employers,
+and one which will have an impact on both economic dimensions (e.g.
+promoting research and development and production for specific purposes)
+and social dimensions (e.g. employment).
+
+**2.3 Information technology environment**
+
+General technological advancement, and in particular the development of
+digital technology, over the last twenty years has dictated the transition from
+an industrial society to an information society in which new forms of
+communication, business, management, education and training are being
+introduced. The information technology environment is one of the fastest
+developing environments. It has a complex social impact because the pace at
+which it is developing and the numerous innovations force us to make rapid
+changes in many areas of human activity, and thus it has a decisive role in
+helping to shape changes in the security and defence field too.
+
+
+-----
+
+In today’s world the timely possession and management of relevant information
+is of critical importance. All social systems and the whole of public life are
+becoming vitally dependent on information technology.
+
+Information technology is also essential for management of the defence system,
+as up-to-date collection and rapid processing of data mean successful planning
+and correct decision-making. A modern information technology environment
+also dictates the adaptation of the armed forces and thoroughly redefines the
+nature of warfare. Theatres of war have become digitalised, and weapons
+systems are increasingly automated. In the forefront is the development of
+modern, computer-supported weapons systems and command and control
+systems.
+
+Incursions into information systems, blocking of entire systems, unauthorised
+access, alteration or destruction of data, and dissemination of inaccurate,
+incorrect or misleading information are new forms of threat made possible by
+the use (or abuse) of information systems. Therefore the formation of
+information systems that will enable integration and adequate protection and
+security of all their elements is extremely important for the national security
+system.
+
+Control and adequate protection of the information technology environment
+is extremely important as far as guaranteeing national security is concerned
+because otherwise the positive effects of information technology development
+can have very negative effects on national security.
+
+**2.4 Political environment**
+
+With the globalisation of economic and political relations comes security,
+defence and military globalisation too. Security threats today are becoming
+ever more unpredictable, asymmetric and trans-national. Already they are
+too complex for the security and defence capabilities of individual countries.
+Because of the complexity and unpredictability of the sources of threat and
+the limited nature of national resources, in the future political and security
+environment countries will be increasingly compelled to strengthen
+international cooperation and integration in the fields of security and defence.
+
+Therefore, with the aim of ensuring its own national security and consolidating
+peace, security and stability in the international community, Slovenia will
+continue to develop its own national security system. It will supplement and
+enhance the effectiveness of its national security system by means of active
+cooperation in systems of collective security (UN, OSCE) and collective
+defence (NATO) and the EU, and through inclusion in regional security
+initiatives where appropriate.
+
+
+-----
+
+The United Nations represents one of the foundations for the management
+and regulation of international political and security issues and challenges.
+Although questions are often asked about its effectiveness and the need for
+reform, its size in terms of membership and the nature of the tasks it carries
+out make the UN an invaluable organisation. The UN is the only global
+organisation tackling security and other issues in the international community
+at such a high level.
+
+Membership of the EU and NATO are of particular importance to Slovenia as
+they represent the strategic mechanisms for ensuring a stable and secure
+environment which will enable the peaceful development of the country.
+
+Changing political and security circumstances mean NATO too is undergoing
+intensive change. In order to confront today’s security threats NATO must be
+capable of effective command of military operations outside the territory of
+its member states. Both for NATO and for its individual members this
+represents a new political and military challenge. Processes currently
+underway within the Alliance point to a determination to set up the force
+structure and capabilities necessary to implement the aforementioned tasks
+while retaining its status as a credible military force in the international
+environment. At the same time it should be stressed that Slovenia and the
+other future NATO members are already actively cooperating to develop the
+joint capabilities of the Alliance and as a result are to a certain extent already
+included in the formation of joint capabilities. Slovenia will continue the
+restructuring of the SAF so that, together with the Allies, it will be able to
+participate as effectively as possible in ensuring peace, security and stability
+in the international community, including collective defence tasks.
+
+In the international security and defence environment the EU is also having
+an increasing presence, and is expressing a clear interest in forming its own
+military capabilities which it would use in cases where it wished to carry out
+or lead military operations outside the framework of the Alliance. Slovenia
+will be actively involved in the processes of closer European defence
+cooperation, on the evident assumption that this will not mean a duplication
+of existing NATO capabilities. The formation of European military capabilities
+is still only in the initial phase, and the full realisation of this project will first
+of all require a general political consensus among the EU members as to its
+content and scale. For Slovenia it is particularly important that joining NATO
+and the EU will further strengthen its security position and increase its
+possibility of influencing political and security processes in the international
+community.
+
+Another organisation of particular importance as far as the stabilisation and
+strengthening of positive international relations and ensuring international
+
+
+-----
+
+security are concerned is the Organisation for Security and Cooperation in
+Europe (OSCE). The OSCE has played a very active role in the former
+Yugoslavia and directly contributed to the stabilisation of the security situation
+in Slovenia’s immediate neighbourhood. In the future the OSCE will continue
+to be present primarily in areas where there is inadequate political, economic
+and social stability and where preventive political measures are required to
+ensure stability.
+
+In South-East Europe, despite a consolidation of the security situation, the
+need for active reduction and prevention of tension will continue in the future.
+Preserving the stable peace in the region will be achievable with a
+strengthening of cooperation together with a continuing visible passive and
+also, where necessary, active military presence of the international community.
+Incorporating the countries of East and South-East Europe into West European
+international economic, political-security and defence integrations will
+contribute to reducing instability in this region. Nevertheless, instability and
+tension in South-East Europe and its margins will remain a potential source
+of threat to European security and hence to the security of the Republic of
+Slovenia. A definitive settling and stabilising of the political and security
+situation in the former Yugoslavia and the wider region is of vital importance
+for Slovenia. It is very much for this purpose that Slovenia is highly active in
+the Stability Pact for South-East Europe. By continuing to make an active
+contribution to a normalisation of relations in the region, which is not limited
+solely to political and economic mechanisms but also includes a military
+presence, Slovenia is directly strengthening its own security position and
+reputation in the international community.
+
+**2.5 Military environment**
+
+The role and significance of the military environment have changed greatly
+since the end of the bipolar global division. In the forefront now are different
+sources of threat which in the past were pushed into the background. The
+armed forces of the advanced industrial nations have brought what was the
+primary task of protecting national and Allied territory into line with changes
+in the strategic environment. As well as preventing and managing conflicts
+outside the national territory and Allied territory, armed forces today are
+managing crisis and post-crisis environments and providing assistance in the
+elimination of non-military sources of threat.
+
+In the future, basic sources of security threat will come from politically,
+socially, economically and ecologically destabilised areas, terrorist
+organisations and international organised crime groups, mass migration,
+proliferation of weapons of mass destruction and so on. Armed forces too
+will be more involved in controlling these threats, and because of the
+
+
+-----
+
+globalisation of the sources of threat they will be obliged to carry out combined
+and joint international operations. Only multipurpose security and defence
+forces will be able to adapt rapidly to the changing content and dynamics of
+developments in the security environment.
+
+The main principles of the (combat) operations of armed forces in the future
+will be:
+– rapid reaction, i.e. the ability to react to a crisis as quickly as possible;
+– deployability, i.e. the ability to reach a crisis area in the shortest possible
+time and be capable of (combat) operations as soon as possible;
+– sustainability, i.e. the ability to carry out tasks independently and effectively;
+– diversity, i.e. the ability to carry out the entire range of tasks, or as full a
+range as possible;
+– survivability, i.e. the capability to defend one’s own forces;
+– resilience, i.e. resistance to various forms of attack and the capability of
+long-term operation and performance of various tasks.
+
+Preparations for (combat) operations of the armed forces in the future will
+require thorough changes in exercises, management training, development of
+concepts and doctrines and development and introduction of new (combat)
+equipment. Modern armed forces will be capable of operating in very diverse
+weather conditions and in very diverse terrains where the enemy may use
+conventional and unconventional forms of warfare. Unconventional,
+asymmetric warfare and system-against-system warfare are taking the place
+of conventional forces-against-forces warfare.
+
+In line with changes in the strategic environment, which is increasingly being
+defined by a high degree of dynamism and unpredictability of events, the
+SAF will have to be capable of adapting, operating and responding to both
+conventional and unconventional types of national security threat. The SAF
+will develop and maintain adequate capabilities for deterring conventional
+and unconventional types of threat to national security interests, for effective
+national defence, participation in alliances and coalitions, and in civil
+protection and disaster relief.
+
+SAF units will have to be modular and adaptable to different tasks and
+requirements, capable of joint and simultaneous operation with other units
+and linked to a modern information system. This will provide SAF units with
+greater knowledge of battlefield developments and enable simultaneous
+operations against the enemy. In the future SAF units will have to be capable
+of integrated operation in the international environment.
+
+
+-----
+
+**2.6 Threats to the national security of the Republic of Slovenia**
+
+Slovenia enjoys a relatively high degree of security in a relatively unstable
+regional and international environment in which, like other advanced industrial
+nations, it may in the future be increasingly exposed to asymmetric, nonmilitary security risks and threats. Slovenia recognises that its small size and
+limited resources mean that it cannot on its own guarantee an effective and
+self-sufficient national security system, and therefore it strengthens it through
+integration in collective security and collective defence systems.
+
+Among the most obvious forms of threat to the national security of the Republic
+of Slovenia in the forthcoming period are international organised crime, illegal
+migration, international terrorism and the spread of weapons of mass
+destruction. Therefore we need to further improve the coordination and
+integration of security and defence structures to meet such threats and for this
+purpose to supplement the regulatory, technical and other solutions. In terms
+of substance these are traditional security problems but ones which, because
+of their growing dimension and intensity, may in specific circumstances also
+require the cooperation of defence structures to a certain limited extent.
+
+In general, all the most current forms of security risk and threat are
+transnational. As a result, international cooperation, including participation
+in the collective security and collective defence system, is an increasingly
+indispensable part of preventing and controlling such risks.
+
+A condition for successful prevention, limitation and control of modern-day
+security risks and threats is their constant and comprehensive monitoring and
+evaluation, which in the defence field must always be followed by timely and
+appropriate adaptation of military and non-military mechanisms and
+instruments.
+
+
+-----
+
+**3 NATIONAL** **SECURITY** **AND** **DEFENCE** **POLICY** **OF** **THE REPUBLIC** **OF SLOVENIA**
+
+**3.1 National security policy**
+
+The national security policy is a balanced set of activities and programmes
+comprising, in particular, foreign, defence, economic, environmental, social
+and cultural policies. The most important goal of national security policy,
+deriving from the permanent vital and strategic interests and values of the
+Republic of Slovenia, is to ensure the security of the Republic of Slovenia, to
+protect and preserve the national identity and to cooperate in the strengthening
+of peace, security and stability at the regional and global levels. For the purpose
+of achieving this goal Slovenia is actively participating in regional and global
+security institutions such as the UN, NATO, the EU and the OSCE.
+
+Slovenia’s foreign policy goals, including consolidation of the country’s
+international position and reputation, good and stable relations with its
+neighbours, membership of the EU and NATO, membership of the OECD,
+active participation in the UN, the OSCE and the WTO, closer cooperation
+with the countries of Central Europe in the Central European Initiative, active
+participation in the stabilisation of South-East Europe and strengthening
+economic cooperation, to an important extent directly determine the national
+security policy of the Republic of Slovenia.
+
+As a small country with limited resources, Slovenia must ensure its longterm security primarily through constructive cooperation with its neighbours
+and inclusion in the Euro-Atlantic integrations. Slovenia is endeavouring to
+establish and strengthen relations with countries in the region and beyond
+based on mutual trust and intensive, multifaceted cooperation. The changing
+strategic environment and the unpredictability of security risks and threats
+mean that national security policy must put in place effective security
+mechanisms and instruments for ensuring an adequate level of national and
+international security.
+
+In view of these circumstances, the main strategic goals of national security
+policy in the future will be:
+– to ensure national integrity and prosperity by means of an active role in the
+international community and in the globalised world;
+– protection and preservation of the national identity;
+– to pursue Slovenia’s interests through a system of democratic decisionmaking;
+– active participation in the NATO Alliance;
+– cooperation in the European Security and Defence Policy (ESDP);
+– cooperation in the OSCE and, in particular, in the UN which, as well as
+ensuring national security, also makes an important contribution to
+
+
+-----
+
+protection of human rights, respect for international law, ensuring
+international economic and social development, protection of natural
+resources and reducing class divisions in society;
+– preventing and tackling crises, mutual assistance in the event of natural
+and other disasters, and carrying out joint international humanitarian and
+relief activities.
+
+**3.2 Defence policy**
+
+As part of the national security policy, the defence policy of the Republic of
+Slovenia comprises plans, programmes and activities enabling the defence of
+the state using the country’s own defence capabilities and in cooperation with
+Allies.
+
+With membership of NATO and the EU, the security and defence of Slovenia
+are no longer just national issues but become an integral part of European
+and international security and defence. The security and defence of the
+Republic of Slovenia are thus also ensured in the wider international arena.
+
+The active presence of Slovenian military capabilities in international peace
+support operations is therefore becoming an important element of our foreign
+policy. This approach requires the defence system to be transformed into a
+modern, responsive and internationally interoperable system.
+
+Slovenian defence policy today is determined by three factors:
+– the multinational integration and cooperation of the SAF in Euro-Atlantic
+security integrations;
+– the increased scale of participation in international operations;
+– defence planning in line with available defence resources.
+
+**_3.2.1 Multinational integration and cooperation_**
+
+_3.2.1.1 United Nations_
+
+In the 21[st] century the United Nations will continue to have an important role
+and importance in preserving international peace and security. UN-led peace
+support operations are taking on a new image as the UN is increasingly
+becoming involved in conflict prevention operations comprising both political
+and military activities.
+
+In April 2003 Slovenia signed a Memorandum of Cooperation with the
+Multinational United Nations Stand-by Forces High Readiness Brigade
+(SHIRBRIG), to which it has committed a detachment of military police and
+appointed one officer as a non-permanent member of the command.
+
+
+-----
+
+_3.2.1.2 NATO_
+
+At the Prague summit Slovenia was invited to begin negotiations leading to
+its accession to the North Atlantic Treaty. During its accession negotiations
+the Republic of Slovenia formally confirmed its readiness and capability to
+assume the political and military obligations and commitments arising from
+the North Atlantic Treaty, the Study on NATO Enlargement and the entire
+political and legal acquis of NATO, including the policy of NATO and of
+third countries.
+
+Slovenia will ensure sufficient budgetary resources for implementing its
+membership obligations in the Alliance. Slovenia will make a contribution to
+the joint civil and military budget and to the NATO Security Investments
+Programme based on the proposed criteria, according to which Slovenia’s
+share is 0.26% and 0.3018% (for activities in which France does not
+participate).
+
+Slovenia recognises and accepts the fact that the Alliance acts on the basis of
+common positions and the principle of unanimity, and will endeavour to
+achieve unanimity within the Alliance.
+
+Separately from the accession discussions that dealt with the formal obligations
+of full membership, Slovenia also took account of the Allies’ advice and drew
+up a timetable for implementation of defence reforms. This comprises tasks
+which will enable Slovenia to make a suitable contribution to the Alliance
+and in connection with which NATO expects Slovenia to make further progress
+before it joins the Alliance. Slovenia joined NATO on 29 March 2004.
+
+Membership of NATO has further accelerated certain areas of defence reform
+and created numerous additional responsibilities and obligations connected
+with the implementation of collective defence and cooperation with the Allies.
+
+We have adopted the relevant legislation for cooperation in collective defence,
+which provides an appropriate statutory basis for participation by Slovenian
+forces abroad and also enables Allied forces to enter Slovenia. With full
+membership of NATO Slovenia will introduce defence planning that is
+comparable with NATO defence planning. Slovenia is also introducing
+corporate planning, an improved system of defence resource management
+and planning, and an annual review of the success of the implementation of
+its plans. As part of this process, a two-year national budget has already been
+brought in.
+
+For the requirements of NATO’s military capabilities, as expressed in Force
+Goals, Slovenia will provide a motorised infantry company with rotation
+capability for cooperation in all NATO tasks, with limitations relating to air
+defence and communications. By the end of 2006 we will be capable of
+
+
+-----
+
+providing a motorised infantry battalion. By the end of 2009 we will be able
+to provide a fully deployable and supported battalion combat group, and by
+the end of 2012 a fully deployable and supported battalion combat group
+with rotation capability. In agreement with the Alliance, Slovenia will also
+develop other capabilities: NBC defence, Host Nation Support, military police,
+communications and information and systems support.
+
+As far as guaranteeing airspace sovereignty is concerned, the initial operability
+of the operations centre has been upgraded by full membership of NATO, so
+that we will be ready to carry out urgent measures to ensure interoperability
+of airspace control with NATO’s integrated air defence system (NATINEADS).
+We will also upgrade the communications system for voice and data transfer.
+A Host Nation Support system for Allied forces will put in place. Military
+education and training will be brought into line with NATO strategy, doctrines,
+procedures and standards – reaction force units are already being drilled in
+accordance with these principles. To meet the need for alignment with the
+Alliance, we will be training units of the main defence forces in accordance
+with the common doctrine and procedures of NATO by the end of 2005, and
+the other units of the SAF by the end of 2007. By the end of 2003 arrangements
+were in place for personnel to have the appropriate language skills for carrying
+out routine work on NATO-related matters.
+
+Slovenia will maintain defence spending at a level which will ensure continued
+implementation of defence reforms and restructuring and modernisation of
+the armed forces, and enable an appropriate level of investment in the
+modernisation of equipment and infrastructure. This will strengthen
+interoperability, combat effectiveness and deployability and sustainability of
+units. We will continue to work towards establishing and retaining a personnel
+structure comparable with the structure in the Allied nations. Any surpluses
+in the armed forces will be tackled by means of retirement, retraining and
+transfer to positions in other governmental agencies. We will preserve and
+improve the transparency of the human resource management system and
+ensure a career path for officers and civilians comparable with the Allied
+nations. Taking into account the new systemic legislation, priority will be
+given to improving the system of assessment and monitoring of individuals,
+and the training system will be adapted to incorporate a clearly defined career
+path.
+
+_3.2.1.3 EU and ESDP_
+
+Slovenia’s inclusion in the ESDP is one of its major foreign and security
+policy goals. Slovenia favours a further strengthening of the security and
+defence policy of the EU because the EU can have an important influence on
+stability on the European continent and throughout the world. With a
+strengthening of its defence element, the EU will become a reliable
+
+
+-----
+
+transatlantic partner as European security and defence policy and NATO
+should complement one another.
+
+Slovenia attributes particular importance to the strategic partnership and
+cooperation between the EU and NATO. Slovenia is endeavouring to ensure
+its strategic security interests through cooperation in the European Security
+and Defence Policy, which is becoming an increasingly important tool of
+crisis management, including military operations in which NATO as a whole
+is not taking part.
+
+As far as membership of the EU and NATO is concerned, Slovenia does not
+intend to duplicate costs, capabilities or defence planning. In the near future,
+Slovenia’s contribution to the joint military capabilities of the EU will remain
+the same as its contribution to NATO, but it will increase in terms of quality
+in line with the progress of the professionalisation of the SAF and the
+implementation of defence reforms. Slovenia is also cooperating in the
+formulation of a European Security Strategy (ESS), by means of which the
+EU will be able more effectively to implement its foreign and security policy.
+
+_3.2.1.4 OSCE_
+
+In 2005 Slovenia will hold the presidency of the OSCE. This will enhance its
+profile in the Euro-Atlantic integrations and confirm its readiness to accept a
+greater responsibility for strengthening security and cooperation in the OSCE’s
+area of activity as well as in the wider international community. During its
+presidency, the Republic of Slovenia will follow the guidelines and
+commitments laid down in existing documents, in particular the European
+Security Charter, and the concepts of comprehensive and cooperative security.
+The goal will be to secure more flexible and effective operation of the OSCE.
+
+For Slovenia the forthcoming presidency of the OSCE represents a major
+substantive and organisational challenge, but at the same time an opportunity
+for promoting and pursuing the security and political interests of the Republic
+of Slovenia within the multilateral framework of the OSCE. With accession
+to the EU and NATO, Slovenia recognises the importance of those countries
+in South-East Europe, Central Asia and the Caucasus, which are not included
+in other European integration processes but which are important for European
+security and stability, being included in the deliberation of security issues on
+an equal basis.
+
+_3.2.1.5 Regional cooperation_
+
+The regional strategic environment of the Republic of Slovenia comprises
+South-East Europe, which includes the western Balkans. For more than a
+decade international, regional and national organisations have been intensively
+involved in attempts to stabilise this region.
+
+
+-----
+
+By playing an active role and supporting the democratic processes in SouthEast Europe, Slovenia is seeking to establish itself as a credible partner in the
+international community. Ensuring a presence in the region, particularly in
+South-East Europe, and making a contribution to peace and stability will be
+key long-term elements in relation to the security of the Republic of Slovenia
+and the operations of the SAF.
+
+Regional cooperation and cooperation with neighbouring countries is one of
+the priorities of Slovenian foreign policy and of international cooperation by
+the MoD. The aim is to strengthen peace, security and stability and to
+consolidate trust between the countries of Central and South-East Europe.
+
+Multinational Land Force
+
+Within the framework of the Quadrilateral (Slovenia, Italy, Hungary and
+Croatia), the MoD and the SAF are participating in the activities of the
+Multinational Land Force (MLF). Slovenia’s aim is for the MLF to operate
+under NATO as a brigade within the high readiness forces. The MLF command
+was first deployed on peacekeeping operations in November 2003. As part of
+the Joint Guardian (KFOR) operation in Kosovo, the MLF command operates
+within the Italian-German contingent of the Multinational Brigade SouthWest.
+
+CENCOOP
+
+The Central European Nations’ Cooperation in Peace Support (CENCOOP)
+initiative was created to meet the challenges facing the international
+community in connection with preserving and maintaining peace, security
+and stability. At the 5[th] ministerial meeting, Ministers adopted guidelines on
+the main areas of cooperation in CENCOOP, which envisage the formation
+of a unit from the CENCOOP member states to be deployed on peacekeeping
+operations in Bosnia and Herzegovina.
+
+SEDM
+
+In 1997 Slovenia joined the South-eastern Europe Defence Ministerial, an
+initiative to promote cooperation between defence ministries. The aim of
+defence cooperation between these countries is to strengthen peace, security
+and stability and to consolidate trust between the countries of South-East
+Europe. This cooperation is proceeding in the spirit of the Partnership for
+Peace programme and is promoting the inclusion of the countries of SouthEast Europe in Euro-Atlantic integrations.
+
+
+-----
+
+Slovenia is active in the coordinating committee (SEDM-CC) and is also an
+observer on the Political-Military Steering Committee (PMSC). The PMSC
+heads the military cooperation within the initiative (MPFSEE). Slovenia is
+also actively participating in the South-Eastern European Simulation Network
+(SEESIM). Slovenia initiated the setting up of a working group on cooperation
+between defence ministries in the areas of WMD counter proliferation, border
+security and counter terrorism. Since 2002 Slovenia has also had observer
+status in the Satellite Interconnection of Military Hospitals (SIMIHO) project.
+
+Stability Pact for South-East Europe and RACVIAC
+
+The Regional Arms Control Verification and Implementation Assistance
+Centre (RACVIAC) operates on the basis of an agreement on the founding of
+RACVIAC between Germany and Croatia within the framework of the Stability
+Pact for South-East Europe. The headquarters of RACVIAC is in Croatia.
+The aim of RACVIAC is to promote effective implementation of weapons
+control agreements in the countries of South-East Europe and to reinforce
+trust and cooperation in the region. RACVIAC also carries out training in the
+implementation and verification of weapons control. Slovenia is actively
+cooperating in the work of RACVIAC and in September 2003 handed over
+the one-year presidency to Turkey.
+
+_3.2.1.6 Other forms of cooperation_
+
+The MoD acts as a coordinator between various governmental agencies. The
+amendments to Protocols II and IV of the Convention on Prohibitions or
+Restrictions on the Use of Certain Conventional Weapons Which May be
+Deemed to be Excessively Injurious or to Have Indiscriminate Effects (CCW)
+have been ratified. Procedures for the ratification of the Open Skies Treaty
+will continue. The Ministry of Defence will also submit an initiative for
+Slovenia’s accession to the adapted Conventional Forces in Europe (CFE)
+Treaty.
+
+March 2003 saw completion of the destruction of anti-personnel mines in the
+SAF in accordance with the Convention on the Prohibition of the Use,
+Stockpiling, Production and Transfer of Anti-Personnel Mines and on their
+Destruction (the Ottawa Convention), which has applied to Slovenia since
+1998.
+
+**_3.2.2 Participation in international operations_**
+
+It is in Slovenia’s political and security interests to have a secure and stable
+immediate and wider security environment because this is the only effective
+guarantee of a high level of national security. This basic starting point dictates
+the need for an active role for the SAF in strengthening international peace,
+
+
+-----
+
+security and stability and in participating in crisis response operations,
+including peace support and humanitarian operations. The primary focus of
+these operations will continue to be oriented towards South-East Europe. And
+as a responsible member of the international community, Slovenia will also
+be prepared to take action in other crisis areas. A total of approximately 200
+members of the SAF are currently involved in the NATO SFOR peace support
+operation in Bosnia and Herzegovina, in the NATO KFOR international force
+in Kosovo, in the UN Office of the High Representative (OHR) in Bosnia and
+Herzegovina, in the UN UNTSO mission on the Israeli-Lebanon border and
+in the peacekeeping operation ISAF 4 in Afghanistan.
+
+**_3.2.3 Defence planning_**
+
+_3.2.3.1 Defence planning as part of defence policy_
+
+The national defence policy is determined by national security threats and
+national security interests. Defence planning transforms defence policy into
+a defence concept and defines the scale and structure of the defence forces.
+
+Defence planning represents an important tool of the state in forming the
+necessary capabilities of the defence system and defence forces, and in the
+development of the national defence infrastructure. Defence planning is an
+integral part of the planning process with the aid of which the government
+can oversee and coordinate the planning, maintenance and rational use of
+defence resources for the development of the national defence system.
+
+The process of defence planning begins with the setting of security goals at
+the national level. National security goals also represent guidelines for the
+formation of a defence system that will enable the formation and establishment
+of defence forces capable of achieving the goals. The process needs to have
+several feedback or control channels.
+
+_3.2.3.2 Current defence planning situation_
+
+In the MoD there are elements of defence planning that are not yet entirely
+linked in an integrated system. In addition, there is as yet no clear definition
+of who is responsible for the individual parts of the defence planning process.
+Medium-term planning is also being put in place as a basis for preparation of
+personnel plans, training plans and planning for development, equipping and
+procurement of military equipment. Coherence between the defence budget
+and the long-term and medium-term goals of the defence system also remains
+inadequate. However, significant progress has been made recently in the area
+of control, especially internal and external auditing.
+
+
+-----
+
+**_3.2.4 Defence resources_**
+
+A substantial reduction has been made in the wartime strength of the SAF
+from 76,000 in 1999 to around 39,000 members in 2002. The transition to a
+professional army with contractual reserves will enable a further reduction in
+the size of the wartime strength of the SAF to about 18,000 members when
+Slovenia joins NATO.
+
+At the end of 2003 the SAF had 24,500 members, of which the professional
+army numbered 6,376 members, and 1,183 people were employed in the defence
+part of the MoD. In 2003 a total of 981 new employees were recruited into the
+SAF and 186 employees left.
+
+In line with plans, the number of professional soldiers in the SAF is increasing
+and certain units are being supplemented by members of the contractual
+reserve. This means that the SAF is becoming an important employer in the
+labour market.
+
+The transition to a professional army also includes a process of so-called
+functional professionalisation, implying appropriate ways of thinking, planning
+and operating.
+
+Within the SAF there are marked personnel disparities in terms of education,
+rank and age resulting primarily from the rapid development since Slovenia
+gained independence. Personnel disparities in terms of education are also
+evident in the administrative section of the MoD. A comprehensive personnel
+and career development plan and a concept for recruitment and manning in
+the SAF with career and contractual members have yet to be formulated. Staff
+retention in the military service is an area that still needs to be developed.
+The system of exercising, training and education in the SAF has not yet been
+fully harmonised with the change in the recruitment method and the changed
+force structure of the SAF. Functional training and education have also been
+neglected in the administrative section of the MoD. So far there have been no
+serious problems in ensuring a sufficient number of quality new staff for the
+SAF.
+
+The rapidly changing strategic environment, even in the smaller countries,
+means that ensuring an appropriate level of security and setting up an effective
+defence system is fast changing from a labour-intensive to a capital-intensive
+activity. This shift results from more expensive manpower, more expensive
+weapons and equipment, increasing international commitments and, in the
+case of Slovenia, also certain problems and shortcomings from the past.
+Establishing adequate defence capabilities therefore also requires substantial
+funds in Slovenia.
+
+
+-----
+
+In the last two years we have managed to halt the decline in the proportion of
+GDP allocated to defence requirements, turn the trend around and secure a
+satisfactory financial framework sufficient to continue a serious and
+comprehensive reform of the defence system. Thus the share of GDP allocated
+to defence requirements has risen gradually from 1.21% in 2000 to 1.39% in
+2001, 1.49% in 2002 and 1.52% in 2003.
+
+Given the limited nature of the funding, it is highly important that funds be
+used rationally. This aspect can be improved primarily through better functional
+organisation of the administrative section of the MoD and the SAF, elimination
+of unnecessary activities and systems, standardisation of procedures and
+investment in improving the quality of personnel. The advantages of EuroAtlantic integration and cooperation will also need to be fully exploited, in
+particular within joint planning, joint operational use of weapons systems
+and joint training.
+
+
+-----
+
+**4 STRATEGIC** **VISION** **TO 2015**
+
+The strategic vision for the development of the defence system is to form and
+provide trained, motivated, combat-ready and interoperable armed forces
+which, using modern doctrine and technology, will be capable of carrying
+out tasks determined at the national and international level. At home and
+abroad the SAF must be recognised as being a trustworthy and innovative
+force which, under leadership that is change-oriented, clearly led and based
+on knowledge, experience and positive tradition, will pursue clear strategic
+goals.
+
+**4.1 Strategic environment of the Republic of Slovenia**
+
+The forthcoming period will be characterised by a reduction in conventional
+military threats, with warning times being greatly increased. However, for
+certain sources of threat, such as international terrorism, the warning time
+will be far shorter, or entirely absent. The military threat will decline, although
+there will be a number of major military powers with high-technology weapons
+at their disposal. Armed conflict within the wider region may occur, but in a
+limited form. The likelihood of military conflict between the major powers
+having an impact on Slovenia is minimal.
+
+There is a small possibility of renewed conflict in the region, particularly in
+the case of enduring political instability or poor security conditions. In this
+case Slovenia may be confronted with a problem of refugees and violence
+spilling over from areas of conflict.
+
+The international community will continue to be confronted with risks and
+threats associated with the proliferation of weapons of mass destruction and
+long-range systems (which may find their way into the hands of global or
+national terrorist groups), but the impact on Slovenia is likely to be very small.
+Other circumstances which may influence national security will be economic
+pressures, unbalanced economic, social and environmental development
+worldwide, technological development, threats to the information and
+communications infrastructure, terrorism, organised crime, unbalanced
+demographic development, migration, and natural and other disasters.
+
+Because of the many mutually linked and interdependent processes of
+globalisation, the European security environment is constantly changing. The
+security risks that might emanate from this are primarily of an international
+dimension. Therefore Slovenia too requires a responsive defence system that
+will adapt appropriately to changes in the strategic environment. Depending
+on the trends in this strategic environment, the capabilities and available
+resources, the SAF must be capable of adapting its scale and structure to
+these changes and of fulfilling the country’s international commitments.
+
+
+-----
+
+Military defence of the state as we understand it today will in the future go
+beyond the traditional concept of defence activities within national borders.
+Defence activities are increasingly incorporating military crisis management
+operations which will help preserve international security and peace regardless
+of international borders. The inclusion of new activities within the SAF’s
+mission and tasks requires an appropriate organisation and flexibility on the
+part of the SAF.
+
+**4.2 Security policy of the Republic of Slovenia**
+
+Slovenia is joining the common fight against terrorism, in which it will support
+the relevant resolutions of the UN and the Parliamentary Assembly of the
+Council of Europe. It will engage actively in international counter terrorism
+conventions. The Slovenian government will adopt EU and NATO measures
+in the fight against terrorism. In addition, the MoD will participate in the
+relevant counter terrorism activities taking place in the country.
+
+As far as weapons of mass destruction are concerned, Slovenia will actively
+participate in activities and initiatives aimed at preventing WMD proliferation
+at the regional and global level. It will ally itself to the policy of WMD control
+and non-proliferation and support the universality of international multilateral
+disarmament agreements. Slovenia abides by international agreements in
+connection with the ban on production and proliferation of weapons of mass
+destruction and will therefore consistently monitor transfers of all types of
+weapons across Slovenian territory.
+
+It will formulate and implement a national policy in connection with WMD
+that will support NATO and EU policy. As a member of NATO, Slovenia will
+actively participate in the Mediterranean Dialogue.
+
+As far as the western Balkans are concerned, Slovenia will contribute its
+share to strengthening security in this region within the relevant policies of
+the UN, the EU, NATO, the OSCE and other organisations. It will develop
+bilateral and multilateral relations in all areas with countries in the region.
+With the aim of increasing stability and security, Slovenia will make available
+to the countries of the western Balkans the experience and knowledge it has
+gained in different areas from the processes involved in acceding to NATO
+and the EU, as well as other knowledge concerning the administration of
+modern states. It will be particularly active in 2005 when it holds the
+presidency of the OSCE.
+
+
+-----
+
+**4.3 Defence policy of the Republic of Slovenia**
+
+**_4.3.1 Defence planning_**
+
+The MoD will put in place a comprehensive system of defence planning by
+the end of 2005. The defence planning concept and the new defence planning
+handbook in the MoD will be prepared by the end of 2004. These procedures
+will also take account of the experience and recommendations from defence
+planning in NATO and from defence capability planning in the EU.
+
+The new system of defence planning will encompass the formation of
+guidelines by the Minister which will include guidelines for the preparation
+of the long-term strategic plan, the medium-term defence programme,
+decisions on major purchases of military equipment and the basis for budget
+planning.
+
+For the purpose of ensuring more transparent planning, we will elaborate and
+expand the programme structure which will cover not only SAF functions.
+We will put in place improved criteria and methods for measuring results
+attained in the implementation of the budget, ensure the further development
+of the analytical and evaluation function in the MoD and formalise the defence
+resource management processes.
+
+On the basis of the new concept and the defence planning handbook in the
+MoD, by the end of 2005 we will harmonise the major procurements,
+equipment and modernisation plans, infrastructure plans, personnel plans and
+R&D projects with the long-term plans and medium-term defence
+programmes. By the end of 2005 the MoD will also set up a system of business
+planning which will link the strategic goals and tasks with the financial
+(budgetary) and human resources. In order to further rationalise resource
+application we will set up a comprehensive control system by the end of 2006
+which will have suitable computer support and will enable control of financial,
+human and material resources. For realistic planning on the basis of the results
+achieved, by the end of 2006 we will develop a system for evaluating results
+and set up a comprehensive system for reporting on deviations from the plan
+and progress made towards the achievement of goals.
+
+The comprehensive three-phase defence planning system (planning-analytical
+phase, programming phase, and the phase of drawing up the defence budget
+and business plan) will link the long-term strategic planning, medium-term
+programming and preparation of the defence budget and business plan. The
+planning system will be based on the recognised PPBS method (Planning,
+Programming and Budgeting System) and on the Business Planning System.
+
+
+-----
+
+**_4.3.2 Defence resources and key capabilities_**
+
+Personnel
+
+In the future the manning system in the SAF will continue to be based on a
+professional army, contractual military service in the reserve forces and
+voluntary military service.
+
+In 2008 the SAF will have around 15,000 members, of which the professional
+force will number around 8,000 members, while around 1,100 people will be
+employed in the defence part of the Ministry of Defence. In the period 2010
+to 2015 the level of employment in the defence system will not increase; new
+recruitment will be oriented towards increasing the quality of personnel. It is
+estimated that in 2015 the SAF will have up to 14,000 members, of which the
+professional force will number at least 8,500 members while around 1,000
+people will be employed in the defence part of the Ministry of Defence (Table
+
+|1).|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|
+|MOD - defence|1,183|1,219|1,207|1,195|1,183|1,172|1,160|1,149|1,138|1,126|1,115|1,104|1,094|
+|MOD - protection and disaster relief|391|402|399|399|399|399|399|399|399|399|399|399|399|
+|Total MOD|1,574|1,621|1,606|1,594|1,582|1,571|1,559|1,548|1,537|1,525|1,514|1,503|1,493|
+|SAF - professional|6,376|6,950|7,350|7,550|7,750|8,000|8,250|8,500|8,500|8,500|8,500|8,500|8,500|
+|SAF - contract reserve|434|800|1,500|2,200|3,000|3,800|4,650|5,500|5,500|5,500|5,500|5,500|5,500|
+|SAF - compulsory reserve|17,690|10,250|7,150|6,250|5,250|3,200|2,100|||||||
+|Total SAF|24,500|18,000|16,000|16,000|16,000|15,000|15,000|14,000|14,000|14,000|14,000|14,000|14,000|
+|Total MOD and SAF|26,074|19,621|17,606|17,594|17,582|16,571|16,559|15,548|15,537|15,525|15,514|15,503|15,493|
+
+
+
+Table 1 : Personnel projection to 2015
+
+Eliminating the personnel disparities in terms of education, rank and age that
+have accumulated over ten years in the development of the defence system is
+one of the priority tasks in the coming years. This situation will be dealt with
+by 2010. In 2004 a comprehensive personnel and career development plan
+and a basic concept for enlistment and manning in the SAF with career and
+contractual members will be drawn up. Particular attention will also be devoted
+to changes and adjustments to the system of exercising, training and education
+in the SAF, which has to be brought into line with the change in the manning
+method and the changed forces structure of the SAF. In the administrative
+section of the MoD a more appropriate awareness also needs to be developed
+of the need for continuing education and training and a more rational use of
+available human resources. In the period 2004-2006 we will redirect attention
+towards personnel retention in the military service and the issue of personnel
+leaving the military service, and pay particular attention to the question of
+professionalisation. In the period 2006-2015 it will become increasingly
+difficult to secure a sufficient number of appropriate quality personnel for
+work in the armed forces.
+
+
+-----
+
+Finance
+
+Slovenia’s defence spending is projected to rise as a share of GDP from 1.52%
+in 2003 to 2% in 2008. Until 2015 defence spending is then planned to remain
+at 2% of GDP.
+
+Achieving the anticipated growth in spending on defence requirements as a
+percentage of GDP and maintaining the level after 2008 is key to enabling all
+the reform and development projects to be carried out with the necessary and
+planned scope and dynamics. If the agreed and planned funds are not actually
+made available it will not be possible to carry out the planned changes in the
+defence system.
+
+The target structure of defence spending is made up of spending on personnel
+(approx. 50%), operations and maintenance (approx. 30%) and procurement,
+construction and development (approx. 20%). Financing of unplanned
+operations will require additional funds to be secured.
+
+After 2007, when the law regulating the securing of funds for basic
+development programmes expires, all the required funds will be secured
+through the regular defence budget. The structure of the defence budget and
+the system of planning and implementing the defence budget will need to be
+adapted in line with the new programming structure. Graph 1 shows Slovenian
+defence expenditure as a proportion of GDP from 1992 to 2015.
+
+Graph 1: Slovenian defence expenditure as a proportion of GDP
+from 1992 to 2015
+
+
+-----
+
+For the purpose of carrying out the tasks involved in the implementation of
+the mission of the defence system the defence resources are combined into
+capabilities. Five key operational capabilities will be developed for carrying
+out tasks in the defence system:
+– Command and control includes the ability to collect, analyse and exchange
+information, planning and coordination of operations and to ensure the
+capabilities necessary for directing forces towards fulfilment of allocated
+tasks. The tasks are to ensure a system of command, communication and
+intelligence and to provide information.
+– Conduct of operations includes the capacity to use the military capabilities
+necessary for fulfilment of allocated tasks. The tasks are control of the
+national territory, airspace and sea, search and rescue, providing
+humanitarian assistance at home and abroad, evacuation of Slovenian
+citizens, providing support to other governmental agencies, participation
+in peace support operations, national defence and participation in collective
+defence.
+– Operational support includes the capability to repair and maintain
+equipment, accommodation, ensuring the operation of personnel and
+providing the infrastructure and capabilities necessary to support military
+operations. The tasks are personnel support, maintenance of equipment
+and weapons, operations support and installation and maintenance of
+infrastructure.
+– Force development comprises the ability to acquire and train personnel,
+carry out research, test and procure military equipment and weapons and to
+form the force structure necessary for ensuring multipurpose combat-capable
+military forces. The tasks are the provision of personnel, equipment and
+weapons, the formulation of doctrine and force structure, the implementation
+of mobilisation and the conduct of defence research.
+– Implementation of policy and strategy comprises the ability to formulate
+and implement defence policy and strategy for achieving wider national
+goals, manage the activities of the ministry and secure appropriate defence
+advice. The tasks are to provide defence advice for the executive and
+legislative authorities, development of defence policy and planning,
+implementation of international agreements in the defence field,
+management of the defence system, formation of the defence culture,
+provision of public information and promoting and developing Slovenian
+values in the defence field.
+
+As far as the planning of capabilities is concerned the following aspects need
+to be taken into consideration:
+– they must be within the framework of available budgetary resources and
+formed in accordance with set priorities;
+– they must be based on achieving interoperability with NATO Allies in terms
+of both equipment and technology as well as doctrine, tactics and
+communications;
+
+
+-----
+
+– they must be based on modern technology capable of operating together
+with Allies and which will be combat capable over the long term;
+– they must be multipurpose, capable of operating in a wide range of potential
+conflicts, in peacetime and wartime, and units must be capable of carrying
+out multiple tasks;
+– they must be combat capable, with sufficient firepower, sufficient selfprotection and sufficient survivability;
+– they must be capable of rapid deployment, with sufficient mobility and
+flexibility and suitable access to operational and strategic transport;
+– they must have an optimal relationship between the combat part and support,
+with appropriate reserves for personnel rotation and appropriate stocks of
+consumable stores.
+
+By 2015 the capabilities of the SAF will be based on the ability to form two
+combined tactical defence units and the ability to set up a mobilisation base
+for formation of an appropriate number of tactical defence units.
+
+By the end of 2012 the SAF must be capable of forming a battalion combat
+group with a high level of readiness for operational use and able to be deployed
+in international operations with a permanent rotation capability.
+
+
+-----
+
+**5 SLOVENIAN ARMED FORCES**
+
+**5.1 Purpose of the SAF**
+
+The purpose of the defence system, including the SAF as part of it, is to deter
+an attack on the state and to defend the independence, inviolability and integrity
+of the state and its national interests. This purpose is being realised partly
+through the Slovenia’s inclusion and active cooperation in international
+security integrations based on international treaties.
+
+From the purpose of the SAF we can derive its missions as follows:
+– prevention of all forms of aggression and responding appropriately in the
+event of aggression;
+– contributing militarily to international peace and stability;
+– assisting other governmental agencies and public institutions in ensuring
+the security and well-being of Slovenia’s citizens.
+
+**5.2 Tasks of the SAF**
+
+The missions of the SAF are the basis for its main tasks which are further
+divided into derived tasks:
+– Prevention of any aggression and adequate response in case it should occur:
+
+-  National military defence operations: monitoring, control and protection
+of land, sea and air space and defence of national territory.
+
+-  Participation in international organisations’ operations: collective
+defence (Article 5 of the Washington Treaty), fight against international
+terrorism and other threats to peace.
+– Military contribution to international peace, security and stability:
+
+-  Defence diplomacy: bilateral and multilateral co-operation.
+
+-  Building security and trust, supervision of armaments and prevention
+of the spread of weapons of mass destruction: armaments supervision
+and disarmament, inspection of other nations’ military units at their
+location, verification activities.
+
+-  Crisis response operations: preventive diplomacy, conflict prevention
+and peacekeeping, peace enforcement, peace building, humanitarian
+assistance in the frame of bilateral and multilateral co-operation,
+assistance to government organisations and non-governmental
+organisations in providing humanitarian assistance, and struggle against
+international terrorism and other threats to peace.
+– Support to other state agencies and organisations and to the protection and
+rescue system in ensuring the safety and prosperity of the citizens of
+Slovenia.
+
+-  Participation in protection, rescue and relief tasks in natural and other
+disasters: participation in protection of the property and citizens in
+natural and other disasters, participation in the relief of the consequences
+
+
+-----
+
+of natural and other disasters, participation in extinguishing large-scale
+fires, participation in the relief of the consequences of NBC
+contamination, and participation in the evacuation and rescue operations
+for the civilian population in natural and other disasters.
+
+-  Co-operation with the police force in exercising the tasks in their field
+of work: participation in the protection of the national border,
+participation in the management of large and illegal migration flows
+and participation in the prevention and combating of terrorism.
+
+-  Search and rescue operations on land, sea and air.
+
+-  Support to scientific research and technology development activities in
+the defence area: participation in the planning, organisation and
+management of national defence research and technologies, and support
+to projects of relevant industries.
+
+-  Evacuation of Slovenian citizens abroad in peace-time as well as in
+crises and war-time.
+
+The missions and tasks of the SAF determine their size and capabilities.
+
+**5.3 Scale and structure of the SAF**
+
+Slovenia will have an army whose scale and structure will enable it to carry
+out its tasks. The system of military education and training, together with the
+activities of units and commands in the structures of the Alliance, must ensure
+understanding and the capability for inclusion in inter-service operations. Force
+Command will be trained for operational planning at the combined level and,
+as the operational command of the SAF, will be connected to the operational
+commands of the Alliance.
+
+The SAF will continue to be organised as a unified army not divided into
+services. In view of the space and the need for coordinated planning of forces
+and operations in the Alliance, the SAF will take account of the division of
+forces within the Alliance for conducting land, air and sea tasks.
+
+In cooperation with allies, the SAF will develop the necessary capabilities
+for the implementation of the whole range of military ground force tasks.
+The conduct of ground force operations requires forces that are deployable,
+mobile, adequately protected, provided with fire support, well equipped and
+well trained. For these purposes, the SAF will be composed of balanced and
+structured units that will be able to conduct combined tactical combat
+operations at the brigade level.
+
+The SAF structure will provide for the autonomous deployment or employment
+of two tactical groups at two different locations without the need for combat
+support or combat service support from a higher level. The combined tactical
+unit at the brigade level will be capable of conducting all ground force
+
+
+-----
+
+operations as part of a higher level unit and of receiving fire support from
+allies. It will also be capable of employing combat multipliers of the command
+and control (C2) system with added elements. The C2 system will be capable
+of integration into the sophisticated allied systems thus providing for
+information supremacy by combining sensors and war theatre systems as well
+as supporting the commanders’ process of decision-making. The possibility
+of integrating computer assisted training and operations at the brigade or higher
+level of command will also be ensured.
+
+The SAF structure will provide for the maintenance of the out-of-area tactical
+group in rotation, for which a minimum of three battalions is required. In
+addition, the SAF will make available for Alliance requirements the Nuclear
+Biological and Chemical (NBC) battalion and other minor capabilities to be
+deployed in an agreed time frame. Combat service support units will be
+established and equipped for combat manoeuvre and will be adequately
+protected for the evacuation of specific elements of the tactical group. Higher
+level combat materiel maintenance will be provided in particular by combat
+service support units. All other ground force units will also be manned by
+means of the reserve structure and will be organised in a modular manner.
+They will be trained to the same standards in flank protection, movement, the
+protection of key facilities, host nation support for allied units, recovery of
+losses and the reinforcement of units in combat operations. In addition, to
+free up the capabilities of the manoeuvre forces, these units will be the main
+support component for the civil emergency planning system or the component
+which cooperates with other governmental and public administration agencies.
+
+In cooperation with allies, the SAF will provide the necessary capabilities for
+effective operation in the air space. In view of the possible threats from the
+air, the force structure will ensure the necessary conditions for the rapid
+implementation of decisions made at the political-military level, regardless
+of the implementation modalities. The system elements will be compatible
+and will therefore directly support the gradual integration into the integrated
+air defence system of the Alliance. An airbase will be provided with suitable
+host nation support for Alliance requirements and will conduct the air traffic
+control of the Republic of Slovenia. Tactical vertical manoeuvre, as well as
+tactical group combat support and combat service support will be provided
+on Slovenian territory. The capability of the tactical vertical manoeuvre will
+permit the tactical movement of an infantry company in one sortie.
+
+In cooperation with allies, the SAF will develop the necessary capabilities
+for operations on and under the sea. The SAF will provide for the defence and
+protection of territorial waters. The SAF will also ensure safe access and
+protection of the maritime waterways and the port of Koper. Together with
+the Alliance, these capabilities will form a coordination point for defensive
+activities to protect maritime supply lines and a maritime entry acceptance
+
+
+-----
+
+point for allied forces in transit or operating on Slovenian territory. The defence
+of Slovenian territorial waters will also be conducted by means of multipurpose
+ground combat systems with special emphasis on the rationalisation and
+uniformity of combat systems. When required in peacetime, these forces will
+cooperate with other governmental agencies with specific resources.
+
+The SAF organisation will be divided into combat units, combat support units,
+combat service support units and C2 support units.
+
+By 2015 the organisational structure of the SAF will allow for the possible
+modular formation of forces for carrying out tasks with the maximum possible
+rationalisation of the command structure. The organisation of forces will
+primarily take account of the principles of military expertise, efficiency and
+cost-effectiveness.
+
+**5.4 Key challenges**
+
+Reorganisation of the SAF, integration into the Alliance and the
+professionalisation of the SAF will require a great deal of effort and a high
+degree of expertise. The challenges that the SAF will need to overcome will
+to a very large degree be connected with ensuring there are sufficient suitable
+personnel for the implementation of its tasks. The challenges in the personnel
+field will relate to the skill levels and the psychophysical abilities of people
+wishing to become professional soldiers, junior officers and officers, as well
+as continuing education and individual and collective training. The military
+expertise part of this training, which requires field conditions including combat
+use of weapons, is another question which the SAF cannot resolve by itself.
+The SAF will give priority to seeking resolutions to these challenges within
+the Alliance.
+
+Given the size and structure of the SAF, one of the major tasks will be offering
+career paths to specialists and ensuring an appropriate number of highly trained
+individuals in extremely specialised areas of activity. A related issue is the
+organisation and implementation of highly specialised study programmes and
+the organisation of training programmes at home and abroad.
+
+The changed and expanded tasks of the SAF will require professional,
+motivated individuals and units. Ensuring and maintaining motivation will
+be a demanding task. This applies in particular to the question of the
+relationship between material and other forms of motivation.
+
+The size and structure of the future SAF will have to be such as to provide for
+the implementation of all the required tasks. This also applies to tasks
+connected with research, development, the military education system
+(including training) and activities within alliances. The SAF will need to have
+a relatively large number of highly trained personnel.
+
+
+-----
+
+The SAF will face challenges relating to development in areas in which as yet
+it has not reached the level required by the Alliance in terms of either skills or
+technologies. This applies in particular to areas representing systems
+multipliers (use of modern technology in the entire area with emphasis on the
+command and control system, the military intelligence system, air defence as
+a whole and logistics). Force mobility and the capability for self-sufficient
+operation outside national territory will be a demanding task.
+
+**5.5 Development assumptions**
+
+The scale of operations is important as far as development of capabilities is
+concerned. Taking into account the size of the SAF and their planned key
+capabilities and the forces for participation in international operations, the
+scale of SAF contribution to operations could be as follows:
+– small-scale with a platoon level unit;
+– medium-scale with a company level unit;
+– large-scale with a battalion tactical group;
+– very large-scale with all the forces which Slovenia will have at its disposal
+to prevent threats within the framework of national defence, or all the forces
+which will be available for defence of the Alliance.
+
+Concurrent operation and length of operations are important factors in planning
+the force scale and structure. The capabilities will enable participation in:
+– two simultaneous medium-scale operations for an extended period (one
+year or more) or
+–simultaneously in one large-scale operation for a limited period (6 months)
+and in one medium-scale peacekeeping operation for an extended period or
+– in one large-scale operation with rotation capability for an extended period.
+
+**5.6 Key development principles and development of SAF capabilities**
+
+Operational capabilities are the means to achieve the operational structure
+and fulfil the various missions and tasks of the armed forces. Therefore we
+must aim to improve those operational capabilities which support the main
+tasks of the SAF. These capabilities must meet the needs for national and
+collective defence and cooperation in other crisis response operations. The
+key operational capabilities are the basis for planning the force organisation
+and structure in the SAF necessary for fulfilling the mission and tasks. The
+key operational capabilities are units equipped and trained to carry out
+dedicated tasks in a specific time period set out in the medium-term defence
+programme or systems which enable such an operational status to be achieved
+(including the education and training system). These are:
+_Deployability is the capability to deploy forces from peacetime location to_
+an area of operations.
+_Mobility is the capability to transfer commands and units within the bounds_
+of an area of operations.
+
+
+-----
+
+_Sustainability of forces is the maintenance of the required level of combat_
+power for as long as necessary to achieve the goal.
+_Availability of forces is the capacity and readiness of forces to carry out_
+tasks under certain conditions in a specific time frame and with the necessary
+resources being secured.
+_Survivability and protection of forces will be ensured with the development_
+of an early warning system, with sufficient active and passive protection of
+people, equipment and infrastructure, with mobility and with effective air
+defence.
+_Combat effectiveness will be ensured through modernisation of combat_
+and non-combat systems and use of new technologies which will be
+introduced in line with adopted priorities. Capability for effective
+engagement in the battlefield will continue to be maintained in the future.
+Weapon effectiveness will be improved with the procurement of new, modern
+basic weapons and higher capacity and more precise portable and selfpropelled systems for combat and combat support.
+An efficient system of command and control and communications enables
+adequate planning and use of forces, is compatible with Allies, has a high
+degree of survivability, high speed and capability of operation and is
+appropriately structured and organised.
+_Effective intelligence support is based on an organisation which will act in_
+accordance with contemporary doctrine, satisfy national requirements and
+ensure a national contribution to the Alliance.
+_Interoperability and compatibility will be ensured by the introduction of_
+NATO standards in the area of organisation, work methods and compatibility
+of equipment.
+
+**5.7 Long-term SAF capabilities 2015**
+
+In the long term, the SAF will have capabilities allowing it to effectively
+perform all tasks of national and collective defence within the Alliance. The
+capabilities will correspond to Slovenia’s potential and be harmonised within
+the Alliance. The operational development of capabilities will be aligned with
+the Alliance and presented cyclically (every two years) in the mid-term defence
+programme.
+
+To provide an appropriate C2 organisation and structure, the command
+capabilities will be organised in commands at strategic (General Staff),
+operational (division) and tactical (brigade) levels. In addition, the SAF will
+develop capabilities to work within the commands and bodies of the Alliance,
+corresponding in size to an extended brigade command.
+
+Development, education and training capabilities of the SAF will be provided
+by the Doctrine, Development, Education and Training Centre (DDETC).
+
+
+-----
+
+The SAF will have up to 14,000 personnel, of which a minimum of 8,500 will
+be professionals. The C2 organisation and structure will be adapted to the
+manning and equipment and, in particular, to the actual required operational
+readiness. The SAF will develop three classic motorised battalions and one
+light mountain battalion. These units will be the core of the SAF for missions
+within national borders, as well as in Alliance operations.
+
+Combat support and partial combat service support to these battalions will
+be provided through capabilities of designated SAF battalions: the artillery
+battalion, the engineer battalion, the air-defence battalion, the NBC battalion
+and the military police battalion.
+
+Combat service support capabilities for the entire SAF will be organised in a
+regiment-level logistics centre, and also in the mobile logistics battalion,
+military medical unit, the air-base, Military Territorial Commands (MTCs)
+and the helicopter battalion of the SAF. Sea capabilities will be provided
+through the SAF maritime unit. Other capabilities for support of operations at
+sea will be integrated in the above mentioned combat support units or combat
+service support units.
+
+Command support capabilities will be provided through the capabilities of a
+communications battalion, air-space control battalion, and intelligence and
+reconnaissance battalion. These capabilities will be in direct operational
+contact with comparable capabilities in the Alliance.
+Figure 1 shows the SAF capabilities in 2015.
+
+Figure 1: SAF capabilities in 2015.
+
+
+-----
+
+**5.8 Capabilities and envisaged structure of the SAF in 2010**
+
+By 2010 the SAF will develop most of the capabilities planned for the period
+until 2015. They will be organised under the leadership of the General Staff
+of the SAF within the Force Command. The DDETC will be directly
+subordinate to the General Staff. The General Staff, Force Command and the
+DDETC will have appropriate support units for their own operations.
+
+Schools and other institutions will be set up within the DDETC to carry out
+all types of military education and training, from basic training to general
+staff and specialist training, for soldiers, junior officers, officers and military
+officials and civilians employed in the SAF. In addition, the DDETC will
+also incorporate a Basic Training Centre, a Combat Training Centre and a
+SAF Sports Unit. Training of branches and specialisations will generally be
+carried out in the training units of the branches, located as a rule with the
+branch units of the SAF.
+
+The following units will be subordinated to the Force Command: autonomous
+intelligence and reconnaissance units, autonomous units for air traffic and
+control of air space, communications and information technology units with
+corresponding linkages to the Alliance. All these units will be of battalion
+level.
+
+The logistics centre will combine the capabilities of a non-deployable heavy
+logistics SAF battalion, MTCs and units, the military medical service and the
+air base.
+
+Medical care will be carried out by the SAF medical unit. In addition to
+employment medicine and the medical care of SAF personnel, the medical
+service will provide for the professional development and functioning of
+medical and veterinary care, in particular ROLE 1 in battalions and ROLE 2
+for the whole SAF structure.
+
+The SAF air base will serve as the national military airport for SAF needs
+and, if so decided, for the Alliance. Airport services and capabilities will be
+provided to enable the airport to operate in all weather conditions.
+
+MTCs will perform the following tasks: territorial control, partial protection
+of vital infrastructure, territorial logistics and the functioning of the majority
+of the SAF military infrastructure except for the central training site. In
+addition, the MTCs will partly serve as contact points between the SAF and
+civil defence components. They will develop concept of building up SAF
+capabilities (the third circle) which represent the specific manning structure
+that can be included in the wartime structure, in accordance with the law. An
+important task of the MTCs will be the comprehensive care of SAF personnel
+and their families.
+
+
+-----
+
+**5.9 Modernisation of military capabilities**
+
+The key capabilities of the SAF, such as deployability, mobility, sustainability,
+timely availability of forces, survivability and protection, combat effectiveness,
+an effective system of command and control and communications, effective
+intelligence support, and interoperability and compatibility, can be achieved
+with rational and comprehensively financed equipping and modernisation
+programmes. In the development of the SAF, a balance must be secured
+between rushing to embrace the technology of the future and improving
+existing technology. Slovenian soldiers must be equipped and trained to fight
+with state-of-the art weapons systems. Modernisation programmes are directed
+towards upgrading the existing weapons and equipment of the SAF and towards
+developing modern technology that will enable the SAF to carry out its tasks
+successfully. For this purpose the following programmes will be developed:
+– Individual combatant
+– Combat manoeuvre
+– Fire support
+– Air defence
+– NBC defence
+– Command and control support systems
+– Intelligence support and electronic warfare
+– Transport
+– Logistics
+– Combat medical care and medical evacuation
+– Training
+
+**5.10 Key development challenges and priorities**
+
+The key challenges for achieving the planned capabilities of the SAF will be
+linked to real and timely preparation and implementation of adopted plans.
+At the same time we will have to stick very precisely to the priorities and if
+the circumstance or available resources change then we must only retain and
+develop high-priority capabilities and suspend or even cancel development
+of lower-priority capabilities. Accurate monitoring of the realisation of goals
+will therefore be required, with corrective decisions taken where necessary,
+and at least twice a year. Extraordinary activities will need to be cut back and
+unplanned tasks prevented, especially within the agreed medium-term period.
+Monitoring the development of priority capabilities must be the most important
+task of top military management.
+
+The realisation of planned capabilities will require full use being made of the
+Allies’ experience so as to rationalise and shorten the time needed to develop
+capabilities. In addition, special attention will need to be paid to group training,
+including combat use of weapons systems.
+
+
+-----
+
+The principle of development of an individual capability must be based on a
+“package approach” with which we will also ensure realisation of all indirect
+and related capabilities. With the achievement of final operational capability,
+for example of an SAF motorised infantry battalion, it will be necessary to
+ensure implementation of all the equipment and weapons programmes in the
+area of combat systems, individual and collective protection, communications
+and information, logistics and so on, as well as non-material capabilities too.
+Synchronisation of all the procedures will be a tremendous challenge for the
+SAF and the MoD.
+
+The organisational structure of the SAF will need to ensure an adequate C2
+structure in specific fields (air operations) so as to guarantee the required
+level of operability of the national system and its interoperability and
+functioning within the Allied system.
+
+The aforementioned critical areas represent at the same time the biggest
+challenges in terms of both organisation and expertise. Training and motivation
+remains one of the most important areas.
+
+Sticking to priorities means rationalisation. Priorities will be determined within
+planning cycles. Highest priority in the reform plans will be given to tasks
+(and units) connected with the following areas:
+
+1. Top priority:
+– operations in alliances and collective defence (with particular emphasis
+on development of a motorised battalion, a battalion combat group, an
+NBC defence battalion and the capability to operate within the Alliance’s
+air defence system);
+– providing individual and group military education training systems (with
+particular emphasis on group combat exercises).
+2. High priority:
+– providing appropriate logistical and health (including medical) care;
+– command support systems;
+– maintaining the internal division of resources at a ratio of 50–30–20
+(personnel–operations–main equipment, infrastructure and R&D).
+
+
+-----
+
+**6 CIVIL** **DEFENCE** **AND** **CRISIS** **MANAGEMENT**
+
+**6.1 Purpose**
+
+**_6.1.1 Civil defence_**
+
+In Slovenia we are developing civil defence together with military defence as
+part of the defence system. The purpose of civil defence is to provide a rapid,
+flexible and effective counter to various forms of threat to national security in
+the fields of politics, economics, media information and values in an
+emergency, war or crisis.
+
+Slovenia understands the term civil defence to mean the entirety of measures
+and activities by governmental agencies, local authorities, commercial
+undertakings, institutes, other organisations and citizens which, with nonmilitary means and methods, support and supplement the military defence of
+the state, ensure the functioning of authority in time of war and ensure the
+supply, protection and survival of the population. Civil defence is intended
+not only for operation in a state of emergency or war but also in crisis situations.
+With Slovenia joining the EU and NATO the tasks of civil defence will be
+expanded (e.g. Host Nation Support for cooperation in crisis relief operations).
+
+**_6.1.2 Crisis management_**
+
+Slovenia has not yet developed a comprehensive crisis management system;
+it is relatively well developed in individual subsystems of the national security
+system but limited to a large extent either to natural and other disasters, internal
+security or to a state of emergency or war. In this sense fairly well elaborated
+solutions are contained in the defence plans and the civil protection and disaster
+relief plans, which can also be applied in the case of asymmetric threats.
+
+The foundations for the formation of a comprehensive crisis management
+system were only laid down with the national security strategy and defence
+strategy, and for the area of civil defence also with the civil defence doctrine.
+The national security strategy stipulates that Slovenia will connect the elements
+of the national security system into an effective crisis management system
+which will be capable of operating in the security efforts of our country and
+the international community to resolve complex modern crises.
+
+A crisis management handbook will define in detail the purpose, tasks,
+responsible bodies and the procedures of crisis management. Certain
+regulatory, organisational and other solutions will also need to be
+supplemented.
+
+
+-----
+
+**6.2 Tasks**
+
+The tasks of civil defence are:
+– to complement and support the military defence of the state and SAF
+participation in peace support operations;
+– to preserve the functioning of authority;
+– to preserve the functioning of economic and other activities of importance
+for defence and people’s vital interests and work;
+– to provide information to the public at home and abroad and to encourage
+motivation to carry out national defence at the same time as carrying out
+psychological defence measures.
+
+Civil defence contributes to the safeguarding of vital and strategic interests
+and the goals of Slovenia’s national security policy by planning and carrying
+out measures to preserve the continuity of authority, measures to ensure the
+functional capability of the Slovenian economy and psychological defence
+measures in the event of a war or state of emergency or a crisis situation.
+Given that one of the key goals of national security is to preserve peace and
+stability, a significant part of the tasks of Slovenia’s civil defence is linked to
+the participation of civil defence in international efforts to preserve peace
+and stability.
+
+Armed attack will remain the most important starting point for the planning
+of civil defence in the future, but in addition to the tasks connected with
+membership of the EU and NATO civil defence is also taking on new tasks.
+These tasks are expressed in the demand for society as a whole to strengthen
+its ability to prevent and manage various crises at all levels which could lead
+to an emergency if they were to deteriorate. But this requires greater knowledge
+and experience of how to act in such circumstances, which means that
+specialists in administration, science, economics and other areas will need to
+be included in these activities.
+
+**_6.2.1 Civil defence_**
+
+Civil defence in the Republic of Slovenia, unlike the SAF, civil protection
+and the police force, is not comprised of separately organised forces but
+involves a range of tasks and activities by governmental agencies and certain
+companies and institutions.
+
+The Slovenian government has the central role in the preparation,
+administration and management of civil defence. Within the scope of their
+competencies the ministries are responsible for the level of preparations and
+for the activities of companies and other organisations in a state of emergency
+or war and in crisis situations. The six most important government services
+and 11 companies and institutions whose activities the government considers
+
+
+-----
+
+to be of particular importance for defence are also included in the civil defence
+preparations (Figure 2). In accordance with the law the National Assembly
+may also impose certain tasks on the police during a state of emergency.
+
+Figure 2: Organisation of the civil defence of the Republic of Slovenia
+
+**_6.2.2 Crisis management_**
+
+As it prepares to join international security and defence integrations, Slovenia
+is rapidly redirecting its civil defence towards crisis management, in line with
+the established practice in the member states of the EU and NATO.
+
+In the event of a crisis, the governmental agencies act in accordance with
+their peacetime organisation and competencies. In certain areas crisis
+management agencies have already been set up, or their establishment is
+envisaged at the first symptoms of a crisis (e.g. in the areas of internal affairs
+and military defence). The setting up of such agencies at government level, in
+ministries, in the area of psychological defence and possibly also in other
+bodies, is also envisaged in the civil defence doctrine.
+
+
+-----
+
+Figure 3: Organisation of crisis management in the Republic of Slovenia
+
+For the purpose of ensuring that effective action is taken in the event of a
+crisis, a National Crisis Management Centre (NCMC) has been set up to
+ensure the spatial, organisational, technical and other conditions for the
+government to act rapidly and effectively, for the related coordination of work
+between the various bodies and organisations participating in crisis
+management and for the rapid, reliable and safe flow of information and
+support for management at the strategic level.
+
+The role of the National Security Council (NSC), the highest consultative
+and coordinating body of the government, in preventing the emergence of
+crisis situations and acting effectively in the event that a crisis arises will be
+further strengthened. The organisational and other conditions for the work of
+the NSC will need to be improved.
+
+**6.3 Planning assumptions**
+
+The organisation of civil defence and crisis management in Slovenia is
+influenced by a number of important factors, in particular the level of
+development already achieved, membership of NATO and the EU, the
+reorganisation of the public sector and local government, the transformation
+and professionalisation of the SAF, the changes in the requirements of its
+logistics, and changes in the legislation relating to particular commercial and
+other activities.
+
+
+-----
+
+The purpose and tasks in this area will not change, but emphasis will be
+given to redirecting the focus of civil defence tasks towards crisis control and
+its integration into a comprehensive crisis management system.
+
+The area of crisis management is not systemically or comprehensively
+regulated because the regulations in force only lay down tasks relating to a
+state of emergency or war. Amendments to the regulations will lay down the
+obligation of the bodies responsible for preparing civil defence to set out
+crisis management measures in their defence plans. In this process the
+solutions will derive partly from the crisis management procedures and
+mechanisms and civil crisis planning in force within NATO and the EU. The
+concept of a crisis will be limited to phenomena caused, as a rule, by man
+and which if they were to spread could lead to a state of emergency.
+
+**6.4 Key development principles**
+
+The national security strategy, the defence strategy and the civil defence
+doctrine determine that the civil defence tasks are planned for operation in a
+state of emergency, war or crisis. This provides the guidelines for expanding
+the tasks and competencies of civil defence to crisis management, which will
+need to be laid down operationally in regulations.
+
+The following basic principles will be followed in planning the preparation
+and implementation of civil defence and crisis management measures:
+– the principle of accountability, which means that the same agency or
+organisation is responsible for planning the preparation and implementation
+of measures in a state of emergency, war or crisis as in peacetime;
+– the principle of equal organisation, which means that an agency or
+organisation will in principle be organised in the same way in a state of
+emergency, war or crisis as in peacetime;
+– the principle of flexibility, which ensures that the system of civil defence
+and crisis management will adapt rapidly and operate effectively in all
+circumstance regardless of the extent of the situation.
+
+Civil defence cooperation in international operations and in peace support
+operations will be developed in line with the following principles:
+– the principle of coordination, which means that preparations and the
+implementation of these activities must be coordinated between the agencies
+responsible for carrying out the tasks;
+– the principle of proportionality, which means that the scale of civil defence
+engagement must be proportionate to the circumstances, the contingents of
+other countries and the capacity of the Republic of Slovenia to offer
+assistance;
+– the principle of permanence and continuity, which means that preparations
+
+
+-----
+
+in this area must enable continuous implementation of tasks over an extended
+period of time;
+– the principle of adaptability, which means that the implementation of
+activities must be planned in such a way that they can rapidly be adapted to
+changes in circumstances;
+– the principle of efficiency, which means that activities must proceed in
+such a way that as many planned tasks as possible are carried out at the
+lowest possible cost;
+– the contract principle, which means that the engagement of civil defence
+capabilities in these types of activities, with the exception of governmental
+agencies, is carried out as a rule by means of the concluding of appropriate
+contracts;
+– the principle of interoperability, which means that the preparation and
+implementation of tasks in this field must be carried out in such a way that
+successful cooperation with the civil defence capabilities of other countries
+participating in international peacekeeping activities can be ensured.
+
+The strategic development vision of civil defence and crisis management is
+to form a system that will be capable of responding to the challenges of the
+future. This period will be characterised by a growing complexity of social
+systems and increasing vulnerability and sensitivity. Although the military
+threat will decline further, other dangers will increase. These include terrorism,
+the proliferation of weapons of mass destruction, environmental destruction
+and the potential for economic or financial disturbances. This will demand
+continuous assessment of the strategic environment and enhanced international
+cooperation. The emphasis here will be on preventive measures and unified
+activities within the international community. The programme to establish
+the civil defence doctrine will be implemented by 2010. Civil defence, together
+with the SAF, the system of protection against natural and other disasters and
+the security system, will be connected in a functional sense to the crisis
+management system at the national level, which will not change the functional
+operation of these systems.
+
+**6.5 Modernisation**
+
+The achievement of the key development goals is linked to modernisation.
+This relates primarily to the area of information technology and administrative
+communications, which will need to be technologically modernised, and the
+development of appropriate software to facilitate the work and enable faster
+decision-making, thereby contributing to improved efficiency.
+
+**6.6 Key development challenges**
+
+The development of civil defence and crisis management may be limited by
+the fact that the concepts of crisis and crisis management are not defined in
+
+
+-----
+
+the constitution or law. Therefore only situations which could lead to a state
+of emergency if they were to expand or deteriorate should be defined as a
+crisis. The development of an effective crisis management system also requires
+a system of comprehensive and ongoing assessment of national security threats
+to be put in place as soon as possible and to include the area of military and
+asymmetric threats.
+
+
+-----
+
+**7 INTELLIGENCE** **AND** **SECURITY** **ACTIVITIES**
+
+**7.1 Purpose**
+
+Intelligence, counterintelligence and security tasks in the defence field are
+carried out by the Intelligence and Security Service (ISS) of the Ministry of
+Defence. Information gathered in carrying out intelligence, counterintelligence
+and security tasks provides the basis for analytical and operational
+assessments, staff security tasks in the armed forces, production of plans for
+the use of the armed forces, implementation of other defence preparations
+and for planning defence measures. In these tasks the ISS participates within
+its competence with all the other parts of the national security system and, on
+the basis of mutual interest, also with foreign military or defence intelligence
+and security services. With inclusion in NATO and the EU the ISS will take
+on new tasks and responsibilities in the area of intelligence, counterintelligence
+and security activities for defence requirements in the system of collective
+defence and the common foreign and security policy.
+
+**7.2 Tasks**
+
+Intelligence and counterintelligence tasks comprise gathering, documenting
+and analysing information of importance for national defence interests or for
+safeguarding such information, and in particular:
+– assessing and evaluating the military and political security situation and
+military capabilities outside the country which are of particular importance
+for national security;
+– gathering and evaluating information about conditions in areas where
+members of the SAF or representatives of the MoD (civil defence and others)
+are operating as part of the fulfilment of obligations assumed in international
+organisations or during military service;
+– detecting and preventing activities by intelligence services of military
+organisations and other agencies and organisations which threaten the
+defence interests of the state, the MoD or the SAF.
+
+The security tasks in the defence field are:
+– detecting, investigating and preventing threats to the security of certain
+individuals, work places, buildings and areas used by the MoD and the
+SAF in or outside the country and information on the development or
+production of certain military weapons or equipment;
+– investigating criminal activity in accordance with the law;
+– studying and proposing physical and technical security solutions;
+– operational protection of certain individuals, work places, buildings and
+areas of particular importance for defence;
+– security checks on individuals in accordance with regulations;
+– directing the work of the military police in the performance of certain
+security tasks.
+
+
+-----
+
+**7.3 Planning assumptions**
+
+The multi-layered and multi-dimensional security challenges, risks and threats
+in the region, in Europe and around the world give rise to many uncertainties
+as far as guaranteeing national and international security is concerned. Timely
+planning and implementation of measures to preserve and strengthen both
+national and international security require an effective system of early detection
+and warning of potential risks and threats to be set up. Therefore the
+organisational, personnel and material foundations will be put in place for
+cooperation and for the exchange of intelligence and security information at
+the national level (and institutionalised where necessary) as part of bilateral
+cooperation and within the framework of alliances.
+
+**7.4 Key development principles**
+
+Development will be based on the following principles:
+– consolidating the irreplaceable role of intelligence and security activities
+through timely, professional and high-quality performance of tasks;
+– continuous development to ensure flexibility and adaptability to new
+requirements and tasks;
+– continuing specialist training in intelligence, counterintelligence and security
+work as a basis for high-quality performance of tasks;
+– use of modern work methods and the latest technologies;
+– providing a friendly working environment for employees to encourage
+independence, creativity and responsibility.
+
+**7.5 Modernisation**
+
+The modernisation of intelligence and security activities will be directed
+towards:
+– a permanent focus on improving the processes of intelligence and security
+work;
+– procurement of modern technical equipment for data gathering, analysis,
+evaluation, storage, protection and dissemination as and when required.
+
+The two areas are linked and to a large degree mutually dependent. The
+ultimate goal is to maximise digitalisation of the work process and achieve
+the highest possible level of security of the work. Ensuring suitable premises
+for the requirements of the ISS is an urgent matter. Particular attention will be
+paid to selection, training and responsibilities of employees in the intelligence
+and security field.
+
+**7.6 Key development challenges**
+
+Joining NATO and the EU, the transition to a professional army with
+contractual reserves and the setting up of a national crisis management system
+
+
+-----
+
+also represent important substantive changes for the intelligence,
+counterintelligence and security activities of the defence system. In the new
+circumstances their integration into a transparent and effective element of the
+defence subsystem within Slovenia’s national security system is a key
+challenge.
+
+Intelligence activities for identifying processes which could threaten national
+defence interests will become increasingly important, particularly for small
+countries with limited resources such as Slovenia. Therefore they must enable
+timely and accurate forecasting of the occurrence and development of
+phenomena and processes related to security and appropriate measures to be
+taken, in particular with the aim of preventing or restricting such phenomena
+and processes.
+
+
+-----
+
+**8 LOGISTICS**
+
+**8.1 Purpose**
+
+The basic purpose of logistics is to ensure the availability (and operation) of
+military capabilities (force movement and maintenance). Logistics is an
+autonomous, dynamic and open subsystem which is strongly linked to its
+environment and to the other subsystems of the defence system.
+
+From the point of view of resources, logistics can be viewed as one of the
+foundations of the defence system because efficient management of resources
+enables the basic functions and mission of the defence system to be carried
+out. And from the point of view of cohesion with the other subsystems of the
+defence system, the logistics situation is always also a result of, and a response
+to, the state of development (structure, organisation and processes) of the
+other subsystems. This means that through strategic planning and
+implementation of tasks in logistics we can substantially improve the efficiency
+of the overall defence system.
+
+**8.2 Tasks**
+
+The logistics system must ensure comprehensive and effective implementation
+of logistical functions:
+– management of technical materiel over the whole life cycle (development,
+procurement, use, maintenance, write-off and decommissioning);
+– supply (food, ammunition, fuel, other materiel) and warehousing;
+– maintenance of technical materiel and infrastructure;
+– providing general services (administrative support, cleaning, etc.);
+– management of movements and transport of units and other military
+capabilities;
+– ensuring and managing infrastructure capabilities;
+– providing health care;
+– procurement in the strict sense – carrying out procurement procedures,
+concluding contracts and monitoring their fulfilment;
+– budget management and implementation of financial functions.
+
+**8.3 Key challenges**
+
+The logistics system operates within the wider security and political
+environment (NATO, EU) as well as in the internal environment of the defence
+system of the Republic of Slovenia (organisation of processes, development
+of the SAF). As Slovenia enters the Euro-Atlantic integrations the structure,
+scale and mission of the armed forces are changing, and so too are the decisionmaking processes within the defence planning system.
+
+
+-----
+
+Logistical solutions need to be formulated in connection with the current
+solutions and development orientations of the other subsystems of the defence
+system. The challenge for the logistics system is therefore to develop alternative
+approaches and strategies for forming (or transforming) the logistics system
+with regard to the proposed changes in the other subsystems of the defence
+system. Such alternative approaches and strategies will enable intermediate
+system models to be set up that will allow logistics to operate in a stable and
+efficient manner at a given level of development.
+
+**8.4 Planning assumptions and key development principles**
+
+The starting point for the transformation of the logistics system will be the
+defining of a strategy for managing the transformation of the system, but not
+the final ideal system model. Two generic approaches (or strategies) are
+proposed as alternatives:
+– an integrated systemic-procedural approach (Life Cycle Management), the
+essence of which is that the defence system adopts the concept and principles
+of “life cycle management” and establishes it as the basic concept for the
+organisation and operation of the logistics system. The basic goal here is to
+form an integrated, effective and user-oriented comprehensive logistical
+process;
+– a functional-structural approach of “defining and dividing the key logistical
+functions”, the basis of which is to divide logistics into so-called production
+logistics (acquisition logistics) and consumer logistics (operational logistics)
+(NATO Logistics Handbook). In this case the defence system decides on
+the division of the logistics system into a production logistics (acquisition
+logistics) subsystem and a consumer logistics (operational logistics)
+subsystem.
+
+A possible alternative and a transitional strategy could be a combined approach
+based on a traditional division of the logistics system into a production logistics
+subsystem and a consumer logistics subsystem.
+
+
+-----
+
+**9 COMMUNICATIONS** **AND INFORMATION SYSTEM**
+
+**9.1 Purpose**
+
+The Communications and Information System of the MoD ensures
+communications and information services on a priority basis to two large
+user groups – the administrative section of the MoD and the SAF. It ensures
+the operational functioning of information services and sufficient
+communications capacities at the same level of service in peacetime, a state
+of emergency or war, although substantial changes in the intensity of activities
+will occur in a state of emergency or war. Increasingly apparent is the need
+for protection of the Communications and Information System against the
+active operation of various factors which, with integration into the NATO
+system, are becoming much more important. For the Communications and
+Information System to meet these requirements it must, at the planning stage
+already, be designed so as to be safe, strong and reliable, with high availability,
+expandability and upgradeability, standardised and interoperable. The
+management of the system must be logically centralised and multi-layered
+but physically distributed.
+
+To an appropriate extent the Communications and Information System of the
+MoD is connected to the subsystem for the requirements of civil protection
+and disaster relief for which the Civil Protection and Disaster Relief
+Administration of the Republic of Slovenia is responsible.
+
+**9.2 Tasks**
+
+The Communications and Information System of the MoD and the SAF must
+provide information services for all the key defence and military functions,
+and in particular NATO-comparable information support for planning and
+implementation of military operations. One of the key information subsystems
+for planning and implementation of military operations is the C3I subsystem.
+
+**9.3 Key development challenges and goals**
+
+The administrative section of the MoD and the SAF have different development
+dynamics, range of information service requirements and methods of using
+them. In order for the planning, introduction, use and maintenance of
+communications and information services and the associated infrastructure
+to be congruent and cost effective the principles of interoperability at the
+national defence system level must be taken into account when key decisions
+are made, including interoperability with international integrations, not just
+at the level of an individual office, sector, constituent body or command.
+Although care is taken to treat the key communications and information
+services in a balanced manner, in places there are noticeable differences
+between the administrative section of the MoD and the SAF in as much as the
+
+
+-----
+
+first group of users has a wide range of applied solutions at its disposal and
+weak mobility, while the SAF already has mobility among certain key groups
+of users, but with a severely limited range of NATO-comparable applied
+solutions.
+
+The key challenges are:
+– introducing new technologies, especially web technologies;
+– testing of the information environment to achieve internal and external
+interoperability;
+– formulating an internal set of standards which define the technological
+framework;
+– management of data sources and information subsystems;
+– protection of data sources and information subsystems;
+– use of commercially attainable applied solutions;
+– use of open-code solutions.
+
+Despite the mass of regulatory documents and recommendations, management
+of information projects is still unconnected, administratively demanding and
+also labour intensive because of the low level of automation.
+
+NATO is moving towards the procurement and use of technical systems that
+are available on the open market because such equipment is easier and cheaper
+to upgrade and has a longer operational use. Therefore communications and
+information systems for NATO are one of the typical and priority areas. This
+equipment requires better basic training on the part of our own personnel as
+well as broader and longer-term cooperation with commercial organisations
+providing supplementary know-how and services.
+
+The MoD has at its disposal some of the key know-how in this field and some
+experience of long-term cooperation with commercial organisations, and it
+wishes to continue this practice on a larger scale. The know-how and
+experience that the MoD has gathered during this time is partly comparable
+with that of NATO members because the equipment and know-how are
+available in the marketplace. However, we lack experience of intensive and
+reliable use of such equipment in war conditions. In order for our defence
+system to strengthen contact with technologically advanced and
+organisationally efficient defence systems it makes sense for the MoD to
+establish permanent and intensive cooperation with the relevant NATO
+committees and commissions operating in the area of communications and
+information systems. The MoD should cooperate with NATO in the area of
+communications and information systems on a priority and permanent basis
+and this can later serve as a reference model for cooperation with NATO in
+other areas too.
+
+
+-----
+
+Information support to SAF operations comprises the development of
+management, command and control systems, i.e. a communications and
+information system which combines a connected set of information and
+communications capabilities, associated processes and the personnel who
+manage and provide information on request to combatants, commanders and
+support staff. The system increases the combat capability of units by
+substantially increasing awareness of the battlefield situation, shortening the
+required decision-making time and improving use of available capabilities.
+
+The requirements in terms of substantive, time-related, procedural and
+functional coordination of data generated or required by individual groups of
+communications and information services and applications in the defence
+systems are so great that they can only rationally be provided with powerful
+communications and information technology. As a rule these capabilities are
+redundant, but they are concentrated only in pairs of locations which are
+extremely well protected and maintained. Although smaller and relatively
+autonomous communications and information subsystems would ensure
+greater strength in the overall system, the coordination and replication of data
+between such subsystems would require such a lot of time that near real time
+processing would be impossible.
+
+Users such as military units are mobile users needing a highly diverse range
+of communications and information services and applications. Together with
+other users of these communications and information services they provide
+the input data. A major advantage of this type of organisation is that units
+share data and so in a very short time can set up a high level of interoperability,
+while commanders have an overall view of the battlefield and the possibility
+to react in near real time. Even the smallest military units need communications
+and information services which for their operation use high performance
+communications and information technology. If these units were to attempt
+to achieve self-sufficiency, the quantity and price of this information equipment
+would grow beyond all reasonable bounds, and coordination between
+communications and information services would become an almost unsolvable
+problem. Because even the smallest units need excellent communications and
+information support, a rational solution is to centralise the communications
+and information equipment for applied processing, which is generally
+stationary, and to have a high level of distributiveness, mobility and redundancy
+of communications capacities for access to these services.
+
+A functional C3I subsystem is required with all the associated communications
+(in particular the mobile component), information and organisational
+infrastructure meeting all the key requirements of the SAF for national defence
+as well as the NATO criteria of interoperability for cooperation in the system
+of collective defence and in peacekeeping operations. The system must enable
+
+
+-----
+
+multiple redundant use of civil communications capacities (including
+international and satellite capacities), but which for the subsystem managers
+are transparent and enable dynamic and flexible allocation of capacities and
+information services to individual groups of users depending on their current
+requirements or tasks.
+
+The subsystem must enable a transition to a situation where it becomes the
+main management and control system of all the key communications capacities
+in the national defence system. The communications subsystems thus included
+in the national defence system are technologically hybrid but compatible with
+NATO and international standards. The C3I subsystem is still only partly
+intended for provision of information services for SAF requirements; the
+remaining part serves the integration and management of communications
+subsystems which in peacetime generally operate independently within
+ministries, government services, large companies and so on.
+
+
+-----
+
+**10 HUMAN** **RESOURCE** **MANAGEMENT**
+
+**10.1 Purpose**
+
+The basic goal of human resource management is to ensure the development
+and implementation of individual career development, raise the level of
+specialist education and training and ensure employee loyalty and
+responsibility to the national security system and, in particular, the defence
+system.
+
+**10.2 Scale and structure of human resources**
+
+As at 31 December 2003 a total of 7,950 people were employed in the MoD,
+of which 6,376 (80%) were in the SAF, 324 (4%) in the Civil Protection and
+Disaster Relief Administration of the Republic of Slovenia, 67 (1%) in the
+Inspectorate of the Republic of Slovenia for Protection Against Natural and
+Other Disasters, and 1,183 (15%) in the organisational units of the ministry.
+
+The active component of the SAF, numbering 6,376 employees, comprises
+1,557 (24.4%) officers, 2,074 (32.5%) junior officers, 1,968 (30.9%)
+professional soldiers and 777 (13.2%) civilian personnel.
+
+In accordance with the Slovenian government decision, the Ministry of
+Defence (not including the SAF) has a permitted quota of 1,621 employees in
+2004 and 1,606 in 2005. In the SAF the number of employees will increase to
+6,950 in 2004 and to 7,350 in 2005. This means an increase of almost 600 in
+the number of employees in the SAF in 2004 and a further 400 in 2005. The
+growth in the number of employees in the SAF is part of the implementation
+of the project to professionalise the army.
+
+The ratio of officers, junior officers and soldiers in the SAF is inappropriate,
+and there are also personnel disparities in terms of education, age and rank.
+There are too few soldiers and too many officers compared to the wartime
+strength target structure. The inappropriate ratio of the numbers of officers,
+junior officers and soldiers results from the reduction in the size of the reserve
+force of the SAF in recent years and the ending of the conscript system. The
+target ratio can be achieved by 2010 on the basis of the following measures:
+– seeking suitable positions for employees through the internal labour market
+in the bodies of the national administration;
+– amendments to the Defence Act;
+– appropriate personnel policy in the area of employment;
+– measures determined in accordance with the strategy for the further
+development of the Slovenian public sector.
+
+For the purpose of finding possibilities for the transfer of employees from the
+MoD, a special working group was set up with the Ministry of the Interior
+
+
+-----
+
+which is intensively studying the possibility of staff transfers from the MoD
+to the police. Discussions are also in progress to find other solutions involving
+cooperation and staff transfers between agencies.
+
+The MoD has 1,592 employees who do not have the appropriate level of
+education, of whom 1,247 are in the SAF. Of the total of 1,592, some 334
+have signed contracts with the ministry for obtaining the appropriate level.
+According to unofficial figures, a further 150 people are also taking courses
+to obtain the required level of education but have not signed education contracts
+with the ministry. For a certain number of employees the regulations allow
+the lack of appropriate education level to be overlooked (e.g. 289 military
+personnel pursuant to the 1995 Defence Act).
+
+A planned personnel policy has been in place since 2002 which envisages
+employment only of soldiers and students with grants who we are obliged to
+take on at the end of a period of study in accordance with their contracts. In
+this way we achieved a change in the overall structure in the period between
+31 December 2002 and 31 October 2003, with the share of soldiers rising by
+6.5% and the share of officers falling by 4.5%.
+
+**10.3 Human resource development**
+
+The development vision in the area of human resources is to create a
+comprehensive, modern, integrated, transparent, successful and effective
+system which will be strategically designed in line with human resource and
+human capital management and will enable the right people to be allocated to
+the right jobs at the right time.
+
+**10.4 Establishing a modern personnel function**
+
+The main advantages of the existing personnel function of the MoD are the
+system and procedural stability of the individual sub-functions, enabling the
+personnel function to be effectively upgraded and further developed.
+
+The main weaknesses in the ministry’s existing personnel function lie in an
+excessive administrative orientation and an inadequate professional,
+developmental, research, scientific, coordinating and, above all, strategic
+orientation. The personnel function itself is oriented strictly towards narrow
+staffing but there is no systematic and comprehensive personnel development.
+
+The personnel function must gradually be transformed into part of the human
+resource and human capital management process. The basic principles
+underlying this process are intensive reorganisation and restructuring of
+personnel.
+
+
+-----
+
+The danger is that the modernisation of the personnel function will be too
+slow, which would increase the inefficiency and lack of transparency in the
+staffing system. And this could have long-term consequences, particularly in
+terms of a negative impact on staff motivation.
+
+The existing, traditional organisation of the personnel function will be
+transformed by the end of 2004. A system of strategic planning for human
+resource management will be established and a personnel policy defined which
+will enable a transparent personnel development model to be comprehensively
+established. The focus will be on ensuring and setting out clear guidelines
+and methodological and (substantive) expert solutions for all organisational
+units of the MoD and the constituent bodies within the ministry. Priority will
+be given to establishing a professional army and rationalising the functioning
+of the system as a whole.
+
+Effective strategic personnel planning will require a combining of the
+operational and tactical levels of the personnel function which are carried out
+in individual segments. In this context personnel activities need to be
+homogenised and integrated between the Organisation and Personnel Office,
+the Defence Policy Office and the SAF.
+
+**10.5 Overall development of human resources and human capital**
+
+Within the human resource management model, a system of individual career
+development will be introduced in the MoD by the end of 2004 in accordance
+with the needs and capacities of the system on the one hand and the need for
+substantive and methodological know-how and experience on the other. As a
+link between the actual capacities and needs of the system, the individual
+will influence career development on the basis of annual appraisal interviews
+and evaluations.
+
+By the end of 2004 the following measures will be undertaken for all
+organisational units in the MoD and the constituent bodies within the ministry:
+– a system of performance evaluation and individual career planning will be
+introduced for all employees in the MoD and the constituent bodies within
+the ministry;
+– a project will be elaborated for development of senior personnel and
+management staff in the area of defence and crisis management;
+– a system of annual appraisal interviews, systematic encouragement of
+innovation, an evaluation system using the 360ş method, e-education,
+individual annual work plans, education, promotion and the concept of a
+“learning system” will all be introduced;
+– the rewards and motivation system will be improved with the development
+of standardised criteria for all employees, and mechanisms to measure
+productivity will be introduced;
+
+
+-----
+
+– the key concepts of the CAF excellence model and the IP personnel standard
+will be introduced in the area of personnel development;
+– comprehensive upgrading of the competencies of all employees (knowhow, skills, experience, abilities, value, loyalty, responsibility, satisfaction,
+responsiveness to change and so on) with regard to the current and envisaged
+needs of the ministry;
+– methodological orientations and tools will be prepared to support the
+personnel development efforts of the organisational units of the MoD and
+the constituent bodies within the ministry;
+– management and measurement of the organisational culture of all the
+organisational units of the MoD and the constituent bodies within the
+ministry will be introduced.
+
+
+-----
+
+**11 ORGANISATIONAL** **STRUCTURE** **OF** **THE MOD**
+
+**11.1 Characteristics**
+
+The current organisational structure of the administrative section of the MoD
+is based on three directorates and a Secretariat of the Secretary General:
+
+1. Secretariat of the Secretary General with the following organisational
+units:
+– Organisation and Personnel Office
+– Legal Office
+– General Affairs Office
+– Publications Office
+2. Defence Policy Directorate with the following organisational units:
+– Defence Planning Sector
+– International Cooperation Sector
+– NATO/EU Central Register
+3. Defence Affairs Directorate with the following organisational units:
+– Civil Defence Sector
+– Military Affairs Sector
+– Information and Communications Sector
+– National Crisis Management Centre
+– Defence Administrations
+4. Logistics Directorate with the following organisational units:
+– Equipment Sector
+– Public Procurement Service
+– Standardisation and Codification Service
+– Finance Sector
+– Accounts Sector
+– Property Management Service
+
+Directly subordinate to the Minister of Defence are:
+– Intelligence and Security Service
+– Internal Auditing Service
+– Minister’s Office
+
+Pursuant to the Defence Act and the State Administration Act the following
+operate as constituent bodies within the ministry:
+– General Staff of the SAF
+– Defence Inspectorate of the Republic of Slovenia
+– Administration of the Republic of Slovenia for Civil Protection and
+Disaster Relief, and branch offices
+– Inspectorate of the Republic of Slovenia for Protection Against Natural
+and Other Disasters, and branch offices.
+
+
+-----
+
+Regulations introduced in 2003 relating to the public sector require the relevant
+bodies to prepare new acts on internal organisation and job classification,
+which in substance involve merely a harmonisation with the provisions of the
+new legislation. Under the new acts the main processes in the ministry are
+carried out within directorates which have replaced the existing offices. New
+offices will not be set up in the ministry during the transitional period. There
+is a possibility of them being introduced in the next phase of reorganisation
+after 2004. An analysis of processes and requirements will determine the
+new organisational structure of the ministry and its constituent bodies. The
+success of the new organisational solutions will depend primarily on the
+division of work between the constituent bodies, the administrative section
+of the MoD and the SAF. The analysis will also influence decisions in
+connection with the changed competencies relating to the implementation of
+integration tasks now arising in an identical form, decentralised or repeatedly,
+at different organisational levels and in different organisational units of the
+ministry.
+
+**11.2 Future**
+
+Depending on how appropriate the organisational structure is, it can be used
+to accelerate or hinder the implementation of strategic and operational goals.
+The organisational structure must ensure optimum organisation of activities,
+the shortest possible hierarchical management scale, mission fulfilment,
+appropriate control and education and training for future tasks. A characteristic
+feature of modern organisational structures is that they are becoming less and
+less permanent (and increasingly flexible), and operating in unaltered form
+for relatively short periods of time. Changes in the organisational structure
+therefore enable faster and more effective adjustment to new requirements
+and new environments.
+
+The transformation of the security environment and Slovenia’s joining of
+international security-defence and economic integrations also dictate the need
+for changes in the organisational structure of the MoD and the SAF. The key
+reasons are:
+– a reduction in the military threat and the consequent abandonment of the
+concept of total defence;
+– a reduction in the number of agencies involved and hence in the scale of
+defence preparations;
+– a reduction in the size of the wartime strength of the SAF;
+– changes to the manning method in the SAF;
+– inclusion in NATO and the EU;
+– intensification of the process of introducing information technology in the
+defence field.
+
+
+-----
+
+Intensive changes in the scale and structure of the SAF and its missions and
+tasks consequently require a change in the organisational structure of the
+MoD. This is still almost identical to the basic organisational structure of the
+MoD in the 1990s, which is becoming increasingly less effective and
+increasingly oriented towards serving its own purposes. Thus the basic goal
+underlying the changing of the MoD’s organisational structure is to increase
+the efficiency and cost effectiveness of its activities.
+
+The scale and design of the existing organisation and classification of positions
+within the MoD need to be gradually adapted, particularly because with
+Slovenia joining the EU and NATO in 2004 there are still too many unknowns
+in terms of the required future organisation of the MoD. Solutions from abroad
+cannot simply be transferred into our system, some of whose individual
+solutions are in themselves quite unique. A gradual process of reorganisation
+means a sequence of changes in the organisational structure of the MoD and
+the SAF in accordance with predetermined priorities, with priority given to
+processes, or implementers of processes and sub-processes, which ensure
+the implementation of key tasks or which require minimum intervention in
+the existing structure while achieving substantial and immediate effects.
+
+Gradually by 2015 the MoD needs to put in place the optimum organisational
+structure which will derive from its mission and be based on functions and
+(business) processes defined in detail. This process must take account of the
+availability of human and financial resources, which in all likelihood also
+means combining certain individual functions, especially business functions.
+
+The Republic of Slovenia is planning to establish an integrated structure of
+defence administration which will be rational, transparent, comparable to other
+NATO member countries and suitable to the size of SAF. This defence goal
+is divided into further tasks:
+– to complete the reform of the defence administration and integration of all
+administrative tasks, professional tasks and business functions in MoD and
+SAF by 2008;
+– to establish integrated civil-military structures in the fields of intelligence
+and security, communications and information, protocol and public relations
+by 2006.
+
+**11.3 Administrative territorial organisation**
+
+For the purpose of carrying out defence-related administrative and specialist
+tasks in certain urban and geographically linked regions the MoD has set up
+defence administrations which, until recently, carried out tasks related to the
+defence system and the system of protection against natural and other disasters,
+and headed administrative procedures connected with the exercise of the rights
+and duties of citizens concerning the implementation of military, work and
+material duties and duties in connection with civil protection and disaster relief.
+A total of 13 defence administrations and 58 defence branches were set up.
+
+
+-----
+
+In early 2002 phase 1 of the transformation of the administrative territorial
+organisation of the MoD was carried out, the purpose of which was to
+strengthen the area of civil protection and disaster relief within the unified
+departments at the level of the defence administration, to reduce the role of
+the defence branch with the transfer of certain areas of work to the defence
+administration level and to reduce the number of jobs, particularly in the
+technical and administrative fields.
+
+In 2002 the activities to transform the administrative territorial organisation
+of the MoD continued with the following essential conditions having been
+met: firstly, with organisational, technical and personnel preparations having
+been carried out the conditions were in place for removing the area of civil
+protection and disaster relief from the responsibility of the defence
+administrations and making it directly subordinate at the regional level to the
+Administration of the Republic of Slovenia for Civil Protection and Disaster
+Relief; and secondly, the introduction of the defence and protection duties
+information system enabled processing of data in records of military, work
+and material duty and civil protection and disaster relief duties regardless of
+location. The reorganisation, which came into force on 1 January 2003,
+included a reduction in the number of defence administrations from 13 to 8
+and in the number of defence branches from 58 to 24. Before the reorganisation
+the defence administrations had a total of 396 employees, compared with 308
+on 30 November 2003. A substantial rationalisation of staff numbers has
+therefore taken place, along with a reduction in the funds, premises and other
+material and technical means required for the work of the defence
+administrations.
+
+With the change to the manning system in the SAF and the gradual
+abandonment of individual elements of military duty in peacetime, as well as
+the impending membership of NATO, appropriate organisational and personnel
+measures also had to be taken in the defence administrations in order to adapt
+to the new circumstances. Previously the main task of the defence
+administrations in the area of civil defence was to direct and coordinate the
+work with the bodies responsible for defence planning. However, when
+Slovenia joins NATO the emphasis will be on carrying out Host Nation Support
+tasks. In the area of information technology and communications a
+reorganisation of administrative communications is underway which, through
+technological modernisation and a clear definition of requirements in the area
+of administrative communications in the transitional period, will enable tasks
+to be carried out on a more rational basis. An important part of the development
+of e-administration is the introduction of electronic operations, which will
+enable public access to the web environment (internet) and improved
+performance of a wider range of services with a smaller number of
+organisational units.
+
+
+-----
+
+The main changes in the work of the defence administrations took place in
+the area of military affairs. In accordance with the newly adopted regulations
+their tasks are oriented primarily towards cooperation in SAF recruitment
+procedures. They have begun identifying candidates for contractual military
+service in the reserve force of the SAF and for voluntary military service.
+Until further notice they will also carry out tasks connected with the
+compulsory reserve, with the reduction in the wartime strength of the SAF
+and management of administrative procedures related to defence duties.
+
+The new tasks require permanent monitoring of the implementation and
+ongoing adaptation of the organisational structure and staff occupancy in the
+defence administrations. Taking into account the age and education structure
+of the employees in the defence administrations we will devote particular
+attention to lowering the average age and improving the education structure
+of employees and to their continuing training for carrying out specific tasks.
+
+
+-----
+
+**12 CONCLUSIONS**
+
+1. The Republic of Slovenia is setting up a responsive national security
+system, and within it a defence system, which will be able to adapt
+effectively to frequent and intensive changes in the strategic environment,
+ensure an appropriate level of national security and contribute to reducing
+the possibility of crises occurring.
+
+2. Progress is evident in the professionalisation of the SAF and the
+rationalisation of the command structure. The long-term force structure
+has been determined and a number of important steps have been taken
+towards achieving the target structure. The tasks of the SAF are clear,
+and they need to be implemented. The other part of the defence system,
+under the responsibility of the MoD, will ensure full support to the SAF
+in achieving the final capabilities of units and commands.
+
+3. Civil emergency planning and crisis management will be comprehensively
+regulated and the key elements of this system will be established and
+connected at the national level.
+
+4. We will thoroughly analyse the processes and functions in the defence
+system and set up an organisational structure of the MoD modelled on
+modern defence systems which will enable a rationalisation and
+optimisation of the implementation of processes and functions.
+
+5. We will formalise defence planning, which will link the goals and tasks
+with defence resources.
+
+6. We will rationalise the personnel structure and put in place an effective
+career system. We will gradually resolve the problem of excess staff and
+insufficiently qualified employees.
+
+7. We will develop a comprehensive system of military education and training,
+including appropriate changes in the area of training SAF units for
+integration into higher Allied formations. Decisions will be made on
+partnership with Allies for higher-level exercises.
+
+8. We will improve the training of civilian personnel, particularly with a
+view to acquiring the appropriate expertise and capabilities in the area of
+command and control.
+
+9. Modernisation and equipment programmes and research and technological
+development programmes will be fully in line with the long-term plan
+and the medium-term development programme of the defence system.
+
+
+-----
+
+10. Over the long term there will be improvements in the organisational and
+other solutions in the security system and the system of protection against
+natural and other disasters insofar as they link to and supplement the
+defence system.
+
+
+-----
+

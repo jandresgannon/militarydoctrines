@@ -1,0 +1,3195 @@
+SECOND
+INVESTIGATION
+DEPARTMENT STATE SECURITY
+UNDER THE DEPARTMENT OF
+MINISTRY OF THE REPUBLIC OF
+NATIONAL DEFENCE LITHUANIA
+
+## NATIONAL  THREAT ASSESSMENT
+
+# 2020
+
+
+-----
+
+SECOND
+INVESTIGATION
+DEPARTMENT
+UNDER THE
+MINISTRY OF
+NATIONAL DEFENCE
+
+
+STATE SECURITY
+DEPARTMENT OF
+THE REPUBLIC OF
+LITHUANIA
+
+
+## NATIONAL  THREAT ASSESSMENT
+# 2020
+
+
+-----
+
+### CONTENTS
+
+INTRODUCTION 3
+
+SUMMARY 4
+
+REGIONAL SECURITY 8
+
+MILITARY SECURITY 19
+
+
+ACTIVITIES OF HOSTILE INTELLIGENCE AND
+SECURITY SERVICES
+
+
+26
+
+
+PROTECTION OF CONSTITUTIONAL ORDER 37
+
+INFORMATION SECURITY 40
+
+ECONOMIC AND ENERGY SECURITY 48
+
+TERRORISM AND MIGRATION 55
+
+GLOBAL SECURITY 60
+
+
+-----
+
+### INTRODUCTION
+
+The National Security Threat Assessment by the Second Investigation Depart
+ment under the Ministry of National Defence (AOTD) and the State Security
+
+Department of the Republic of Lithuania (VSD) is presented to the public in
+
+accordance with the Articles 8 and 26 of the Law on Intelligence of the Repub
+lic of Lithuania. The document provides consolidated, unclassified assessment
+
+of threats and risks to national security of the Republic of Lithuania prepared
+
+by both intelligence services.
+
+The document assesses events, processes and trends that make the biggest
+
+influence on national security situation in the Republic of Lithuania. Based
+
+on them and considering the long-term trends affecting national security, the
+
+document provides the assessment of major challenges that the Lithuanian
+
+national security is to face in the near term (2020–2021). The assessments of
+
+long-term trends project the perspective up to 10 years.
+
+The assessment is based on information available before 10 December 2019.
+
+The table below outlines the language of probability and definition of terms
+
+used in this assessment:
+
+|Short term: 0–6 mont|hs Near term: 6 mont|hs – 2 years Mid term:|3–5 years Long term: 6–10 years|
+|---|---|---|---|
+
+
+< 25 % 25–50 % 50–75 % > 75 %
+
+UNLIKELY POSSIBLE LIKELY HIGHLY LIKELY
+
+
+-----
+
+### SUMMARY
+
+ **The main threat to Lithuania’s national security is Russia’s foreign and**
+
+**security policies driven by the Kremlin’s desire to ensure the regime’s sta-**
+
+**bility and demonstrate its indispensability to domestic audience. While dis-**
+
+satisfaction with declining living standards and actions of authoritarian regime
+
+in Russia has been on the rise, even the largest protests in Moscow in recent
+
+years have failed to mobilise a largely passive society.
+
+ **Russia’s increasing military potential and activity in the Western Military**
+
+**District and Kaliningrad region, as well as its deepening military integration**
+
+**with Belarus, has a negative impact on Lithuania’s military security. Russia**
+
+is consistently strengthening its conventional and nuclear capabilities, deve
+loping new armaments and conducting large-scale exercises. Russia’s mili
+tary potential and the rapid centralized decision-making create a significant
+
+advantage for Russia over Lithuania and other neighbouring states.
+
+ **The Russian intelligence and security services that are closely cooperating**
+
+**with the Belarusian intelligence and security services pose the main intelli-**
+
+**gence threat to Lithuania. The system of free electronic visas to Kaliningrad**
+
+and St. Petersburg allows Russian intelligence services to collect information
+
+from visiting tourists and to look for recruitment targets. Russian intelligence
+
+services not only actively collect intelligence information related to Lithuania,
+
+but also seek to carry out influence activities through the Russian compatriot
+
+community in Lithuania.
+
+
+-----
+
+ **Ongoing malicious use of Russian and Chinese cyber capabilities is being**
+
+**observed in Lithuanian cyberspace.** The biggest threat to the security of
+
+Lithuanian information systems, and the information stored in them, is the
+
+cyber espionage of the Russian intelligence services. The development of 5G
+
+technology without sufficient focus on the trustworthiness of the IT service or
+
+product provider may become a new risk factor.
+
+ **In the information domain, events that underpin Lithuania’s statehood**
+
+**and testify to its resistance to the Soviet occupation are the main targets of**
+
+**the Russian propaganda and its history policy. For this reason, Russian propa-**
+
+ganda seeks to convince foreign and domestic audiences that those convicted
+
+during the case of January 1991 coup case are unduly persecuted political pri
+soners.
+
+ **The biggest risk to Lithuania’s energy independence comes from Rus-**
+
+**sia’s aim to maintain its dominance over the Baltic energy markets. Russian**
+
+energy companies seek to establish themselves in the Lithuanian liquefied
+
+natural gas market and try to adapt to new conditions shaped by Lithua
+nian projects ensuring energy independence. The Belarusian nuclear power
+
+plant under construction in the vicinity of Lithuania does not comply with
+
+international safety standards. Russian State Atomic Energy Corporation
+
+‘Rosatom’ ignores unfavourable findings of international and Belarusian
+
+experts, neglects demands of construction supervisory bodies and seeks to
+
+cover up incidents.
+
+
+-----
+
+SUMMARY
+
+ **Russia seeks to expand its influence in the West through parliamentary**
+
+**diplomacy.** In bilateral and multilateral parliamentary diplomacy fora, the
+
+Kremlin looks for foreign politicians and public figures to represent its posi
+tion internationally and to influence political processes in their own countries.
+
+Moscow’s main goals are to legitimize the results of its aggression against
+
+Ukraine and to incite disagreements among Western countries about the pol
+icy of sanctions against Russia.
+
+ **The Commonwealth of Independent States remains the key area for Russia**
+
+**in terms of maintaining its influence.** Russia’s negotiations with Belarus on
+
+energy cooperation and deeper integration shift to political pressure. Despite
+
+Minsk’s relative success in delaying decisions on further integration, Belarus’
+
+financial and economic dependence on Russia enables Moscow to pursue
+
+deeper political integration.
+
+ **In order to regain its global power status, Russia attempts to discredit**
+
+**Western policies in geopolitically important regions and expand its influence**
+
+**there. The Kremlin tries to halt the Western integration of Ukraine, Moldova**
+
+and Georgia and bring them back into the Russian sphere of influence. Russia
+
+expands its influence in the Middle East, North and Central Africa, South Amer
+ica, and the Arctic.
+
+
+-----
+
+ **China expands its influence around the world by consolidating support on**
+
+**international arena for its global political agenda. China’s pursuit of techno-**
+
+logical advantage and its penetrating investment activities increase the vul
+nerability of other states and pose the risk of losing control over the criti
+cal infrastructure. Russia’s confrontation with the West in international arena
+
+encourages Moscow to coordinate its interests with China. These countries
+
+maintain close political and military relations and coordinate positions on
+
+international issues.
+
+ **The level of terrorist threat in Lithuania remains low. While the number of**
+
+terrorist attacks is on the decline in the European Union, ISIL and Al Qaeda
+
+continue to pose a major terrorist threat. The change of the ISIL leader has had
+
+little effect on the viability of the organization. ISIL still seeks to fulfil its vision
+
+of a ‘caliphate’, continues its anti-Western propaganda, and incites extremists
+
+and supporters online to independent attacks in Western countries. The threat
+
+of terrorist attacks by right-wing extremists in Europe is increasing.
+
+
+-----
+
+### REGIONAL SECURITY
+
+_REUTERS / Scanpix_
+
+
+-----
+
+Why Russia poses a threat to Lithuania?
+
+Russia’s foreign and security policies pose a threat to Lithuania’s national
+
+security. In their pursuit Russia seeks to: 1) undermine the sovereignty of
+
+other states and increase its influence there; 2) weaken NATO and the EU,
+
+confront their policies, and sow discord among Allies; 3) replace international
+
+system based on the rule of law with ‘pragmatic’ agreements made behind
+
+closed doors; 4) develop offensive capabilities of its armed forces and
+
+intelligence services, increase the effectiveness of their use against
+
+foreign countries.
+
+Russia’s foreign and security policies are driven by the interests of the Kremlin
+
+and its threat perception. The Kremlin’s fundamental objective is to ensure
+
+stability of the regime. The Russian political and military authorities consider
+
+that the West seeks to impose a regime change. Therefore, the Kremlin
+
+seeks to halt NATO enlargement, restrict the exposure of Russian society to
+
+democratic political culture, and limit the activities of civil movements and
+
+media critical of the regime.
+
+Moscow sees international relations as an arena of geopolitical competition
+
+between the great powers and their alliances. Moscow considers it necessary
+
+to expand its sphere of influence at the expense of its perceived opponents.
+
+The Kremlin sees the development of Russia’s geopolitical influence as
+
+securing its national interests and presents this to the domestic audience as
+
+evidence of the regime’s effectiveness and indispensability.
+
+The regime effectively combines political and diplomatic activities with
+
+economic and military clout. By providing attractive offers for hydrocarbons,
+
+arms or other trade deals, the Kremlin is increasing political dependence
+
+of other countries on Russia. Moscow uses these methods in an attempt
+
+to weaken the unity of NATO and the EU, to undermine the rules based
+
+international order, and to secure its global military presence.
+
+Russia is able to use its military power quickly and efficiently in order to
+
+achieve its political goals, especially in the situations where potential
+
+repercussions do not include unacceptable losses. Russia used such
+
+‘windows of opportunity’ to occupy part of Ukraine and to consolidate its
+
+military presence in Syria. The Kremlin also dispatched its military advisers,
+
+
+-----
+
+REGIONAL SECURITY
+
+The survival strategy of the Russian regime
+is seclusion and repression
+
+The year 2019, especially its second half, was marked by the largest protests in
+
+Russia since 2011 and 2012, when population protested against the falsification
+
+of the parliamentary and presidential elections results. This time, protests also
+
+broke out because of elections, when in mid-July 2019 Moscow City Electoral
+
+Commission refused to register virtually all candidates opposing the regime.
+
+The use of administrative resources in elections is a common practice used
+
+by the Russian authorities. However, this year the refusal to register opposi
+tion candidates led to unexpected public resistance. There was outrage over
+
+the undisguised application of double standards by the authorities, which
+
+rejected the majority of signatures submitted by opposition but accepted all
+
+signatures for candidates endorsed by the regime.
+
+Dissatisfaction with the regime in Russia has been on the rise since 2018
+
+when a wave of protests over pension reform occurred. Six months after the
+
+record-breaking victory in presidential elections in March 2018, Vladimir Putin’s
+
+ratings began to decline and the ruling party ‘United Russia’ had one of the
+
+worst performances of the last decade in regional elections.
+
+Citizens’ dissatisfaction with the government is increased by the protracted
+
+stagnation of the Russian economy. While the country’s GDP has been rising
+
+marginally for the last three years, the real income of the Russian popula
+tion has been on decline since 2014. In fact, the Kremlin was so fed up with
+
+the pessimistic figures provided by the Russian Federal State Statistics Service
+
+that decided to replace its chief executive and to revamp the methodology for
+
+calculating real income, which was supposedly outdated and did not reflect
+
+the real-life situation. The data since 2013 had to be reviewed and a more
+
+optimistic version of the country’s economic situation was to be presented.
+
+This very much mirrors the use of statistics in Soviet-era propaganda, which
+
+had to prove just how good life was in what was supposedly the most powerful
+
+country in the world.
+
+The regime also responds bureaucratically to the decline of its popularity. In
+
+the 2019 regional elections, a large number of regime-sponsored candidates
+
+campaigned as formally independent candidates in order to disguise their ties
+
+
+-----
+
+11
+
+
+Moscow protest participants were massively detained
+
+_AP / Scanpix_
+
+was tightly controlled and critics of the regime, or at least more popular per
+sonalities, who could take away votes from regime candidates, were prevented
+
+from running in the elections.
+
+The regime tried to suppress the Moscow protests by creating an atmosphere
+
+of fear. Protest organizers were often detained before protest actions took
+
+place, jailed, and significant financial charges were pressed against them for
+
+alleged damage. Attempts were made to detain as many protesters as possible
+
+and criminal proceedings were launched in an extremely expeditious manner
+
+against those who allegedly used violence against law enforcement officers.
+
+Court proceedings indicated that Russia is becoming a nation-wide surveil
+lance state. It has not so far been publicly known, for example, that many
+
+public areas in Moscow are surveilled with facial recognition cameras. The data
+
+collected was used solely for the benefit of the regime – records which could
+
+prove that charges against protesters have been fabricated were not accepted
+
+
+-----
+
+REGIONAL SECURITY
+
+Russia accused the West of organizing protests in Moscow and has set up
+
+two parliamentary commissions to investigate this. Their main evidence was
+
+the routine embassy safety recommendations to their citizens about places
+
+to be avoided during protests. The organization of Alexei Navalny, one of the
+
+opposition leaders, that has been most actively involved in organizing the pro
+tests has been declared a foreign agent and charged with money laundering
+
+from abroad.
+
+The results of the 2019 regional elections confirmed the trend that popular
+
+support for ‘United Russia’ is declining, but not as sharp as to challenge ruling
+
+party’s dominant position. The opposition has been able to mobilize a small
+
+section of the public for protests but has failed to mobilize voters. The intimi
+dation tactics of the ruling regime were also effective – the post-election pro
+test movement began to focus on attempts to protect persecuted protesters,
+
+but not on claiming further political rights.
+
+The Russian ruling regime is no longer able to offer its citizens the increase in
+
+prosperity and does not have a clear strategy how to halt declining public sup
+port – except to restrict political participation and the last vestiges of freedom
+
+of expression. However, it successfully conveys to citizens the idea that politics
+
+is an evil to be avoided. The situation in Russia is similar to the Soviet period
+
+of ‘stagnation’ with paternalistic politics, ritualized political participation, and
+
+indispensable leaders.
+
+The Kremlin exploits interparliamentary diplomacy
+to expand contacts and influence
+
+The importance of interparliamentary diplomacy as one of the Kremlin’s foreign
+
+policy tools has been increasing since 2014. As a result of the annexation of
+
+Crimea, and the aggression in eastern Ukraine, many democratic states have
+
+restricted bilateral relations with Russia, and the Kremlin has begun prioritiz
+ing other ways to spread its attitudes and influence. The Kremlin assesses that
+
+governments in many Western countries are dominated by anti-Russian parties,
+
+but political representation in the parliaments is more diverse and often include
+
+persons willing to mend ties with the Kremlin. Interparliamentary diplomacy
+
+enables the Kremlin to convey important messages through these individuals,
+
+h b d di b d d i i i di i
+
+
+-----
+
+13
+
+
+More than 800 participants from
+
+132 countries, including 41 speakers
+
+of national parliaments and 14
+
+international interparliamentary
+
+organizations, attended the
+
+Second International Forum on the
+
+Development of Parliamentarism in
+
+Moscow in the summer of 2019.
+
+_“Interparliamentary cooperation_
+
+_can and must become one of the_
+
+_cornerstones of international_
+
+_relations.” Chairwoman of the_
+
+Federation Council Valentina
+
+Matviyenko
+
+_duma.gov.ru_
+
+Interparliamentary diplomacy in Russia is a centralized process serving the
+
+interests of the authoritarian regime and not an independent initiative of par
+liamentarians. In Russia, foreign policy is strictly coordinated and controlled
+
+by the Presidential Administration. In terms of the functions it actually per
+forms, the Parliament – both the State Duma and the Federation Council – is
+
+the rubber-stamp of decisions made in the Kremlin. This is illustrated by the
+
+fact that in 2019 members of the Duma voted against legislative proposals in
+
+less than one percent of all individual votes. It is therefore highly likely that no
+
+parliamentary initiative, especially concerning foreign policy, is implemented
+
+without the knowledge and consent of the Russian Presidential Administration.
+
+Russia exploits interparliamentary cooperation in its bilateral relations with
+
+foreign countries, as well as through active participation in various interna
+tional parliamentary structures and through the organization of conferences on
+
+li t i Th St t D h t bli h d i t li t li i
+
+
+-----
+
+REGIONAL SECURITY
+
+commissions with foreign countries. The Duma is a member of 17 interpar
+liamentary assemblies, including the Inter-Parliamentary Orthodox Assembly,
+
+the Parliamentary Assembly of the Council of Europe (PACE), and the Organiza
+tion for Security and Co-operation in Europe (OSCE) Parliamentary Assembly.
+
+Russia is inviting foreign parliamentarians to Crimea to justify and legitimize
+
+the results of its aggression against Ukraine and to demonstrate to interna
+tional and domestic audiences that at least some political forces in the West
+
+support Russia in this conflict. Interparliamentary diplomacy is also often
+
+used to establish informal contacts and to gain direct influence over foreign
+
+politicians while offering them and their families travel arrangements with
+
+hospitality packages, media publicity, and financial support.
+
+Russia exploits contacts for its own interests, even with foreign politicians
+
+who are critical of Russia’s ruling regime. The Kremlin presents any attempt
+
+to engage in dialogue as an alternative to allegedly ineffective policy of con
+tainment and sanctions against Russia and seeks to sow discord among allies.
+
+In 2019, Russia regained voting rights in the PACE, which were suspended in
+
+2014 following Russia’s aggression against Ukraine. Dissatisfied with the sus
+pension, Russia has repeatedly stressed that membership of the PACE is not
+
+a necessity and has threatened to withdraw from the Council of Europe. But
+
+its actions did not match its rhetoric – Russia has consistently made diplo
+matic efforts to bring together a majority in support of its return. The PACE is
+
+the most representative assembly in Europe and Russia seeks to exploit it for
+
+advancing its foreign policy agenda.
+
+To the Russian domestic audiences the return of full rights to the Russian
+
+delegation in the PACE is presented as actual recognition of the annexation
+
+of Crimea and thus a significant victory for Putin’s policy. The composition of
+
+the new Russian delegation at the PACE is also telling. Of the 18 delegation
+
+members, five have direct links to Russian aggression against Ukraine. Duma
+
+members Leonid Slutskiy, Leonid Kalashnikov, Igor Lebedev, and Svetlana Zhu
+rova are currently subject to EU sanctions for their active role in supporting the
+
+annexation of Crimea. The delegation also includes senator Vladimir Kozhin
+
+who, as a former influential official of the Presidential Administration, faces US
+
+sanctions for Russian actions in Ukraine. Another senator, Sergey Kislyak, was
+
+Russia’s ambassador to the US from 2008 to 2017 – his activities were exposed
+
+
+-----
+
+15
+
+
+Leonid Slutskiy, a member of the Russian delegation to the PACE and
+
+chairman of the Duma’s Committee on International Affairs, actively
+
+cooperates with radical movements across Europe in favor of the Kremlin.
+
+As head of the Russian Peace Foundation (Российский Фонд Мира) he
+
+organizes election observation missions in annexed Crimea.
+
+_TASS / Scanpix_
+
+Belarus-Russia relations: deeper integration
+in exchange for economic support
+
+Russia seeks to increase its influence on Belarus by using its weak, non-di
+versified and dependent on Russian energy resources economy as the main
+
+lever. Periodically renewed bilateral negotiations on energy cooperation often
+
+evolve into political pressure and confrontation. Moscow ties its economic
+
+support to Belarus to the implementation of the 1999 treaty regarding the
+
+
+-----
+
+REGIONAL SECURITY
+
+Negotiations for deeper integration between the two countries are complicated
+
+by divergent positions and interests. Belarus seeks first to resolve major bilat
+eral economic problems before negotiating any deeper integration. The main
+
+demands of Belarus are compensation for Russia’s gradually implemented tax
+
+reform in the oil sector; supply of natural gas at the Russian domestic market
+
+price; stable and unrestricted export of Belarusian diary and other agricultural
+
+products to Russia; and refinancing of Belarusian debt with new Russian loans.
+
+Meanwhile, Russia seeks closer political integration by imposing unacceptable
+
+conditions on Belarus.
+
+The envisioned integration program covers energy, industry, agriculture, taxa
+tion and customs, monetary, social security and labour policies. The program
+
+is expected to be implemented between 2021 and 2023 thus it is highly likely
+
+that in the mid term Russia’s pressure on Belarus will only increase. So far,
+
+Minsk has succeeded in delaying Moscow’s intentions to develop the political
+
+dimension of the Union State which would include the creation of suprana
+tional institutions. Due to the conflicting interests, the complexity of the inte
+gration objectives, and the ability of Belarus to delay the implementation of
+
+already signed agreements, at least in the near term the Union State project is
+
+unlikely to make any substantial progress.
+
+
+-----
+
+17
+
+
+Although Belarus declares foreign trade diversification as its goal, Russia
+
+remains its main trading partner. In order to reduce its dependence on Russia,
+
+Belarus looks for alternative sources of financing and energy supplies, includ
+ing cooperation with China on granting loans and with Kazakhstan and other
+
+countries on supply of oil and petroleum products. Nevertheless, in the mid
+term Belarus is unlikely to reduce its financial and economic dependence on
+
+Russia. The increase in Russia’s political influence over Belarus, fuelled by this
+
+dependence, will negatively affect regional security.
+
+100 %
+
+EU
+
+Other countries
+
+50 %
+
+Russia
+
+Belarus’ foreign trade
+partners (%).
+
+2015 2016 2017 2018 2019
+
+|Col1|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||||||
+||||||
+
+
+-----
+
+An undemocratic political system is at the root
+of Belarus’ weakness
+
+As expected the Belarusian parliamentary elections in November 2019 –
+
+a rehearsal for the Belarus presidential election in 2020 – did not meet
+
+democratic standards. From the start of the election campaign, opposition
+
+parties faced with unfavourable and discriminatory conditions, opposition
+nominated individuals were not allowed to serve as members of electoral
+
+commissions. Currently, political opposition in Belarus is not capable of
+
+posing a more serious challenge to regime’s candidates. This is due to a
+
+longstanding policy of persecution and control of the political opposition,
+
+as well as a lack of unity among regime-critical political organizations.
+
+Unlike in previous elections, no opposition representatives were ‘admitted’
+
+to the country’s parliament. Real democratic change remains a threat to
+
+Lukashenko’s rule, furthermore, president’s longstanding authoritarian
+
+leadership has not only de facto destroyed civil society and rendered other
+
+authorities ineffective, but has also diminished the importance of politics
+
+in general. Perception of politics in Belarus is reduced to routine
+
+management of economic affairs.
+
+In order to maintain power without democratizing the country, the
+
+Belarusian political regime gradually became hostage of its own policies.
+
+Although the president presents himself as a defender of the Belarusian
+
+sovereignty, his longstanding authoritarian policies and procrastination of
+
+necessary structural reforms have weakened Belarus and reduced its ability
+
+to withstand increasing pressure from Moscow.
+
+
+-----
+
+19
+
+
+### MILITARY SECURITY
+
+Russian armed forces are gaining strength
+
+Russia steadily increases its military power and uses it to enable foreign and
+
+security policy endeavours. As a result, Russia’s military and security remains
+
+one of the most generously funded sectors and the pace of strengthening the
+
+armed forces is steady – military infrastructure is being developed, new mi
+litary units are being created, and the armed forces are being equipped with
+
+modern weaponry and combat equipment. By 2020, a phase of State Armament
+
+Programme will be complete, with the share of new and modernized arma
+ment and combat equipment expected to reach 70 percent. The number of
+
+professional contract soldiers increases, but Russia does not intend to comp
+letely abandon conscription.
+
+
+-----
+
+MILITARY SECURITY
+
+Russia continues to strengthen its conventional capabilities and maintains
+
+the ability to rapidly generate forces in its Western Strategic Direction, which
+
+includes Lithuania. The manoeuvre units (brigades and regiments) are able to
+
+form battalion tactical groups (700–800 soldiers), which are fully manned and
+
+equipped. These groups are fully professional and are capable to operate with
+
+24 to 48 hours’ notice. Russia’s ability to generate forces quickly and its par
+ticularly rapid and centralized decision-making would enable (at least in the
+
+early stages of the conflict) it to gain military advantage over its neighbours.
+
+In addition to developing conventional capabilities, Russia focuses on strategic
+
+nuclear forces. Consistent re-arming of the nuclear triad – strategic missile
+
+troops, strategic nuclear submarines and long-range (strategic) aviation – with
+
+new missiles and their carriers is ongoing. Newly developed hypersonic mis
+siles are designed to overcome missile defence systems.
+
+Large-scale strategic exercises take place on a regular basis, enhancing Rus
+sia’s capability to act simultaneously in multiple conflicts on various scales.
+
+For example, in August 2019, Russia held a large-scale strategic naval forces
+
+exercise Ocean Shield which involved combat and support vessels from
+
+Russian strategic exercise Tsentr-2019
+
+
+-----
+
+21
+
+
+several fleets and multiple aircraft. Geographical coverage of the exercise
+
+ranged from the Baltic and North Seas to the North Atlantic and the Barents
+
+Sea in the Arctic.
+
+The biggest strategic exercise of the year Tsentr took place in September.
+
+According to official announcements, it involved 128,000 troops, with about
+
+2,000 of them coming from other members of the Collective Security Treaty
+
+Organization and the Shanghai Cooperation Organization. Those were mainly
+
+Chinese troops (about 1,500), while the rest came from Kazakhstan, Kyrgyzstan,
+
+India, Pakistan, Uzbekistan, and Tajikistan. Although the exercise took place not
+
+only in the central part of Russia, but also in Kazakhstan, Uzbekistan, and Taji
+kistan, the participation of many foreign countries in the exercise was rather
+
+a symbolic demonstration of solidarity than a real improvement of interoper
+ability with the Russian armed forces. Nevertheless, Russia’s decision to invite
+
+representatives from seven different foreign countries to the exercise demon
+strates Moscow’s efforts to become a key mediator in global security issues.
+
+In October 2019, during the nuclear exercise Grom Russia launched ballistic
+
+and cruise missiles capable of carrying nuclear weapons. According to official
+
+figures, approximately 12,000 personnel from Russian strategic missile troops,
+
+long-range aviation and transport aviation, Eastern, Southern, Central and
+
+Western military districts participated in the exercise.
+
+Kaliningrad military grouping is designed to deny
+Western access to the Baltic region
+
+Military development in the Kaliningrad region reflects the process ongoing
+
+in all Russian armed forces. In the vicinity of Lithuania, Russia develops its
+
+capacity to create anti-access and area denial A2 / AD effect which would allow
+
+Russia to maintain a favourable balance of forces during the initial phase of
+
+a potential conflict. This set of military measures is designed to isolate the
+
+region and to minimize NATO’s access during a crisis or a war.
+
+
+-----
+
+Key A2 / AD weapon systems deployed
+in the Kaliningrad region
+
+
+22
+
+
+Missile systems
+Iskander-M (land tar-
+gets within 500 km)
+
+Coastal defence system
+Bastion (surface targets
+within 300 km)
+
+Long range air defence
+systems S-400 (air
+targets within 250 km)
+
+Coastal defence system
+Bal (surface targets
+within 130 km)
+
+Battleships equipped
+with long-range cruise
+missiles Kalibr (ground
+targets within 2,000 km)
+
+
+-----
+
+Consistent strengthening of military capabilities
+in Kaliningrad region
+
+2012 2013 2014 2015 2016 2017 2018 2019
+
+S-300 (90/120 km).
+
+Bastion / Bal Rearmament: SSC-5 range 300 km; SSC-6
+
+range 130 km; replaced Redut SSC-1 (300 km).
+
+S-400
+
+Bastion / Bal
+
+
+SS-N-30 Kalibr New capability: range 2,000 km against
+
+ground targets; nuclear capable.
+
+SS-N-30 Kalibr
+
+
+Su-30SM Rearmament and new capability: multirole
+
+fighterbomber, „air-air“ and „air-ground“.
+
+Iskander-M Rearmament: range 500 km, ballistic and
+
+cruise missiles, nuclear capable.
+
+Su-30SM
+
+Iskander-M
+
+
+Khrizantema-S New capability: reinforcement of antitank
+
+capabilities.
+
+Khrizantema-S
+
+
+Msta-S Rearmament and new capability: better
+
+combat characteristics.
+
+Msta-S
+
+
+T-72B3 New capability: better combat
+
+characteristics.
+
+T-72B3
+
+
+BM-27 New capability: range 35 km; supplements
+
+BM-21 (20 km).
+
+BM-27
+
+
+Tor-M2 Rearmament: better combat characteristics.
+
+Tor-M2
+
+
+Lithuania
+
+
+Motorifle Brigade (Bde)
+
+Naval Infantry Bde
+
+Artillery Bde
+
+
+Bastion/Bal Missile Bde
+
+Tank Regiment (Reg)
+
+Fighter Reg
+
+
+Helicopter Reg
+
+Air Defence Missile Battalion
+
+Baltiysk Naval Base
+
+
+-----
+
+MILITARY SECURITY
+
+Russia intensively develops and deploys long-range weapon systems capable
+
+of carrying both conventional and nuclear payload. The number of vessels
+
+capable of carrying ‘Kalibr’ cruise missiles is steadily increasing. These Russian
+
+missile systems can strike a potential adversary’s critical infrastructure within
+
+2,000 kilometres range. Kaliningrad witnesses a steady increase of these capa
+bilities. Four ships were delivered there in 2016 to 2019 and the fifth ‘Kalibr’
+
+equipped ship should be delivered in 2020. In Kaliningrad, Russia retains the
+
+tactical nuclear weapon capabilities.
+
+In addition, a mixed aviation division with two aviation regiments – fighter
+
+aviation regiment and a bomber regiment – were re-established in Kalinin
+grad. A helicopter regiment was also formed. In the Kaliningrad region, modern
+
+Su-30SM / FLANKER-H multi-role fighter jets are deployed and are actively
+
+used in combat training. A new larger military unit – the motorized rifle division
+
+will be established in Kaliningrad. It will increase the capability of forces there
+
+to conduct military operations without reinforcement from mainland Russia.
+
+The development of larger units in the Kaliningrad region demonstrates the
+
+long-term intentions of Russia’s political and military leadership to continue
+
+gradual build-up of military capabilities in this exclave.
+
+Military activity is particularly intense at the Dobrovolsk range near the Lith
+uanian state border used for training by the units of the 11th Army Corps and
+
+the Baltic Fleet aircraft. It has a negative impact on Lithuania’s security envi
+ronment and increases the risk of unintended incidents.
+
+Baltic national armed forces and NATO Enhanced Forward Presence (eFP)
+
+battalions deployed in the region reduce Russia’s ability to initiate a
+
+potential military conflict and rapidly achieve desirable results, avoiding
+
+a large-scale Alliance involvement. This reduces the likelihood that Russia
+
+will resort to military force against the Baltic States. However, Russia will
+
+further seek to persuade NATO Allies decision-makers and societies that
+
+additional security measures in the Baltic region are increasing tensions.
+
+
+-----
+
+25
+
+
+Minsk sees its military integration with Russia as its
+security guarantee
+
+Belarus perceives Russia as a key security guarantor against military threats.
+
+Countries conduct combined military exercises to improve interoperability of
+
+their armed forces. Russian military industry remains one of the most import
+ant sources of modernization of the Belarusian armed forces.
+
+With certain distinctions the Belarusian threat perception regarding NATO is
+
+similar to Russia’s approach. Belarus, unlike Russia, does not have the ‘super
+power’ mentality. Therefore, Belarusians are less critical of NATO enlargement,
+
+even though Minsk regards the Alliance as a risk factor for Belarus. Moreover,
+
+lack of trust between Lukashenko and Putin encourages Minsk to avoid perma
+nent deployment of Russian armed forces in Belarus. In the near to mid term,
+
+Lukashenko will highly likely try to maintain his freedom to maneuver despite
+
+the military alliance with Russia. However, Minsk’s security and defence policy
+
+will completely correspond to Moscow’s interests.
+
+Belarus and Russia pay special attention to military interaction. They constantly
+
+renew their plans for military activities and test their effectiveness every two
+
+years alternately in ‘Union Shield’ and ‘Zapad’ exercises. Belarus and Russia
+
+continue to develop and integrate their military elements – the Regional Mili
+tary Grouping and the Unified Regional Air Defence System. Interoperability of
+
+respective units is tested through combined smaller-scale exercises. Belarus
+
+and Russia develop and improve the infrastructure ensuring functionality and
+
+improving efficiency of the Regional Military Grouping. Belarus pays significant
+
+effort to develop host country capabilities.
+
+The Belarusian military leadership aims to modernize the Belarusian
+
+armed forces, to provide them with modern armaments and military
+
+equipment. However, Russia remains the primary source of new military
+
+equipment for Belarus. The Belarusian armed forces have acquired from
+
+Russia 12 light attack aircraft Yak-130 / MITTEN and early-warning radars
+
+‘Protivnik’, continues modernization of tanks. In 2019, Belarus received
+
+from Russia its first Su-30SM / FLANKER-H multifunctional fighter jets.
+
+By 2021 Belarus plans to purchase a total of 12 of these aircraft.
+
+
+-----
+
+26
+
+
+### ACTIVITIES OF HOSTILE INTELLIGENCE AND SECURITY SERVICES
+
+Russian intelligence activity in Lithuania remains intense
+
+Effective counterintelligence measures applied by the Lithuanian intelligence
+
+community make the territory of Lithuania a hard operating environment for
+
+Russian intelligence and security services. However, to offset these limitations
+
+Russian intelligence increased the use of technical means and human intelli
+gence from Russian territory. Different counter-intelligence methods are used
+
+to observe and prevent the activities of hostile intelligence services and per
+sons related to them against Lithuanian national interests.
+
+In 2019, three Lithuanian citizens were convicted of spying for Russia. Accord
+ing to the tasks received from Russian intelligence they collected non-classi
+fied but not publicly available information about the Lithuanian armed forces,
+
+military and other infrastructure of strategic importance. This type of informa
+tion is used by Russian military for operational planning.
+
+
+-----
+
+Lithuania carried out its first exchange
+of persons convicted of espionage with Russia
+
+In 2019, Lithuania carried out its first exchange with Russia of persons
+
+convicted of espionage. Lithuania handed over to Russia convicted Russian
+
+intelligence officers Sergei Moiseyenko and Nikolai Filipchenko. Russia
+
+handed over a convicted citizen of Lithuania and a dual citizen of Lithuania
+
+and the Russian Federation. Along with them, the exchange also involved
+
+a citizen of the Kingdom of Norway sentenced in Russia. This exchange
+
+became possible when Lithuania and Russia reached a mutually
+
+acceptable agreement.
+
+At the time of his arrest Filipchenko was an officer for particularly
+
+important cases in the Intelligence Division of the FSB Directorate for
+
+the Kaliningrad region. Filipchenko participated in the FSB intelligence
+
+operation aimed at penetrating Lithuanian government institutions,
+
+Lithuanian law enforcement and intelligence services. One of the goals
+
+of this FSB operation was to target officers of the Dignitary Protection
+
+Department under the Ministry of Interior who were responsible for
+
+protection of the President of Lithuania and could tap communications at
+
+both the office and residence of the Lithuanian President in exchange
+
+for payment.
+
+The other person transferred to Russia, Moiseyenko, was a Russian
+
+intelligence officer who conducted long-term espionage in Lithuania and
+
+had formed a circle of trusted persons and agents. In Lithuania,
+
+he recruited a Lithuanian armed forces’ officer who provided national and
+
+NATO, classified and non-classified but not publicly available information
+
+to Russian intelligence.
+
+
+-----
+
+ACTIVITIES OF HOSTILE INTELLIGENCE AND SECURITY SERVICES
+
+A counterintelligence operation resulted in arrest of two individuals – the
+
+head of the meteorological unit of the air operations support squadron and a
+
+reserve captain of the Lithuanian armed forces. The head of the meteorolog
+ical unit photographed official documents containing information about the
+
+military infrastructure and equipment deployed at the Lithuanian Air Force air
+
+base. Later, he passed this information to the Main Intelligence Directorate of
+
+the General Staff of the Armed Forces of the Russian Federation (GRU). Mean
+while, the reserve captain acted as an intermediary and was exploited for the
+
+transmission of technical means for espionage and instructions, and for the
+
+collection and transportation of collected information to Russian territory.
+
+Another counterintelligence operation led to arrest of a Lithuanian citizen
+
+with no direct links to the national defence system. However, the GRU used
+
+him to execute intelligence tasks at the port of Klaipėda. He collected and
+
+passed information about Lithuanian armed forces and NATO vessels coming
+
+to Klaipėda, military equipment carried by them, as well as information about
+
+other objects located in Klaipėda city and Klaipėda port which are of strategic
+
+importance for the national security.
+
+All of the above-mentioned Lithuanian citizens were recruited by the GRU in
+
+Russia. It is highly likely that the GRU chose the head of the meteorological
+
+unit as a recruitment target because of his position at strategic air force base
+
+and his regular trips to Russia. On the ground of real and alleged violations
+
+of public order, customs, border control, and migration regulations he was
+
+detained on Russian territory, interrogated, and recruited. The recruitment of
+
+the other two Lithuanian citizens was even easer as they both were living
+
+in Russia.
+
+Typical recruitment scheme
+
+Potential target Establishing a Developing Recruitment Exploitation
+selection contact friendly for espionage
+
+
+-----
+
+29
+
+
+Belarus is Russia’s most important ally in intelligence activities against Lithu
+ania. Belarusian intelligence services actively cooperate with Russian intelli
+gence and support their operations in Belarus. Recruitment cases on Russian
+
+territory prove that trips to Russia and Belarus can significantly increase the
+
+likelihood of recruitment of those Lithuanian citizens who are of interest to
+
+Russian intelligence.
+
+Free visas to Russia open more opportunities
+for Russian intelligence services
+
+In 2019, Russia introduced free electronic visas for the citizens of Lithuania and
+
+52 other countries to the Kaliningrad region, St. Petersburg, and the Leningrad
+
+region. In this way, Russia hopes to promote tourism and generate additional
+
+income. This decision not only provides additional travel opportunities for Lith
+uanian residents, but also poses a risk to national security.
+
+Visa facilitation and the consequent increase of foreigners traveling to Russia
+
+are particularly favourable to Russian intelligence services. They systematically
+
+search for foreigners able to provide intelligence on foreign countries or per
+form other tasks. The Federal Security Service (FSB) and the GRU develop and
+
+use this foreign intelligence method known as intelligence from the territory.
+
+Majority of Russian espionage cases identified in the Baltic States in recent
+
+years were examples of intelligence from the territory – residents of the Bal
+tic States who agreed to cooperate with Russian intelligence were recruited
+
+in Russia.
+
+Russian intelligence services receive information about foreigners coming to
+
+Russia at the moment they submit their visa applications. Among the travelers
+
+Russian intelligence services look for individuals who may possess valuable
+
+information or who are perceived as vulnerable. The Russian intelligence ser
+vices pay special attention to former and active politicians, businessmen, law
+
+enforcement officers, military personnel, and journalists traveling to Russia.
+
+
+-----
+
+ACTIVITIES OF HOSTILE INTELLIGENCE AND SECURITY SERVICES
+
+However, Russian intelligence services increasingly tend to recruit anyone they
+
+can and decide later how to use them as agents. For instance, they can be
+
+tasked to collect visual information, disseminate propaganda, act as intermedi
+aries or provide operational support.
+
+In Russia the FSB and the GRU operate aggressively, and particularly often use
+
+compromising information and blackmail in their recruitment operations. NATO
+
+security services identified many cases where Russian intelligence services
+
+used aggressive measures when establishing contacts with foreigners. They
+
+simulate incidents with local law enforcement, migration or financial institu
+tions threaten to restrict business or personal trips to Russia, initiate acquain
+tance with co-optees of Russian intelligence to establish intimate relations.
+
+Those traveling to Russia are advised to avoid traveling alone and violating
+
+public order; to possess valid documents and necessary permits; to provide
+
+truthful information in visa application; to consume moderate amounts
+
+of alcohol; to avoid carrying primary mobile and computer devices; to
+
+critically assess new acquaintances, offers and requests.
+
+Russian intelligence agencies seek to exploit
+Russian compatriots in Lithuania
+
+In order to expand its influence in the post-Soviet space, Russia employs ‘soft
+
+power’ means such as influence over the Russian-speaking diaspora, history
+
+policy, promotion of Russian language and culture, strengthening of cultural
+
+cooperation. Plenty of institutions engage in cultivating the Russian ‘soft power’,
+
+including means the Russian Presidential Administration, the Ministry of Foreign
+
+Affairs, diplomatic missions abroad, the federal agency ‘Rossotrudnichestvo’,
+
+multiple foundations and government-controlled ‘non-governmental’ organi
+zations (GONGO’s). In addition to these relatively openly operating institutions
+
+and organizations the Russian intelligence services are secretly engaged in Rus
+
+-----
+
+31
+
+
+Systematic and covert attempts by the Russian FSB to spread certain historical
+
+narratives and to influence the Russian compatriots are observed in Lithuania.
+
+One of the most active individuals in these activities is the FSB officer Pyotr
+
+Chagin. For intelligence activities against Lithuania he uses the cover of ‘Fond
+
+Pobedy’ (Фонд Победы), a non-existent organization in the Kaliningrad region.
+
+In his legend the FSB officer adopted a fictitious identity of Petras Taraškev
+ičius and claimed to be representative of ‘Fond Pobedy’ in Lithuania.
+
+FSB officer Chagin who also uses a fictitious identity of Petras Taraškevičius
+
+Operating from the Kaliningrad region, Chagin developed contacts with rep
+resentatives of Russian compatriot organizations in Lithuania and exploited
+
+them to organize and fund multiple events. These events were meant to
+
+underline a positive impact the Soviet Union and Russia made on the devel
+opment of Lithuania. For example, the FSB officer took a keen interest in the
+
+organization of the ‘Immortal Regiment’ (Бессмертный Полк) campaign in
+
+Klaipėda that corresponded with the overall goals of Russian history policy.
+
+Similarly, without disclosing the true authorship Chagin used his contacts to
+
+publish articles prepared by the FSB in Russian language media in Lithuania.
+
+Through his contacts Chagin not only tried to influence Lithuanian public opin
+ion, but also collected intelligence on the situation in the Russian compatriot
+
+community, political situation in Lithuanian municipalities, and showed inter
+est in certain Lithuanian citizens. Chagin observed conspiracy typical to intelli
+gence officers – he never came to Lithuania, set up meetings with his contacts
+
+only in Russia, communicated with them via multiple electronic means.
+
+Chagin’s case shows that Russian intelligence services try to take advantage
+
+
+-----
+
+ACTIVITIES OF HOSTILE INTELLIGENCE AND SECURITY SERVICES
+
+Events funded by the FSB
+
+11-04-2018 Concert in Vilnius to commemorate the International Day for the
+
+Release of Prisoners of Concentration Camps
+
+29-05-2018 Commemoration of Victory Day in Klaipėda
+
+22-06-2018 Event in Klaipėda to commemorate the beginning of the Soviet
+
+Union war with Germany
+
+12-04-2019 Concert on the Day of the Russian Border Guard in Klaipėda
+
+09-05-2019 Concert of Victory Day in Šiauliai
+
+22-06-2019 Event in Klaipėda to commemorate the beginning of the Soviet
+
+Union war with Germany
+
+However, Chagin’s intelligence activities in Lithuania were short of success. The
+
+events he funded neither attracted nor influenced the intended audiences. On
+
+the contrary, the FSB actions undermined the Russian-speaking community in
+
+Lithuania and discredited their legitimate cultural activities.
+
+We ask Lithuanian residents who know or have information about
+
+Kaliningrad resident Pyotr Chagin or Petras Taraškevičius to contact VSD
+
+on the Trust Line 8 700 70007 or by e-mail pranesk@vsd.lt
+
+Chinese intelligence services look for targets
+in Lithuania on LinkedIn
+
+Hostile foreign intelligence services increasingly use online social networks to
+
+find and recruit sources abroad. Chinese intelligence services are particularly
+
+aggressive in this area and they mainly use the opportunities provided by the
+
+social network LinkedIn.
+
+
+-----
+
+33
+
+
+Signs of recruitment by Chinese
+intelligence services via LinkedIn
+
+ The message is received on LinkedIn platform from a Chinese company,
+
+research center or recruitment company
+
+ LinkedIn account with Western name and Chinese surname; fake
+
+photo, sometimes generated by artificial intelligence; abstract and often
+
+meaningless description of company; usually the company has no history
+
+or does not exist; poor English; high number of account connections
+
+ Proposal to provide consultancy services
+
+ Invitation to China with all expenses covered
+
+ Meeting with a LinkedIn contact and his alleged colleagues in China
+
+ Meetings that resemble regular work interviews in hotels
+
+ Request for an analytical assessment of trends in a given country,
+
+summary of public and non-public political or military information
+
+ Payment in advance
+
+ Request for confidentiality
+
+ Further contacts via mobile apps (such as WeChat) or e-mail
+
+ Agreement on the next meeting in China
+
+ Consistent involvement in espionage activities
+
+
+-----
+
+ACTIVITIES OF HOSTILE INTELLIGENCE AND SECURITY SERVICES
+
+A wide range of private and public sector professionals use LinkedIn to estab
+lish professional contacts and find potential employers as well as recruitment
+
+companies look for employees for their clients. Similarly, Chinese intelligence
+
+services exploit opportunities provided by these features.
+
+Chinese intelligence uses LinkedIn to establish contacts with selected tar
+gets abroad in the early stages of recruitment operations. The most common
+
+targets are civil servants, information technology specialists, defence sector
+
+employees, scientists, and experts in multiple other fields. The ultimate goal
+
+of the Chinese intelligence is to recruit targets in China. Such operations are
+
+extremely cheap and pose no risk to Chinese intelligence officers.
+
+Thousands of LinkedIn users around the world have received offers from
+
+fictitious Chinese companies – used as a cover for Chinese intelligence – to
+
+become their consultants or employees. Such activities of the Chinese intelli
+gence were also identified in Lithuania.
+
+Next-generation technologies expand
+opportunities for cyber-espionage
+
+Malicious activity in Lithuanian cyberspace remains high. Russia, China and
+
+other countries gather technical intelligence on Lithuanian information sys
+tems. They seek to collect information on vulnerabilities of Lithuanian individ
+ual and corporate user systems that can be used for hacking and spying. There
+
+are attempts to gain access to critical infrastructure and private sector infor
+mation systems and use it for espionage. The biggest threat to the security
+
+of Lithuanian information systems and the information stored in them is the
+
+cyber espionage of Russian intelligence agencies. It is conducted, for example,
+
+by the GRU group Sofacy / APT28 and the FSB group Agent.btz / Snake.
+
+
+-----
+
+35
+
+
+The fifth generation (5G) communication technology which will enable a much
+
+larger number of devices to connect to the Internet and allow new sectors to
+
+manage systems via the Internet may become a new risk factor for the national
+
+security. 5G should contribute to the economy, innovation, and technologi
+cal progress in medicine, transport and other areas. However, the 5G-enabled
+
+critical systems will become potential targets for cyber attacks. Such attacks
+
+will be able to intercept information previously unavailable on the Internet
+
+and to disrupt newly created critical infrastructure. Sectors that are new to
+
+connecting their systems online may not have the necessary experience and
+
+knowledge to deal with emerging threats. While the convenience and speed of
+
+5G technology is widely recognized as an offset for its drawbacks, putting its
+
+benefits above security could pose risks to the security of personal data and
+
+critical infrastructure.
+
+Another new and particularly dangerous risk factor is supply chain violations
+
+when a selected target is not attacked directly, but through its supplier net
+works, IT products or services. While the common cyberattacks are usually car
+ried out by third-party hackers, trustworthiness of providers remains crucial
+
+for protection of sensitive data and the integrity of the information systems.
+
+Evaluation of a provider should not only encompass potential links with well
+known hackers, their groupings or hostile intelligence services, but also the
+
+assurance that it is able to ensure security of their products. Vulnerabilities
+
+found in both hardware and software components of information systems
+
+allow hackers to perform malicious activities against these systems, disrupt
+
+them, and exfiltrate information stored on them. Although so far the damage
+
+caused by similar attacks in Lithuania has been relatively insignificant, due to
+
+the global nature of these operations it is possible that in the long term the
+
+impact of these attacks on Lithuanian private companies and critical infra
+structure will increase.
+
+
+-----
+
+Use of the supply chain attack method
+
+ Since 2016 the cyber grouping APT10 conducted operation Cloud
+
+_Hopper which attacked IT service companies remotely controlling the IT_
+
+infrastructure of businesses and government agencies. Through these
+
+companies APT10 sought to penetrate the information systems of their
+
+end targets – customers of those IT companies. One of the targets of
+
+this operation was a foreign-owned enterprise operating in Lithuania.
+
+According to the U.S. Department of Justice, Chinese state authorities were
+
+linked to this operation.
+
+ In the 2017 NotPetya ransomware attacks linked to Russian intelligence
+
+services the malware entered the victims’ information systems through an
+
+accounting software used to access the Ukrainian tax system. The malware
+
+encrypted systems data, the loss of which not only affected Ukrainian state
+
+and private organizations, but also spread to other countries. Although
+
+_NotPetya virus affected only a few dozen companies in Lithuania, the_
+
+impact of the attack worldwide was massive, with damage estimated at
+
+hundreds of millions of euros.
+
+A simplified example of a supply chain attack
+
+
+Supplier 1
+
+Information
+
+System
+
+Regular
+communications
+
+
+Supplier 2
+
+Information
+
+System
+
+
+Supplier 3
+
+Information A group of
+
+System hackers
+
+|Malicious code|Col2|
+|---|---|
+
+
+Intercepted
+information
+Target
+information
+
+
+-----
+
+37
+
+
+### PROTECTION OF CONSTITUTIONAL ORDER
+
+Russia faces unfavourable conditions to seek
+political influence in Lithuania
+
+Russia’s military aggression in Ukraine and its exposed attempts to meddle
+
+in foreign elections mobilized international community. The increased aware
+ness of decision-makers and the public of the threats posed by the Kremlin
+
+has considerably reduced its ability to influence Lithuanian political system.
+
+Conditions to impact on strategic political decisions are limited, but Russia
+
+does not abandon its objective to interfere with Lithuania’s domestic political
+
+processes.
+
+Russia monitored the 2019 elections and other political processes in Lithua
+nia, however there were no large-scale attempts to influence their outcome or
+
+manipulate public opinion. During the election campaign Russian propagan
+dists did not focus on campaigning for any particular candidate, but rather ran
+
+slander campaigns against Lithuanian politicians who were most critical of
+
+actions of Russian authorities.
+
+
+-----
+
+PROTECTION OF CONSTITUTIONAL ORDER
+
+Russia uses international events to look for
+individuals who can represent its interests
+
+In order to reduce its international isolation and to pursue its strategic foreign
+
+and domestic policy goals the Kremlin is interested in developing ties with
+
+decision-makers at all levels of government. International events organized
+
+by Russia provide ample opportunities to recruit their participants and engage
+
+them in a process of non-transparent lobbying of Russian interests.
+
+Lithuanian politicians and public figures also receive invitations to attend
+
+conferences and forums on social and political issues, including those orga
+nized in Crimea. The events on the peninsula are aimed at justifying and con
+solidating its annexation. For several consecutive years certain Lithuanian
+
+political figures have been invited to attend the International Yalta Economic
+
+Forum in Crimea. Since 2015, the annual forum has been organized by the
+
+Crimean Council of Ministers and the Foundation of the International Yalta
+
+Economic Forum, and sponsored by the Russian Presidential Administration.
+
+The organizing committee of the event is led by the Russia-appointed head of
+
+the annexed Crimea Sergei Aksionov. The Livadia Forum, another large-scale
+
+event in Crimea to which leaders of foreign non-governmental organizations
+
+are invited, is an integral part of the international slavic festival ‘The Great
+
+Russian Word’, organized in Crimea since 2015.
+
+The Kremlin organizes
+international events looking for
+individuals who can represent
+its interests
+
+
+-----
+
+39
+
+
+The Kremlin covers all travel expenses for individuals attending such events.
+
+Representatives of the Russian authorities show exclusive attention to for
+eign guests and seek to establish and maintain contacts. Therefore, very often
+
+those who attend the event for the first time later receive similar invitations to
+
+other not necessary related events.
+
+By organizing events that correspond to its agenda Russia seeks to create a fic
+tion of international solidarity and neutrality. Russia presents the participation
+
+of politicians and other public figures from foreign countries in such events as
+
+alleged evidence of strong international support for the Kremlin’s policies. In
+
+some cases attempts are made to conceal the Kremlin’s links to such events
+
+or their participants’ links to the Kremlin, especially when it concerns interna
+tional organizations. For instance, the Kremlin exploits OSCE events to ‘defend’
+
+the rights of allegedly persecuted Russian speakers in the Baltic States and
+
+elsewhere. In these venues individuals acting on behalf of the Russian inter
+ests often take the opportunity to disseminate false information and further
+
+Russia’s agenda.
+
+
+-----
+
+### INFORMATION SECURITY
+
+
+_Rubaltic.ru distributed a propaganda_
+bli i ll d li i l
+
+
+-----
+
+41
+
+
+Russia uses propaganda to discredit legal
+processes in Lithuania
+
+The Kremlin uses information policy as an instrument of influence against
+
+foreign countries, including Lithuania. Russia’s information policy is coordi
+nated at the highest level and is implemented through targeted dissemination
+
+of propaganda and disinformation. The Kremlin’s propaganda creates images
+
+that portray Russia as a better and more credible alternative to the ‘failing
+
+West’. It presents allegedly ‘alternative opinions’ and concurrently aims to sow
+
+distrust in information unfavourable to the Kremlin by immediately providing
+
+a number of ‘alternative’ but false versions of the event.
+
+One of the main goals of Russia’s information policy is to disparage Lithuania’s
+
+statehood and to discredit anti-Soviet resistance (for example, the June 1941
+
+uprising, Anti-Soviet Armed Resistance Movement, dissident movement, etc.).
+
+Therefore, in 2019, the masterminds of the Kremlin’s propaganda spared no
+
+effort to discredit the January 1991 attempted coup case and pre-trail inves
+tigations on espionage in favour of Russia. To that end they created and dis
+seminated propagandistic narrative about alleged “politically motivated per
+secution and fabricated political cases in Lithuania”, which was supposed to
+
+justify the Kremlin’s policy.
+
+The propaganda campaign based on this narrative intensified after the Vil
+nius Regional Court announced its ruling in the January 1991 coup case. At the
+
+time of the announcement, representatives of the pro-Kremlin media came to
+
+Lithuania with the purpose to produce propagandistic coverages. In their com
+ments on the court ruling Russian officials emphasized allegedly politicized
+
+trial and denied the validity of the ruling.
+
+Propagandists sought to convince foreign and domestic audiences that those
+
+convicted or detained in the January 1991 coup case and in the case concern
+ing espionage in favour of Russia were political prisoners. They used differ
+ent means to spread this propagandistic narrative. Individuals holding radical
+
+attitudes and acting on behalf of the Kremlin organized propaganda events in
+
+Lithuania and abroad in support of ‘political prisoners’ in Lithuania. Petitions,
+
+articles and videos against alleged political persecution were actively circu
+lated online, particularly on the most popular social networks.
+
+
+-----
+
+Russia’s response to the 13 January 1991 case
+
+Criminal prosecution is one of the instruments used by the Kremlin to
+
+control Russia’s political and economic processes. Opponents of the regime
+
+are prosecuted both directly for their activities and based on fabricated
+
+criminal charges. In addition, criminal pre-trial investigations are initiated as
+
+blackmail on individuals to stop their activities, to transfer assets, or to fulfill
+
+other demands. In case of compliance charges are usually dropped.
+
+Russia started to use this method in its foreign relations. In 2018, the
+
+Russian Investigation Committee launched a pre-trial investigation against
+
+Lithuanian officials who investigated the January 1991 coup case and judges
+
+who heard and decided it. They are accused of illegal persecution of Russian
+
+citizens.
+
+Russia publicly announced the launch of the pre-trial investigation in early
+
+2019, before the announcement of the ruling in the January 1991 coup case
+
+in Lithuania. The Investigative Committee published a propaganda video
+
+titled ‘Lithuanian Justice’ on their official YouTube channel. Defendants
+
+of the January 1991 coup case living in Russia and Belarus speak in the
+
+video. Russia was thus seeking to influence the decision of the Lithuanian
+
+court by indirectly threatening the judges with the actions of Russian law
+
+enforcement, in particular to launch international prosecution.
+
+Russia has not yet taken actions against the citizens of the Republic of
+
+Lithuania, but the investigation of the case gives Russia the opportunity
+
+to put pressure on Lithuania and on the Lithuanian citizens involved in the
+
+January 1991 coup case proceedings, as well as to assert its interpretation of
+
+the January 1991 events.
+
+Following Lithuania’s restoration of independence in March 1990, in January
+
+1991 the Soviet Union tried to suppress it by sending armed forces and
+
+the KGB special units to seize government and other public buildings. The
+
+ensuing clashes in Vilnius between the soviet forces and peaceful civilians
+
+resulted in 14 civilian casualties. In 2019, 67 former soviet officers were
+
+convicted for war crimes and crimes against humanity, most of them in
+
+absentia. Russia denies the soviet occupation of Lithuania, holds the actions
+
+of soviet military in Lithuania legitimate, and considers the trial in Lithuania
+
+
+-----
+
+43
+
+
+The dissemination of Kremlin propaganda was accompanied by intimidation
+
+aimed at influencing investigators and judges in these cases. Russian officials
+
+have unequivocally and publicly stated that they will respond to the court
+
+ruling in the January 1991 coup case.
+
+Russia sought to discredit legal proceedings in Lithuania in the eyes of
+
+the international community. On 20 February 2019, rubaltic.ru, a Russian
+
+online propaganda outlet, announced its so called investigation on political
+
+repressions in the Baltic States in the European Parliament. Most of it was
+
+devoted to the January 1991 coup case. Later, Russian GONGOs supporting
+
+Kremlin’s aggressive foreign and domestic policies addressed the OSCE
+
+urging it to draw attention to the alleged political persecution in Lithuania.
+
+Cyber-enabled information operations against Lithuania
+
+Most cyber-enabled information operations target national defence system.
+
+These attacks have the aim of polarizing society, discrediting the Lithuanian
+
+armed forces and Allies, and diminishing trust in state institutions. On average,
+
+4 to 5 incidents of this type are identified in Lithuania every year. Creators of
+
+fake stories strive to be more compelling and sparsely use techniques that
+
+failed in the past. The new attacks differ in quality from the ones in previous
+
+years – stories are more often based on real events, messages are more widely
+
+spread in foreign media, new institutions and social groups are involved, which
+
+facilitates the spread of the disinformation. Publicly available information
+
+about current events in the country as well as contacts of civil servants and
+
+media are actively used. However, these efforts do not bring desirable results
+
+as dissemination of fake stories is low and does not generate much interest.
+
+It is highly likely that the targets of the attacks will not change significantly in 2020.
+
+In the near term, entities in Lithuania and abroad will contribute to organization
+
+
+-----
+
+INFORMATION SECURITY
+
+Topical issues, for example, environment protection, will be used to provoke
+
+a negative public sentiment. As long as unavailable to a wide range of users,
+
+the advanced technologies (Internet of things, artificial intelligence, deep
+
+fake) contribute to evolution, but not revolution of information manipulation.
+
+A critical approach to information, self-restraint in sharing sensations, and
+
+the security of information networks are among the most effective ways to
+
+increase resilience to various forms of manipulation.
+
+Potential targets of cyber-enabled
+information operations in 2020
+
+ Lithuanian Armed Forces’ capabilities (upgrades and funding)
+
+ Allied forces in Lithuania
+
+ International exercise Defender 2020
+
+
+-----
+
+45
+
+
+Kremlin aggressively responds to restrictions on
+the Russian history policy projects that serves
+the spread of Kremlin’s ideology
+
+The most important goal of Russian history policy in Lithuania is to form con
+sistently an exceptionally positive image of the Soviet influence on Lithuania’s
+
+development, while simultaneously denying the occupation and annexation of
+
+Lithuania. Such a goal is based on the Kremlin’s geopolitical outlook in which
+
+the Baltic States have always belonged to Russia’s sphere of influence and
+
+therefore cannot be independent states.
+
+The alleged positive soviet influence on the development of Lithuania is
+
+embedded in the propaganda narrative of the Great Patriotic War which is
+
+pivotal in the Russian history policy. In attempts to shape and disseminate
+
+this narrative the Kremlin makes extensive use of the soviet memorial sites in
+
+formerly occupied territories. The Kremlin finances the maintenance of soviet
+
+soldiers’ cemeteries and the restoration of military monuments and other
+
+memorial sites. Russia also provides funding for events that underpin its his
+tory policy and are often organized at these sites. Any attempts to challenge
+
+the Kremlin’s ideologically-charged history policy is met with intimidation and
+
+aggressive response. For instance, Russian diplomats threatened Lithuanian
+
+municipal officials who refused to bypass national regulations on the use of
+
+soviet symbols while restoring soviet memorial sites.
+
+
+-----
+
+RUSSIA WILL COMMEMORATE THE 75[TH] ANNIVERSARY
+OF THE VICTORY DAY
+
+Russia portrays the second Soviet occupation which began in the summer
+
+of 1944 with the entry of the soviet armed forces into Lithuanian territory
+
+as ‘liberation from fascism’. In 2019, activists coordinated by Russian
+
+diplomats organized events dedicated to the 75[th] anniversary of the
+
+liberation of Kaunas and Vilnius in Lithuania. In 2019, the Russian Ministry
+
+of Defence also launched a series of 17 events to commemorate the
+
+‘liberation’ of other Eastern European cities.
+
+In 2020, Russia will commemorate the 75[th] anniversary of the Victory Day
+
+which will contain many propaganda events. The Kremlin is interested that
+
+such events fulfill the objectives of Russian history policy and reach out
+
+to the international community. Not only the Russian state institutions,
+
+including the intelligence services or the regime-controlled media, are
+
+used for this purpose, but also international cooperation formats. It is
+
+highly likely that Russia will seek to attract multiple dignitaries and state
+
+officials from abroad to attend these events.
+
+In denial of the soviet occupation, an event dedicated to the 75[th]
+Anniversary of the liberation of Vilnius took place in 2019 in Moscow
+
+
+-----
+
+47
+
+
+The Kremlin is also in denial of those historical facts that attest to executions,
+
+imprisonments, and deportations perpetrated by the soviet authorities. The
+
+Kremlin restricts initiatives of Lithuanian non-governmental organizations and
+
+individuals to commemorate these events and pay respect to their compatri
+ots who perished. For the second consecutive year, Russia did not issue visas
+
+to participants of the ‘Mission to Siberia’ who were planning to take care of
+
+the graves of Soviet repression victims. Russian officials also detained, inter
+rogated, intimidated, and later fined Lithuanians in Russia, Perm region, who
+
+were taking care of the graves of Lithuanian and Polish deportees.
+
+In 2019, the Russian Ministry of Defence initiated a draft law and
+
+amendments to the Russian Criminal Code, introducing sanctions and
+
+criminal liability for those responsible for the destruction of Russian
+
+‘combat glory’ sites abroad. The draft law provides for the establishment
+
+of a special list of foreign nationals who have been involved in the
+
+destruction, damage or desecration of monuments, publicly agitated to
+
+do so or made decisions to do so in the exercise of their administrative
+
+powers. Listed persons would be barred from entering Russia, any property
+
+and funds held in Russia would be seized, all real estate and investment
+
+transactions would be banned, and any legal entities owned by them
+
+would be suspended.
+
+
+-----
+
+### ECONOMIC AND ENERGY SECURITY
+
+_Scanpix Baltics_
+
+
+-----
+
+49
+
+
+The risk of incidents at the Belarusian nuclear
+power plant is increasing
+
+Stakeholders and contractors of the Belarusian nuclear power plant (BelNPP)
+
+project in Astravyets continue to ignore international nuclear safety stan
+dards. In the beginning of 2019, the Meeting of the Parties to the Espoo Con
+vention concluded that Belarus commenced the construction of the BelNPP
+
+without proper site selection procedures and environmental impact assess
+ment. Experts analysed the BelNPP stress test report and identified significant
+
+deficiencies. Although the Nuclear and Radiation Protection Department of
+
+the Belarusian Ministry of Emergency Situations has announced a plan to
+
+eliminate the deficiencies identified during the stress tests, the construction
+
+contractor, the company Atomstroyexport owned by Rosatom, has taken no
+
+real action. Rosatom gives priority to the on-time schedule over the secu
+rity of the BelNPP. At least since mid-2018, Belarusian authorities have been
+
+under pressure to allow the delivery of nuclear fuel, even though BelNPP’s
+
+facilities have not been properly prepared.
+
+Rosatom representatives flippantly consider the demands of the Belarusian
+
+authorities overseeing the construction and ignore the findings of Belarusian
+
+experts. Rosatom considers Gosatomnadzor, the Belarusian agency respon
+sible for project oversight, as an incompetent institution that only impedes
+
+smooth construction of the BelNPP. Even when Belarusian experts took a
+
+tougher stance, Rosatom was reluctant to follow their recommendations. On
+
+the contrary, they made claims about allegedly delayed construction, putting
+
+pressure on Belarusian authorities and seeking political leverage.
+
+On the other hand, Gosatomnadzor lacks not only the competence (without
+
+the necessary experience its experts cannot manage without the assistance
+
+from the Russian agency Rostechnadzor), but also the will to properly super
+vise the work of Rosatom. Gosatomnadzor often failed to ensure contractor’s
+
+compliance with the requirements and decisions or recommendations of
+
+Belarusian experts. During the implementation of the project the regulations
+
+for drafting documentation and licensing of equipment were constantly vio
+lated and the supply of adequate equipment for the BelNPP was not ensured.
+
+Some equipment was not properly certified and in some places equipment
+
+parts were installed that did not conform to the project.
+
+
+-----
+
+ECONOMIC AND ENERGY SECURITY
+
+Due to the rushed construction work, the negligent approach to nuclear
+
+safety, and the poor work ethics, numerous incidents in the BelNPP have
+
+occurred which could have a negative impact on its safe exploitation. The
+
+most significant incidents occurred in 2016, but incidents and violations con
+tinued in subsequent years, including in 2019. At the end of June 2019, work
+ers’ negligence caused a fire in Unit 1 of the BelNPP near the reactor building.
+
+Despite the fact that the Unit 1 is already in preparation for loading nuclear
+
+fuel, the Belarusian authorities have not provided information on the inci
+dent. This fact shows that the situation in the BelNPP has not changed after
+
+the incidents in 2016 – information about the real situation in the BelNPP is
+
+concealed to avoid publicity. Therefore, it is highly likely that the information
+
+will be further withheld after commissioning the BelNPP.
+
+The approaching deadline for the launch of the BelNPP raises tensions
+
+between the Belarusian institutions, project stakeholders, and representa
+tives of Rosatom– they all fear responsibility for potential incidents in the
+
+hastily-built BelNPP. In early July 2019, the construction manager of the Bel
+NPP Dmitriy Romaniec, resigned. He quitted and left Belarus in a very diffi
+cult period – at the start of major preparations for Unit 1. It is highly likely
+
+that his departure was not accidental – the former construction manager
+
+resigned avoiding responsibility for previous incidents, malfunctions, and fur
+ther preparations for commissioning. Moreover, the Belarusian Investigation
+
+Committee had earlier opened a pre-trial investigation into incidents at the
+
+BelNPP construction site. Over the course of that investigation, several peo
+ple working for Russian contractors were detained. However, due to Russian
+
+diplomatic pressure, the cases were terminated.
+
+In our assessment, Rosatom favours the approach to hide information about
+
+defects in the BelNPP project, as it fears for its international reputation as a
+
+reliable partner in nuclear power plant construction projects.
+
+
+-----
+
+51
+
+
+Russian energy companies strive to secure their
+interests in Lithuania
+
+In 2019, Russian energy sector companies actively sought to maintain and
+
+strengthen their position in the Baltic States’ energy market and paid close
+
+attention to strategic energy projects developed by Lithuania.
+
+Since the beginning of 2019, Russian energy company Novatek sought to enter
+
+the Lithuanian liquefied natural gas (LNG) market. The company’s main busi
+ness activity is the supply of LNG from Vysock, including to the Baltic States
+
+via the Klaipėda Terminal. Novatek is able to offer low LNG prices only because
+
+of preferential conditions for LNG exports granted by the Russian government.
+
+Therefore, by increasing its trade turnover via Klaipėda Terminal Novatek is
+
+playing a part in Russia’s long-term game to restore its dominant position in
+
+the regional gas market.
+
+Although Novatek presents itself as a private and one of the most transparent
+
+companies in Russia, there is no doubt that its strategy and goals are coordi
+nated with Russia’s top authorities. Gennady Tymchenko, a Russian oligarch
+
+belonging to Putin’s entourage and one of the Novatek shareholders, is subject
+
+to US sanctions. State-controlled company Gazprom also owns part of Novatek
+
+shares.
+
+As Lithuania diversified its natural gas supply, Gazprom lost its position in the
+
+Lithuanian market and could no longer manipulate prices. In 2019, Gazprom
+
+refrained from making direct influence, but sought to strengthen its activities
+
+through loyal intermediaries – businessmen with connections to Gazprom and
+
+involved in gas trading schemes via companies registered in Lithuania and
+
+abroad. Those intermediaries receive Gazprom privileges and thus can gain a
+
+competitive advantage. In the hope of even more favourable terms they reward
+
+Gazprom with loyalty by coordinating their activities with Russian represen
+tatives and providing them up-to-date information on developments in the
+
+Baltic States’ gas market.
+
+
+-----
+
+ECONOMIC AND ENERGY SECURITY
+
+Denis Jemelianov
+
+Alexander Ryazanov
+
+Anatoly Oruzhev
+
+
+In August 2019, a company registered in Lithuania and involved in Gazprom trading
+schemes, organized an event – a gala concert which was attended by Ryazanov, the
+former Vice-President of the Board of Gazprom; Jemelianov, Deputy Chief for Trade
+with CIS and Baltic region of the International Business Department of Gazprom; and
+Oruzhev, a former Tymchenko’s business partner.
+
+In 2019, the Russian energy holding Inter RAO UES (IRU) also tried to strengthen
+
+its position in the Baltic States. The holding is not only interested in main
+taining its positions in the electricity trading markets, but also in influencing
+
+decisions concerning the synchronization of the Baltic power systems with the
+
+Continental European Network. The IRU has an interest in maintaining and
+
+increasing the volume of electricity traded in the region. IRU representatives
+
+also tried to establish contacts with representatives of the EU institutions hop
+ing to win their favour.
+
+Investors who do not conform to the national security
+interests try to avoid the restrictions imposed on them
+
+The Law on the Protection of Objects of Importance to Ensuring National Secu
+rity contains criteria for assessing the compliance of investors with the inter
+ests of national security. In most cases, investors are recognized as non-con
+forming with national security interests due to their risky relationships with
+
+
+-----
+
+53
+
+
+Entities not conforming to the criteria of national security take the following
+
+actions in order to avoid statutory restrictions on their activities:
+
+ Make fictitious share sale transactions with allegedly unrelated entities;
+
+ Use public relations to announce alleged withdrawals from business in
+
+third countries and / or sale of shares to allegedly unrelated entities;
+
+ Increase the number of shareholders hiding the actual beneficiaries
+
+through offshore structures, mutual funds, and management companies;
+
+ Investors’ partners operating in third countries and posing a direct threat
+
+to national security change their legal entity names and company logos.
+
+**COMPANY X**
+
+
+CHANGES IN SHAREHOLDER STRUCTURE
+
+BEFORE INITIATION OF SCREENING
+
+Shareholder No. 1 Shareholder No. 2
+
+AFTER INITIATING INVESTOR VERIFICATION
+
+A TRANSACTION
+WITH SIGNS OF
+FICTITIOUSNESS AFTER INVESTOR SCREENING
+
+Shareholder No. 3 Shareholder No. 2 TRANSACTIONS
+
+WITH SIGNS OF
+FICTITIOUSNESS
+
+STRUCTURE OF SHAREHOLDERS BEING CHANGED
+
+NEW STRUCTURE OF SHAREHOLDERS
+
+Final beneficiaries (shareholders) – natural persons
+
+Shareholder No. 3 Shareholder No. 4 Shareholder No. 5 Shareholder No. 6
+
+
+-----
+
+ECONOMIC AND ENERGY SECURITY
+
+In 2019, the largest flow of potential investors consisted of individuals seeking
+
+to invest in the financial and credit sector. There has been a growing inter
+est from third-country investors in setting up financial technology, payment,
+
+and electronic money companies. It turned out that a significant number of
+
+third-country nationals seeking to invest in the financial and credit sectors
+
+were simply testing their capabilities and safeguards applied to foreign invest
+ments. Some investors immediately abandoned their investment plans after
+
+learning about an ongoing screening regarding their compliance with national
+
+security interests or following a negative decision by the Commission for Coor
+dination of Protection of Objects of Importance to Ensuring National Security.
+
+
+-----
+
+55
+
+
+### TERRORISM AND MIGRATION
+
+The threat of terrorism in Lithuania is low
+
+The level of terrorist threat in Lithuania remains low. In 2019, no organized
+
+groups motivated by Islamist ideology with the intent and ability to plot ter
+rorist acts have been identified. The risk of international terrorism to Lithuania
+
+may originate from external factors related to the intentions of Islamist ter
+rorist organizations and their supporters to carry out attacks against Western
+
+countries. Lithuania is not a direct target for the terrorist organizations ISIL
+
+and Al Qaeda (AQ) or the extremists who support them. However, as an ally
+
+Lithuania supports international anti-terrorist coalitions, which may be suffi
+cient to justify an attack. Supporters of extremist ideologies also take advan
+tage of the freedom of movement within the Schengen area thus extremists
+
+may intend to use Lithuania for transit, hiding, and planning attacks against
+
+other countries. In foreign countries, especially those where terrorist organiza
+tions are active, Lithuanian citizens can become accidental victims of terrorist
+
+acts at tourist venues or other public spaces.
+
+
+-----
+
+TERRORISM AND MIGRATION
+
+The threat of terrorism to Europe remains high
+
+Since 2018, terrorist attacks by Islamists in the EU have been declining and
+
+this trend has continued in 2019, with five attacks perpetrated by lone extrem
+ists inspired by jihadist ideology in France, the Netherlands, and the United
+
+Kingdom. Other attacks planned by extremists, including potentially highly dan
+gerous ones, were prevented. In most of these cases extremists autonomously
+
+planned and funded the attacks. Efforts of the EU member states’ law enforce
+ment and intelligence agencies to strengthen prevention and counter-terrorism
+
+measures made a positive impact on the security situation in Europe. However,
+
+the threat of international terrorism to the EU member states remains high.
+
+_Reuters / Scanpix_
+
+The death of ISIL commander Abu Bakr Al Baghdadi in October 2019 during a
+
+US special operation was a major symbolic blow to ISIL. For the past 5 years,
+
+he has been the most prominent leader of the ‘Holy War’, having managed to
+
+establish the ‘Islamic Caliphate’ for a short time. In the near term, his death
+
+could trigger a jihadist movement to react vengefully including in Western
+
+
+-----
+
+57
+
+
+Chances of the most influential global jihadist groups ISIL and AQ to carry
+
+out coordinated terrorist acts against the EU member states have diminished
+
+in recent years. Home-grown individuals who were radicalized and inspired
+
+by these terrorist organizations pose the main threat to the EU member
+
+states. ISIL’s ideology remains the major source of inspiration for extremists.
+
+It is highly likely that this inspiration has rooted for a long time online, so its
+
+impact on extremists in the EU and in other parts of the world will remain
+
+viable in the long term.
+
+It is possible that in the near term, some foreign fighters and their relatives
+
+will try to return from Syria to Europe. This could negatively affect the security
+
+situation in the EU, as these radicalized individuals may be inclined to conduct
+
+terrorist attacks. In the short term, AQ could attempt to be more active in con
+ducting terrorist attacks in the West in order to gain visibility and recognition
+
+as a leader of the global jihadist movement.
+
+There is a growing threat of terrorist attacks
+by right-wing extremists in Europe
+
+Over the last few years groups and individuals promoting right-wing extrem
+ist ideologies have become more active word-wide. Proponents of these ide
+ologies are perpetrating more terrorist attacks and ideologically motivated
+
+crimes. Many attempts to commit such crimes are thwarted by intelligence or
+
+law enforcement agencies and do not gain greater public resonance.
+
+In 2018 and 2019, in Europe the number of individuals sympathizing to one
+
+of the most radical forms of neo-Nazism – the so-called ‘Siege’ ideology –
+
+increased. This trend increases the likelihood of terrorist attacks and other
+
+violent crimes, as ‘Siege’ supporters consider violence, terror, sabotage, and
+
+guerrilla warfare as the only means of achieving their goal of undermining the
+
+democratic order and establishing ‘white supremacy’.
+
+
+-----
+
+TERRORISM AND MIGRATION
+
+The tactics used by proponents of the ‘Siege’ ideology have many similarities
+
+to the methods used by ISIL. It calls to conduct independent terrorist attacks
+
+and other acts of violence using the ‘lone wolf’ or 'lone cell' tactics. Conspiracy
+
+methods and IT tools enabling anonymity are widely used. The list of potential
+
+targets of ‘Siege’ violence is very broad: and encompasses not only members
+
+of racial, ethnic or religious minorities, but also all those who do not propagate
+
+right-wing extremist ideologies.
+
+The risk to national security posed by illegal migration
+
+Monitoring illegal migration flow and identifying potential extremists remains
+
+a priority security task for countries hosting migrants. Although illegal migra
+tion flows to Europe have declined significantly over the last three years, the
+
+risks associated with this phenomenon remain. Small part of foreign fighters
+
+fleeing conflict areas use illegal migration to make their way back.
+
+Persons associated with terrorist organizations, facilitators of extremist move
+ments, and third-country nationals posing extremist threat to the EU countries
+
+are constantly seeking ways to enter the EU. They try to make use of various
+
+forms of migration, including fictitiously obtained visas, fake businesses, stud
+ies and marriages, forged documents, and fraudulent asylum seeking.
+
+In 2019, Lithuania continued to implement the asylum seeker resettlement pro
+gram and Lithuanian intelligence screened 13 applicants – nationals of African
+
+countries – resettled from Italy and Malta. One asylum seeker was denied the
+
+entry to Lithuania. So far, only seven asylum seekers of those screened have
+
+arrived to Lithuania, but have not been granted refugee status.
+
+
+-----
+
+59
+
+
+Illegal migration flows to European countries from the Middle East and
+
+North Africa decline for the fourth consecutive year. By 1 December 2019,
+
+more than 117,000 illegal migrants had arrived in Europe (in 2018, over
+
+132,000; in 2017, over 189,000).
+
+The main entry route for illegal migrants in 2019 was the eastern
+
+Mediterranean route from Turkey (more than 73,000). More than 14,000
+
+illegal migrants took advantage of the central Mediterranean route to
+
+Italy and Malta. More than 30,000 illegal migrants used the western
+
+Mediterranean route and arrived in Spain.
+
+SPAIN
+
+73 000
+
+
+In 2019, in Lithuania the number of asylum seekers, mostly women with minor
+
+children, from Tajikistan and Russian Federation (North Caucasus origin),
+
+increased significantly. Arriving from Belarus territory, some of them used
+
+Lithuania as a transit country and did not wait for decisions in their asylum
+
+cases, secretly leaving the Foreigners’ Registration Centre and departing to
+
+other European countries.
+
+
+-----
+
+### GLOBAL SECURITY
+
+_Russia is expanding its cooperation with African states_
+
+_AFP / Scanpix_
+
+
+-----
+
+61
+
+
+Russia seeks to meet its global ambitions
+at the lowest cost
+
+Russia seeks to expand its influence in almost every region of the world in
+
+order to regain its status as a global power.
+
+Although Russia increasingly expands its activity into the global arena, the
+
+Commonwealth of Independent States (CIS) has remained its key area of influ
+ence. The Kremlin seeks to halt Ukraine’s rapprochement with the West and
+
+return it to the Russian sphere of influence. Russia is trying to realize this
+
+strategic goal by putting pressure on Ukraine to recognize special status to the
+
+_de facto Russia-occupied areas of Donetsk and Luhansk, to negotiate directly_
+
+with representatives of the so-called ‘republics’ and thereby legitimizing them.
+
+A near-term breakthrough in the settlement of the Donbass conflict is unlikely.
+
+There are no indications that Moscow would be ready to withdraw its-con
+trolled troops and hand over border control to Ukraine.
+
+In **Moldova, Russia remains an active participant in the domestic political**
+
+process, seeing it as an opportunity to pursue its long-term interest to halt
+
+Moldova’s European integration. In the short term, the Transnistrian conflict
+
+is unlikely to break the deadlock as there is no consensus on reintegration.
+
+Russian armed forces sustain constant tension in Georgia – at the administra
+tive borders with the occupied Abkhazia and South Ossetia – and at the politi
+cal level, Moscow blocks direct contacts between Tbilisi and the leaderships of
+
+the occupied regions. Moscow purposefully pursues gradual integration of the
+
+occupied regions, but there is no indication that Russia will formally incorpo
+rate them. In the short term, it will be more beneficial for Russia to maintain
+
+status quo thereby preserving an important leverage.
+
+In the Middle East, North Africa and South America, Russia pursues a low-cost
+
+strategy, seizing every opportunity to expand its influence. Moscow is well on
+
+its way to developing contacts with all – even conflicting – Middle East states,
+
+taking a seemingly neutral stance. For example, the Kremlin refused to blame
+
+Iran for attacks on Saudi Arabia’s oil infrastructure, but offered to sell Riyadh
+
+Russian air defence systems. Moscow has also been balancing among conflict
+ing groups in Libya and Yemen.
+
+
+-----
+
+GLOBAL SECURITY
+
+
+RUSSIAN MILITARY POWER PROJECTION
+
+Russian military base/facility
+
+Short-notice access to use the infrastructure
+
+Conflicts exploited by Russia
+
+Russian Armed Forces abroad
+
+Private military companies abroad
+
+Combined military training with Russia (2019)
+
+
+-----
+
+63
+
+
+-----
+
+GLOBAL SECURITY 64
+
+Particularly beneficial to Russia is the power vacuum in Syria that emerged
+
+from the diminishing role of the West. Russia took advantage of the withdrawal
+
+of US forces from the Kurdish territories and signed an agreement with Turkey
+
+on control of the Syrian border area. Using Ankara’s disagreement with the US,
+
+Russia began supplying S-400 air defence systems to NATO member Turkey.
+
+Russia exploits unrest in Libya, Sudan, Mozambique, the Central African Repub
+lic and other countries and offers to ‘export’ the Syrian model – protection
+
+and support to authoritarian leaders in power. Russia is not only the largest
+
+supplier of arms to this continent, but also deepens political cooperation. This
+
+gives Moscow access to the natural resources of the countries in the region
+
+and provides an opportunity to create the image of Russia as a reliable partner
+
+in fight against terrorism and a ‘security provider’.
+
+In competition with the EU, Russia develops ties with Serbia. To Venezuela,
+
+Russia sends military specialists and mercenaries of private military compa
+nies, not officially recognized, but controlled by the Kremlin.
+
+In the Arctic, Russia consolidates its economic and security interests. Melting of
+
+polar ice opens up the Northern Sea Route – a strategic shipping lane that cuts
+
+the distance in half compared to a seaway through the Indian Ocean for Rus
+sian LNG vessels that need to travel from Arctic gas fields to Asian markets. The
+
+Northern Sea Route is important to Russia for the export of energy resources
+
+to Asian consumers. Therefore, Russia seeks to impose legal restrictions on the
+
+navigation of foreign vessels along this route. Russia seeks to ensure its long
+term military dominance in this strategic direction and strengthens its nuclear
+
+icebreaker forces, air and coastal defence systems, and nuclear capabilities.
+
+
+-----
+
+The future of arms control agreements
+has become blurred
+
+On 2 August 2019, the Intermediate-Range Nuclear Forces (INF) Treaty
+
+expired. An agreement signed in 1987 between the US and the Soviet
+
+Union prohibited the use of any mobile ground-based missiles capable of
+
+carrying nuclear or conventional warheads within 500 and 5500 km range.
+
+The US has withdrawn from the Treaty due to Russia’s noncompliance – its
+
+cruise missiles 9M729 are capable of ranges banned by the Treaty. However,
+
+Moscow tried to cast blame for the demise of the Treaty on Washington.
+
+Russian President proposed other parties to join a voluntary moratorium on
+
+the deployment of similar missiles in Europe, but the proposal came after
+
+Russia had already deployed the missiles in the European part of
+
+its territory.
+
+Russia is interested in new medium-range arms agreements, but only if they
+
+restrict the West and are tied to the use of nuclear weapons. Russia seeks
+
+to involve other European countries in the negotiation of a new agreement.
+
+Although China’s involvement in a similar arms control treaty would also
+
+correspond with Moscow’s interests, such an agreement is highly unlikely.
+
+After demise of the INF, the only remaining international arms limitation
+
+agreement is the Strategic Arms Reduction Treaty (New START). The
+
+agreement signed between the US and Russia in 2010 will remain in effect
+
+until 2021, unless both parties agree to extend it for another five years,
+
+or to replace it by another treaty on control of strategic nuclear weapons.
+
+Even before the demise of the INF, Russia threatened not to renew this
+
+agreement. However, the New START is useful to Russia, as it allows to
+
+preserve its nuclear deterrence capabilities and prevent an arms race that
+
+would be too expensive for Russia.
+
+
+
+
+
+1987 2019
+
+Intermediate Range Nuclear
+Forces Treaty (INF)
+
+2001 Strategic 2021
+
+Weapon Reduction Treaty
+(New START)
+
+1990 2007
+
+Treaty of Conventional
+Forces in Europe (CFE)
+
+1972 2002
+
+Anti-Ballistic Missile
+Treaty (ABM)
+
+
+-----
+
+GLOBAL SECURITY
+
+China’s quest for dominance will change the
+global security environment
+
+In the long term, growing expansion of China’s economic and political clout
+
+will lead to major changes in the security environment in EU and NATO mem
+bers, as well as other regions of the world.
+
+Through technological development and economic leverage, China increases
+
+its geopolitical influence and creates preconditions for vulnerability of the
+
+states involved in its economic projects. China’s Belt and Road Initiative and
+
+other strategic development projects are aimed at achieving global economic
+
+dominance and technological advantage. State officials, state-owned and pri
+vate companies, intelligence agencies and Chinese communities abroad are
+
+involved in this process. The active penetration of Chinese investments in for
+eign countries carries the risk of losing control over resources and infrastruc
+ture, market manipulation, and political influence.
+
+
+Strategic development
+directions dictated by
+the President
+
+
+5G
+
+Technology
+development
+
+
+Creation of an
+alternative political,
+legal and economic
+space
+
+
+Increasing
+influence in
+
+of financial and organizations
+
+Chinese power
+projection
+instruments
+
+international
+arbitration bodies Strengthening
+
+Communist Party
+authoritarian
+regime
+
+
+-----
+
+67
+
+
+Through economic leverage, China seeks to exert pressure and secure political
+
+support from certain European countries on issues such as the independence
+
+of Taiwan and Tibet; meetings of top state officials with Dalai Lama; reform of
+
+the World Trade Organization granting China market economy status; issue of
+
+Xinjiang Uighurs; and Chinese presence in the South China Sea. Rapid eco
+nomic development also enables China to promote its political and social gov
+ernance model abroad.
+
+In August 2019, a wave of campaigns in support of Hong Kong and pro
+Chinese counter-protests swept through the world and did not bypass
+
+Lithuania. On 23 August 2019, the Chinese Embassy in Lithuania organized
+
+a protest in Vilnius disrupting the rally in support of Hong Kong.
+
+A majority of the participants in the pro-Chinese protest were members
+
+of the Association of Chinese Expatriates living in Lithuania. The Chinese
+
+intelligence services also play their role in arranging and coordinating
+
+such protests.
+
+In the military sphere, China actively defends its strategic interests, partici
+pates in the United Nations missions, establishes military bases abroad, and
+
+rapidly develops military-industrial complex. In the long term, it will pave the
+
+way for the projection of military power around the world. In the short term,
+
+China will seek economic and technological dominance in strategic sectors.
+
+Due to partially overlapping strategic interests, China develops political and
+
+military cooperation with Russia and coordinates positions on certain interna
+tional issues. Relations between Moscow and Beijing are fuelled by their aspi
+rations to reduce the global influence of the West (especially the US), Russia’s
+
+economic needs, and China’s growing military ambitions.
+
+
+-----
+
+GLOBAL SECURITY
+
+Despite the efforts of the international community,
+the situation in the conflict regions is not improving
+
+By sending troops to international military operations and missions Lithua
+nia contributes to conflict resolution in geographically remote regions of the
+
+world – Afghanistan, Mali and Iraq. Prolonged conflicts in Syria and Libya also
+
+have a negative impact on the security of NATO and EU countries.
+
+Despite direct talks between the US and the Taliban in 2019, and a nearly
+
+achieved initial agreement, the situation in Afghanistan remains complicated.
+
+Taliban fighters conduct intensive attacks against Afghan security forces in
+
+various parts of the country and carry out attacks in the capital, Kabul. The Tal
+iban feels strong enough to continue hostilities and is currently not interested
+
+in negotiations with the Afghan Government. In the short term, the prospects
+
+for ceasefire and peace in the country are vague. Threat of attacks on local and
+
+international forces remains significant.
+
+Despite foreign countries’ efforts, the security situation in Mali continues to
+
+deteriorate. Government forces in the northern part of the country are weak,
+
+while former rebel groups retain their influence. In large uncontrolled areas,
+
+radical groups thrive. They conduct attacks and expand the geography of their
+
+activities. This leads to increased instability in Burkina Faso and in the western
+
+part of Niger. Successful expansion of radical groups is determined by their
+
+ability to establish themselves in local communities, exploit weaknesses of
+
+state institutions, poverty, and ethnic conflicts. Radical groups publicly declare
+
+themselves to be defenders of a marginalized ethnic group thus attracting new
+
+members for rather pragmatic than ideological reasons. The threat of terrorist
+
+attacks in the Sahel is likely to increase.
+
+At the end of 2019, Iraq was shaken by spontaneous protests against the coun
+try’s government and the ruling elite. Peaceful demonstrations quickly esca
+lated into bloody clashes between protesters and security forces. The gov
+ernment fails to get the situation under control as promises about reforms
+
+no longer satisfy protesters. Prolonged unrest threatens the stability of the
+
+country and could be used by ISIL fighters.
+
+In Syria, fighting between the Damascus regime and rebel groups has largely
+
+calmed down. The situation of rebel groups, dominated by radical Islamists, is i
+
+
+-----
+
+69
+
+
+term, the end of hostilities between pro-government forces and militant oppo
+sition is highly likely. Turkey conducted a military operation in Syria against
+
+the local Kurdish fighters. Following the Russian-Turkish deal, Kurdish fighters
+
+were obliged to leave the Turkish border area and the Syrian regime returned
+
+its troops to north-eastern Syria after more than seven years.
+
+ISIL has lost its last controlled territories in Syria and all fighters have gone
+
+underground. Nevertheless, the group conducted terrorist attacks to show that
+
+it has not been defeated. It is likely that ISIL will continue the intense terror
+
+campaign in Syria and Iraq striving to get stronger.
+
+In 2019, intensified military actions over control of the capital Tripoli further
+
+deteriorated situation in **Libya. Fighting factions are unlikely to come to an**
+
+agreement. Driven by various political and economic interests, foreign assis
+tance provided to some warring parties also sustains the conflict. The inter
+national community does not have common approach towards the conflict
+
+and does not put pressure on the warring parties to resolve it. It is unlikely
+
+that negotiations will resume and that a united government will be formed in
+
+2020. The instability in Libya will remain a long-term challenge in the region
+
+as it poses security threats to neighbouring countries, impels migration, and
+
+creates enabling environment for radical groups to operate.
+
+
+-----
+
+NOTES
+
+
+-----
+
+71
+
+
+-----
+
+Author and Editor: Second Investigation Department under the Ministry of
+National Defence and State Security Department of the Republic of Lithuania
+
+17.01.2020. Circulation: 1000 units. Order GL-10
+
+Layout by the Publishing Section of the General Affairs Department
+of the Ministry of National Defence, Totorių str. 25, LT-01121 Vilnius.
+
+Printed by the Military Cartography Centre
+of the Lithuanian Armed Forces, Muitinės str.,
+Domeikava, LT-54359 Kaunas District.
+
+_www.kam.lt_
+
+ISBN 978-609-412-187-6
+
+© i i f i l f bli f i h i
+
+
+-----
+
+-----
+

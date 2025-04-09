@@ -1,0 +1,1130 @@
+# y
+
+## White Paper on National Defence for the Republic of South Africa
+
+### May 1996
+
+ TABLE OF CONTENTS
+
+#### Drafting Memorandum
+
+ Foreword
+
+ Chapter 1: Introduction
+
+ Aim and Scope Process
+
+ Chapter 2: The Challenge of Transformation
+
+ National Security Policy and the RDP Defence in a Democracy International Law on Armed Conflict
+
+ Chapter 3: Civil-Military Relations
+
+ Constitutional Provisions Authority and Powers Defence Intelligence The Department of Defence Military Professionalism Education and Training Responsibilities of Government Rights and Duties of Military Personnel Relations with civil society
+
+ Chapter 4: The Strategic Environment
+
+ The Global Context The Regional Context The Domestic Context
+
+
+-----
+
+#### Constitutional Provisions Self-Defence Deployment in Co-operation with the SA Police Service International Peace Support Operations Other Defence Functions
+
+ Chapter 6: Human Resource Issues
+
+ Integration All-Volunteer Force Part-Time Force Demobilisation and Rationalisation Equal Opportunity and Affirmative Action Defence Labour Relations
+
+ Chapter 7: Budgetary Considerations
+
+ Chapter 8: Arms Control and the Defence Industry
+
+ Defence Industry Principles Governing Conventional Arms Trade Arms Control Process and Structures International Arms Control Regimes and Treaties
+
+ Chapter 9: Land and Environmental Issues
+
+ Land Environment
+
+### DRAFTING MEMORANDUM
+
+#### Drafting history
+
+ The 21 June 1995 draft of this document was published by the Minister of Defence with an invitation to Parliament and the public to comment thereon.
+
+ The 27 October 1995 draft incorporated comments submitted by political parties, non- governmental organisations, the defence industry, defence analysts, and members of the public and the SANDF.
+
+ The 31 January 1996 draft incorporated proposals from the Joint Standing Committee on Defence (JSCD), as approved by that committee on 23 January 1996.
+
+ The 30 March 1996 draft incorporated the Minister's decisions regarding proposals of the JSCD and further submissions from the Department of Defence
+
+
+-----
+
+#### Defence, and was presented to Cabinet on 8 May 1996.
+
+ This document presents, for the consideration of Parliament, the Minister's White Paper on Defence as approved by Cabinet with certain amendments.
+
+ The new Constitution
+
+ This document draws extensively on the Interim Constitution. In the light of the adoption of the new Constitution by Parliament on 8 May 1996, references to the Constitution in the White Paper will be amended accordingly.
+
+ The content of the White Paper will not be affected materially, however, since the new Constitution incorporates, as transitional arrangements with the force of law, the relevant provisions on defence in the Interim Constitution.
+
+### FOREWORD
+
+#### It gives me great pleasure and pride to present the government's White Paper on National Defence for the Republic of South Africa.
+
+ Following South Africa's first democratic election in April 1994, the South African National Defence Force (SANDF) was established through the integration of former statutory and non-statutory forces.
+
+ The integration of these forces, many of which were once enemies-in-arms, Is a powerful symbol and practical demonstration of our country's commitment to national reconciliation and unity.
+
+ lust as the establishment of the SANDF represents the unity of military formations, so this White Paper reflects a national consensus on defence policy.
+
+ The White Paper is the culmination of a lengthy process of consultation following the tabling of a first draft in Parliament on 21 June 1995.
+
+ We received many responses to that draft; we engaged in a lively debate to accommodate and reconcile these responses; and we were enriched, in particular, by the significant contributions of the Joint Standing Committee on Defence and the Portfolio Committee on Defence.
+
+ It is therefore no exaggeration to say that this White Paper is a historic document. For the first time in our history, defence policy has been shaped by substantial inputs from Parliament, members of the public, non-governmental organisations and, of course, the Department of Defence.
+
+ For the first time in our history, a White Paper on Defence reflects the interests of our people and represents a national consensus on this critical function of government.
+
+ Joe Modise MINISTER OF DEFENCE
+
+ 8 May 1996
+
+
+-----
+
+### CHAPTER 1: INTRODUCTION
+
+#### 1. This White Paper has been prepared in the spirit of the new democratic era in South Africa. It acknowledges, as its point of departure, the profound political and strategic consequences of the ending of apartheid.
+
+ 2. Following free and fair elections in April 1994, South Africa has become a vibrant democracy. It has a Constitution which outlaws discrimination, enshrines fundamental rights, and emphasises openness and accountability in the affairs of government.
+
+ 3. The Constitution also establishes a framework for democratic civil-military relations. In terms of this framework the Defence Force is non-partisan; it is subject to the control and oversight of the duly elected and appointed civilian authority; and it is obliged to perform its functions in accordance with law.
+
+ 4. After two and a half decades of isolation, South Africa has been welcomed back into the international community and has joined a host of important regional and international bodies. The country's foreign relations have been transformed from an adversarial mode to bilateral and multi-lateral co-operation.
+
+ 5. This fundamental shift has been accompanied by a dramatic change in the strategic environment at domestic and regional levels. While the potential for instability and conflict remains, the salient fact is that the government is no longer unrepresentative and at war with its own people and neighbouring states in Southern Africa.
+
+ 6. The government has prioritised the daunting task of addressing poverty and the socio-economic inequalities resulting from the system of apartheid. The Reconstruction and Development Programme (RDP) stands at the pinnacle of national policy and, consequently, defence policy.
+
+ 7. The government is equally committed to national reconciliation and unity. One of the most dramatic illustrations of this commitment is the integration of the former statutory and non-statutory forces into the South African National Defence Force (SANDF).
+
+ 8. The White Paper addresses the implications of these momentous developments for defence policy and the SANDF.
+
+ Aim and scope
+
+ 9. The White Paper presents the defence policy of the Government of National Unity following a process of consultation with Parliament and the public. Its principal purpose is to inform citizens and other states, particularly those in Africa, of South Africa's new defence policy. The White Paper is also intended to serve as a confidence- and security-building measure in Southern Africa.
+
+ 10. Defence policy should be in harmony with all other aspects of government policy, particularly foreign policy and national security policy. It can be described as that subset of government policy which is concerned with countering military threats; with the orientation, preparation, maintenance and employment of armed forces; and with the procurement of weaponry and military equipment.
+
+ 11. Accordingly, the White Paper considers the following topics:
+
+ 11 1 Th hi h ll f t f i d f li d th d f i th t t
+
+
+-----
+
+#### [ p ]
+
+ 11.2 Civil-military relations, with reference to the constitutional provisions on defence; transparency and freedom of information; defence intelligence; the structure of the Department of Defence (DOD); military professionalism; civic education; the responsibilities of government towards the SANDF; and the rights and duties of military personnel. [Chapter 3]
+
+ 11.3 The external and internal strategic environment and the importance of promoting regional security. [Chapter 4]
+
+ 11.4 The primary and secondary functions of the SANDF. [Chapter 5]
+
+ 11.5 Human resource issues, including integration; the maintenance of an all-volunteer force; the Part-Time Force; rationalisation and demobilisation; equal opportunity, affirmative action, non-discrimination and gender relations; and defence labour relations. [Chapter 6]
+
+ 11.6 Budgetary considerations. [Chapter 7]
+
+ 11.7 Arms control and the defence industry. [Chapter 8]
+
+ 11.8 Land and environmental issues. [Chapter 9]
+
+ Process
+
+ 12. The Minister of Defence is committed to on-going consultation with Parliament, political parties, interest groups, non-governmental organisations and citizens in order to forge a national consensus on military matters.
+
+ 13. There are several reasons for this shift in emphasis. First, accountability, responsiveness and openness in government are now constitutional tenets
+
+ Second, the SANDF is a national institution which relies on public support and public funds to fulfil its mandate. Third, the functions and orientation of the SANDF are necessarily matters of great public interest.
+
+ 14. On 21 June 1995 the Minister published a draft White Paper on Defence with an invitation to citizens and their elected representatives to comment thereon. Over ninety written submissions were received, and the parliamentary Joint Standing Committee on Defence held three special sessions on the draft. Comments and proposals have been scrutinised carefully and, to the greatest extent possible, incorporated into this document.
+
+ 15. The submissions and parliamentary deliberations were characterised by substantial support for the process of consultation, the content of the 21 June draft and the Minister's intention to effect a fundamental transformation of defence policy.
+
+ 16. A common concern was the absence of detail in many areas. While this matter has been addressed, it should be emphasised that the White Paper seeks to establish a broad policy framework and the main principles of defence in our new democracy.
+
+
+-----
+
+#### p g g p g doctrine, posture, force design, force levels, logistic support, armaments, equipment, human resources and funding.
+
+ 18. Members of the Joint Standing Committee on Defence and civilian experts will participate in conducting the Review. A first draft will be published for parliamentary and public comment and will contain options with respect to the size, roles and structure of the SANDF. The final product will be presented to Parliament.
+
+ 19. Further, the Minister will submit to Parliament detailed proposals on important matters such as demobilisation and rationalisation; equal opportunity and affirmative action; military education and training; the Part-Time Force; and weapons acquisitions programmes.
+
+ 20. In addition to the presentation of annual budgets for parliamentary approval, the Minister will submit to Parliament annual defence reports.
+
+### CHAPTER 2: THE CHALLENGE OF TRANSFORMATION
+
+#### National security policy and the RDP
+
+ 1. In the new South Africa national security is no longer viewed as a predominantly military and police problem. It has been broadened to incorporate political, economic, social and environmental matters. At the heart of this new approach is a paramount concern with the security of people.
+
+ 2. Security is an all-encompassing condition in which individual citizens live in freedom, peace and safety; participate fully in the process of governance; enjoy the protection of fundamental rights; have access to resources and the basic necessities of life; and inhabit an environment which is not detrimental to their health and well-being.
+
+ 3. At national level the objectives of security policy therefore encompass the consolidation of democracy; the achievement of social justice, economic development and a safe environment; and a substantial reduction in the level of crime, violence and political instability. Stability and development are regarded as inextricably linked and mutually reinforcing.
+
+ 4. At international level the objectives of security policy include the defence of the sovereignty, territorial integrity and political independence of the South African state, and the promotion of regional security in Southern Africa.
+
+ 5. The Government of National Unity recognises that the greatest threats to the South African people are socio-economic problems like poverty, unemployment, poor education, the lack of housing and the absence of adequate social services, as well as the high level of crime and violence.
+
+ 6. Accordingly, one of the government's policy priorities is the Reconstruction and Development Programme. The RDP is the principal long-term means of promoting the well-being and security of citizens and, thereby, the stability of the country.
+
+ 7 There is consequently a compelling need to reallocate state resources to the RDP The challenge is to
+
+
+-----
+
+#### p y g [ p ] g p, y the defence budget should be rational and well planned.
+
+ 8. The new approach to security does not imply an expanded role for the armed forces. The SANDF may be employed in a range of secondary roles as prescribed by law, but its primary and essential function is service in defence of South Africa, for the protection of its sovereignty and territorial integrity.
+
+ 9. The SANDF therefore remains an important security instrument of last resort but it is no longer the dominant security institution. The responsibility for ensuring the security of South Africa's people is now shared by many government departments and ultimately vests in Parliament.
+
+ Defence in a democracy
+
+ 10. The theme of this White Paper is the formulation of new defence policy and the transformation of the Department of Defence. Transformation is essential in the light of three sets of factors: the history of armed forces in our country; the new strategic environment at international, regional and domestic levels; and, most importantly, the advent of democracy in South Africa.
+
+ 11. The process of transformation will be guided by the following principles of 'defence in a democracy'. These principles derive from the Constitution and government policy.
+
+ 11.1 National security shall be sought primarily through efforts to meet the political, economic, social and cultural rights and needs of South Africa's people, and through efforts to promote and maintain regional security.
+
+ 11.2 South Africa shall pursue peaceful relations with other states. It will seek a high level of political, economic and military co- operation with Southern African states in particular.
+
+ 11.3 South Africa shall adhere to international law on armed conflict and to all international treaties to which it is party.
+
+ 11.4 The SANDF shall have a primarily defensive orientation and posture.
+
+ 11.5 South Africa is committed to the international goals of arms control and disarmament. It shall participate in, and seek to strengthen, international and regional efforts to contain and prevent the proliferation of small arms, conventional armaments and weapons of mass destruction.
+
+ 11.6 South Africa's force levels, armaments and military expenditure shall be determined by defence policy which derives from an analysis of the external and internal security environment, which takes account of the social and economic imperatives of the RDP, and which is approved by Parliament.
+
+ 11.7 The SANDF shall be a balanced, modern, affordable and technologically advanced military force, capable of executing its tasks effectively and efficiently.
+
+ 11.8 The functions and responsibilities of the SANDF shall be determined by the Constitution and the Defence Act.
+
+ 11.9 The primary role of the SANDF shall be to defend South Africa against external military i D l t i i t l li i it h ll b li it d t ti l
+
+
+-----
+
+#### 11.10 The SANDF shall be subordinate and fully accountable to Parliament and the Executive.
+
+ 11.11 The SANDF shall operate strictly within the parameters of the Constitution, domestic legislation and international humanitarian law. It shall respect human rights and the democratic political process.
+
+ 11.12 Defence policy and military activities shall be sufficiently transparent to ensure meaningful parliamentary and public scrutiny and debate, insofar as this does not endanger the lives of military personnel or jeopardise the success of military operations.
+
+ 11.13 The SANDF shall not further or prejudice party political interests.
+
+ 11.14 The SANDF shall develop a non-racial, non-sexist and non- discriminatory institutional culture as required by the Constitution.
+
+ 11.15 The composition of the SANDF shall broadly reflect the composition of South Africa. To this end, affirmative action and equal opportunity programmes will be introduced.
+
+ 11.16 The SANDF shall respect the rights and dignity of its members within the normal constraints of military discipline and training.
+
+ 12. The principles outlined above are explored in more detail in the following chapters. The implications for the doctrine, posture and structure of the SANDF will be dealt with in the Defence Review.
+
+ International law on armed conflict
+
+ 13. The Defence Chapter of the Constitution contains three Sections which refer to international law: soldiers may refuse to obey orders in breach of this law; the SANDF shall not contravene the law relating to aggression; and in situations of armed conflict, the SANDF shall comply with South Africa's obligations under international law and treaties.
+
+ 14. These provisions reflect the conviction of Parliament and the Executive that South Africa should conduct its foreign policy as a responsible member of the international community.
+
+ 15. There are two main categories of international law on armed conflict: the 'law against war' which relates to aggression and the right to resort to force; and the 'law in war', also referred to as international humanitarian law, which governs the conduct of hostilities
+
+ 16. The main rule of the law against war is contained in Article 2(4) of the United Nations Charter:
+
+ "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
+
+ 17. There are three lawful exceptions to this substantive ban on the threat and use of force in international relations:
+
+ 17.1 Article 42 of the UN Charter authorises the collective use of force to maintain or restore international peace and security under the auspices of the UN Security Council.
+
+
+-----
+
+#### 17.3 Article 51 preserves the inherent right of individual or collective self defence if an armed attack occurs against a Member of the United Nations.
+
+ 18. Article 2(4) of the Charter stipulates the following positive obligation:
+
+ "All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered."
+
+ 19. International humanitarian law is contained chiefly in the Hague Conventions and the Geneva Conventions and Protocols. These treaties seek to regulate the conduct of armed conflict, and the rights and duties of belligerent parties, with reference to humanitarian concerns.
+
+ 20. In summary, the treaties outlaw attacks on non-military targets; impose a duty to protect the victims of armed hostilities; prohibit certain methods of warfare; and contain restrictions and absolute prohibitions on the use of specific categories of arms (eg chemical and biological weapons).
+
+ 21. International law on armed conflict will enjoy primary consideration in the preparation and execution of military operations. SANDF personnel, particularly at leadership level, will consequently be instructed on the relevant provisions of this law [Chapter 3].
+
+ 22. The SANDF shall be bound by all other international conventions and treaties which pertain to armed conflict and to which South Africa is a party.
+
+### CHAPTER 3: CIVIL-MILITARY RELATIONS
+
+#### Constitutional provisions
+
+ 1. The Constitution outlines the principles, structures, responsibilities and relationships which are necessary to secure democratic civil-military relations. Civil-military relations refer to the hierarchy of authority between the Executive, Parliament and the armed forces, and to civil supremacy over these forces.
+
+ 2. The Constitution contains the following provisions in this regard:
+
+ 2.1 The President shall be the Commander-in-Chief of the SANDF [Section 82(4)(a)1.
+
+ 2.2 The President may, with the approval of Parliament, declare a state of national defence
+ [Section 82(4)(b)(i)].
+
+ 2.3 The President may employ the SANDF in accordance with its functions and subject to the accountability outlined below [Section 82(4)(b)(ii)].
+
+ 2.4 The President shall immediately inform Parliament of the reasons for the employment of the SANDF where this relates to the defence of the Republic, compliance with international obligations or the maintenance of internal law and order [Section 228(4)(a)].
+
+
+-----
+
+#### 2.7 The Chief of the SANDF shall exercise military executive command of that force subject to the directions of the Minister of Defence and, during a state of national defence, the President [Section 2251.
+
+ 2.8 The establishment, organisation, training, conditions of service and other matters concerning the regular force and the part-time force shall be as provided for by an Act of Parliament [Sections 226(2) and 226(3)].
+
+ 2.9 The Minister of Defence shall be accountable to Parliament for the SANDF [Section 228(l)]
+
+ 2.10 Parliament shall annually approve the defence budget [Section 228(2)].
+
+ 2.11 A joint standing committee on defence shall be established in Parliament. The committee shall be competent to investigate and make recommendations on the budget, functioning, organisation, armaments, policy, morale and state of preparedness of the SANDF, and to perform such other functions related to parliamentary supervision of the force as may be prescribed by law
+ [Sections 228(3)(a) and (d)].
+
+ 2.12 The SANDF shall perform its functions and exercise its powers solely in the national interest by i) upholding the Constitution; ii) providing for the defence of the Republic; and iii) ensuring the protection of the inhabitants of the Republic [Section 227(2)(a)].
+
+ 2.13 The SANDF shall perform its functions and exercise its powers under the directions of the government and in accordance with the Constitution and any law [Sections 227(2)(a) and (b)].
+
+ 2.14 The SANDF shall conform to international law on armed conflict which is binding on South Africa [Sections 227(2)(d) and (e)].
+
+ 2.15 The SANDF shall refrain from furthering or prejudicing party-political interests, and no member of the regular force shall hold office in any political party or organisation [Sections 227(2)(c) and 226(6)].
+
+ Authority and powers
+
+ 3. The Constitution outlines a clear hierarchy of authority on defence matters: the Chief of the SANDF enjoys executive military command of the armed forces; this command is exercised under the direction of the Minister of Defence in times of peace and under the direction of the President during a state of national defence; and the Minister is in turn accountable to Parliament and Cabinet for the SANDF.
+
+ 4. Parliament has a range of significant powers regarding military affairs in order to assert democratic control over the armed forces and defence policy. It has legislative powers, it approves the defence budget, and it reviews the President's decisions to deploy the SANDF in critical functions. The Joint Standing Committee on Defence has powers of investigation and recommendation and such functions relating to parliamentary supervision as may be prescribed by law. The Joint Standing Committee on Intelligence has oversight powers in respect of defence intelligence.
+
+ 5. . The DOD respects the right and duty of Parliament to exercise independent and critical judgement on defence policy and practice.
+
+
+-----
+
+#### p p y p assistance, information and comments are required by the committees in order to perform their functions.
+
+ 7. Parliamentary and public scrutiny and debate will only be meaningful if there is sufficient transparency on military matters. A measure of secrecy will undoubtedly be necessary in order to safeguard national security interests, the lives of military personnel and the integrity of military operations. However, the governing constitutional principle is 'freedom of information'. Exceptions to this principle will be limited, specific and justifiable in a democratic society, and will be dealt with in legislation.
+
+ 8. The DOD recognises that it has a positive duty to provide sufficient information to ensure adequate parliamentary and public scrutiny and debate on defence matters.
+
+ 9. The DOD supports the creation of the post of Military Ombudsperson whose main duties are to monitor adherence to democratic civil-military relations, undertake investigations at the request of Parliament, and investigate complaints against the SANDF by military personnel and members of the public. The ombudsperson would be an independent official who is appointed by, and reports to, Parliament. The powers and functions of the ombudsperson would be spelt out in legislation.
+
+ 10. The personnel, logistics and financial functions of the SANDF are closely regulated and subject to independent audit on a continuous basis.
+
+ 11. The DOD will establish mechanisms to facilitate communication and liaison between the SANDF and provincial and local authorities with regard to the internal deployment of troops. However, these authorities will have no decision making powers over such deployment. Command and control over the SANDF will remain centralised at national level.
+
+ Defence intelligence
+
+ 12. The principles of civil-military relations have special relevance to defence intelligence. The intelligence legislation which has been promulgated and the RSA Intelligence White Paper provide for an ethical code of conduct, parliamentary oversight and executive control in respect of all intelligence agencies.
+
+ 13. Defence intelligence structures are also subject to the scrutiny of the Inspector General of the SANDF and the various mechanisms provided for in the new intelligence legislation. These mechanisms include the National Intelligence Coordinating Committee (NICOC), the parliamentary Joint Standing Committee on Intelligence, and an Inspector-General responsible for defence intelligence.
+
+ 14. The Ministry will ensure that a fair and acceptable balance is reached between the need to protect sensitive information and the demands for freedom of information in respect of intelligence activities.
+
+ 15. The main functions of the Intelligence Division of the SANDF are the conduct of military intelligence and counter-intelligence, and the gathering of external military information. The primary aim of the latter function is to provide the SANDF with advance warning of potential military threats and instability, and thereby with maximum time for defence preparation. An effective intelligence capability is essential as a force multiplier and to ensure that force levels are kept to the lowest level in times of peace. Intelligence is also the basis of all defence planning and the conduct of all operations.
+
+
+-----
+
+#### g y, p g Affairs, and in co-operation with NICOC.
+
+ 17. The National Strategic Intelligence Act provides that where the SANDF is deployed internally, the Intelligence Division may only gather domestic military intelligence in a covert manner with the authorisation of the Chairperson of NICOC acting with the concurrence of NICOC and Cabinet. Such covert collection shall be limited to the geographical area and time-scales specified in the authorisation.
+
+ 18. Defence Intelligence structures shall not initiate or participate in any operations of a non-intelligence nature.
+
+ The Department of Defence
+
+ 19. During the apartheid era the Department of Defence was militarised, with most of its functions being performed by Defence Headquarters. In the interests of entrenching democratic civil-military relations, the Defence Amendment Act of 1995 provides for a restructured Department of Defence which comprises the SANDF and a civilian Defence Secretariat.
+
+ 20. The Minister of Defence is responsible for the Defence function of government and is accountable to the President, the Cabinet and Parliament for the management and execution of this function. The Minister constitutes the civilian authority on military matters on behalf of Cabinet.
+
+ 21. The Minister directs and controls performance of the defence function through, inter alia, the statutory Council on Defence. The Chief of the SANDF and the Secretary for Defence serve on this body. They have equal status under the Minister, and serve as co-chairpersons of the Defence Staff Council which tenders advice to the Minister.
+
+ 22. The respective statutory powers and functions of the Chief of the SANDF and the Secretary for Defence are governed by the Defence Amendment Act of I 995 .
+
+ 23. The Secretary for Defence manages the Secretariat and will be the accounting officer of the DOD. He/she is the principal advisor to the Minister regarding defence policy and matters which may be investigated by the Joint Standing Committee on Defence
+
+ The Secretary will perform such duties and functions as may be necessary for democratic and civilian management of the defence function and to enhance parliamentary and Ministerial control over the SANDF. The Secretary will monitor compliance with directions issued to the Chief of the SANDF by the President or the Minister
+
+ 25. The Chief of the SANDF executes defence policy, directs the work of Defence Headquarters and manages the overall functioning and operations of the Defence Force. He/she is the principal adviser to the Minister on military, operational and administrative matters within his/her competence.
+
+ 26. In determining the respective functions of the Secretariat and Defence Headquarters, there are two basic guidelines. First, civilians formulate defence policy and the military executes this policy. Second, civilians are responsible for the political dimensions of defence. This breakdown does not prevent military officers from contributing to policy formulation on the basis of their functional expertise.
+
+ 27 It is intended that a large number of posts of which the greater number will be in the Financial
+
+
+-----
+
+#### 28. The Minister aims to staff these posts predominantly with civilians. The composition of the Secretariat will be broadly representative of the racial and gender composition of South African society. This will be achieved through selective recruitment, accelerated training, civilianisation of present incumbents and lateral entry. Senior military officers are not precluded from being seconded to work in the Secretariat on the basis of their functional expertise.
+
+ Military professionalism
+
+ 29. Stable civil-military relations depend to a great extent on the professionalism of the armed forces. The challenge is to define and promote an approach to military professionalism which is consistent with democracy, the Constitution and international standards.
+
+ 30. More specifically, the professionalism required of the regular and part-time components of the SANDF includes the following political, ethical and organisational features:
+
+ 30.1 Acceptance by military personnel of the principle of civil supremacy over the armed forces, and adherence to this principle.
+
+ 30.2 The maintenance of technical, managerial and organisational skills and resources which enable the armed forces to perform their primary and secondary functions efficiently and effectively.
+
+ 30.3 Strict adherence to the Constitution, national legislation and international law and treaties.
+
+ 30.4 Respect for the democratic political process, human rights and cultural diversity.
+
+ 30.5 The operation of the Defence Force according to established policies, procedures and rules in times of war and peace.
+
+ 30.6 A commitment to public service, chiefly in defence of the state and its citizens.
+
+ 30.7 Non-partisanship in relation to party politics.
+
+ 30.8 The building of a South African military ethic based on international standards of officership, loyalty and pride in the organisation. This will serve as a basic unifying force which transcends cultural, racial and other potentially divisive factors.
+
+ Education and training
+
+ 31. Education and training programmes within the SANDF are a cardinal means of building and maintaining a high level of professionalism. In this regard the Constitution provides that all members of the SANDF "shall be properly trained in order to comply with international standards of competency"
+ [Section 226 (5)1.
+
+ 32. At the heart of training is the preparation of officers and other ranks to fulfil the SANDF's primary function of defence against external military aggression.
+
+ 33. In addition, special education and training programmes are required to standardise procedures following the integration of the statutory and nonstatutory forces; to facilitate an equal opportunity
+
+
+-----
+
+#### 34. Specific training programmes will be introduced to prepare military personnel for regional security co-operation and involvement in international peace support operations [Chapter 5].
+
+ 35. Education and training will also play an essential role in developing the political and ethical dimensions of military professionalism. To this end, the Minister will oversee the design and implementation of a civic education programme on 'defence in a democracy'. The Minister has established a work group for this purpose. The work group includes civilian experts and members of the SANDF, the Defence Secretariat and the Joint Standing Committee on Defence.
+
+ 36. The mission of the civic education programme is to instil respect amongst military personnel and other members of the DOD for the core values of a democratic South Africa through appropriate education and training. These values derive principally from the Constitution. They include respect for human rights, the rights and duties of soldiers, the rule of law, international law, nonpartisanship, non-discrimination, and civil supremacy over the armed forces.
+
+ 37. The programme will cover the following subjects: the key elements of the political process in a democracy; the constitutional provisions on fundamental rights and defence; the significance of the Constitution as supreme law; the principles of democratic civil-military relations; international law on armed conflict; respect for multi-cultural diversity and gender equality; and the normative dimensions of military professionalism
+
+ 38. This programme will extend to all members of the DOD but will necessarily be tailored according to function and rank. It will encompass short-term orientation courses; adapting the development programmes of Officers, Warrant Officers and other ranks; and reorientating tertiary level education and the Military Academy .
+
+ 39. The civic education programme will be integrated into all aspects of education and training rather than be treated as an isolated subject. It will be applied to the military context through lectures, simulated exercises and case studies. Civic education will also be regarded as a process which entails the translation of taught values into lived values.
+
+ 40. The Minister recognises that the programme will have no value if misconduct is in any way sanctioned by the military or civilian authority. The institutional culture of the SANDF will only be imbued with respect for human rights and the rule of law if its members are subject to disciplinary action in the event of abuses .
+
+ 41. The SANDF, together with the International Committee of the Red Cross, is currently developing a comprehensive curriculum on international humanitarian law and international law on armed conflict.
+
+ Responsibilities of government
+
+ 42. South Africa's Constitution, as with other democratic constitutions, seeks to establish stable civil-military relations by subjecting the SANDF to the control of the elected civilian authority. Such control is deemed vital because armed forces typically have a substantial capacity for organised violence.
+
+ 43. However, the government recognises that civil-military relations will only be stable if the requisite control is accompanied by the fulfilment of certain responsibilities towards the SANDF and its members. Th ibili i i l d h f ll i
+
+
+-----
+
+#### 43.2 The government will not interfere in the military chain of command, the application of the Military Disciplinary Code, or operational matters which are the authority of military commanders. The Chief of the SANDF shall supervise and exercise control over operations and preparations for operations subject to the relevant laws, national policy, parliamentary oversight and the directions of the Minister and/or the President.
+
+ 43.3 The government will take account of the professional views of senior officers in the process of policy formulation and decision-making on defence. This input is assured through the Defence Staff Council, the Council on Defence and the structure of the DOD.
+
+ 43.4 The government will request from Parliament sufficient funds to enable the SANDF to perform its tasks effectively and efficiently.
+
+ 43.5 The government will seek to ensure that military personnel are adequately remunerated. It will also ensure that demobilised and rationalised soldiers, as well as veterans from the former statutory and non-statutory forces, are properly integrated into civilian society. The Chairperson of the Council of Military Veterans' Organisations serves as the Minister's adviser on military veterans affairs. A directorate for military veterans affairs will be established within the Defence Secretariat.
+
+ 43.6 The government will not endanger the lives of military personnel through improper deployment or the provision of inadequate or inferior weapons and equipment.
+
+ 43.7 The government shall make every effort to secure the safe release of military personnel who are captured in the course of official duty by enemy forces.
+
+ Rights and duties of military personnel
+
+ 44. Members of the SANDF are citizens and therefore enjoy the same fundamental rights as civilians. Certain exceptions to this principle will be necessary because of the unique nature of armed forces and military service. The exceptions will be limited and specific, and will be covered in defence legislation.
+
+ 45. The exceptions will also be subject to the constitutional provisions on limitation of fundamental rights. Such limitations are only permissible if they are reasonable, justifiable in an open and democratic society, and do not negate the essential content of the right in question.
+
+ 46. Military personnel are entitled to vote and to be members of the political party of their choice. However, as noted above, the Constitution provides that no member of the Regular Force shall hold office in any political party or political organisation .
+
+ 47. Military personnel shall not attend political meetings in uniform save where they are on official duty.
+
+ 48. The Constitution provides that a member of the SANDF "shall be obliged to comply with all lawful orders but shall be entitled to refuse to execute any order if the execution of such order would constitute an offence or would breach international law on armed conflict binding on the Republic" [Section 226(7)]. Military personnel shall be obliged to report unlawful orders and actions to an appropriate military authority.
+
+
+-----
+
+#### p y, g and education.
+
+ 50. In accordance with the Constitution, the SANDF shall promote freedom of religion and shall cater for the different religious views of its members on an inter-denominational basis. Religious observances shall be conducted on an equitable basis, and attendance at such observances shall be free and voluntary. The Chaplains Service shall regulate religious policy and practice in accordance with departmental policy and in consultation with the Religious Advisory Boards which represent different faiths
+
+ 51. The SANDF shall respect the constitutional provision on language and shall endeavour to cater for the different languages of its members. Instruction, command and control shall be conducted in a language that is commonly understood by all.
+
+ 52. In accordance with the Constitution, the SANDF shall not discriminate against any of its members on the grounds of sexual orientation.
+
+ 53. The Minister shall appoint a work group to facilitate and monitor the implementation of the policy outlined above regarding religion, language and sexual orientation
+
+ 54. The Military Disciplinary Code is currently being revised to bring it into line with the Constitution. The unique requirements of the military justice system will be taken into account.
+
+ Relations with civil society
+
+ 55. The SANDF shall conduct itself with honour and dignity, and shall abide by the provisions of the Bill of Fundamental Rights, in its interaction with civil society. Military personnel shall treat civilians with courtesy and respect in the performance of their duties.
+
+ 56. The Minister and the DOD shall consult with interest groups and stakeholders in civil society in the formulation of defence policy, and shall provide the public with adequate information on defence matters.
+
+### CHAPTER 4: THE STRATEGIC ENVIRONMENT
+
+#### The global context
+
+ 1. The ending of apartheid and the establishment of democracy have given rise to dramatic changes in the external strategic environment from the perspective of South Africa. The country is no longer isolated internationally. It has been welcomed into many international organisations, most importantly the United Nations (UN), the Organisation of African Unity (OAU) and the Southern African Development Community (SADC).
+
+ 2. South Africa is in fact expected to play an active role in these forums, especially with regard to peace and security in Africa and in Southern Africa in particular. There are expectations that South Africa will become involved in multi-national peace support operations on the continent.
+
+ 3. South Africa does not now, and will not in the future, have aggressive intentions towards any state. It
+
+
+-----
+
+#### gg ( y )
+
+ 4. The longer term future cannot be determined with any degree of certainty because international relations are unpredictable. They are characterised by both co-operation and competition around political, military, economic, environmental and other issues. There is the risk of armed hostilities in some parts of the world, and a high level of political cohesion in others.
+
+ 5. A number of prominent trends in the international system are discernible since the ending of the Cold War:
+
+ 5.1 T he vast majority of armed conflicts are taking place within, rather than between, states. They arise from internal ethnic, religious and other divisions, and in some instances have led to the disintegration of states. Such conflicts are increasingly being regarded as regional and international concerns.
+
+ 5.2 There is a tendency towards greater interdependence, regionalism and internationalism. New regional blocs and international organisations have been formed, with particular emphasis on the facilitation of inter-state trade
+
+ 5.3 The developments outlined above, together with global media and communications systems, present a profound challenge to the notion of the 'sanctity' of state sovereignty and national borders.
+
+ 5.4 There is a major fault line between the countries of the North and those of the South, as the latter become progressively poorer. Moreover. there is widespread concern amongst African leaders that the continent has been marginalised in world political and economic affairs.
+
+ 5.5 There has been a reorientation of thinking on 'security' and 'threats to security'. These concepts are now viewed in a holistic way. As outlined in Chapter 2, the security of people and the non-military dimensions of security have gained prominence.
+
+ 5.6 The UN Security Council, no longer frustrated by the exercise of the veto, has become increasingly active in a number of areas, especially peace operations, humanitarian assistance, and control of conventional armaments and weapons of mass destruction.
+
+ 5.7 The ending of the Cold War has resulted in a substantial decline in the volume of global arms sales. This had led to efforts, with mixed results, to convert armaments industries to civilian production. At the same time, the major arms suppliers are off loading surplus stock at a relatively cheap price in the developing world, compounding the problem of arms proliferation .
+
+ 6. The following conclusions for the defence sector are drawn from this overview of the external environment.
+
+ 6.1 The absence of a foreseeable conventional military threat provides considerable space to rationalise, redesign and 'rightsize' the SANDF. The details of this process will be spelt out in the Defence Review
+
+ 6.2 The SANDF has to maintain a core defence capability because of the inherent unpredictability of the future Such capability cannot be created from scratch if the need suddenly arises The
+
+
+-----
+
+#### p p y p
+
+ 6.3 Within budgetary constraints, the DOD will engage in co-operative ventures with its counterparts throughout the world in such fields as training and education, defence planning, exchange visits, combined exercises and procurement of arms and equipment.
+
+ 6.4 For political, strategic and geographic reasons, defence co-operation with other Southern African states is a priority. South Africa will seek lo strengthen the security and defence forums of SADC. The question of regional security is discussed in more detail below.
+
+ 6.5 As a responsible member of the international community, South Africa will conduct its foreign policy, arms trade and external defence activities in accordance with international law and norms. South Africa is a member of a number of multi-lateral arms control regimes, and has recently introduced new policy on national arms control. [Chapter 8]
+
+ The regional context
+
+ 7. The most significant strategic development over the past few years is South Africa's new status in Southern Africa, previously an arena of intense conflict. With the election of the Government of National Unity, relations with neighbouring states have changed from suspicion and animosity to friendship and co-operation.
+
+ 8. The region as a whole has undergone substantial change since the end of the Cold War. Considerable progress has been made towards the resolution of internal conflicts, the establishment of democratic political systems, and demilitarisation and disarmament. The prospects for regional peace and stability are greater today than at any other time in recent decades.
+
+ 9. Nevertheless, much of the sub-continent is stricken by chronic under development and the attendant problems of poverty, illiteracy and unemployment. There are large numbers of refugees and displaced people; an acute debt crisis; widespread disease and environmental degradation; and a proliferation of small arms. Certain states remain politically volatile. The worst case scenario, as was experienced most intensely in Angola and Mozambique, is civil war.
+
+ 10. These phenomena are not confined to national borders. They impact negatively on neighbouring states in the form of a range of non-military threats: environmental destruction, the spread of disease, the burden of refugees, and cross-border trafficking in drugs, stolen goods and small arms.
+
+ 11. Regional instability and under development can only be addressed meaningfully through political reform, socio-economic development and inter-state cooperation in these spheres. Similarly, the prevention and management of inter and intra-state conflict is primarily a political and not a military matter.
+
+ 12. Following trends in other parts of the world, South Africa will encourage the development of a multi-lateral 'common security' approach in Southern Africa. In essence, the SADC states should shape their political, security and defence policies in co-operation with each other. This does not preclude the conclusion of bilateral and trilateral security agreements.
+
+ 13. A common approach to security in Southern Africa is necessary for a number of reasons. First, many f h d i h i di id l h d bl d i i l h bili f
+
+
+-----
+
+#### 14. Second, it is possible that inter-state disputes could emerge in relation to refugees, trade, foreign investment, natural resources and previously suppressed territorial claims.
+
+ 15. Third, since the sub-continent is politically volatile and its national and regional institutions are relatively weak, internal conflicts could give rise to cross-border tensions and hostilities. This volatility and weakness also makes the region vulnerable to foreign interference and intervention from land, sea and air.
+
+ 16. Common security arrangements would have many advantages in this context. They could facilitate the sharing of information, intelligence and resources; the early warning of potential crises; joint problem-solving; implementing confidence- and security-building measures (CSBMs); negotiating security agreements and treaties; and resolving inter-state conflict through peaceful means.
+
+ 17. Certain of these endeavours are the responsibility of the Department of Foreign Affairs. Chief amongst them is the settlement of conflict through preventive diplomacy, mediation or arbitration.
+
+ 18. Other types of activity, some of which are under discussion in the newly formed security and defence forums of SADC, will be undertaken by the DOD.
+
+ 19. First, regional defence co-operation could be promoted in the fields of logistics; training and education; intelligence; combined exercises; secondment of personnel; and the development of common doctrines and operational procedures.
+
+ 20. Second, the government might be called upon by neighbouring countries to play a number of supportive roles. For example, the SANDF could provide assistance with respect to disaster relief; controlling cross-border trafficking in small arms; clearing minefields; military training; and maintaining and upgrading weaponry and equipment.
+
+ 21. Third, the DOD is keen to pursue the implementation of CSBMs. These are measures which provide for greater transparency in military matters in order to alleviate possible mistrust, prevent misunderstandings from developing into crises, and thereby promote collective confidence and stability.
+
+ 22. Appropriate CSBMs might include the following:
+
+ 22.1 Annual consultation and exchange of information on defence budgets, force structure, modernisation plans and troop deployment.
+
+ 22.2 Consideration of national threat perceptions which inform force structure and modernisation plans.
+
+ 22.3 The establishment of a regional arms register which records information on imports, exports, production and holdings of conventional arms and light weaponry.
+
+ 22.4 Notification and on-site observation of military exercises and other specified activities.
+
+ 22.5 Verification procedures in respect of the above.
+
+ 22.6 A communications network and a 'crisis hotline'.
+
+
+-----
+
+#### y g p, y become necessary to deploy the SANDF in multi-national peace support operations. [Chapter 5]
+
+ 24. South Africa shares the view of many of its neighbours that the creation of a standing peacekeeping force in the region is neither desirable nor practically feasible. It is far more likely that the SADC countries will engage in ad-hoc peace support operations if the need arises.
+
+ 25. Nevertheless, the SADC states are committed to regional co-operation in preparing for peace support operations. It may therefore be worthwhile to establish a small peace support operations centre, under the auspices of regional defence structures, to develop and co-ordinate planning, training, logistics, communication and field liaison teams for multi-national forces.
+
+ 26. South Africa will support the conclusion of multi-lateral treaties on disarmament, conventional arms control, the prohibition of weapons of mass destruction, and foreign military involvement in the region. The most important agreement would be a non-aggression pact which endorses the international prohibition on the threat or use of force.
+
+ 27. Given South Africa's relative military strength on the sub-continent, the adoption of a defensive and non-threatening posture would contribute to building confidence and positive relationships.
+
+ 28. Further, reductions in South Africa's force levels and weapons holdings might stimulate a broader process of disarmament in Southern Africa. This would release resources for development and thereby promote stability. However, force reductions should be kept within reasonable proportions if South Africa is to play an active supportive role in the region.
+
+ 29. Finally, South Africa has a common destiny with Southern Africa. Domestic peace and stability will not be achieved in a context of regional instability and poverty. It is therefore in South Africa's long-term security interests to pursue mutually beneficial relations with other SADC states and to promote reconstruction and development throughout the region.
+
+ The domestic context
+
+ 30. From a security perspective there are three prominent trends at domestic level. First, as noted in Chapter 2, there is an overwhelming need for socio-economic development and reconstruction in order to address the root causes of much personal insecurity and social instability. This is both a moral obligation and a strategic imperative.
+
+ 31. Second, South Africa is characterised by endemic crime and criminal violence which affects all sectors of society and is exacerbated by the proliferation of small arms in private hands. The government is tackling this problem through efforts to strengthen the criminal justice system, community policing and crime prevention strategies. A long-term solution lies in upgrading the conditions of impoverished communities through the RDP.
+
+ 32. Third, there has been a considerable reduction in the level of public and political violence since the elections in April 1994. Nevertheless, violence in certain parts of the country remains unacceptably high and poses a serious threat to public order and the security of citizens.
+
+ 33. Public order policing is primarily the responsibility of the South African Police Service (SAPS). H i h l i h f li l l b f l d l d
+
+
+-----
+
+#### p p g
+
+### CHAPTER 5: ROLE AND FUNCTIONS
+
+#### Constitutional provisions
+
+ 1. The Constitution provides that the SANDF may be employed in the following functions:
+
+ 1.1 for service in the defence of the Republic, for the protection of its sovereignty and territorial integrity;
+
+ 1.2 for service in compliance with the international obligations of the Republic with regard to international bodies and other states;
+
+ 1.3 for service in the preservation of life, health or property;
+
+ 1.4 for service in the provision or maintenance of essential services;
+
+ 1.5 for service in the upholding of law and order in the Republic in cooperation with the South African Police Service under circumstances set out in law where the Police Service is unable to maintain law and order on its own: and
+
+ 1.6 for service in support of any department of state for the purpose of socio-economic upliftment.
+
+ 2. It is the policy of government that the above functions do not carry equal weight. The primary function of the SANDF is to defend South Africa against external military aggression. The other functions are secondary.
+
+ 3. The size, design, structure and budget of the SANDF will therefore be determined mainly by its primary function. However, provision will have to be made for the special requirements of internal deployment and international peace support operations.
+
+ 4. The rest of this Chapter considers the various functions of the Defence Force in more detail.
+
+ Self-defence
+
+ 5. Governments have an inherent right and responsibility to ensure the protection of the state and its people against external military threats. South Africa will employ the following principal strategies to this end:
+
+ 5.1 Political, economic and military co-operation with other states. In this context, a common security regime, regional defence co-operation and confidence- and security-building measures in Southern Africa are particularly important. [Chapter 4]
+
+ 5.2 The prevention, management and resolution of conflict through nonviolent means. Conflict resolution, in the form of diplomacy, mediation or arbitration, may take place on a bilateral basis or under the auspices of an international or regional body.
+
+ 5 3 Th d l t f th D f F Th th t f f i t t l ilit
+
+
+-----
+
+#### 6. It is clear from the above that the government's preferred and primary course of action is to prevent conflict and war. South Africa will only turn to military means when deterrence and non-violent strategies have failed.
+
+ 7. Deterrence requires the existence of a defence capability which is sufficiently credible to inhibit potential aggressors. Although South Africa is not confronted by any foreseeable external military threat, this capability cannot be turned on and off like a tap. It is therefore necessary to maintain a core defence capability.
+
+ 8. A core defence capability includes a balanced and sustainable nucleus with the following features.
+
+ 8.1 the ability to deal with small-scale contingencies of a short-term nature;
+
+ 8.2 the ability to deal with a range of contingencies;
+
+ 8.3 the ability to expand the size of the Defence Force to appropriate force levels within a realistic warning period should the threat situation deteriorate significantly;
+
+ 8.4 the maintenance and, where necessary, the adequate and appropriate upgrading or replacement of equipment and weaponry; and
+
+ 8.5 an effective intelligence capability to ensure early warning of potential conflicts and crises.
+
+ 9. This 'core force' approach takes account of government spending priorities and the fact that the self-defence problem is likely to be limited in the short- to medium-term. It does not require a large standing force. Instead, the SANDF will comprise a relatively small Regular Force and a sufficiently large Part Time Force [Chapter 6].
+
+ 10. The Defence Review will address in more detail the implications of the core force approach for the size, doctrine, posture, structure, weaponry, equipment and other features of the SANDF.
+
+ 11. The Review will also address the strategic and technical implications of the constitutional provision that the SANDF shall be "primarily defensive in the exercise or performance of its powers and functions". As noted earlier, the adoption of a defensive and non-threatening military posture will contribute to promoting confidence and positive relationships in Southern Africa.
+
+ Deployment in co-operation with the SA Police Service
+
+ 12. It was noted in Chapter 4 that SANDF troops are currently employed on a widespread basis in support of the SAPS, and that such employment is likely to persist for some time because of on-going public violence and the relative shortage of police personnel.
+
+ 13. In order to ensure effective deployment and maximum co-operation, the following steps should be taken before the SANDF is deployed alongside the
+
+ 13.1 the creation of a formal liaison committee incorporating the relevant structures;
+
+ 13.2 analysis and determination of the role definition, method of deployment and responsibilities of the SANDF;
+
+
+-----
+
+#### g g ;
+
+ 13.4 agreement on the duration of the SANDF deployment; and
+
+ 13.5 a thorough review of the deployment if the objective of the mission is not achieved within the agreed time-scale.
+
+ 14. Notwithstanding the above, the history of South Africa and many other countries suggests that it is inappropriate to utilise armed forces in a policing role on a permanent or semi-permanent basis. This perspective is based on the following considerations:
+
+ 14.1 Armed forces are not trained, orientated or equipped for deployment against civilians. They are typically geared to employ maximum force against an external military aggressor.
+
+ 14.2 On-going employment in a law and order function invariably leads to the defence force becoming increasingly involved in non-military activities.
+
+ 14.3 Such employment may also undermine the image and legitimacy of the defence force amongst sections of the population.
+
+ 14.4 Internal deployment places a substantial burden on the defence budget.
+
+ 14.5 It also has a disruptive effect on the economy where large numbers of part-time soldiers are engaged.
+
+ 14.6 Efforts to apply military solutions to political problems are inherently limited and invariably lead to acts of repression.
+
+ 15. In the light of these considerations, the policy goal of the government is to build the capacity of the police to deal with public violence on their own while political solutions are being sought or have failed. The SANDF would then only be deployed in the most exceptional circumstances, such as a complete breakdown of public order beyond the capacity of the SAPS, or a state of national defence.
+
+ 16. In order to achieve this goal, financial resources for maintaining internal stability should be allocated to enhancing the capacity of the SAPS. Further, and as a matter of urgency, the Departments of Defence and Safety and Security will establish a work group to devise strategies for the withdrawal of the SANDF from an on-going policing role.
+
+ 17. The internal employment of the military will be subject to parliamentary control and the constitutional provisions on fundamental rights, and will be regulated by legislation. Officers and other ranks deployed in internal operations will be equipped and trained appropriately.
+
+ 18. The SANDF is currently employed in border protection in co-operation with the police. Those activities which relate to combatting crime and controlling the flow of illegal arms and immigrants into South Africa are more properly the responsibility of the SAPS. This matter will similarly be reviewed by the Departments of Defence and Safety and Security.
+
+ International peace support operations
+
+ 19. As a fully fledged member of the international community, South Africa will fulfil its responsibility
+
+
+-----
+
+#### 20. There are two types of peace support operations in which the SANDF may become involved: i) peacekeeping, which entails military operations undertaken without resort to force and with the consent of the major parties to a dispute in order to monitor and facilitate the implementation of a peace agreement; and ii) peace enforcement, which entails the application or threat of force, pursuant to international authorisation, in order to compel compliance with resolutions or sanctions designed to maintain or restore Peace and order.
+
+ 21. In the short-term, such participation will be regarded with a fair measure of caution since the political and military dynamics of these operations are new to South Africa and the Defence Force. Further, the integration of the former statutory and non-statutory forces is still underway.
+
+ 22. In order to prepare properly for peace support operations, the SANDF is currently investigating the development of appropriate doctrines, operational procedures and training programmes in co-operation with foreign partners.
+
+ 23. Public awareness and parliamentary debate on the complexities and different types of peace support operations is equally important.
+
+ 24. South Africa will only become involved in specific peace support operations if the following conditions are met:
+
+ 24.1 There should be parliamentary approval and public support for such involvement. This will require an appreciation of the associated costs and risks, including the financial costs and risk to the lives of military personnel.
+
+ 24.2 The operation should have a clear mandate, mission and objectives.
+
+ 24.3 There should be realistic criteria for terminating the operation.
+
+ 24.4 The operation should be authorised by the United Nations Security Council.
+
+ 24.5 Operations in Southern Africa should be sanctioned by SADC and should be undertaken together with other SADC states rather than conducted on a unilateral basis. Similarly, operations in Africa should be sanctioned by the Organisation of African Unity.
+
+ 25. South Africa's consideration of involvement in specific peace support operations will not be limited to the possible deployment of troops. The involvement could also take the form of providing equipment, logistical support, engineering services, communications systems and medical personnel and facilities.
+
+ 26. The acquisition and maintenance of military equipment shall take account of the particular requirements of peace support operations.
+
+ Other defence functions
+
+ 27. As noted earlier, the Constitution provides that the SANDF may be employed in a range of activities in addition to those discussed above.
+
+ 28. These activities include disaster relief; the provision and maintenance of essential services; search and rescue; evacuation of South African citizens from high threat areas; protection of maritime and
+
+
+-----
+
+#### 29. It should be stressed again that these are secondary functions. They arise from the unique capability of the Defence Force. Inappropriate use of military forces in non-military activities is economically inefficient.
+
+ 30. The government is disinclined to employ the SANDF in socio-economic development. Such employment blurs the distinction between the military and civilian spheres; it contributes to the militarisation of civil society; it undermines the preparedness and capabilities of the force with respect to its primary function; and it may undermine the image of the SANDF in the eyes of sections of the population.
+
+ 31. However, there may be exceptional circumstances which mitigate against the delivery of services by line function departments. The support of the SANDF may be required as a matter of urgency because of its specialised skills and resources. An example of this might be assisting with emergency provision of water to a rural community.
+
+ 32. The following guidelines will govern these situations: the employment should be requested of the DOD by the relevant government department; it should have the consent of the affected community; it should have a limited time duration; and it should be subject to civilian control.
+
+ 33. Finally, the SANDF can make an important contribution to developing human resources through its education and training programmes. Special training programmes are associated with integration, demobilisation and rationalisation. For example, the Service Corps will train its members in a range of vocational and other skills to prepare them for employment in civil society [Chapter 6].
+
+### CHAPTER 6: HUMAN RESOURCE ISSUES
+
+#### Integration
+
+ 11. The integration of former government, homeland and guerrilla forces, many of which were once enemies, is a powerful illustration of the government's commitment to national reconciliation, unity and transformation.
+
+ 2. The integration process, which began immediately after the elections in 1994, has two legs: integrating into the SANDF all personnel whose names appear on the Certified Personnel Registers of the statutory and non-statutory forces identified in the Constitution (with the subsequent inclusion of APLA); and the education and training of all members of the SANDF to meet international standards of competence and professionalism. The second leg includes the civic education programme on democracy described in Chapter 3.
+
+ 3. Bridging and supplementary programmes have been designed to empower members of the SANDF, irrespective of origin, so that they stand an equal chance of demonstrating their suitability for the rank and mustering which they hold when rationalisation occurs.
+
+ 4. The DOD has three governing principles for integration: all members of the SANDF shall be treated with respect and dignity; integration shall proceed in a spirit of partnership; and, as required by the C i i h h ll b di i i i
+
+
+-----
+
+#### y p p, g p and to the fair integration and equitable representation of the constituent integrating forces at all ranks. Failure to meet this goal will critically undermine the legitimacy of the SANDF.
+
+ 6. Thus far the process of integration has not been easy or trouble-free. Numerous problems and grievances have emerged and, at times, have given rise to serious tension. Many of these difficulties were inevitable given the political and logistical complexities of merging forces. Nevertheless, the DOD is committed to preventing and managing such problems and tension in a constructive way.
+
+ 7. To this end, a ministerial Integration Oversight Committee has been established to monitor the process and adherence to policy; the Committee includes members of the SANDF, the Defence Secretariat and the Joint Standing Committee on Defence. Integration committees also exist at Defence Headquarters and Arms of Service levels. A British Military Advisory and Training Team (BMATT) is responsible for ensuring the fairness of the process.
+
+ An all-volunteer force
+
+ 8. The previous system of white conscription was divisive and costly. The continued enforcement of this system would be discriminatory and contrary to the Constitution. A moratorium has therefore been placed on the prosecution of conscripts who do not respond positively to call-ups.
+
+ 9. For political, strategic and economic reasons, the SANDF will be an all volunteer force. It will comprise a relatively small Regular Force, including a civilian component, which is backed up by a sufficiently large Part-Time Force. The regular component has different categories of employment, including a flexible term service system for uniformed members.
+
+ 10. There is also a Controlled Reserve which consists of trained personnel who have done military service but have since left the SANDF, and all such persons whose names appear on the Certified Personnel Registers. If required, these people can still be utilised on a voluntary basis.
+
+ 11. A basic structure of this nature is extremely cost-effective and allows for flexibility in force levels according to the internal and external security environment. It will be capable of dealing with potential aggressors but is essentially defensive in nature. It will also provide on-going interaction between 'career soldiers' and 'citizen-soldiers'.
+
+ 12. As a result of the shift from a conscript to a volunteer force, the DOD will have to design appropriate strategies to attract a high quality of recruits, secure the required rate of turnover, develop functional and technical skills, and ensure Representativeness. These strategies will relate to recruitment, selection criteria, remuneration packages, educational opportunities, career development plans, and education and training programmes.
+
+ 13. The size and structure of the Regular Force will be derived from the force design and structure of each Arm of Service of the SANDF.
+
+ Part-Time Force
+
+ 14. The new Part-Time Force (PTF) will be made up of volunteers. Selective recruitment may be necessary to ensure racial and gender Representativeness. The size and structure of the PTF will be d i d b h f d i d f h SANDF h l Th ill b d l i h
+
+
+-----
+
+#### 15. The PTF will consist of personnel who serve on a part-time basis when required. They will be organised, trained and equipped in such a way that they are available for deployment alongside Regular Force members according to the demands placed on the SANDF.
+
+ 16. Members of the PTF will undergo training and will be instructed in the civic education programme on democracy.
+
+ 17. In consultation with the Public Service Commission, the DOD has developed financial and other incentives to encourage people to volunteer for part-time service. It is also considering special measures to motivate employers to support members of their staff who are part-time volunteers, and to prevent discrimination against these members.
+
+ 18. The DOD has initiated an investigation into the feasibility and desirability of constituting the Part-Time Force Council (PTFC) as a statutory body. The PTFC will comprise members of the existing part-time forces, the former nonstatutory forces and the regimental associations. The primary goal of the Council is to assist in promoting and maintaining the PTF as an integral part of the SANDF, in accordance with the standards set for the SANDF in the Constitution. The Council shall have no command function and shall not form part of the chain of command.
+
+ 19. The SANDF will investigate on a continuous basis the need for, and the creation of, command and other posts for its part-time members in order to provide them with greater responsibility for command and control of this component.
+
+ Demobilisation and rationalisation
+
+ 20. As a result of integration, force levels have been greatly inflated. The current size of the SANDF is neither cost-effective nor appropriate to the security situation.
+
+ 21. A process of demobilisation and rationalisation is therefore being planned, and in certain respects is already underway.
+
+ 22. Demobilisation refers to the voluntary release of members of the former nonstatutory forces who are constitutionally part of the SANDF but who either do not wish to serve in the Defence Force or are unable to do so for reasons of age, ill-health or aptitude.
+
+ 23. Since these people contributed to the struggle against apartheid, it would be unjust to end their military careers without compensation, especially in the case of aged and disabled military veterans. They will consequently be assisted financially, as well as through the Special Pensions Act envisaged by the Constitution. It is a matter of great importance that this Act is now promulgated.
+
+ 24. Rationalisation will entail the reduction of the Regular Force to approved force levels through, inter alia, the retrenchment of military personnel following integration. Civilian members of the DOD will also be rationalised as required.
+
+ This process will be based on budgetary considerations and the future size and shape of each Arm of Service of the SANDF.
+
+ 25. Rationalisation will take place according to the following principles: the pursuance of operational
+
+
+-----
+
+#### p y; p p ; p ; and the retention of people with a high level of performance or potential.
+
+ 26. Procedures, criteria and time-frames for rationalisation will be subject to consultation with, and will be communicated timeously to, military and civilian personnel.
+
+ 27. Rationalisation will also be conducted in accordance with the policy and goals of equal opportunity and affirmative action programmes within the DOD
+
+ 28. The DOD will ensure that the process does not discriminate against members of any of the former forces which now make up the SANDF. A formula and guidelines for achieving equitable representation will be outlined in the Defence Review.
+
+ 29. Demobilisation and rationalisation will be handled with great sensitivity. This is both a moral obligation and a political necessity. If former soldiers are not assisted in adapting to civilian life, they may be a burden on society and may engage in crime and banditry.
+
+ 30. The DOD will therefore develop a programme to prepare former soldiers for meaningful civilian careers. In liaison with educational institutions and employer bodies, every effort will be made to identify educational and employment opportunities in civil society.
+
+ 31. This programme is essentially a socio-economic project. For budgetary purposes, it should be regarded as part of the RDP rather than the normal defence function.
+
+ 32. Further, the Cabinet has approved the establishment of a Service Corps to upgrade the education and vocational skills of ex-combatants, and to assist in their reintegration into civilian society. The Service Corps will offer counselling, training and settlement schemes to assist members in finding employment in the formal and informal sectors.
+
+ 33. The Service Corps has been conceived as a project of the RDP. It will operate on a national and regional level in conjunction with the RDP and other government departments.
+
+ 34. The DOD will consult the parliamentary defence committees in formulating detailed plans for demobilisation and rationalisation, and will present these plans for approval by Parliament once they have been finalised.
+
+ Equal opportunity and affirmative action
+
+ 35. The integration of forces has substantially altered the composition of the Defence Force. For historical reasons, however, the SANDF does not yet reflect the demographic composition of South Africa.
+
+ 36. In order to secure the legitimacy of the armed forces, the DOD is committed to the goal of overcoming the legacy of racial and gender discrimination. It will ensure that the SANDF, and its leadership in particular, is broadly representative of the South African population.
+
+ 37. The DOD acknowledges the right of women to serve in all ranks and positions, including combat roles.
+
+ 38 I th li ht f th b th Mi i t ill th d i d i l t ti f ffi ti
+
+
+-----
+
+#### q pp y
+
+ 39. The emphasis of the programme will be on the education, training and development of black officers, service women and other previously disadvantaged personnel. Appropriate strategies in this regard will include special education and training courses, career development plans, and the reorientation of recruitment and promotion systems.
+
+ 40. The programme will also seek to identify and eliminate discriminatory practices and attitudes in the Defence Force. This is both a constitutional imperative and a matter of 'combat readiness'. The SANDF will not perform its functions effectively if capable people are excluded from senior posts because of prejudice, or if these tendencies undermine cohesion and morale.
+
+ 41. Similarly, it will be necessary to review what is meant by 'professional standards' since this is a complex and controversial subject. Certain standards may be judged objectively, such as those related to the utilisation of weaponry and equipment, but others may be judged subjectively due to cultural bias.
+
+ 42. The programme will be applied in a manner which is consistent with the Constitution and which avoids undermining the morale of military personnel and compromising universally accepted standards of professionalism, proficiency and safety.
+
+ 43. The Minister will present to Parliament detailed plans on the equal opportunity and affirmative action programme in the DOD. The Minister will report annually to Parliament on the progress made in implementing the programme.
+
+ Defence Labour Relations
+
+ 44. The DOD is considering various options for appropriate labour machinery by means of which the interests of SANDF members can be articulated and addressed. A comparison with other countries indicates that unionisation in armed forces, even with severe limitations, is the exception in democratic countries.
+
+ 45. The International Labour Organisation (ILO) recognises the inherent difficulty of applying the right to organise to armed forces. The ILO Convention of 1948 provides that the extent to which this right is extended to security services is matter for national legislation and regulations.
+
+ 46. The DOD has weighed carefully whether this is an area where reasonable limitations upon conventional labour rights should be imposed. The following factors were taken into account: the difficult process of integration underway; the importance of the SANDF as a guarantor of stability during the transition; and the potential for the promotion of racial and other divisions in the SANDF
+
+ 47. Accordingly, a number of limitations will apply to serving members of the SANDF. For example, the Labour Act of 1995 does not apply to these members. They are excluded from the Commission for Conciliation, Mediation and Arbitration envisaged in this Act, as well as from collective bargaining under the Bargaining Council for the Public Service.
+
+ 48. The Defence Act prohibits membership of trade unions and participation in strikes, but makes provision for the introduction of regulations to govern the labour rights of members.
+
+ 49 Notwithstanding the above it is clear that members of the SANDF are entitled to effective and just
+
+
+-----
+
+#### p p
+
+ 50. Existing channels through which uniformed members may resolve grievances include the normal command channel, procedures for redress of wrongs as prescribed in the Military Disciplinary Code, and new communication procedures which have been introduced for a trial period to deal with grievances or dissatisfaction of uniformed members. A tribunal established by the Labour Appeal Court Sitting as a Special Tribunal Act of 1995 will deal specifically with grievances emanating from rationalisation.
+
+ 51. It is also envisaged that suitably empowered mechanisms will be introduced in order to expand the means of uniformed members to address their needs. The Military Ombudsperson, referred to Chapter 3, may be one such mechanism.
+
+ 52. Labour relations which affect civilian members of the DOD are governed by the Public Service Act and related legislation and regulations. In addition, a special mechanism has been created to involve the employee organisations representing civilian members of the DOD in the rationalisation consultation process.
+
+ 53. The DOD will ensure the provision of a healthy working environment for its personnel as prescribed by the Occupational Health and Safety Act.
+
+### CHAPTER 7: BUDGETARY CONSIDERATIONS
+
+#### 1. Defence budgets are typically the product of a range of considerations: the wealth and size of a country; competing demands on resources from different sectors of government and the population; prevailing and projected threat scenarios; the actual and anticipated role of the Defence Force; and its doctrine and posture.
+
+ 2. As indicated previously, in the South African context there is pressure to reduce defence spending substantially:
+
+ 2.1 There is an urgent requirement to divert financial resources to the RDP in order to meet basic socio-economic needs. A failure to meet these needs will generate conflict and instability.
+
+ 2.2 There is no conventional military threat in the short- to medium-term.
+
+ 2.3 South Africa has no aggressive intentions towards any state.
+
+ 2.4 South Africa enjoys co-operative relations with neighbouring states. The non-military threats emanating from instability and under development in Southern Africa should be tackled primarily through political and socioeconomic measures.
+
+ 2.5 The ending of the Cold War was given rise to disarmament and demilitarisation in many parts of the world, including Southern Africa.
+
+ 3. At the same time, there are several reasons to avoid making radical cuts to the defence budget:
+
+ 3.1 The SANDF has to maintain a long-term capability to fulfil its primary function. It is not ibl t t h bilit f l l l f d if th d dd l i It i
+
+
+-----
+
+#### q p [ p
+
+ 3.2 The SANDF should be a balanced, modern and technologically advanced military force.
+
+ 3.3 The widespread internal deployment of the SANDF in co-operation with the police necessitates retention of the ability to mobilise substantial numbers of troops.
+
+ 3.4 South Africa is expected to play an active role in regional defence cooperation and peace support operations in Africa.
+
+ 3.5 The integration of forces has raised force levels substantially; a process of rationalisation and demobilisation will consequently be undertaken. The success of integration, demobilisation and rationalisation requires adequate funding.
+
+ 3.6 As a result of the improved external strategic environment and changing government spending priorities, the defence budget has been cut by over 50% in real terms over the past five years. This has had a significant impact on the military's anti-aircraft, armour, air and maritime capabilities in particular.
+
+ 4. It is evident from the above that there are competing pressures on the defence budget. This is true of most countries, particularly in post-conflict situations. In developing countries such as South Africa, there is especially strong pressure to reallocate resources from the military to socio-economic development.
+
+ 5. In democratic societies the debate around defence spending is informed by public opinion and the professional views of the DOD and other government departments. The resolution of the debate, and the approval of major weapons procurement projects, is the prerogative of Parliament on an annual and longer term basis.
+
+ 6. The Defence Review will entail comprehensive long-range planning in the light of approved defence policy and the new political and strategic environment. The Review will present, for the consideration of Parliament and the public, detailed and well-motivated budgetary forecasts and proposals; specific policies regarding the provisioning of logistic resources; and the identification of appropriate technology to optimise the cost effectiveness of the core force.
+
+ 7. The Defence Review will also include an examination of prevailing conditions in the SANDF with the view to rationalising current spending, eliminating waste and unnecessary duplication, and determining the most efficient means of managing human and material resources.
+
+ 8. Prior to the completion of the Defence Review, the DOD will provide Parliament with the information and analysis required to make sound decisions on the defence budget.
+
+ 9. Finally, the establishment of a relatively small Regular Force and a sufficiently large Part-Time Force will be one of the principal means of ensuring a cost-effective defence capability [Chapter 6]. It is important to reiterate that demobilisation and rationalisation will generate additional costs in the medium term but yield considerable savings in the long-term.
+
+
+-----
+
+#### 1. on 30 August 1995 Cabinet approved new interim policy on arms control and the defence industry. This Chapter is based largely on that policy, as contained in the Cabinet memorandum on the 'Rationale and Proposed Principles Governing Conventional Arms Control'.
+
+ Defence industry
+
+ 2. As noted earlier, the retention of a core force capability will entail the maintenance, upgrading and, where necessary, the replacement of weapons and equipment.
+
+ 3. The services of an efficient defence industry are required to address these needs and enable the SANDF to meet its constitutional obligations. The industry will permit the cost-effective purchase of certain products and systems, ensure life cycle maintenance and support of such systems, and perform refurbishment and upgrades of existing equipment.
+
+ 4. The defence industry must have access to international markets in order to facilitate cost-effective performance and reduce the unit costs of producing items for the SANDF
+
+ 5. However, the defence equipment required by the SANDF cannot and should not be procured exclusively from the local industry. Many complex systems cannot be produced domestically and will have to be imported. Management expertise for the specialised procurement function is located within the DOD.
+
+ 6. In circumstances of diminishing domestic defence expenditure and falling global arms sales, the industry will be encouraged to convert production capability to civilian manufacture without losing the key technological capability needed for military production.
+
+ 7. Policies will be formulated to establish the specific and limited conditions under which the defence industry will be subsidised.
+
+ 8. In the light of new defence policy, the ending of the arms embargoes against South Africa and the restrictive approach to arms transfers outlined below, the government will prepare a White Paper on the Defence Industry in consultation with Parliament, stakeholders and interest groups.
+
+ Principles governing conventional arms trade
+
+ 9. The import and export of conventional arms, and the transit of arms through South Africa, shall be subject to a control process and permit system under the auspices of a cabinet committee, the National Conventional Arms Control Committee (NCACC).
+
+ 10. In a competitive international market, it is important that South Africa and its defence industry be regarded as a responsible and reliable supplier of defence materiel.
+
+ 11. The government will support the export initiatives of the defence industry by permitting it to contract and honour obligations which have been duly approved. However, the government reserves the right to prohibit or withdraw such support should it be in conflict with international or national interests at any time.
+
+ 12. The principle of openness and transparency relating to arms trade shall apply. This will be limited
+
+
+-----
+
+#### 13. New arms control measures are based on the principles of the United Nations Charter, international law, recognised international arms control systems, and a balance of economic, ethical, political, military and security considerations.
+
+ 14. A legitimate arms control system shall ensure a responsible approach to arms transfers. In this regard, South Africa affirms the following:
+
+ 14.1 That in accordance with the principles and aims of the United Nations Charter, a reduction of world military expenditure could have a significant positive impact for the social and economic development of all peoples.
+
+ 14.2 That sovereign states have the inherent right of self-defence in terms of the UN Charter.
+
+ 14.3 The need to ensure that conventional arms transfers are not used in violation of the purposes and principles of the UN Charter.
+
+ 14.4 That excessive and destabilising conventional arms build-ups pose a threat to national, regional and international peace and security. Arms sales should continuously be evaluated and reviewed, especially with regard to countries in war-prone regions, in order to avoid the possible escalation of regional conflict.
+
+ 14.5 The need for effective national mechanisms for controlling the transfer of conventional arms and related technologies.
+
+ 15. In order to further the general aim of an international co-operative and common approach to security, South Africa will promote and exercise due restraint in the transfer of conventional arms and related technologies by taking the following factors into account:
+
+ 15.1 Respect for human rights and fundamental freedoms in the recipient country, with reference to the Universal Declaration of Human Rights and the African Charter on Human and People's Rights. Due consideration will be given especially in cases where political, social, cultural, religious and legal rights are seriously and systematically violated by the authorities of that country.
+
+ 15.2 The security situation in the recipient country and surrounding region, in the light of existing tensions or armed conflicts.
+
+ 15.3 The record of compliance by the recipient country with regard to international arms control agreements and treaties.
+
+ 15.4 The nature and cost of the arms to be transferred in relation to the circumstances of the recipient country, including its legitimate security and defence needs and the objective of the least diversion of human and economic resources for armaments.
+
+ 15.5 The degree to which arms sales are supportive of South Africa's national and foreign interests.
+
+ 16. South Africa shall not transfer arms to countries which systematically violate or suppress human rights and fundamental freedoms.
+
+
+-----
+
+#### 17.1 be used for the violation or suppression of human rights and fundamental freedoms;
+
+ 17.2 contravene South Africa's international commitments, in particular its obligations under arms embargoes adopted by the UN Security Council and other arms control agreements or responsibilities in terms of internationally accepted custom;
+
+ 17.3 contribute to the escalation of regional conflicts, endanger peace by introducing destabilising military capabilities into a region, or otherwise contribute to regional instability and negatively influence the balance of power;
+
+ 17.4 be diverted within the recipient country or re-exported for purposes contrary to the principles stated in this Chapter;
+
+ 17.5 have a negative impact on South Africa's diplomatic and trade relations with other countries;
+
+ 17.6 support or encourage terrorism; or
+
+ 17.7 be used for purposes other than the legitimate defence and security needs of the recipient country.
+
+ Arms control process and structures
+
+ 18. Conventional armaments and related technology may not be imported, transferred through South Africa or marketed or exported abroad without a duly approved permit.
+
+ 19. Export permits will not be granted in the absence of an End-User Certificate (EUC) issued by the importing government. The EUC should indicate clearly the identity of the issuing authority, the specifications and quantity of the armaments in question, and a commitment by the purchaser not to resell or transfer the arms without the permission of the South African government.
+
+ 20. In the event of an importing country acting in breach of this commitment, the transgression will be publicised internationally. All further arms sales to that country shall be prohibited.
+
+ 21. Applications for permits shall be assessed on a case-by-case basis in relation to i) a system of product classification and ii) the principles and guidelines outlined above.
+
+ 22. The DOD will have interim responsibility for this process, with the Secretary for Defence as the accountable officer.
+
+ 23. The first phase of the process will entail the technical processing of permit applications. The body which undertakes this task has been transferred from Armscor to the Defence Secretariat.
+
+ 24. The applications shall thereafter be subject to a multi-departmental review process and to scrutiny by the Secretary for Defence and the Directors General of the Departments of Foreign Affairs and Trade and Industry.
+
+ 25. These officials shall make recommendations to the newly established NCACC which will serve as the ministerial control, policy and decision-making authority. The Committee shall be accountable to Cabinet for these functions.
+
+
+-----
+
+#### g y y;,, and Technology; and the Deputy Minister of Intelligence Services. The Committee shall be chaired by a Minister who does not have a line function interest concerning arms trade.
+
+ 27. An independent Inspectorate will be established to ensure that all levels of the process are subject to scrutiny and oversight, and that arms trade is conducted strictly in accordance with the policies and guidelines of the NCACC. The Inspectorate will make periodic reports to the appropriate parties and the standing parliamentary defence committees.
+
+ International arms control regimes and treaties
+
+ 28. South Africa is committed to the international cause of non-proliferation of weapons of mass destruction (ie nuclear, biological and chemical weapons and related technology, as well as advanced missile systems and missiles as defined by the Missile Technology Control Regime).
+
+ 29. The Non-Proliferation of Weapons of Mass Destruction Act (1993) controls the export of technology, materiel and equipment used in the production of weapons of mass destruction and other advanced weapons systems.
+
+ 30. South Africa became a State Party to the Nuclear Non-Proliferation Treaty in 1991, and concluded a Comprehensive Safeguards Agreement with the International Atomic Energy Agency shortly thereafter.
+
+ 31.. South Africa became a member of the Nuclear Suppliers Group (NSG) in April 1995. The NSG monitors dual-use materials, equipment and technologies used in the development or manufacture of nuclear weapons.
+
+ 32. South Africa has been a State Party to the Biological Weapons Convention since 1972, and signed the Chemical Weapons Convention in 1993.
+
+ 33. South Africa has applied for membership of the Missile Technology Control Regime which regulates the transfer of equipment and technology used in the production of missiles which are capable of delivering weapons of mass destruction.
+
+ 34. South Africa has applied for membership of the United Nations Conference on Disarmament, the premier international negotiating forum on disarmament.
+
+ 35. In September 1995 South Africa acceded to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons. The Convention restricts and/or prohibits the use of weapons such as land mines and booby-traps which cause indiscriminate death and injury to civilians.
+
+ 36. In July 1994 South Africa placed an indefinite moratorium on the export of land mines.
+
+ 37. South Africa will provide data and information on arms transfers as required by the United Nations resolution establishing the Register of Conventional Arms. South Africa will promote the inclusion of small arms transfers in the Register.
+
+ 38. South Africa will promote the establishment of a regional arms register which records the transfer of conventional arms and light weapons in Southern Africa.
+
+
+-----
+
+#### Land
+
+ 1. The SANDF controls approximately 500 000 hectares of state-owned land. It requires the retention of dedicated land for effective force development and preparation, including field exercises and weapons testing. Nevertheless, three sets of issues have to be addressed regarding land which is currently utilised by the military.
+
+ 2. First, some of the land utilised by the Defence Force was previously occupied by people who were subject to forced removals during the apartheid era. This has given rise to a number of land claims, and more could follow in the future.
+
+ 3. The DOD will participate in negotiations on these claims in a spirit of social justice. Decisions on restitution are not the sole prerogative of the DOD, however, but will be made in the context of new national land policy and in consultation with other government departments and key stakeholders including, especially, affected communities.
+
+ 4. Second, in the interests of cost-effective utilisation of resources, the SANDF will undertake a process of rationalisation regarding land which it controls. Land may consequently become available for redistribution in consultation with relevant role players.
+
+ 5. Third, since state land is a national asset, the SANDF has a moral and legal obligation to utilise its properties in a responsible fashion. It has to attend to the environmental and ecological maintenance of the natural resources under its control, whether they are intended for military or civilian use in the future. These matters are considered below.
+
+ Environment
+
+ 6. The Minister and the Chief of the Defence Force are responsible for ensuring the exercise of proper ecological management and control of military properties. This will be done in co-operation with other government departments and environmental organisations.
+
+ 7. The Environmental Services of the SANDF engages in the following activities: environmental planning and research; ecological and environmental management of military properties; cultural resource management; and environmental education. These activities are part of the Logistics function and are integrated into the Arms of Service.
+
+ 8. The mission of the Environmental Services is to ensure the environmental suitability of military facilities for present and future military and national use.
+
+ 9. SANDF policy on the environment will be consistent with national policy and will include the following guidelines:
+
+ 9.1 the protection of species and habitats and the conservation of biodiversity and natural resources;
+
+ 9.2 the protection of the environment against disturbance, deterioration, poisoning or destruction as a result of human activity and structures;
+
+
+-----
+
+#### ;
+
+ 9.4 the provision of a healthy working environment for its personnel.
+
+ 10. In the light of these guidelines, the planning and execution of military activities will take account of the environmental implications. The activities should not jeopardise the long-term potential of land and other natural resources.
+
+ 11. The SANDF is committed to the application of the Integrated Environmental Management Procedure in the planning and establishment of physical development on land under its jurisdiction. Where necessary, environmental impact assessments will be undertaken and rehabilitation measures will be applied to counter, as far as possible, the negative impact of development, operations and other activities on the environment.
+
+ 12. Military properties are regarded and managed as conservation areas. The use of these properties therefore requires the integration of environmental and military considerations. The properties should be accessible to the public for environmental purposes insofar as this does not prejudice security and safety considerations .
+
+ 13. The SANDF will participate in environmental forums and enlist the support of experts in refining and implementing the policy outlined above.
+
+ 14. The SANDF will endeavour to instil a sense of awareness and responsibility towards the environment in the training of recruits.
+
+
+-----
+

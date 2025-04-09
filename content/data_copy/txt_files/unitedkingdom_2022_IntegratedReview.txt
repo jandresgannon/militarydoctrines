@@ -1,0 +1,3100 @@
+## House of Commons
+
+ Defence Committee
+
+# The Integrated Review, Defence in a Competitive Age and the Defence and Security Industrial Strategy
+
+#### Second Report of Session 2022–23
+
+##### Report, together with formal minutes relating to the report
+
+_Ordered by the House of Commons_
+_to be printed 19 July 2022_
+
+**HC 180**
+**Incoporating HC 166 (Session 2021-22) and HC 1333 (Session 2019-21)**
+
+Published on 28 July 2022
+by authority of the House of Commons
+
+
+-----
+
+**The Defence Committee**
+
+The Defence Committee is appointed by the House of Commons to examine
+the expenditure, administration, and policy of the Ministry of Defence and its
+associated public bodies.
+
+**Current membership**
+
+[Rt Hon Tobias Ellwood MP (Independent, Bournemouth East) (Chair)](https://members.parliament.uk/member/1487/contact)
+
+[Stuart Anderson MP (Conservative, Wolverhampton South West)](https://members.parliament.uk/member/4742/contact)
+
+[Sarah Atherton MP (Conservative, Wrexham)](https://members.parliament.uk/member/4855/contact)
+
+[Dave Doogan MP (Scottish National Party, Angus)](https://members.parliament.uk/member/4736/contact)
+
+[Richard Drax MP (Conservative, South Dorset)](https://members.parliament.uk/member/4132/contact)
+
+[Rt Hon Mr Mark Francois MP (Conservative, Rayleigh and Wickford)](https://members.parliament.uk/member/1444/contact)
+
+[Rt Hon Kevan Jones MP (Labour, North Durham)](https://members.parliament.uk/member/1438/contact)
+
+[Mrs Emma Lewell-Buck MP (Labour, South Shields)](https://members.parliament.uk/member/4277/contact)
+
+[Gavin Robinson MP (Democratic Unionist Party, Belfast East)](https://members.parliament.uk/member/4360/contact)
+
+[Rt Hon John Spellar MP (Labour, Warley)](https://members.parliament.uk/member/318/contact)
+
+[Derek Twigg MP](https://members.parliament.uk/member/429/contact) (Labour, Halton)
+
+[Martin Docherty-Hughes MP](https://members.parliament.uk/member/4374/contact) _(Scottish National Party, West Dunbartonshire) was a_
+member of the Committee during this inquiry.
+
+**Powers**
+
+The committee is one of the departmental select committees, the powers of which
+are set out in House of Commons Standing Orders, principally in SO No 152. These
+[are available on the Internet via www.parliament.uk.](https://www.parliament.uk/)
+
+**Publications**
+
+© Parliamentary Copyright House of Commons 2022. This publication may be
+reproduced under the terms of the Open Parliament Licence, which is published at
+[www.parliament.uk/copyright.](https://www.parliament.uk/copyright)
+
+Committee reports are published on the Committee’s website at
+[www.parliament.uk/defcom and in print by Order of the House.](https://committees.parliament.uk/committee/24/defence-committee/publications/)
+
+**Committee staff**
+
+Masrur Ahmed (Second Clerk), Mark Etherton (Clerk), Lucy Petrie (Committee
+Specialist), Sascha Sajjad (Committee Operations Officer), Eleanor Scarnell
+(Committee Specialist), Ian Thomson (Committee Specialist), Nigel Vinson
+(Committee Specialist) and Sarah Williams (Committee Operations Manager).
+
+**Contacts**
+
+All correspondence should be addressed to the Clerk of the Defence
+Committee, House of Commons, London SW1A 0AA. The telephone number
+for general enquiries is 020 7219 6168 / 3113; the Committee’s email address is
+[defcom@parliament.uk. Media inquiries should be addressed to Toni McAndrew-](mailto:defcom%40parliament.uk?subject=)
+Noon on 075 6243 5286.
+
+[You can follow the Committee on Twitter using @CommonsDefence.](https://twitter.com/CommonsDefence?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+
+-----
+
+### Contents
+
+**Summary** **3**
+
+**1** **Introduction** **4**
+
+The Committee’s expectations 4
+
+‘In Search of Strategy’ 4
+
+Ukraine 5
+
+**2** **The Threat** **6**
+
+Has the threat changed since publication of the Integrated Review? 6
+
+What do the public view as a threat to the UK 11
+
+**3** **The Government’s response to the evolving threat** **14**
+
+Defence in a Competitive Age 14
+
+Defence and Security Industrial Strategy 19
+
+**4** **Prioritisation and potential pitfalls** **22**
+
+Is the response sufficient? 24
+
+Cuts in capability 25
+
+Reduction in Army personnel 27
+
+Reliance on technology 28
+
+Is this achievable? 31
+
+**5** **Integration and funding** **33**
+
+Defence funding and reform of the MOD procurement processes 37
+
+**6** **What next?** **42**
+
+**Annex 1: Objectives of the IR** **43**
+
+**Annex 2: Defence papers which set the context of the decisions taken in the**
+**Defence Command Papers** **45**
+
+**Annex 3: “Perfect is the enemy of good”: A case study of the UK armoured**
+**vehicle acquisition – the Ajax Armoured Cavalry Programme** **47**
+
+**Conclusions and recommendations** **58**
+
+**Formal minutes** **62**
+
+**Witnesses** **63**
+
+**Published written evidence** **64**
+
+**List of Reports from the Committee during the current Parliament** **65**
+
+
+-----
+
+-----
+
+-----
+
+### 1 Introduction
+
+1. The Integrated Review of Security, Defence, Development and Foreign Policy was
+published on 16 March 2021. The following week, the Defence Command Papers, ‘Defence
+in a Competitive Age’ and the ‘Defence and Security Industrial Strategy’ were published.
+We held our first evidence session on 23 March 2021 and subsequently held a further six
+evidence sessions.
+
+2. The witnesses to this inquiry were:
+
+   - [Tuesday 23 March 2021, Lord Richards of Herstmonceux GCB CBE DSO](https://committees.parliament.uk/oralevidence/1973/pdf/)
+DL, Chief of Defence Staff, Ministry of Defence (2010–13); Lord Houghton of
+Richmond GCB CBE DL, Chief of Defence Staff, Ministry of Defence (2013–16)
+
+   - [Tuesday 13 April 2021: Rear Admiral (retired) Alex Burton, Former Commander](https://committees.parliament.uk/oralevidence/2006/pdf/)
+UK Maritime Forces (2016–2017) and Dr Sidharth Kaushal, Research Fellow,
+Sea Power, RUSI
+
+   - [Tuesday 20 April 2021, Professor John Louth, Independent Author and Defence](https://committees.parliament.uk/oralevidence/2141/pdf/)
+Analyst; Paul Hough, Defence Business Consultant.
+
+   - [Tuesday 25 May 2021, Professor Patrick Porter, Professor of International](https://committees.parliament.uk/oralevidence/2251/pdf/)
+Security and Strategy, University of Birmingham; Dr David Blagden, Senior
+Lecturer in International Security, University of Exeter.
+
+   - [Tuesday 23 June 2021: Rt Hon Ben Wallace MP, Secretary of State for Defence](https://committees.parliament.uk/oralevidence/2430/pdf/)
+and the Deputy Chief of the Defence Staff (Financial and Military Capability),
+Air Marshal Richard Knighton.
+
+   - [Tuesday 6 July, Lieutenant General (Retired) Ben Hodges, Pershing Chair in](https://committees.parliament.uk/oralevidence/2496/pdf/)
+Strategic Studies, Center for European Policy Analysis, and former Commanding
+General, United States Army Europe (from 2014 to 2017).
+
+   - [Tuesday 30 November: Sir Stephen Lovegrove, National Security Adviser.](https://committees.parliament.uk/oralevidence/3101/pdf/)
+
+3. We have also drawn on evidence to an earlier inquiry, ‘Defence industrial policy:
+procurement and prosperity’1 which we were unable to report upon in advance of the
+Defence and Security Industrial Strategy (DSIS) being produced. We would like to express
+our thanks to all of our witnesses, both to this inquiry and to the ‘Defence industrial
+policy: procurement and prosperity’ inquiry whose insights proved invaluable when
+evaluating the DSIS.
+
+###### The Committee’s expectations
+
+**_‘In Search of Strategy’_**
+
+4. In its first phase report on the Integrated Review (published in advance of the
+Integrated Review) In Search of Strategy, the Committee concluded that the high-level
+purpose of such an exercise was to answer the following questions:
+
+1 [Defence industrial policy: procurement and prosperity - Committees - UK Parliament](https://committees.parliament.uk/work/131/defence-industrial-policy-procurement-and-prosperity/)
+
+
+-----
+
+   - What are the threats and risks to the UK?
+
+   - What are our priorities?
+
+   - What do we need to achieve them?
+
+   - What do we have and what are the shortfalls?2
+
+5. The first outcome of this process was the Integrated Review of Security, Defence,
+Development and Foreign Policy3 entitled Global Britain in a Competitive Age (referred
+to in this Report as the Integrated Review or the IR). The IR goes someway to answering
+the first of these four questions. There is little indication of prioritisation however. The
+accompanying Defence Command Paper to the IR, Defence in a Competitive Age,4 then
+addresses, to some extent, the third question, setting out how the MOD intends to adapt the
+UK Armed Forces to face the challenges resulting from the complex threat environment.
+On the final question, there is some detail in where the MOD is planning to invest and
+what it is planning to cut but the document does not identify what the UK Armed Forces
+will be unable to do as a result.
+
+**_Ukraine_**
+
+6. The full-scale Russian invasion of Ukraine has only exacerbated the pressure on
+Defence resources. The UK has doubled the number of soldiers currently deployed to
+Estonia under NATO’s enhanced Forward Presence and deployed further personnel and
+equipment along NATO’s eastern flank.5 As well as gifting equipment, the UK has been
+engaged with co-ordinating the delivery of military equipment gifted by other countries.6
+However, as the conflict continues there are concerns that stockpiles of weaponry gifted
+to Ukraine are being depleted without the industrial capacity available to replace them.7
+
+7. We, alongside many other Members of this House and the other place, have frequently
+raised the prospect of an increase in Defence Spending but have been told that the money
+allocated in the 2021 Spending Review, which set a multi-year budget for Defence until
+2024 –2025, is sufficient.8 Witnesses to the Committee have disagreed with that assertion.9
+On 30 June 2022, the Prime Minister announced that the UK’s defence spending would
+increase to 2.5% of GDP “by the end of the decade”.10 However, the following week he
+clarified that rather than making a commitment, he was instead making a prediction.11
+
+8. **It is difficult not to feel a sense of déjà vu as we see British military ambitions**
+**which are not entirely matched by resources. Open conflict has returned to Europe**
+**and it is disappointing to see that the Government is not preparing for the impact of**
+**inflation and insufficient industrial capacity on the production of defence equipment**
+**as it looks to meet the new challenges.**
+
+2 [Defence Committee, First Report of Session 2019–21, In Search of Strategy, HC 165](https://committees.parliament.uk/publications/2265/documents/21808/default/)
+
+3 [HM Government, The Integrated Review of Security, Defence, Development and Foreign Policy: Global Britain in](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+[a Competitive Age, March 2021](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+
+4 [Ministry of Defence, Defence in a Competitive Age, March 2021](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+5 [HC Deb, 25 May 2022, col 349; HC Deb 13 June 2022, col 13](https://hansard.parliament.uk/commons/2022-05-25/debates/8717B67A-F29C-4741-AE65-E07C7A5C6DCB/Ukraine)
+
+6 [RUSI, Military Assistance to Ukraine: Rediscovering the Virtue of Courage, 17 May 2022](https://rusi.org/explore-our-research/publications/commentary/military-assistance-ukraine-rediscovering-virtue-courage)
+
+7 [Oral evidence taken before the Defence Committee on 24 May 2022, HC (2022–23) 184, Q146 [General Sir James](https://committees.parliament.uk/oralevidence/10334/pdf/)
+[Everard]; Oral evidence taken before the Defence Committee on 26 April 2022, HC (2021–22) 1225, Q108 [Air](https://committees.parliament.uk/oralevidence/10139/pdf/)
+Marshal Knighton]
+
+8 [Oral evidence taken before the Defence Committee on 5 July 20222, HC (2022–23) 181, Q143; Q149](https://committees.parliament.uk/oralevidence/10566/pdf/)
+
+9 Q1 [Lord Richards]; Q168 [Professor Porter]
+
+10 [Boris Johnson faces tax questions after signalling defence budget rise, The Guardian, 30 June 2022](https://www.theguardian.com/politics/2022/jun/30/boris-johnson-uk-spend-25-of-gdp-defence-end-of-decade-nato)
+
+11 [HC Deb, 4 Jul 2022, col 594](https://hansard.parliament.uk/commons/2022-07-04/debates/DA0AAD94-677D-4B4A-890C-A72E6CBB0C11/CHOGMG7AndNATOSummit)
+
+
+-----
+
+### 2 The Threat
+
+9. The Integrated Review, Global Britain in a Competitive Age, responds to global
+changes which will impact UK security defined by geopolitical and geoeconomic shifts;
+competition between states and between differing systems of government and values; rapid
+technological change; and transnational challenges. These will overlap and intersect, with
+the ongoing impact of covid-19 influencing the trajectory of each in ways which will be
+difficult to predict. This will result in a more competitive and multipolar world.
+
+10. The Integrated Review signals a move away from the recent focus on the threat posed
+by Islamist terrorism. This assessment of threat includes what the Government refers to
+as state threats (previously referred to as ‘Hostile State Activity’)12 and the threat posed by
+non-state actors13 who are able to use innovations in technology and proliferation of CBRN
+technology to inflict increasing harm on both military and civilian targets. A number of
+our witnesses endorsed the analysis of the threat within the three papers, particularly in
+relation to the waning power of Western institutions and the complexity of the range of
+threats in a multipolar world.14 Their views on the Government’s response to that threat
+are discussed in the section below.
+
+11. In oral evidence in June 2021, the Secretary of State set out what he perceived to
+be the most significant threats: Russia, China, terrorism and Iran.15 In November 2021,
+the National Security Adviser also highlighted the threats posed by Russia, China and
+terrorism as significant, and added CBRN proliferation and the development of advanced
+military weaponry to that list.16
+
+###### Has the threat changed since publication of the Integrated Review?
+
+12. In August 2021, the Taliban overran Kabul causing a scramble by Western countries
+to evacuate their citizens and partners from Afghanistan. The evacuation operation run
+by the MoD does not deserve criticism but the lack of foresight, planning, and indeed
+effectiveness of other Government Departments leaves a lot to be desired.17 Afghanistan
+was mentioned twice in the Integrated Review (both in relation to supporting the Afghan
+Government) and six times in the Defence Command Paper. Despite the then US President
+having agreed the previous year that the US would withdraw from Afghanistan, there was
+seemingly no public acknowledgement that the situation could deteriorate as a result.
+
+13. Our colleagues on the Foreign Affairs Committee have criticised the Government
+for their lack of planning in relation to the withdrawal. They note that: “The manner
+of the withdrawal of international forces from Afghanistan was a disaster, a betrayal of
+our allies, and weakens the trust that helps to keep British people safe. It will affect the
+
+12 Actions undertaken by states which are contrary to the UK’s national interests.
+13 In relation to the physical threats posed, this can refer to organised crime groups, proxy groups - which allow
+states deniability for the actions they carry out - and also those armed groups with their own political agenda,
+such as separatist or fundamentalist groups. All three of these categories can overlap for instance, some nonstate actors might have both a political and a criminal dimension.
+14 Q1 [Lord Richards]; Q2 [Lord Houghton]; Q168 [Professor Porter; Q169 [Dr Blagden]; Q291 [Lt. General Hodges]
+15 Q202 [Secretary of State]
+16 Q325 [National Security Adviser]
+
+17 [Foreign Affairs Committee, Missing in action: UK leadership and the withdrawal from Afghanistan, First Report](https://committees.parliament.uk/publications/22344/documents/165210/default/)
+[of Session 2022–23, HC 169 incorporating HC 685; Letter from the Chair of the Joint Committee on the National](https://committees.parliament.uk/publications/8321/documents/84632/default/)
+Security Strategy to the Prime Minister, 17 December 2021
+
+
+-----
+
+UK’s international reputation and interests for many years to come. There were systemic
+failures of intelligence, diplomacy, planning and preparation, which raise questions
+about machinery of Government, principally the National Security Council”.18 The Joint
+Committee on the National Security Strategy have also been critical of the work of the
+NSC in relation to Afghanistan, describing the response as “a systemic failure by the
+Government to prepare properly for a scenario that it had, in fact, foreseen.”19 Further
+details of the JCNSS’ work on the response to Afghanistan is examined in the chapter on
+‘Integration and funding’.
+
+14. On 24 February 2022, Russian forces started a full-scale invasion of Ukraine. In the
+subsequent months, the UK has supported the Ukrainian Government and its Armed
+Forces in its efforts to remove Russia from Ukrainian sovereign territory. As of 25 May,
+the UK has provided the following military equipment:
+
+   - The multiple launch rocket system (M270 weapon system) and associated
+munitions (M31A1)
+
+   - More than 5,000 NLAW anti-tank missiles
+
+   - More than 200 Javelin anti-tank missiles
+
+   - 120 armoured vehicles
+
+   - 1,360 anti-structure munitions
+
+   - 5 Air Defence systems, including Starstreak missiles
+
+   - 4.5 tonnes of plastic explosives
+
+   - Stormer vehicles fitted with launchers for anti-air missiles.
+
+   - New anti-ship missile systems
+
+   - More than 400,000 rounds of small-arms munitions
+
+   - More than 200,000 pieces of non-lethal aid including helmets, body armour,
+rangefinders and medical equipment
+
+   - Electronic warfare equipment
+
+   - Counter battery radar systems
+
+   - GPS jamming equipment
+
+   - Thousands of night vision devices
+
+   - Dozens of heavy lift UAV systems to provide logistical support to isolated forces
+
+   - Over 20 M109 155mm artillery guns, purchased on the open market and
+refurbished20
+
+18 [Foreign Affairs Committee, Missing in action: UK leadership and the withdrawal from Afghanistan, First Report](https://committees.parliament.uk/publications/22344/documents/165210/default/)
+of Session 2022–23, HC 169 incorporating HC 685, para 12
+
+19 [Letter from the Chair of the Joint Committee on the National Security Strategy to the Prime Minister, 17](https://committees.parliament.uk/publications/8321/documents/84632/default/)
+December 2021
+
+20 [Ministry of Defence, Praise for Ukraine support as Defence industry offers more help, 20 June 2022](https://www.gov.uk/government/news/praise-for-ukraine-support-as-defence-industry-offers-more-help?utm_source=HOC+Library+-+Current+awareness+bulletins&utm_campaign=cd02839891-Current_Awareness_IADS_21_06_2022&utm_medium=email&utm_term=0_f325cdbfdc-cd02839891-103727290&mc_cid=cd02839891&mc_eid=9554a38a62)
+
+
+-----
+
+Furthermore, the UK has increased its deployments to support NATO defensive security
+and the MOD has provided Army personnel to the Home Office in order to assist with its
+visa processing.21
+
+15. General Sir James Everard, former DSACEUR, told us that:
+
+Yes, you need to go back and look at the integrated review in the light of
+the lessons we have learned from Afghanistan. There are some quite useful
+lessons in relation to capacity building, which show where it works and where
+it does not work. There are lessons coming out of Ukraine: ammunition
+consumption, urban fighting, subterranean fighting. These are all things
+that people need to take away.22
+
+16. Despite the impact upon the UK Armed Forces of the withdrawal from Afghanistan
+and the conflict in Ukraine, there appears to be no real commitment to revisit the
+conclusions drawn by the Integrated Review or the Defence Command Papers. In the
+month after the evacuation from Kabul, the National Security Adviser said that the IR
+“describes an increasingly complex environment which is characterised by the need to
+confront a range of diverse and networked threats to the UK, its people and its interests”.
+He noted its emphasis on “geopolitical and geoeconomic shifts”, how the “return of
+systemic competition” means that a whole of state approach must be taken in countering
+hostile activities, how technology and proliferation were transforming the threat and how
+the basis to countering many of these challenges lay in building resilience at home.23 In
+his judgement:
+
+recent events demonstrate that we must double down on the trajectory the IR
+sets out. We should strengthen our determination to build UK capabilities
+and work with partners to capitalise on the UK’s great strengths. How
+we do that of course will be crucial. But I see nothing that fundamentally
+changes the strategy.24
+
+17. The Government has also pointed to the description in the Integrated Review
+documents of Russia as “the greatest nuclear, conventional military and sub-threshold
+threat to European security”,25 and to the fact that the Integrated Review begins with the
+assertion that the most important area for our national security is the Euro-Atlantic area.26
+
+21 [Oral evidence taken before the Defence Committee on 8 March 2022, HC (2021–22) 271, Q194–5 [Minister for](https://committees.parliament.uk/oralevidence/9851/pdf/)
+the Armed Forces]
+
+22 [Oral evidence taken before the Defence Committee on 24 May 2022, HC (2022–23) 184, Q204](https://committees.parliament.uk/oralevidence/10334/pdf/)
+
+23 [Speech by the National Security Adviser at the Council on Geostrategy, September 2021](https://www.gov.uk/government/speeches/sir-stephen-lovegrove-speech-at-the-council-on-geostrategy)
+
+24 [Speech by the National Security Adviser at the Council on Geostrategy, September 2021](https://www.gov.uk/government/speeches/sir-stephen-lovegrove-speech-at-the-council-on-geostrategy)
+
+25 HL Deb,7 April 2022, col 2184
+
+26 HC Deb, 24 February 2022, col 572
+
+
+-----
+
+18. Yet it is clear that both Afghanistan and Ukraine have changed the current strategic
+environment.27 In November 2021—8 months after the Integrated Review and the Defence
+Command Paper had been published—the Prime Minister told the Liaison Committee
+that:
+
+We have to recognise that the old concepts of fighting big tank battles on the
+European landmass, which I think is what you are driving at, are over, and
+there are other, better things that we should be investing in: in the FCAS—
+the future combat air system—and in cyber. This is how warfare in the
+future is going to be fought. We should be investing in our advanced early
+warning systems; that is where we need to be. I think that the investments
+we are making in new technology … are absolutely indispensable to our
+ability to fight the wars of the 21st century.28
+
+However, recent events in Ukraine have shown that tanks and conventional heavy artillery
+are still very much a part of modern warfare. For example, a Newsweek report estimated
+in June 2022 that 1,465 Russian tanks had been destroyed in the conflict in Ukraine29
+although other estimates are more conservative—in the same month, the Economist
+quoted a figure of 774 Russian tanks lost.30 Even if the latter is closer to the actual number
+(accurate figures are difficult to establish given the scale of both the offensive and counteroffensive), that figure is over three times the number of Challenger II tanks the British
+Army has in its arsenal. This has led to some suggesting that tanks are now obsolete but
+General Sir Richard Barrons told us that it was more nuanced than that:
+
+Tanks, armoured infantry vehicles, self propelled armoured artillery and
+supporting engineers, as constructed in the 1990s, have had their day, but
+armour on the battlefield in the 21st century has not had its day. There is no
+way you can move around the battlefield in Ukraine, for example, except
+under armour, because the biggest killer remains artillery.
+
+We are going to see—we should not be surprised by it—the evolution of
+armoured vehicles from the things we were familiar with from the Cold
+War into armoured vehicles that take advantage of a whole range of digital
+age technology—materials, sensors, weapons, communications. That will
+take us into a new generation of firepower, protection and mobility on the
+land battlefield.31
+
+27 In July 1998, the then Government published the Strategic Defence Review which was intended to “to give the
+Armed Forces of this country a coherent and stable planning basis in the radically changing international and
+strategic context of the post-Cold War world”, by addressing the UK’s defence requirements up to 2015. On 18
+July 2002 the then Secretary of State for Defence published ‘The Strategic Defence Review: A New Chapter’
+which was intended to set out “further and more detailed conclusions, particularly in the area of capabilities to
+counter terrorism abroad” as a result of work which was launched following the terrorist attacks of September
+2001.
+
+28 [Oral evidence taken before the Liaison Committee on 17 November 2021, HC (2021–22) 835, Qq 147–8](https://committees.parliament.uk/oralevidence/3007/default/)
+
+29 [‘Ukraine kills 87 Russian Troops Saturday in Combative East Region: Official’ Newsweek, 19 June 2022](https://www.newsweek.com/ukraine-kills-87-russian-troops-saturday-combative-east-region-official-1717166)
+
+30 [Does the tank have a future?, The Economist, 15 June 2022](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
+
+31 [Oral evidence taken before the Defence Committee on 19 April 2022, HC (2021–22) 608/167, Q76](https://committees.parliament.uk/oralevidence/10136/pdf/)
+
+
+-----
+
+In the autumn we will further examine the decisions on heavy armour made within
+Defence in a Competitive Age—in particular, the proposed upgrade of 148 tanks to
+Challenger III.32 In light of events in Ukraine, the MOD ought also to be reviewing
+whether that decision is appropriate in the current context.
+
+19. When we asked the MOD’s Permanent Secretary whether the decisions made in
+the Integrated Review and Defence in a Competitive Age were in need of reassessment,
+he told us that during the Integrated Review (and the accompanying spending review),
+the decision was taken to move towards future capabilities and that investment for those
+future capabilities was prioritised over maintaining current capabilities. He explained that
+“Ministers’ appetite for risk in the middle of the decade allowed us to run some of those
+existing capabilities down sooner rather than later” which meant that more money could
+be diverted in order to create and staff those future capabilities which the UK Armed
+Forces required to counter future threats. He went on to say that:
+
+There are underlying themes in the integrated review that were right.
+We identified Russia as the most acute threat to European security. We
+reconfirmed the importance of NATO as the bedrock of our security and
+of the “i” in “integrated”. We emphasised the importance of whole-ofGovernment responses, not simply defence responses. Nevertheless, Putin’s
+invasion of Ukraine suggests at the very least that the calibration of that
+threat is something that we need to re-examine, and it may well be that some
+of the risk judgments that we made during the IR are no longer palatable.33
+
+20. In July 2022, the Secretary of State told us that the Department was undertaking
+a ‘lessons learned’ process which would look at the conflict in Ukraine and allow the
+Department to test assumptions:
+
+Do I think that we should do a piece of work looking at the threat and the
+lessons learned, which should infuse into the Department and change, if
+necessary, some of the things? Yes, we should, and we will. Of course, we are
+doing it right now in an ongoing process, but there is definitely a time when
+we will have to absolutely look at Ukraine and learn the lessons. … There are
+two parts to this—when we do a fixed lessons learned and whether you do
+that at the end of the conflict, and when we can do a running commentary
+that is so important that we have to get on with it.34
+
+21. **In the Integrated Review and the Defence Command Paper, the Government**
+**identified and understood the implications of the range of complex and cascading**
+**threats faced by the UK. However, the impact of both the Afghan withdrawal and the**
+**Russian full-scale invasion of Ukraine are being seemingly dismissed as insignificant**
+**and there appears to be no intention to re-visit the conclusions of the documents. UK**
+**Defence thus appears as arrogant and unwilling to learn lessons. Events of the last**
+**year have demonstrated that the Government was unprepared for (and in the case**
+**of Afghanistan, failed to appropriately respond to) international crises. No strategy**
+**should be set in stone nor subject to constant revision. However, there is a need for**
+
+32 Ministry of Defence, Defence in a Competitive Age, March 2021, p54
+
+33 [Oral evidence taken before the Defence Committee on 26 April 2022, HC (2021–22) 1225 Qq 47–48](https://committees.parliament.uk/oralevidence/10139/pdf/)
+
+34 [Oral evidence taken before the Defence Committee on 5 July 2022, HC (2022–23) 181, Qq147–148](https://committees.parliament.uk/oralevidence/10566/pdf/)
+
+
+-----
+
+**Government to be able to respond to major events—which it was manifestly not**
+**prepared for—rather than downplaying the potential implications of such geopolitical**
+**shocks.**
+
+22. **_There is a need for a New Chapter update to the IR and the Defence Command_**
+**_Paper which takes into account the events in Afghanistan and Ukraine. The document_**
+**_should then set out how the analysis of the strategic context has changed and what_**
+**_decisions in the Command Paper the UK Government is reviewing._**
+
+###### What do the public view as a threat to the UK
+
+23. Polling carried out just before the full-scale Russian invasion of Ukraine found that
+the British public perceive climate change, international terrorism and the rise of China
+as a world power being the three greatest threats to the UK national interest. Whilst
+participants were not asked which country they viewed as the greatest threat, they were
+questioned on whether they trusted specific countries35—91% did not trust Russia and
+81% did not trust China.36
+
+24. Another poll found in May 2022 that Russia was perceived to be the greatest risk to the
+UK and that there had been a large increase in concerns about the use of nuclear weapons
+by an aggressor. There was a smaller increase in concern about the use of chemical and
+biological weapons.37 China was also perceived to be a risk (although less of a risk than
+energy supply disruption and equal to the risk of an economic crisis). Iran and North
+Korea were seen to be comparatively much lower risk.38
+
+25. Public support for defence and foreign policy decisions is vital. The National Security
+Adviser has, in a speech to the Council on Geostrategy, previously set out his views on
+why public engagement is important:
+
+public consent for foreign policy, military interventions and our wider
+approach to national security is a critical factor. Once support for the
+mission in Afghanistan ebbed away in the US, it became clear that it would
+come to an end sooner rather than later. That’s why IR sets out a need to
+further develop public engagement capability. We must make the case for
+how international engagement affects people’s real lives and helps make the
+UK safer and more prosperous.39
+
+26. Lt Gen. (rtd) Ben Hodges made a similar point to us:
+
+35 If participants were asked Iran on North Korea, these figures were not included in the publication of the
+research.
+
+36 [The British Foreign Policy Group, 2022 Annual Survey of UK Public Opinion on Foreign Policy and Global Britain](https://bfpg.co.uk/wp-content/uploads/2022/06/BFPG-UK-Opinion-Report-June-2022.pdf)
+(June 2022) p 41; 23–4
+
+37 [Munich Security Conference, Zeitenwende for the G7: Insights From the Munich Security Index Special G7](https://securityconference.org/assets/02_Dokumente/01_Publikationen/2022/MunichSecurityBrief_ZeitenwendefortheG7.pdf)
+[Edition, Munich Security Brief No. 03/22 (June 2022) p 9](https://securityconference.org/assets/02_Dokumente/01_Publikationen/2022/MunichSecurityBrief_ZeitenwendefortheG7.pdf)
+
+38 [Munich Security Conference, Zeitenwende for the G7: Insights From the Munich Security Index Special G7](https://securityconference.org/assets/02_Dokumente/01_Publikationen/2022/MunichSecurityBrief_ZeitenwendefortheG7.pdf)
+[Edition, Munich Security Brief No. 03/22 (June 2022) p 8](https://securityconference.org/assets/02_Dokumente/01_Publikationen/2022/MunichSecurityBrief_ZeitenwendefortheG7.pdf)
+
+39 [Speech by the National Security Adviser at the Council on Geostrategy, September 2021](https://www.gov.uk/government/speeches/sir-stephen-lovegrove-speech-at-the-council-on-geostrategy)
+
+
+-----
+
+You need to be able to articulate, in a way that makes sense to the average
+voter, that with deterrents, in the long run—and why we know from history
+that if you are prepared and demonstrate that you are prepared—the chance
+of ever going into conflict is significantly reduced.40
+
+Lt General Hodges noted how important it had been to have journalists on HMS Defender
+who were able to dispel Russian misinformation41 when Russia announced it had launched
+an attack against the ship as it was transiting the Black Sea.42
+
+27. It is clear that the UK public were unhappy with the outcome of the Afghanistan
+drawdown. In September 2021, Ipsos Mori found that 41% of those polled thought that the
+Government had done a bad job (compared with 23% who thought that the government
+had done a good job) on handling the Afghanistan situation.43
+
+28. On Ukraine, the polling is more favourable—a May 2022 poll found that 58% of
+those polled had a favourable view of the UK response to the Russian invasion.44 This
+may be as a result of the wider engagement of the public in what the UK is doing and why.
+The Prime Minister, and the MOD and FCDO Ministerial teams have regularly updated
+the House and engaged with British media. The daily information feed from Defence
+Intelligence is widely available and regularly cited. The war in Ukraine seems to have
+increased awareness amongst the UK public of the wider threats which the UK faces—in
+March 2022, polling found that, according to those polled, the top issue facing the UK
+was ‘Defence/foreign affairs/terrorism’, which had risen from 27% to 35%.45 However, this
+has subsequently begun to decline, overtaken by concern around the cost of living crisis.46
+
+29. 62% of the public say that they are interested in what the UK does internationally
+(albeit this number has decreased since last year when it was 71%). However, less than half
+(43%) of Britons feel informed about UK international activities and only 35% trust that
+the Government’s foreign policy decisions are taken in the UK public’s interest.47 Public
+engagement is vital to ensuring that the UK taxpayer understands why investment in
+military capabilities is as important as investment in other areas such as education and
+the NHS.
+
+30. **The UK public is aware of the threats which the UK faces but does not appear**
+**to trust the Government to act in the national interest. Whilst investments in new**
+**technology are vital, it is also clear that, the days of “big tank battles on the European**
+
+40 Q295
+41 In June 2021, HMS Defender sailed from Odesa (in Southern Ukraine) to Georgia, sailing within 12 nautical miles
+of the coast of Crimea and therefore passing through Ukrainian waters in a commonly used and internationally
+recognised transit route. Russia responded by sending planes and coastguard ships to shadow the vessel. The
+Russian Ministry of Defence announced that a patrol ship had fired warning shots and a jet dropped bombs in
+the path of HMS Defender but journalists aboard were able to report that whilst there had been harassment, no
+offensive actions had been taken against the ship.
+42 Q314
+
+43 [Handling Afghanistan polling, Ipsos MORI, September 2021](https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/Ipsos_MORI_Sept_2021_Handling_Afghanistan_010921_PUBLIC.pdf)
+
+44 [New polling: the British public’s view of the global response to the Ukraine crisis, UK in a changing Europe, 4](https://ukandeu.ac.uk/new-polling-the-british-publics-view-of-the-global-response-to-the-ukraine-crisis/)
+May 2022
+
+45 [Ipsos Issues Index, Ipsos, March 2022](https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/ipsos-uk-issues-index-mar-2022-charts.pdf)
+
+46 [Ipsos Issues Index, Ipsos, May 2022](https://www.ipsos.com/en-uk/ipsos-issues-index-may-2022-public-concern-about-inflation-reaches-its-highest-level-40-years)
+
+47 [The British Foreign Policy Group, 2022 Annual Survey of UK Public Opinion on Foreign Policy and Global Britain](https://bfpg.co.uk/wp-content/uploads/2022/06/BFPG-UK-Opinion-Report-June-2022.pdf)
+(June 2022) p 12–13; 15
+
+
+-----
+
+**landmass” are not over and so a review of the decisions made in the Integrated Review**
+**and Defence in a Competitive Age, and the timelines committed to, is important for**
+**the UK’s defence and security and for the public’s trust.**
+
+31. **The Government needs to ensure that the public is aware of the link between the**
+**cost of living and global instability: the rises in energy and food prices are both directly**
+**attributable to the conflict in Ukraine. The Government needs to ensure that they are**
+**effectively communicating this to the public, particularly given the increasing cost of**
+**UK support to the Ukrainians.**
+
+32. **_Foreign policy decisions and consequent actions by UK Defence need to be supported_**
+**_by the UK public. The lack of organisation round the withdrawal from Afghanistan_**
+**_damaged the Government’s standing. However, so far, engagement with the public on_**
+**_the Russian offensive in Ukraine and British support for Ukraine has been regular and_**
+**_transparent. We welcome this approach: the Government needs to build on this._**
+
+
+-----
+
+### 3 The Government’s response to the evolving threat
+
+###### Defence in a Competitive Age
+
+33. The overall goal of UK Defence is to support the Government in achieving the objectives
+set out in the Integrated Review.48 Defence in a Competitive Age notes that in order for
+UK Defence to help the Government, the approach to the operational environment needs
+to change. The additional objective within the two Defence Command Papers then is to
+transform UK Defence so that it can operate effectively in the future national security and
+international environment set out in the Integrated Review. The Secretary of State, when he
+gave evidence to us argued that it was important to read Defence in a Competitive Age in
+conjunction with the Integrated Operating Concept 2025 (IOpC25), originally published
+in September 2020,49 which had previously concluded that the UK “need[s] a new model
+for deterrence that takes account of the need to compete”. The IOpC25 concluded that in
+order to respond to current threats, UK Defence had to ensure it maintained its strengths—
+“quality people; alliance and partnerships; innovation and experimentation; and [UK]
+values as a centre of gravity”—and to “drive the conditions and tempo of strategic activity,
+rather than responding to the actions of others”. It then followed that this would require
+integration at every level—throughout the military, across Government, internationally
+and “in-depth within our societies” as “on the new sub-threshold battlefield, assuring
+societal resilience constitutes deterrence by denial”.50
+
+34. The then Chief of the Defence Staff explained to us that:
+
+We need to recognise that, in modernising the Armed Forces, the battlefield
+of the 2030s will be a very different battlefield. … It will be about a
+combination between hiding and finding. It will be about trying to get your
+forces to be much better connected in order to be able to maximise their
+effect. … Multi-domain integration … requires a different approach both
+in terms of technology and people, but also doctrine and process. ... I would
+describe it as active deterrence. I would also say that we need to think hard
+about how we manage escalation these days because some of the capabilities
+that our opponents have now developed, whether that is hypersonics or
+other missile systems, make it very difficult to understand how escalation
+is working and we need to think hard about that. … It is no longer a single
+ladder that you move up and down; it is much more of a spider’s web of
+multiple levels, with multiple domains, and some of those domains are very
+hard to attribute, whether that is space or cyber. Understanding escalation
+management is an issue.51
+
+35. As well as discussing the updated tasks for Defence and the capabilities required
+(explored in detail below), Defence in a Competitive Age also provides a brief introduction
+
+48 These were: sustaining strategic advantage through Science and Technology; shaping the open international
+order of the future; strengthening security and defence at home and overseas; and building resilience at home
+and overseas. Greater information on the context behind the objectives can be found on Annex 1
+49 An updated version was published in August 2021
+
+50 [Ministry of Defence, The Integrated Operating Concept, August 2021, pg 9–10](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/922969/20200930_-_Introducing_the_Integrated_Operating_Concept.pdf)
+
+51 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q1](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+
+-----
+
+to the change in the relationship with industry (later covered in more detail in the Defence
+and Security Industrial Strategy). In addition it explores UK Defence’s relationship with
+Allies and the change in skills required by UK Defence. The then CDS told us:
+
+If we are going to be fit for purpose in the 2030s, we need to recognise that
+the skills we will require in that timeframe will be rather different to the
+skills that we have all grown up with.52
+
+52 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q1](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+
+-----
+
+53 [The Secretary of State told us on 5 July 2022 that the Navy was now considering, rather than converting a Bay](https://committees.parliament.uk/oralevidence/10566/pdf/)
+class, instead having RFA Argus fulfil that function.
+
+54 As we have previously stated, greater clarity is needed over what form this will take, the potential cost and the
+timeframe for introduction (given that the Sandown class is scheduled to be withdrawn from service within the
+[next two and a half years and the Hunt class by 2031). This was explored in greater detail in our Report: We’re](https://committees.parliament.uk/publications/8205/documents/85026/default/)
+[going to need a bigger Navy, Third Report of Session 2021–22, HC 168, December 2021, paras 139–144](https://committees.parliament.uk/publications/8205/documents/85026/default/)
+
+
+-----
+
+24 Puma helicopters
+Source: compiled by Defence Committee staff
+
+36. The Integrated Review and ‘Defence in a Competitive Age’ set out a number of changes
+to Defence capabilities. The Secretary of State noted that “[t]he Royal Navy will have new
+ships and missiles, the RAF new fighters and sensors, and the Army will be more deployed
+and better protected.”59 Alongside the investment from the 2020 Spending Review into
+
+55 Including investments in: next generation capabilities (including advanced high-speed missiles; quantum;
+engineering biology; directed energy weapons; and swarming drones) and in the newer domains of space and
+cyberspace.
+56 The tilt to the Indo-Pacific included the following commitments:
+Increase capacity building and training across the Indo Pacific, delivered through longer and more consistent
+military deployments and by better leveraging existing regional facilities; Maximise regional engagement as
+part of the Carrier Strike Group deployment in 2021; Increase UK maritime presence in the Indo Pacific region
+through the deployment of Offshore Patrol Vessels from 2021, Littoral Response Group from 2023 and Type 31
+frigates later in the decade, including to uphold freedom of navigation; Make a bigger and more consistent
+contribution to the Five Power Defence Arrangements (FPDA); Pursue closer defence cooperation with the
+Association of Southeast Asian Nations (ASEAN) member states; Guarantee regional access through existing
+UK bases, including the British Indian Ocean Territory, access to allied facilities, and the development of an
+enhanced training facility at Duqm, Oman; Deepen and expand defence industrial relationships in the region,
+including with Australia, Japan, Republic of Korea and India, underpinned by co-operation on science and
+technology. Enhance programmes of exercises, exchanges and capability development with these key partners;
+Expand the Defence Attaché and Advisor network and build a new British Defence Staff in Canberra to work
+alongside the existing Defence Staff in Singapore and coordinate Defence activity across the region.
+57 This was later changed to a commitment of 73,000 Army personnel in the Future Soldier paper published in
+November 2021.
+58 9 will be retired – 14 will be replaced by newer models.
+
+59 [Ministry of Defence, Defence in a Competitive Age, March 2021, p 2](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+
+-----
+
+improving and expanding capabilities (particularly in emerging technologies), a number
+of capabilities were withdrawn from service. In September 2021, the National Security
+Adviser said that:
+
+There is now a plan for UK Defence. The equipment plan is in balance.
+We have taken difficult decisions to enable us to invest in new technologies
+which provide the UK with a strategic advantage. It will deliver a force
+designed around the strategic context of the 2020s, not the strategic concept
+of the post-9/11 period. And it will enable the Armed Forces to make a
+decisive contribution to an integrated, cross Government approach to
+national security.60
+
+37. The then Chief of Defence Staff told us that during the process of the Integrated
+Review, the MOD had to:
+
+take some risk against capabilities that were in the programme to take them
+out of service in order to create the headroom to be able to invest for the
+future—capabilities such as C-130, the Puma helicopter, Warrior, and the
+Type 23.61
+
+38. Defence is therefore cutting capabilities which it does not see as being an effective
+part of the Future Force in order to invest in new and emerging technologies to enable
+what it refers to as ‘Multi-Domain Integration’ (MDI). Lord Houghton thought that:
+
+One of the things that the Defence Secretary is saying in his foreword to
+the defence command paper is that he is attempting to match money to
+credible ambition. Therefore, he is saying, “Brace, brace. We are going to
+get rid of all this stuff. We are going to get rid of loads and loads of planes,
+hundreds of tanks and armoured fighting vehicles. We are going to pension
+off obsolete type 23 frigates. We are no longer going to pretend that we have,
+in size terms, the huge amount of capabilities we have. We are going to
+harness the money we have in a more selective and focused way.62
+
+39. Overall, the investments have focused on upgrading systems (Typhoon, Challenger,
+Watchkeeper); maintaining previous spending commitments (F-35s, Fleet Solid Support
+Ships and Protector RPAS) and investing in new and developing technology such as:
+
+   - New air defences for the Army alongside new electronic warfare and cyberspace
+capabilities;
+
+   - Establishing a Space Command; and
+
+   - Creating a ‘Digital Backbone’63 which will improve digital infrastructure.
+
+60 [Speech by the National Security Adviser at the Council on Geostrategy, September 2021](https://www.gov.uk/government/speeches/sir-stephen-lovegrove-speech-at-the-council-on-geostrategy)
+
+61 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q1](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+62 Q29 [Lord Houghton]
+
+63 to enable “data curation, data sharing and data exploitation, cloud services at Secret and Above Secret, and a
+[common network architecture” according to the then Commander of Strategic Forces.](https://www.gov.uk/government/speeches/commander-of-strategic-command-rusi-conference-speech)
+
+
+-----
+
+###### Defence and Security Industrial Strategy
+
+40. The Defence and Security Industrial Strategy (DSIS) was published on 23 March 2021.
+It reiterated the threat as set out by the Integrated Review and the Defence Command
+Paper before noting that:
+
+The UK is well placed to meet these challenges, and there are significant
+opportunities for the UK’s defence and security industrial sectors in
+doing so. These can be best realised through a significant step change
+in the relationship between government and industry focused on a clear
+assessment of strategic needs, future priorities, and the realities of the
+market. As the Defence Command Paper (‘Defence in a competitive age’)
+notes, the government must integrate with its allies and partners, across
+domains and with industry to enable us to respond most effectively to the
+future operating environment.64
+
+41. DSIS foresees the need to create a “virtuous circle” whereby Government clarity
+on its future requirements enables industry to invest in R&D with confidence, allowing
+innovation and productivity to increase. This then makes the capabilities on offer more
+attractive to a wider range of buyers and so increases exports. Exports mean a healthy
+UK industrial base, sustaining investment in R&D, equipment and skills.65 To achieve its
+aims, the strategy focuses on changes in four areas:
+
+a) Ensuring that the Government’s approach to defence and security acquisition
+and procurement is effective and fit for purpose. This includes emphasising when
+onshore capability66 is necessary for reasons of national security and working
+with industry to ensure that is an option in those areas. This may mean forming
+partnerships with industry in those areas and only using competition where
+appropriate. The Government will reform the regulations covering defence &
+security public contracts to ensure these regulations are appropriate and allow
+decision-makers to take account of the ‘social value’ of a tender before awarding
+a contract.
+
+b) Strengthening the productivity and resilience of defence and security sectors,
+evolving the relationship between Government and industry. The Government
+will work to understand the complex supply chains involved in production
+of defence and security capabilities (and therefore protect innovative UK
+technology) whilst also promoting UK entities to overseas suppliers who wish to
+win MOD contracts.
+
+c) Communicating Government priorities and future plans through investment
+in key technologies. Part of this includes finding ways to ensure that innovative
+technology makes it from conception through to validation and then on to
+production.
+
+d) Thinking about how to work with allies and partners and adopting an agreed
+approach on international cooperation, exports and foreign investment. Such an
+
+64 [Ministry of Defence, Defence and Security Industrial Strategy, March 2021, p 12](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/971983/Defence_and_Security_Industrial_Strategy_-_FINAL.pdf)
+
+65 [Ministry of Defence, Defence and Security Industrial Strategy, March 2021, p 15](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/971983/Defence_and_Security_Industrial_Strategy_-_FINAL.pdf)
+66 i.e. the need to be able to design, integrate, upgrade or manufacture a component, a part or a whole product
+within the UK.
+
+
+-----
+
+approach will have clear priorities on what capabilities the Government wishes
+to collaborate on, what capabilities it wishes to export (and to whom) and ensure
+that its approach on exports is a cross-Government endeavour. One way to
+support British industry is for the UK Government to more regularly utilise
+government-to-government (G2G) commercial agreements.67
+
+42. Before the publication of DSIS, we had begun an inquiry looking at ‘Defence industrial
+policy: procurement and prosperity’. We held several evidence sessions, including
+hearing from the Minister. Unfortunately, we were unable to produce a report before the
+publication of DSIS. However, there were several themes within the evidence received
+which DSIS touches upon:
+
+   - that open competition is not the most effective means of defence procurement
+and that a more collaborative approach, based on sector strategies, would be an
+improvement;
+
+   - that the MOD did not fully understand the risks and opportunities within the
+defence supply chain;
+
+   - that the Government needed to both identify and articulate opportunities for
+international collaboration; and
+
+   - that the MOD’s approach on intellectual property and unlimited liability
+presented issues for engagement, particularly for SMEs.68
+
+43. Professor John Louth told us that DSIS represented a “massive change in emphasis”
+which would require the MOD to communicate its intentions:
+
+there will be a fresh action plan for SMEs. There is going to be a land-sector
+strategy; that has already been flagged. There will be an intellectual property
+strategy and a defence supply chain and innovation strategy. It is strategy
+on top of strategy on top of strategy. There is enormous work here, but it all
+points towards significant and profound change that can all be captured in
+this idea of a sectorial approach and this flexible acquisition architecture.69
+
+However, he felt that the challenge for the authors of DSIS will be to ensure the whole
+of the MOD supports the changes.70 Paul Hough agreed, explaining that “DSIS is not
+something that is going to happen or be fully implemented next year. It will take some
+time. It will take concerted and focused effort, training and recruitment, sector by sector”.71
+The National Security Adviser explained why he felt that DSIS played such a vital role:
+
+There are certain sovereign capabilities that, once gone, we will never
+get back. Defence is also more cognisant of the social role that it plays
+in supporting British industry. Much of that is expanded at considerable
+length in the Defence and Security Industrial Strategy, which marks the
+
+67 [Ministry of Defence, Defence and Security Industrial Strategy, March 2021, p 18](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/971983/Defence_and_Security_Industrial_Strategy_-_FINAL.pdf)
+
+68 [Defence industrial policy: procurement and prosperity - Committees - UK Parliament](https://committees.parliament.uk/work/131/defence-industrial-policy-procurement-and-prosperity/publications/)
+
+69 Q135
+70 Q135 [Professor Louth]
+71 Q165
+
+
+-----
+
+kind of strategic shift that you are talking about, but it was only published
+earlier this year. These are long-term projects. I hope that they will be seen
+to bear fruit.72
+
+44. **Defence in a Competitive Age and the Defence and Security Industrial Strategy**
+**are ambitious papers, aimed at modernising UK defence and ensuring it has equipment**
+**suitable for the Information Age. Whilst the conclusions of Defence in a Competitive**
+**Age ought to be revisited in light of the conflict in Ukraine, the commitments made**
+**in the Defence and Security Industrial Strategy ought to be implemented fully. We**
+**recognise that this will take time—we urge the MOD to ensure that the changes are**
+**seen through.**
+
+72 Q365
+
+
+-----
+
+### 4 Prioritisation and potential pitfalls
+
+45. The Integrated Review and the Defence in a Competitive Age do not include any
+prioritised assessment of the threat or of activities to counter it. In a debate in the House
+of Lords on 17 March, former National Security Adviser Lord Ricketts welcomed the
+ambitions set out in the Integrated Review but noted that:
+
+…what I do not see are any clear choices among all these priorities. Indeed,
+I see that the review dropped the prioritised list of national security risks,
+which we introduced in 2010.73
+
+46. The Government’s priorities were debated throughout the evidence sessions in this
+inquiry. Former Chiefs of Defence Staff, Gen. Lord David Richards and Gen. Lord Nick
+Houghton expressed some misgivings about the lack of direction.74 Lord Richards felt that
+neither the Integrated Review nor ‘Defence in a Competitive Age’ had a “guiding intent”
+leaving him to wonder what the PM and Secretary of State for Defence envisioned: “Is it
+state-on-state warfare or is that so unlikely that we should predicate our structures and
+our capability on something else?”75
+
+47. Dr Sidharth Kaushal from RUSI felt that the Integrated Review had adequately set
+out the priority between the threat posed by Russia and the competitive challenge posed
+by China and had resourced each accordingly. Similarly, Admiral Alex Burton felt that
+the Integrated Review was clear: the “pacing threat is Russia” with the “tilt” (as opposed
+to the full-turn of the Obama pivot to Asia which shifted resources from Europe and the
+Middle East76) to the Indo-Pacific allowing for strategic ambiguity.77 He considered that
+the Integrated Review and the Defence Command Paper offered an ambitious view of
+the Navy’s role, relying on it to exercise British influence and leverage over the maritime
+domain.78
+
+48. By contrast, the cut in Army numbers meant that its role would change, with an
+increased reliance on the Army Reserve. The then Chief of Defence Staff told us that one
+way of managing any shortfall would be to “invest properly in our reserve”.79 Defence in
+a Competitive Age promised that:
+
+The challenges of the next decade will require us to maximise the outputs,
+talents and synergies of the whole force. Our reserve forces will be given
+new, more clearly defined roles. They will provide capacity, alongside their
+regular and civilian colleagues, and an alternative source of diverse talent
+to conduct operations at home and abroad. We will create an efficient and
+fluid spectrum of military service, providing our people with a range of
+commitment options at different stages of their lives. We will improve the
+way we recruit and employ reserves, enabling us to bring expertise from
+across society, government, industry and academia to bear on some of the
+greatest challenges we face, and consider any recommendations from the
+Reserves Forces 30 review in due course.80
+
+73 [HL Deb, 17 March 2021, col 406](https://hansard.parliament.uk/Lords/2021-03-17/debates/32EE8995-85E7-4515-AB82-5067BFB02CFA/details)
+
+74 Q16
+75 Q16
+
+76 [The Pivot to Asia Was Obama’s Biggest Mistake, The Diplomat, 21 January 2017](https://thediplomat.com/2017/01/the-pivot-to-asia-was-obamas-biggest-mistake/)
+77 Q73
+78 Q64 [Admiral Alex Burton]
+
+79 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q95](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+80 [Ministry of Defence, Defence in a Competitive Age, March 2021, p 35](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+
+-----
+
+That commitment was made in March 2021 and in May 2021, Lord Lancaster produced the
+‘Reserve Forces Review 2030’ which examined the role which the Reserve would play. As
+of June 2022, the MOD has not formally responded to the Review’s 18 recommendations.
+
+49. We have previously highlighted our concern that the Armed Forces are being used
+almost as a fourth bluelight service.81 Naval resources are being utilised to counter
+small boat channel crossings82 and the Chief of General Staff has acknowledged that the
+Government is relying increasingly on the Army to fill gaps, noting the importance of the
+Reserve in this space:
+
+We need to get more out of [the Reserve] because we can’t hook the Regular
+force held at high readiness into a whole host of domestic tasks. The
+Government looks to have an appetite to use the Army more than they
+used to, so we should expect a higher level of commitment in support of
+national resilience.83
+
+When we raised our concern about the use of the military for visa processing (both in
+relation to Afghanistan and Ukraine) with the Minister for Armed Forces, he acknowledged
+that, in the current environment, it might not be the most effective use of trained military
+personnel to have them operating in a civilian capacity.84
+
+50. When questioned on how the Government reviewed its prioritisation in light of the
+changing circumstances, the NSA explained that:
+
+issues of national security [prioritisation] are for the Prime Minister. That is
+self-evidently the case, and that is self-evidently what happens in practice.
+We typically have hierarchies of objective in this area, because if we were to
+seek to defend ourselves against absolutely every single conceivable threat,
+we would not have any money for anything else at all, so we do need to
+prioritise. That is a mixture of increasing amounts of data, a great deal of
+analysis—our Joint Intelligence Organisation does a great deal of analysis,
+and the collation of analysis from the Departments, and to a certain extent
+a degree of judgment, as you would inevitably expect. All these things come
+together in the centre, in the National Security Secretariat, and advice is
+provided to the Prime Minister and he takes decisions accordingly.85
+
+51. This suggests that the prioritisation (of threats and actions to counter them) is
+therefore decided at the NSC, which previously met weekly whilst the House of Commons
+was in session (although it appears to meet less regularly now).86 Discussions of the NSC
+are classified. This means that there can be little public scrutiny of either the prioritisation
+itself or how regularly it changes. The Government has committed to producing an annual
+
+81 [Oral evidence taken before the Defence Committee on 8 March 2022, HC (2021–22) 271, Q194–5 [Minister for](https://committees.parliament.uk/oralevidence/9851/pdf/)
+the Armed Forces]
+
+82 Operation Isotrope, giving Defence responsibility for countering those crossing the channel in small boats, is
+not funded through MACA. Instead, “£50 million has been agreed with the Treasury and Home Office to ensure
+the capability uplifts and enhancements required can be delivered” and Defence primacy in the Channel will be
+[maintained until 2023. We published a Report examining the operation in March 2022.](https://committees.parliament.uk/publications/9245/documents/160092/default/)
+
+83 [Interview with the then Chief of the General Staff, Soldier, May 2022, pp37–41](https://www.army.mod.uk/news-and-events/soldier-magazine/soldier-archive/)
+
+84 [Oral evidence taken before the Defence Committee on 8 March 2022, HC (2021–22) 271, Q194–5 [Minister for](https://committees.parliament.uk/oralevidence/9851/pdf/)
+the Armed Forces]
+85 Q364
+86 Q386 [National Security Adviser]
+
+
+-----
+
+report on the implementation of the Integrated Review but there is no indication as to
+whether this will contain any information on what, if anything, has changed in relation to
+the Government’s objectives or plans.87
+
+52. Priorities will change over the lifetime of the Integrated Review and some objectives
+linked to the top priorities will be achieved quickly whereas others will fall to the bottom of
+the to do list. The JCNSS heard that the NSC must set clear priorities which are backed with
+sufficient allocation of resources in order to “help to focus the minds of the departments
+that we are asking to work together more effectively”.88 The National Security Adviser
+told us that the MoD was responsible for 11 of the 148 “deliverables”89 stemming from the
+Integrated Review and that it has one Senior Responsible Officer leading on an IR “substrategy”. However, neither details of what the deliverables are, nor updates on progress
+in achieving them, nor indeed the number of IR sub-strategies are available to us or the
+general public.90
+
+53. **The reason that lack of publicly available information of the Government’s defence**
+**and security priorities presents a problem is that for integration—highlighted by the**
+**MoD as absolutely vital for the UK’s security—to be effective, the NSC must set clear**
+**priorities, backed with sufficient resources. If we (and the general public) are not aware**
+**of the priorities or the progress made on them, we cannot say with certainty whether**
+**we are being adequately protected by our Government.**
+
+54. **The lack of prioritisation means that it is impossible to determine which of the**
+**threats highlighted the Government perceives to be greatest. It also results in the**
+**military seemingly being the answer for every question whilst not being appropriately**
+**resourced for the task.**
+
+55. **We are further concerned by the use of the UK Armed Forces as a ‘backfill’,**
+**employed to carry out civilian tasks by Departments which are seemingly unable to**
+**respond to crises themselves. This is compounded by the MOD’s failure to respond to**
+**the 18 recommendations made by the Reserves Review.**
+
+56. **_We recommend that the MOD publish annual figures for the assistance provided to_**
+**_other Government Departments and to public authorities. This list should include the_**
+**_number of personnel deployed, the length of deployment, the task they were deployed_**
+**_for, the cost of the task and the renumeration received by the Department. Furthermore_**
+**_we recommend that the MOD commit to publishing its response to the Reserves Review_**
+**_in the Autumn._**
+
+###### Is the response sufficient?
+
+57. The three papers were prepared concurrently and were all published over the space of
+a week. The Integrated Review was written by a team in the Cabinet Office and the Defence
+in a Competitive Age Command Paper and the Defence and Security Industrial Strategy
+
+87 Oral evidence taken before the Joint Committee on the National Security Strategy on 5 July 2021 HC (2021–22)
+[231, Q139](https://committees.parliament.uk/oralevidence/2499/pdf/)
+
+88 [Joint Committee on the National Security Strategy, First Report of Session 2021–22, National Security Machinery,](https://committees.parliament.uk/publications/7375/documents/77226/default/)
+para 47
+89 The NSA also referred to these as “specific individual initiatives under the IR” (Q337)
+
+90 [Letter dated 11th January from the National Security Adviser responding to Chair regarding the Integrated](https://committees.parliament.uk/publications/8478/documents/85860/default/)
+Review, Defence Command Paper and the Defence and Security Industrial Strategy
+
+
+-----
+
+were prepared by the MOD. Whilst the analysis of the threat is consistent throughout,
+witnesses were concerned by the lack of consistency in response and follow on from the
+documents. Professor Louth told us that he was:
+
+unsure as to how the hierarchy of plans, if I can use that phrase, works
+and comes together. .... Over the past couple of weeks, I have tried to map
+across the themes from the three documents and it is not a particularly easy
+exercise.91
+
+58. There were a number of concerns raised around the conclusions of the papers.
+Professor Patrick Porter described the Integrated Review and Defence in a Competitive
+Age as having an ambitious view of the UK’s role (globally-engaged, defending liberal
+values) that was not matched by resources. He suggested that there was a “means/ends
+imbalance, which even increased funding this time has not quite corrected”, with the UK
+instead relying on technology and coalitions to make up the shortfall.92 Funding was also
+raised by Admiral Burton who noted that Defence in a Competitive Age was “insufficiently
+innovative at pace if we are to ensure that we keep pace with our adversaries”93 before
+adding “that investment for the information age is not there at the quantum that I would
+expect to deliver on that integrated review.94
+
+59. In contrast, Lt Gen Ben Hodges felt that “with this Command Paper for the first time
+it feels that a review was done truly based on looking at threats and strategy as opposed to
+something that feels more like a budget drill”. However, he also warned that:
+
+It sets out a good, strong approach. It is up to the Government to follow
+through and make good on the requirements. These things are always
+built on assumptions and, as you look into this, you need to challenge the
+assumptions. That is the foundation. What assumptions are you making
+about time, resources, the capabilities that will be available in five or ten
+years? And you have to continue to challenge those assumptions.95
+
+The reduction in Army numbers has been challenged by witnesses throughout the inquiry.
+Two related themes which have emerged are the cut in capabilities, particularly in the
+Army, and the reliance on technology to replace mass.
+
+**_Cuts in capability_**
+
+60. Lord Richards told us that the Defence Command Paper was “short on detail”96 and
+seemed like it was “cobbling together forces and making the best of a job, hoping that
+other things like cyber will compensate”. He warned that so-called conventional warfare
+would continue to be a “major risk”:
+
+As I said, in the mid-2020s, I see a significant dip in conventional capability
+before the new capabilities have been properly grown. In that period, an
+adventurous Russia—I am not saying it will try to seize Paris or Berlin—
+might just be tempted to cause trouble by seizing a chunk of Estonia or one
+
+91 Q132
+92 Q168
+93 Q80
+94 Q104 [Admiral Alex Burton]
+95 Q291
+96 Q1
+
+
+-----
+
+of the other Baltic states. That becomes a real problem for us.97
+
+61. Lord Houghton acknowledged that the paper was not envisioning the future
+deployment of “heavy armour at scale with supporting armoured fighting vehicles with
+weeks of artillery supplies”. Instead conflict would look like:
+
+a game of hide and seek on the battlefield, where the organisation with
+the greater data and information superiority and the greater precision and
+weight of aerial strike will dominate.98
+
+He acknowledged that “[i]n terms of whether or not this all going to work, this is a bit of
+a strategic bet”.99
+
+62. We heard that the lack of prioritisation (discussed above) left the role of the Armed
+Forces and where they will operate geographically unclear.100 Lord Houghton thought that
+new force structure would mean the UK Armed Forces were becoming “sort of one-shot,
+with quite long notice and not long sustainment … It looks like one result of this review,
+in terms of the numbers that have been reduced in terms of straightforward platforms
+and boots on the ground, is that we are less able to deploy to conflicts at scale.”101 Lord
+Richards concurred, noting that
+
+I am worried that the one so called war fighting division that is left is actually
+not very fightable. I commanded an armoured brigade. It had two type-58
+tank armoured regiments. It had two armoured infantry battalions with a
+whole load of Warrior armoured fighting vehicles. These new ones in due
+course will get new tanks, and I am sure they will be jolly good, but a tank
+alone does not enable you to fight that brigade or division if there are going
+to be no armoured infantry fighting vehicles and nothing with a turret.102
+
+63. The then Chief of Defence Staff told us that the reductions in capabilities were a
+financial decision, taken to “create the headroom to be able to invest for the future
+capabilities”.103 However, the Defence Secretary told us in June 2020 that some of the
+decisions around cuts in capabilities would need to be re-examined following the lessons
+learned from the conflict in Ukraine:
+
+I have made it perfectly clear that, before Russia invaded Ukraine, we took
+a decision that there would be a dip—a sort of sunset and sunrise, as the
+former Chief of the Defence Staff used to talk about—in capabilities. While
+the 26s, 31s and the Boxers came on stream in the Army, for example, we
+were going to take that dip. The threat has changed, so I take a view that
+some of those areas we were prepared to take a risk in are areas where we
+should not be prepared to take that risk and, therefore, I have made no
+secret of the fact that that is a place where we would look for more money
+or more investment.104
+
+97 Q47 [Lord Richards]
+98 Q22
+99 Q22 [Lord Houghton]
+100 Q16 [Lord Richards]; Q17 [Lord Houghton]
+101 Q20
+102 Q22
+
+103 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q1](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+104 [Oral evidence taken before the Defence Committee on 5 July 2022, HC (2022–23) 181, Q143](https://committees.parliament.uk/oralevidence/10566/pdf/)
+
+
+-----
+
+**_Reduction in Army personnel_**
+
+64. Lord Richards was sceptical that the UK would be able to fulfil its commitments to
+NATO following the decisions made in the strategy documents:
+
+I am worried that global Britain, as much as I am with it in principle as
+a patriotic chap, is not deliverable in defence terms, and we ought to be
+centring our effort on NATO and the Euro‑Atlantic area, which are
+militarily deliverable and hugely strategically influential, and not risk
+penny‑packaging our more limited forces around the world and not
+necessarily gaining any extra influence, because they do not have the
+sufficient mass in any particular place to gain that influence.105
+
+65. Professor Porter was concerned that technology was intended to be “a substitute for
+mass and a replacement for large scale capability, and to create agility” with the expectation
+that it will “replace the absence of enough numbers”. He argued that:
+
+When you are in a crisis, particularly in a world where forward bases and
+fleets are targets as much as they are resources, and the key to winning a
+war or surviving is fighting through after the first round of devastating
+attacks, you are going to need reserve power. Technology cannot do enough
+to make up for that.106
+
+66. Similarly, Dr Blagden warned:
+
+It is a particular concern with the cuts in the numbers of people, because
+British defence documents always talk about being more flexible and
+adaptable than the last one and yet, if you want to talk about the most
+flexible or adaptable platform that a military has, it is the people. People can
+do anything. They have brains. They can think of new ways to use whatever:
+“Crap, they are coming towards us. Pick up a shovel and hit them.” This
+is a choice that a person can make, whereas if you have put your eggs in
+one basket with a particular technological vision of the future, and that
+technological vision of the future turns out to not be quite right—if the
+technology has some loophole that makes easily counterable, does not
+quite materialise in the way that you expected or whatever—what you have
+sacrificed is the ultimate flexible and adaptable piece of kit, which is people
+who can come up with new ways of doing things on the hoof. Yes, that is a
+problem.107
+
+67. The Secretary of State told us that “automation and modern equipment” meant that
+UK Defence needed fewer people for the “same lethality”108 The then Chief of Defence
+Staff also pointed to the utilisation of the Reserve as one way of increasing capacity.109
+However, there is a sign that the events in Ukraine may well have resulted in a re-think: at
+the RUSI Land Warfare conference, the new Chief of the General Staff acknowledged that:
+
+105 Q29
+106 Q184
+107 Q186
+
+108 [HC Deb, 22 March 2021, col.656](https://hansard.parliament.uk/commons/2021-03-22/debates/49173AD7-1180-4251-8F29-58EB9E9D1C75/IntegratedReviewDefenceCommandPaper)
+
+109 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q95](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+
+-----
+
+it would be perverse if the CGS was advocating reducing the size of the
+Army as a land war rages in Europe and Putin’s territorial ambitions extend
+into the rest of the decade, and beyond Ukraine.110
+
+When questioned in July 2022 as to whether he would review the cuts to the Army, the
+Secretary of State told the House that:
+
+The threat has changed and it warrants more spending on defence, because
+the world is more dangerous and anxious than it was—not only when we
+had the defence Command Paper but before Putin invaded.111
+
+**_Reliance on technology_**
+
+68. The cuts to capability—both in terms of Army numbers and armour as the number
+of tanks are reduced from 227 Challenger 2 to 148 upgraded Challenger 3 and the Warrior
+upgrade programme has been retired—raise serious concerns given the Integrated Review
+and the Defence Command Paper saw future warfare as being hybrid, with much of the
+activity taking place in the Grey Zone. As the then Chief of the General Staff noted in May
+2022:
+
+We were clear that Russia was an acute problem but we expected it to
+manifest itself in a more hybrid, unconventional fashion – bots as well as
+boots, subversion and disinformation. They’d done similar in Georgia and
+Crimea so the surprise was that Putin went all in at very significant scale and
+in a very crude, conventional, old-style manner. … [Ukraine has] certainly
+highlighted the fact that mass and size are important. I’m not comfortable
+with an Army of just 73,000. It’s too small.112
+
+69. This is compounded by the delay to the Ajax programme. As Lord Richards notes,
+tanks do not fight alone—they are supported by (amongst others) infantry fighting vehicles.
+The losses of Russian tanks in Ukraine demonstrates what happens when tanks are used
+without combined arms support. The Defence Secretary acknowledged the importance of
+Ajax:
+
+the fundamental is that the Army needs its capabilities. Its capabilities, as
+planned, are the incredibly capable 40 mm gun, the digital architecture—
+the capabilities that they can deliver are really important and needed by
+an armoured fleet of the Army that is well out of date and overmatched by
+not only our friends and allies, but our adversaries. We definitely need to
+deliver.113
+
+As well as the armoured component, the Defence Secretary notes the importance of the
+digital architecture provided by Ajax. Lord Richards acknowledged that the capability
+changes were predicated on getting the digital infrastructure in place—something which
+was cast into doubt by issues with the secure communications programmes (LE TacCIS).114
+It is clear that it is essential to ensure the viability of the digital backbone and the ability
+
+110 [Speech by the Chief of the General Staff at the RUSI Land Warfare conference, 28 June 2022](https://www.gov.uk/government/speeches/chief-the-general-staff-speech-at-rusi-land-warfare-conference)
+
+111 [HC Deb, 18 July 2022, col. 686](https://hansard.parliament.uk/commons/2022-07-18/debates/2B4A8744-FC9A-42B6-ADE3-429D4C59A077/OralAnswersToQuestions)
+
+112 [Interview with the then Chief of the General Staff, Soldier, May 2022, pp37–41](https://www.army.mod.uk/news-and-events/soldier-magazine/soldier-archive/)
+113 Q251
+
+114 [Q60 [Lord Richards]; PQ 618 [on LE TacCIS Programme], 20 May 2022](https://questions-statements.parliament.uk/written-questions/detail/2022-05-11/618)
+
+
+-----
+
+to integrate data effectively to find the adversary.
+
+70. Much of the information-based future capabilities will fail to be the effective
+gamechanger foreseen by the Integrated Operating Concept without the ‘Digital
+Backbone’—the people, processes and technology which will allow the UK Armed Forces
+to truly integrate and utilise the vast amounts of data being provided by sensors on
+equipment (such as Ajax or the F-35). Given the difficulties presented by previous digital
+projects, across Government and particularly in the MOD, success is not a foregone
+conclusion. The Public Accounts Committee found this year that:
+
+Two of the Department’s digital programmes teams—New Style of IT
+(Deployed) and Morpheus115—identified a range of shortcomings in their
+early adoption of agile approaches. These included learning by trial and
+error, a lack of shared understanding of what will be delivered, customers’
+reluctance to accept trade-offs in capability to improve the speed of
+delivery, suppliers’ lack of experience with the approach, and difficulties
+when agile programmes need to join up with programmes being delivered
+traditionally.116
+
+On another MOD digital project (Army Recruitment), the NAO concluded that the MOD
+needed to ensure that there was a shared understanding of the requirements between the
+Department and the supplier before undertaking such contracts:
+
+115 Morpheus is a sub-programme of LE TacCIS, referred to in the paragraph above
+
+116 [Committee of Public Accounts, Twenty-Second Report of Session 2021–22, Improving the performance of major](https://committees.parliament.uk/publications/7706/documents/80491/default/)
+[defence equipment contracts, HC 185, para 16](https://committees.parliament.uk/publications/7706/documents/80491/default/)
+
+
+-----
+
+71. When we raised concerns about the reliance of innovative technology against peer or
+near peer competitors with the Secretary of State, he told us:
+
+I think we will be able to match the Russians and Chinese, as alliances, on
+strategic advantage. Whether it is on one type of capability or another, I am
+not going to get into those types of predictions, because I would probably be
+wrong. Overall, I think we will still be able to continue a strategic advantage
+as long as our alliances continue to invest in defence capability, intelligence
+gathering, and training and exercising. There is no such thing as a free
+lunch. If people stop doing that, then I fear that, obviously, that strategic
+advantage will ebb away.117
+
+72. **Alongside the Permanent Secretary’s acknowledgement that some of the risk**
+**judgements made within the Integrated Review process might need to be revisited**
+**in light of events in Ukraine, it is clear that the capability gaps which the Defence**
+**Command Paper saw as acceptable are now no longer palatable. Furthermore, the**
+**move to such a position relies on technological innovation and the adoption of digital**
+**capabilities (such as Ajax and the Digital Backbone, as noted above).**
+
+117 Q208
+
+
+-----
+
+###### Is this achievable?
+
+73. As noted in the opening paragraph to this chapter, several of the witnesses questioned
+whether the ambitions stated in the Integrated Review and the Defence Command Paper
+were achievable with the resources provided.118 On the concerns raised around the cuts to
+Army numbers, the Secretary of State again pointed to technology as an answer—using
+portable cameras as look outs and weapons systems that can cover greater ranges. He
+noted that by using automation to maintain the ammunition storage on HMS Queen
+Elizabeth, they were able to reduce the number of sailors required.119 He also pointed to
+the use of reserves in ‘Military Aid to Civil Authorities’ (MACA) situations:
+
+we have seen much more use of Reserves in covid, for example. We would
+have a MACA request—we had one for Manchester—and I remember
+saying, “Okay, you can have 90 soldiers”, or 200 or whatever it was, “but
+after three weeks they will change to Reserves.” We can achieve resilience
+in that way, but we are not abandoning people. We are going down from 82
+
+[thousand] to 72—we are currently on 76—but we also have to see whether
+we can use our integration to increase the impact on the ground.120
+
+74. When we asked the then Chief of Defence Staff whether the MOD was meeting the
+digital challenge, he acknowledged the difficulties:
+
+If I was being realistic, I would say perhaps 3, gusting 4. We have a long way
+to go. We are probably better off in many ways than the Americans, because
+they tend to do everything through their services and tend to be, in many
+ways—they would admit this—more stove pipe than we are. Being smaller,
+we are completely obliged to make it work across the five domains of space,
+cyber, land, air and maritime. It is much harder for them to do that.121
+
+He also acknowledged that the procurement processes within the MOD were part of that
+challenge:
+
+I have read the evidence that Committees such as the PAC have taken in
+terms of how we spend our money and how we deliver effect through our
+equipment programme. The plain fact—we all know this—is that we can do
+a better job on that. How we maximise the potential with the money that
+we already get is something that I think we should all be conscious of and
+that we should all be striving to improve. That is a really important issue
+that we need to reflect on.122
+
+75. Paul Hough told us that DSIS needed to be implemented fully for the technology to
+work:
+
+the example that we have given of where a more collaborative approach
+has been taken is recognised as successful: Team Complex Weapons. What
+happens in a competition is that, in order to run one, to nail everything
+down and to hold people’s feet to the fire, we write extremely long and
+
+118 Q1; Q168 [Professor Porter]; Q194 [Dr Blagden]
+119 Q211; 257
+120 Q211
+
+121 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q62](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+122 [Oral evidence taken before the Defence Committee on 9 November 2021, HC (2021–22) 842, Q3](https://committees.parliament.uk/oralevidence/2978/pdf/)
+
+
+-----
+
+detailed contracts and we start to manage the contract rather than the
+outcomes. The company and the MoD employ a lot of people to make sure
+that we write requirement after requirement, and we end up with a bloated
+contract. We run a competition and people commit to technical and
+programme risk that they otherwise would not need to take, but they need
+to win the competition. It will be on a case-by-case basis and a competition
+may still be appropriate, but you would hope that, by working together and
+looking at the art of the possible, we will avoid some of the issues.123
+
+Professor Louth emphasised that complex capability generation should be approached
+differently from what had been done previously; he acknowledged that 95% of current costs
+were “sunk” in the current Equipment Plan but argued that “for tomorrow’s programmes,
+there is at least a sense that we can be a little bit more creative in how we think of that
+acquisition space.”124
+
+76. Given that achieving the objectives of the Integrated Review and the Defence
+Command Papers seemingly relies on integration, we explore what that means in the
+Chapter below.
+
+77. **The MOD faces a number of challenges following decisions made in the Integrated**
+**Review: the likelihood of a capability gap, as equipment is retired before its replacement**
+**is introduced; a reduction in the British Army’s heavy armour and mass at a time when**
+**tank battles are raging in Ukraine; and a reliance on not yet tested, let alone proven,**
+**technology, to counteract that reduction in equipment and numbers. There are also**
+**valid questions about whether the resources allocated to the task of moving the UK**
+**Armed Forces into the information age are adequate—a number of our witnesses seem**
+**to believe not.**
+
+78. **It is clear that, even if the Government decides to proceed with the decisions taken**
+**in the IR and the Defence Command Paper, the timeline of changes ought also to be**
+**reviewed given the potential for capability gaps which leave the UK Armed Forces**
+**vulnerable. We are especially concerned about the proposed cuts to personnel numbers**
+**and the effective reduction in mass, particularly since that we are seeing Defence being**
+**used more and more often as an emergency measure to relieve exceptional pressures**
+**on public services and perform such tasks that otherwise might be expected to be**
+**carried out by others. In this context, we welcome the decision by the new Chief of**
+**the General Staff to describe the cuts as “perverse” and, as a first step, the Secretary of**
+**State’s seeming acknowledgement of the need to review the decision.**
+
+79. **_There is a danger of overstretch. The Government needs to ensure that the military_**
+**_is properly resourced with both equipment and personnel to carry out the tasks required_**
+**_of it. To do this, we recommend there be a wholesale re-examination of the decisions_**
+**_on capabilities and timeframes within the Defence Command Paper and the decisions_**
+**_taken in it following events in Ukraine._**
+
+123 Q141
+124 Q162
+
+
+-----
+
+### 5 Integration and funding
+
+80. The Defence Secretary has emphasised the importance of integration in countering
+the threat recognised by the Integrated Review and the Defence Command Papers:
+
+An integrated response is what is demanded by today’s threat. Multidomain, broad action, inter-government, international relationships – subthreshold and above threshold”.125
+
+In written evidence, the MOD acknowledged that integration would be a “significant
+challenge” given “the inherent complexity in integrating across platforms, force elements,
+and multiple agencies and partners; rapidly pulling through technology into capability;
+and ensuring our solutions are effectively future-proofed”.126
+
+81. The Secretary of State suggested integration needed to happen in 3 areas:
+
+   - policy (both within Whitehall and with international partners);
+
+   - equipment (ensuring that international allies and partners were able to integrate
+and work together); and
+
+   - technical (ensuring that UK equipment is able to communicate relevant
+information both within a UK force structure and with Allies).
+
+He told the Strategic Command Conference that:
+
+The challenge of achieving all three levels of this type of integration, with
+cybersecurity demands and multiple alliances, is not going to be an easy
+one. In fact, it will be harder if policy leads, equipment programmers and
+military leaders don’t speak to each other, which is why at the Command
+Paper’s heart is the threat. The start point is we coalesce around a common
+threat picture.127
+
+82. However, there is no Government definition of integration in any of the IR papers.
+General Everard suggested that even in terms of military multi-domain integration, there
+was no common understanding of what it is and that, as such, NATO was working to
+develop a common understanding and a road map.128 Without a definition of what the
+Government (and as part of that, the MOD) are trying to achieve, it will be difficult to
+judge whether or not integration is being employed.
+
+83. When we asked the National Security Adviser for examples of UK Defence acting
+in an integrated manner, he noted that “Defence is fully integrated into the broader
+national security architecture and plays a vital role helping deliver the UK’s priorities”,
+and provided the following examples:
+
+   - The Carrier Strike Group 21 (CSG21)—“a multilateral deployment of cuttingedge capabilities focused on developing global partnerships and strengthening
+alliances. The deployment … has interacted with over forty nations, including
+
+125 [Speech by the Defence Secretary at the RUSI Strategic Command Conference, 26 May 2021](https://www.gov.uk/government/speeches/defence-secretary-strategic-command-rusi-conference-speech)
+
+126 [Ministry of Defence (DGB0002)](https://committees.parliament.uk/writtenevidence/108723/default/)
+
+127 [Speech by the Defence Secretary at the RUSI Strategic Command Conference, 26 May 2021](https://www.gov.uk/government/speeches/defence-secretary-strategic-command-rusi-conference-speech)
+
+128 [Oral evidence taken before the Defence Committee on 24 May 2022, HC (2022–23) 184, Q171](https://committees.parliament.uk/oralevidence/10334/pdf/)
+
+
+-----
+
+numerous NATO allies, seven ASEAN members, all Five Eyes partners, Japan
+and the Republic of Korea. The ability to integrate a US Navy Destroyer and
+a squadron of US F-35B aircraft has provided an opportunity to demonstrate
+interoperability and interchangeability with our closest ally. Through a tangible
+demonstration of international cooperation, the UK has used HMS Queen
+Elizabeth’s convening power to support global security, stability and prosperity,
+and to help foster cooperation and shape the international order.”
+
+   - AUKUS – “which has drawn, and will continue to draw, on a range of
+departments: MOD, FCDO, DIT and BEIS”.
+
+   - The COVID-19 pandemic – Defence “is working closely with DHSC, NHS and
+local partners on vaccine delivery, as well as other COVID-19 support tasks”.129
+
+84. The National Security Adviser declined to identify areas where integration might be
+difficult for Defence. However, he did emphasise that the MOD implementation of the
+Defence Command Papers would be subject to Cabinet Office scrutiny:
+
+The Integrated Review was, as much as anything else, a statement of intent
+and ambition, allied with concrete activity. The manifestation of that for
+defence is in the Defence Command Paper. The Prime Minister will expect
+the Defence Department to fulfil its capability requirements. Not all of
+those are on the right track, as we know. He will expect it to do the things
+that it has said it is going to do with its workforce, and he will expect it to
+adjust the force posture in the way that he has set out. All those things are
+trackable. Most of those things are in the Defence Command Paper. They
+are checked on, I know, in Defence very actively and we will be checking in
+on them from the Cabinet Office as well.130
+
+The National Security Adviser also chairs a quarterly meeting which examines the Defence
+Settlement stemming from the 2020 allocation of funding, the MOD’s progress against
+the ‘deliverables’ under the Integrated Review and the capability commitments within the
+Defence Command Paper.131 As noted above, MOD seem to be responsible for 11 out of
+the 148 ‘deliverables’ which existed in November 2021.132
+
+85. Both Professor Porter and Dr Blagden were clear that in order for integration to
+happen effectively, there needed to be political direction from the NSC and/or the Cabinet
+in order to reconcile the trade offs involved—integration could not be the responsibility
+of officials alone.133 The National Security Adviser explained that he would “provide the
+Prime Minister with advice and updates on the progress of the priority actions” as well
+as making sure that the “various arms of Government” were “integrated in the pursuit of
+those objectives” at both the strategic and operational levels.134
+
+129 [Letter from the National Security Adviser responding to Chair regarding the Integrated Review, Defence](https://committees.parliament.uk/publications/8478/documents/85860/default/)
+Command Paper and the Defence and Security Industrial Strategy, 11th January 2022
+130 Q359
+
+131 [Letter from the National Security Adviser responding to Chair regarding the Integrated Review, Defence](https://committees.parliament.uk/publications/8478/documents/85860/default/)
+Command Paper and the Defence and Security Industrial Strategy, 11th January 2022
+132 Para 52
+133 Qq180–2
+134 Q358
+
+
+-----
+
+86. The system of oversight described — the list held by the Cabinet Office, the quarterly
+meetings chaired by the NSA and the advice to the Prime Minister — appear to be
+implementation by a senior policy official, rather than the NSC or Ministers. This is
+surprising given that the IR stated that
+
+Ministers should be engaged collectively at earlier stages in policy-making
+and more emphasis needs to be placed on effective implementation,
+including in reporting to and review by the NSC.135
+
+As a result of the need to improve ministerial oversight of implementation, the IR
+committed the NSA to a review of “national security systems and processes” to ensure
+that the NSC was adequately supported in its efforts to oversee implementation.136
+
+87. The National Security Adviser’s review changed the membership and process of the
+National Security Council meetings, with meetings of the whole council taking place less
+regularly whilst (with the approval of the Prime Minister) sub-groups of Ministers can
+meet in place of the Council in a new format known as the National Security Ministers
+(NSM) group. NSM meetings are also served by the National Security Adviser and
+National Security Secretariat, the ministerial chair of the meeting depends on the policy
+area under discussion.137
+
+88. The organisation of the work of officials also changes, with the system of crossdepartmental National Security Implementation Groups (NSIGs)138 retired.139 In
+correspondence the NSA told the JCNSS that:
+
+We are in the process of creating new senior official-level Integrated Review
+Implementation Groups (IRIGs), which will oversee the development and
+implementation of a series of Integrated Review sub-strategies. Each substrategy will have a named senior official as the Senior Responsible Owner
+(SRO), who is tasked by the NSA to convene departments from across
+government to ensure that decisions align with, and build upon, the IR and
+harness diverse perspectives, expertise and experience (from within and
+beyond HMG) in order to drive innovation, adaptation and integration.
+Additionally, we have created a new central strategy function within the
+NSS. This Strategy Unit will both oversee the development and delivery of
+the SRO-led sub-strategies as a whole, and enhance the support provided to
+Ministers in making grand strategy.140
+
+135 [HM Government, The Integrated Review of Security, Defence, Development and Foreign Policy: Global Britain in](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+[a Competitive Age, March 2021, p 97](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+
+136 [HM Government, The Integrated Review of Security, Defence, Development and Foreign Policy: Global Britain in](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+[a Competitive Age, March 2021, p97](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+
+137 [Joint Committee on the National Security Strategy, First Report of Session 2021–22, National Security Machinery,](https://committees.parliament.uk/publications/7375/documents/77226/default/)
+HC 231, para 8
+138 In 2019, the JCNSS found that: “A principal component [of the Fusion Doctrine] is the National Security Strategy
+and Implementation Group (NSSIG) established for each of the NSC’s key national security priorities. Each NSSIG
+is chaired by a ‘Senior Responsible Official’ (SRO) at Director-General level. These SROs are drawn from relevant
+departments and agencies across Government and, according to Sir Mark Sedwill, are “personally accountable”
+to the NSC. Their role involves developing options for the NSC and “coordinating [across Government] in
+support of collective decision-making.”” To give an example of scale, the ISC’s Russia Report noted that the
+Russia NSSIG was attended by 14 Departments and Agencies.
+
+139 [National Security Adviser (NSM0036)](https://committees.parliament.uk/writtenevidence/37957/pdf/)
+
+140 [Joint Committee on the National Security Strategy, First Special Report of Session 2021–22, The UK’s national](https://publications.parliament.uk/pa/jt5802/jtselect/jtnatsec/947/94703.htm)
+[security machinery: Government Response to the Committee’s First Report of Session 2021–22, HC 947, Appendix](https://publications.parliament.uk/pa/jt5802/jtselect/jtnatsec/947/94703.htm)
+2
+
+
+-----
+
+89. The JCNSS has examined concerns about the NSC’s work on Afghanistan including:
+
+   - a lack of a (national) strategy based on the “UK’s unique interests and concerns
+within an international coalition”;
+
+   - the “ failure to orchestrate a timely, unified operational response to the United
+States’ decision to withdraw and its timeline for doing so”;
+
+   - the “ resilience and flexibility of the NSC system, and its ability to handle more
+than one major policy issue at a time”;
+
+   - the UK’s lack of strategic constancy, with its “episodic engagement” on counterterrorism; and
+
+   - the lack of reflection on what Afghanistan means for the Integrated Review, for
+the US-UK relationship and for NATO.141
+
+Following an evidence session on Afghanistan, the JCNSS wrote to the Prime Minister
+about their concerns:
+
+The unedifying public briefing war between departments as Kabul fell in
+August exposed the failure of the NSC to direct unified, cross-government
+plans for withdrawal and for the identified contingency of a rapid fall of the
+country to the Taliban. Whistle-blower testimony and media reports suggest
+that the FCDO was in chaos during the evacuation, despite it having led
+more than 60 “campaign meetings” (including on contingency planning)
+in the preceding year, raising fundamental questions as to whether FCDO
+crisis response capabilities are fit for purpose. Meanwhile, the Home Office
+still cannot commit to launching the Afghan Citizen Resettlement Scheme
+by March 2022—more than two years after President Trump announced
+the United States’ withdrawal from Afghanistan. This is an unforgivable
+delay for Afghans who have served the UK well over the past 20 years.142
+
+90. Particularly concerning is the fact that the NSA and the then Deputy NSA, David
+Quarrey, had rejected the suggestion that Afghanistan demonstrated a failing of
+integration. David Quarrey told the JCNSS that:
+
+Can I just say, on the National Security Council and Afghanistan, that it did
+what it was supposed to do? It set clear direction to the system at various
+points through the process ... It was not the fault of the National Security
+Council that that did not happen. The political direction had been set.143
+
+91. The National Security Adviser told us that the Departments involved were all taking
+forward their own ‘lessons learned’ processes (although each seeking feedback from other
+Departments and looking to co-ordinate on implementing the findings of all of them).144
+
+141 [Joint Committee on the National Security Strategy, First Report of Session 2021–22, National Security Machinery,](https://committees.parliament.uk/publications/7375/documents/77226/default/)
+HC 231, para 147
+
+142 [Letter from the Chair of the Joint Committee on the National Security Strategy to the Prime Minister, 17](https://committees.parliament.uk/publications/8321/documents/84632/default/)
+December 2021
+
+143 Oral evidence taken before the Joint Committee on the National Security Strategy on 20 October 2021, HC
+[(2021–22) 760, Q17](https://committees.parliament.uk/oralevidence/2880/pdf/)
+
+144 [Letter from the National Security Adviser responding to Chair regarding the Integrated Review, Defence](https://committees.parliament.uk/publications/8478/documents/85860/default/)
+Command Paper and the Defence and Security Industrial Strategy, 11th January 2022
+
+
+-----
+
+Despite our request to see the ‘lessons learned’, the Government has not shared its findings
+with us.
+
+92. **Integration is key to the effective implementation of the Integrated Review and the**
+**Defence Command Papers. It is clear that this requires a long-term commitment, with**
+**decisions consistently re-evaluated as progress is made. It further requires a cohesive,**
+**effective and dedicated Government which is able to work collaboratively towards a**
+**common goal.**
+
+93. **If Afghanistan was intended to be an example of effective policy integration in**
+**action then it leaves a lot to be desired. It is even more worrying given that the NSC**
+**apparently gave the political direction required to bring together a ‘whole-of-systems’**
+**approach. If the NSC set the appropriate direction then it leads to two pertinent**
+**questions: why did implementation of the policy, agreed by Ministers, fail? And how can**
+**the Government ensure that integrated, cross-Government policy decisions—made by**
+**those Ministers who have been elected by the UK public and accountable to them and**
+**this Parliament—are fully implemented in future? The fact that these Departments**
+**are carrying out individual lessons learned exercises, rather than a single integrated**
+**exercise, is concerning. Furthermore, the Government has failed to take disciplinary**
+**action against any senior individual for any (of the many) mistakes made during the**
+**withdrawal from Afghanistan.**
+
+94. **_The Government should publish the actions agreed by each of the Departments as_**
+**_a result of the lessons learned exercises which examined the response to the Afghanistan_**
+**_crisis, together with a time frame for implementation._**
+
+###### Defence funding and reform of the MOD procurement processes
+
+95. On 19 November 2020, the Prime Minister announced that the Government was
+allocating Defence a multi-year funding settlement with a substantial increase in funding.145
+The Public Accounts Committee noted that the 2020 Spending Review “increased the
+Department’s overall budget by £16.5 billion over the four years from 2021–22 to 2024–25
+(above the budget it had previously assumed would be available) … [The MOD] expects
+to spend £238 billion on equipment procurement and support over ten years, an increase
+of £48 billion (25%) from the 2020–2030 Plan.” The Integrated Review and the Defence
+Command Papers, published in March 2021, “set a new policy direction for the Department
+and outlined some of the changes it would make”.146 Most of the capability changes were
+expected to be defined within the MOD’s Equipment Plan 2021–31. However, the Public
+Accounts Committee had previously warned that the fact that the Equipment Plan (2020–
+30) had not been balanced147 could mean that much of the additional money could be
+used to make up shortfalls rather than investing in new capabilities.148
+
+96. The Minister for the Armed Forces told the House, during a debate on defence
+spending in June 2021, that the multi-year settlement meant that “for the first time the
+budget looks like it can be balanced and choices can be made based on military need, not
+
+145 [HC Deb., 19 November 2020, Col 487](https://hansard.parliament.uk/commons/2020-11-19/debates/CA347B2B-EE02-40DF-B5CE-1E8FAA07139E/IntegratedReview)
+
+146 [Committee of Public Accounts, Fifty-Second Report of Session 2021–22, Ministry of Defence Equipment Plan](https://committees.parliament.uk/publications/22125/documents/164255/default/)
+[2021–31, HC (2021–22) 1164, para 3](https://committees.parliament.uk/publications/22125/documents/164255/default/)
+147 The MOD’s planned expenditure exceeded the projected budget which had been agreed within Government.
+
+148 [Committee of Public Accounts, Fiftieth Report of Session 2019–21, Defence Equipment Plan 2020–2030, HC](https://committees.parliament.uk/publications/5080/documents/50315/default/)
+(2019–21) 693, para 5
+
+
+-----
+
+because of accounting issues”. He rejected the suggestion that the increase in funding
+would be consumed by any potential black holes:
+
+Thanks to our boosted budget, we have been able to plug a potential black
+hole of some £7 billion on projected equipment spend. Some Members have
+already pointed out that last year’s National Audit Office report suggested
+the deficit could be deeper still, but that reflected the situation as it was then,
+not as it is now, following a multi-year settlement, new investment and the
+defence Command Paper. Together, those have allowed us to redress the
+imbalance of previous spending reviews.149
+
+In November 2021 the National Security Adviser told us that:
+
+the additional funds … did put us on the right track. They were not merely
+a question of filling in the hole. Although certainly a part of it was about
+rebalancing, alongside it came decisions not only to invest in new capabilities
+but to retire quite a lot of older capabilities. It was a fundamental reset of the
+way in which the MoD ran its finances.150
+
+97. However, the MOD’s Equipment Plan 2021–31 (which was delayed by a number of
+months) has not provided enough reassurance for the Public Accounts Committee (PAC)
+which found that:
+
+   - There are serious questions about “the pace, scope and ambition of the
+Department’s equipment plan” with the withdrawal of capabilities being brought
+forward and the introduction of new capabilities being delayed. The PAC are also
+concerned that not enough investment is being made in truly transformational
+technological advances (echoing the point which Alex Burton raised with us151),
+instead relying on filling current capability gaps. This was particularly important
+given the full-scale invasion of Ukraine by Russia which increases “the scale of
+the threat [Russia] poses to the UK’s interests”.
+
+   - Whilst the MOD are satisfied that the Equipment Plan is affordable and
+balanced, the PAC note that it is “not convinced that the Plan is as stable as the
+Department believes, or that it will be able to avoid short-term budget-driven
+changes to the Plan. … Rising inflation means the cost of delivering projects is
+likely to rise, particularly if they experience delays”.
+
+   - The Equipment Plan’s affordability relies on savings being made, both in terms
+of cost reductions where contracts are concerned and by reduction in both the
+military and civilian workforce. There are insufficient plans as to how those
+savings will be made. Furthermore the MOD does not have enough staff with
+the relevant financial skills required to manage the Equipment Plan — and it is
+not recruiting or training current staff at a fast enough pace.
+
+   - The MOD appears to have a “cultural resistance to change or criticism” which
+means that the flaws in its procurement systems are not acknowledged, let alone
+remedied. The PAC noted that “[t]he latest Departmental reform programme
+
+149 [HC Deb, 24 June 2021, col. 1106](https://hansard.parliament.uk/commons/2021-06-24/debates/5382518A-12FD-47A1-8460-2581E2152B07/UKDefenceSpending)
+
+150 Q336
+151 Q65
+
+
+-----
+
+is already behind target and flaws have been identified in its governance and
+coherence”. It cited Ajax as an example of procurement failure in which there
+were “ a number of serious failings”.152 We explore the issues with Ajax in detail
+in Annex 3.
+
+98. Given the concerns raised by the Public Accounts Committee, it is possible that
+procurement decisions taken by the MOD could increase the cost of the Equipment
+Plan to a point where it once again becomes unaffordable. Should that happen, it will
+be difficult to convince the British Public that money spent by the MOD is a worthwhile
+investment in their security, particularly given the current economic insecurity which
+many of them are facing. We asked the National Security Adviser whether he thought the
+MOD procurement process was fit for purpose. He told us that:
+
+The procurement processes in the Ministry of Defence are being overhauled
+by the new permanent secretary and the Defence Secretary, and he has been
+very open about that. They are adopting more closely some of the techniques
+that the Treasury recommends that all Departments adopt. … There is a
+process that was starting as I was leaving the Department that goes by the
+acronym MAID, which is the MoD Approach to Investment Decisions. I
+have not been very recently updated on where it has got to. I know that
+the Secretary of State, since I left, has set up a unit of net assessment and
+challenge, which is designed to get into this as well. I think there is plenty
+to be looked at here. There is an ongoing process of seeking to improve.
+Everybody knows that it needs to improve. Nobody is resiling from the
+comments that you made earlier. Ajax is a good example where clearly it
+did not go right.153
+
+99. When we asked the MOD for information on the changes to the procurement process,
+they told us that:
+
+The key recommendation of Project MAID was implemented in 2020 with
+the transition to a three stage approvals process and the introduction of the
+Strategic Outline Case, bringing the MOD in line with wider government
+practice and the principles of HM Treasury’s Green Book.154
+
+The Strategic Outline Case apparently “enables areas of strategic programme risk and
+complexity to be considered at an early stage” which means that problems ought to be
+identified earlier on. Following its introduction, a further review on the process was carried
+out which found support for its introduction but suggested that a further focus on early
+discussions with key stakeholders and improved transparency were required. In addition,
+it was determined that “decision-making based on appropriate risk and encouraging a
+learning culture” were also areas which could be improved.155
+
+100. The MOD Permanent Secretary was unable to name a successful MOD procurement
+programme—instead he pointed to programmes, like the Carriers, which had experienced
+difficulties yet had still provided important capability to UK Defence.156 Given that the
+
+152 [Committee of Public Accounts, Fifty-Second Report of Session 2021–22, Ministry of Defence Equipment Plan](https://committees.parliament.uk/publications/22125/documents/164255/default/)
+[2021–31, HC (2021–22) 1164](https://committees.parliament.uk/publications/22125/documents/164255/default/)
+153 Q370
+
+154 [Ministry of Defence (DGB0001)](https://committees.parliament.uk/writtenevidence/40653/pdf/)
+
+155 [Ministry of Defence (DGB0002)](https://committees.parliament.uk/writtenevidence/108723/default/)
+
+156 [Oral evidence taken before the Defence Committee on 26 April 2022, HC (2021–22) 1225, Q86 [David Williams]](https://committees.parliament.uk/oralevidence/10139/pdf/)
+
+
+-----
+
+MOD’s initial cost for the Carriers was expected to be £3.65 billion157 whilst the final cost
+was in fact £6.2 billion,158 the argument appears to be that the capability was eventually
+provided, just at a significantly increased cost.
+
+101. In addition to the potential financial difficulties as a result of procurement issues, the
+Autumn Budget 2021 included the announcement that the MOD was the only government
+department for which day-to-day spending (resource DEL excluding depreciation) was set
+to decline in real terms over the period to 2024/25—by £1.4 billion (-4.6%).159 As we noted
+in our report on Naval procurement (We’re going to need a bigger Navy), this may have
+implications for funding available for the Navy and the other armed services’ day-today resources and administration costs, including operations and other activity, support
+(maintenance, stores and spares), and pay.160
+
+102. On 30 June 2022, the Prime Minister announced that Defence spending would rise
+to 2.5% of GDP by the end of the decade. However, there was little clarity on how this
+target is to be achieved and what will happen to the budget from 2025 onwards.161 When
+making a statement to the House the following week, the Prime Minister said that:
+
+If you follow the trajectory of our programmes to modernise our armed
+forces … you will draw the logical conclusion that the UK will likely be
+spending 2.5% of GDP on defence by the end of this decade.162
+
+When he was asked whether he was committing to spending 2.5% by 2030, he told the
+House that he was making “a straightforward prediction based on what we are currently
+committed to spending under the AUKUS and future combat air system programmes”
+before noting that “much depends on the size of our GDP” at the end of the decade.163
+In answer to a question on how the increase in spending would be funded, the Prime
+Minister replied that:
+
+we will pay for it out of steady and sustained economic growth.164
+
+103. We welcome the uplift to the MOD’s budget in 2020 and the four-year budget
+**commitment. However, inflationary pressures and an increase in the scale of threat**
+**means that it is no longer enough. At the same time, serious concerns persist around a**
+**number of procurement programmes. The Department now needs a strategy to regain**
+**both Parliament’s and the public’s trust in its procurement abilities. We are concerned**
+**that a real terms fall in sustainment funding (RDEL) up to 2024–25 will erode the**
+**Armed Forces’ ability to maintain and train on military equipment. We recommend**
+**_a further, long-term increase to the budget but the MOD must ensure that money is not_**
+**_wasted._**
+
+104. There are significant challenges to integration but none that concerns us as much
+**_as the MOD’s procurement difficulties. For instance, the MOD has made it clear that in_**
+
+157 [“Royal Navy aircraft carrier costs ‘to double’” BBC News, 4 November 2013](https://www.bbc.co.uk/news/uk-24801942)
+
+158 [HMS Prince of Wales: The incredible size and £3.1bn cost of the Royal Navy’s aircraft carrier, i news, 19 November](https://inews.co.uk/news/uk/aircraft-carriers-portsmouth-hms-prince-wales-queen-elizabeth-royal-navy-364497)
+2019
+
+159 [UK defence expenditure, Research Briefing 8175, House of Commons Library, 6 April 2022](https://researchbriefings.files.parliament.uk/documents/CBP-8175/CBP-8175.pdf)
+
+160 [Defence Committee, Third Report of Session 2021–22, “We’re going to need a bigger Navy”, HC (2021–22) 168,](https://committees.parliament.uk/publications/8205/documents/85026/default/)
+para 93
+
+161 [“Boris Johnson faces tax questions after signalling defence budget rise”, The Guardian, 30 June 2022](https://www.theguardian.com/politics/2022/jun/30/boris-johnson-uk-spend-25-of-gdp-defence-end-of-decade-nato)
+
+162 [HC Deb, 4 July 2022, col. 588](https://hansard.parliament.uk/commons/2022-07-04/debates/DA0AAD94-677D-4B4A-890C-A72E6CBB0C11/CHOGMG7AndNATOSummits)
+
+163 [HC Deb, 4 July 2022, col. 594](https://hansard.parliament.uk/commons/2022-07-04/debates/DA0AAD94-677D-4B4A-890C-A72E6CBB0C11/CHOGMG7AndNATOSummits)
+
+164 [HC Deb, 4 July 2022, col. 594](https://hansard.parliament.uk/commons/2022-07-04/debates/DA0AAD94-677D-4B4A-890C-A72E6CBB0C11/CHOGMG7AndNATOSummits)
+
+
+-----
+
+**_order to achieve integration and utilise new technologies, it needs an effective digital_**
+**_network. Without that network, few of the suggested benefits are accrued. Yet its_**
+**_track record in large and complex programmes is abysmal. We recommend that the_**
+**_Government identify those programmes which are critical enablers and ensure there is_**
+**_additional scrutiny of them. Furthermore, it needs to identify international partners_**
+**_with whom it can collaborate on the technologically advanced equipment that the UK_**
+**_Armed Forces require._**
+
+
+-----
+
+### 6 What next?
+
+105. The lack of a definition of what it means to be integrated makes it somewhat
+**difficult to measure the success of the Government in achieving its objectives. However,**
+**we will continue to evaluate the implementation of the Integrated Review, the Defence**
+**Command Paper and the DSIS throughout the life of this Parliament.**
+
+106. We welcome the Government’s commitment to the publication of an annual
+**review on the implementation of the Integrated Review. However, given that the**
+**implementation is the key, consistent evaluation of the implementation of the strategies**
+**throughout this Parliament is vital. This Committee, alongside our colleagues on the**
+**Public Accounts Committee, the Joint Committee on the National Security Strategy**
+**and the House of Lords International Relations and Defence Committee, plays a vital**
+**role in ensuring that Government decisions, and their implementation, are regularly**
+**scrutinised. Since the Integrated Review papers were published, we have published a**
+**Report on Naval procurement and are currently holding inquiries examining Defence**
+**Space policy, how the UK works with the US and NATO, the tilt to the Indo-Pacific,**
+**aviation procurement and the impact of climate change on Defence.**
+
+107. **_As well as an annual report on the implementation of the IR, we recommend the_**
+**_MOD produce an annual evaluation of what has been achieved in their implementation_**
+**_of Defence in a Competitive Age and DSIS. This evaluation should include case studies_**
+**_which demonstrate implementation (examples of integration with other Government_**
+**_Departments, allies and partners, and defence industry). It should also include an_**
+**_account of how certain events have led to a review of thinking and any subsequent_**
+**_decisions made which change previously agreed outcomes. This will allow Parliamentary_**
+**_Committees and the UK public to scrutinise the implementation of the Integrated_**
+**_Review, Defence in a Competitive Age and the Defence Security and Industrial Strategy._**
+
+
+-----
+
+### Annex 1: Objectives of the IR
+
+1) The Integrated Review (IR) had four overall objectives:
+
+   - Sustaining strategic advantage through Science and Technology;
+
+   - Shaping the open international order of the future;
+
+   - Strengthening security and defence at home and overseas; and
+
+   - Building resilience at home and overseas.
+
+2) The first objective is based on recognition that states which lead the way on the design
+and use of new technologies will be able to shape the world.165 The Integrated Review states
+that this objective is focused on “gaining economic, political and security advantages in
+the coming decade and in shaping international norms in collaboration with allies and
+partners”.166
+
+3) As part of its objective on science and technology, the Government has established
+a framework of “own-collaborate-access”: This is about establishing which critical and
+emerging technologies need to ‘owned’ by the state (i.e. discovered and produced within a
+UK establishment and sold under UK government purview); which can be ‘collaborated’
+on (i.e. need UK involvement in development but with international partners) and which
+can be ‘accessed’ (i.e. produced outside of the UK, with no UK input but bought and used
+within a UK context).
+
+4) To achieve this objective, the Government wishes to create an “enabling environment”
+which will result in a “thriving S&T ecosystem of scientists, researchers, inventors and
+innovators, across academia, the private sector, regulators and standards bodies, working
+alongside the manufacturing base to take innovations through to markets.” Alongside this,
+the Government has committed to utilising the UK’s science and technology capability in
+support of wider policy goals (such as environmental and economic policy). The IR also
+commits the Government to being a “responsible, democratic cyber power”, one aspect of
+which is the establishment of the National Cyber Force, a joint MOD/GCHQ unit.
+
+5) Defence in a Competitive Age found that Defence would support this objective by:
+
+MOD contribution (alongside GCHQ and SIS) to the National Cyber
+Force; £6.6bn in R&D spending over the next 4 years; innovation hubs; the
+Defence and Security Accelerator Challenge: and the Defence and Security
+Industrial Strategy ensuring that Industry understands the future capability
+commitments made by HMG.167
+
+6) The second objective, shaping the open international order of the future, is driven by
+a recognition that the UK’s economy and society relies on being open, democratic and fair.
+The objective therefore represents the UK’s commitment to multilateralism, support for
+democracy and the promotion of human rights for all. The Government has determined
+
+165 Technologies mentioned in the IR include AI; Quantum technologies; green energy technologies; and the use of
+machine learning to exploit data.
+
+166 [HM Government, The Integrated Review of Security, Defence, Development and Foreign Policy: Global Britain in](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+[a Competitive Age, March 2021, p 18](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969402/The_Integrated_Review_of_Security__Defence__Development_and_Foreign_Policy.pdf)
+
+167 [Ministry of Defence, Defence in a Competitive Age, March 2021, p8](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+
+-----
+
+that the UK economy must be both open and resilient, recognising the role that global and
+digital trade will play in the future economy whilst also ensuring that it is also sustainable.
+It has also committed to ensuring that developments in the space and cyber domains are
+subject to the rules and norms of the international order. The IR acknowledges that to
+achieve this objective, the Government will need to ensure its diplomacy is aligned with
+cross-Government policies underpinned by a ‘whole-of-system’ approach.
+
+7) Defence in a Competitive Age found that Defence would support this objective by:
+
+ensuring that International Humanitarian Law is adhered to in UK
+operations; ensuring that International Humanitarian Law (alongside
+international norms and values) is an integral part of the UK’s approach to
+capacity building; freedom of navigation operations; shaping an ethical and
+responsible framework around cyberspace, space and the development and
+use of emerging technologies.168
+
+8) The third objective, strengthening security and defence at home and overseas, is
+wide-ranging; it encompasses countering threats and hostile actions from state powers
+which intend harm; tackling conflict and instability across the World; and tackling
+“transnational security challenges” which include radicalisation, terrorism, serious and
+organised crime and the proliferation of advanced military technology and chemical,
+biological, radiological and nuclear weapons Defence in a Competitive Age found that
+Defence would support this objective by:
+
+ensuring that UK Armed Forces are equipped to carry out non-combatant
+evacuation operations and support UN peacekeeping operations;
+maintaining the ability to detect and counter a CBRN attack; deter threats
+through working alongside NATO allies; continue to play a key role in the
+UK’s counter-terrorism mission.169
+
+9) The fourth objective is building resilience at home and overseas. Under this objective
+HMG is aiming to build the UK’s national resilience, tackle climate change and biodiversity
+loss and build health resilience. Defence in a Competitive Age found that Defence would
+support this objective by:
+
+providing both Military Aid to Civilian Authorities (help and support
+provided by the Armed Forces to authorities in the UK, like the Police, NHS
+or local authorities) in the event of an emergency; providing humanitarian
+relief overseas; providing specialist and rapid support in responding to
+global health risks.170
+
+168 [Ministry of Defence, Defence in a Competitive Age, March 2021, p8](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+169 [Ministry of Defence, Defence in a Competitive Age, March 2021, p8](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+170 [Ministry of Defence, Defence in a Competitive Age, March 2021, p8](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+
+-----
+
+### Annex 2: Defence papers which set the context of the decisions taken in the Defence Command Papers
+
+1) The Integrated Operating Concept (originally published in September 2020 and
+updated in August 2021) found that in order to operate effectively in the future operating
+environment, a Future Force would need to:
+
+   - Have smaller and faster capabilities to avoid detection;
+
+   - Trade reduced physical protection for increased mobility;
+
+   - Rely more heavily on low-observable and stealth technologies;
+
+   - Depend increasingly on electronic warfare and passive deception measures to
+gain and maintain information advantage;
+
+   - Include a mix of crewed, uncrewed and autonomous platforms;
+
+   - Be integrated into ever more sophisticated networks of systems through a combat
+cloud that makes best use of data;
+
+   - Have an open systems architecture that enables the rapid incorporation of new
+capability;
+
+   - Be markedly less dependent on fossil fuels;
+
+   - Employ non-line-of-sight fires to exploit the advantages we gain from information
+advantage; and
+
+   - Emphasise the non-lethal disabling of enemy capabilities, thereby increasing the
+range of political and strategic options.
+
+2) The conclusion drawn was that modernisation (in both force structure and capabilities)
+would need to be a longer-term process rather than a complete transformation. So-called
+sunset capabilities (those which are “vulnerable or redundant in the Information Age”171)
+would need to be reduced over time whilst new ‘sunrise’ capabilities, based on informationcentric technologies, were introduced.
+
+3) The MOD Science and Technology Strategy 2020 (published in October 2020)
+subsequently drew on this to identify five ‘capability challenges’ as a result of changing
+operating environment. These were:
+
+1. Pervasive, full spectrum, multi domain Intelligence, Surveillance and
+Reconnaissance (ISR)—respond to threats and opportunities of emerging
+technologies affecting our ability to conduct ISR in all domains and
+environments through affordable resilient solutions.
+
+171 [Ministry of Defence, The Integrated Operating Concept, August 2021, p18](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/922969/20200930_-_Introducing_the_Integrated_Operating_Concept.pdf)
+
+
+-----
+
+2. Multi-domain Command & Control, Communications and Computers
+(C4)—develop the capability for multi-domain integration and ability to
+coordinate effects globally enabling us to execute joint operations against
+adversaries with well-integrated and resilient capabilities.
+
+3. Secure and sustain advantage in the sub-threshold—improve the UK’s
+ability to compete against adversaries below the threshold of conventional
+conflict and address our vulnerabilities, especially in the Information
+Environment.
+
+4. Asymmetric hard power—develop highly-capable systems to target
+adversaries in new ways across all domains; develop novel means of delivery
+of hard power and effective protection against highly capable adversaries.
+
+5. Freedom of Access and Manoeuvre (FOAM)—generate affordable,
+survivable capability responsive to rapidly evolving threats operated within
+a denied electromagnetic environment and be interoperable with our allies
+and partners.172
+
+These strategies (and the conclusions drawn within) form the basis upon which the
+decisions in Defence in a Competitive Age are based.
+
+172 [Ministry of Defence, Science and Technology Strategy 2020, October 2020, p12](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/927708/20201019-MOD_ST_Strategy_2020_v1-23.pdf)
+
+
+-----
+
+### Annex 3: “Perfect is the enemy of good”: A case study of the UK armoured vehicle acquisition – the Ajax Armoured Cavalry Programme[173]
+
+1) In 2010 the MoD awarded a demonstration contract to General Dynamics Land
+Systems UK (GDLS-UK) to develop a fleet of armoured vehicles for the British Army’s
+Armoured Cavalry Programme—known collectively as Ajax.174 The Ajax programme
+was designed to replace the in-service Combat Vehicle Reconnaissance (Tracked) (CRV-T)
+fleet, which entered service in the early 1970s. The CVR(T) fleet has received limited
+upgrades over the past half century, but although it has been obsolescent for decades the
+British Army has had to retain it in service due to repeated failures to replace it with a
+more modern family of vehicles.
+
+2) This observation is hardly new, or indeed unique to the acquisition of Ajax, but
+reflects the inability of the MoD and the Army to replace a whole range of armoured
+vehicles since the Cold War. In our March 2021 ‘Obsolescent and outgunned’ report we
+noted that “The Ajax programme, which is now seriously delayed, is yet another example
+of chronic mismanagement by the Ministry of Defence and its shaky procurement
+apparatus.”175 Ten years before, the National Audit Office’s (NAO’s) 2011 The cost-effective
+delivery of an armoured vehicle capability report176 similarly noted that across the six
+principal armoured vehicle categories none would meet the Army’s warfighting capability
+requirements by 2017 unless they were replaced by more modern fleets (See Figure 1).
+
+173 Or, as Sir Robert Watson-Watt, inventor of the WW2 ‘Chain Home’ early warning radar said about the ‘cult of
+the imperfect’ “Give them the third best to go with; the second best comes too late, the best never comes”.
+174 As part of a family of armoured vehicles, Ajax is the variant that will replace the CVR(T) in the reconnaissance
+role, but the term ‘Ajax’ is also used to describe the entire vehicle family. Other variants include intelligence
+gathering, battlefield command, protected mobility, support, recovery, and engineer reconnaissance.
+
+175 [Defence Select Committee, Fifth Report of Session 2019–21, Obsolescent and outgunned: the British Army’s](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+[armoured vehicle capability, HC (2019–2021) 659, para 12](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+
+176 [National Audit Office, The cost-effective delivery of an armoured vehicle capability, May 2011](https://www.nao.org.uk/wp-content/uploads/2011/05/10121029.pdf)
+
+
+-----
+
+**Figure 1: British Army armoured vehicle forecast capability: 2010–2030**
+
+
+-----
+
+3) Fast forward a decade and, having failed to meet any of the milestones set out in
+Figure 1, the British Army has fleet-wide obsolescence across all its principal armoured
+vehicles. Indeed, the situation has deteriorated significantly since the NAO wrote its
+2011 report. According to Figure 1, had the Warrior Capability Sustainment Programme
+(Warrior CSP) and the ‘FRES Scout’ (which became the Ajax programme) entered service
+as planned in 2017 they would have begun to address these capability gaps. However,
+Warrior CSP was cancelled in 2021 and Ajax has been delayed so significantly that the
+MoD will not even commit to an Initial Operating Capability (IOC) date.177 Updating
+Figure 1 to reflect the actual position in 2022, Figure 2 sets out our current assessment of
+the armoured vehicle pipeline.
+
+4) In fact, partly due to the cancellation of Warrior CSP, the MoD now places even more
+reliance on delivering a successful Ajax programme to meet its future armoured vehicle
+requirements. In a recent evidence session, the senior uniformed officer responsible for
+military requirements, Air Marshal Knighton, told us that “During the Integrated Review,
+the Army has changed its operating concept, and it brings together Ajax with Boxer,
+and with Deep Fires, to provide the brigade combat teams to deliver what the NATO
+requirement is.”178
+
+177 [Ministry of Defence, Defence in a competitive age, March 2021, p.54](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974661/CP411_-Defence_Command_Plan.pdf)
+
+178 [Oral evidence taken before the Defence Committee on 26 April 2022, HC (2021–22) 1225, Q66](https://committees.parliament.uk/oralevidence/10139/pdf/)
+
+
+-----
+
+5) Conversely, actual delivery of the Ajax programme continues to slip. Noise and
+vibration issues have been widely reported and remain a problem, despite the manufacturer
+assuring us in 2021 that “challenges…have largely been resolved”.179 More worryingly,
+Reliability Growth Trials—designed to identify and rectify any deficiencies—have barely
+begun and will almost certainly discover more problems with the vehicle. As noted in
+the NAO’s 2022 report on Ajax, the original IOC slipped from 2017 to July 2020, then
+June 2021, “…despite accepting some technical constraints, most notably on the weapon
+system and armour.”180 Full Operating Capability (FOC) was supposed to be April 2025,
+but we think it highly unlikely that even the IOC will be achieved by this date.
+
+6) The other recent development that may have a significant impact on the Ajax
+programme is the Ukraine crisis—or at least what may be perceived to be the military
+‘lessons learnt’ from the conflict. Early indications are contradictory, based on the initial
+stages of the crisis where Russian combat troops failed to effectively manoeuvre with
+their armoured forces and large-scale assaults on urban areas have taken place.181 The
+effect of hand-held anti-armour weapons and the widespread employment of relatively
+cheap uninhabited air vehicles—and particularly armed drones—may indicate the death
+of seemingly outdated armoured vehicles. Conversely, artillery has maintained its preeminence in terms of destructive power, particularly against personnel caught in the open
+with inadequate armoured protection.
+
+7) These ‘lessons’ may initiate another round of MoD strategy and capability reviews,
+which could further delay replacing today’s obsolescent armoured fleets. A perceived
+lesson from the 1999 Kosovo campaign and other global interventions in the early 2000s
+was around strategic deployment and the need for “…faster, lighter and more deployable
+vehicles…” Consequently, the MoD cancelled its participation in the international MultiRole Armoured Vehicle (MRAV) programme, only to re-join it under the guise of the Boxer
+programme in 2018.182 This should begin to meet the ‘Mechanised Infantry’ requirement
+in Figure 1 from 2023, although countries that remained in the MRAV programme saw
+deliveries commence in 2009.
+
+179 [Defence Select Committee, Fifth Report of Session 2019–21, Obsolescent and outgunned: the British Army’s](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+[armoured vehicle capability, HC (2019–2021) 659, para 54.](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+
+180 [National Audit Office, The Ajax programme March 2022, p.7, para 6.](https://www.nao.org.uk/wp-content/uploads/2022/03/The-Ajax-programme.pdf)
+
+181 [Oral evidence taken before the Committee on Public Accounts on 30 March 2022, HC (2021–22) 1102, Q2](https://committees.parliament.uk/oralevidence/10133/default/)
+
+182 [National Audit Office, Major Projects Report 2003 January 2004, p.165.](https://webarchive.nationalarchives.gov.uk/ukgwa/20170207052351/https:/www.nao.org.uk/wp-content/uploads/2004/01/0304195.pdf)
+
+
+-----
+
+###### UK armoured vehicle acquisition since the Cold War: a legacy of failure
+
+8) As noted, the challenges the MoD has faced on the Ajax programme are not new, but
+symptomatic of UK armoured vehicle acquisition since the end of the Cold War. Since
+that time the MoD has looked to variously replace the 1960s FV430s armoured personnel
+carriers; the 1970s CRV(T) (Combat Vehicle Reconnaissance – Tracked) vehicles and
+the 1980s Challenger 1 Main Battle Tank (MBT) and the Warrior Infantry Fighting
+Vehicle (IFV). However, having initiated an alphabet soup of more than a dozen different
+armoured vehicle families since the 1990s, the MoD has been incapable of digesting any
+of them, with one programme cancellation after another.183
+
+9) Although each programme failure will have been caused by a range of different
+issues—including having sufficient funding profiled at the right time—three key principles
+stand out as critical to the success of armoured vehicle acquisition:
+
+   - Firstly, have a clear strategy for armoured vehicle acquisition, which identifies
+what the UK is prepared to support on-shore and off-shore, and what key
+technologies it wishes to develop as sovereign capabilities and to ensure ready
+access to domestic industrial capacity and a skilled and experienced workforce.
+
+   - Secondly, set military requirements and use incremental acquisition to better
+manage risk and sustain military advantage. Build vehicles that are less
+technically risky (the ‘good’) and upgrade the platform through-life, rather
+than design complex platforms from the outset (the ‘best’) that then fail to enter
+service due to over-complexity.
+
+   - Thirdly, to support incremental acquisition industry needs a consistent drumbeat
+of work and avoid the ‘stop start’ approach that has plagued recent UK armoured
+vehicle development.
+
+As show, below, the Ajax programme failed to achieve any of these three principles.
+
+**_A: Have a clear strategy for armoured vehicle acquisition:_**
+
+10) Before approval of the Ajax demonstration contract in 2010 the most recent guidance
+on the armoured vehicle sector was in the 2005 Defence Industrial Strategy.184 The Strategy
+was clear that the UK should retain the ability to do “systems engineering, domain and
+design knowledge”; be able to undertake “the intellectual ability to design, validate and
+interpret the results of AFV (Armoured Fighting Vehicle) testing” and be able to design
+and build critical sub-systems such as weapons systems for armoured vehicles. It also
+noted that there was “…no absolute requirement to manufacture all of the constituent
+parts of an AFV in the UK. An onshore capability to repair and overhaul AFVs is however
+
+183 In alphabetical order but not exhaustive: the ABSV (Armoured Battlegroup Support Vehicle); Challenger
+CSP (Capability Sustainment Programme); FFLAV (Future Family of Light Armoured Vehicles); FGMC (Future
+Ground Manoeuvre Capability); FLAV (Future Light Armoured Vehicles); FLCS (Family of Land Combat Systems)
+FRES SV (Future Rapid Effect System – Specialist Vehicle) and FRES UV (Utility Vehicle); MBAV (Multi-Base
+Armoured Vehicle); MRAV (Multi-Role Armoured Vehicle); TRACER/FSCS (Tactical Reconnaissance Armoured
+Combat Equipment Requirement/Future Scout and Cavalry System); WCSP (Warrior Capability Sustainment
+Programme); WR FIP (Warrior Fightability and Lethality Improvement Programme); Warrior MLI (Warrior MidLife Improvement) and Warrior CSP (Capability Sustainment Programme).
+
+184 [Ministry of Defence, Defence Industrial Strategy Defence White Paper, December 2005.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/272203/6697.pdf)
+
+
+-----
+
+required, both for routine maintenance and in response to operational needs.”185
+
+11) Given the, admittedly high-level, objectives for armoured vehicle acquisition, further
+detail was required to ensure the principles were followed through into actual acquisition,
+including a dedicated land acquisition (and industry) strategy. For example, on ‘critical
+sub-systems’ the MoD could have ensured the UK focus on those that it considered were
+either:
+
+   - critical for national security, such as classified armour packages, electronic
+warfare, and sovereign access to any vehicle electronic architecture required to
+rapidly add capabilities to meet any urgent operational requirements; or
+
+   - likely ‘export winners’—as long as the latter did not add any unnecessary risk to
+vehicle development.
+
+12) In the event, the MoD selected a technically unproven and immature 40mm cannon
+for the main armament for both the Warrior CSP and the Ajax programmes. The cannon’s
+development has continued to cause technical problems, with the Ajax contractor telling
+us that further programme delays in 2020 were in part caused by challenges integrating
+the cannon into the vehicle.186 In regards to the decision to select the 40mm cannon for
+Warrior and Ajax, we called for the MoD to “…publicly justify why this decision was
+taken and by whom” but we have yet to receive a response.187 Given the bespoke nature
+of the novel 40mm caseless ammunition we also asked the MoD what the cost of a 40mm
+round was, but the MoD has not provided the Committee with an answer.188 With the
+Warrior CSP upgrade cancelled, it also means that currently the 40mm cannon will only
+be used on the roughly 200 specialist Ajax reconnaissance vehicles, almost certainly
+further increasing support and ammunition costs.
+
+13) The Minister for Defence Procurement agreed with us that having a land strategy
+would have helped over the past decade. Indeed, it may have ensured that the Government’s
+approach to the sector would be more coherent. For example, we were told that Lockheed
+Martin invested £17 million in its armoured vehicle facilities in the UK, but much of this
+value must have been wasted when the Warrior programme that it managed was cancelled
+the following year.189 Having been without such a strategy for too long, the MoD finally
+released its Land Industrial Strategy in May 2022.190
+
+**_B: Set military requirements and use incremental acquisition development_**
+**_to better manage risk and sustain military advantage:_**
+
+14) In setting military requirements there is an inherent tension between choosing more
+mature equipment—so as to reduce technical risk and increase the likelihood of entering
+service on time and budget—versus selecting novel technologies to deliver greater initial
+military advantage, and potentially making the platform more attractive for overseas
+
+185 [Ministry of Defence, Defence Industrial Strategy Defence White Paper, December 2005, para B3.1.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/272203/6697.pdf)
+
+186 [Defence Select Committee, Fifth Report of Session 2019–21, Obsolescent and outgunned: the British Army’s](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+[armoured vehicle capability, HC (2019–2021) 659, para 54.](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+
+187 [Defence Select Committee, Fifth Report of Session 2019–21, Obsolescent and outgunned: the British Army’s](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+[armoured vehicle capability, HC (2019–2021) 659, para 51](https://committees.parliament.uk/publications/5081/documents/50325/default/)
+
+188 [Oral evidence taken before the Defence Committee on 20 July 2021, HC (2021–22) 550, Q114.](https://committees.parliament.uk/oralevidence/2589/pdf/)
+
+189 [Oral evidence taken before the Defence Committee on 20 October 2021, HC (2019–21) 659, October 2020, Q151](https://committees.parliament.uk/oralevidence/1068/pdf/)
+
+190 [Ministry of Defence, Land Industrial Strategy Fusing our capability and industrial objectives, May 2022.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1076392/Land_Industrial_Strategy.pdf)
+
+
+-----
+
+sales.191 What remains critical, however, is that the platform enters service and is then
+incrementally developed through-life to enhance its military capability. The involvement
+of industry will be discussed in part C below.
+
+15) On armoured vehicles the UK has taken different approaches over time to
+requirements setting. Although Warrior IFV development to service entry in 1987 was
+not trouble-free, risk and cost were reduced by setting military requirements that used
+existing components and fitting mature, not novel, technologies. For example, it reused
+the unstabilised 30mm cannon already in CVR(T) service since the 1970s. By comparison,
+the United States’ M2 Bradley IFV entered service in the early 1980s after a tortuous and
+costly development, although it did represent a technical generation ahead of Warrior,
+with a stabilised cannon, advanced thermal imaging sights and an anti-armour missile
+system attached.
+
+16) Revealingly, for export customers the Warrior was fitted with the Bradley’s stabilised
+cannon, but the UK never received the upgrade. Indeed, since entering service, Warrior
+has received only one planned, significant enhancement as opposed to urgent upgrades to
+tackle threats while on operations—the Battle Group Thermal Imager (BGTI) programme
+in 2005. Even minor ammunition upgrades were cancelled, with Warrior still retaining its
+1960s-designed cannon. Conversely, the M2 Bradley has maintained its military advantage
+by receiving five, incremental developments (called spiral development in the US) over the
+past 40 years—an average of one significant upgrade every eight years.
+
+17) The comparison is not confined to the Warrior and Bradley. The Challenger MBT
+entered British army service in 1983 and although it was urgently modified for operations
+in Kuwait in 1990 it never received a significant upgrade before being replaced by the
+Challenger 2. Although the latter vehicle also received urgent enhancements for Middle
+East operations, its first significant planned upgrade in nearly thirty years will be the
+Capability and Sustainment Programme (CSP) conversion to Challenger 3 from 2027.
+In comparison the US equivalent, the M1 Abrams MBT, has received seven upgrades to
+date—an average of once every seven years (Figure 3).
+
+191 More complex technology does not necessarily result in international success, however, as overly complicated
+and bespoke technology can deter potential sales.
+
+
+-----
+
+**Figure 3: M1 Abrams spiral development**
+
+
+-----
+
+18) In contrast to Warrior, in the 2000s the MoD attempted to commission a common
+family of around 3,000 Future Rapid Effect System (FRES) vehicles. These would utilise a
+unified platform but being sufficiently adaptable to build a range of different variants meant
+setting some demanding military requirements. While the MoD’s internal review forum
+considered the requirements to be deliverable, with some ‘trading’, our predecessors were
+more sceptical. In 2007 they stated that “We are concerned that the FRES requirement
+may simply be unachievable without a major technical breakthrough.”192 In 2008 the MoD
+suspended the largest part of the FRES programme, the Utility (FRES-UV) variant, due
+to ever-shifting requirements and huge technical risks around trying to design a globally
+deployable platform with superior levels of protection. Instead, it prioritised Warrior CSP
+and FRES-SV (Specialist Vehicle) variant which became Ajax. Ironically, given Warrior’s
+cancellation and Ajax’s delays, the de-prioritised FRES-UV requirement will now be met
+first if Boxer enters service from 2023.
+
+19) After the FRES experience it was clear that overall technical risk needed to be
+minimised. In its response to the 2011 NAO armoured vehicle report the MoD said:
+“The Department acknowledges that in the past it has over-specified requirements and
+attempted to integrate too many novel technologies at once in an attempt to deliver
+the best possible capability…and some of the earlier procurement strategies were overcomplex and as a result neither the Department nor Industry were able to manage them
+effectively.” Consequently, “the Scout Specialist Vehicle [which became Ajax] programme
+has…pursued a modified solution of an existing and proven vehicle, reducing the costs
+and risks associated with a new design.”193
+
+20) Having selected an off-the-shelf platform for Ajax the MoD then proceeded to
+fiddle with the design so thoroughly that at our evidence session in March 2022 the
+MoD’s Director-General for Ajax said that “(apart from the chassis)…we have, in effect,
+developed it from scratch.”194 The NAO’s 2022 Ajax report said “The Department’s and
+GDLS-UK’s approach was flawed from the start as they did not fully understand the
+scale or complexity of the programme.”195 Further, “…the Department and GDLS-UK
+signed the manufacture contract in 2014 before the critical design review was conducted,
+meaning that they did not fully understand the scope, interdependencies, and sequencing
+of work. The critical design review failed in March 2015, then passed in July 2015 with
+more than 60 technical issues outstanding, of which 15 were critical. Many of these issues
+were unresolved when the Department and GDLS-UK reset the programme in 2018. We
+have previously found that the Department declares key project milestones as achieved
+without the intended capability always being met at that point.”196 In its desire to deliver
+an advanced platform the MoD set demanding requirements that have yet to be met; and
+kept pushing through key checks that its own scrutiny was reporting as having failed
+to achieve, thereby putting at risk the entire programme—rather than aiming for more
+achievable targets but enhancing them incrementally through-life.
+
+192 [Defence Committee, Seventh Report of Session 2006–07, The Army’s requirement for armoured vehicles: The](https://publications.parliament.uk/pa/cm200607/cmselect/cmdfence/159/159.pdf?quantity=1)
+[FRES programme, HC 159, para 93](https://publications.parliament.uk/pa/cm200607/cmselect/cmdfence/159/159.pdf?quantity=1)
+
+193 [HM Treasury, Treasury minutes on the fifty second to the fifty fifth and on the fifty seventh to the sixty first](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/238201/8305.pdf)
+[reports: Session 2010–12, February 2012, p.43](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/238201/8305.pdf)
+
+194 [Oral evidence taken before the Committee on Public Accounts on 30 March 2022, HC (2021–22) 1102, Q8](https://committees.parliament.uk/oralevidence/10133/default/)
+
+195 [The National Audit Office, The Ajax programme, March 2022, p.12](https://www.nao.org.uk/wp-content/uploads/2022/03/The-Ajax-programme.pdf)
+
+196 [The National Audit Office, The Ajax programme, March 2022, p.31](https://www.nao.org.uk/wp-content/uploads/2022/03/The-Ajax-programme.pdf)
+
+
+-----
+
+**_C: To support incremental acquisition industry needs a consistent drumbeat_**
+**_of work:_**
+
+21) Industry likes certainty from governments. Certainty of orders, of supply, cash
+flow and profit. This has not sat easily with the Government’s focus on competition and
+achieving best price for developing and manufacturing defence equipment. However, an
+often quoted figure is that around two-thirds of whole-life project costs are in support and
+in-service operations, not in the initial procurement.197 Further, both the MoD’s recently
+released Defence and Security Industrial Strategy (DSIS) and the Land Industrial Strategy
+MoD have re-focused interest in ’social value’—understanding the full costs and benefits
+of defence procurement, including taxes paid by UK workers back to HM Treasury and
+the social benefits of well-paid employment.198 If successfully applied this might result in
+a higher equipment ‘headline sticker price’ for the MoD but be of wider benefit to UK plc,
+communities and the taxpayer.
+
+22) From a purely defence perspective reducing procurement risk by using more mature
+technology but then continuously improving through-life also lends itself to a constant
+drumbeat of industrial activity. Having not manufactured an armoured vehicle since the
+1990s UK defence engineering has atrophied somewhat over the past three decades. To
+develop the Ajax new investment, skills and infrastructure had to be re-established. Its
+production facility in South Wales was previously a forklift truck factory and extensive
+investment in the local community was required to meet the specific skills required for
+armoured vehicle construction.
+
+23) Unsurprisingly, these lessons resonate more widely across the defence acquisition
+sector. For example, the UK took a post-Cold War financial ‘holiday’ from nuclearpowered submarine construction when the last Trafalgar Class boat commissioned in
+1991 and until the first Astute Class submarine was laid down in 2001—a skills gap of
+over a decade which severely impacted on the UK’s ability to design and manufacturer
+submarines.
+
+24) Further, both recent and past operations are reminders that guaranteed, urgent access
+to certain sovereign capabilities and a domestic industrial capacity and a skilled and
+experienced workforce can be essential during conflict. To combat the threat of Argentine
+radar-directed anti-aircraft guns in 1982 UK engineers took less than three weeks to take
+the Blue Eric electronic warfare system from initial design to having nine pods ready
+for RAF Harriers.199 Similarly, numerous Urgent Operational Requirements (UORs) were
+required in Iraq and Afghanistan in the 2000s to combat a range of threats including
+roadside bombs. In the light of the current crisis in Ukraine, we have questioned whether
+production lines need to keep “ticking over…rather than the stop-start practice that is
+traditional in defence” to avoid running out of key supplies.200
+
+25) If the MoD is successful in bringing Ajax into service it will be critical to ensure that
+it is then well supported by industry with incremental updates to re-fresh and enhance
+its capabilities, to ensure it can be urgently adapted in times of crisis and make it more
+
+197 [For example, US Army, Army Chief of Staff on FVL Assault Aircraft: ‘We’re flying before buying’, November](https://protect-eu.mimecast.com/s/Na8hCBN35C7D5mpDfzG5at?domain=army.mil)
+2020.
+
+198 [Ministry of Defence, Land Industrial Strategy May 2022, paras 77–82.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1076392/Land_Industrial_Strategy.pdf)
+
+199 [Selex ES, Radar and EW in the RAF Electronic Warfare presentation 1914–2014 slide 31.](https://protect-eu.mimecast.com/s/6-GJCXL8EiX4KjZgCV_6Ja?domain=cambridgewireless.co.uk)
+
+200 [Oral evidence taken before the Defence Committee on 26 April 2022, HC (2021–22) 1225, Qq108–111](https://committees.parliament.uk/oralevidence/10139/pdf/)
+
+
+-----
+
+attractive to potential overseas customers. This applies equally to the other new armoured
+vehicles, such as Boxer and Challenger 3, that are due to enter service over the next few
+years.
+
+###### Note on the current status of the Ajax Armoured Cavalry Programme
+
+26) In examining the Ajax programme, the Public Accounts Committee recently
+summarised the issues as:
+
+   - A programme having “gone badly wrong, with no deployable vehicle delivered
+to date let alone providing Initial Operating Capability or Full Operating
+Capability dates” with the MOD already having paid £3.2 billion of the overall
+£5.5 billion contract;201
+
+   - A programme which “remains in turmoil” because the MOD still does not know
+whether the noise and vibration problems are fixable (and does not expect to
+determine this until late 2022). The PAC note that “there remains considerable
+uncertainty over how to resolve these safety issues and the programme is slipping
+further behind schedule as the Department and General Dynamics seek to agree
+a way forward”;202
+
+   - A programme which “was flawed from the outset as [it] was over-specified and
+the Department and General Dynamics did not understand the scale of the
+technical challenge”. Furthermore, the PAC observe that the MOD “needs to
+learn the lessons from the Ajax programme to ensure the litany of failures is
+never repeated and that our service personnel receive the equipment they need
+for operations and the nation’s defence.”;203
+
+   - The PAC conclude that:
+
+As a matter of the upmost urgency, the Department must establish whether
+noise and vibration issues can be addressed by modifications or whether they
+require a fundamental redesign of the vehicle. If the latter, the Department
+must decide whether the right course is to proceed with General Dynamics
+or if it should opt for an alternative. We expect an update on this when we
+next take evidence and a definitive decision, either one way or the other, by
+December 2022. After twelve years, enough is enough.204
+
+We share and endorse the concerns raised by the Public Accounts Committee in relation
+to the Ajax programme.
+
+201 [Committee of Public Accounts, Seventh Report of Session 2022–23, Armoured Vehicles: the Ajax programme, HC](https://committees.parliament.uk/publications/22478/documents/165765/default/)
+(2022–23) 259, p.3
+
+202 [Committee of Public Accounts, Seventh Report of Session 2022–23, Armoured Vehicles: the Ajax programme, HC](https://committees.parliament.uk/publications/22478/documents/165765/default/)
+(2022–23) 259, p.3
+
+203 [Committee of Public Accounts, Seventh Report of Session 2022–23, Armoured Vehicles: the Ajax programme, HC](https://committees.parliament.uk/publications/22478/documents/165765/default/)
+(2022–23) 259, p.3
+
+204 [Committee of Public Accounts, Seventh Report of Session 2022–23, Armoured Vehicles: the Ajax programme, HC](https://committees.parliament.uk/publications/22478/documents/165765/default/)
+(2022–23) 259, p.3
+
+
+-----
+
+### Conclusions and recommendations
+
+Introduction
+
+1. It is difficult not to feel a sense of déjà vu as we see British military ambitions which
+are not entirely matched by resources. Open conflict has returned to Europe and it is
+disappointing to see that the Government is not preparing for the impact of inflation
+and insufficient industrial capacity on the production of defence equipment as it
+looks to meet the new challenges. Paragraph 8)
+
+The threat
+
+2. In the Integrated Review and the Defence Command Paper, the Government
+identified and understood the implications of the range of complex and cascading
+threats faced by the UK. However, the impact of both the Afghan withdrawal
+and the Russian full-scale invasion of Ukraine are being seemingly dismissed as
+insignificant and there appears to be no intention to re-visit the conclusions of the
+documents. UK Defence thus appears as arrogant and unwilling to learn lessons.
+Events of the last year have demonstrated that the Government was unprepared for
+(and in the case of Afghanistan, failed to appropriately respond to) international
+crises. No strategy should be set in stone nor subject to constant revision. However,
+there is a need for Government to be able to respond to major events—which it was
+manifestly not prepared for—rather than downplaying the potential implications of
+such geopolitical shocks. (Paragraph 21)
+
+3. _There is a need for a New Chapter update to the IR and the Defence Command Paper_
+_which takes into account the events in Afghanistan and Ukraine. The document_
+_should then set out how the analysis of the strategic context has changed and what_
+_decisions in the Command Paper the UK Government is reviewing. (Paragraph 22)_
+
+4. The UK public is aware of the threats which the UK faces but does not appear to trust
+the Government to act in the national interest. Whilst investments in new technology
+are vital, it is also clear that, the days of “big tank battles on the European landmass”
+are not over and so a review of the decisions made in the Integrated Review and
+Defence in a Competitive Age, and the timelines committed to, is important for the
+UK’s defence and security and for the public’s trust. (Paragraph 30)
+
+5. The Government needs to ensure that the public is aware of the link between the
+cost of living and global instability: the rises in energy and food prices are both
+directly attributable to the conflict in Ukraine. The Government needs to ensure
+that they are effectively communicating this to the public, particularly given the
+increasing cost of UK support to the Ukrainians. (Paragraph 31)
+
+6. _Foreign policy decisions and consequent actions by UK Defence need to be supported_
+_by the UK public. The lack of organisation round the withdrawal from Afghanistan_
+_damaged the Government’s standing. However, so far, engagement with the public on_
+_the Russian offensive in Ukraine and British support for Ukraine has been regular_
+_and transparent. We welcome this approach: the Government needs to build on this._
+(Paragraph 32)
+
+
+-----
+
+The Government’s response to the evolving threat
+
+7. Defence in a Competitive Age and the Defence and Security Industrial Strategy are
+ambitious papers, aimed at modernising UK defence and ensuring it has equipment
+suitable for the Information Age. Whilst the conclusions of Defence in a Competitive
+Age ought to be revisited in light of the conflict in Ukraine, the commitments made
+in the Defence and Security Industrial Strategy ought to be implemented fully. We
+recognise that this will take time—we urge the MOD to ensure that the changes are
+seen through. (Paragraph 44)
+
+Prioritisation and potential pitfalls
+
+8. The reason that lack of publicly available information of the Government’s defence
+and security priorities presents a problem is that for integration—highlighted by the
+MoD as absolutely vital for the UK’s security—to be effective, the NSC must set clear
+priorities, backed with sufficient resources. If we (and the general public) are not
+aware of the priorities or the progress made on them, we cannot say with certainty
+whether we are being adequately protected by our Government. (Paragraph 53)
+
+9. The lack of prioritisation means that it is impossible to determine which of the threats
+highlighted the Government perceives to be greatest. It also results in the military
+seemingly being the answer for every question whilst not being appropriately
+resourced for the task. (Paragraph 54)
+
+10. We are further concerned by the use of the UK Armed Forces as a ‘backfill’, employed
+to carry out civilian tasks by Departments which are seemingly unable to respond
+to crises themselves. This is compounded by the MOD’s failure to respond to the 18
+recommendations made by the Reserves Review. (Paragraph 55)
+
+11. _We recommend that the MOD publish annual figures for the assistance provided to_
+_other Government Departments and to public authorities. This list should include_
+_the number of personnel deployed, the length of deployment, the task they were_
+_deployed for, the cost of the task and the renumeration received by the Department._
+_Furthermore we recommend that the MOD commit to publishing its response to the_
+_Reserves Review in the Autumn. (Paragraph 56)_
+
+12. Alongside the Permanent Secretary’s acknowledgement that some of the risk
+judgements made within the Integrated Review process might need to be revisited
+in light of events in Ukraine, it is clear that the capability gaps which the Defence
+Command Paper saw as acceptable are now no longer palatable. Furthermore, the
+move to such a position relies on technological innovation and the adoption of digital
+capabilities (such as Ajax and the Digital Backbone, as noted above). (Paragraph 72)
+
+13. The MOD faces a number of challenges following decisions made in the Integrated
+Review: the likelihood of a capability gap, as equipment is retired before its
+replacement is introduced; a reduction in the British Army’s heavy armour and
+mass at a time when tank battles are raging in Ukraine; and a reliance on not yet
+tested, let alone proven, technology, to counteract that reduction in equipment and
+numbers. There are also valid questions about whether the resources allocated to
+the task of moving the UK Armed Forces into the information age are adequate—a
+
+
+-----
+
+number of our witnesses seem to believe not. (Paragraph 77)
+
+14. It is clear that, even if the Government decides to proceed with the decisions taken
+in the IR and the Defence Command Paper, the timeline of changes ought also to be
+reviewed given the potential for capability gaps which leave the UK Armed Forces
+vulnerable. We are especially concerned about the proposed cuts to personnel
+numbers and the effective reduction in mass, particularly since that we are seeing
+Defence being used more and more often as an emergency measure to relieve
+exceptional pressures on public services and perform such tasks that otherwise
+might be expected to be carried out by others. In this context, we welcome the
+decision by the new Chief of the General Staff to describe the cuts as “perverse”
+and, as a first step, the Secretary of State’s seeming acknowledgement of the need to
+review the decision. (Paragraph 78)
+
+15. _There is a danger of overstretch. The Government needs to ensure that the military is_
+_properly resourced with both equipment and personnel to carry out the tasks required_
+_of it. To do this, we recommend there be a wholesale re-examination of the decisions_
+_on capabilities and timeframes within the Defence Command Paper and the decisions_
+_taken in it following events in Ukraine. (Paragraph 79)_
+
+Integration and funding
+
+16. Integration is key to the effective implementation of the Integrated Review and the
+Defence Command Papers. It is clear that this requires a long-term commitment,
+with decisions consistently re-evaluated as progress is made. It further requires a
+cohesive, effective and dedicated Government which is able to work collaboratively
+towards a common goal. (Paragraph 92)
+
+17. If Afghanistan was intended to be an example of effective policy integration in
+action then it leaves a lot to be desired. It is even more worrying given that the
+NSC apparently gave the political direction required to bring together a ‘wholeof-systems’ approach. If the NSC set the appropriate direction then it leads to two
+pertinent questions: why did implementation of the policy, agreed by Ministers, fail?
+And how can the Government ensure that integrated, cross-Government policy
+decisions—made by those Ministers who have been elected by the UK public and
+accountable to them and this Parliament—are fully implemented in future? The fact
+that these Departments are carrying out individual lessons learned exercises, rather
+than a single integrated exercise, is concerning. Furthermore, the Government has
+failed to take disciplinary action against any senior individual for any (of the many)
+mistakes made during the withdrawal from Afghanistan. (Paragraph 93)
+
+18. _The Government should publish the actions agreed by each of the Departments as a_
+_result of the lessons learned exercises which examined the response to the Afghanistan_
+_crisis, together with a time frame for implementation. (Paragraph 94)_
+
+19. We welcome the uplift to the MOD’s budget in 2020 and the four-year budget
+commitment. However, inflationary pressures and an increase in the scale of threat
+means that it is no longer enough. At the same time, serious concerns persist around
+a number of procurement programmes. The Department now needs a strategy to
+regain both Parliament’s and the public’s trust in its procurement abilities. We are
+
+
+-----
+
+concerned that a real terms fall in sustainment funding (RDEL) up to 2024–25 will
+erode the Armed Forces’ ability to maintain and train on military equipment. We
+recommend a further, long-term increase to the budget but the MOD must ensure
+that money is not wasted. We recommend a further, long-term increase to the budget
+_but the MOD must ensure that money is not wasted. (Paragraph 103)_
+
+20. _There are significant challenges to integration but none that concerns us as much as_
+_the MOD’s procurement difficulties. For instance, the MOD has made it clear that in_
+_order to achieve integration and utilise new technologies, it needs an effective digital_
+_network. Without that network, few of the suggested benefits are accrued. Yet its_
+_track record in large and complex programmes is abysmal. We recommend that the_
+_Government identify those programmes which are critical enablers and ensure there is_
+_additional scrutiny of them. Furthermore, it needs to identify international partners_
+_with whom it can collaborate on the technologically advanced equipment that the UK_
+_Armed Forces require. (Paragraph 104)_
+
+What next?
+
+21. The lack of a definition of what it means to be integrated makes it somewhat difficult
+to measure the success of the Government in achieving its objectives. However,
+we will continue to evaluate the implementation of the Integrated Review, the
+Defence Command Paper and the DSIS throughout the life of this Parliament.
+(Paragraph 105)
+
+22. We welcome the Government’s commitment to the publication of an annual
+review on the implementation of the Integrated Review. However, given that the
+implementation is the key, consistent evaluation of the implementation of the
+strategies throughout this Parliament is vital. This Committee, alongside our
+colleagues on the Public Accounts Committee, the Joint Committee on the National
+Security Strategy and the House of Lords International Relations and Defence
+Committee, plays a vital role in ensuring that Government decisions, and their
+implementation, are regularly scrutinised. Since the Integrated Review papers were
+published, we have published a Report on Naval procurement and are currently
+holding inquiries examining Defence Space policy, how the UK works with the US
+and NATO, the tilt to the Indo-Pacific, aviation procurement and the impact of
+climate change on Defence. (Paragraph 106)
+
+23. _As well as an annual report on the implementation of the IR, we recommend the MOD_
+_produce an annual evaluation of what has been achieved in their implementation_
+_of Defence in a Competitive Age and DSIS. This evaluation should include case_
+_studies which demonstrate implementation (examples of integration with other_
+_Government Departments, allies and partners, and defence industry). It should also_
+_include an account of how certain events have led to a review of thinking and any_
+_subsequent decisions made which change previously agreed outcomes. This will allow_
+_Parliamentary Committees and the UK public to scrutinise the implementation of_
+_the Integrated Review, Defence in a Competitive Age and the Defence Security and_
+_Industrial Strategy. (Paragraph 107)_
+
+
+-----
+
+### Formal minutes
+
+**Tuesday 19 July 2022**
+
+Physical meeting
+
+**Members present**
+
+John Spellar, in the Chair
+
+Dave Doogan
+
+Richard Drax
+
+Mark Francois
+
+Kevan Jones
+
+Emma Lewell-Buck
+
+Gavin Robinson
+
+Derek Twigg
+
+**The Integrated Review, Defence in a Competitive Age and the Defence and**
+**Security Industrial Strategy**
+
+Draft Report (The Integrated Review, Defence in a Competitive Age and the Defence and
+_Security Industrial Strategy), proposed by the Chair, brought up and read._
+
+_Ordered, That the draft Report be read a second time, paragraph by paragraph._
+
+Paragraphs 1 to 107 read and agreed to.
+
+Annexes and summary agreed to.
+
+_Resolved, That the Report be the Second Report of the Committee to the House._
+
+_Ordered, That John Spellar make the Report to the House._
+
+_Ordered, That embargoed copies of the Report be made available (Standing Order No._
+134).
+
+**Adjournment**
+
+Adjourned till Tuesday 6 September 2022 at 10.00am.
+
+
+-----
+
+### Witnesses
+
+[The following witnesses gave evidence. Transcripts can be viewed on the inquiry publications](https://committees.parliament.uk/work/1122/default/publications/oral-evidence/)
+[page of the Committee’s website.](https://committees.parliament.uk/work/1122/default/publications/oral-evidence/)
+
+**Tuesday 23 March 2021**
+
+**The Lord Richards of Herstmonceux GCB CBE DSO DL, Chief of Defence Staff**
+(2010–13), Ministry of Defence; The Lord Houghton of Richmond GCB CBE DL,
+Chief of Defence Staff (2014–16), Ministry of Defence [Q1–60](https://committees.parliament.uk/oralevidence/1973/html/)
+
+**Tuesday 13 April 2021**
+
+**Dr Sidharth Kaushal, Research Fellow, Sea Power, Royal United Services Institute**
+(RUSI); **Rear Admiral Alex Burton, Former Commander, UK Maritime Forces**
+**(2016–2017)** [Q61–127](https://committees.parliament.uk/oralevidence/2006/html/)
+
+**Tuesday 20 April 2021**
+
+**Professor John Louth, independent author and defence analyst; Paul Hough,**
+**defence business consultant** [Q128–167](https://committees.parliament.uk/oralevidence/2141/html/)
+
+**Tuesday 25 May 2021**
+
+**Professor Patrick Porter, Professor of International Security and Strategy, The**
+University of Birmingham; Dr David Blagden, Senior Lecturer in International
+Security, The University of Exeter [Q168–195](https://committees.parliament.uk/oralevidence/2251/html/)
+
+**Wednesday 23 June 2021**
+
+**Rt Hon Ben Wallace MP, Secretary of State, Ministry of Defence; Air Marshal**
+**Richard Knighton CB, Deputy Chief of the Defence Staff, Ministry of Defence** [Q196–279](https://committees.parliament.uk/oralevidence/2430/html/)
+
+**Tuesday 6 July 2021**
+
+**Lt Gen (Retd) Ben Hodges, Pershing Chair in Strategic Studies, Center for**
+European Policy Analysis, Former Commanding General (2014–2017), United
+States Army Europe (Wiesbaden, Germany) [Q280–320](https://committees.parliament.uk/oralevidence/2496/html/)
+
+**Tuesday 30 November 2021**
+
+**Sir Stephen Lovegrove, National Security Adviser** [Q321–392](https://committees.parliament.uk/oralevidence/3101/html/)
+
+
+-----
+
+### Published written evidence
+
+[The following written evidence was received and can be viewed on the inquiry publications](https://committees.parliament.uk/work/1122/default/publications/written-evidence/)
+[page of the Committee’s website.](https://committees.parliament.uk/work/1122/default/publications/written-evidence/)
+
+DGB numbers are generated by the evidence processing system and so may not be complete.
+
+1 [Ministry of Defence (DGB0002)](https://committees.parliament.uk/writtenevidence/108723/default/)
+
+2 [Ministry of Defence (DGB0001)](https://committees.parliament.uk/writtenevidence/40653/html/)
+
+
+-----
+
+### List of Reports from the Committee during the current Parliament
+
+All publications from the Committee are available on the [publications page of the](https://committees.parliament.uk/committee/24/defence-committee/publications/)
+Committee’s website.
+
+**Session 2022–23**
+
+**Number** **Ttitle** **Reference**
+
+1st The Treatment of Contracted Staff for The MoD’s Ancillary HC 187
+Services
+
+1st Special Operation Isotrope: the use of the military to counter migrant HC 267
+crossings: Government response to the Committee’s fourth
+report of Session 2021–22
+
+**Session 2021–22**
+
+**Number** **Title** **Reference**
+
+1st Russia and Ukraine border tensions HC 167
+
+2nd Women in the Armed Forces HC 154
+
+3rd “We’re going to need a bigger Navy” HC 168
+
+4th Operation Isotrope: the use of the military to counter HC 1069
+migrant crossings
+
+|Number|Ttitle|Reference|
+|---|---|---|
+|1st|The Treatment of Contracted Staff for The MoD’s Ancillary Services|HC 187|
+|1st Special|Operation Isotrope: the use of the military to counter migrant crossings: Government response to the Committee’s fourth report of Session 2021–22|HC 267|
+
+
+1st Special Obsolescent and outgunned: the British Army’s armoured
+vehicle capability: Government Response to the Committee’s
+Fifth Report of Session 2019–21
+
+2nd Manpower or mindset: Defence’s contribution to the
+Special UK’s pandemic response: Government Response to the
+Committee’s Sixth Report of Session 2019–21
+
+
+HC 221
+
+HC 552
+
+
+3rd Russia and Ukraine border tensions: Government Response HC 725
+Special to the Committee’s First Report
+
+
+4th Protecting those who protect us: Women in the Armed
+Special Forces from Recruitment to Civilian Life: Government
+Response to the Committee’s Second Report
+
+
+HC 904
+
+
+5th “We’re going to need a bigger Navy”: Government Response HC 1160
+Special to the Committee’s Third Report
+
+
+-----
+

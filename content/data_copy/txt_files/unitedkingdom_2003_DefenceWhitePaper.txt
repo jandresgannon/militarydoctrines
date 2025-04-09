@@ -1,0 +1,2812 @@
+### Delivering Security in a Changing World Defence White Paper
+
+
+-----
+
+-----
+
+## Delivering Security in a Changing World Defence White Paper
+
+##### Presented to Parliament by The Secretary of State for Defence By Command of Her Majesty
+
+ December 2003
+
+ £11.50
+
+ Two volumes not sold separately
+
+ Cm 6041-I
+
+
+-----
+
+## Chapter 1
+#### Setting the Scene
+
+## Chapter 2
+#### The Security Challenge
+
+## Chapter 3
+#### Future Requirements for Defence
+
+## Chapter 4
+#### Armed Forces Capabilities
+
+## Chapter 5
+#### Supporting Capability
+
+## Chapter 6
+#### Conclusion
+
+## Annex
+#### The Defence Vision
+
+**© Crown Copyright 2003**
+
+The text in this document (excluding the Royal Arms and departmental logos) may be reproduced
+
+free of charge in any format or medium providing that it is reproduced accurately and not used in a misleading context.
+
+The material must be acknowledged as Crown copyright and the title of the document specified.
+
+Any enquiries relating to the copyright in this document should be addressed to
+
+The Licensing Division, HMSO, St Clements House, 2-16 Colegate, Norwich, NR3 1BQ.
+
+Fax: 01603 723000 or e-mail: licensing@cabinet-office.x.gsi.gov.uk
+
+
+-----
+
+#### Foreword by the Secretary of State for Defence
+ the Right Honourable Geoff Hoon MP
+
+Throughout this Government’s time in office, the UK’s Armed Forces have consistently
+risen to the challenges set them, continuing a military tradition of which the whole nation
+can be proud. This success is no accident. It depends on the ability of our people,
+properly trained, motivated and equipped, focussed and organised on achieving results
+and directed by outstanding leaders throughout the chain of command. The British
+people expect the Government to continue to deliver high quality Armed Forces capable of
+responding to the uncertainties and threats of today’s security environment, and to ensure
+our Service men and women receive the level of support they need. This White Paper
+sets out the policy for doing so, building on the expeditionary strategy first set out in the
+Strategic Defence Review (SDR) in 1998 and the conclusions reached in the SDR New
+Chapter in 2002, and adapted to reflect operational experience and the changing security
+environment.
+
+The Paper sets out our analysis of the future security environment, the implications
+
+for defence, and how we intend adapting our planning and force structures to meet
+the potential threats. While many of the conclusions reached in the SDR remain valid,
+the threats posed by international terrorism and the proliferation of weapons of mass
+destruction are starker, as are the risks to wider security posed by failed or failing states.
+Whereas in the past it was possible to regard military force as a separate element in crisis
+resolution, it is now evident that the successful management of international security
+problems will require ever more integrated planning of military, diplomatic and economic
+instruments at both national and international levels. We have also had to look at how
+we can best take advantage of the opportunities offered by new technologies to deliver
+military effects in different ways. Our focus is now on delivering flexible forces able
+to configure to generate the right capability in a less predictable and more complex
+operational environment. This will require us to move away from simplistic platform-centric
+planning, to a fully “networked enabled capability” able to exploit effects-based planning
+and operations, using forces which are truly adaptable, capable of even greater levels of
+precision and rapidly deployable.  This implies significant changes in the way we plan,
+prepare and execute operations, placing different pressures and demands on our people,
+equipment, supporting infrastructure and processes.
+
+For these reasons we must be prepared to invest in recruiting and retaining the
+
+right people, providing them with the necessary training, development and support. We
+must invest in the battle-winning equipment they will need and continue to modernise
+the rest of Defence to effectively support expeditionary operations. Resources must be
+directed at those capabilities that best deliver the range of effects required, while we
+must have the determination to dispense with those capabilities that do not. We expect
+to be in a position to announce significant changes to the current and future capabilities
+of the Armed Forces and supporting infrastructure next year. These will be considered in
+the continuing work to establish the nature of a sustainable and affordable future force
+structure. This White Paper presents the security and policy baseline against which future
+decisions will be made and gives a clear statement of our future strategic priorities.
+
+A separate publication on Operation TELIC is being published in parallel with this
+
+White Paper. We have not yet drawn complete conclusions of the implications on lessons
+on the operations in Iraq for capability. These will be considered in the continuing work to
+rebalance the Defence programme.
+
+A separate volume of detailed supporting essays and analysis covers the core topics
+
+of International Organisations; Military Tasks and Scales of Effort; Reserves; Defence
+Relations; People; Defence Management; and Industrial Policy.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+# Chapter 1
+
+#### Setting the Scene
+
+
+1.1 The Balkans, Sierra Leone,
+
+Afghanistan, and Iraq demonstrate the
+successful performance of British forces
+in conducting both combat operations
+and subsequent stabilisation operations.
+The rapid deployment of some 46,000
+personnel to the Gulf confirmed the
+validity of the vision set out in the
+Strategic Defence Review (SDR) in 1998
+and the expeditionary strategy and
+modernisation initiated by the Review.
+
+1.2 The SDR was a fundamental
+
+rethink of how the UK Armed Forces and
+their supporting infrastructure should
+be structured to face the challenges
+of the increasingly complex security
+environment which followed the ending
+of the Cold War and the emergence of
+uncertainty and instability in many areas
+of the world.  The key conclusions from
+the Review were:
+
+- Defence is an essential part of
+
+achieving the Government’s wider
+Foreign and Security Policy objectives
+both through military operations and
+Defence Diplomacy;
+
+- The need for modern and effective
+
+armed forces equipped and
+supported for rapid and sustainable
+deployment on expeditionary
+operations, usually as part of a
+coalition;
+
+- The largest operation envisaged
+
+was a regional conflict, although
+a requirement to retain the basis
+on which to reconstitute larger
+capabilities in the event of a reemerged strategic threat to NATO
+remained;
+
+
+
+- Our forces need to be prepared to
+
+conduct the full range of operations
+from warfighting through to peace
+support operations;
+
+- Military effectiveness would be
+
+enhanced through increased
+“Jointery” between the Services,
+including the establishment of a
+Chief of Defence Logistics, and most
+importantly through the creation of the
+Joint Rapid Reaction Force;
+
+- The supporting infrastructure and
+
+services within the MOD needed
+to be modernised and rationalised
+to support expeditionary warfare
+effectively;
+
+- The role of the Reserve Forces should
+
+be further adapted to meet the
+military demands of the post-Cold
+War world;
+
+- We should harness new technologies
+
+to enhance military capability while
+preparing to counter new threats;
+
+- We should maintain a minimum
+
+nuclear deterrent based on the Trident
+system.
+
+1.3 The Review set the policy
+
+framework through which we have
+operated since 1998. A succession of
+operations has demonstrated our ability
+to plan, deploy, operate and sustain
+forces over considerable distances,
+alongside a diverse range of allies and
+partners.
+
+
+1.4 However, the world has not stood
+
+still and since the SDR there has been a
+series of significant developments:
+
+- More numerous crises of a wider
+
+range and in a wider geographical
+area – Kosovo, Macedonia, Sierra
+Leone, East Timor, Afghanistan,
+Democratic Republic of Congo, as
+well as Iraq – have demonstrated that
+the global security environment is
+more uncertain than it was five years
+ago and our Armed Forces face an
+even broader range, frequency, and
+often duration of tasks than envisaged
+in 1998;
+
+- The increased threat from
+
+international terrorism, requiring a
+response both at home and overseas;
+
+- NATO’s enlargement and evolution
+
+from large static forces to smaller
+response forces, able to undertake
+operations beyond the NATO area
+itself;
+
+
+-----
+
+- The emergence of European Security
+
+and Defence Policy (ESDP) and its
+first operations;
+
+- The beginnings of a strategic
+
+relationship with Russia (although
+many dimension of this have yet to
+develop);
+
+- More widespread proliferation of
+
+Weapons of Mass Destruction[1] (WMD)
+and related technologies; and
+
+- The development of new concepts
+
+and technologies including Network
+Enabled Capability (NEC)[2] and the
+widespread availability of precision
+weapons.
+
+
+1.5 Following the September 11
+
+attacks, the MOD reviewed its ability
+to respond to the particular challenges
+raised by international terrorism. The
+SDR New Chapter concluded that
+our emphasis on expeditionary forces
+enabled the UK to have a key role in
+the new international environment but
+recognised that operations against
+international terrorism required
+increased precision and rapid delivery
+of military effect, particularly through
+NEC.  The New Chapter highlighted the
+need to be prepared to prevent, deter,
+coerce, disrupt or destroy international
+terrorists or the regimes that harbour
+them and to counter terrorists’ efforts to
+acquire chemical, biological, radiological
+and nuclear weapons. It recognised
+the role of stabilisation operations and
+Defence Diplomacy in addressing the
+causes and symptoms of conflict and
+terrorism. The New Chapter noted
+the increased likelihood of deploying
+forces outside the SDR core regions
+of Europe, the Middle East and the
+Mediterranean more often and alongside
+coalition partners.  These conclusions
+had particular implications for future
+capability, especially expeditionary
+logistics. More frequent, and often
+longer and/or smaller operations require
+particular key enablers within the force
+structure, including communications,
+logistics, medical specialists, and
+intelligence. While centred on the need
+to confront international terrorism
+abroad rather than waiting for attacks
+within the UK, the New Chapter also
+recognised the valuable contribution
+Defence could make to Home defence
+and security in support of the Home
+Office and civil authorities.
+
+
+1.6 As well as helping to sustain
+
+relative peace in Northern Ireland ahead
+of a final settlement, Defence has also
+played an important role in supporting
+the civil authorities in responding to
+a range of civil contingencies. The
+availability of a pool of highly trained
+service personnel, combined with
+expertise in crisis management, planning
+and command and control, has seen
+the Armed Forces deployed to support
+civil authorities during the fuel dispute,
+foot and mouth outbreaks, flooding and
+most recently on Operation FRESCO
+during the fire services’ pay dispute.
+The Armed Forces’ performance was
+widely praised, but there was inevitably
+an impact on personnel and the
+training and preparedness of units for
+their operational roles, particularly as
+Operation FRESCO coincided with the
+start of the campaign in Iraq.
+
+1.7 While the SDR and the New
+
+Chapter set us on the right course to
+respond to the trends emerging in 1998,
+the security environment and technology
+have moved on. We therefore need
+to adapt further our force structures in
+light of our operational experience and
+continue the process of modernisation
+that SDR set in hand.
+
+
+_1 The phrase ‘weapons of mass destruction’ is generally held to refer to nuclear, chemical and biological weapons._
+
+_2 NEC has evolved as the UK’s term for the capability enhancement achieved through the effective linkage of platforms and_
+_people through a network. It replaces the expression Network Centric Capability used in the SDR New Chapter. NEC is explored_
+_in more detail in Chapter 4._
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+# Chapter 2
+
+#### The Security Challenge
+
+
+**UK Policy Aims**
+
+2.1 The security and stability of Europe
+
+and the maintenance of the transatlantic
+relationship remain fundamental to
+our security and defence policy. The
+UK is a permanent member of the UN
+Security Council and a leading military
+contributor to the NATO Alliance and the
+ESDP. More widely the UK has a range
+of global interests including economic
+well-being based around trade, overseas
+and foreign investment, and the
+continuing free flow of natural resources.
+We have responsibilities for 13 overseas
+territories. Our security and national
+prosperity depend upon international
+stability, freedom and economic
+development, and in support of these
+the UK seeks to act as a force for good
+within the international community. The
+capacity to deliver effective military
+force in peace support and intervention
+operations, alongside our EU and
+NATO allies, is a vital component of our
+security policy.
+
+2.2 The Government’s security
+
+priorities, set out in the SDR and the
+New Chapter are summarised in our
+Defence Aim:
+
+**To deliver security for the people**
+**of the United Kingdom and the**
+**Overseas Territories by defending**
+**them, including against terrorism;**
+**and to act as a force for good by**
+**strengthening international peace**
+**and stability.**
+
+
+**Security Environment**
+
+2.3 International terrorism and the
+
+proliferation of WMD represent the most
+direct threats to our peace and security.
+But, working with Other Government
+Departments, we need also to consider
+and address the underlying causes of
+these threats.
+
+**International Terrorism**
+
+2.4 The terrorist attacks of 11
+
+September 2001 demonstrate the
+strategic effect that a sophisticated
+and determined group of terrorists can
+achieve. As well as confronting the threat
+directly, we are working with our partners
+to tackle the conditions that promote
+terrorism and provide ready recruits and
+to deny terrorists funding and freedom
+of movement. We supported action in
+the UN to tackle terrorist finances and to
+share intelligence more widely between
+many nations.
+
+2.5 The US-led coalition operations in
+
+Afghanistan succeeded in overthrowing
+the Taliban regime, which had provided
+a safe haven for Al Qaida. The coalition
+destroyed Al Qaida’s training camps and
+disrupted its leadership. More broadly,
+world-wide action by law enforcement
+and intelligence agencies has further
+pursued Al Qaida’s leaders and has
+successfully diminished its expertise
+and capability. Nonetheless, Al Qaida
+remains a sophisticated, if loosely-linked,
+movement which operates at many
+different levels. It has not recreated the
+infrastructure it had in Afghanistan but
+it has considerable resilience through a
+number of widespread, covert networks
+that support its activities. It has made a
+number of attacks since 11 September
+and retains the intent and the capability
+to pose a direct threat to the UK and to
+British citizens. It has also stimulated
+other Islamist extremists to attack
+Western interests around the world.
+
+
+2.6 We also know, for example from
+
+documentary evidence recovered from
+Afghanistan and arrests this year in France
+and the UK, that international terrorists
+are seeking to use chemical, biological
+and radiological means to enhance their
+capacity for disruption and destruction.
+Whilst arrests of senior figures and cell
+members will have hindered their efforts,
+their aspirations remain.
+
+**Proliferation of Weapons of Mass**
+**Destruction**
+
+2.7 Continuing proliferation of WMD
+
+provides another pressing cause for
+concern. Some states will continue to
+seek WMD, particularly as access to the
+technology and production becomes
+easier. The means of delivering such
+weapons are also being proliferated, as
+we have seen with missile technology
+transfers from North Korea to a number
+of states. The international community’s
+response to such proliferation,
+particularly of nuclear weapons,
+must be firm. We do not believe
+the world community should accept
+the acquisition of nuclear weapons
+by further states. Preventing the
+potential passage of WMD knowledge
+or weapons from states to terrorist
+groups is also a key part of the counterproliferation challenge.
+
+
+-----
+
+**Failing States**
+
+2.8 Weak and failing states are an
+
+increasing problem for the stability
+of several regions especially on
+NATO’s borders and in Africa. Such
+states are characterised by political
+mismanagement, ethnic and religious
+tensions or economic collapse. They
+can contain areas of ungoverned
+territory which provide potential havens
+and sources of support for terrorist
+groups and criminal networks involved
+in drugs production or the plundering
+of natural resources. Neighbouring
+states may be drawn into competition
+for control or influence over these
+territories and their resources. Internal
+conflict, poverty, human rights abuse
+and famine can all create the conditions
+for mass population movements, adding
+to pressures on neighbouring countries
+or emerging as a surge in migration to
+Europe.
+
+**Social and Environmental Factors**
+
+2.9 As the world’s population
+
+continues to grow (particularly in North
+Africa, the Middle East, Latin America
+and much of Asia), demographic
+pressures will have more of an impact
+on international security. Religious and
+ethnic tensions, environmental pressures
+and increased competition for limited
+natural resources may cause tensions
+and conflict – both within and between
+states.  The UK may not remain
+immune from such developments;
+regional disputes can swiftly become
+internationalised, and may have a major
+impact on the global economy, energy
+security, and our allies and partners.
+
+**Regional Analysis**
+
+2.10 The UK will engage proactively
+in shaping the international response
+to events that impact on our security
+interests, as well as more broadly
+fostering international peace and
+security. But we do not have, or
+seek, the defence capacity for military
+responses to each and every risk or
+crisis. National interest, proximity and
+responsibility will be among the key
+factors in determining what, if any, role
+the UK’s Armed Forces should plan to
+have in dealing with any crisis.
+
+
+2.11 The SDR judgement that European
+security is central to our national
+interests has not changed. The shadow
+of the Cold War has gone from Europe;
+NATO and Russia are developing a
+close working relationship, with their
+armed forces having deployed alongside
+each other in the Balkans. There is
+currently no major conventional threat
+to Europe, but asymmetric forms of
+attack, including from international
+terrorism, pose a very real threat to our
+homelands. Such threats, along with
+the proliferation of WMD, are global. We
+must tackle them assertively at source
+– wherever that might be – or in transit,
+using the wide range of tools available
+to us (political, economic and military).
+We must also be able to manage the
+consequences of attacks at home. This
+approach is reflected in our support
+for the proposed solidarity clause in
+the draft new European Treaty which
+provides that the Union will mobilise all
+the instruments at its disposal (including
+the military resources made available
+by member states) in response to the
+request of a member state that has
+fallen victim to a terrorist attack or
+natural or man-made disaster, as well as
+in our strong commitment to deal with
+these new threats alongside the US and
+our other international partners.
+
+2.12 The second enduring SDR
+judgement was that Europe and those
+regions immediately adjacent – the Near
+East, North Africa and the Gulf – are
+likely to continue to have the most
+significant bearing on both our own
+and wider Western security interests.
+Potentially destabilising social, political,
+and economic problems demand
+proactive engagement in conflict
+prevention, as well as the capacity to
+respond quickly to emerging crises.
+
+2.13 The Middle East presents the most
+significant security challenges within
+this broad area. The Israeli/Palestinian
+problem is a fundamental issue
+and the UK will continue to support
+international efforts to secure a lasting
+settlement. The Gulf will remain a region
+of considerable strategic importance,
+with its energy supplies being crucial
+to the world economy. Although recent
+operations in Iraq have neutralised
+one threat and will continue to have a
+deterrent effect on others, WMD have
+proliferated across some countries in the
+Middle East and beyond and are likely to
+remain a continuing concern.
+
+
+2.14 Looking beyond the regions
+adjacent to Europe, we now need to
+take a greater account in our planning of
+a high likelihood of commitments further
+afield. The threat from international
+terrorism now requires the capability
+to deliver a military response globally.
+Other crises could also occur anywhere
+across the world but the UK will not be
+able, nor required, to become involved
+in every case. For planning purposes,
+we will as a force focus on those areas
+where we have strong historical ties and
+responsibilities.
+
+2.15 Sub-Saharan Africa is a povertystricken and unstable region. The
+conditions that exist are likely to
+perpetuate a situation of recurring
+humanitarian disasters. As Sierra Leone
+has illustrated, there is a political and
+moral desire to assist in ameliorating
+the worst atrocities and encouraging,
+with the EU and other partners, good
+governance and security sector reform
+to set the conditions for security in the
+region. Instability in parts of South
+Asia may require a significant level of
+engagement.
+
+**International Organisations**
+
+2.16 The UK’s national security and
+economic interests are best protected
+through working closely with other
+members of the international community.
+While Iraq exposed differing views within
+the UN Security Council, NATO and
+the EU over the handling of that crisis,
+it does not undermine our continued
+commitment to the development of
+these organisations. But we also need
+the flexibility to build coalitions of the
+willing to deal with specific threats when
+necessary.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+
+2.17 The UN will remain the forum
+through which the international
+community will debate the handling of
+major security crises, reinforcing the
+UK’s key responsibilities as a permanent
+member of the Security Council. We
+will therefore seek to foster a strong
+Council, and support efforts to improve
+the UN’s performance in peace support
+operations. However, we need to be
+realistic about the limitations of the
+UN and the difficulties of translating
+broad consensus on goals into specific
+actions, particularly where proactive
+military intervention is concerned.
+
+
+2.18 The UK recognises the preeminence of NATO as the alliance
+upon which Europe and North America
+depends for collective defence and
+global crisis management. Since the
+SDR was published, the Alliance has
+continued to adapt. It will soon expand
+its membership to 26 and has developed
+a working relationship with Russia.
+NATO’s recently assumed command of
+the International Security Assistance
+Force in Afghanistan has demonstrated
+the Alliance’s willingness to undertake
+tasks outside its traditional areas of
+concern. The challenge now facing
+the Alliance is to deliver the capabilities
+and structures required for effective
+crisis management and expeditionary
+forces. The Prague Summit in 2002
+set in hand a number of initiatives
+designed to generate the necessary
+capabilities, including the creation of
+smaller and more flexible command
+structures and the NATO Response
+Force. A new functional command, the
+Allied Command for Transformation,
+has taken responsibility for promoting
+and overseeing the transformation of
+Alliance forces and capabilities. The
+catalyst for this capability development
+will be the NATO Response Force, with
+its emphasis on flexible, deployable,
+technologically advanced and
+interoperable forces; nations must now
+deliver the credible capabilities required
+to make this a reality.
+
+
+2.19 The UK is a strong supporter
+of developing EU military capability
+to complement NATO, rather than
+competing with it. The EU, with its
+focus on crisis management operations
+outside the Union, has now established
+an operational Common Security
+and Defence Policy and the military
+structures required to support it, though
+significant shortfalls remain to be met
+before the Helsinki Headline Goal is
+achieved in full.  Arrangements known
+as ‘Berlin Plus’ provide for the use of
+NATO planning resources and other
+assets if these are required for their
+operations. The EU through ESDP
+has conducted limited peace support
+operations in both Macedonia and
+the Democratic Republic of Congo
+but considerable further progress,
+particularly in developing relevant and
+credible capabilities and eradicating
+the shortfalls, will be required from
+nations if the full aspirations set out in
+the Headline Goal are to be met. We are
+also encouraging nations to look ahead
+to the planning of a Future Headline
+Goal. The UK has promoted a European
+defence capabilities agency in the draft
+EU Treaty, to energise the development
+of capabilities and coordinate
+associated acquisition policies.
+
+
+-----
+
+# Chapter 3
+
+#### Future Requirements for Defence
+
+
+**Implications for Defence**
+
+3.1 There are currently no major
+
+conventional military threats to the UK or
+NATO – but the threat from proliferation
+and international terrorism remains very
+real and in the worst case could result
+in serious casualties and significant
+disruption to the national economy and
+our way of life. The key implications for
+defence planning that we can draw from
+our analysis of the security challenge are:
+
+- The UK will remain actively engaged
+
+in potential areas of instability in
+and around Europe, the Near East,
+North Africa and the Gulf. But we
+must extend our ability to project
+force further afield than the SDR
+envisaged. In particular, the potential
+for instability and crises occurring
+across sub-Saharan Africa and
+South Asia, and the wider threat from
+international terrorism, will require us
+both to engage proactively in conflict
+prevention and be ready to contribute
+to short notice peace support and
+counter-terrorist operations.
+
+
+
+- The UK will not be able to make a
+
+military contribution to the response
+to every international crisis. Generally,
+where we are involved, we will respond
+in coalitions with other countries.
+Therefore we must maintain our
+existing alliances and develop new
+partnerships, seek and exploit political
+and military influence, and ensure
+access for our forces in times of crisis.
+
+- Our forces must be equipped and
+
+configured to fulfil the requirement
+identified in the New Chapter to
+protect our citizens at home and
+counter international terrorism across
+the globe.
+
+- We must be more prepared for
+
+‘asymmetric’ attacks (those avoiding
+direct conventional conflict with
+our military forces) by both state
+and non-state actors, including
+the employment of WMD delivered
+through a variety of means.
+
+**Future Need For Forces**
+
+3.2 Defending the UK, protecting
+
+our interests overseas, dealing with the
+proliferation of WMD and addressing the
+threat from international terrorism require
+a clear focus on projecting force, further
+afield and even more quickly than has
+previously been the case. This places
+a premium on the deployability and
+sustainability of our forces, sometimes
+in circumstances where access, basing
+and overflight cannot be guaranteed.
+The added demands placed on our
+Armed Forces by the expanding range
+of tasks and greater geographical scope
+of deployment will require our forces
+and their supporting structures to be
+
+
+more flexible and adaptable. Multiple
+concurrent Small to Medium Scale[3]
+operations will be the most significant
+factor in our force planning. Counterterrorism and counter proliferation
+operations in particular will require rapidly
+deployable forces able to respond swiftly
+to intelligence and achieve precise effects
+in a range of environments across the
+world. Regional tensions and potential
+conflicts are likely to sustain high demand
+for enduring peace support commitments
+such as the extended deployments
+that we have seen in the Balkans and
+Afghanistan. But our forces must retain
+the capacity to undertake Large Scale
+operations at longer notice in Europe, the
+Mediterranean and the Gulf Region.
+
+3.3 We must therefore plan to support
+
+the three concurrent operations, of
+which one is an enduring peace support
+operation, that have become the norm in
+recent years. This requires the rebalancing
+of the Armed Forces to enable them better
+to meet the demands of the more likely
+Small and Medium Scale contingencies
+and needs to include the enhancement
+of strategic enablers – communications,
+logistics and intelligence. We will maintain
+a broad spectrum of maritime, land, air,
+logistics, C4ISR[4] and Special Forces
+capability elements to ensure we are able
+to conduct limited national operations,
+or be the lead or framework nation for
+coalition operations, at Small to Medium
+Scale. But we will not need to generate
+large-scale capabilities across the
+same spectrum, given that in the most
+demanding operations we will be operating
+alongside the US and other allies, where
+capabilities such as air defence and naval
+escorts are less likely to be at a premium.
+
+
+_3 An example of a Small Scale operation is the UK’s deployment to Macedonia in 2001; Afghanistan (2001) was at Medium Scale;_
+_and Operation TELIC, Large Scale. For further information on scales of effort, and the Military Tasks, see Supporting Essay 2._
+
+_4 Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance_
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+provide those capabilities that deliver
+the greatest impact when operating
+alongside the US. Continuing exchanges
+with the US on issues such as rapid
+deployment planning, developing
+doctrine and concepts, and new
+technologies, will remain important. The
+key to retaining interoperability with the
+US, for our European allies as well as
+the UK, is likely to rest in the successful
+operation of NATO’s new Allied
+Command for Transformation.
+
+
+through the Police, the other emergency
+services, HM Customs and Excise, port
+authorities and local authorities. Some of
+our military forces are routinely employed
+to meet specific military responsibilities –
+such as Air Defence – others support the
+civil authorities, when requested to do so,
+in preventing or managing the aftermath
+of a crisis at home. The military tasks to
+which the Ministry of Defence allocates
+specific forces are:
+
+- Air operations to protect UK airspace
+
+through radar surveillance and
+Quick Reaction Alert fighter aircraft
+– numbers of the latter were doubled
+after the New Chapter, and will be
+kept at levels commensurate with the
+threat;
+
+- Maritime and air operations to deal
+
+with threats from renegade shipping
+– additional investment has been
+provided since the New Chapter to
+reduce response times of helicopterborne response forces;
+
+- Explosive ordnance disposal, including
+
+of potential WMD;
+
+- Specialised counter-terrorist
+
+operations, including hostage release;
+
+- Operations in Northern Ireland.  The
+
+Armed Forces will continue to support
+the Police Service for Northern
+Ireland’s (PSNI) public order and
+counter-terrorist operations for as
+long as they are needed. We will
+reduce the level of forces committed
+to this task as soon as the improving
+security situation and the capability
+and confidence of the PSNI allows.
+Ultimately, our aim is to achieve
+a situation where an element of
+our deployable force structure is
+permanently based in Northern Ireland,
+just as throughout the rest of the UK.
+
+3.9 The New Chapter committed us
+
+to improvements in liaising with the civil
+authorities and emergency services
+and gave a new role to the Volunteer
+Reserves – the Civil Contingencies
+Reaction Force (CCRF). The 14 CCRFs
+are a way of organising the Volunteer
+Reserves to exploit their individual and
+collective strengths based on existing
+Territorial Army infantry battalions. We
+have established new posts to administer
+the CCRF role and their training
+programmes – an additional two training
+days for all Volunteer Reserves for
+tasks assisting the civil authority and an
+additional five for all CCRF volunteers.
+
+
+3.4  To meet the challenges of the
+future, in particular the threats posed
+by international terrorism and the
+proliferation of WMD, and maintain
+a qualitative edge over potential
+adversaries, we will need to continue to
+modernise our forces to concentrate on
+the characteristics of speed, precision,
+agility, deployability, reach and
+sustainability. Key to this process will
+be our ability to derive the full benefit
+of advancing technology, particularly in
+the collection, management and use of
+information through NEC and increasing
+the deployability, sustainability and
+protection of our forces.  We will
+continue to develop effects-based
+operations and planning, maximising the
+combined contributions of our available
+capabilities to achieving decisive military
+effect (effects are dealt with in more
+detail in Chapter 4 and Supporting
+Essay 2). The Ministry of Defence
+will work with other government
+departments, particularly the Foreign
+and Commonwealth Office (FCO)
+and the Department for International
+Development (DFID) to ensure that
+military effects-based planning
+complements wider strategic planning
+and the cross-government effort on
+crisis prevention and management.
+
+3.5 The most demanding expeditionary
+
+operations, involving intervention against
+state adversaries, can only plausibly be
+conducted if US forces are engaged,
+either leading a coalition or in NATO.
+Where the UK chooses to be engaged,
+we will wish to be able to influence
+political and military decision making
+throughout the crisis, including during
+the post-conflict period. The significant
+military contribution the UK is able to
+make to such operations means that we
+secure an effective place in the political
+and military decision-making processes.
+To exploit this effectively, our Armed
+Forces will need to be interoperable with
+US command and control structures,
+match the US operational tempo and
+
+
+3.6 We must ensure that we continue
+to play a leading part in the development
+of NATO and EU (through ESDP)
+capabilities better configured to conduct
+expeditionary operations outside Europe.
+Our Armed Forces will continue to be
+prepared and equipped to lead and
+act as the framework nation for ESDP
+or similar ad hoc coalitions’ operations
+where the US is not participating.
+
+3.7 As well as contingent operations
+
+overseas, routine deployments, combined
+with our participation in international
+exercises, do much to promote stability
+and enhance international engagement.
+We will also continue to conduct a broad
+range of non-operational international
+activities designed to stabilise and
+strengthen the global security climate
+by preventing conflict and countering
+international terrorism. As part of the
+wider government effort, Defence
+Relations activities will address the
+causes of conflict by building regional
+confidence, reducing tensions and
+deepening understanding and trust on all
+sides, through a variety of arms control,
+counter proliferation, security sector
+reform and defence education initiatives.
+Defence Relations efforts will help to
+combat the symptoms of conflict by
+enhancing regional conflict prevention,
+peacekeeping and counter-terrorist
+capacities through the provision of training
+and equipment. And when there is the
+need for the UK to operate overseas to
+counter threats or contain crises, we will
+call upon our defence relationships to help
+secure operational access, interoperability
+and local political and military support.
+(The comprehensive strategy that has
+been devised to better focus and prioritise
+our Defence Relations activities and
+resources is described in Supporting
+Essay 4.)
+
+**Home Capability**
+
+3.8 The safety and security of the
+
+population of the UK is the responsibility
+of the Home Office and similar bodies
+and devolved Administrations, delivered
+
+
+-----
+
+**CCRF**
+
+The concept was first set out in a
+discussion paper in June 2002, with
+final decisions announced in October
+2002. It was welcomed by the
+emergency services, local authorities,
+the public and the Volunteer Reserves
+themselves. The CCRFs will provide
+a pool of approximately 500 trained
+volunteers drawn from all three Services
+in each region to provide, on request,
+assistance to the local authorities
+and emergency services whether the
+problem arose from terrorist attack,
+accident, or natural disaster.
+
+An Initial Operating Capability was
+declared on 31 December 2002 with
+the plan to achieve Full Operating
+Capability by 31 December 2003.
+The process of recruiting and training
+to achieve this goal is well underway.
+At the end of September, some 5,230
+Volunteer Reserves had signed up
+for the CCRFs. This represents
+75% of planned strength, although
+the geographical distribution is at
+present still uneven.
+
+CCRF training has focused on the
+likely roles that individuals and units
+are likely to undertake in assisting the
+emergency services, such as access
+control. Volunteers receive training to
+familiarise them with their mobilisation
+process as well as the organisation and
+procedures used by the emergency
+services. The command and control of
+CCRFs has been explored through the
+participation of Regional Headquarters
+in contingency planning exercises
+with the civil authorities. Within each
+region, a series of practical exercises
+that include call-out, mobilisation
+and deployment is now taking
+place to demonstrate that CCRFs
+have achieved their Full Operating
+Capability.
+
+
+3.10 In liaising with the civil authorities,
+we learned from the foot and mouth
+crisis – reinforced by the New Chapter
+process – that we needed to provide
+a single point of contact for local and
+regional authorities and agencies, with
+the capacity to support round-the-clock
+operations in the UK when necessary.
+We announced in the New Chapter that
+this was to be achieved through Joint
+Regional Liaison Officers (JRLO) with
+additional Volunteer Reserve personnel
+available to augment headquarters
+as needed. This allows the MOD to
+participate fully in contingency planning
+by local authorities and government
+regional offices. Advance planning
+makes responses quicker, more reliable
+and more effective. Most of these 300
+people have been appointed.
+
+**The Strategic Deterrent & Missile**
+**Defence**
+
+3.11 The Government’s policy on
+nuclear weapons remains as set out in
+the SDR. We are committed to working
+towards a safer world in which there
+is no requirement for nuclear weapons
+and continue to play a full role in
+international efforts to strengthen arms
+control and prevent the proliferation
+of chemical, biological and nuclear
+weapons. However, the continuing
+risk from the proliferation of nuclear
+weapons, and the certainty that a
+number of other countries will retain
+substantial nuclear arsenals, mean
+that our minimum nuclear deterrent
+capability, currently represented by
+Trident, is likely to remain a necessary
+element of our security. The SDR noted
+the need to ensure that Trident could
+remain an effective deterrent for up to
+30 years, and the New Chapter noted
+the continuing role of nuclear weapons
+as the ultimate guarantor of the UK’s
+national security. Decisions on whether
+to replace Trident are not needed this
+Parliament but are likely to be required in
+the next one. We will therefore continue
+to take appropriate steps to ensure that
+the range of options for maintaining a
+nuclear deterrent capability is kept open
+until that decision point.
+
+
+3.12 Missile defence technology is
+a growing area of interest following
+the ending of the Anti Ballistic Missile
+Treaty. Although the technologies are
+developing rapidly, missile interceptors
+and other means of destroying missiles
+will only be able to deal with a limited
+ballistic missile threat. They are not a
+substitute for nuclear or other forms of
+deterrence. However, the addition of
+active missile defences may complicate
+the thinking of an adversary. We
+have agreed with the US to allow the
+Fylingdales radar to be used for this
+role, but will continue to examine, with
+our NATO Allies, the complex web of
+strategic issues to inform future political
+and policy decisions. Active missile
+defences could provide an option for
+meeting the threat from WMD and
+its means of delivery. But we will
+need to consider the right balance
+of investment between it, forces for
+nuclear deterrence, and other deterrent,
+defensive and preventive strategies.
+
+3.13 The UK continues to monitor
+developments in the potential ballistic
+missile threat to deployed forces.
+In parallel, studies looking across
+the four pillars of Theatre Ballistic
+Missile Defence (TBMD) – Deterrence,
+Counterforce, Active Defence and
+Passive Defence – have scoped the
+extent of the capability gap in this area
+and identified potential solutions. The
+UK also retains a strong interest in
+international fora considering how the
+capability may be met by an alliance. Of
+particular interest has been the NATO
+feasibility study that has examined an
+Active Layered Ballistic Missile Defence
+capability. The report from this study
+is in production, and we will assess its
+implications once it is available.
+
+**Implications for Military Tasks**
+
+3.14 Based on this analysis and our
+experience from recent operations, we
+conclude that the UK’s future military
+capability must be configured to meet a
+diverse range of contingent operations.
+These are reflected in a rationalised
+and updated set of 18 Military Tasks
+(which are dealt with fully in Supporting
+Essay 2 and include the Standing Home
+and Overseas Tasks) that provide the
+baseline against which we develop
+our force structures and capability
+requirements for the future. At home,
+UK forces must also be prepared to
+support the UK civil authorities in
+deterring, countering and responding to
+the aftermath of a terrorist attack.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+# Chapter 4
+
+#### Armed Forces Capabilities
+
+
+4.1 Over the past five years our
+
+Armed Forces have consistently
+and successfully met the extensive
+operational demands placed on them,
+clearly demonstrating that the capabilities
+and force structure put in place by the
+SDR put the Armed Forces on the right
+path. If, however, we are to meet future
+security challenges and exploit to the
+full the opportunities provided by new
+technologies, continuing, sometimes
+radical, changes will be required.
+
+**Delivering Strategic Effect**
+
+4.2 The level of concurrent and
+
+sequential crises, and the sheer range
+of military tasks that the UK is likely to
+have to meet, place extensive and varied
+demands on our Armed Forces. Even
+within individual operations they will often
+be faced with several tasks at once.
+This was recently the case in Iraq where
+our forces simultaneously conducted
+high intensity combat, stabilisation, and
+humanitarian assistance operations.
+Such complexity demands highly
+adaptive forces that must be able
+routinely and rapidly to meet the most
+likely (and frequently occurring) smalland medium-sized operations, whilst also
+being able to generate appropriate forces
+for the less frequent, but larger, more
+demanding and deliberate commitments.
+
+
+4.3 The SDR New Chapter helped
+
+to create a conceptual framework for
+an effects-based approach to force
+planning. Further study has confirmed
+that this approach can be applied
+beyond a response to international
+terrorism, across the breadth of military
+capability. Since the end of the Cold
+War our force planning has been
+increasingly more capability-based
+than threat-driven – reflected in the
+steadily increased flexibility of our
+forces. We now focus on operational
+outcomes in the form of eight strategic
+military effects – Prevent, Stabilise,
+Contain, Deter, Coerce, Disrupt, Defeat,
+and Destroy – which we want to be
+able to deliver (these are set out in
+full in Supporting Essay 2) and the
+joint capabilities required to achieve
+them. While the concept is still at
+a relatively early stage, we are now
+describing our Military Tasks in more
+generic terms using the language
+of effects. This supports a future
+force development process focussed
+on capability - able to contribute to
+delivering a range of effects - rather
+than like-for-like platform replacements.
+As technology and concepts develop,
+the joint capabilities needed to deliver
+these effects will change. This force
+development approach will ensure that
+our force structures offer the greatest
+utility across all contingent military
+tasks, as well as meeting our routine
+standing commitments. Conventional
+calculations of military power in terms
+of numbers of escort vessels, tanks and
+fighter aircraft are not yet irrelevant, but
+they are certainly much less useful.
+
+
+4.4 Effects-Based Operations is
+
+a new phrase, but it describes an
+approach to the use of force that is
+well established – that military force
+exists to serve political or strategic
+ends. We need a new way of thinking
+about this that is more relevant to
+today’s strategic environment. Strategic
+effects are designed to deliver the
+military contribution to a wider crossgovernmental strategy and are focused
+on desired outcomes. Our conventional
+military superiority now allows us more
+choice in how we deliver the effect we
+wish to achieve. We have begun to
+develop our military capabilities so that
+we can provide as wide as possible
+a range of options to fulfil operational
+objectives without necessarily resorting
+to traditional attritional warfare. Some
+effects can also be delivered entirely
+outside the context of active operations,
+for example through Defence Diplomacy
+activities as part of long-term conflict
+prevention.
+
+4.5 In order to deliver a wide range of
+
+effects, we need to be able to deploy
+and configure forces rapidly and have
+the capability for rapid decision making,
+accompanied by the precise delivery
+of force. These characteristics need to
+be underpinned by an improved ability
+to exploit information that can then be
+translated into synchronised responses
+to achieve decisive military effect. The
+ability to detect the emergence of
+threats, to understand their nature, and
+our adversaries’ motivations, intentions
+and capabilities allows us to target their
+weaknesses and better identify our own
+vulnerabilities.
+
+
+-----
+
+4.6 Our opponents may now
+
+increasingly resort to unconventional
+means as a way of circumventing the
+conventional military superiority of
+Western forces. Achieving a significant
+information advantage over our
+opponents will better prepare us to
+face such asymmetric threats and plan
+appropriate responses. And EffectsBased Operations demand that we
+exploit to the full our own capabilities to
+act asymmetrically.
+
+4.7 NEC is crucial to the rapid delivery
+
+of military effect. The SDR New Chapter
+recognised NEC as being fundamental
+in countering terrorism abroad, with its
+ability to deliver precise and decisive
+military effects, with unparalleled
+speed and accuracy through linking
+sensors, decision-makers and weapons
+systems. Clearly, its applicability and
+utility is much broader than that and
+will involve the effective integration of
+military capability. When implemented,
+it will allow us to prosecute the full
+range of contingent operations with
+greater awareness, confidence and
+control. It relies on the ability to collect,
+fuse and analyse relevant information
+in near real-time so as to allow rapid
+decision making and the rapid delivery
+of the most appropriate military force to
+achieve the desired effect. In addition
+therefore to the provision of a digitised
+communications network itself, we
+must also ensure that the appropriate
+sensors are available to gather
+information and that our forces have
+the appropriate reach and deployability
+to achieve rapid effect. The ability
+to respond quickly and decisively to
+achieve maximum effect should also
+act as a force multiplier, allowing the
+same military effect to be achieved with
+less. NEC will improve communication
+and understanding of strategic and
+military intent throughout the chain of
+command. Through NEC the command
+structure will improve its responsiveness
+to events on the ground and have the
+flexibility to respond in near real-time
+to fleeting targets, even where higherlevel decision making is required prior to
+engagement.
+
+
+**Capability Implications**
+
+4.8 It is highly likely that the Armed
+
+Forces will, in future, be more frequently
+employed on peace support and
+counter-terrorist operations where the
+focus will be on conflict prevention and
+stabilisation, rather than the defeat of
+opposing forces.  But high intensity
+combat can occur across most of the
+spectrum of operations, and it is our
+success in such situations that will
+remain the benchmark against which to
+judge operational capability.
+
+4.9 Striking the right balance of
+
+capabilities to meet all eight strategic
+effects will not be easy. We will not
+be able to hold on to platforms or
+force elements that do not have the
+flexibility to meet the demands of future
+operations. In particular, it is now clear
+that we no longer need to retain a
+capability against the re-emergence of
+a direct conventional strategic threat to
+the United Kingdom or our allies. Priority
+must be given to meeting a wider range
+of expeditionary tasks, at greater range
+from the United Kingdom and with
+ever-increasing strategic, operational
+and tactical tempo. Demand in these
+circumstances falls most heavily on
+key enablers, such as logistics, and
+scarce high value assets. The new
+capability we plan to introduce will only
+be effective when employed by highly
+trained, professional forces. Alongside
+the investment in equipment and
+systems, we will also invest in training
+the people that operate them to develop
+the skills they will need to realise the
+potential benefits of the new technology.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+
+**People**
+
+Our ability to deliver an effective
+expeditionary capability will depend
+on our ability to sustain sufficient,
+trained and motivated Armed
+Forces personnel. Developing and
+sustaining our ‘personnel capability’
+– in parallel with our equipment and
+logistic capabilities – is essential
+to operational success. Ultimately,
+the delivery of effective operational
+capability relies on our ability to
+deploy sufficient numbers of Armed
+Forces personnel with the right skills
+and training, supported by civilian
+personnel.  We are developing a
+new Service Personnel Plan to better
+manage delivery in this critical area.
+
+Recent efforts to improve recruitment
+have delivered results but we are
+continuing to look for innovative ways
+to discuss the benefits of a Service
+career with young people. One
+recent initiative is the use of a mobile
+recruitment centre in the London area.
+
+On retention, we have an array of
+policy initiatives designed to sustain
+our people and their families. These
+range from policies designed
+to impact directly on front-line
+operational effectiveness, through
+to policies designed to adequately
+reward our personnel.  Financial
+Retention Incentives have also been
+employed to help overcome the
+shortages of certain specialisms
+within the Armed Forces. Beyond this
+there are policies designed to support
+our personnel away on operations
+such as the Operational Welfare
+Package (which we have extended
+to provide additional assistance for
+families) and policies for the family
+which seek to improve both choice
+for accommodation and the support
+we offer.
+
+
+The quality of the training and
+education we provide is vital for
+developing and getting the most
+out of our people - it underpins
+operational capability, improves
+retention and enhances personal
+development.  We are one of the
+largest training organisations in the
+UK, and to maximise the return on
+our investment, we conducted a
+Defence Training Review in 2001.
+Key initiatives include the creation
+of a single focus for training and
+education policy, the formation of
+the Defence Academy in 2002, and
+a Defence-wide e-Learning Delivery
+and Management Capability that
+will be introduced early in 2004 and
+enable greater access to e-learning
+facilities when and where required.
+The investment in our people has a
+wider payoff. Every year thousands
+of service personnel leave the Forces
+and take up jobs in the outside
+world, their skills, experience and
+accredited qualifications gained
+during service benefiting UK plc
+through their contribution to the
+economy and to society.
+
+We must also improve our ability to
+identify potential problems and to
+deliver the right solutions. The Joint
+Personnel Administration system
+will be essential in achieving this,
+revolutionising pay and personnel
+administration. In time it will provide
+a single source of authoritative and
+increasingly real time data for the
+personnel of all three Services, which
+we can use to develop future policy.
+
+The Supporting Essay on People
+(Essay 5) contains further details of
+the particular challenges we face
+and the specific policies we have
+developed in response.
+
+
+**Maritime**
+
+4.10 Our emphasis in the maritime
+environment is increasingly on
+delivering effect from the sea onto
+the land, which includes a land attack
+capability, supporting forces ashore
+and on securing access to the theatre
+of operations and protecting the crucial
+sea lines of communications from the
+home base. The new amphibious
+ships coming into service over the next
+two years, together with the existing
+small aircraft carriers and Tomahawk
+land attack missiles, offer a versatile
+capability for projecting land and air
+power ashore. We are developing the
+increased use of secure joint sea-based
+logistics, particularly for operations
+where Host Nation Support is limited or
+where, for force protection or political
+reasons, we would wish to reduce our
+ashore footprint.  The introduction of
+the two new aircraft carriers with the
+Joint Combat Aircraft early in the next
+decade will offer a step increase in our
+ability to project air power from the sea.
+The Type 45 destroyer will enhance
+protection of joint and maritime forces
+and assist force projection. Some of our
+older vessels contribute less well to the
+pattern of operations that we envisage,
+and reductions in their numbers will be
+necessary.
+
+**Land**
+
+4.11 Future land forces will be equipped
+and trained to deliver a decisive impact
+across the full spectrum of operations.
+An appropriate force package will
+be selected for each operation,
+drawing from a flexible and balanced
+land force structure. UK land forces
+currently consist of a mix of heavy
+and light capabilities. The former offer
+firepower, integral tactical mobility
+and protection necessary to carry out
+ground manoeuvre warfare but require
+a considerable effort to deploy and
+support on operations. Light forces in
+contrast can deploy rapidly anywhere
+in the world but lack much of the
+firepower, mobility and protection to
+conduct decisive operations against
+an enemy equipped with armour and
+mechanised forces. To increase our
+flexibility in responding to crises, a
+new set of medium weight forces will
+be developed, offering a high level of
+deployability (including by air), together
+with much greater levels of mobility and
+protection than are currently available to
+light forces.
+
+
+-----
+
+4.12 Medium weight forces will not,
+however, remove the requirement
+for heavier armoured forces, the
+attributes and advantages of which
+were demonstrated in the conflict in
+Iraq. Heavy forces will continue to be
+held for operations where the greater
+protection and combat power offered
+by Challenger 2, Warrior and AS 90 is
+required. Moving to a more graduated
+and balanced structure of light, medium
+and heavy forces will over time lead to
+a reduced requirement for main battle
+tanks, other heavy armoured fighting
+vehicles and heavy artillery, offset by
+a new requirement for medium-weight
+forces based on the Future Rapid
+Effects System family of vehicles. We
+judge that we can reduce the size of
+our armoured forces now. We intend to
+create a new light brigade and reduce
+the number of armoured brigades from
+three to two. This new brigade will
+both enhance our existing intervention
+capability and enable the Army to meet
+more easily the roulement demands
+posed by enduring peace support tasks
+through the availability of an additional
+pool of combat forces as well as key
+logistics and other specialist enablers.
+Plans for future Army forces structures
+are still evolving – further details will be
+announced in 2004.
+
+4.13 The forthcoming introduction of
+the Apache attack helicopter represents
+a step change in capability compared
+to current in-service helicopters. Attack
+helicopters will be in high demand to
+support the full range of contingent
+tasks, not just Large Scale operations.
+We are therefore reviewing how best
+to integrate the capability into an Army
+force structure optimised for Medium
+and Small Scale operations.
+
+
+**Air**
+
+4.14 We want to be able to project air
+power from both the land and the sea,
+offering capabilities across the range of
+air operations, but with a clear emphasis
+on offensive effect.  Storm Shadow
+missiles will provide an air launched long
+range stand-off precision strike capability,
+while the increasing availability of ‘smart’
+bombs such as Paveway IV ensure high
+degrees of accuracy in our offensive
+operations. Additionally, Typhoon and
+the addition of the Joint Combat Aircraft,
+will offer much greater flexibility and
+balance in the air component of the
+future, reducing the need for singlerole fast jets. Multi-role capability will
+also allow deployed force packages to
+be smaller where coverage of multiple
+roles have previously required additional
+aircraft. We are now considering how
+and when we should reduce the numbers
+of combat aircraft in order to reflect these
+developments
+
+**Strategic Enablers and Logistics**
+
+4.15 The increased frequency and
+duration of operations has emphasised
+the need to plan carefully and utilise
+our logistic enablers to best effect. This
+has led us to consider logistics as a
+component of capability in its own right.
+Recent deployments have reinforced the
+importance of visibility of assets, and
+better understanding of the relationship
+between lead times and stockpiles, in
+order to improve the synergy between
+our stock-holding requirement and
+‘smart’ contracts with industry (either
+to stockpile for us, or to manufacture
+quickly as and when required). This in
+turn will enable us to reduce logistic risks
+in our planning for future operations.
+
+4.16 We will also strive to minimise
+logistic demand by improving the
+inherent reliability and ease of
+maintenance of equipment, and
+the effectiveness and efficiency of
+
+
+engineering and asset management
+processes. This will be optimised
+within the logistic elements of the NEC
+framework.
+
+4.17 The requirement to plan to support
+three concurrent operations, one of
+which is an enduring peace support
+operation, requires rebalancing and
+further investment in a range of strategic
+enablers and logistics. We will seek to
+reorganise logistic enablers to maximise
+their utility on expeditionary operations,
+seeking to project a smaller, lighter and
+more rapidly deployable initial presence,
+while alleviating the demands placed on
+specialist personnel.
+
+4.18 Such rapid deployment of land
+and air combat power is dependent on
+having sufficient sea and air transport
+with the capacity to lift over-size loads.
+The core of this capability will continue to
+centre on the C-130 fleet, and the A400M
+when the latter replaces older C-130s
+from 2011.  We have already announced
+that we are considering the options for
+retaining a small force of C-17s after
+A400M enters service, in order to carry
+the largest air deployable items.  We now
+also have our fleet of six Roll-on/Roll-off
+vessels that proved their worth in moving
+our forces to the Gulf. They are crucial
+to achieving a rapid build up for Medium
+Scale operations. Entering service next
+year will be the first of four new Landing
+Ships Dock (Auxiliary) which will replace
+the older Landing Ships Logistic – each
+new ship will be capable of deploying
+twice the quantity of vehicles and stores
+of their predecessors. We also have
+plans to procure new ships under the
+Military Afloat Reach and Sustainability
+programme, which, when in service, will
+deliver afloat support to deployed forces.
+For larger, more deliberate operations,
+we will continue to need to charter both
+air and sea lift to augment this core
+capability.
+
+4.19 Increased protection for our Armed
+Forces on operations is an area of
+continued importance and an important
+strategic enabler. In particular, we will
+continue to work hard at improving
+combat identification so as further to
+reduce the potential for ‘friendly-fire’
+incidents. In the face of continuing
+proliferation of WMD, we must maintain
+the capability of the Armed Forces to
+operate when faced with the threat or
+use of Chemical, Biological, Radiological
+and Nuclear (CBRN) weapons, by
+developing enhanced detection
+systems, physical protection, vaccines
+and other medical countermeasures.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+
+**C4ISR**
+
+4.20 Command, Control,
+Communications, Computers,
+Intelligence, Surveillance and
+Reconnaissance (C4ISR) is the term we
+use to describe the enabling activities
+that provide knowledge at all levels
+of operations so that our response
+to contingencies can be planned,
+organised and executed effectively.
+This includes an understanding of the
+threat, the environment (political, social
+and physical) and our own capabilities.
+Effective C4ISR has the ability to gather,
+analyse and distribute such information
+to manage efficiently all aspects of
+operations and lies at the heart of NEC.
+Our aim is to be sufficiently proficient
+at C4ISR to operate at a tempo that
+will outpace and dominate potential
+adversaries, including when we face
+an asymmetric threat. We also need
+to be able to operate alongside our
+most technically advanced allies and in
+coalitions of the willing.
+
+4.21 We are investing heavily in
+digitised communications systems
+to provide the heart of the ‘network’.
+Both BOWMAN, at the tactical level,
+and FALCON, at the operational
+level, represent major enhancements
+to our C4ISR capability.  Specialist
+communications personnel represent
+a particular manpower ‘pinch point’
+and we are reorganising and enhancing
+this area so as to provide a more
+robust deployable capability able to
+support a larger number of deployed
+headquarters.
+
+4.22 The MOD has already placed
+considerable investment in developing
+stand-off sensors, such as Unmanned
+Air Vehicles (eg WATCHKEEPER) and
+improved electronic warfare capabilities
+(eg SOOTHSAYER).  The ASTOR
+airborne battlefield surveillance system
+will meet the Army and RAF requirement
+for surveillance, reconnaissance and
+target acquisition information. It will
+also provide the UK’s contribution
+to the Alliance Ground Surveillance
+project. Exploiting these systems to
+the full also requires us to enhance
+the fusion, analysis and accessibility
+of data collected so as to improve
+responsiveness and provide better
+support to deployed commanders.
+Improved stand-off sensors do not,
+however, remove the requirement for
+timely and accurate human intelligence
+(HUMINT), particularly in the field at the
+operational and tactical levels.
+
+
+-----
+
+**Joint Rapid Reaction Force and**
+**Readiness**
+
+4.23 Operational experience since 1998
+has confirmed the central importance
+of the SDR concept of graduated
+readiness. The Joint Rapid Reaction
+Force (JRRF) will continue to provide
+the pool of high readiness forces for
+rapid commitment to operations, at
+up to Medium Scale. We are currently
+assessing what changes need to be
+made to the forces assigned to the
+JRRF to reflect the increased frequency
+of Small and Medium Scale operations.
+We are also looking carefully, in light of
+lessons identified from operations in
+Iraq, at how we can improve the ability
+of our forces to prepare in advance of
+a commitment to specific operational
+deployments. One key step already
+identified is to seek to organise our
+land forces in particular with robust,
+deployable establishments so as to
+minimise the requirement for units
+and formations to be reinforced with
+additional personnel on deployment.
+
+**Harmony**
+
+4.24 The recent level of commitments
+faced by all three Services has imposed
+demands on some of our people and
+assets that are not sustainable on a
+routine basis. This at least in part is
+because a number of critical ‘pinch
+point’ enabling capabilities, including
+certain logistic support, medical,
+engineer and other specialists, are
+not appropriately structured to meet
+the demands of multiple concurrent
+operations. A key element of our force
+rebalancing will, therefore, be to ensure
+that resources are reallocated to those
+capabilities currently over-employed
+on operations. In the Army we will
+rebalance key support elements towards
+the brigade from the divisional level.
+Other more specialist single service and
+joint capabilities will continue to be held
+at a higher level, but with sufficiently
+robust establishments to meet the
+harmony guidelines established to avoid
+excessive burdens being placed on
+individuals.
+
+
+**Reserves**
+
+4.25 Our Reserve Forces have evolved
+since SDR to become an integral part
+of the UK’s military capability for all
+types of operation. They have played
+a key role in recent operations (to
+date, over 7,500 Reservists have been
+mobilised for operations in Iraq) and the
+demand for their support seems likely
+to continue. We will continue to use
+the Reserves, not only for Large Scale
+operations but also to reinforce some
+specialist capabilities such as medical
+and logistic support to smaller scale
+deployments. This will require evercloser integration between the regular
+and reserve elements of the Services
+and a commitment to improve the
+relationship between the Services, the
+Reservists themselves, their families and
+their employers. Our Reserves policy is
+explored in greater detail in Supporting
+Essay 3.
+
+**Concepts and Doctrine**
+
+4.26 Concepts and Doctrine are the
+processes through which we develop
+our requirements for future military
+capability to meet our required effects
+and establish how we will subsequently
+apply military capability to achieve
+those effects. The Joint Doctrine and
+Concepts Centre (JDCC), established
+as a result of the SDR, working with
+the single Services and the Permanent
+Joint Headquarters, continues to have
+an important role in explaining and
+developing operational concepts in
+response to an uncertain and complex
+security environment and in developing
+doctrine on peace support operations.
+The JDCC is also finalising a new, high
+level operational concept that integrates
+the flow of operational information
+in order to generate fast and robust
+decision making and enable the Armed
+Forces to operate at a much higher
+tempo than a potential adversary,
+thereby improving our ability to respond
+to modern crises.
+
+
+**Collective Training**
+
+4.27 Robust and effective collective
+military training is critical to the
+generation of capable forces and the
+need for more rapid response times will
+require both joint and combined (i.e.
+with allies) training to be undertaken
+on a regular basis before specific
+operations have been identified.  It will
+continue to be underpinned by a number
+of fundamentals, including singleService ethos and fighting spirit, and
+effective lower-tier training activity in
+the maritime, land and air environments.
+However, the focus will be on joint,
+combined and fully integrated training
+for operations that cross all components
+of capability. To meet these demands
+we must continue to exercise at the
+operational level, as was so effectively
+demonstrated in 2001 on Exercise SAIF
+SAREEA.  Additionally, our more routine
+tactical exercises will build in a greater
+degree of joint training to ensure that we
+can meet the full range of short notice
+Small and Medium Scale commitments.
+In the future this will include novel ways
+of using a network of live and virtual
+training environments.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+# Chapter 5
+
+#### Supporting Capability
+
+
+5.1 Our success will be judged by
+
+the operational performance of our
+Armed Forces and the Department’s
+aim is therefore to maximise military
+capability as effectively as we can. This
+requirement impacts on all areas of the
+Department, from combat units through
+to supporting organisations and the
+processes we use. Our continuing focus
+is to ensure we have the structures and
+process to develop, deploy, sustain and
+operate the military capability required
+to conduct expeditionary operations and
+to achieve the range of strategic effects.
+This focus, encapsulated in the Defence
+Vision (set out at Annex), combined with
+our desire to adopt the most efficient
+and effective way of conducting our
+business, brings significant operational
+benefit and value for money for the
+taxpayer.
+
+
+**Defence Management**
+
+5.2 To generate and sustain military
+
+forces, we have to combine the
+components – such as people, training,
+equipment, logistics support – which
+together produce military capability. This
+task of ‘joining up’ is the key one facing all
+managers in defence. In order to achieve
+it, we apply a number of tools across the
+business of defence. These include:
+
+- Clear objective setting through, for
+
+example, the introduction of Service
+Delivery Agreements;
+
+- Identifying cost drivers by thorough
+
+analysis of business processes;
+
+- Risk planning through the
+
+establishment of risk registers and by
+fostering a culture that manages risk
+rather than being risk averse;
+
+- Performance improvement through
+
+the Defence Change Programme;
+
+- Performance management through
+
+the Defence Balanced Scorecard.
+
+5.3 Effective management needs to be
+
+applied across the business of Defence
+in order to achieve enhanced military
+capability. Smart Acquisition engages
+this, from customer to end user, by
+aiming to acquire and sustain assets
+and services more effectively at lower
+risk and with reduced through life costs.
+The effectiveness and efficiency of
+logistics processes is being addressed
+by the Defence Logistics Organisation
+(DLO) which combines the singleService elements. The End to End
+Review of Logistic Processes in the air
+and land environments (see Supporting
+Essay 6), which recently reported its
+findings, examined logistic support
+processes throughout Defence to find
+ways of improving their effectiveness
+and efficiency.
+
+
+5.4 The need for effective
+management applies equally in the
+areas of infrastructure and people.
+Across the Defence Estate, the
+Core Site Rationalisation Initiative
+is starting to provide more coherent
+estate management. Rationalisation
+programmes are also underway
+across defence training and education
+based on the findings of the Defence
+Training Review, and in the provision
+of medical support (the Defence
+Health Programme). Supporting Essay
+6 covers our approach to Defence
+Management in greater depth.
+
+
+**Lyons Review**
+
+The Lyons Review is a crossgovernment initiative to look at public
+sector relocation from the South
+East, where it is concentrated, to the
+other regions. In recent years the
+Department has already relocated a
+significant amount of defence activity
+from London and the South East,
+notably to the South West. Through
+our corporate management of the
+Estate around key core sites we aim
+to create a Defence Estate of the
+right size, shape and location. The
+implementation of this Core Sites
+Strategy has informed our active
+engagement in the Lyons Review, the
+principles of which continue to inform
+our estate strategy.
+
+
+-----
+
+**Head Office**
+
+5.5 Working closely with Other
+
+Government Departments to formulate
+policy and strategy, and as the directing
+military headquarters during crisis
+management and operations, the MOD
+Head Office needs to be increasingly
+responsive and flexible. Internal
+reorganisation and the redevelopment
+of the MOD Main Building as part of
+the Head Office Modern Environment
+(HOME) programme will bring about
+an important step change in the
+ways in which we conduct business
+with improved ways of working and
+increased connectivity. It will allow
+the headquarters activities to be
+concentrated in two Whitehall sites,
+with one further building in central
+London, as part of the overall reduction
+in Head Office staff in central London
+from over 12,500 in 1990 to less than
+5,200 by the time the redevelopment
+project completes in 2004. Five London
+buildings will be released as a result
+(bringing the number of buildings the
+MOD occupies down from more than
+20 in 1990 to just 3). We will continue
+to work with both the Efficiency Review
+and the Lyons Review to deliver further
+reductions in both the size of the estate
+and numbers of personnel. This process
+will be enhanced through the Defence
+Information Infrastructure programme,
+which will replace 300 diverse information
+systems worldwide, providing greatly
+increased interoperability and the basis
+for progress towards the implementation
+of e-Government, as well as substantial
+savings.
+
+
+**Equipment and Technology**
+
+5.6 Future military capability is
+
+dependent upon the equipment our
+forces operate, and the technology
+that underpins this. At the heart of
+the equipment programme will be the
+development of our NEC. This will
+involve both bringing together previously
+unconnected capabilities and ensuring
+that new systems and platforms are
+‘network ready’. Throughout we will
+continue to seek the right balance
+between quality and quantity in the
+equipment we buy. Our equipment must:
+
+- Be inherently deployable and
+
+logistically frugal to reduce the logistic
+burden on our deployed forces;
+
+- Provide greater protection, including
+
+combat identification, across our
+capabilities and, most importantly,
+when working with coalition forces;
+
+- Place the lowest practical demands
+
+on our manpower with improved
+ergonomics and more effective,
+integral training systems;
+
+- Be able to survive and remain useable
+
+when faced with the threat of CBRN
+weapons;
+
+- Be readily adaptable to allow
+
+capabilities to be modified to deal with
+new threats or undertake new tasks,
+and to capitalise on the opportunities
+offered by new technologies.
+
+5.7 The increased use of
+
+experimentation through the prototyping
+of live systems and the use of synthetic
+environments will ensure that equipment
+is network ready, fit for purpose and
+used to best effect.
+
+5.8 Continued investment in science
+
+and technology will remain critical if
+we are to develop and sustain effective
+capabilities in the face of new and
+emerging threats. Through its new
+output driven strategy, the Defence
+Science and Technology Board will
+ensure that we get the right investment
+balance between sustaining inhouse expertise and developing new
+technology in our supplier base.
+
+
+5.9 We are also strengthening the UK
+
+defence technology base by expanding
+our research supplier base and also
+by developing new partnerships with
+industry and the academic sector.
+Following the successful completion
+of the sale of a controlling stake in
+QinetiQ to the Carlyle Group, we are
+progressively introducing competition
+in the defence research programme.
+By 2007, some 70% of the programme
+previously sourced only through QinetiQ
+will be placed through competition,
+delivering improved value for money and
+enabling a far wider supplier network
+to bid into the programme. Through
+initiatives such as Defence Technology
+Centres and Towers of Excellence, we
+have developed new relations with our
+key industrial suppliers, small- and
+medium-sized companies and many
+Universities. These will help ensure
+we are able to generate the right
+technologies in the supplier base at the
+right time to meet our future capability
+requirements. Our research focus and
+partnership strategies are examined
+further in Supporting Essay 7.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+
+**People**
+
+5.10 We need personnel policies that
+cover all stages of a service person’s
+career, from thinking about joining to
+leaving the Forces afterwards. The
+Services develop their people throughout
+their careers in order to meet the range
+of tasks required to generate military
+capability. A series of new initiatives
+is in hand, including a new strategy
+for Defence Housing; tri-Service
+disciplinary arrangements; new pension
+and compensation arrangements;
+modernised Joint Personnel
+Administration and rationalised delivery
+of individual training. The Veterans
+Initiative joins central Government and
+the voluntary sector in a cross-cutting
+programme designed both to celebrate
+and make the most of the skills and
+achievements of our service men and
+women while ensuring that the more
+vulnerable are supported.  People results
+this year have been positive – with an
+increase in the size of the Forces and a
+reduction in under-manning. But we will
+need to continue to invest in targeted
+and effective measures if we are to
+sustain this improvement. Looking
+more widely, we will continue to explore
+every opportunity to work in a more
+joint fashion (between the Services and
+with the Civilian Personnel structures),
+ensuring that the Services, Head Office
+and supporting organisations work ever
+more closely together, and by driving
+forward the key change programmes.
+
+5.11 The modern Civil Service requires
+a motivated workforce with the right
+skills and flexibility to support Ministers
+and the Armed Forces now and into
+the future. Our new civilian Human
+Resources Strategy addresses the
+priority issues of better planning,
+performance, development, and
+improved people management to deliver
+this objective.
+
+
+**Youth and Community Projects**
+
+Defence makes some important
+contributions to the civil community
+through its, often low, profile work
+in support of schools and young
+people, veterans, and life-long
+learning:
+
+The MOD sponsored Cadet Forces
+attract 130,000 young people from
+12 to 22. These bring adventure
+and enjoyment to young people with
+a view to steering them towards
+responsible citizenship. They also
+lead many cadets into full-time and
+reserve service with the Armed
+Forces.
+
+Skillforce is a national youth initiative
+that uses recently retired military
+instructors to provide Key Skill
+activities to 14-16 year olds who are
+in danger of becoming disaffected
+with the formal academic education
+system. 23 teams involve 2,500
+young people in almost 100 schools,
+with improved attendance rates
+(over 90%) and reduced exclusions
+(70%).
+
+Outreach is an Army Cadet
+Force programme for 12-14 year
+olds who are identified as either
+Crime Vulnerable or Socially
+Disadvantaged.
+
+The Veterans Task Force promotes
+the interests of Service Veterans
+through a range of crossgovernment initiatives. It aims to
+ensure that at least 80% of Service
+Leavers find work within six months
+of leaving the Armed Forces, and
+works in conjunction with the
+Homeless Directorate and the
+Social Exclusion Unit to assist the
+small percentage of veterans facing
+difficulty in adjusting to civilian life.
+
+
+-----
+
+# Chapter 6
+
+#### Conclusion
+
+
+6.1 Our Armed Forces will remain a
+
+crucial and important element of our
+national response to a diverse range of
+threats and crises that may impact on
+the UK and our global interests. The
+breadth of the tasks they will be required
+to undertake, from peacekeeping,
+humanitarian support and confidence
+building operations through to counterterrorist and large-scale combat
+operations, demand that our forces
+be flexible and responsive, multi-roled
+and able to reconfigure to achieve the
+desired outcome. In taking forward
+effects-based planning and operations,
+our focus will move away from simple
+calculations of platform numbers to
+developing network enabled capabilities
+designed to achieve a range of strategic
+effects. A new range of equipment
+and systems entering service over
+the coming years will greatly enhance
+capability and ensure that UK forces
+remain amongst the finest in the world.
+
+
+6.2 This broad range of operations
+
+will continue to be undertaken on a
+multinational basis in an equally broad
+alliance/coalition structure. UK forces
+can expect to conduct operations
+alongside and integrated with US,
+NATO, European, UN or other forces
+under various command arrangements,
+as well as purely national operations.
+While a major focus will be on furthering
+interoperability with US forces, we
+will need to continue to improve our
+capacity to operate with our European
+and other allies. Encouraging and
+supporting others to develop the skills
+necessary to engage in multinational
+operations is also an important strand of
+our policy.
+
+
+6.3 To achieve our mission within this
+
+challenging strategic environment will
+require flexibility across Defence, from
+our people, structures and equipment.
+We must adapt to stay ahead of
+potential adversaries and be prepared
+to make tough decisions to ensure that
+our forces and equipment deliver the
+required capabilities.  Force structures
+will need constantly to evolve as we
+seek to exploit new technologies,
+techniques and equipment to improve
+capability and respond to the changing
+strategic environment. Through this
+process of continuous improvement and
+adaptation, we will ensure our Armed
+Forces are ready and equipped to face
+successfully the challenges of the future
+and contribute to wider international
+security.
+
+
+developing network enabled capabilities our policy. successfully the challenges of the future
+designed to achieve a range of strategic and contribute to wider international
+effects. A new range of equipment security.
+and systems entering service over
+the coming years will greatly enhance
+capability and ensure that UK forces
+remain amongst the finest in the world.
+
+
+-----
+
+##### g y g g
+ Defence White Paper
+
+# Annex
+
+#### The Defence Vision
+
+
+**DEFENCE VISION**
+
+**Defending the United Kingdom and its**
+**interests.**
+
+**Strengthening international peace and**
+**security.**
+
+**A force for good in the world**
+
+We achieve this aim by working together
+on our core task to produce battlewinning forces:
+
+- fit for the challenge of today;
+
+- ready for the tasks of tomorrow;
+
+- capable of building for the future;
+
+We have shown we succeed in what we
+do. We must continue to adapt to a more
+uncertain world. We will be flexible and
+creative, harnessing new technologies and
+ideas to make best use of our resources.
+
+We will base our future direction on:
+
+**Providing strategy that matches new**
+**threats and instabilities**
+
+We face new challenges and
+unpredictable new conditions. Our
+strategy must evolve to reflect these new
+realities.
+
+For the future this means:
+
+- evolving strategy and military doctrine
+
+that is flexible and geared to changing
+conditions;
+
+- behaving with speed, flexibility and
+
+creativity as an organisation -–in the
+way we work and the way we respond
+to external events;
+
+- holding fast, in the face of change, to
+
+our underpinning military traditions and
+commitment to public service.
+
+
+**Maintaining flexible force structures**
+
+As our strategy evolves, we will develop
+force structures to maintain battlewinning capabilities that are relevant and
+effective against emerging threats.
+
+For the future this means:
+
+- greater focus on capability rather than
+
+delivery platforms;
+
+- developing pace of deployment and
+
+impact;
+
+- increasing precision of effect;
+
+- flexibility and agility in terms of
+
+platforms and equipment;
+
+- the highest standards of
+
+professionalism among men and
+women imbued with fighting spirit, well
+trained and properly equipped.
+
+**Reaching out into the wider world**
+
+We are major contributors to the
+business of government and to society
+as a whole. We will increasingly
+recognise and manage our contribution
+
+For the future this means:
+
+- working closely with other
+
+Departments, with the private and
+voluntary sectors in the UK, and with
+our allies abroad, to integrate the
+military, diplomatic, economic and
+social components of crisis resolution;
+
+- strengthening our links with the
+
+Civil Departments to implement the
+government’s domestic agenda
+– making our contribution in the
+regions, and providing support in civil
+emergencies;
+
+- playing a key role as part of wider
+
+society, for example in our contribution
+
+
+to training and skills and to health;
+
+- helping the rest of government benefit
+
+from making wider use of our skills in
+project management and delivery;
+
+- working in closer partnership with
+
+the private sector to deliver value for
+money.
+
+**Leading a high-performing**
+**organisation**
+
+The many demands on the MOD,
+including its role as military headquarters,
+require us to be first class in the way
+we lead and manage the business of
+defence.
+
+For the future this means:
+
+- clear leadership at all levels, focussed
+
+on delivering the vision;
+
+- managers free to get on with tasks
+
+and held to account against clear
+objectives;
+
+- demonstrably effective management of
+
+our resources;
+
+- stripping out bureaucracy, with ways
+
+of working that are simple and ‘fit
+for purpose’ and using common
+standards wherever possible;
+
+- working flexibly, with project and task
+based teams.
+
+**Investing in our people**
+
+We are world leaders in many aspects
+of how we manage and develop our
+people. We will build on this with strong
+leadership and focused investment.
+
+For the future this means:
+
+- providing strong unified leadership,
+
+service and civilian personnel working
+together;
+
+
+-----
+
+- benefiting from diversity by recruiting
+
+service and civilian personnel reflecting
+society as a whole and with the right
+skills for the task;
+
+- balancing rewarding successful
+
+performance with robust management
+of poor performance;
+
+- being a learning organisation, sharing
+
+knowledge, committed to developing
+our people.
+
+By holding true to these principles we will
+move forward together to maintain and
+enhance our capability.
+
+We draw on our commitment
+to public service and military
+traditions, acting as one
+organisation to achieve our
+shared purpose.
+
+
+-----
+
+##### Defence White Paper
+
+ SUPPORTING ESSAYS
+
+ 1. International
+ Organisations
+ 2. Military Tasks and
+ Scales of Effort
+ (Effects Based)
+ 3. Reserves 4. Defence Relations 5. People  6. Defence Management 7. Industrial Policy
+
+Printed in the UK for The Stationery Office Limited
+
+on behalf of the Controller of Her Majesty’s Stationery Office
+
+
+-----
+
+-----
+
+-----
+

@@ -1,0 +1,807 @@
+chunk_id,text,char_length,word_count,token_count,section_index,source_file,processed_date
+1,#,1,1,3,0,india_2005_AnnualReport.md,2025-01-28 18:55:52
+2,# # _ vigil at siachen _ - - - - -,34,12,17,1,india_2005_AnnualReport.md,2025-01-28 18:55:52
+3,# #,3,2,4,2,india_2005_AnnualReport.md,2025-01-28 18:55:52
+4,# # # # # - - - - -,19,10,12,3,india_2005_AnnualReport.md,2025-01-28 18:55:52
+5,# # # # #,9,5,7,4,india_2005_AnnualReport.md,2025-01-28 18:55:52
+6,# # # # #,9,5,7,5,india_2005_AnnualReport.md,2025-01-28 18:55:52
+7,# # # # #,9,5,7,6,india_2005_AnnualReport.md,2025-01-28 18:55:52
+8,# # # # #,9,5,7,7,india_2005_AnnualReport.md,2025-01-28 18:55:52
+9,# # # # #,9,5,7,8,india_2005_AnnualReport.md,2025-01-28 18:55:52
+10,# # # # # _ ins beas patrolling high seas _ - - - - -,53,17,20,9,india_2005_AnnualReport.md,2025-01-28 18:55:52
+11,# # # # #,9,5,7,10,india_2005_AnnualReport.md,2025-01-28 18:55:52
+12,# # # # #,9,5,7,11,india_2005_AnnualReport.md,2025-01-28 18:55:52
+13,# # # # #,9,5,7,12,india_2005_AnnualReport.md,2025-01-28 18:55:52
+14,# # # # #,9,5,7,13,india_2005_AnnualReport.md,2025-01-28 18:55:52
+15,# # # # #,9,5,7,14,india_2005_AnnualReport.md,2025-01-28 18:55:52
+16,# # # # #,9,5,7,15,india_2005_AnnualReport.md,2025-01-28 18:55:52
+17,# # # # # - - - - -,19,10,12,16,india_2005_AnnualReport.md,2025-01-28 18:55:52
+18,# # # # #,9,5,7,17,india_2005_AnnualReport.md,2025-01-28 18:55:52
+19,# # # # #,9,5,7,18,india_2005_AnnualReport.md,2025-01-28 18:55:52
+20,# # # # #,9,5,7,19,india_2005_AnnualReport.md,2025-01-28 18:55:52
+21,# # # # #,9,5,7,20,india_2005_AnnualReport.md,2025-01-28 18:55:52
+22,# # # # #,9,5,7,21,india_2005_AnnualReport.md,2025-01-28 18:55:52
+23,# # # # #,9,5,7,22,india_2005_AnnualReport.md,2025-01-28 18:55:52
+24,# # # # #,9,5,7,23,india_2005_AnnualReport.md,2025-01-28 18:55:52
+25,# # # # #,9,5,7,24,india_2005_AnnualReport.md,2025-01-28 18:55:52
+26,# # # # #,9,5,7,25,india_2005_AnnualReport.md,2025-01-28 18:55:52
+27,# # # # #,9,5,7,26,india_2005_AnnualReport.md,2025-01-28 18:55:52
+28,# # # # # _ ins aditya and ins mysore with uss chafee during joint exercise _ - - - - -,87,23,28,27,india_2005_AnnualReport.md,2025-01-28 18:55:52
+29,# # # # #,9,5,7,28,india_2005_AnnualReport.md,2025-01-28 18:55:52
+30,# # # # #,9,5,7,29,india_2005_AnnualReport.md,2025-01-28 18:55:52
+31,# # # # #,9,5,7,30,india_2005_AnnualReport.md,2025-01-28 18:55:52
+32,# # # # #,9,5,7,31,india_2005_AnnualReport.md,2025-01-28 18:55:52
+33,# # # # #,9,5,7,32,india_2005_AnnualReport.md,2025-01-28 18:55:52
+34,# # # # #,9,5,7,33,india_2005_AnnualReport.md,2025-01-28 18:55:52
+35,# # # # #,9,5,7,34,india_2005_AnnualReport.md,2025-01-28 18:55:52
+36,# # # # #,9,5,7,35,india_2005_AnnualReport.md,2025-01-28 18:55:52
+37,# # # # #,9,5,7,36,india_2005_AnnualReport.md,2025-01-28 18:55:52
+38,# # # # #,9,5,7,37,india_2005_AnnualReport.md,2025-01-28 18:55:52
+39,# # # # # - - - - - _ vigilant soldier at the international borders _ - - - - -,79,23,27,38,india_2005_AnnualReport.md,2025-01-28 18:55:52
+40,# # # # #,9,5,7,39,india_2005_AnnualReport.md,2025-01-28 18:55:52
+41,# # # # #,9,5,7,40,india_2005_AnnualReport.md,2025-01-28 18:55:52
+42,# # # # #,9,5,7,41,india_2005_AnnualReport.md,2025-01-28 18:55:52
+43,# # # # #,9,5,7,42,india_2005_AnnualReport.md,2025-01-28 18:55:52
+44,# # # # #,9,5,7,43,india_2005_AnnualReport.md,2025-01-28 18:55:52
+45,# # # # # - - - - -,19,10,12,44,india_2005_AnnualReport.md,2025-01-28 18:55:52
+46,# # # # #,9,5,7,45,india_2005_AnnualReport.md,2025-01-28 18:55:52
+47,# # # # #,9,5,7,46,india_2005_AnnualReport.md,2025-01-28 18:55:52
+48,# # # # #,9,5,7,47,india_2005_AnnualReport.md,2025-01-28 18:55:52
+49,# # # # #,9,5,7,48,india_2005_AnnualReport.md,2025-01-28 18:55:52
+50,# # # # #,9,5,7,49,india_2005_AnnualReport.md,2025-01-28 18:55:52
+51,# # # # #,9,5,7,50,india_2005_AnnualReport.md,2025-01-28 18:55:52
+52,# # # # # - - - - - - - - - -,29,15,17,51,india_2005_AnnualReport.md,2025-01-28 18:55:52
+53,# # # internal threat to security,33,7,9,52,india_2005_AnnualReport.md,2025-01-28 18:55:52
+54,# # # peaceful uses of nuclear energy _ iaf aircraft at siachen _ - - - - -,75,19,24,53,india_2005_AnnualReport.md,2025-01-28 18:55:52
+55,# # # # #,9,5,7,54,india_2005_AnnualReport.md,2025-01-28 18:55:52
+56,# # # # #,9,5,7,55,india_2005_AnnualReport.md,2025-01-28 18:55:52
+57,# # # # #,9,5,7,56,india_2005_AnnualReport.md,2025-01-28 18:55:52
+58,# # # # #,9,5,7,57,india_2005_AnnualReport.md,2025-01-28 18:55:52
+59,# # # # #,9,5,7,58,india_2005_AnnualReport.md,2025-01-28 18:55:52
+60,# # # conclusion - - - - -,26,9,11,59,india_2005_AnnualReport.md,2025-01-28 18:55:52
+61,#,1,1,3,60,india_2005_AnnualReport.md,2025-01-28 18:55:52
+62,# # _ president with naval commanders _ - - - - -,49,13,15,61,india_2005_AnnualReport.md,2025-01-28 18:55:52
+63,# #,3,2,4,62,india_2005_AnnualReport.md,2025-01-28 18:55:52
+64,# # # # #,9,5,7,63,india_2005_AnnualReport.md,2025-01-28 18:55:52
+65,# # # historical background,27,5,7,64,india_2005_AnnualReport.md,2025-01-28 18:55:52
+66,# # # post - independence organisational set - up and functions - - - - -,73,17,20,65,india_2005_AnnualReport.md,2025-01-28 18:55:52
+67,# # # # #,9,5,7,66,india_2005_AnnualReport.md,2025-01-28 18:55:52
+68,# # # # #,9,5,7,67,india_2005_AnnualReport.md,2025-01-28 18:55:52
+69,# # # # #,9,5,7,68,india_2005_AnnualReport.md,2025-01-28 18:55:52
+70,# # # # #,9,5,7,69,india_2005_AnnualReport.md,2025-01-28 18:55:52
+71,# # # # #,9,5,7,70,india_2005_AnnualReport.md,2025-01-28 18:55:52
+72,# # # # #,9,5,7,71,india_2005_AnnualReport.md,2025-01-28 18:55:52
+73,# # # # #,9,5,7,72,india_2005_AnnualReport.md,2025-01-28 18:55:52
+74,# # # # #,9,5,7,73,india_2005_AnnualReport.md,2025-01-28 18:55:52
+75,# # # # #,9,5,7,74,india_2005_AnnualReport.md,2025-01-28 18:55:52
+76,# # # # #,9,5,7,75,india_2005_AnnualReport.md,2025-01-28 18:55:52
+77,# # # # #,9,5,7,76,india_2005_AnnualReport.md,2025-01-28 18:55:52
+78,# # # # #,9,5,7,77,india_2005_AnnualReport.md,2025-01-28 18:55:52
+79,# # # departments - - - - - - - - - -,37,14,16,78,india_2005_AnnualReport.md,2025-01-28 18:55:52
+80,"# # # defence expenditure | table 2. 1 | col2 | col3 | col4 | col5 | col6 | | - - - | - - - | - - - | - - - | - - - | - - - | | service / department - wise break - up of defence expenditure 0 ) 1 | | | | | | | | |! "" | ""! # | $ % & % #! ( | ' & (! ) | | | | - - ccc = | - * 3 * 3?, |?,, 3 >? > |? 3 - > > | |",308,110,130,79,india_2005_AnnualReport.md,2025-01-28 18:55:52
+81,"| |,, c - * | - * 3c3c |? ; ; > = c | >?, - | | a | | - = ;, 3 | 3 -, - * c | 33 * 3 = | 3? = >? c | | % % | * | 0 # 13, * = | 0 # 1 > c3? | 0 # 1 > ; > ; | 0 # 1c > ; = | | | + | - - > = * | - c33c | - = 33, |? 3, *, | | |, - |. ( % )",235,104,130,79,india_2005_AnnualReport.md,2025-01-28 18:55:52
+82,"| % # |. "" % # | % ) | | % ) g % | | -?? - = | - ; * 3 ; | * - -, =? | *? * - ; - | |, - | | ( ( # % / | ) # / # # % 0 | /. ) % | / 0 % | - - - - - - - - - -",157,75,85,79,india_2005_AnnualReport.md,2025-01-28 18:55:52
+83,#,1,1,3,80,india_2005_AnnualReport.md,2025-01-28 18:55:52
+84,# # _ army ’ s jawans on the move _ - - - - -,45,16,19,81,india_2005_AnnualReport.md,2025-01-28 18:55:52
+85,# #,3,2,4,82,india_2005_AnnualReport.md,2025-01-28 18:55:52
+86,# # # # #,9,5,7,83,india_2005_AnnualReport.md,2025-01-28 18:55:52
+87,# # # modernisation of army _ tanguska air defence weapon system _ - - - - - - - - - - _ remotely operated vehicle ( rov ) _,124,31,37,84,india_2005_AnnualReport.md,2025-01-28 18:55:52
+88,# # # modernisation of central ordnance depots ( cods ) - - - - -,65,16,21,85,india_2005_AnnualReport.md,2025-01-28 18:55:52
+89,# # # modernisation of security and fire prevention systems in ammunition depots,80,13,17,86,india_2005_AnnualReport.md,2025-01-28 18:55:52
+90,# # # counter insurgency operations,35,6,8,87,india_2005_AnnualReport.md,2025-01-28 18:55:52
+91,# # # # jammu & kashmir - - - - -,33,12,14,88,india_2005_AnnualReport.md,2025-01-28 18:55:52
+92,# # # # #,9,5,7,89,india_2005_AnnualReport.md,2025-01-28 18:55:52
+93,# # # # #,9,5,7,90,india_2005_AnnualReport.md,2025-01-28 18:55:52
+94,# # # # #,9,5,7,91,india_2005_AnnualReport.md,2025-01-28 18:55:52
+95,# # # # #,9,5,7,92,india_2005_AnnualReport.md,2025-01-28 18:55:52
+96,# # # # #,9,5,7,93,india_2005_AnnualReport.md,2025-01-28 18:55:52
+97,# # # # #,9,5,7,94,india_2005_AnnualReport.md,2025-01-28 18:55:52
+98,# # # # #,9,5,7,95,india_2005_AnnualReport.md,2025-01-28 18:55:52
+99,# # # # #,9,5,7,96,india_2005_AnnualReport.md,2025-01-28 18:55:52
+100,# # # # #,9,5,7,97,india_2005_AnnualReport.md,2025-01-28 18:55:52
+101,# # # # #,9,5,7,98,india_2005_AnnualReport.md,2025-01-28 18:55:52
+102,# # # # #,9,5,7,99,india_2005_AnnualReport.md,2025-01-28 18:55:52
+103,# # # # #,9,5,7,100,india_2005_AnnualReport.md,2025-01-28 18:55:52
+104,"# # # # # | col1 | table 3. 1 | col3 | col4 | | - - - | - - - | - - - | - - - | | % 7 | 83 | "" | # | | 01 | | -? c | - - * | | 01 | i 75 7 | ; c | > | | 01 |! ' 7 |?, | =, | | 01 |! ' | = | 3c * | | 0 1 |!! $ 7 | ; > | ; c | | 01 |! ' | = = * | = ; > | | 01 |",259,114,130,101,india_2005_AnnualReport.md,2025-01-28 18:55:52
+105,"a "" | > - | * | | 0 1 | ) | h *? | h ; > | - - - - -",52,26,29,101,india_2005_AnnualReport.md,2025-01-28 18:55:52
+106,# # # north - east,18,6,8,102,india_2005_AnnualReport.md,2025-01-28 18:55:52
+107,# # # # #,9,5,7,103,india_2005_AnnualReport.md,2025-01-28 18:55:52
+108,# # # # #,9,5,7,104,india_2005_AnnualReport.md,2025-01-28 18:55:52
+109,# # # # #,9,5,7,105,india_2005_AnnualReport.md,2025-01-28 18:55:52
+110,# # # # #,9,5,7,106,india_2005_AnnualReport.md,2025-01-28 18:55:52
+111,# # # # #,9,5,7,107,india_2005_AnnualReport.md,2025-01-28 18:55:52
+112,# # # # #,9,5,7,108,india_2005_AnnualReport.md,2025-01-28 18:55:52
+113,# # # # # - - - - -,19,10,12,109,india_2005_AnnualReport.md,2025-01-28 18:55:52
+114,# # # # #,9,5,7,110,india_2005_AnnualReport.md,2025-01-28 18:55:52
+115,# # # # #,9,5,7,111,india_2005_AnnualReport.md,2025-01-28 18:55:52
+116,# # # # #,9,5,7,112,india_2005_AnnualReport.md,2025-01-28 18:55:52
+117,# # # # #,9,5,7,113,india_2005_AnnualReport.md,2025-01-28 18:55:52
+118,# # # # #,9,5,7,114,india_2005_AnnualReport.md,2025-01-28 18:55:52
+119,# # # # #,9,5,7,115,india_2005_AnnualReport.md,2025-01-28 18:55:52
+120,# # # # #,9,5,7,116,india_2005_AnnualReport.md,2025-01-28 18:55:52
+121,# # # directorate general rashtriya rifles - - - - -,52,12,16,117,india_2005_AnnualReport.md,2025-01-28 18:55:52
+122,# # # participation in united nations,37,7,9,118,india_2005_AnnualReport.md,2025-01-28 18:55:52
+123,# # # # peacekeeping missions,29,6,8,119,india_2005_AnnualReport.md,2025-01-28 18:55:52
+124,# # # # # - - - - - _ aerial insertion of indian troops into troubled areas in eastern part of congo ( monuc ) _ - - - - - [ ],126,35,38,120,india_2005_AnnualReport.md,2025-01-28 18:55:52
+125,# # # indo - us joint command post exercise,43,10,12,121,india_2005_AnnualReport.md,2025-01-28 18:55:52
+126,# # # adventure and sports - - - - - [ ] [ ] [ ] [ ] [ ] - - - - -,66,26,28,122,india_2005_AnnualReport.md,2025-01-28 18:55:52
+127,#,1,1,3,123,india_2005_AnnualReport.md,2025-01-28 18:55:52
+128,# # _ ins kadamba _ - - - - -,29,11,15,124,india_2005_AnnualReport.md,2025-01-28 18:55:52
+129,# #,3,2,4,125,india_2005_AnnualReport.md,2025-01-28 18:55:52
+130,# # # # #,9,5,7,126,india_2005_AnnualReport.md,2025-01-28 18:55:52
+131,# # # inductions and de - inductions,36,8,12,127,india_2005_AnnualReport.md,2025-01-28 18:55:52
+132,# # # new projects - - - - -,28,10,12,128,india_2005_AnnualReport.md,2025-01-28 18:55:52
+133,# # # # #,9,5,7,129,india_2005_AnnualReport.md,2025-01-28 18:55:52
+134,# # # # #,9,5,7,130,india_2005_AnnualReport.md,2025-01-28 18:55:52
+135,# # # # #,9,5,7,131,india_2005_AnnualReport.md,2025-01-28 18:55:52
+136,# # # # # _ president during naval fleet review _ - - - - -,59,17,19,132,india_2005_AnnualReport.md,2025-01-28 18:55:52
+137,# # # exercises - - - - -,25,9,11,133,india_2005_AnnualReport.md,2025-01-28 18:55:52
+138,# # # overseas deployment ( osd ),33,8,11,134,india_2005_AnnualReport.md,2025-01-28 18:55:52
+139,# # # # #,9,5,7,135,india_2005_AnnualReport.md,2025-01-28 18:55:52
+140,# # # # #,9,5,7,136,india_2005_AnnualReport.md,2025-01-28 18:55:52
+141,# # # # #,9,5,7,137,india_2005_AnnualReport.md,2025-01-28 18:55:52
+142,# # # # #,9,5,7,138,india_2005_AnnualReport.md,2025-01-28 18:55:52
+143,# # # # #,9,5,7,139,india_2005_AnnualReport.md,2025-01-28 18:55:52
+144,# # # # #,9,5,7,140,india_2005_AnnualReport.md,2025-01-28 18:55:52
+145,"# # # miscellaneous operations - - - - - * * table 4. 1 * * | | $ 8 1 | 8 5 1 | $ 3 | | - - - | - - - | - - - | - - - | | j | + i a 3,, * | % 06 71 | % 75 3,, * 0 % 7o1 | | | |. 0 ( 1 | 75 8!! 2 | | / | / ( i a #. 3,, * | j / |! 5n! /! | | ) 4 ) 4 + ' ' 9 | / "" / ia n",268,111,130,141,india_2005_AnnualReport.md,2025-01-28 18:55:52
+146,". 3,, * | / ' 0. 1 | 9 ) / 75 /. 7o, * | | '! | / / 4. i. 3,, * | ""!. | ( / % "", * /! | | j $ "" 6 # -? | 7 i / 7 i n. 3,, * |! m. | / j, =. ( 5 | | / | / ( i n. 3,, * | $. | a. "" + / + 075 # / % > 1 $. | |. | ) /. ( i 9 n93",223,94,130,141,india_2005_AnnualReport.md,2025-01-28 18:55:52
+147,",, * | / 07 1! 0a 1 06 ' 1! 0 1 / 07 1 | a ) 0a ) 1 06 ' 1 | |. | / 7 i9 3,, * | : "". "" j | | | j ) 4 ) 4 / ' | / 7 i9 n 3,, * | / ' 0. 1 9 0 1 | 7 a % / 7 | | %! + | / ( i. n9 3,, * |. 0 "" 1 % ""! 0 / 1 j 0 / 1 $ 0. 1 ) 0a 1 | a % / ( |",236,105,130,141,india_2005_AnnualReport.md,2025-01-28 18:55:52
+148,- - - - -,9,5,7,141,india_2005_AnnualReport.md,2025-01-28 18:55:52
+149,# # # exercises and cooperation with foreign navies - - - - - _ uss nimitz ( in background ) doing combat manoeuvres with ins viraat _ - - - - - _ marine commandos ( marcos ) airlifted by a naval seaking mk 42c helicopter _ _ and slithering down to board a ship on the high seas. _,281,61,76,142,india_2005_AnnualReport.md,2025-01-28 18:55:52
+150,"# # # training - - - - - | col1 | table | 4. 2 | col4 | | - - - | - - - | - - - | - - - | | % 7 % | 9 | | - | | | / $ |? ; |, 3 | | 3 | |? | # | | - | |, | ; | |? |. | - | # | | * |. | 3 | # | | > |. | 3 |? | | ; | ' | - | # | | = | / | | # | | c | + | | | |",258,116,130,143,india_2005_AnnualReport.md,2025-01-28 18:55:52
+151,", |. | ; |, | | |! @ | | # | | 3 | / | 3, | | | - | / | # | * | - - - - - _ a delhi class ship firing a tactical missile - uran - at a target which is well beyond the horizon range _",182,58,65,143,india_2005_AnnualReport.md,2025-01-28 18:55:52
+152,# # # advancement in information technology,43,7,9,144,india_2005_AnnualReport.md,2025-01-28 18:55:52
+153,"# # # adventure and sports - - - - - * * table 4. 3 * * | % 7 % | 73 | $ | & | 3 | | - - - | - - - | - - - | - - - | - - - | | | / ' |. "" 7 $ ) | + / "" / 3 c 3,, * | / | | 3 |. 4 ' | ( 7 $ | + / "" / 3 c 3,, * | + 0! 7 1 | | - | |. "" ( | + / "" / 3 c3,, * | & 0. f",262,115,130,145,india_2005_AnnualReport.md,2025-01-28 18:55:52
+154,"/ 1 ( 3,, = | |? | "" ) / ' | "" (! | "" ( > c 3,, * | / | | * | / 4 / | ( | 5 "" "" | ) | - - - - -",95,45,53,145,india_2005_AnnualReport.md,2025-01-28 18:55:52
+155,#,1,1,3,146,india_2005_AnnualReport.md,2025-01-28 18:55:52
+156,# # _ il - 76 based awacs _ - - - - -,37,14,18,147,india_2005_AnnualReport.md,2025-01-28 18:55:52
+157,# #,3,2,4,148,india_2005_AnnualReport.md,2025-01-28 18:55:52
+158,# # # # # _ close up view of the awesome mig – 29 _ - - - - -,61,21,23,149,india_2005_AnnualReport.md,2025-01-28 18:55:52
+159,# # # fleet improvement / induction / upgrdation _ a line up of mig - 21 bison _ - - - - -,90,24,28,150,india_2005_AnnualReport.md,2025-01-28 18:55:52
+160,# # # # #,9,5,7,151,india_2005_AnnualReport.md,2025-01-28 18:55:52
+161,# # # # #,9,5,7,152,india_2005_AnnualReport.md,2025-01-28 18:55:52
+162,# # # # #,9,5,7,153,india_2005_AnnualReport.md,2025-01-28 18:55:52
+163,# # # # #,9,5,7,154,india_2005_AnnualReport.md,2025-01-28 18:55:52
+164,# # # # #,9,5,7,155,india_2005_AnnualReport.md,2025-01-28 18:55:52
+165,# # # # #,9,5,7,156,india_2005_AnnualReport.md,2025-01-28 18:55:52
+166,# # # # #,9,5,7,157,india_2005_AnnualReport.md,2025-01-28 18:55:52
+167,# # # # #,9,5,7,158,india_2005_AnnualReport.md,2025-01-28 18:55:52
+168,# # # # #,9,5,7,159,india_2005_AnnualReport.md,2025-01-28 18:55:52
+169,# # # # # _ su - 30 _ - - - - -,31,15,17,160,india_2005_AnnualReport.md,2025-01-28 18:55:52
+170,# # # weapon systems - - - - -,30,10,12,161,india_2005_AnnualReport.md,2025-01-28 18:55:52
+171,# # # aircraft acquisition _ intermediate jet trainer ( ijt ) _ - - - - - _ cheetal helicopter _ - - - - -,106,27,33,162,india_2005_AnnualReport.md,2025-01-28 18:55:52
+172,# # # defence cooperation,25,5,7,163,india_2005_AnnualReport.md,2025-01-28 18:55:52
+173,# # # # #,9,5,7,164,india_2005_AnnualReport.md,2025-01-28 18:55:52
+174,# # # # #,9,5,7,165,india_2005_AnnualReport.md,2025-01-28 18:55:52
+175,# # # # #,9,5,7,166,india_2005_AnnualReport.md,2025-01-28 18:55:52
+176,# # # # #,9,5,7,167,india_2005_AnnualReport.md,2025-01-28 18:55:52
+177,# # # # #,9,5,7,168,india_2005_AnnualReport.md,2025-01-28 18:55:52
+178,# # # # #,9,5,7,169,india_2005_AnnualReport.md,2025-01-28 18:55:52
+179,# # # # #,9,5,7,170,india_2005_AnnualReport.md,2025-01-28 18:55:52
+180,# # # flight safety - - - - -,29,10,12,171,india_2005_AnnualReport.md,2025-01-28 18:55:52
+181,#,1,1,3,172,india_2005_AnnualReport.md,2025-01-28 18:55:52
+182,# # _ air - sea coordination : coast guard hovercraft and helicopter _ - - - - -,80,19,24,173,india_2005_AnnualReport.md,2025-01-28 18:55:52
+183,# #,3,2,4,174,india_2005_AnnualReport.md,2025-01-28 18:55:52
+184,# # # # #,9,5,7,175,india_2005_AnnualReport.md,2025-01-28 18:55:52
+185,# # # organisation,18,4,6,176,india_2005_AnnualReport.md,2025-01-28 18:55:52
+186,# # # duties and functions - - - - - [ ] [ ],44,15,17,177,india_2005_AnnualReport.md,2025-01-28 18:55:52
+187,# # # # #,9,5,7,178,india_2005_AnnualReport.md,2025-01-28 18:55:52
+188,# # # force level,17,5,7,179,india_2005_AnnualReport.md,2025-01-28 18:55:52
+189,# # # # # recruitment and training,34,8,10,180,india_2005_AnnualReport.md,2025-01-28 18:55:52
+190,# # # # # - - - - -,19,10,12,181,india_2005_AnnualReport.md,2025-01-28 18:55:52
+191,"# # # activities * * table 6. 1 * * | - % 7 % | | k. 0 /. | 2 # < k 9 g 3 > | | - - - | - - - | - - - | - - - | | 01 | "" @ | ) 3 >? ; ; | | | 01 | | = ; - = = = ; | ; ; | | 01 | / |, - > ; | q | | 01 | / ) 0 / ) 1. | c3 > | *? | | 0 1 | / ) / | = - = | 3 ; - | | 01",265,120,130,182,india_2005_AnnualReport.md,2025-01-28 18:55:52
+192,| $ / | -? - | ; = - | _ coast guard ship leaving harbour _ _ for routine patrol _ - - - - - _ coast guard dornier on reconnaissance mission _ - - - - - - - - - -,162,46,50,182,india_2005_AnnualReport.md,2025-01-28 18:55:52
+193,#,1,1,3,183,india_2005_AnnualReport.md,2025-01-28 18:55:52
+194,# # _ nag missile producutionized by bharat dynamic limited _ - - - - -,71,16,24,184,india_2005_AnnualReport.md,2025-01-28 18:55:52
+195,# #,3,2,4,185,india_2005_AnnualReport.md,2025-01-28 18:55:52
+196,# # # # # - - - - -,19,10,12,186,india_2005_AnnualReport.md,2025-01-28 18:55:52
+197,# # # ordnance factories - - - - - - - - - - _ t - 90 ( bishma ) _ - - - - -,76,28,31,187,india_2005_AnnualReport.md,2025-01-28 18:55:52
+198,# # # # #,9,5,7,188,india_2005_AnnualReport.md,2025-01-28 18:55:52
+199,# # # # #,9,5,7,189,india_2005_AnnualReport.md,2025-01-28 18:55:52
+200,# # # # #,9,5,7,190,india_2005_AnnualReport.md,2025-01-28 18:55:52
+201,# # # # #,9,5,7,191,india_2005_AnnualReport.md,2025-01-28 18:55:52
+202,# # # # #,9,5,7,192,india_2005_AnnualReport.md,2025-01-28 18:55:52
+203,# # # # #,9,5,7,193,india_2005_AnnualReport.md,2025-01-28 18:55:52
+204,# # # # #,9,5,7,194,india_2005_AnnualReport.md,2025-01-28 18:55:52
+205,# # # # #,9,5,7,195,india_2005_AnnualReport.md,2025-01-28 18:55:52
+206,# # # # #,9,5,7,196,india_2005_AnnualReport.md,2025-01-28 18:55:52
+207,# # # # # - - - - - - - - - -,29,15,17,197,india_2005_AnnualReport.md,2025-01-28 18:55:52
+208,# # # # # [ ] [ ] [ ] - - - - - _ advance light helicopter _,60,21,23,198,india_2005_AnnualReport.md,2025-01-28 18:55:52
+209,# # # defence public sector undertakings,40,7,10,199,india_2005_AnnualReport.md,2025-01-28 18:55:52
+210,# # # # hindustan aeronautics limited ( hal ),45,10,13,200,india_2005_AnnualReport.md,2025-01-28 18:55:52
+211,# # # # #,9,5,7,201,india_2005_AnnualReport.md,2025-01-28 18:55:52
+212,# # # # #,9,5,7,202,india_2005_AnnualReport.md,2025-01-28 18:55:52
+213,# # # # #,9,5,7,203,india_2005_AnnualReport.md,2025-01-28 18:55:52
+214,# # # # #,9,5,7,204,india_2005_AnnualReport.md,2025-01-28 18:55:52
+215,# # # # #,9,5,7,205,india_2005_AnnualReport.md,2025-01-28 18:55:52
+216,# # # # #,9,5,7,206,india_2005_AnnualReport.md,2025-01-28 18:55:52
+217,# # # # #,9,5,7,207,india_2005_AnnualReport.md,2025-01-28 18:55:52
+218,# # # # #,9,5,7,208,india_2005_AnnualReport.md,2025-01-28 18:55:52
+219,# # # # #,9,5,7,209,india_2005_AnnualReport.md,2025-01-28 18:55:52
+220,# # # # # [ ] - - - - -,23,12,14,210,india_2005_AnnualReport.md,2025-01-28 18:55:52
+221,# # # bharat electronics limited ( bel ) - - - - -,50,14,17,211,india_2005_AnnualReport.md,2025-01-28 18:55:52
+222,# # # # #,9,5,7,212,india_2005_AnnualReport.md,2025-01-28 18:55:52
+223,# # # # #,9,5,7,213,india_2005_AnnualReport.md,2025-01-28 18:55:52
+224,# # # # #,9,5,7,214,india_2005_AnnualReport.md,2025-01-28 18:55:52
+225,# # # # #,9,5,7,215,india_2005_AnnualReport.md,2025-01-28 18:55:52
+226,# # # # #,9,5,7,216,india_2005_AnnualReport.md,2025-01-28 18:55:52
+227,# # # # #,9,5,7,217,india_2005_AnnualReport.md,2025-01-28 18:55:52
+228,# # # # #,9,5,7,218,india_2005_AnnualReport.md,2025-01-28 18:55:52
+229,# # # # #,9,5,7,219,india_2005_AnnualReport.md,2025-01-28 18:55:52
+230,# # # # #,9,5,7,220,india_2005_AnnualReport.md,2025-01-28 18:55:52
+231,# # # # #,9,5,7,221,india_2005_AnnualReport.md,2025-01-28 18:55:52
+232,# # # # #,9,5,7,222,india_2005_AnnualReport.md,2025-01-28 18:55:52
+233,# # # # #,9,5,7,223,india_2005_AnnualReport.md,2025-01-28 18:55:52
+234,# # # # #,9,5,7,224,india_2005_AnnualReport.md,2025-01-28 18:55:52
+235,# # # # # - - - - - [ ],23,12,14,225,india_2005_AnnualReport.md,2025-01-28 18:55:52
+236,# # # bharat earth movers limited ( beml ) - - - - -,52,15,20,226,india_2005_AnnualReport.md,2025-01-28 18:55:52
+237,# # # # #,9,5,7,227,india_2005_AnnualReport.md,2025-01-28 18:55:52
+238,# # # # #,9,5,7,228,india_2005_AnnualReport.md,2025-01-28 18:55:52
+239,# # # # #,9,5,7,229,india_2005_AnnualReport.md,2025-01-28 18:55:52
+240,# # # # #,9,5,7,230,india_2005_AnnualReport.md,2025-01-28 18:55:52
+241,# # # # #,9,5,7,231,india_2005_AnnualReport.md,2025-01-28 18:55:52
+242,# # # # #,9,5,7,232,india_2005_AnnualReport.md,2025-01-28 18:55:52
+243,# # # # #,9,5,7,233,india_2005_AnnualReport.md,2025-01-28 18:55:52
+244,# # # # #,9,5,7,234,india_2005_AnnualReport.md,2025-01-28 18:55:52
+245,# # # # #,9,5,7,235,india_2005_AnnualReport.md,2025-01-28 18:55:52
+246,# # # # #,9,5,7,236,india_2005_AnnualReport.md,2025-01-28 18:55:52
+247,# # # # #,9,5,7,237,india_2005_AnnualReport.md,2025-01-28 18:55:52
+248,# # # # #,9,5,7,238,india_2005_AnnualReport.md,2025-01-28 18:55:52
+249,# # # # #,9,5,7,239,india_2005_AnnualReport.md,2025-01-28 18:55:52
+250,# # # # #,9,5,7,240,india_2005_AnnualReport.md,2025-01-28 18:55:52
+251,# # # # #,9,5,7,241,india_2005_AnnualReport.md,2025-01-28 18:55:52
+252,# # # # # _ be200 hydraulic excavator produced by beml _ - - - - -,66,18,25,242,india_2005_AnnualReport.md,2025-01-28 18:55:52
+253,# # # mazagon dock limited ( mdl ) _ a ship being launched at mdl _ - - - - -,77,22,28,243,india_2005_AnnualReport.md,2025-01-28 18:55:52
+254,# # # goa shipyard limited ( gsl ),34,9,12,244,india_2005_AnnualReport.md,2025-01-28 18:55:52
+255,# # # garden reach shipbuilders and engineers limited ( grse ),62,12,18,245,india_2005_AnnualReport.md,2025-01-28 18:55:52
+256,# # # mishra dhatu nigam limited ( midhani ) - - - - -,54,15,22,246,india_2005_AnnualReport.md,2025-01-28 18:55:52
+257,# # # # #,9,5,7,247,india_2005_AnnualReport.md,2025-01-28 18:55:52
+258,# # # # #,9,5,7,248,india_2005_AnnualReport.md,2025-01-28 18:55:52
+259,# # # # #,9,5,7,249,india_2005_AnnualReport.md,2025-01-28 18:55:52
+260,# # # # #,9,5,7,250,india_2005_AnnualReport.md,2025-01-28 18:55:52
+261,# # # # #,9,5,7,251,india_2005_AnnualReport.md,2025-01-28 18:55:52
+262,# # # # #,9,5,7,252,india_2005_AnnualReport.md,2025-01-28 18:55:52
+263,# # # # #,9,5,7,253,india_2005_AnnualReport.md,2025-01-28 18:55:52
+264,# # # # #,9,5,7,254,india_2005_AnnualReport.md,2025-01-28 18:55:52
+265,# # # # #,9,5,7,255,india_2005_AnnualReport.md,2025-01-28 18:55:52
+266,# # # # #,9,5,7,256,india_2005_AnnualReport.md,2025-01-28 18:55:52
+267,# # # # #,9,5,7,257,india_2005_AnnualReport.md,2025-01-28 18:55:52
+268,# # # # #,9,5,7,258,india_2005_AnnualReport.md,2025-01-28 18:55:52
+269,# # # # #,9,5,7,259,india_2005_AnnualReport.md,2025-01-28 18:55:52
+270,# # # # #,9,5,7,260,india_2005_AnnualReport.md,2025-01-28 18:55:52
+271,# # # # #,9,5,7,261,india_2005_AnnualReport.md,2025-01-28 18:55:52
+272,# # # # #,9,5,7,262,india_2005_AnnualReport.md,2025-01-28 18:55:52
+273,# # # # #,9,5,7,263,india_2005_AnnualReport.md,2025-01-28 18:55:52
+274,# # # # #,9,5,7,264,india_2005_AnnualReport.md,2025-01-28 18:55:52
+275,# # # bharat dynamics limited ( b. d. l. ) - - - - -,52,16,22,265,india_2005_AnnualReport.md,2025-01-28 18:55:52
+276,# # # sales of ordnance factories and defence psus,50,10,13,266,india_2005_AnnualReport.md,2025-01-28 18:55:52
+277,"# # # indigenisation | col1 | col2 | table 7. 1 | col4 | | - - - | - - - | - - - | - - - | | h | 1 *, - - | 89 - ; 1, - - | < $ 9 > 1, - | | 3,, - # 3,,? | > * 3 - = ; | c = c3 ; - | >? > >, | | 3,,? # 3,, * | > = > > * | 3? = * c | ;? - * 3? | | 3,,",250,101,130,267,india_2005_AnnualReport.md,2025-01-28 18:55:52
+278,"* # 3,, > 06 %, * 1 0 1 |? * - - 3? | ; 3 - ; c - | ; ; ; | - - - - -",69,32,39,267,india_2005_AnnualReport.md,2025-01-28 18:55:52
+279,# # # # #,9,5,7,268,india_2005_AnnualReport.md,2025-01-28 18:55:52
+280,# # # # #,9,5,7,269,india_2005_AnnualReport.md,2025-01-28 18:55:52
+281,# # # # #,9,5,7,270,india_2005_AnnualReport.md,2025-01-28 18:55:52
+282,# # # # #,9,5,7,271,india_2005_AnnualReport.md,2025-01-28 18:55:52
+283,# # # # #,9,5,7,272,india_2005_AnnualReport.md,2025-01-28 18:55:52
+284,# # # # #,9,5,7,273,india_2005_AnnualReport.md,2025-01-28 18:55:52
+285,# # # # #,9,5,7,274,india_2005_AnnualReport.md,2025-01-28 18:55:52
+286,# # # # #,9,5,7,275,india_2005_AnnualReport.md,2025-01-28 18:55:52
+287,# # # # #,9,5,7,276,india_2005_AnnualReport.md,2025-01-28 18:55:52
+288,# # # # #,9,5,7,277,india_2005_AnnualReport.md,2025-01-28 18:55:52
+289,# # # # #,9,5,7,278,india_2005_AnnualReport.md,2025-01-28 18:55:52
+290,# # # # # - - - - -,19,10,12,279,india_2005_AnnualReport.md,2025-01-28 18:55:52
+291,# # # # #,9,5,7,280,india_2005_AnnualReport.md,2025-01-28 18:55:52
+292,# # # # #,9,5,7,281,india_2005_AnnualReport.md,2025-01-28 18:55:52
+293,# # # # #,9,5,7,282,india_2005_AnnualReport.md,2025-01-28 18:55:52
+294,# # # # #,9,5,7,283,india_2005_AnnualReport.md,2025-01-28 18:55:52
+295,# # # # #,9,5,7,284,india_2005_AnnualReport.md,2025-01-28 18:55:52
+296,# # # # #,9,5,7,285,india_2005_AnnualReport.md,2025-01-28 18:55:52
+297,# # # # #,9,5,7,286,india_2005_AnnualReport.md,2025-01-28 18:55:52
+298,# # # # #,9,5,7,287,india_2005_AnnualReport.md,2025-01-28 18:55:52
+299,# # # # #,9,5,7,288,india_2005_AnnualReport.md,2025-01-28 18:55:52
+300,# # # # #,9,5,7,289,india_2005_AnnualReport.md,2025-01-28 18:55:52
+301,# # # # #,9,5,7,290,india_2005_AnnualReport.md,2025-01-28 18:55:52
+302,# # # # #,9,5,7,291,india_2005_AnnualReport.md,2025-01-28 18:55:52
+303,# # # # #,9,5,7,292,india_2005_AnnualReport.md,2025-01-28 18:55:52
+304,# # # # #,9,5,7,293,india_2005_AnnualReport.md,2025-01-28 18:55:52
+305,# # # other organisations in department of defence production,61,10,12,294,india_2005_AnnualReport.md,2025-01-28 18:55:52
+306,# # # # directorate general aeronautical quality assurance ( dgaqa ) - - - - -,78,17,21,295,india_2005_AnnualReport.md,2025-01-28 18:55:52
+307,# # # # #,9,5,7,296,india_2005_AnnualReport.md,2025-01-28 18:55:52
+308,# # # # #,9,5,7,297,india_2005_AnnualReport.md,2025-01-28 18:55:52
+309,# # # # #,9,5,7,298,india_2005_AnnualReport.md,2025-01-28 18:55:52
+310,# # # # #,9,5,7,299,india_2005_AnnualReport.md,2025-01-28 18:55:52
+311,# # # # #,9,5,7,300,india_2005_AnnualReport.md,2025-01-28 18:55:52
+312,# # # # #,9,5,7,301,india_2005_AnnualReport.md,2025-01-28 18:55:52
+313,# # # directorate,17,4,6,302,india_2005_AnnualReport.md,2025-01-28 18:55:52
+314,# # # # # general of quality assurance,38,9,11,303,india_2005_AnnualReport.md,2025-01-28 18:55:52
+315,# # # # #,9,5,7,304,india_2005_AnnualReport.md,2025-01-28 18:55:52
+316,# # # # #,9,5,7,305,india_2005_AnnualReport.md,2025-01-28 18:55:52
+317,"# # # # # | h | 5 - 9 2 1 < 2 > | | - - - | - - - | | 3,, - # 3,,? |? > c3 | | 3,,? # 3,, * | >, c > | | 3,, * #, > 0 % 3,, * 1 | c > > ; = |",141,62,82,306,india_2005_AnnualReport.md,2025-01-28 18:55:52
+318,# # # achievements of dgqa * * table 7. 2 * * - - - - -,55,18,23,307,india_2005_AnnualReport.md,2025-01-28 18:55:52
+319,# # # # #,9,5,7,308,india_2005_AnnualReport.md,2025-01-28 18:55:52
+320,# # # # #,9,5,7,309,india_2005_AnnualReport.md,2025-01-28 18:55:52
+321,# # # # #,9,5,7,310,india_2005_AnnualReport.md,2025-01-28 18:55:52
+322,# # # # #,9,5,7,311,india_2005_AnnualReport.md,2025-01-28 18:55:52
+323,# # # # # * * table 7. 3 * *,28,12,15,312,india_2005_AnnualReport.md,2025-01-28 18:55:52
+324,"# # # directorate of standardisation | - % 7 % | h | + | | | - - - | - - - | - - - | - - - | | | 3,,? # 3,, * |?? c | c, | | 3 | 3,, * # 3,, > 0 % 3,, * 1 | - > * | >? |",169,65,83,313,india_2005_AnnualReport.md,2025-01-28 18:55:52
+325,# # # # #,9,5,7,314,india_2005_AnnualReport.md,2025-01-28 18:55:52
+326,# # # # #,9,5,7,315,india_2005_AnnualReport.md,2025-01-28 18:55:52
+327,# # # # #,9,5,7,316,india_2005_AnnualReport.md,2025-01-28 18:55:52
+328,# # # # # - - - - -,19,10,12,317,india_2005_AnnualReport.md,2025-01-28 18:55:52
+329,"# # # directorate of planning & co - ordination _ raksha mantri inaugurating defexpo, 2005 _ - - - - -",102,22,32,318,india_2005_AnnualReport.md,2025-01-28 18:55:52
+330,"# # # defence exhibition organisation ( deo ) - - - - - - - - - - * * table 7. 4 * * * * table 7. 5 * * | 73 8 ; |! | col3 |! "" | col5 | ""! # | col7 | | - - - | - - - | - - - | - - - | - - - | - - - | - - - | | | & c9 | % - | & c9 | % - | & c9 | % - | | : $ | 3, *, | # | 3, *, | #",281,112,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+331,"| 3, *, | # | | 7 $ | =,,, | # | =,,, | # | =,,, | # | | 7. $ | - > = ; | # | - > = ; | # | - > = ; | # | |. % $ | cc3, | # | cc3, | # | cc3, | # | | + ) / 7 | 3 - =? | # | 3 - =? | # | 3 - =? | # | | + / $ | c?, | # | c?, | # | c?",231,101,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+332,", | # | | % $ | *,, | # | *,, | # | *,, | # | |. % : | - ; -? | # | - ; -? | # | - ; -? | # | |,,? | / %. # |! | / %. # |! | / %. # |! | | 73 8 ; |! | col3 |! "" | col5 | ""! # | col7 | | - - - | - - - | - - - | - - - | - - - | - - - | - -",237,103,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+333,"- | | | 5 - 9 8 19 | 5 - 9 - | 5 - 9 8 19 | 5 - 9 - | 5 - 9 8 19 | 5 - 9 - | | : $ | -? ; ; =? | - 3,? 3 | - ; * >? | - ; cc ; = |? c =? * * |? * - - =, | | 7 $ | 3 * - > - c | 3 *, =, 3 | 3 =, ; = - | 3 ; c = * c | - 3 -? c ; | - 33, c | | 7. $",245,113,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+334,"| ;?, > | > = ; | > c = > | ; > * ; * | = = * c * | = * >, | |. % $ | * - c * 3 | * > c3 ; |? c * ; ; | c,, | *?, > - | cc *? | | + ) / 7 | * 3 -, c | * - > c |? = > c, | - c, ; > |? ;, 3 = | = =? | | + / $ | 3 - 3? | - = > *, | 3,, =",234,106,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+335,"- | 3c > c3 |? = - | = -? c | | % $ | - -, - = | 3 ; ; ; 3 | * 33? ; | * 3? =, |? > * ; c |? *, c = | |. % : | c - *, | c * 3 | >? 3 | 3 * - |? > ; | - 3 ; | |,,? | 0 "" ) % | / ) / / %. |. ) / % | 0 / 0 % ) |.. / ( # % ( ) |.. "" / %",232,104,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+336,"# 0 | - - - - - * * table 7. 6 * * * * table 7. 7 * * | col1 | | | | - - - | - - - | - - - | | 73 8 ; |! "" | ""! # | | : $ |?, c ; c | *,, > | | 7 $ | - >, |?? > - 3 | | 7. $ | 3? ; | ; * 3 = | |. % $ | ; c3 | > c? | | + ) / 7 | 3c -, | 3 ; * - | |",247,109,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+337,"+ / $ | - = = | cc3 | | % $ |? ; > | 3 ;? - | |. % : | > = c | > = * | |,,? | / ) % ( ( |. ( % # | | table 7. 7 | | | |! | col2 |! "" | col4 | ""! # | col6 | | - - - | - - - | - - - | - - - | - - - | - - - | | 5 - 9 8 19 | 5 - 9 - | 5 - 9 8 19 | 5 - 9 - |",253,113,130,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+338,"5 - 9 8 19 | 5 - 9 - | | ; c, = > c | > *, =, * | = 3 * c > = | > * 3 - = ; | = - - 3,, | > = > > * | - - - - -",111,53,60,319,india_2005_AnnualReport.md,2025-01-28 18:55:52
+339,#,1,1,3,320,india_2005_AnnualReport.md,2025-01-28 18:55:52
+340,# # _ ‘ brahmos ’ supersonic cruise missile developed by drdo _ - - - - -,73,18,24,321,india_2005_AnnualReport.md,2025-01-28 18:55:52
+341,# #,3,2,4,322,india_2005_AnnualReport.md,2025-01-28 18:55:52
+342,# # # # #,9,5,7,323,india_2005_AnnualReport.md,2025-01-28 18:55:52
+343,# # # organisational structure - - - - -,40,10,13,324,india_2005_AnnualReport.md,2025-01-28 18:55:52
+344,# # # # #,9,5,7,325,india_2005_AnnualReport.md,2025-01-28 18:55:52
+345,# # # # #,9,5,7,326,india_2005_AnnualReport.md,2025-01-28 18:55:52
+346,# # # # #,9,5,7,327,india_2005_AnnualReport.md,2025-01-28 18:55:52
+347,# # # # # - - - - -,19,10,12,328,india_2005_AnnualReport.md,2025-01-28 18:55:52
+348,# # # # #,9,5,7,329,india_2005_AnnualReport.md,2025-01-28 18:55:52
+349,# # # # #,9,5,7,330,india_2005_AnnualReport.md,2025-01-28 18:55:52
+350,# # # # #,9,5,7,331,india_2005_AnnualReport.md,2025-01-28 18:55:52
+351,# # # # #,9,5,7,332,india_2005_AnnualReport.md,2025-01-28 18:55:52
+352,# # # # #,9,5,7,333,india_2005_AnnualReport.md,2025-01-28 18:55:52
+353,# # # # #,9,5,7,334,india_2005_AnnualReport.md,2025-01-28 18:55:52
+354,# # # # #,9,5,7,335,india_2005_AnnualReport.md,2025-01-28 18:55:52
+355,# # # # #,9,5,7,336,india_2005_AnnualReport.md,2025-01-28 18:55:52
+356,# # # human resource development ( hrd ),40,9,12,337,india_2005_AnnualReport.md,2025-01-28 18:55:52
+357,# # # # #,9,5,7,338,india_2005_AnnualReport.md,2025-01-28 18:55:52
+358,# # # # #,9,5,7,339,india_2005_AnnualReport.md,2025-01-28 18:55:52
+359,# # # # #,9,5,7,340,india_2005_AnnualReport.md,2025-01-28 18:55:52
+360,# # # # #,9,5,7,341,india_2005_AnnualReport.md,2025-01-28 18:55:52
+361,# # # # #,9,5,7,342,india_2005_AnnualReport.md,2025-01-28 18:55:52
+362,# # # # # - - - - -,19,10,12,343,india_2005_AnnualReport.md,2025-01-28 18:55:52
+363,# # # projects monitoring and review mechanism,46,8,10,344,india_2005_AnnualReport.md,2025-01-28 18:55:52
+364,# # # programmes and projects - - - - -,39,11,13,345,india_2005_AnnualReport.md,2025-01-28 18:55:52
+365,# # # # ( a ) missile programme : the programme envisaged the design and development of missile systems. the status of development of various missiles is as under :,164,31,36,346,india_2005_AnnualReport.md,2025-01-28 18:55:52
+366,# # # # #,9,5,7,347,india_2005_AnnualReport.md,2025-01-28 18:55:52
+367,# # # # #,9,5,7,348,india_2005_AnnualReport.md,2025-01-28 18:55:52
+368,# # # # # - - - - - - - - - - _ ‘ brahmos ’ missile being fired _,65,23,27,349,india_2005_AnnualReport.md,2025-01-28 18:55:52
+369,# # # # ( b ) aero systems : - - - - - _ lca tejas _ - - - - - - - - - -,72,29,33,350,india_2005_AnnualReport.md,2025-01-28 18:55:52
+370,# # # # #,9,5,7,351,india_2005_AnnualReport.md,2025-01-28 18:55:52
+371,# # # # #,9,5,7,352,india_2005_AnnualReport.md,2025-01-28 18:55:52
+372,# # # # #,9,5,7,353,india_2005_AnnualReport.md,2025-01-28 18:55:52
+373,# # # # #,9,5,7,354,india_2005_AnnualReport.md,2025-01-28 18:55:52
+374,# # # # #,9,5,7,355,india_2005_AnnualReport.md,2025-01-28 18:55:52
+375,# # # # #,9,5,7,356,india_2005_AnnualReport.md,2025-01-28 18:55:52
+376,# # # # #,9,5,7,357,india_2005_AnnualReport.md,2025-01-28 18:55:52
+377,# # # # ( c ) electronic systems : - - - - - - - - - - - - - - - _ mbt arjun on display _,89,31,34,358,india_2005_AnnualReport.md,2025-01-28 18:55:52
+378,# # # # #,9,5,7,359,india_2005_AnnualReport.md,2025-01-28 18:55:52
+379,# # # # #,9,5,7,360,india_2005_AnnualReport.md,2025-01-28 18:55:52
+380,# # # # #,9,5,7,361,india_2005_AnnualReport.md,2025-01-28 18:55:52
+381,# # # # #,9,5,7,362,india_2005_AnnualReport.md,2025-01-28 18:55:52
+382,"# # # # d ) combat vehicles and engineering - - - - - - - - - - _ multi barrel rocket system, pinaka _",102,27,31,363,india_2005_AnnualReport.md,2025-01-28 18:55:52
+383,# # # # #,9,5,7,364,india_2005_AnnualReport.md,2025-01-28 18:55:52
+384,# # # # ( e ) armaments : - - - - -,35,14,17,365,india_2005_AnnualReport.md,2025-01-28 18:55:52
+385,# # # # ( f ) naval systems : - - - - -,39,15,17,366,india_2005_AnnualReport.md,2025-01-28 18:55:52
+386,# # # # #,9,5,7,367,india_2005_AnnualReport.md,2025-01-28 18:55:52
+387,# # # # ( g ) advanced materials : - - - - - - - - - -,54,20,22,368,india_2005_AnnualReport.md,2025-01-28 18:55:52
+388,# # # # ( h ) life sciences systems / products : [ ] [ ] - - - - - - - - - - [ ],80,29,31,369,india_2005_AnnualReport.md,2025-01-28 18:55:52
+389,# # # interaction with industries and transfer of technology - - - - - - - - - -,80,20,22,370,india_2005_AnnualReport.md,2025-01-28 18:55:52
+390,# # # participation in national and international exhibitions - - - - - - - - - -,81,19,21,371,india_2005_AnnualReport.md,2025-01-28 18:55:52
+391,# # # extramural research / intellectual property rights,56,9,13,372,india_2005_AnnualReport.md,2025-01-28 18:55:52
+392,# # # # #,9,5,7,373,india_2005_AnnualReport.md,2025-01-28 18:55:52
+393,# # # # #,9,5,7,374,india_2005_AnnualReport.md,2025-01-28 18:55:52
+394,# # # # #,9,5,7,375,india_2005_AnnualReport.md,2025-01-28 18:55:52
+395,# # # # #,9,5,7,376,india_2005_AnnualReport.md,2025-01-28 18:55:52
+396,# # # # #,9,5,7,377,india_2005_AnnualReport.md,2025-01-28 18:55:52
+397,# # # # # - - - - -,19,10,12,378,india_2005_AnnualReport.md,2025-01-28 18:55:52
+398,#,1,1,3,379,india_2005_AnnualReport.md,2025-01-28 18:55:52
+399,# # _ national defence college _ - - - - -,42,12,14,380,india_2005_AnnualReport.md,2025-01-28 18:55:52
+400,# #,3,2,4,381,india_2005_AnnualReport.md,2025-01-28 18:55:52
+401,# # # # #,9,5,7,382,india_2005_AnnualReport.md,2025-01-28 18:55:52
+402,# # # military engineer services ( mes ),40,9,12,383,india_2005_AnnualReport.md,2025-01-28 18:55:52
+403,# # # # # - - - - -,19,10,12,384,india_2005_AnnualReport.md,2025-01-28 18:55:52
+404,# # # armed forces medical services ( afms ) - - - - -,54,15,18,385,india_2005_AnnualReport.md,2025-01-28 18:55:52
+405,# # # # # - - - - - _ doctors of dgafms providing medical aid to tsunami victims _,82,21,26,386,india_2005_AnnualReport.md,2025-01-28 18:55:52
+406,# # # directorate general defence estates ( dgde ) - - - - -,60,15,19,387,india_2005_AnnualReport.md,2025-01-28 18:55:52
+407,# # # # #,9,5,7,388,india_2005_AnnualReport.md,2025-01-28 18:55:52
+408,# # # # #,9,5,7,389,india_2005_AnnualReport.md,2025-01-28 18:55:52
+409,# # # # #,9,5,7,390,india_2005_AnnualReport.md,2025-01-28 18:55:52
+410,# # # # #,9,5,7,391,india_2005_AnnualReport.md,2025-01-28 18:55:52
+411,# # # # #,9,5,7,392,india_2005_AnnualReport.md,2025-01-28 18:55:52
+412,# # # # #,9,5,7,393,india_2005_AnnualReport.md,2025-01-28 18:55:52
+413,# # # # # - - - - -,19,10,12,394,india_2005_AnnualReport.md,2025-01-28 18:55:52
+414,# # # office of the chief administraive officer ( cao ),55,12,17,395,india_2005_AnnualReport.md,2025-01-28 18:55:52
+415,# # # directorate of public relations - - - - -,47,12,14,396,india_2005_AnnualReport.md,2025-01-28 18:55:52
+416,# # # # #,9,5,7,397,india_2005_AnnualReport.md,2025-01-28 18:55:52
+417,# # # # #,9,5,7,398,india_2005_AnnualReport.md,2025-01-28 18:55:52
+418,# # # # #,9,5,7,399,india_2005_AnnualReport.md,2025-01-28 18:55:52
+419,# # # # # - - - - -,19,10,12,400,india_2005_AnnualReport.md,2025-01-28 18:55:52
+420,# # # army purchase organisation ( apo ),40,9,12,401,india_2005_AnnualReport.md,2025-01-28 18:55:52
+421,# # # services sports control board ( sscb ) - - - - -,54,15,18,402,india_2005_AnnualReport.md,2025-01-28 18:55:52
+422,# # # # #,9,5,7,403,india_2005_AnnualReport.md,2025-01-28 18:55:52
+423,# # # # #,9,5,7,404,india_2005_AnnualReport.md,2025-01-28 18:55:52
+424,# # # # #,9,5,7,405,india_2005_AnnualReport.md,2025-01-28 18:55:52
+425,# # # # #,9,5,7,406,india_2005_AnnualReport.md,2025-01-28 18:55:52
+426,# # # # #,9,5,7,407,india_2005_AnnualReport.md,2025-01-28 18:55:52
+427,# # # armed forces film & photo division ( affpd ) - - - - -,60,17,21,408,india_2005_AnnualReport.md,2025-01-28 18:55:52
+428,# # # school of foreign languages ( sfl ) - - - - -,51,15,18,409,india_2005_AnnualReport.md,2025-01-28 18:55:52
+429,# # # # #,9,5,7,410,india_2005_AnnualReport.md,2025-01-28 18:55:52
+430,# # # # #,9,5,7,411,india_2005_AnnualReport.md,2025-01-28 18:55:52
+431,# # # # #,9,5,7,412,india_2005_AnnualReport.md,2025-01-28 18:55:52
+432,# # # # #,9,5,7,413,india_2005_AnnualReport.md,2025-01-28 18:55:52
+433,# # # history division - - - - -,32,10,12,414,india_2005_AnnualReport.md,2025-01-28 18:55:52
+434,# # # national defence college,30,6,8,415,india_2005_AnnualReport.md,2025-01-28 18:55:52
+435,# # # # #,9,5,7,416,india_2005_AnnualReport.md,2025-01-28 18:55:52
+436,# # # # #,9,5,7,417,india_2005_AnnualReport.md,2025-01-28 18:55:52
+437,# # # # #,9,5,7,418,india_2005_AnnualReport.md,2025-01-28 18:55:52
+438,# # # # #,9,5,7,419,india_2005_AnnualReport.md,2025-01-28 18:55:52
+439,# # # # #,9,5,7,420,india_2005_AnnualReport.md,2025-01-28 18:55:52
+440,# # # # #,9,5,7,421,india_2005_AnnualReport.md,2025-01-28 18:55:52
+441,# # # # #,9,5,7,422,india_2005_AnnualReport.md,2025-01-28 18:55:52
+442,# # # # #,9,5,7,423,india_2005_AnnualReport.md,2025-01-28 18:55:52
+443,# # # college of defence management ( cdm ) - - - - -,53,15,18,424,india_2005_AnnualReport.md,2025-01-28 18:55:52
+444,# # # defence services staff college ( dssc ),45,10,13,425,india_2005_AnnualReport.md,2025-01-28 18:55:52
+445,# # # ministry of defence library - - - - -,43,12,14,426,india_2005_AnnualReport.md,2025-01-28 18:55:52
+446,#,1,1,3,427,india_2005_AnnualReport.md,2025-01-28 18:55:52
+447,# # _ ima cadets during passing out ceremony _ - - - - -,56,15,18,428,india_2005_AnnualReport.md,2025-01-28 18:55:52
+448,# #,3,2,4,429,india_2005_AnnualReport.md,2025-01-28 18:55:52
+449,# # # # #,9,5,7,430,india_2005_AnnualReport.md,2025-01-28 18:55:52
+450,# # # recruitment in the armed forces,37,8,10,431,india_2005_AnnualReport.md,2025-01-28 18:55:52
+451,# # # recruitment of officers in the armed forces through upsc [ ],66,14,17,432,india_2005_AnnualReport.md,2025-01-28 18:55:52
+452,# # # non - upsc entries in the army as commissioned officers - - - - - - - - - -,81,23,26,433,india_2005_AnnualReport.md,2025-01-28 18:55:52
+453,# # # service entries in the army as commissioned officers - - - - -,68,16,18,434,india_2005_AnnualReport.md,2025-01-28 18:55:52
+454,# # # # #,9,5,7,435,india_2005_AnnualReport.md,2025-01-28 18:55:52
+455,# # # # #,9,5,7,436,india_2005_AnnualReport.md,2025-01-28 18:55:52
+456,# # # # #,9,5,7,437,india_2005_AnnualReport.md,2025-01-28 18:55:52
+457,# # # # #,9,5,7,438,india_2005_AnnualReport.md,2025-01-28 18:55:52
+458,# # # # #,9,5,7,439,india_2005_AnnualReport.md,2025-01-28 18:55:52
+459,# # # # #,9,5,7,440,india_2005_AnnualReport.md,2025-01-28 18:55:52
+460,"# # # intake - - - - - | col1 | table 10. 1 | col3 | col4 | col5 | | - - - | - - - | - - - | - - - | - - - | | 01 | 7 | | | * * > | | 01 | 2 | | | * 3c | | | 01 |. 0 % 71 |? 33 | | | | 01 | "" "" | c | | | | 01 | / "" ( | > | | | | 01 | "" 0 / $ 1 | | | | 01 |, | | | * > > | |",273,119,130,441,india_2005_AnnualReport.md,2025-01-28 18:55:52
+461,"| 01 | / 7 / 0 ( 1 |? 3 | | | | 01 | / / "" 0! 1 | - 33 | | | | 01 | "" "" |, 3 | | | 01 |, & | | | - = 3 | | | 01 | 67 / | > - | | | | 01 | / / "" 0! 1 | 3 ; | | | | 01 |, u3! 7 / | ; | | | | 01 |! + "" | 3 | |",206,94,105,441,india_2005_AnnualReport.md,2025-01-28 18:55:52
+462,# # # non - upsc entries in the navy as commissioned officers,61,13,16,442,india_2005_AnnualReport.md,2025-01-28 18:55:52
+463,# # # # #,9,5,7,443,india_2005_AnnualReport.md,2025-01-28 18:55:52
+464,# # # # #,9,5,7,444,india_2005_AnnualReport.md,2025-01-28 18:55:52
+465,# # # # # - - - - -,19,10,12,445,india_2005_AnnualReport.md,2025-01-28 18:55:52
+466,# # # recruitment of officers in air force - - - - -,52,14,16,446,india_2005_AnnualReport.md,2025-01-28 18:55:52
+467,# # # recruitment of personnel below officer rank ( pbor ) in the army - - - - -,80,20,23,447,india_2005_AnnualReport.md,2025-01-28 18:55:52
+468,# # # recruitment of sailors in the navy - - - - -,50,14,16,448,india_2005_AnnualReport.md,2025-01-28 18:55:52
+469,# # # recruitment of personnel below officer rank in the air force,66,13,15,449,india_2005_AnnualReport.md,2025-01-28 18:55:52
+470,# # # # #,9,5,7,450,india_2005_AnnualReport.md,2025-01-28 18:55:52
+471,# # # # #,9,5,7,451,india_2005_AnnualReport.md,2025-01-28 18:55:52
+472,# # # # #,9,5,7,452,india_2005_AnnualReport.md,2025-01-28 18:55:52
+473,# # # # #,9,5,7,453,india_2005_AnnualReport.md,2025-01-28 18:55:52
+474,# # # # #,9,5,7,454,india_2005_AnnualReport.md,2025-01-28 18:55:52
+475,# # # # #,9,5,7,455,india_2005_AnnualReport.md,2025-01-28 18:55:52
+476,# # # new developments in the area of recruitment in the indian air force - - - - -,83,20,22,456,india_2005_AnnualReport.md,2025-01-28 18:55:52
+477,# # # training for defence services,35,7,9,457,india_2005_AnnualReport.md,2025-01-28 18:55:52
+478,# # # # #,9,5,7,458,india_2005_AnnualReport.md,2025-01-28 18:55:52
+479,# # # # #,9,5,7,459,india_2005_AnnualReport.md,2025-01-28 18:55:52
+480,# # # # #,9,5,7,460,india_2005_AnnualReport.md,2025-01-28 18:55:52
+481,# # # # #,9,5,7,461,india_2005_AnnualReport.md,2025-01-28 18:55:52
+482,# # # # #,9,5,7,462,india_2005_AnnualReport.md,2025-01-28 18:55:52
+483,# # # sainik schools - - - - - _ training at nda _ [ ] - - - - -,64,22,26,463,india_2005_AnnualReport.md,2025-01-28 18:55:52
+484,# # # military schools - - - - - _ hut of remembrance at national defence academy _,83,19,21,464,india_2005_AnnualReport.md,2025-01-28 18:55:52
+485,# # # rashtriya indian military college ( rimc ),48,10,15,465,india_2005_AnnualReport.md,2025-01-28 18:55:52
+486,# # # national defence acadamy ( nda ) - - - - -,48,14,19,466,india_2005_AnnualReport.md,2025-01-28 18:55:52
+487,"# # # indian military academy ( ima ), dehradun",47,10,16,467,india_2005_AnnualReport.md,2025-01-28 18:55:52
+488,# # # # #,9,5,7,468,india_2005_AnnualReport.md,2025-01-28 18:55:52
+489,# # # # #,9,5,7,469,india_2005_AnnualReport.md,2025-01-28 18:55:52
+490,"# # # officer training academy ( ota ), chennai - - - - -",57,15,19,470,india_2005_AnnualReport.md,2025-01-28 18:55:52
+491,"# # # army war college, mhow - - - - -",38,12,16,471,india_2005_AnnualReport.md,2025-01-28 18:55:52
+492,# # # junior leaders,20,5,7,472,india_2005_AnnualReport.md,2025-01-28 18:55:52
+493,# # # # #,9,5,7,473,india_2005_AnnualReport.md,2025-01-28 18:55:52
+494,"# # # academy ( jla ),",22,7,11,474,india_2005_AnnualReport.md,2025-01-28 18:55:52
+495,# # # # #,9,5,7,475,india_2005_AnnualReport.md,2025-01-28 18:55:52
+496,# # # bareilly,14,4,7,476,india_2005_AnnualReport.md,2025-01-28 18:55:52
+497,# # # # #,9,5,7,477,india_2005_AnnualReport.md,2025-01-28 18:55:52
+498,"# # # junior leaders academy ( jla ), ramgarh",45,10,15,478,india_2005_AnnualReport.md,2025-01-28 18:55:52
+499,"# # # high altitude warfare school ( haws ), gulmarg",52,11,17,479,india_2005_AnnualReport.md,2025-01-28 18:55:52
+500,"# # # counter insurgency & jungle warfare school ( cijw ), veirangte - - - - -",78,18,26,480,india_2005_AnnualReport.md,2025-01-28 18:55:52
+501,# # # # #,9,5,7,481,india_2005_AnnualReport.md,2025-01-28 18:55:52
+502,# # # # #,9,5,7,482,india_2005_AnnualReport.md,2025-01-28 18:55:52
+503,# # # # #,9,5,7,483,india_2005_AnnualReport.md,2025-01-28 18:55:52
+504,# # # # #,9,5,7,484,india_2005_AnnualReport.md,2025-01-28 18:55:52
+505,# # # # #,9,5,7,485,india_2005_AnnualReport.md,2025-01-28 18:55:52
+506,# # # counter insurgency pre induction training battle schools - - - - -,72,15,17,486,india_2005_AnnualReport.md,2025-01-28 18:55:52
+507,"# # # infantry school, mhow",27,6,10,487,india_2005_AnnualReport.md,2025-01-28 18:55:52
+508,"# # # junior leaders wing ( jlw ), belgaum",42,10,17,488,india_2005_AnnualReport.md,2025-01-28 18:55:52
+509,# # # college of materials management - - - - -,47,12,14,489,india_2005_AnnualReport.md,2025-01-28 18:55:52
+510,# # # school of artillery,25,6,8,490,india_2005_AnnualReport.md,2025-01-28 18:55:52
+511,"# # # army air defence college, gopalpur - - - - - _ training at army air defence college, gopalpur _",101,22,30,491,india_2005_AnnualReport.md,2025-01-28 18:55:52
+512,"# # # army service corps centre and college, bangalore",54,10,13,492,india_2005_AnnualReport.md,2025-01-28 18:55:52
+513,"# # # army education corps training college and centre, pachmarhi - - - - -",75,16,22,493,india_2005_AnnualReport.md,2025-01-28 18:55:52
+514,# # # # #,9,5,7,494,india_2005_AnnualReport.md,2025-01-28 18:55:52
+515,# # # # #,9,5,7,495,india_2005_AnnualReport.md,2025-01-28 18:55:52
+516,# # # # #,9,5,7,496,india_2005_AnnualReport.md,2025-01-28 18:55:52
+517,"# # # military music wing, pachmarhi",36,7,13,497,india_2005_AnnualReport.md,2025-01-28 18:55:52
+518,"# # # remount and veterinary corps centre and school, meerut",60,11,17,498,india_2005_AnnualReport.md,2025-01-28 18:55:52
+519,# # # army sports institute - - - - -,37,11,13,499,india_2005_AnnualReport.md,2025-01-28 18:55:52
+520,"# # # army school of physical training, pune",44,9,12,500,india_2005_AnnualReport.md,2025-01-28 18:55:52
+521,"# # # combat army aviator training school ( caats ), nasik road",63,13,18,501,india_2005_AnnualReport.md,2025-01-28 18:55:52
+522,"# # # college of military engineering ( cme ), pune",51,11,15,502,india_2005_AnnualReport.md,2025-01-28 18:55:52
+523,"# # # military college of electronics and mechanical engineering ( mceme ), secunderabad - - - - -",98,19,25,503,india_2005_AnnualReport.md,2025-01-28 18:55:52
+524,"# # # corps of military police centre and school, bangalore",59,11,14,504,india_2005_AnnualReport.md,2025-01-28 18:55:52
+525,"# # # army airborne training school, agra",41,8,11,505,india_2005_AnnualReport.md,2025-01-28 18:55:52
+526,# # # military college of t e l e c o m m u n i c a t i o n engineering ( mcte ) - - - - -,90,32,35,506,india_2005_AnnualReport.md,2025-01-28 18:55:52
+527,# # # military intelligence training school and depot,53,9,11,507,india_2005_AnnualReport.md,2025-01-28 18:55:52
+528,"# # # electronics and mechanical engineering school, vadodara",61,9,14,508,india_2005_AnnualReport.md,2025-01-28 18:55:52
+529,"# # # institute of military law, kamptee - - - - -",50,13,18,509,india_2005_AnnualReport.md,2025-01-28 18:55:52
+530,"# # # armoured corps centre and school, ahmednagar",50,9,13,510,india_2005_AnnualReport.md,2025-01-28 18:55:52
+531,# # # training of foreign army personnel - - - - -,50,13,15,511,india_2005_AnnualReport.md,2025-01-28 18:55:52
+532,#,1,1,3,512,india_2005_AnnualReport.md,2025-01-28 18:55:52
+533,# # _ pension grievances of ex - servicemen being sorted out in defence pension adalat _ - - - - -,98,22,27,513,india_2005_AnnualReport.md,2025-01-28 18:55:52
+534,# #,3,2,4,514,india_2005_AnnualReport.md,2025-01-28 18:55:52
+535,# # # # # - - - - -,19,10,12,515,india_2005_AnnualReport.md,2025-01-28 18:55:52
+536,# # # # #,9,5,7,516,india_2005_AnnualReport.md,2025-01-28 18:55:52
+537,# # # # #,9,5,7,517,india_2005_AnnualReport.md,2025-01-28 18:55:52
+538,# # # # #,9,5,7,518,india_2005_AnnualReport.md,2025-01-28 18:55:52
+539,# # # # #,9,5,7,519,india_2005_AnnualReport.md,2025-01-28 18:55:52
+540,# # # # #,9,5,7,520,india_2005_AnnualReport.md,2025-01-28 18:55:52
+541,# # # # #,9,5,7,521,india_2005_AnnualReport.md,2025-01-28 18:55:52
+542,# # # # #,9,5,7,522,india_2005_AnnualReport.md,2025-01-28 18:55:52
+543,# # # # #,9,5,7,523,india_2005_AnnualReport.md,2025-01-28 18:55:52
+544,# # # # #,9,5,7,524,india_2005_AnnualReport.md,2025-01-28 18:55:52
+545,# # # # #,9,5,7,525,india_2005_AnnualReport.md,2025-01-28 18:55:52
+546,# # # # #,9,5,7,526,india_2005_AnnualReport.md,2025-01-28 18:55:52
+547,# # # # #,9,5,7,527,india_2005_AnnualReport.md,2025-01-28 18:55:52
+548,# # # # #,9,5,7,528,india_2005_AnnualReport.md,2025-01-28 18:55:52
+549,# # # # #,9,5,7,529,india_2005_AnnualReport.md,2025-01-28 18:55:52
+550,# # # resettlement,18,4,7,530,india_2005_AnnualReport.md,2025-01-28 18:55:52
+551,# # # training programmes - - - - - - - - - - * * table 11. 1 * *,65,22,25,531,india_2005_AnnualReport.md,2025-01-28 18:55:52
+552,"# # # re - employment | b & & | 3,, - #,? | 3,,? #, * | 3,, * #, > w | | - - - | - - - | - - - | - - - | | 6, | * = - | > ; c | = 3 ; | | 8 ' $, |?, c | -, > |? - c * | | & a! 3, |, 3 |, 3 | =? - | - - - - - * * table 11. 2 * *",227,95,120,532,india_2005_AnnualReport.md,2025-01-28 18:55:52
+553,"# # # schemes for self - employment | col1 | col2 | "" | # | | - - - | - - - | - - - | - - - | | - | * *, - | *? * c |? - - w | | | -, c3 | 3 * ; | - * > w | | 8 | -, >? | 3c > - | ;, > w | | 9 | c *? - |, c - c | 3, ww | - - - - - - - - - - - - - - -",250,106,123,533,india_2005_AnnualReport.md,2025-01-28 18:55:52
+554,# # # # #,9,5,7,534,india_2005_AnnualReport.md,2025-01-28 18:55:52
+555,# # # # #,9,5,7,535,india_2005_AnnualReport.md,2025-01-28 18:55:52
+556,# # # # #,9,5,7,536,india_2005_AnnualReport.md,2025-01-28 18:55:52
+557,# # # # #,9,5,7,537,india_2005_AnnualReport.md,2025-01-28 18:55:52
+558,# # # # #,9,5,7,538,india_2005_AnnualReport.md,2025-01-28 18:55:52
+559,# # # # #,9,5,7,539,india_2005_AnnualReport.md,2025-01-28 18:55:52
+560,# # # # #,9,5,7,540,india_2005_AnnualReport.md,2025-01-28 18:55:52
+561,# # # # #,9,5,7,541,india_2005_AnnualReport.md,2025-01-28 18:55:52
+562,# # # # #,9,5,7,542,india_2005_AnnualReport.md,2025-01-28 18:55:52
+563,# # # # #,9,5,7,543,india_2005_AnnualReport.md,2025-01-28 18:55:52
+564,# # # # #,9,5,7,544,india_2005_AnnualReport.md,2025-01-28 18:55:52
+565,# # # # #,9,5,7,545,india_2005_AnnualReport.md,2025-01-28 18:55:52
+566,# # # # #,9,5,7,546,india_2005_AnnualReport.md,2025-01-28 18:55:52
+567,# # # # #,9,5,7,547,india_2005_AnnualReport.md,2025-01-28 18:55:52
+568,# # # # #,9,5,7,548,india_2005_AnnualReport.md,2025-01-28 18:55:52
+569,# # # # #,9,5,7,549,india_2005_AnnualReport.md,2025-01-28 18:55:52
+570,# # # # #,9,5,7,550,india_2005_AnnualReport.md,2025-01-28 18:55:52
+571,# # # # #,9,5,7,551,india_2005_AnnualReport.md,2025-01-28 18:55:52
+572,# # # # #,9,5,7,552,india_2005_AnnualReport.md,2025-01-28 18:55:52
+573,# # # # #,9,5,7,553,india_2005_AnnualReport.md,2025-01-28 18:55:52
+574,# # # new initiatives and thrust areas,38,8,10,554,india_2005_AnnualReport.md,2025-01-28 18:55:52
+575,# # # publicity - - - - -,25,9,11,555,india_2005_AnnualReport.md,2025-01-28 18:55:52
+576,"# # # welfare - - - - - - - - - - _ medical officer checking the patients _ - - - - - | col1 | table 11. 3 | | - - - | - - - | | h | 8 91 < $ % > | | 3,, - #,? |, ccc > ; | | 3,,? #, * | c3, c * | | 3,, * #, > |, 3 = 3? cw |",224,81,102,556,india_2005_AnnualReport.md,2025-01-28 18:55:52
+577,# # # pension to armed forces personnel,39,8,10,557,india_2005_AnnualReport.md,2025-01-28 18:55:52
+578,# # # retiring / service pension - - - - -,42,12,14,558,india_2005_AnnualReport.md,2025-01-28 18:55:52
+579,# # # commutation of pension,28,6,10,559,india_2005_AnnualReport.md,2025-01-28 18:55:52
+580,# # # family pension,20,5,7,560,india_2005_AnnualReport.md,2025-01-28 18:55:52
+581,# # # disability pension - - - - - [ ],38,12,14,561,india_2005_AnnualReport.md,2025-01-28 18:55:52
+582,# # # war injury pension,24,6,8,562,india_2005_AnnualReport.md,2025-01-28 18:55:52
+583,# # # constant attendance allowance - - - - -,45,11,13,563,india_2005_AnnualReport.md,2025-01-28 18:55:52
+584,# # # special family pension,28,6,8,564,india_2005_AnnualReport.md,2025-01-28 18:55:52
+585,# # # liberalised family pension,32,6,9,565,india_2005_AnnualReport.md,2025-01-28 18:55:52
+586,# # # # #,9,5,7,566,india_2005_AnnualReport.md,2025-01-28 18:55:52
+587,# # # # #,9,5,7,567,india_2005_AnnualReport.md,2025-01-28 18:55:52
+588,# # # # #,9,5,7,568,india_2005_AnnualReport.md,2025-01-28 18:55:52
+589,# # # # #,9,5,7,569,india_2005_AnnualReport.md,2025-01-28 18:55:52
+590,# # # # #,9,5,7,570,india_2005_AnnualReport.md,2025-01-28 18:55:52
+591,# # # # #,9,5,7,571,india_2005_AnnualReport.md,2025-01-28 18:55:52
+592,# # # # #,9,5,7,572,india_2005_AnnualReport.md,2025-01-28 18:55:52
+593,# # # # #,9,5,7,573,india_2005_AnnualReport.md,2025-01-28 18:55:52
+594,# # # # #,9,5,7,574,india_2005_AnnualReport.md,2025-01-28 18:55:52
+595,# # # # #,9,5,7,575,india_2005_AnnualReport.md,2025-01-28 18:55:52
+596,# # # ex - gratia awards in cases of death of cadets ( direct ),63,16,20,576,india_2005_AnnualReport.md,2025-01-28 18:55:52
+597,# # # ex - gratia awards in cases of disability of cadets ( direct ) - - - - -,78,21,25,577,india_2005_AnnualReport.md,2025-01-28 18:55:52
+598,# # # steps taken for redressal of grievances of defence pensioners - - - - -,77,17,24,578,india_2005_AnnualReport.md,2025-01-28 18:55:52
+599,# # # # #,9,5,7,579,india_2005_AnnualReport.md,2025-01-28 18:55:52
+600,# # # # #,9,5,7,580,india_2005_AnnualReport.md,2025-01-28 18:55:52
+601,# # # # #,9,5,7,581,india_2005_AnnualReport.md,2025-01-28 18:55:52
+602,# # # # #,9,5,7,582,india_2005_AnnualReport.md,2025-01-28 18:55:52
+603,# # # # #,9,5,7,583,india_2005_AnnualReport.md,2025-01-28 18:55:52
+604,# # # # #,9,5,7,584,india_2005_AnnualReport.md,2025-01-28 18:55:52
+605,# # # # #,9,5,7,585,india_2005_AnnualReport.md,2025-01-28 18:55:52
+606,# # # # #,9,5,7,586,india_2005_AnnualReport.md,2025-01-28 18:55:52
+607,# # # # #,9,5,7,587,india_2005_AnnualReport.md,2025-01-28 18:55:52
+608,# # # # #,9,5,7,588,india_2005_AnnualReport.md,2025-01-28 18:55:52
+609,# # # # #,9,5,7,589,india_2005_AnnualReport.md,2025-01-28 18:55:52
+610,# # # # #,9,5,7,590,india_2005_AnnualReport.md,2025-01-28 18:55:52
+611,# # # # #,9,5,7,591,india_2005_AnnualReport.md,2025-01-28 18:55:52
+612,# # # # # - - - - -,19,10,12,592,india_2005_AnnualReport.md,2025-01-28 18:55:52
+613,#,1,1,3,593,india_2005_AnnualReport.md,2025-01-28 18:55:52
+614,# # _ indian army personnel in rescuing victims of earthquake in jammu & kashmir _ - - - - -,92,21,23,594,india_2005_AnnualReport.md,2025-01-28 18:55:52
+615,# #,3,2,4,595,india_2005_AnnualReport.md,2025-01-28 18:55:52
+616,# # # # #,9,5,7,596,india_2005_AnnualReport.md,2025-01-28 18:55:52
+617,# # # # #,9,5,7,597,india_2005_AnnualReport.md,2025-01-28 18:55:52
+618,# # # # #,9,5,7,598,india_2005_AnnualReport.md,2025-01-28 18:55:52
+619,# # # # #,9,5,7,599,india_2005_AnnualReport.md,2025-01-28 18:55:52
+620,# # # # #,9,5,7,600,india_2005_AnnualReport.md,2025-01-28 18:55:52
+621,# # # # #,9,5,7,601,india_2005_AnnualReport.md,2025-01-28 18:55:52
+622,# # # # #,9,5,7,602,india_2005_AnnualReport.md,2025-01-28 18:55:52
+623,# # # # # - - - - -,19,10,12,603,india_2005_AnnualReport.md,2025-01-28 18:55:52
+624,# # # army,10,4,6,604,india_2005_AnnualReport.md,2025-01-28 18:55:52
+625,# # # # flood relief operations - - - - -,41,12,14,605,india_2005_AnnualReport.md,2025-01-28 18:55:52
+626,# # # # earthquake relief operations in jammu & kashmir - - - - - _ indian army distributing relief material to j & k earthquake victims _,138,29,31,606,india_2005_AnnualReport.md,2025-01-28 18:55:52
+627,# # # # #,9,5,7,607,india_2005_AnnualReport.md,2025-01-28 18:55:52
+628,# # # # #,9,5,7,608,india_2005_AnnualReport.md,2025-01-28 18:55:52
+629,# # # # #,9,5,7,609,india_2005_AnnualReport.md,2025-01-28 18:55:52
+630,# # # # #,9,5,7,610,india_2005_AnnualReport.md,2025-01-28 18:55:52
+631,# # # # #,9,5,7,611,india_2005_AnnualReport.md,2025-01-28 18:55:52
+632,# # # # #,9,5,7,612,india_2005_AnnualReport.md,2025-01-28 18:55:52
+633,# # # # #,9,5,7,613,india_2005_AnnualReport.md,2025-01-28 18:55:52
+634,# # # # #,9,5,7,614,india_2005_AnnualReport.md,2025-01-28 18:55:52
+635,# # # other types of assistance - - - - -,41,12,14,615,india_2005_AnnualReport.md,2025-01-28 18:55:52
+636,# # # antractic expedition [ ] - - - - -,40,12,16,616,india_2005_AnnualReport.md,2025-01-28 18:55:52
+637,# # # communication support,27,5,7,617,india_2005_AnnualReport.md,2025-01-28 18:55:52
+638,# # # navy,10,4,6,618,india_2005_AnnualReport.md,2025-01-28 18:55:52
+639,# # # # #,9,5,7,619,india_2005_AnnualReport.md,2025-01-28 18:55:52
+640,# # # # #,9,5,7,620,india_2005_AnnualReport.md,2025-01-28 18:55:52
+641,# # # # #,9,5,7,621,india_2005_AnnualReport.md,2025-01-28 18:55:52
+642,# # # # #,9,5,7,622,india_2005_AnnualReport.md,2025-01-28 18:55:52
+643,# # # # #,9,5,7,623,india_2005_AnnualReport.md,2025-01-28 18:55:52
+644,# # # # #,9,5,7,624,india_2005_AnnualReport.md,2025-01-28 18:55:52
+645,# # # # #,9,5,7,625,india_2005_AnnualReport.md,2025-01-28 18:55:52
+646,# # # # #,9,5,7,626,india_2005_AnnualReport.md,2025-01-28 18:55:52
+647,# # # # #,9,5,7,627,india_2005_AnnualReport.md,2025-01-28 18:55:52
+648,# # # # # - - - - - _ indian naval personnel providing medical aid to tsunami victims in andaman & nicobar _ - - - - - - - - - -,128,35,39,628,india_2005_AnnualReport.md,2025-01-28 18:55:52
+649,# # # indian coast guard,24,6,8,629,india_2005_AnnualReport.md,2025-01-28 18:55:52
+650,# # # air force - - - - - _ indian air force personnel extending helping hand to the mumbai flood victims _,107,24,26,630,india_2005_AnnualReport.md,2025-01-28 18:55:52
+651,# # # # # - - - - - - - - - -,29,15,17,631,india_2005_AnnualReport.md,2025-01-28 18:55:52
+652,#,1,1,3,632,india_2005_AnnualReport.md,2025-01-28 18:55:52
+653,"# # _ ncc girl cadets in republic day parade, 2006 _ - - - - -",62,17,21,633,india_2005_AnnualReport.md,2025-01-28 18:55:52
+654,# #,3,2,4,634,india_2005_AnnualReport.md,2025-01-28 18:55:52
+655,# # # # #,9,5,7,635,india_2005_AnnualReport.md,2025-01-28 18:55:52
+656,# # # # #,9,5,7,636,india_2005_AnnualReport.md,2025-01-28 18:55:52
+657,# # # # #,9,5,7,637,india_2005_AnnualReport.md,2025-01-28 18:55:52
+658,# # # # #,9,5,7,638,india_2005_AnnualReport.md,2025-01-28 18:55:52
+659,# # # training of cadets - - - - - _ ncc cadets presenting cultural programme _ - - - - - - - - - - _ ncc cadets performing slithering as part of air wing training _ - - - - -,175,45,50,639,india_2005_AnnualReport.md,2025-01-28 18:55:52
+660,"# # # adventure training - - - - - * * table 13. 1 * * | 7 % | | * 3 |, | | | 7 % 1 | | - - - | - - - | - - - | - - - | - - - | - - - | - - - | | | | | | * c = | / 3, ( 3,, * | 3, / % u, / | | 3 | + 4 | + | | - > - | / # 3 3,, * | - * / % g * / | | - | ' | ' |. |?",264,117,130,640,india_2005_AnnualReport.md,2025-01-28 18:55:52
+661,",? | % > # 3 3,,? | 3? / % g > / | |? |. |. | + |? = | % * 3,,? 9 ; 3,, * | 3 ; / % g - / | | * | | a | ' |? -, |.? 93 3,, * | =, / % g, / | | > |! | | ' |? - > | 93 > > 3,, * |?, / % | | ; |. | | : |? = | ( ; n3? 3,, * |?",222,93,130,640,india_2005_AnnualReport.md,2025-01-28 18:55:52
+662,", / % | | = | 9g ' | + $ | |? * c | /? n3 - 3,, * | 3 * / % u, / | | c | | | $ | *? * | 3c / c 3,, * | - - / % g ; / | | | | ' |! | - *, | / cn -, 3,, * | -, / % | |, | ' | "" | | 3?, | 9 # > 3,, * | 3 / % | | | | ' | ' | - *, | % > #",233,105,130,640,india_2005_AnnualReport.md,2025-01-28 18:55:52
+663,"; 3,,? | *, / % | | | | ' | ' |? *, | ( 3, # 3c 3,, * | 3 / % | | | ) 4 | 9 $ | |? >, | > # 3 ; 3,, * | - = / % | | | | % | |? * > | / * # > 3,, * | 3, / % g, / | | | | | |,,? | | # "" m 0. @ | - - - - -",202,90,115,640,india_2005_AnnualReport.md,2025-01-28 18:55:52
+664,# # # youth exchange,20,5,7,641,india_2005_AnnualReport.md,2025-01-28 18:55:52
+665,# # # # #,9,5,7,642,india_2005_AnnualReport.md,2025-01-28 18:55:52
+666,# # # programme ( yep ),23,7,9,643,india_2005_AnnualReport.md,2025-01-28 18:55:52
+667,# # # # #,9,5,7,644,india_2005_AnnualReport.md,2025-01-28 18:55:52
+668,# # # # #,9,5,7,645,india_2005_AnnualReport.md,2025-01-28 18:55:52
+669,# # # # #,9,5,7,646,india_2005_AnnualReport.md,2025-01-28 18:55:52
+670,# # # # #,9,5,7,647,india_2005_AnnualReport.md,2025-01-28 18:55:52
+671,# # # # #,9,5,7,648,india_2005_AnnualReport.md,2025-01-28 18:55:52
+672,# # # # #,9,5,7,649,india_2005_AnnualReport.md,2025-01-28 18:55:52
+673,# # # # #,9,5,7,650,india_2005_AnnualReport.md,2025-01-28 18:55:52
+674,# # # # #,9,5,7,651,india_2005_AnnualReport.md,2025-01-28 18:55:52
+675,# # # # #,9,5,7,652,india_2005_AnnualReport.md,2025-01-28 18:55:52
+676,# # # social service and community development - - - - - - - - - -,66,18,20,653,india_2005_AnnualReport.md,2025-01-28 18:55:52
+677,# # # activities at national level - - - - -,44,12,14,654,india_2005_AnnualReport.md,2025-01-28 18:55:52
+678,# # # training of saff - - - - -,32,11,14,655,india_2005_AnnualReport.md,2025-01-28 18:55:52
+679,# # # planning section - - - - -,32,10,12,656,india_2005_AnnualReport.md,2025-01-28 18:55:52
+680,#,1,1,3,657,india_2005_AnnualReport.md,2025-01-28 18:55:52
+681,# # _ french refueller refuelling iaf ’ s su - 30 _ - - - - -,61,18,25,658,india_2005_AnnualReport.md,2025-01-28 18:55:52
+682,# # - - - - - _ indian sea harriers with us fa18s during indo - us exercise malabar cy - 05 _ - - - - -,103,29,35,659,india_2005_AnnualReport.md,2025-01-28 18:55:52
+683,# # # # #,9,5,7,660,india_2005_AnnualReport.md,2025-01-28 18:55:52
+684,# # # # #,9,5,7,661,india_2005_AnnualReport.md,2025-01-28 18:55:52
+685,# # # # #,9,5,7,662,india_2005_AnnualReport.md,2025-01-28 18:55:52
+686,# # # # #,9,5,7,663,india_2005_AnnualReport.md,2025-01-28 18:55:52
+687,# # # # #,9,5,7,664,india_2005_AnnualReport.md,2025-01-28 18:55:52
+688,# # # # #,9,5,7,665,india_2005_AnnualReport.md,2025-01-28 18:55:52
+689,# # # # #,9,5,7,666,india_2005_AnnualReport.md,2025-01-28 18:55:52
+690,# # # # #,9,5,7,667,india_2005_AnnualReport.md,2025-01-28 18:55:52
+691,# # # # #,9,5,7,668,india_2005_AnnualReport.md,2025-01-28 18:55:52
+692,# # # # # - - - - - _ iaf su - 30 with french mirages during garuda 2 _,71,22,28,669,india_2005_AnnualReport.md,2025-01-28 18:55:52
+693,# # # # #,9,5,7,670,india_2005_AnnualReport.md,2025-01-28 18:55:52
+694,# # # # #,9,5,7,671,india_2005_AnnualReport.md,2025-01-28 18:55:52
+695,# # # # #,9,5,7,672,india_2005_AnnualReport.md,2025-01-28 18:55:52
+696,# # # # #,9,5,7,673,india_2005_AnnualReport.md,2025-01-28 18:55:52
+697,# # # # #,9,5,7,674,india_2005_AnnualReport.md,2025-01-28 18:55:52
+698,# # # # #,9,5,7,675,india_2005_AnnualReport.md,2025-01-28 18:55:52
+699,# # # # # - - - - - _ personnel during indo - russian joint exercise _ [ ] - - - - - - - - - - - - - - - - - - - - - - - - -,124,46,48,676,india_2005_AnnualReport.md,2025-01-28 18:55:52
+700,#,1,1,3,677,india_2005_AnnualReport.md,2025-01-28 18:55:52
+701,# # _ investiture ceremony - 2005 held at rashtrapati bhawan _ - - - - -,72,17,25,678,india_2005_AnnualReport.md,2025-01-28 18:55:52
+702,# #,3,2,4,679,india_2005_AnnualReport.md,2025-01-28 18:55:52
+703,# # # # #,9,5,7,680,india_2005_AnnualReport.md,2025-01-28 18:55:52
+704,# # # institute for defence studies and analyses ( idsa ) [ ] - - - - -,71,19,22,681,india_2005_AnnualReport.md,2025-01-28 18:55:52
+705,# # # # #,9,5,7,682,india_2005_AnnualReport.md,2025-01-28 18:55:52
+706,# # # # #,9,5,7,683,india_2005_AnnualReport.md,2025-01-28 18:55:52
+707,# # # # #,9,5,7,684,india_2005_AnnualReport.md,2025-01-28 18:55:52
+708,# # # # #,9,5,7,685,india_2005_AnnualReport.md,2025-01-28 18:55:52
+709,# # # # # - - - - -,19,10,12,686,india_2005_AnnualReport.md,2025-01-28 18:55:52
+710,# # # mountaineering institutes,31,5,8,687,india_2005_AnnualReport.md,2025-01-28 18:55:52
+711,# # # # #,9,5,7,688,india_2005_AnnualReport.md,2025-01-28 18:55:52
+712,# # # # #,9,5,7,689,india_2005_AnnualReport.md,2025-01-28 18:55:52
+713,# # # # #,9,5,7,690,india_2005_AnnualReport.md,2025-01-28 18:55:52
+714,"# # # # # - - - - - * * table no. 15. 1 * * * * table no. 15. 2 * * | 9 | b2 | 72 | k2 | | - - - | - - - | - - - | - - - | | |, * |, * |,? | | |, 3 |, - |, | | |, 3 |, - | # | |. ( |, |, | # | | / g ) | # |, | # | | 9 | | @ 3 | | - - - | - - - | - -",249,109,130,691,india_2005_AnnualReport.md,2025-01-28 18:55:52
+715,"- | | | > > 3 | - * | | | * = | 3 | | | c, | = - | |. ( | = |, c | | / g ) | 3 - | # | - - - - - [ ] [ ] [ ]",108,53,58,691,india_2005_AnnualReport.md,2025-01-28 18:55:52
+716,# # # # #,9,5,7,692,india_2005_AnnualReport.md,2025-01-28 18:55:52
+717,# # # # #,9,5,7,693,india_2005_AnnualReport.md,2025-01-28 18:55:52
+718,# # # # #,9,5,7,694,india_2005_AnnualReport.md,2025-01-28 18:55:52
+719,# # # # #,9,5,7,695,india_2005_AnnualReport.md,2025-01-28 18:55:52
+720,# # # # #,9,5,7,696,india_2005_AnnualReport.md,2025-01-28 18:55:52
+721,# # # # # [ ],13,7,9,697,india_2005_AnnualReport.md,2025-01-28 18:55:52
+722,# # # # #,9,5,7,698,india_2005_AnnualReport.md,2025-01-28 18:55:52
+723,"# # # ceremonials, honours and awards",37,7,11,699,india_2005_AnnualReport.md,2025-01-28 18:55:52
+724,"# # # investiture ceremony, 2005 - - - - - * * table no. 15. 3 * * * * table no. 15. 4 * *",90,27,36,700,india_2005_AnnualReport.md,2025-01-28 18:55:52
+725,"# # # independence day ceremony, 2005 * * table no. 15. 5 * *",61,15,20,701,india_2005_AnnualReport.md,2025-01-28 18:55:52
+726,"# # # vijay diwas | | | | | - - - | - - - | - - - | | ' "" |, * | 0 - 1 | | / "" |? | 03 > 1 | | 6 m /. |, - | | - - - | - - - | | j /. | 3 = | | j /. |, | | j /. |? c | | 1 ' "" / "" /. 0 + 1 /. 0 + 1 /. 0 + 1 j /. 0 + 1 |!, c, * = >, * 3 | 8 93 9 #",246,110,130,702,india_2005_AnnualReport.md,2025-01-28 18:55:52
+727,", =, c # # | | - - - | - - - | - - - | - - - - - _ raksha mantri at vijaya diwas celebrations _",95,32,39,702,india_2005_AnnualReport.md,2025-01-28 18:55:52
+728,"# # # amar jawan jyoti ceremony, 2006",37,8,14,703,india_2005_AnnualReport.md,2025-01-28 18:55:52
+729,"# # # republic day celebrations, 2006 - - - - - _ republic day parade 2006 _",76,18,21,704,india_2005_AnnualReport.md,2025-01-28 18:55:52
+730,"# # # beating retreat ceremony, 2006",36,7,10,705,india_2005_AnnualReport.md,2025-01-28 18:55:52
+731,"# # # martyrs day ceremony, 2006 - - - - - | table no. 15. 6 | col2 | col3 | | - - - | - - - | - - - | | 1 |, - | 8 93 9 | | ' "" |, - |, - | | / "" | 3? | c | | /. i /. ij /. 0 + 1 |, | # | | /. i /. ij /. 0 + 1 | = * | 3 | | j /. | 3c | # | | j /. |, 3 | # | | j",262,106,130,706,india_2005_AnnualReport.md,2025-01-28 18:55:52
+732,"/. | * 3 | # | | j /. |, > | | | j /. | - 3 | # | | /. 0 + 1 |, | # | | /. i /. ij /. 0 % 1 | ; - | # |",103,47,59,706,india_2005_AnnualReport.md,2025-01-28 18:55:52
+733,# # # official language division _ beating retreat ceremony 2006 _ - - - - - - - - - - - - - - -,96,27,29,707,india_2005_AnnualReport.md,2025-01-28 18:55:52
+734,#,1,1,3,708,india_2005_AnnualReport.md,2025-01-28 18:55:52
+735,# #,3,2,4,709,india_2005_AnnualReport.md,2025-01-28 18:55:52
+736,# # # # #,9,5,7,710,india_2005_AnnualReport.md,2025-01-28 18:55:52
+737,# # # # #,9,5,7,711,india_2005_AnnualReport.md,2025-01-28 18:55:52
+738,# # # # #,9,5,7,712,india_2005_AnnualReport.md,2025-01-28 18:55:52
+739,# # # # #,9,5,7,713,india_2005_AnnualReport.md,2025-01-28 18:55:52
+740,# # # # #,9,5,7,714,india_2005_AnnualReport.md,2025-01-28 18:55:52
+741,# # # # #,9,5,7,715,india_2005_AnnualReport.md,2025-01-28 18:55:52
+742,# # # # #,9,5,7,716,india_2005_AnnualReport.md,2025-01-28 18:55:52
+743,# # # # #,9,5,7,717,india_2005_AnnualReport.md,2025-01-28 18:55:52
+744,# # # # # - - - - -,19,10,12,718,india_2005_AnnualReport.md,2025-01-28 18:55:52
+745,# # # department of defence research and development,52,9,11,719,india_2005_AnnualReport.md,2025-01-28 18:55:52
+746,# # # department of defence production - - - - -,48,12,14,720,india_2005_AnnualReport.md,2025-01-28 18:55:52
+747,# # # # #,9,5,7,721,india_2005_AnnualReport.md,2025-01-28 18:55:52
+748,# # # # #,9,5,7,722,india_2005_AnnualReport.md,2025-01-28 18:55:52
+749,# # # # #,9,5,7,723,india_2005_AnnualReport.md,2025-01-28 18:55:52
+750,# # # # #,9,5,7,724,india_2005_AnnualReport.md,2025-01-28 18:55:52
+751,# # # # #,9,5,7,725,india_2005_AnnualReport.md,2025-01-28 18:55:52
+752,# # # # #,9,5,7,726,india_2005_AnnualReport.md,2025-01-28 18:55:52
+753,# # # # #,9,5,7,727,india_2005_AnnualReport.md,2025-01-28 18:55:52
+754,# # # # #,9,5,7,728,india_2005_AnnualReport.md,2025-01-28 18:55:52
+755,# # # # #,9,5,7,729,india_2005_AnnualReport.md,2025-01-28 18:55:52
+756,# # # # #,9,5,7,730,india_2005_AnnualReport.md,2025-01-28 18:55:52
+757,# # # # # - - - - - - - - - -,29,15,17,731,india_2005_AnnualReport.md,2025-01-28 18:55:52
+758,#,1,1,3,732,india_2005_AnnualReport.md,2025-01-28 18:55:52
+759,# # _ a woman officer with the president of india dr. apj abdul kalam in forward areas _ - - - - -,98,24,29,733,india_2005_AnnualReport.md,2025-01-28 18:55:52
+760,# #,3,2,4,734,india_2005_AnnualReport.md,2025-01-28 18:55:52
+761,# # # # #,9,5,7,735,india_2005_AnnualReport.md,2025-01-28 18:55:52
+762,# # # indian army,17,5,7,736,india_2005_AnnualReport.md,2025-01-28 18:55:52
+763,# # # # #,9,5,7,737,india_2005_AnnualReport.md,2025-01-28 18:55:52
+764,# # # # #,9,5,7,738,india_2005_AnnualReport.md,2025-01-28 18:55:52
+765,# # # # #,9,5,7,739,india_2005_AnnualReport.md,2025-01-28 18:55:52
+766,# # # # #,9,5,7,740,india_2005_AnnualReport.md,2025-01-28 18:55:52
+767,# # # # #,9,5,7,741,india_2005_AnnualReport.md,2025-01-28 18:55:52
+768,# # # # # - - - - -,19,10,12,742,india_2005_AnnualReport.md,2025-01-28 18:55:52
+769,# # # # #,9,5,7,743,india_2005_AnnualReport.md,2025-01-28 18:55:52
+770,# # # indian navy - - - - - _ women officers on job _,53,16,18,744,india_2005_AnnualReport.md,2025-01-28 18:55:52
+771,# # # indian air force,22,6,8,745,india_2005_AnnualReport.md,2025-01-28 18:55:52
+772,# # # coast guard,17,5,7,746,india_2005_AnnualReport.md,2025-01-28 18:55:52
+773,# # # # # - - - - - _ young women officers being briefed _,58,17,20,747,india_2005_AnnualReport.md,2025-01-28 18:55:52
+774,# # # # #,9,5,7,748,india_2005_AnnualReport.md,2025-01-28 18:55:52
+775,# # # # #,9,5,7,749,india_2005_AnnualReport.md,2025-01-28 18:55:52
+776,# # # # #,9,5,7,750,india_2005_AnnualReport.md,2025-01-28 18:55:52
+777,# # # # #,9,5,7,751,india_2005_AnnualReport.md,2025-01-28 18:55:52
+778,# # # # #,9,5,7,752,india_2005_AnnualReport.md,2025-01-28 18:55:52
+779,# # # # #,9,5,7,753,india_2005_AnnualReport.md,2025-01-28 18:55:52
+780,# # # # #,9,5,7,754,india_2005_AnnualReport.md,2025-01-28 18:55:52
+781,# # # # #,9,5,7,755,india_2005_AnnualReport.md,2025-01-28 18:55:52
+782,# # # # #,9,5,7,756,india_2005_AnnualReport.md,2025-01-28 18:55:52
+783,# # # family pension - - - - -,30,10,12,757,india_2005_AnnualReport.md,2025-01-28 18:55:52
+784,# # # defence research & development organisation ( drdo ),58,11,14,758,india_2005_AnnualReport.md,2025-01-28 18:55:52
+785,# # # department of defence production - - - - - - - - - - - - - - -,68,22,24,759,india_2005_AnnualReport.md,2025-01-28 18:55:52
+786,# # # matters dealt with by the departments of the ministry of defence,70,14,16,760,india_2005_AnnualReport.md,2025-01-28 18:55:52
+787,# # # a. department of defence - - - - -,40,12,15,761,india_2005_AnnualReport.md,2025-01-28 18:55:52
+788,# # # b. department of defence production - - - - -,51,13,16,762,india_2005_AnnualReport.md,2025-01-28 18:55:52
+789,# # # c. department of defence research & development - - - - -,63,15,18,763,india_2005_AnnualReport.md,2025-01-28 18:55:52
+790,# # # d. department of ex - servicemen welfare - - - - -,56,15,18,764,india_2005_AnnualReport.md,2025-01-28 18:55:52
+791,# # # e. defence ( finance ) division - - - - -,47,14,17,765,india_2005_AnnualReport.md,2025-01-28 18:55:52
+792,"# # # ministers, chiefs of staff and secretaries who were in position from april 1, 2005 onwards raksha mantri",110,20,26,766,india_2005_AnnualReport.md,2025-01-28 18:55:52
+793,# # # raksha rajya mantri,25,6,11,767,india_2005_AnnualReport.md,2025-01-28 18:55:52
+794,# # # raksha utpadan rajya mantri,33,7,14,768,india_2005_AnnualReport.md,2025-01-28 18:55:52
+795,# # # raksha rajya mantri - - - - -,35,11,16,769,india_2005_AnnualReport.md,2025-01-28 18:55:52
+796,# # # summary of latest comptroller & auditor general ( c & ag ) report on the working of ministry of defence,109,23,27,770,india_2005_AnnualReport.md,2025-01-28 18:55:52
+797,# # # i. department of defence,30,7,10,771,india_2005_AnnualReport.md,2025-01-28 18:55:52
+798,# # # ii. army - - - - - - - - - -,34,15,18,772,india_2005_AnnualReport.md,2025-01-28 18:55:52
+799,# # # iii. works and military engineer services,47,9,12,773,india_2005_AnnualReport.md,2025-01-28 18:55:52
+800,# # # iv. department of defence production,42,8,11,774,india_2005_AnnualReport.md,2025-01-28 18:55:52
+801,# # # v. research & development organisation - - - - -,54,13,16,775,india_2005_AnnualReport.md,2025-01-28 18:55:52
+802,# # # vi. border roads organisation,35,7,10,776,india_2005_AnnualReport.md,2025-01-28 18:55:52
+803,# # # vii. ordnance factory organisation - - - - -,50,12,15,777,india_2005_AnnualReport.md,2025-01-28 18:55:52
+804,# # # viii. air force and navy - - - - - - - - - - - - - - -,60,23,26,778,india_2005_AnnualReport.md,2025-01-28 18:55:52
+805,# # # ix. department of defence production ( commercial ) - - - - - - - - - -,77,21,24,779,india_2005_AnnualReport.md,2025-01-28 18:55:52
+806,# # # garden reach shipbuilders and engineers limited - - - - - - - - - - - - - - -,83,24,29,780,india_2005_AnnualReport.md,2025-01-28 18:55:52

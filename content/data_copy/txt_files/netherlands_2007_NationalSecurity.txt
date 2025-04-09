@@ -1,0 +1,2555 @@
+# N A T I O N A L S E C U R I T Y 
+
+## S t r a t e g y 
+
+ a n d
+
+ W o r k p r o g r a m m e 2 0 0 7 - 2 0 0 8
+
+
+-----
+
+### TABLE OF CONTENTS
+
+**STRATEGY**
+
+**SUMMARY** **9**
+
+_Introduction_
+
+**1.** **WHY DO WE NEED THIS STRATEGY?** **11**
+
+_Definition_
+
+**2.** **WHAT DOES NATIONAL SECURITY MEAN?** **15**
+
+_National security working method_
+
+**3.** **HOW TO ACHIEVE REINFORCEMENT?** **19**
+
+3.1 The working method set out in a diagram 19
+3.2 Stage 1: government-wide analysis of threats and assessment of risks 22
+3.3 Stage 2: strategic planning 24
+3.4 Stage 3: follow-up 26
+
+_Role division_
+
+**4.** **HOW TO REALISE THE STRATEGY?** **29**
+
+4.1 Role of the national government 29
+4.2 Authority and control 30
+4.3 Role division with other parties 32
+
+_International context_
+
+**5.** **WHAT CAN THE NETHERLANDS DO IN A WIDER CONTEXT?** **35**
+
+
+**9**
+
+**11**
+
+**15**
+
+**19**
+
+19
+22
+24
+26
+
+**29**
+
+29
+30
+32
+
+**35**
+
+
+-----
+
+### TABLE OF CONTENTS
+
+**WORK PROGRAMME 2007 - 2008**
+
+**1.** **GOAL AND STRUCTURE OF**
+**THE NATIONAL SECURITY WORK PROGRAMME 2007-2008 41**
+
+1.1 Goal of the work programme 41
+1.2 Structure of the work programme 42
+
+**2.** **CHOICE OF THEMES** **43**
+
+2.1 Rationale 43
+2.2 Theme description and definition 43
+
+**3.** **PRODUCT DESCRIPTIONS** **47**
+
+3.1 Strategic foresight 47
+3.2 Mid-term analyses 47
+3.3 National risk assessment 47
+3.4 Short-term horizon scanning 48
+3.5 Strategic planning 48
+
+**4.** **NATIONAL AND INTERNATIONAL NETWORKS** **49**
+
+4.1 National network 49
+4.2 International network 49
+
+**5.** **PROGRAMME ACTIVITIES** **51**
+
+5.1 Authority and control 51
+5.2 Evaluation 51
+5.3 Quality and policy review 51
+
+
+-----
+
+-----
+
+# N A T I O N A L S E C U R I T Y 
+
+## S t r a t e g y 
+
+
+-----
+
+-----
+
+#### Foreword
+
+### SECURITY
+ IS EVERYONE'S CONCERN!
+
+Security is the cornerstone of a society in which people feel free, at ease and
+
+connected. In our densely populated country, disasters can all too easily
+
+acquire a snowball effect, with all the ensuing societal consequences. Ironclad
+
+guarantees of perfect security can never be offered. But a great deal of
+
+suffering and damage can be prevented through thorough analysis of possible
+
+threats, well-defined prior agreements and a clear division of tasks.
+
+Strengthening national security is a task for the national government. But a
+
+safe and secure living environment in the Netherlands requires everybody’s
+
+involvement: from government in all its various forms and levels, but also
+
+from the private sector and civil society. Many threats can furthermore only
+
+be countered in cooperation with our international partners.
+
+In order to be optimally prepared for various threats, the Cabinet has drawn up
+
+this national security strategy. It puts the roles and responsibilities of all
+
+parties involved in a coherent framework. Central to this strategy is a joined-up,
+
+whole-of-government approach to our national security. An approach that
+
+will ensure that everything necessary is done to safeguard the status of the
+
+Netherlands as a country in which people can live and work with their hearts
+
+and minds at ease. Security is everyone's concern. This strategy shows how,
+
+together, we can provide this goal with form and substance.
+
+J.P. Balkenende
+
+Prime Minister
+
+
+-----
+
+-----
+
+### SUMMARY
+
+Threats to our security are changing and becoming ever more intertwined.
+
+Relatively minor threats can through increasing interdependencies lead to
+
+societal disruption. Answers to existing and new threats can therefore no
+
+longer be formulated and implemented by a single ministry or organisation.
+
+We need an integrated and coherent approach that can look beyond current
+
+threats. Planning and policy should no longer be primarily based on individual
+
+(known) threats, but on the extent to which overall national security is or can
+
+be threatened.
+
+In order to realise this approach, the Cabinet has drawn up a national
+
+security [(*)] strategy. The aim of the strategy is to protect society and citizens
+
+within Dutch territory against internal and external threats. Our national
+
+security, however, cannot be viewed in isolation from the security of other
+
+countries, in particular those of our European partners and NATO allies. This
+
+also explains why internal security policy, which this strategy mainly deals
+
+with, and Dutch international security policy are so closely linked.
+
+National security is jeopardized when vital interests of the Dutch state and/or
+
+society are threatened to such an extent that one can speak of – potential –
+
+societal disruption. The following vital interests have been defined: territorial
+
+security (threatened through breach of territorial integrity), economic security
+
+(undisrupted trade), ecological security (living environment), physical security
+
+(public health) and social and political stability (e.g. respect for core values
+
+such as freedom of expression).
+
+Using the working method described in the strategy, the Cabinet will be better
+
+able to determine which threats endanger our national security and how to
+
+anticipate those threats, irrespective of their origin or nature. In addition, the
+
+method not only enables the Cabinet to make better substantiated choices in
+
+determining priorities and acting upon them, but also to view these choices in
+
+their relationship with each other.
+
+While new, the working method makes use of existing, more sector-oriented
+
+processes; these come together in the working method, thus enriching
+
+information and insights and increasing knowledge. Use of the working
+
+method should obviously not lead to duplication of existing processes.
+
+From 2009 onwards, the working method will be applied across the full range
+
+of national security issues. The period up to 2009 will be used to roll out the
+
+working method. The introduction in stages is described in the 2007-2008
+
+work programme.
+
+(*) In this document and in the working programme, the term ‘national security’ encompasses both security and
+safety. The term ‘national security’ is discussed in detail in chapter 2.
+
+
+-----
+
+The working method will generate a strategic (long-term) foresight report
+
+every two years, the yearly selection of threat themes requiring in-depth
+
+analysis and a twice-a-year government-wide horizon scan of shorter-term
+
+threats. This scan will result in the report 'Threat Assessment Netherlands'.
+
+Moreover, once a year the results of the national risk assessment will be
+
+presented in the report 'Risk Assessment Netherlands'.
+
+In order to make this possible, the working method starts by analysing the
+
+threats facing the Netherlands, assessing those threats in terms of risks to the
+
+vital interests and positioning these risks vis-à-vis each other: the national risk
+
+assessment. The Cabinet will then decide which risks will be prioritised for
+
+detailed treatment in the strategic planning stage. At that stage, the method
+
+will determine which capabilities the government would require to deal with
+
+the prioritised risks and which capabilities it already possesses and/or can
+
+expect from external parties, such as the business community, social
+
+organisations and international organisations. The Cabinet will then decide
+
+whether, and if so where and how, national security must be strengthened. The
+
+political/administrative choices will then be translated into policy, legislation
+
+and concrete measures.
+
+The development of the choices made by the Cabinet is not only in the hands
+
+of the national government. Other public authorities, the business community
+
+and social organisations also play a role. In order to enable an integral
+
+approach, all parties involved must know and respect each other's role in
+
+strengthening national security, follow a shared doctrine, align their working
+
+methods to each other and be connected to the same communication network.
+
+In 2007 the Cabinet will come up with concrete proposals for optimizing the
+
+aforementioned aspects of authority and control by the government in the area
+
+of national security.
+
+Another essential component of the integral approach is the structural
+
+exchange of knowledge and information and alignment between the public
+
+and private parties – both in a national and an international context – who play
+
+a role in protecting national security.
+
+As many threats to national security do not originate in our territory but can
+
+have consequences here, a purely national approach will not suffice. Countries
+
+are dependent on each other if they wish to increase their resilience.
+
+International cooperation, both at bilateral and multilateral level, is vital for
+
+reinforcing national security. The Cabinet is going to put security topics that
+
+require an international approach on the agenda. Wherever relevant, it will
+
+work in an international context to generate the capabilities deemed necessary
+
+to withstand threats. European programmes will also be leveraged to this aim.
+
+The goal of the Cabinet is to intensify the relationships with countries that use
+
+similar working methods to guarantee national security.
+
+
+-----
+
+#### Introduction
+
+### 1 WHY DO WE NEED THIS STRATEGY?
+
+**_Our society is vulnerable. We see this when we are confronted with threats like_**
+
+**_bird flu, climate change and terrorism. The answer to existing and new threats_**
+
+**_cannot be formulated by one ministry or organisation alone. Reinforcement of_**
+
+**_national security requires a joined-up, integral approach within which_**
+
+**_international cooperation is an essential element. The strategy describes how the_**
+
+**_Cabinet is going to realise this approach._**
+
+National security is under threat when vital interests of our society and/or state are threatened in
+
+such way that it leads to (potential) societal disruption. The term 'national security' is discussed in
+
+detail in Chapter 2.
+
+**_Reason for the strategy: more diffuse threats, greater consequences_**
+
+SARS, bird flu, floods, terrorism; these are examples of threats which have
+
+demanded more and more attention in the last few years and which have made
+
+us realise our (increasing) vulnerability. Developments which threaten our
+
+country are changing and are increasingly becoming more closely entwined.
+
+Think of the connection between climate change and pandemics, or between
+
+ICT fallout and an interrupted energy supply. While many of these threats do
+
+not originate from the territory of the Netherlands, they can most certainly
+
+have consequences here. This limits our options for independently
+
+counteracting these threats: an exclusively national approach is often not
+
+sufficient. The rise in sea levels is an obvious example of this.
+
+The report by Sir Nicholas Stern, Adviser to the UK Government, shows that climate change does
+
+not stand alone, but also has consequences for the health of humans and animals, the economy,
+
+migration flows and concomitantly the gap between rich and poor [1] A World Economic Forum
+
+report also concludes that threats are interrelated. This report emphasises the importance of an
+
+integral approach in order to be able to withstand threats.[2]
+
+1 Report 'The Economics of Climate Change', 30 October 2006 by Sir Nicholas Stern.
+2 Report 'Global Risks 2007', January 2007, by the World Economic Forum.
+
+
+-----
+
+Moreover, the impact of disruptions is increasing. This is because over the past
+
+few decades Dutch society has become more complex and dependent on
+
+critical systems, such as ICT technologies. We see this as soon as something
+
+goes wrong. In addition, because of the greater population density, crises and
+
+disasters are more likely to result in a large number of casualties.
+
+Naturally governments and private parties are already active in strengthening
+
+security. In order to be able to effectively direct these efforts, now more than
+
+ever cooperation is needed between all organisations that are responsible for
+
+national security: national government, local authorities, social organisations
+
+and the business community. An approach that guarantees integrality and
+
+coherence across security sectors is essential.
+
+That is why the Cabinet has decided to establish a government-wide security
+
+strategy. Other countries, such as Germany, Finland, and Canada, have already
+
+developed such a strategy or are working on one. As international cooperation
+
+is necessary for reinforcing national security, it is important to have a national
+
+reference framework. This strategy primarily concerns the internal aspects of
+
+Dutch security policy.
+
+_Germany: 'Neue Strategie zum Schutz der Bevölkerung in Deutschland' (Bundesverwaltungsamt –_
+
+_Finland: 'Finnish Security and Defence Policy 2004' (Prime Minister’s Office: Publications 18/2004)._
+
+_Canada: 'Securing an Open Society: Canada’s National Security Policy' (Privy Council Office, 2004)._
+
+**Strategies of other countries**
+
+_Germany:_
+
+Zentralstelle für Zivilschutz, Bonn-Bad Godesberg, 2003).
+
+_Finland:_
+
+_Canada:_
+
+
+**_Goal: more coherence in the approach to national security_**
+
+The Cabinet wants to reinforce national security by means of a coherent
+
+approach. The strategy describes the working method for realising this
+
+approach; a working method which, moreover, makes it possible to deal with
+
+(continually) changing risks. The integral working method enables the Cabinet
+
+to make better substantiated choices as to what risks are to be reduced and for
+
+what priorities the scarce (financial) resources have to be used. This strategy
+
+does not indicate the most important priorities, but describes the working
+
+method for defining these priorities. In addition, implementation of the
+
+working method can provide insight into new opportunities for reinforcing
+
+national security. These could include new technologies that can make the
+
+Netherlands safer.
+
+The choices made by the Cabinet then form a guideline for actions by
+
+ministries, local government, the business community and social
+
+organisations. In this way a joined-up approach to national security emerges.
+
+Moreover, the choices which are made determine the Dutch contribution to
+
+international cooperation.
+
+
+-----
+
+Much has already been put in motion (and realised) in the area of (national)
+
+security. Examples include: the intensification of civil-military cooperation
+
+(ICMS); the establishing of the National Terrorism Prevention Coordinator
+
+(NCTb); the public anti-terrorism campaigns (such as the '200,000
+
+professionals' campaign); protection of the critical infrastructure; the crisis
+
+management policy plan 2004-2007; the National Crisis Decision Making
+
+Manual; the revitalisation of the National Plan for the Prevention of Nuclear
+
+Accidents; the Security, Cooperation and Reconstruction Steering Group;
+
+the Reassessment of the ICT Security Policy project; the security regions Act;
+
+the individual responsibility publicity campaigns (such as the 'Think Ahead'
+
+campaign); the Interdepartmental Consultation on Energy Supply Assurance;
+
+the National Defence Doctrine; the Flood Management Taskforce (TMO) and
+
+the Government and Evacuations project.
+
+The national security working method gives direction to these programmes
+
+and projects: results of the working method, e.g. analysed threats and
+
+prioritised risks, are the starting point for the various programmes and
+
+projects and planning cycles of, e.g., the security regions. Conversely, all of
+
+these programmes provide building blocks which can be used in components
+
+of the working method to reinforce national security. Regional risk inventories
+
+serve as input for the working method, for example. This interaction enables
+
+cross-sector cooperation, charts interdependencies and brings about
+
+information sharing. This results in an integral approach to national security.
+
+Figure 1: Relationship between national security, critical infrastructure and crisis management
+
+Pre **National Security** **Critical infrastructure**
+
+Safeguarding of vital interests: Riskmanagement on the basis
+analysis of threats, of vulnerability of critical sectors
+assessment of risks and
+strategic planning
+
+Post **Crisis management**
+
+Crisis management on the basis
+of consequences
+_(consequence management)_
+
+Strategic Operational
+
+Reinforcement of national security focuses on the entire security chain – from pro-action and prevention, via
+preparation to response and after-care – and is strategic in nature. The national security working method gives
+direction to the protection of the critical infrastructure and crisis management. Moreover, these topics are geared to
+one or more links in the security chain: with critical infrastructure the emphasis is primarily on prevention (measures
+for better security of the critical sectors), while with crisis management, the emphasis is on preparation (preparation
+for incidents), response (if an incident has occurred) and after-care.
+
+
+-----
+
+The strategy wants to offer the fullest possible protection against breaches of
+
+national security but cannot exclude the possibility of breach. After all,
+
+absolute security is an illusion, also in today's world. The strategy makes the
+
+Netherlands more resilient in the event its national security were to be at risk.
+
+Moreover, the working method enables the government to communicate
+
+clearly on the possibilities and impossibilities of strengthening national
+
+security.
+
+**Work programme 2007-2008**
+
+Partly based on experience abroad, the Cabinet recognizes that development time is required to
+
+introduce the working method. The introduction in stages is described in the work programme
+
+2007-2008'. Commencing in 2009, the working method will be applied across the full range of
+
+national security issues. A work programme will then be drawn up periodically.
+
+**_Structure of the strategy document_**
+
+Chapter 2 defines the term 'national security'. What is its scope? Chapter 3
+
+first presents the working method for reinforcing national security in the form
+
+of a diagram; after that the components (from threat analysis to follow-up) are
+
+detailed. Chapter 4 discusses the role division in the execution of the working
+
+method. Finally, Chapter 5 reviews what the Netherlands can do in an
+
+international context.
+
+
+-----
+
+#### Definition
+
+### 2 WHAT DOES
+ NATIONAL SECURITY MEAN?
+
+**_The strategy is geared to preventing societal disruption. Vital interests, core_**
+
+**_values and various types of threats are distinguished._**
+
+National security is at stake when vital interests of our state and/or our society
+
+are threatened to such an extent that it might lead to societal disruption.
+
+National security encompasses both breach of security by intentional human
+
+actions (security) and breach due to disasters, system or process faults, human
+
+failure or natural anomalies such as extreme weather (safety).
+
+This strategy is concerned with the protection of society and people within the
+
+nation's own territory against internal and external threats. Naturally there are
+
+direct connections between national security and international security. In the
+
+Netherlands' foreign policy, promoting national security is therefore of
+
+tremendous importance, even as other interests and objectives also play a role,
+
+such as striving for a just and fair world order and solidarity among allies.
+
+**National security as a concept in Dutch and European regulations**
+
+The concept 'national security' already exists in our regulations. For example it is used to define
+
+the working area of the information and security services. The scope of the concept is primarily
+
+determined in the WIV 2002 by the additional description of the activities of these services in the
+
+task articles themselves[3].
+
+In the European Convention for the Protection of Human Rights and Fundamental Freedoms
+
+(ECHR), the term national security forms one of the target criteria which justify an infringement
+
+of a number of fundamental rights. The term national security is not defined as such in the ECHR
+
+or in the jurisprudence of the European Court of Human Rights. However, the jurisprudence
+
+does include a number of cases in which it is accepted that national security was at issue.
+
+The interpretation of the term is broad: national security is delineated by what can be deemed
+
+necessary in a democratic society.
+
+The term national security in the ECHR lies at the basis of the identical term in the bill of the
+
+National Security Administrative Measures Act.[4] The term is not given a rigid delineation in the
+
+bill either; it must not be given too restrictive an interpretation. The latter point also applies to
+
+the term national security which is included in the Aliens Act 2000.[5]
+
+5
+
+>>
+
+3 Information and Security Services Act 2002 (WIV 2002).
+4 Rules on imposing restrictive measures on persons with a view to the protection of national security and on the
+refusal or revocation of decisions with a view to the protection of national security (Parliamentary Documents II,
+2005-2006, 30566, no. 2).
+5 Parliamentary documents II, 2005-2006, 30566, no. 3, p. 18.
+
+
+-----
+
+**_Protecting vital interests_**
+
+The goal of the strategy for national security is to protect the vital interests of
+
+the Netherlands in order to prevent societal disruption. These interests are
+
+also explicitly used in the risk assessment method that will be described in the
+
+following chapter.
+
+The five vital interests are:
+
+**_1. Territorial security_**
+
+The undisrupted functioning of the Netherlands as an independent state, and
+
+more specifically the territorial integrity of our country. The territorial integrity
+
+is at risk in the event, for example, of a threatened occupation of the state
+
+territory by another state, but also in the event of a terrorist attack.
+
+**_2. Economic security_**
+
+The undisrupted functioning of the Netherlands as an effective and efficient
+
+economy. For example, economic security can be breached if trade with an
+
+important foreign partner is lost.
+
+**_3. Ecological security_**
+
+Sufficient self-recovery capability of the living environment in the event of
+
+breach. Ecological security can be at risk due to, e.g., disruptions in the
+
+management of the surface water, but also due to climate changes.
+
+**_4. Physical security_**
+
+The undisrupted functioning of humans in the Netherlands and its (living)
+
+environment. Physical security can be under pressure if, e.g., public health is
+
+threatened by an epidemic, but also if there is a major breach of the dikes or
+
+an accident in a chemical factory.
+
+**_5. Social and political stability_**
+
+The undisrupted continued existence of a social climate in which groups of
+
+people live together without major conflict within the framework of the
+
+democratic state and shared core values. Social and political stability can be at
+
+risk if changes occur in the demographic structure of society (for example
+
+solidarity between generations), social cohesion and the degree of participation
+
+of the population in social processes.
+
+The five interests are entwined; breach of one can lead to breach of other
+
+interests. For example, breach of the physical security (the fourth interest) can
+
+put pressure on the fifth interest: social and political stability. At the same
+
+time, this interest can also be directly threatened. By breach of social cohesion,
+
+for example. The degree of social cohesion is the result of the binding power of
+
+the core values of Dutch society. Breach of these values is the same as breach
+
+
+-----
+
+of the core of Dutch society. In protecting vital interests, the context within
+
+which justice can be done to these values has to be safeguarded.
+
+But protection of national security also affects these core values in a different
+
+way. For example, freedoms and rights (such as privacy) can be at risk due to
+
+policies aimed at reinforcing national security. In that sense there is a
+
+dilemma: the protection of vital interests for society demands policy, while that
+
+same policy can affect the core values for individuals and groups in that
+
+society. When applying the working method for national security a balance
+
+must be found in this respect too.
+
+**What are the core values of Dutch society?**
+
+The core values of our society are worded in the report 'Waarden, normen en de last van het
+
+gedrag' (Values, standards and the burden of behaviour) of the Scientific Council for
+
+Government Policy (WRR)[6]. First of all, these are the values of the democratic state, such as:
+
+-  equal treatment and the prohibition of discrimination
+
+-  freedom of religion and belief
+
+-  freedom of expression
+
+-  freedom of association, meeting and demonstration
+
+-  respect for privacy
+
+-  integrity of the person
+
+A number of social values which are necessary for a properly functioning democratic state also
+
+fall under the core values. Think of, inter alia, truthfulness, empathy and sympathy for others,
+
+respect for the opinion of others and willingness to modify one's own opinion, but think also of
+
+social skills such as flexibility, responsiveness and sense of responsibility, a certain pragmatism
+
+and being able to bear uncertainty and ambivalences.
+
+**_Protection against threats_**
+
+At present, nine threats have been identified which can lead to societal
+
+disruption (see the box below). But what is a threat at present may well have
+
+been neutralised in a few years. And what is latent now can be transformed
+
+into an acute danger in the near future. Moreover, account must be taken of
+
+threats which are not (yet) currently foreseen. It is therefore necessary to have
+
+a working method which offers a counterbalance to 'the craze of the day'.
+
+The working method therefore looks beyond threats: planning and policy are
+
+no longer based on specific (known) threats, but the degree in which national
+
+security is or can be threatened is taken as the point of departure. 'Looking
+
+beyond threats' presumes an approach whereby the borders between sub-areas
+
+of national security (which have been demarcated between ministries, local
+
+governments and other organisations) become blurred, thus preventing
+
+that topics are dealt with twice over or, worse still, end up not being discussed
+
+at all.
+
+6 See the WRR report 'Waarden, normen en de last van het gedrag', Amsterdam University Press, Amsterdam, 2003.
+7 In 2005 there was an interdepartmental inventory of proactive government policy to prevent societal disruption. Nine threats
+were identified which can lead to societal disruption. Each threat was then sub-divided into a number of incident categories.
+
+
+-----
+
+**Threats and incident categories**
+
+This overview is subject to change: the application of the working method which is described
+
+in Chapter 3 can lead to new insights.
+
+**Threats** **Incident categories**
+
+**_'Classic' threats_**
+
+1. Breaches of international peace and -  failing states
+security [8] -  risk countries
+
+2. CBRN (chemical, biological, radiological, -  distribution of CBRN weapons
+nuclear)
+
+3. Terrorism -  catastrophic terrorism
+
+-  radicalisation
+
+4. International organised crime -  increasing connection between the
+
+legitimate and the criminal world
+
+-  worldwide trade in drugs
+
+**_Social-economic threats_**
+
+5. Social vulnerability -  increasing (inter-ethnic) tensions and
+
+decreasing sense of citizenship
+
+-  radicalisation[9]
+
+6. Digital lack of security -  digital paralysis
+
+7. Economic lack of security -  extreme scarcity of energy carriers and
+
+raw materials
+
+**_Natural threats_**
+
+8. Climate change and natural disasters -  increasing risk of flooding
+
+-  increasing risk of extreme drought/heat
+
+-  plague organisms
+
+9. Outbreak of infectious diseases and -  pandemics of known human diseases
+animal diseases -  viruses which can be transmitted from
+
+animals to humans
+
+8 The breach referred to here can also be the result of civil wars and regional wars.
+9 Radicalisation in its most extreme form can lead to terrorism, but also threatens social cohesion in Dutch society
+without an act of terrorism being required. This explains why radicalisation has been classified under two categories.
+
+
+-----
+
+#### National security working method
+
+### 3 HOW TO ACHIEVE
+ REINFORCEMENT?
+
+**_The working method for reinforcing national security consists of three stages: (1)_**
+
+**_a government-wide analysis of threats and assessments of risks (what is coming_**
+
+**_the Netherlands' way?), (2) strategic planning (does the Netherlands have the_**
+
+**_requisite capabilities?) and (3) follow-up (how and where will national security be_**
+
+**_reinforced?). This working method enables the Cabinet to make well-founded_**
+
+**_political and administrative choices and to set priorities for policy (-making)._**
+
+**_Finally, a government-wide application results in a common language for_**
+
+**_national security._**
+
+**_3.1_** **_The working method set out in a diagram_**
+
+The working method for reinforcing national security (see Figure 2) is a
+
+continual process. The working method consists of:
+
+**• Stage 1: analysis of threats and assessment of risks**
+
+In order to protect the vital interests as best as possible, it is important to
+
+continually possess a clear picture of potential threats. The working method
+
+therefore starts with an analysis of the threats facing the Netherlands, an
+
+assessment of the threats in terms of risks to vital interests and a weighing
+
+of these risks vis-à-vis each other. At the end of this stage, The Cabinet will
+
+decide which risks are prioritised for detailed follow-up in the strategic
+
+planning stage.
+
+**• Stage 2: strategic planning**
+
+In this stage the government determines which capabilities it would require
+
+to deal with the prioritised risks and which capabilities it already possesses
+
+and/or can expect from external parties such as the business community,
+
+social organisations and international organisations. The Cabinet will then
+
+be given advice on, inter alia, the following questions: where is the
+
+government going to deploy resources (and where is it not) and in what
+
+stage of the security chain? The acceptability of choices is also considered.
+
+**• Stage 3: follow-up**
+
+Here, the political-administrative choices are developed into, e.g., policy,
+
+legislation and concrete measures.
+
+
+-----
+
+Figure 2: National security working method
+
+##### 1. Government-wide analysis
+
+**Process**
+
+Strategic Short-term
+foresight horizon scanning
+
+National risk Risico-
+assessment priortering
+
+Thematic in-depth study
+
+**Result**
+
+Report on Report on themes Report on Report on
+strategic foresight and scenarios threat assessment risk assessment
+
+**Decision making** **Cabinet** **Cabinet**
+Sets topics for thematic in-depth study Sets priorities on the basis of
+(December) the report on risk perception
+
+(December)
+
+NB: the Cabinet will be informed and asked to make decisions twice a year (June and December).
+
+
+-----
+
+##### 2. Strategic planning 3. Follow-up
+
+Policy
+
+Required Excisting
+capabilities capabilities
+
+Planning-
+assumptions Measures
+and choice
+of tasks
+
+Difference required
+Legislation
+and excisting capabilities
+
+Workprogramme Capabilities need
+tasks and capabilities
+
+**Cabinet**
+Decides on reinforcing national security
+via regular budget process
+(June)
+
+
+-----
+
+Per (component of a) stage, the government will weigh which (parts of) reports
+
+are to be made public. The guiding principle is the greatest possible degree of
+
+openness.[10 ]
+
+Twice a year, the Cabinet will be informed or asked to make decisions.
+
+The three stages are explained in the paragraphs below.
+
+**_3.2_** **_Stage 1: Government-wide analysis of threats and assessment of risks_**
+
+In the first stage of the working method, a distinction is made between
+
+analysis and assessment. During the analysis, known and new threats will be
+
+identified and detailed. An integral analysis of threats will, moreover, improve
+
+sensitivity to early and weak signals. The chance or probability factor is then
+
+added in the risk assessment: risk = chance x effect.
+
+The analysis is based on three time-horizons: long term (from approx. 5 years),
+
+mid term (up to approx. 5 years) and short term (up to approx. 6 months). This
+
+changes the perspective of the analyses from exploratory (long term), to policy
+based (mid term) and action-oriented (short term).
+
+In the analysis and risk assessment, use is made of existing, more sector
+oriented procedures; these are merged to enable an integral approach.
+
+Knowledge is shared, both by domestic and foreign government organisations,
+
+the business community and the academic world. This results in a broadening
+
+and deepening of this knowledge. It also allows the Netherlands to learn from
+
+the experience of others, and to more effectively share knowledge and
+
+information (internationally).
+
+It is important for the Cabinet that the analysis and assessment process is
+
+objectively reviewed in order to guarantee its quality. The Cabinet is
+
+considering engaging (international) persons and institutes who will not
+
+execute the analyses and assessments themselves, but who do have expertise
+
+which is comparable to that of the parties which do carry out the analyses and
+
+assessments (peer review).
+
+**_Strategic foresight (long term)_**
+
+The goal of strategic foresight is to determine which (new) threats require
+
+further investigation with regard to their consequences for national security.
+
+Account is taken in this respect of such things as, e.g., geopolitical
+
+developments.
+
+The foresights first of all provide insight into new threats that can influence
+
+national security in five years or more. In addition, they signal possible trends
+
+in known threats. Use is made in this respect of knowledge that is available at
+
+10 The limits of the openness are determined by, inter alia, analogy with Article 10 of the Open Government Act. .
+
+
+-----
+
+national and international level regarding possible future situations and the
+
+threats ensuing from these for national security. Sources include publications
+
+of planning offices and advisory bodies, and studies by, e.g., universities,
+
+the business community and international organisations[11]. Cross-analyses are
+
+made of these various sources.
+
+Every two years, the Cabinet receives the result of this effort in the form of a
+
+report, 'Strategic Foresight on National Security'. On the basis thereof the
+
+Cabinet will determine for what (new) threats further research is required.
+
+The outcome determines the agenda for the thematic analyses and risk
+
+assessment in the mid term. Certain developments can in the long term form
+
+such a serious threat to national security that policy measures must be
+
+considered. Think of the consequences of climate change. Within the strategic
+
+planning it will then be researched what policy measures are required.
+
+**_Thematic in-depth study (mid-term)_**
+
+This component of the working method leads to the most complete possible
+
+picture of known and new threats that can have consequences for national
+
+security within a term of up to 5 years.
+
+A thematic approach makes it possible to establish links between different
+
+perspectives. This enables the topic of climate change to be approached from
+
+the perspective of extreme weather (floods, drought) but also from the
+
+perspective of infectious diseases and animal diseases (pandemics, zoonoses).
+
+The thematic in-depth study also results in extra knowledge on existing and
+
+new threats.
+
+The results of the thematic in-depth study can differ in form: they can be
+
+scenarios for the mid term (for example: how will social tensions manifest
+
+themselves in Dutch society?) but can also be identified trends.
+
+**_Horizon scanning (short-term)_**
+
+This component leads to reinforcement of the signalling function for concrete
+
+threats to national security in the short term (within about six months).
+
+Signals of possible threats are shared in a timely fashion (e.g. by using
+
+(existing) alarm systems) throughout the government, so that the responsible
+
+parties can take cohesive measures, taking each party's individual
+
+responsibility into account. In this manner short-term horizon scanning
+
+contributes to the reinforcement of the collective approach to possible threats.
+
+Moreover, events today can give rise to strategic discussions about the
+
+organisation of the Netherlands in the long term.
+
+Short-term horizon scanning will, twice a year, result in a report titled 'Threat
+
+Assessment in the Netherlands'.
+
+11 Such as the Central Bureau of Statistics, the Social Cultural Planning Bureau, the Environmental and Nature Planning
+Bureau, the National Institute for Public Health and the Environment, the Scientific Council for Government Policy,
+the Council for Urban Planning, the Environment and Nature Research and the Council for Social Development.
+
+
+-----
+
+**_National risk assessment_**
+
+Analysed threats are then measured on one yardstick in accordance with a pre-
+
+agreed model. The risk assessment has an all hazards approach. Scenarios for,
+
+e.g., floods, pandemics and long-term fallout of utilities and for incidents of an
+
+intentional nature are described in a clear manner, substantiated with figures
+
+and weighted. In this manner the risks for national security become
+
+comparable.
+
+Assessment is carried out a) of the likelihood that a scenario will occur and b)
+
+what its impact will be, particularly on the vital interests as described in
+
+Chapter 2. The impact can be divided into an objective component (e.g.
+
+disruption of essential supplies, material damage, number of victims) and a
+
+subjective component (the psychological effect on the population, and, e.g., the
+
+public outrage aroused by an - imminent – event). The perception factor is
+
+thus explicitly considered in the risk assessment.
+
+Annually the results of the national risk assessments are published in a report,
+
+'Risk Assessment in the Netherlands'. The risk prioritisation determines
+
+which risks are going to form part of the strategic planning (see Stage 2).
+
+**_3.3_** **_Stage 2: strategic planning_**
+
+The decisions of the Cabinet following the risk assessment form the starting
+
+point for the strategic planning process. The goal of this stage of the working
+
+method is to provide insight on the extent to which the Netherlands can
+
+withstand the prioritised risks. Strategic planning considers the entire security
+
+chain in this respect.
+
+**_The capabilities-based approach_**
+
+The strategic planning relies on a capabilities-based approach, also known as
+
+capabilities based planning (CBP). This approach is not geared towards one
+
+specific threat or risk. Rather it focuses on what is necessary to prevent the
+
+consequences of threats or risks as much as possible (prevention) and/or to be
+
+prepared (preparation and response). It is a flexible approach: tasks and
+
+capabilities can be used in this approach to withstand various threats.
+
+**Background of the capabilities-based approach**
+
+The capabilities-based approach derives its rationale from the increased diversity in the threat
+
+picture. The changing and more diffuse threat picture was cause for the Ministry of Defence to no
+
+longer work with specific threats, but to base defence planning on the CBP method. Countries like
+
+Canada, the United States, the United Kingdom and Australia apply this method in the realisation
+
+of their strategic security policy; internationally the capabilities-based approach is seen as a tried-
+
+and-tested method to anticipate diverse threats government-wide, across sectors and flexibly.
+
+
+-----
+
+The capabilities-based approach entails that the government takes the
+
+prioritized risks emerging from the national risk assessment and:
+
+**• determines, with the help of planning assumptions, which tasks it has to be**
+
+able to perform to deal with that risk;
+
+**• reviews what capabilities it requires to be able to execute those tasks (the**
+
+desired situation);
+
+**• establishes which capabilities it already has (the current situation);**
+
+**• compares both situations and identifies gaps or redundancies (doing the**
+
+same thing twice).
+
+**Examples of tasks and capabilities of the national government**
+
+The capability approach does not assume a one-on-one relationship between threats, tasks and
+
+capacities. The execution of one task may be necessary for various threats. A 'large-scale
+
+evacuation' for example, will have to be executed in the event of both a nuclear accident and a
+
+flood. In the same manner a capacity can be used for tasks ensuing from various types of threats.
+
+Think of the emergency drinking water supply capability which can be used in a breach of the
+
+quality of drinking water as a result of an ecological threat, but also as a result of a terrorist attack.
+
+Another example of a capability is having a model allowing for upscaling; with regard to crisis
+
+decision making, this is recorded in the National Crisis Decision Making Manual.
+
+When executing the strategic planning stage the focus is on the presence of
+
+capacities at both the national and the decentralised level. The current
+
+structure of (preparation for) crisis management at local and regional level is
+
+taken as the starting point in this respect. Third party resources can form part
+
+of the 'national potential' to respond to a specific threat.
+
+**_What does the strategic planning stage give us?_**
+
+The results of the strategic planning stage will allow the Cabinet to decide
+
+whether a reinforcement of capabilities is required in view of the prioritised
+
+risks, and if so, in what areas and at what stage of the security chain. This
+
+reinforcement can be the responsibility of a specific department or of parties
+
+outside of the (national) government, but also of the country as a whole
+
+(e.g. a national reserve of resources to combat a pandemic). Strategic planning
+
+also allows for the identifications of crosslinks, not only within the
+
+government but also between the government and the parties outside of the
+
+government; this enables available resources to be used effectively.
+
+The Cabinet makes choices about how national security is reinforced: by
+
+developing or intensifying policy, adjusting the statutory instruments or by
+
+taking concrete measures. The need for reinforcing national security is always
+
+weighed up against the consequences thereof for other interests, e.g. the rights
+
+of individuals. In addition, the proposed measures and policy intensifications
+
+must be in proportion to the goal, both with regard to effectiveness and
+
+efficiency. In other words, the proportionality of the measures to reinforce
+
+national security is explicitly included in the consideration.
+
+
+-----
+
+Strategic planning provides insight into how the tasks could be optimally
+
+divided between national government, other authorities, social organisations
+
+and the private sector. In some sectors, private institutions are responsible for
+
+safeguarding continuity and offering an adequate response to all sorts of
+
+possible threats. One example of this is the telecommunications sector.
+
+Strategic planning is an instrument for clarifying and optimising the
+
+combined action between these parties; it systematically brings people,
+
+resources, plans and procedures together and clearly sets out what people can
+
+expect from each other. In addition, this creates a common frame of reference.
+
+**_3.4_** **_Stage 3: follow-up_**
+
+Decisions made in the Cabinet on the basis of the strategic planning stage are
+
+used by the public and private institutions which have to work out these
+
+decisions. They do this within existing plans and policy cycles geared to
+
+reinforcing national security, such as protecting the critical infrastructure and
+
+the crisis management policy plan. Moreover, the realisation is linked to the
+
+regular budget cycle. The chapter below discusses the roles played by various
+
+players in the reinforcement of national security.
+
+**_Ambition_**
+
+_As of 2009 the working method must be fully operational. This implies that:_
+
+_• (long term) strategic foresight is carried out every two years from the perspective of national_
+
+_security;_
+
+_• annually topics are chosen which require in-depth analysis from a mid-term perspective._
+
+_These topics are in part determined by the results of the strategic foresight;_
+
+_• annually there is national risk assessment in which all relevant risks for national security_
+
+_are assessed using the same model;_
+
+_• the results of this risk assessment are used for strategic planning of tasks and capabilities;_
+
+_• twice a year a government-wide short-term horizon scanning is executed, whereby possible_
+
+_short-term threats are exchanged between the parties involved and in which any measures_
+
+_for an adequate collective approach are aligned to each other;_
+
+_• strategic planning is systematically used in the course of 2008 to answer the question_
+
+_whether the government is adequately prepared for a diversity of threats. Toward this end,_
+
+_the capabilities-based approached will be worked out in further detail as a planning_
+
+_methodology in 2007-2008;_
+
+_• the Cabinet makes substantiated political and administrative choices to reinforce national_
+
+_security on the basis of the outcomes of the strategic planning stage._
+
+
+-----
+
+-----
+
+-----
+
+#### Role division
+
+### 4 HOW TO REALISE THE STRATEGY?
+
+**_The direction for reinforcing national security is in the hands of the national_**
+
+**_government. But other public and private parties also contribute. In order to be_**
+
+**_able to act effectively before, during and after a crisis, agreements are necessary_**
+
+**_regarding authority and control. For example, think of a quick exchange of_**
+
+**_information via the same communication network._**
+
+**_4.1_** **_Role of the national government_**
+
+Security is everyone's concern. The national government, local governments,
+
+the business community, social organisations and citizens all make a
+
+contribution toward reinforcing national security. The national government
+
+directs these activities to safeguard national security.
+
+Within the national government, the guiding principles of role division are as
+
+follows:
+
+-  the national security programme is an interdepartmental responsibility
+
+whereby existing responsibilities are not affected, e.g., with regard to foreign
+
+policy[12];
+
+-  a programme manager is responsible for implementing and assessing the
+
+national security strategy. The programme manager also monitors the
+
+coherence of execution. Overall coordination is in the hands of the Ministry
+
+of the Interior and Kingdom Relations;
+
+-  the programme manager is supported by a highly interdepartmental
+
+secretariat. The programme secretariat encourages the involvement of
+
+national and international parties (public and private), coordinates the
+
+political decision-making process and facilitates the government-wide
+
+working method to reinforce national security;
+
+-  for every substantive topic it will be stipulated what department has primary
+
+responsibility;
+
+-  placement on the Cabinet agenda goes via an interdepartmental and
+
+ministerial portal in which all policy areas are represented that are necessary
+
+to do justice to the all-hazard approach.
+
+12 This relationship is mentioned explicitly as national security also has direct areas of interface with foreign policy,
+which of course remains the responsibility of the Minister of Foreign Affairs.
+
+
+-----
+
+**_4.2_** **_Authority and control_**
+
+National security cannot optimally be provided without clear agreements on
+
+authority and control. The authority prior to and after the end of a crisis has
+
+other characteristics in this respect than control during a crisis.
+
+**_Authority prior to and after the end of a crisis_**
+
+The preventative efforts in the framework of national security are aimed at
+
+preventing societal disruption or the recovery of the consequences thereof.
+
+The emphasis lies on solving major policy issues. Very many actors play a role
+
+in this respect. Think of often diffuse conglomerates of interested parties, such
+
+as citizens (whether or not organised in action groups), business community
+
+and administrators. In addition, there is a complex field of responsible
+
+authorities and institutions. In order to weigh up interests and find a solution
+
+with all actors, the goal is consensus, after which the responsible parties will
+
+make a decision. Authority in this stage is primarily geared to the development
+
+of policy. There must be consensus on the areas of national security concern
+
+that are taken into consideration. Also think of setting conditions that the
+
+policy development for national security must satisfy.
+
+**_Crisis control_**
+
+If a breach of national security occurs or is at risk of occurring the situation
+
+changes. In this stage there is a lack of time; immediate action must be taken,
+
+without delay. Moreover, there are usually insufficient people and resources to
+
+manage the situation. That is why priorities have to be set. A consideration is
+
+also made in this respect regarding the use of force. Quick information
+
+exchange, validation and analysis of information and the management of large
+
+quantities of information are crucial to adequately controlling the situation.
+
+In case of a crisis, it is vital that messages do not conflict with each other.
+
+Toward this end it is necessary that communication between regional and
+
+national government and between the relevant sector and the relevant ministry
+
+takes place within a closed system.
+
+The procedure in case of response is of a completely different nature than
+
+those in the other stages. After all, a consensus model is impossible during a
+
+crisis. An unequivocal control concept will have to be developed for the
+
+coordination of information provision and other activities.
+
+**_One procedure for authority and control at all stages_**
+
+Despite the different characteristics, all stages of the security chain have one
+
+procedure for authority and control. This procedure consists of four steps:
+
+-  gathering and analysis of information;
+
+-  processing information into proposals for decision making;
+
+-  making decisions;
+
+-  implementing decisions and supervising the execution.
+
+
+of a crisis has
+
+a crisis.
+
+
+-----
+
+Applying one procedure both prior to and during a crisis is of great
+
+importance. In order to respond adequately during a crisis it is essential that
+
+people who are involved in crisis management make use of the same work
+
+routines as in the preceding stages.
+
+**_Four principles of authority and control_**
+
+In order to effectively go through the procedure of authority and control it is
+
+necessary for all parties involved to have a single primary objective. This
+
+means that they make a common and synchronised joint effort to reinforce
+
+national security. In order to make this possible, it is desirable that all persons
+
+involved support and apply the four principles described below.
+
+_1. Clear role division and role consistency_
+
+A clear role division of labour exists between the relevant parties and they also
+
+stick to their roles. In other words: the parties are well aware of each other's
+
+responsibilities and powers, and respect those, regardless of the stage of the
+
+security chain. The control of the process will, by necessity, have a more
+
+mandatory character in the response stage.
+
+_2. Unité de doctrine_
+
+All parties involved apply a common doctrine for all types of threats. This
+
+doctrine contains a shared conceptual framework and regulates the
+
+information exchange and the modular deployment of generic capabilities
+
+which – depending on the nature of the threat – are necessary (for example
+
+fire fighting, decontamination, crowd & riot control and evacuation).
+
+_3. Working methods aligned to each other_
+
+All public and private parties involved have aligned their working methods
+
+with each other. A number of points are of special importance in this respect:
+
+-  the decision-making procedures must be aligned with each other. This is not
+
+only necessary to be able to quickly go through the decision-making
+
+procedures with this many parties, but also to be able to apply technical
+
+concepts for information exchange, such as network-enabled capabilities;
+
+-  ensuring a common communication strategy for all parties involved;
+
+-  synchronisation of planning: local, regional and national plans must be
+
+aligned to each other. Plans of the private sector must also align to this;
+
+-  on behalf of (multidisciplinary) operational deployment during a crisis, there
+
+must be professional unity of command. This is partly necessary to enable
+
+the modular deployment of generic capabilities;
+
+-  adequate multidisciplinary action is promoted by regular joint exercises and
+
+joint training where possible.
+
+
+-----
+
+_4. Uniform information network_
+
+All parties involved must be connected to the same communications network.
+
+This is both necessary for adequate information exchange and for the
+
+application of concepts such as the aforementioned network enabled
+
+capabilities.
+
+**_4.3_** **_Role division with other parties_**
+
+An integral approach to national security requires a clear picture of
+
+international, regional and (semi-) private roles and tasks. In addition, it is
+
+important to realise that all parties need each other as a result of the
+
+increasing complexity of threats and interdependencies between sectors.
+
+Analyses relating to critical infrastructure have made it clear that sectors are
+
+dependent on each other: for example, ICT fallout or disruption of the power
+
+supply can affect many sectors.
+
+The results of the capabilities approach enable to explore the boundaries of the
+
+role of (security) regions and (semi-)private institutions: what do they do
+
+themselves, where should the national government facilitate and what are they
+
+responsible for?
+
+In some sectors, e.g. telecommunication, the business community has
+
+primary responsibility for safeguarding continuity and responding to all sorts
+
+of threats. Involvement by the national government starts from a
+
+predetermined degree of disruption, whereby the relationship with national
+
+security is examined, including possible effects on other critical sectors.
+
+Companies often operate in an international context, e.g. as a multinational or
+
+in an international industry association. But ministries are also internationally
+
+active. And (security) regions at national borders often have contacts with the
+
+neighbouring regions just across the border. Alignment, cooperation and
+
+knowledge exchange between these parties is a prerequisite for effective
+
+reinforcement of national security. Also here the four principles for authority
+
+and control play an important role.
+
+It must be continually questioned which scale is the most effective for the
+
+intended reinforcement of national security: can the proposed approach be
+
+found within the Netherlands or is international cooperation also, or
+
+specifically, necessary - with neighbouring or nearby countries (e.g. bilateral or
+
+trilateral alliances), at regional level (EU, OSCE), at transatlantic level (NATO),
+
+global level (UN) or at several levels at the same time. It is conceivable that an
+
+aligned approach at several levels simultaneously may be the most desirable
+
+option: an ‘both-and’ approach.
+
+Scale is also relevant within the Netherlands; for example, the security regions
+
+better enable the municipalities to prepare for (new) threats. In addition,
+
+
+-----
+
+the security regions increase the administrative and operational effectiveness
+
+of parties involved in regional contingency plans and crisis management: the
+
+organisation of the fire brigade, medical assistance in the event of accidents
+
+and disasters, contingency plans and crisis management are placed under one
+
+effective regional administrative management. Unity, uniformity and
+
+simplicity are thus achieved in this approach.
+
+**_Ambition_**
+
+_The national government cannot reinforce national security on its own; alignment and_
+
+_cooperation with other parties in the public sector and between the public and private sector_
+
+_are of great importance. The Cabinet has the following goals:_
+
+-  all parties involved – public authorities, business community and social organisations –
+
+_subscribe to and apply the principles of authority and control: knowing and respecting each_
+
+_other's role in reinforcing national security, applying a common doctrine, aligning working_
+
+_methods with each other and being connected with each other via the same communication_
+
+_network;_
+
+-  structural exchange of knowledge and information:
+
+_• with umbrella organisations from the business community, such as the Confederation of_
+
+_Netherlands Industry and Employers (known as VNO-NCW). Toward this end, the_
+
+_Cabinet places security themes on the agenda which also require action by the private_
+
+_sector. This form of alignment fits in with existing contacts between ministerial_
+
+_departments and parts of the business community;_
+
+_• within the public sector: horizontal (within the national government) and vertical_
+
+_(particularly with the security regions)._
+
+_In 2007 the Cabinet will make concrete proposals to optimise the authority and control by the_
+
+_government in the area of national security._
+
+
+-----
+
+-----
+
+#### International context
+
+### 5 WHAT CAN THE NETHERLANDS
+ DO IN A WIDER CONTEXT?
+
+**_National security requires international cooperation. As a member state of, inter_**
+
+**_alia, the EU, NATO and the UN, the Netherlands aligns with and agrees with the_**
+
+**_security strategies of international organisations. Our country utilises the_**
+
+**_possibilities provided by bilateral, regional and global forms of cooperation._**
+
+**_The Netherlands in the global community_**
+
+National security cannot be safeguarded by national measures alone.
+
+Continuing globalisation entails that developments occuring far beyond our
+
+national borders can directly or indirectly affect our security. Moreover, there
+
+are issues which can only be dealt with in an international context; just think
+
+of climate change. The administrative levels at national, regional and global
+
+echelon are interdependent. This interdependency requires intensive
+
+international cooperation and alignment.
+
+**_International cooperation is indispensable_**
+
+International cooperation enables the Netherlands to influence developments
+
+over which it has no control without such cooperation. This is possible by
+
+means of bilateral (e.g. in the case of flood risk) or multilateral (e.g. in the case
+
+of ICT security) agreements. The Netherlands can also provide substantive
+
+inputs into the (national and international) security-relevant policy of
+
+international organisations. The Netherlands underscores the importance of
+
+international cooperation and will optimally utilise all possibilities it offers.
+
+It will take an active stance in international organisations and forums.
+
+**_Alignment with strategies of international organisations_**
+
+As a member state of, inter alia, the European Union (EU), the United Nations
+
+(UN), the North Atlantic Treaty Organisation (NATO), and the Organization
+
+for Security and Cooperation in Europe (OSCE), the Netherlands is aligned
+
+with and agrees with the security strategies of these organisations. Said
+
+strategies particularly describe the possibilities of international cooperation
+
+and the role that international organisations play therein, and leave scope for
+
+the member states in the realisation of their own national policy to reinforce
+
+security.
+
+
+-----
+
+**_Ambition_**
+
+_Reinforcing national security requires that the Netherlands is continually aware that it is not_
+
+_an individual player in this area and that threats cross borders. The national approach must_
+
+_be aligned to that of other states and organisations._
+
+_The Cabinet:_
+
+_•_ _places security topics that require an international approach on the agenda. The results of_
+
+_the national risk assessment and the strategic planning will be used toward this end;_
+
+_•_ _assesses to what extent the capabilities requirement can be met internationally and how this_
+
+_can be organised. As much alignment as possible is sought with existing international_
+
+_initiatives._
+
+_For example, in the response stage there are coordination mechanisms within both the EU_
+
+_and NATO that enable the provision of international assistance in the event of a disaster or_
+
+_crisis, thereby supplementing nationally lacking or limited capabilities;[13]_
+
+_•_ _supports and utilises European programmes such as the European Programme for Critical_
+
+_Infrastructure Protection (EPCIP) and the European Security Research Programme (ESRP)._
+
+_This can prevent duplication in approach and lead to financial savings;_
+
+_•_ _supports initiatives which strive to reinforce international cooperation and alignment;_
+
+_•_ _structurally exchanges international knowledge and information and shares best practices_
+
+_in the area of national security. The goal is an intensification of the relations with those_
+
+_countries that apply comparable working methods for guaranteeing national security;_
+
+_•_ _endeavours to realise solutions with individual countries which are deemed necessary to_
+
+_reinforce national security. Solutions are being sought which simultaneously help to answer_
+
+_international security issues. In this manner the Netherlands contributes to the reinforcement_
+
+_of international cooperation._
+
+13 EU: Monitoring and Information Centre (MIC); NATO: Euro-Atlantic Disaster Response Coordination Centre
+(EADRCC).
+
+
+
+_[13]_
+
+
+-----
+
+-----
+
+-----
+
+# N A T I O N A L S E C U R I T Y 
+
+## W o r k p r o g r a m m e  2 0 0 7 - 2 0 0 8 
+
+
+-----
+
+-----
+
+### 1 GOAL AND STRUCTURE
+ OF THE NATIONAL SECURITY
+ WORK PROGRAMME 2007-2008
+
+**_1.1_** **_Goal of the work programme_**
+
+The national security work programme 2007-2008 will guide the
+
+implementation of the working method as presented in the national security
+
+strategy. This implementation requires an incremental approach. The working
+
+method should be fully developed by the end of this work programme
+
+(December 2008) and subsequently be applied to all national security issues.
+
+In parallel with this development, the working method will already be tested in
+
+the current environment.
+
+Strengthening of national security requires an integral approach covering all
+
+potential threats (all hazard), including the correlations between the various
+
+threats. This entails an essential value added of the working method and
+
+signifies the importance of a broad involvement of parties at national
+
+government level as well as at regional and local levels, of international
+
+organisations, and of stakeholders within the private sector, academia and
+
+knowledge institutions.
+
+In addition to broad stakeholder involvement, thorough analysis of the
+
+national security environment also requires high quality input. Exchange of
+
+information is a prerequisite for further enhancement/enrichment of
+
+knowledge of that environment. This means that all potential sources and
+
+capabilities will have to be exploited to achieve high-quality analysis results
+
+and planning advice, including those available at think tanks, the business
+
+community, and government, nationally as well as internationally.
+
+The simultaneous and interacting development of the working method on the
+
+one hand and the application thereof to specific themes on the other will
+
+determine the quality of products to be delivered.
+
+This dual objective of broad-based and high quality involvement emphasizes
+
+the importance of the mobilisation of the (inter)national network relating to
+
+national security. The work programme envisions the establishment of a
+
+durable network at the end of 2008. The national security network serves to
+
+establish relationships between existing activities of various national and
+
+international partners and the activities of partners that are not yet included in
+
+the network.
+
+
+-----
+
+**_1.2_** **_Structure of the work programme_**
+
+The work programme consists of three parts.
+
+1 The development and application of the national security working method
+
+(Chapters 2 and 3). The working method is applied to three specific themes:
+
+-  climate change;
+
+-  polarisation and radicalisation;
+
+-  energy supply assurance.
+
+Furthermore, the method of strategic planning will be tested for the task of
+
+mass evacuation to assess whether current capabilities are adequate to execute
+
+this task or whether strengthening of capabilities is required.
+
+2 The establishment of the (inter)national security network (Chapter 4).
+
+3 The implementation of a number of programme activities (Chapter 5).
+
+
+-----
+
+### 2 CHOICE OF THEMES
+
+**_2.1_** **_Rationale_**
+
+The aforementioned themes have been placed on the agenda for the following
+
+reasons:
+
+-  providing relevance: these themes are currently high-profile and will
+
+continue to require attention in the mid to long term[1]. Ongoing activities on
+
+these themes can be exploited thus preventing redundancy of work and
+
+reinforcing the outcomes of the analysis;
+
+-  demonstrating the integral nature: these themes are multi-faceted,
+
+reinforcing/demonstrating the potential value added of government-wide
+
+strategic analysis and planning;
+
+-  supported by relevant parties: these parties see an added value in choosing
+
+these themes.
+
+**_2.2_** **_Theme definition and description_**
+
+At the conclusion of the current work programme the following will have been
+
+accomplished for each of the three themes:
+
+-  a government-wide analysis of these themes, yielding as comprehensive a
+
+picture of the problem as possible: state of affairs, expectations, integral
+
+effect analysis at different time-horizons plus a risk assessment to assess the
+
+relative seriousness of the problems.
+
+-  recommendations for the government-wide strategic planning as guidance
+
+for political-administrative decisions on (additional) requisite capabilities.
+
+**Theme: Climate change**
+
+2006 saw the publication of many studies which concluded that climate change is a fact. For
+
+example, the KNMI (Royal Dutch Meteorological Institute) published new climate scenarios in May.
+
+In summary, expectations up to the year 2050 are for warmer summers and wetter winters. The
+
+warm autumn of 2006 is a good example of this, as never before had an average temperature
+
+increase of more than 1 degree Celsius been observed. In Al Gore’s movie (‘An Inconvenient Truth’)
+
+and the recent study by the British scientist Stern (‘Stern Review: the Economics of Climate
+
+Change’, 2006) it is, moreover, clearly outlined that while climate change in itself is not a threat, it
+
+does trigger very diverse effects. These range from new developments in human and animal
+
+diseases (a shift in the breeding grounds of the malaria mosquito and the tiger mosquito, the
+
+emergence of bluetongue), changes in the distribution of wealth in the world (economic
+
+consequences of climate change) to altered migration flows in the world.
+
+1 See also the report ‘Global Risks 2007’, World Economic Forum, January 2007. This report identifies oil price shock/energy
+supply interruptions, international terrorism, climate change and pandemics as the most important risks.
+
+
+-----
+
+The analysis will align with and build upon existing research and ongoing
+
+projects such as the climate scenarios of the KNMI, effects of climate change
+
+in the Netherlands of the Environmental and Nature Planning Bureau (MNP),
+
+the Spatial and Climate Adaptation Programme (ARK), the Organisational
+
+Preparation for Flooding Improvement Programme, the Taskforce for Flood
+
+Management (TMO), Water Safety in the 21[st] Century (WV21), Ministry of
+
+Health, Welfare and Sport Study on Climate and Health, the Dutch follow-on
+
+study to the flu pandemic scenario of the World Health Organization (WHO).
+
+For the short-term analysis the emphasis will be put on extreme weather (and
+
+the related threat of floods, excessive heat/drought) and health (humans,
+
+animals). For the mid term, a literature-based analysis will be carried out as to
+
+whether all possible consequences of climate change have been charted. This
+
+includes the impact of long-term developments in the mid term. On the basis
+
+of these analyses a decision will be made whether specific topics require more
+
+in-depth study. Incident scenarios relating to climate change will be developed
+
+to be used for the national risk assessment. At this stage, currently existing
+
+large-scale flood scenarios will be used: the high tide and floods scenarios
+
+from the Ministry of the Interior and Kingdom Relations, scenarios for
+
+infectious diseases from the Ministry of Health, Welfare Sport and scenarios
+
+for animal diseases from the Ministry of Agriculture, Nature and Food Quality.
+
+**Theme: Polarisation/radicalisation in society**
+
+Polarisation and radicalisation processes among, in particular, Muslims and extreme-right youths
+
+appear to be increasing in scale, speed and intensity. The AIVD (General Intelligence and Security
+
+Service) writes in this respect: “The greatest current threat to the Dutch democratic legal order is
+
+the existence of a broad social problem where in an atmosphere of frustration about the Dutch
+
+‘multicultural’ society, inter-ethnic confrontations are being provoked by both sides of the ethnic
+
+divide. Ongoing inter-ethnic confrontations can over time threaten the cohesion in Dutch society”[2].
+
+Trends of polarisation are, in other words, at the very least just as great a threat to our country as
+
+the possibility of a terrorist attack. The Institute for Security and Crisis Management (COT)
+
+describes polarisation as “the sharpening of contrasts between groups in society that result or can
+
+result in (an increase in) tensions between these groups and in risks for societal security and
+
+security perception”[3]. Examples include increasing distance between groups, segregation, negative
+
+image building and negative attitudes on both sides. Expressions that may reflect polarisation are
+
+bullying, discrimination, vandalism, intimidation, racism and violence.
+
+Occurrences of polarisation are closely related, but not identical to trends of radicalisation.
+
+Radicalism adds a separate ideological and goal-oriented dimension. The AIVD describes
+
+radicalisation as “the (active) striving for and/or supporting of far-reaching changes in society,
+
+which can constitute a danger to (the continued existence of) the democratic legal order (goal), >>
+
+2 ‘Annual report AIVD 2005’, p. 50, AIVD, The Hague, 2006.
+3 ‘Handvatten voor gemeenten bij aanpak polarisatie en radicalisering’, COT, The Hague, 2006.
+
+
+-----
+
+>>
+
+possibly with the application of undemocratic methods (means), which can negatively affect the
+
+functioning of the democratic legal order (effect)”[4]. “Radicalism ensues from a mentality
+
+characterised by thoughts and actions which are governed by an overriding ideal, belief, goal or
+
+interest. Radicalisation relates to the growing willingness to personally strive for and/or support
+
+the above-mentioned change, or to move others to do so”[5].
+
+These characteristics indicate that the target group, motivation and (group) dynamics can, in the
+
+case of radicalisation, differ from general polarisation processes and therefore demand a separate
+
+approach.
+
+Here too, the analysis will build upon ongoing projects such as the Action Plan
+
+for Polarisation and Radicalisation 2007-2011[6] and the Social Unrest
+
+Programme.
+
+Scenarios will be developed for the mid term which will bring into view both
+
+the causes and manifestation forms of polarisation and radicalisation.
+
+Polarisation scenarios will be developed for the national risk assessment.
+
+**Theme: energy supply assurance**
+
+The focus within this theme lies on the assurance of electricity supply. Electricity is becoming
+
+increasingly important to our modern society. Civilians, organisations, companies and government
+
+have to a large extent grown dependent on the use of electricity. A guaranteed supply of electricity
+
+is of vital importance yet subject to a range of potential risks. Recent examples of (relatively minor)
+
+power outages, resulting in a temporary loss of electricity supply at local levels, show how
+
+vulnerable the system can be. But how exposed is the system exactly, and what is the risk of
+
+failures that could lead to large-scale societal disruption? There are also questions about the rising
+
+demand for electricity. Is the Netherlands sufficiently prepared for this development? Is enough
+
+being invested in expanding production and grid capacity? Electricity generation in the Netherlands
+
+is largely dependent on the availability of raw materials such as natural gas and coal. This country’s
+
+own gas reserves are gradually becoming depleted, making us increasingly dependent on imports
+
+from third (partially non-Western) countries. What kind of risks does this entail for the future?
+
+Finally, the safety and security aspects of (un)intentional human actions and (natural) disasters
+
+have a major impact on this sector, and thus also on the many other (critical) sectors and
+
+processes that are highly dependent on electricity.
+
+It is therefore important to:
+
+1. acquire good insight into the specific threats to security of supply of electricity in the short,
+
+mid and long term;
+
+2.to determine which of these threats form a risk that could lead to societal disruption.
+
+4 ‘Van dawa tot jihad’, AIVD, The Hague, 2004.
+5 ‘Aanpak polarisatie en radicalisering, CCV, Utrecht, 2007.
+6 In terms of scale, national security has a national focus; the focus of the Action Plan is on (supporting) local
+management. The national security programme provides insights into possible manifestation forms of polarisation
+in the Netherlands, also in the mid to long term. With the aid of these insights, municipal authorities can prepare
+themselves for dealing with (supraregional) risks. Execution of the Action Plan generates insights and information
+about local threats and resilience, which form the input for the government-wide analysis as part of the national
+security work method. Furthermore, the indicators used in the polarisation and radicalisation monitor (part of the
+Action Plan) correspond with those used for analysis and risk assessment within the national security work method.
+
+
+-----
+
+This analysis will build on ongoing processes such as the Protection of critical
+
+infrastructure project, the Interdepartmental Working Group on Security of
+
+Energy Supply and on foreign policy in general.
+
+All three themes will benefit from knowledge-sharing and -building by
+
+bringing together domestic and foreign government organisations, scientists
+
+and private institutions with various perspectives. This will result in reports on
+
+the state of affairs, the expected situation and effects (in the short-, mid- and
+
+long-term) of the themes. The high-quality findings generated through these
+
+analyses are expected to be of great value for the risk assessment, strategic
+
+planning and for policy follow-up stages.
+
+
+-----
+
+### 3 PRODUCT DESCRIPTIONS
+
+The following products will be produced, partly on the basis of the agenda
+
+themes.
+
+**_3.1_** **_Strategic foresight_**
+
+The first report ‘Strategic Foresight for National Security’ will be published in
+
+2007. This report will outline long-term developments with potential impact
+
+on national security. The report will identify and explore emerging themes
+
+which may be relevant to national security because they can be threats in the
+
+long term or opportunities which can be utilised to prevent threats.
+
+This report will use inputs from forecasts and trend analyses conducted by
+
+planning offices such as the Central Bureau of Statistics (CBS), the Social
+
+Cultural Plan Bureau (SCP), the Environmental and Nature Plan Bureau
+
+(MNP), the National Institute for Public Health and the Environment (RIVM),
+
+and advisory bodies such as the Scientific Council for Government Policy
+
+(WRR), the Council for Urban Planning, Environmental and Nature Research
+
+(RMNO) and the Social-Economic Council (SER).
+
+A think tank – consisting of leading experts from various fields related to
+
+national security – will assess the national security implications of these
+
+developments.
+
+**_3.2_** **_Mid-term analyses_**
+
+In 2007, analyses will be conducted to provide insight into trends and
+
+developments in the mid-term. These analyses will be focused on the themes
+
+of climate change, polarisation/radicalisation and energy supply assurance.
+
+The goal is to enhance knowledge of these themes, to identify new threats, and
+
+to unravel new correlations.
+
+**_3.3_** **_National risk assessment_**
+
+In 2007, the national risk assessment will provide a systematic comparison of
+
+the various risk factors within the themes of climate change, polarisation/
+
+radicalisation and security of energy supply that affect national security. Both
+
+the probabilities of an event happening and its consequences will be considered.
+
+For 2008, the ambition is to generate a national risk assessment across the full
+
+spectrum of national security, resulting in the report ‘Risk Assessment in the
+
+Netherlands’.
+
+
+-----
+
+**_3.4_** **_Short-term horizon scanning_**
+
+In 2007 a report ‘Threat Assessment in the Netherlands’ will be prepared
+
+which will at the very least pay attention to the themes of climate change,
+
+polarisation/radicalisation and security of energy supply. As of 2008 the
+
+‘Threat Assessment in the Netherlands’ will be prepared over the full range of
+
+national security issues.
+
+The report will provide an overview of the most important developments as
+
+these have occurred during the preceding three months as well as a horizon
+scan of the near-term future (what is coming the Netherlands’ way?).
+
+A cross-analysis will take place between and across the various themes.
+
+**_3.5_** **_Strategic planning_**
+
+Based on the findings of the risk assessment, recommendations will be made
+
+with the aid of planning assumptions as to whether capabilities must be
+
+reinforced, and if so, which. The three themes placed on the agenda are
+
+assured of attention in 2007 and 2008.
+
+Also, advice will be given on whether or not to reinforce capabilities that form
+
+part of the mass evacuation task. This is a more solution-oriented elaboration
+
+of an already defined task in which the government and/or the business
+
+community play a role. Completed at the end of 2007, this in-depth analysis
+
+will result in an overview of current and desired capabilities in this area.
+
+
+-----
+
+### 4 NATIONAL AND
+ INTERNATIONAL NETWORKS
+
+**_4.1_** **_National network_**
+
+Building a national network will be an ongoing process. This process will build
+
+on existing networks, but will also set up new networks. Knowledge and
+
+information are to be exchanged on a structural basis and to be harmonised
+
+with yet to be determined target groups, such as the umbrella organisations
+
+within both the private and the public sector.
+
+On the one hand, networks will be mobilised that pertain to the various
+
+themes and tasks. With a view to the intended high-quality interaction between
+
+experts, it is important not to ignore ‘original thinkers’ from adjacent
+
+disciplines. On the other hand, additional efforts will be made to involve
+
+experts at a level which goes beyond the themes. For reasons of support, a
+
+communication strategy (including plan and activities) will be drawn up.
+
+**_4.2_** **_International network_**
+
+Information about the Dutch approach to reinforcing national security is
+
+exchanged at the international level. To this end, an international conference
+
+will be convened towards the end of 2007. In addition, bilateral expert
+
+meetings are being organised in 2007 with existing international contacts.
+
+This will provide an impetus towards a ‘community of best practice’ in which
+
+specific knowledge and expertise in national risk assessment, analysis and
+
+strategic planning can be exchanged with countries with a comparable
+
+approach.
+
+
+-----
+
+-----
+
+### 5 PROGRAMME ACTIVITIES 
+
+**_5.1_** **_Authority and control_**
+
+Concrete proposals for improvement in authority and control in the area of
+
+national security will be made in 2007. In close consultation with strongly
+
+involved public and private parties, the principles of authority and control as
+
+laid out in this strategy will be fleshed out in further detail. The emphasis in
+
+2007 will be on the applicability of these principles within the government.
+
+More specifically, the applicability of authority and control principles will be
+
+tested against one or more of the agenda themes and against the mass
+
+evacuation task.
+
+**_5.2_** **_Evaluation_**
+
+An evaluation of the national security method will take place at the end of the
+
+work programme. The findings of the evaluation will serve as a first step for
+
+the follow-up programme of 2009 and beyond. In the evaluation, attention
+
+will in any event be paid to:
+
+-  quality of information, of the information exchange and of intermediary
+
+products;
+
+-  confidentiality of information (necessity and practical realisation);
+
+-  clarity of role division and deployment of people;
+
+-  practical use for follow-up;
+
+-  added value of the working method with respect to current more sector-
+
+oriented procedures (review against the starting situation);
+
+-  impact (in time) of – components of – the working method on the regular
+
+budget planning processes; relationship between strategic planning and the
+
+so called VBTB (From Policy Budgets to Policy Accountability).
+
+Evaluation can lead to adjustment (of components) of the working method in
+
+order to reinforce national security.
+
+**_5.3_** **_Quality and policy review_**
+
+Finally, in 2007 a study will be carried out how to assure the quality of the
+
+analysis and assessment procedure through peer review and the need for a
+
+security impact assessment of new policy initiatives will be assessed.
+
+
+-----
+
+**COLOFON**
+
+**Written ad published by:**
+
+**Programme National Security**
+
+**Ministry of the Interior and Kingdom Relations**
+
+**PO Box 20011**
+
+**2500 EA The Hague**
+
+**The Netherlands**
+
+**info@minbzk.nl**
+
+**www.minbzk.nl**
+
+**www.programmanationaleveiligheid.nl**
+
+**Production supervised by:**
+
+**Information and Communication Department**
+
+**Ministry of the Interior and Kingdom Relations**
+
+**Designed by:**
+
+**Grafisch Buro van Erkelens, The Hague**
+
+**Printed by:**
+
+**Broese & Peereboom, Breda**
+
+**ISBN**
+
+**978-90-5414-19-8**
+
+**53844/7164-GMD14**
+
+**May 2007**
+
+
+-----
+

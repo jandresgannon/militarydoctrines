@@ -1,0 +1,2938 @@
+### Defence capability plan 2019
+
+
+-----
+
+## contents
+
+
+##### Ministerial Foreword 3
+
+ CHAPTER 1 Executive Summary 4
+
+ CHAPTER 2 Community, Nation, and World 6
+
+ CHAPTER 3 Delivering the Strategic Defence  Policy Statement 2018 and Supporting the Pacific Reset 11
+
+ CHAPTER 4 Responding to the Climate Crisis 16
+
+ CHAPTER 5 Improving our Ability to Respond 18
+
+ CHAPTER 6 Positioning our Defence Force for the Future 21
+
+ CHAPTER 7 Toward a Sustainable Future 24
+
+ CHAPTER 8 Equipping the Defence Force 26
+
+Planned Investments in Air Capabilities 28
+
+Planned Investments in Maritime Capabilities 31
+
+Planned Investments in Land Capabilities 35
+
+Planned Investments in Information Capabilities 38
+
+##### CHAPTER 9 Working with Industry 41
+
+
+The Ministry of Defence administers the Defence Act 1990.
+
+The latest Ministry of Defence publications are available from
+our website: www.defence.govt.nz
+
+This information is protected by Crown copyright or the
+copyright of third parties. For permission to reproduce this information
+
+
+ISBN: 978-0-478-27898-9 (Print)
+
+ISBN: 978-0-478-27899-6 (Online)
+Published by the Ministry of Defence, June 2019
+Freyberg Building, 20 Aitken Street, Wellington 6144, New Zealand
+Website: www.defence.govt.nz Email: info@defence.govt.nz
+
+
+-----
+
+## Minister  of Defence Foreword
+
+
+**Hon Ron Mark**
+Minister of Defence
+
+
+I am pleased to announce the release of the Defence
+_Capability Plan 2019. The release of this Plan concludes a_
+series of foundational reviews which align defence policy and
+planned investments with the Coalition Government’s priorities,
+including the Pacific Reset, and its commitment to safeguarding
+and providing resilience for the nation’s wellbeing.
+
+The capabilities set out here maintain the indicative planned
+investment in Defence signaled by the Defence Capability
+_Plan 2016. However this Plan goes further, prioritising new_
+investments to better address New Zealand’s strategic
+environment, and highlighting investments which will be
+required in the longer term. The Plan will be delivered in a
+fiscally responsible manner, with the indicative capabilities
+and costs outlined here being subject to robust scrutiny prior
+to Cabinet consideration of business cases, and funding being
+available through the Budget process.
+
+Together with the Strategic Defence Policy Statement 2018,
+this Plan sets the foundation of Defence for the Coalition
+Government. The Strategic Defence Policy Statement
+_2018 outlined how the Defence Force provides value to the_
+community, nation and world, and raised the priority placed
+on the Defence Force’s ability to operate in the South Pacific
+to the same level as New Zealand’s territory, the Southern
+Ocean and Antarctica; this Plan provides a vision for the
+capabilities that will deliver on the Policy Statement, and for an
+enhanced and sustainable Defence Force.
+
+The Defence Capability Plan 2019 comes at a critical point in
+time, with anticipated decisions likely to shape the Defence
+Force for the next thirty years or more. The significance of this
+undertaking is substantial; however its value to New Zealand,
+as outlined in this document, is greater than the investment
+required. To realise that value, this plan maintains the $20 billion
+in capital investment out to 2030, first signalled in the Defence
+_White Paper 2016. This includes $5.8 billion invested in Defence_
+Capabilities since 2014, with $2.4 billion being committed to the
+P-8A Poseidon maritime patrol aircraft.
+
+The decision by the Coalition Government to purchase four
+P-8A Poseidon aircraft to replace the aging P-3K2 Orion fleet
+has laid a strong foundation. This purchase demonstrates
+a strong commitment to acquire combat-capable, flexible
+capabilities that can support security for New Zealand and the
+South Pacific, whilst also contributing to efforts to reinforce the
+international rules-based order.
+
+Other major platforms which underpin the Defence Force are
+now reaching the end of their service lives. The C-130H Hercules
+fleet and the New Zealand Army’s vehicle fleet have provided
+significant value in operations ranging from Antarctica and East
+Timor, to the Middle East. Preserving these vital contributions
+through investment in modern, contemporary capabilities is the
+highest priority for delivering this Plan
+
+
+The range of operations conducted by the New Zealand
+Defence Force in relation to its size will require innovative
+capability solutions. This will necessitate pairing proven
+technologies with unique ways of operating suited to
+New Zealand’s specific strategic environment. This will include
+responding to the impacts of climate change, which will
+continue to test the security and resilience of our community,
+our nation, the South Pacific, and the world. These challenges
+were highlighted in the 2018 Defence Assessment – The
+_Climate Crisis: Defence Readiness and Responsibilities. Early_
+thinking on an enhanced sealift capability to replace HMNZS
+_Canterbury will mean that New Zealand is well placed to_
+respond and will enhance New Zealand’s resilience against
+risks to our national wellbeing.
+
+Significantly, capability decisions will need to consider the
+fundamental changes to the ways in which militaries operate
+across the world. As the rate of technological change
+accelerates, so too will the complexity of our strategic
+environment. Staying in line with these technologies will
+be crucial to ensuring our Defence Force remains properly
+resourced and positioned.
+
+For these reasons the Plan includes planned investment in
+space-based systems, analytical intelligence capabilities, and
+semi-autonomous and remotely operated technologies. The
+Plan also reinforces the importance of digital capabilities as
+critical enablers across operations, with greater investment in
+cyber capabilities.
+
+This Plan also gives greater emphasis to the sustainability of
+the Defence Force than previous versions. Capabilities have
+been prioritised to provide value for money, and wide ranging
+support to other agencies, delivering a broad range of outcomes
+to New Zealand. The recently purchased dive and hydrographic
+vessel, HMNZS Manawanui, has demonstrated that the
+delivery of defence capabilities can be undertaken in a fiscally
+responsible manner, while also enhancing those capabilities to
+better meet the demands of the future.
+
+I am confident that New Zealand’s Defence agencies will
+rise to the challenge of delivering this Capability Plan. The
+review of Defence’s procurement practices, completed by Sir
+Brian Roche in May 2018, demonstrates the considerable
+success of Defence’s commitment towards improvements
+to investment delivery. These improvements are an explicit
+recognition of the scale and importance of the capital portfolio.
+
+We have an obligation to ensure that New Zealand remains
+secure and prosperous, that we meet our commitments to our
+partners, uphold and represent our nation’s values globally,
+and that we are prepared to address the challenges that face
+our future generations. The Defence Capability Plan 2019
+delivers on that obligation, and will ensure that the Defence
+Force is able to deliver value to the community, nation, and
+
+
+-----
+
+# C h a p t e r 1
+
+#### Executive Summary
+
+
+-----
+
+1. The Defence Capability Plan 2019 sets out the indicative
+planned investments in the New Zealand Defence Force
+out to 2030, while further identifying potential investments
+to be made after 2030. Delivering on these investments will
+provide the Defence Force with the capabilities required to
+give effect to the Government’s policy intentions, outlined in
+the Strategic Defence Policy Statement 2018.
+
+2. The Defence Capability Plan 2019 has been jointly
+prepared by the Ministry of Defence and the New Zealand
+Defence Force. A broad range of other Government
+agencies have provided input and assurance. This
+Capability Plan builds on earlier versions, including the
+_Defence Capability Plan 2016, incorporating changes_
+necessary to deliver the Strategic Defence Policy
+_Statement 2018._
+
+3. The planned investments signalled here maintain the
+$20 billion programme of capital investment out to 2030,
+while improving the overall ability of the Defence Force
+to respond to the strategic environment. Furthermore, for
+the first time potential investments have been identified
+to provide for the next generation change to the Defence
+Force, beginning in 2030. These initiatives, informed by
+long-term planning and development, will be explored in
+detail in the Defence White Paper planned for 2022.
+
+4. Extending long-term planning in Defence allows for
+sustainable, high-value investments to be considered.
+Taken alongside recent commitments, the Defence
+_Capability Plan 2019 provides for the replacement and_
+regeneration of all major Defence capabilities.
+
+5. The Strategic Defence Policy Statement 2018 described
+the value that the Defence Force provides for the
+community, the nation, and the world, delivered through
+the current and future capabilities it maintains. The nature
+of these contributions, and how capabilities are used to
+fulfil New Zealand’s Defence policy, is outlined in the
+following chapter. Either independently or with partners, the
+New Zealand Defence Force is able to respond to events
+which impact New Zealand’s wellbeing, from civil defence
+emergencies at home, to global threats to the international
+rules-based order that we rely on for our way of life.
+
+##### Delivering on Government policy
+
+6. Consistent with the Coalition Government’s Pacific Reset,
+key changes to this Defence Capability Plan are focused
+on increasing the effectiveness of the Defence Force to
+operate in the South Pacific. Foremost in these changes
+is increasing New Zealand’s capacity to respond as the
+demand for assistance grows, with improved capabilities to
+move personnel, stores and equipment.
+
+7. The means by which these priorities will be delivered
+are outlined in Chapter Three, alongside plans for new
+capabilities needed to address the challenges identified in
+the Strategic Defence Policy Statement 2018. Central to
+this is the inclusion of capabilities to improve New Zealand’s
+maritime domain awareness; a vital component of
+New Zealand’s security and prosperity. This will be
+achieved through improved and dedicated surveillance
+capabilities that provide a broad appreciation of maritime
+activities, from the Southern Ocean to the South Pacific.
+
+
+##### Preparing for the future
+
+8. By 2030 the environment within which the New Zealand
+Defence Force is expected to respond will have changed
+considerably. Driven by climate change and competing
+national interests, the frequency and diversity of security
+events are expected to have increased. New Zealand will
+require a Defence Force which can provide Government
+with a broad range of options, including undertaking its
+roles concurrently if required.
+
+9. In keeping with the Government’s expectations of Defence,
+this includes being able to respond independently to events
+in the South Pacific if required. However, the need to
+continue to operate with our partners to further common
+interests will continue. The response options, including
+enhanced sealift and airlift capabilities, and growth in
+the size of the New Zealand Army, provided through the
+delivery of this plan are detailed in Chapter Four.
+
+10. To meet the principles of the Strategic Defence Policy
+_Statement 2018, while balancing cost, viability of delivery and_
+operational needs, the integration of modern technologies
+and practices have been outlined in Chapters Six and Seven.
+Cyber, intelligence, semi-autonomous and space-centred
+technologies will provide New Zealand with a Defence Force
+that is resourced and prepared to operate in a modern
+strategic environment. These technologies will also lower
+risk to New Zealand Defence personnel, and improve the
+efficiency and effectiveness of the Force as a whole.
+
+11. To ensure the long-term sustainability of the New Zealand
+Defence Force, improvements will continue to be made to
+the way Defence manages its logistics and its workforce.
+Furthermore, new approaches to delivering essential services
+will be considered, including working with commercial partners
+to deliver information technologies necessary for the operation
+of the New Zealand Defence Force.
+
+##### Planned investment in Defence capabilities
+
+12. The specific investments planned for major capabilities,
+within the air, maritime, land and information domains are
+outlined in Chapter Seven. Providing the purpose, timing
+and estimated cost range of each investment, the Defence
+_Capability Plan 2019 offers a transparent, informative_
+indication of Defence priorities to the New Zealand public,
+and to our Defence partners overseas. Providing an outline
+of planned investments also ensures that Defence is well
+situated to work with industry to deliver on this Plan.
+
+13. The timing, description, and cost of capability investments
+provided in this plan are indicative, and subject to
+approval by Cabinet. Investment intentions out to 2030
+are subject to individual business cases justifying the
+investment, and funding being available through the
+budget process, taking into account other Government
+priorities. Indicative investments planned for commitment
+between 2030 and 2035 have been included to allow for
+considered, long-term planning for the Defence Force’s
+future needs. These capabilities will be reassessed ahead
+
+
+-----
+
+# C h a p t e r 2
+
+#### Community, Nation and World
+
+
+-----
+
+14. The Strategic Defence Policy Statement 2018 set
+out the Coalition Government’s strategic policy for
+Defence. Through an assessment of the global
+strategic environment and its implications for
+New Zealand, the Policy Statement defined the roles,
+priorities and principles expected of the New Zealand
+Defence Force. This Plan sets out the capabilities
+required to fulfil these expectations.
+
+##### Defence outcomes: Delivering value  to the Community, Nation and World
+
+15. Defence supports New Zealand’s security, resilience
+and wellbeing across a broad range of activities.
+In particular, Defence:
+
+###### Community
+
+Supports New Zealand’s community and environmental
+wellbeing and resilience.
+
+###### Nation
+
+Promotes a safe, secure, and resilient New Zealand,
+including on its borders and approaches.
+
+Contributes to maintaining New Zealand’s prosperity via
+secure air, sea and electronic lines of communication,
+and secure access to space-based services.
+
+###### World
+
+Contributes to the maintenance of the international
+rules-based order.
+
+Contributes to New Zealand’s network of strong
+international relationships.
+
+##### Principles underpinning  New Zealand’s Defence policy
+
+16. The Strategic Defence Policy Statement 2018
+articulated several fundamental high-level expectations
+of the Defence Force. The delivery, introduction and
+operation of the capabilities in this Capability Plan will
+be undertaken in a manner that ensures the following
+principles are adhered to:
+
+16.1 Defence is combat-capable, flexible and ready:
+The core purpose of the Defence Force is to
+deliver military effects. Combat capabilities are
+of fundamental importance. The Defence Force
+forms a core component of New Zealand’s
+broader national resilience, typically operating
+alongside and in support of other agencies.
+The Defence Force’s capabilities enable it to
+deliver a broad range of activities that support
+New Zealand’s overall wellbeing.
+
+
+16.2 Defence personnel are highly trained
+professionals: Whether in regular force, reserve
+or civilian roles, Defence Force personnel are
+professionally trained and skilled to succeed.
+
+16.3 Defence has the resources to meet the
+Government’s operational and strategic priorities:
+The Defence Force is equipped and resourced
+to meet the operational requirements placed on it
+by the Government, and Defence is positioned to
+respond to the changing strategic environment.
+
+16.4 Defence operates in ways that maintain public
+trust and confidence: Defence Force activities
+are subject to civilian control, exercised through
+the Minister of Defence and the Cabinet more
+generally. Defence must be transparent and open
+with the New Zealand public.
+
+16.5 Defence embodies and promotes New Zealand’s
+values: Domestically and offshore, Defence
+promotes New Zealand’s enduring values.
+Defence also operates in accordance with
+these values. Internationally, Defence must
+be an agent of New Zealand’s independent
+foreign policy, act to promote New Zealand
+as a good international citizen, and support
+the international rules-based order. Defence
+operates in accordance with both domestic and
+international law, including the Law of Armed
+Conflict and International Humanitarian Law.
+
+16.6 Defence is a credible and trusted international
+partner: In supporting New Zealand’s interests,
+Defence makes valued, credible contributions to
+New Zealand’s international security partnerships.
+This includes meeting New Zealand’s
+commitment as an ally of Australia. The Defence
+Force adds value to international coalitions and
+other joint operations, and is interoperable with
+New Zealand’s key security partners.
+
+17. The priorities and principal roles of the Strategic
+_Defence Policy Statement 2018 describe the Coalition_
+Government’s expectations for the Defence Force.
+Equally, capability provides the means through which
+the Defence Force meets these expectations, as
+described below.
+
+
+-----
+
+##### Community
+
+18. The Coalition Government is committed to putting
+wellbeing at the heart of its policies, including its Defence
+policies. The New Zealand Defence Force is a major
+contributor to safeguarding and providing resilience to the
+nation’s wellbeing.
+
+19. The capabilities of the Defence Force are unique
+within New Zealand. Given this, they must also
+be complementary to, and ready to support, other
+Government agencies towards all-of-Government
+objectives. This includes the New Zealand Police,
+Ministry for Primary Industries, Ministry of Civil Defence
+and Emergency Management, Customs New Zealand,
+the Department of Conservation, the Ministry of Health
+and others as needed.
+
+###### Contribute to national, community and environmental wellbeing and resilience, and whole- of-Government security objectives
+
+20. Following civil emergencies, the New Zealand Defence
+Force’s sealift, airlift and land transport capabilities allow
+rapid responses through the provision of supplies and
+personnel. Where necessary, these capabilities are able
+to evacuate at risk populations. Medical and engineering
+capabilities can also provide relief, particularly in the
+critical early phases of an operation.
+
+21. Air surveillance and dive and hydrographic capabilities
+allow for the inspection of critical infrastructure on land
+and at sea, including in isolated or inaccessible locations.
+Defence infrastructure, including high frequency and
+satellite communication capabilities, also provides
+resilience to systems of national importance, allowing
+for emergency services to maintain communications
+during crises.
+
+22. These same capabilities, with the naval patrol force,
+are able to provide the Department of Conservation
+with the means to protect the environment, including in
+environmentally sensitive areas such as Fiordland, the
+sub-Antarctic Islands and the Kermadec Islands.
+
+23. The New Zealand Army provides counter-explosive
+and counter-terrorist responses domestically. In
+environmental disasters, land forces also support
+displaced populations and assist with managing natural
+hazards, such as flood waters, debris and landslides.
+First response emergency services are provided through
+rural and aviation firefighting capabilities, deployable
+health task groups and temporary accommodation.
+
+24. The New Zealand Defence Force also contributes to
+community wellbeing through the use of its people and its
+estate. These capabilities are utilised to deliver the Limited
+Service Volunteer scheme, to provide motivational, skillsbased education to young at risk New Zealanders.
+
+
+##### Nation
+
+25. Government’s highest priority for the Defence Force is its
+ability to operate and undertake tasks in New Zealand’s
+territory, including its Exclusive Economic Zone, and
+neighbourhood from the South Pole to the Equator.
+
+###### Defend New Zealand’s sovereignty and territory, and contribute to protecting New Zealand’s critical lines of communication
+
+26. New Zealand’s territory and sovereign rights extend from
+the heart of our nation to the boundaries of our Exclusive
+Economic Zone and extended continental shelf claims.
+Defending sovereignty across these areas ensures not
+only the protection of our national resources, but also that
+New Zealand’s national values are upheld.
+
+27. Patrol capabilities at sea and in the air help ensure that
+marine protected areas remain untouched, and that our
+fisheries remain sustainable. They also work collectively
+to identify, intercept, board and inspect vessels of
+interest, and assist those in distress. These capabilities
+draw on intelligence support to ensure the efficient and
+targeted use of Defence resources.
+
+28. The Defence Force protects New Zealand’s critical lines
+of communication through the safeguarding of those who
+use them. Maritime search and rescue, monitoring of
+our borders, and participation in constabulary operations
+provide for the safety of maritime trade and the many
+recreational users of the waters around New Zealand and
+in the region. Capabilities including HMNZS Manawanui
+are also able, where necessary, to provide monitoring of
+sea lanes, ports and harbours.
+
+29. Capabilities introduced under this plan will also provide
+greater resilience for New Zealand’s digital and spacebased lines of communication, by increasing our
+awareness of space-based activities in our region.
+
+
+-----
+
+###### Conduct a broad range of operations in the South Pacific, including leading operations when necessary, to protect and promote regional peace, security and resilience
+
+30. The Strategic Defence Policy Statement 2018 recognised
+that, as a Pacific nation, New Zealand’s security and
+wellbeing is intrinsically bound to the peace and stability of
+the South Pacific. Importantly, the Statement also raised
+the priority placed on the Defence Force’s ability to operate
+in the South Pacific to the same level as New Zealand’s
+territory, the Southern Ocean and Antarctica.
+
+31. High-readiness contingent capabilities are maintained by
+the Defence Force to respond to events in the Pacific,
+from humanitarian and disaster relief to security and
+stability operations.
+
+32. Being prepared to operate independently or to lead
+peace and security operations in the Pacific requires a
+Defence Force that is able to operate effectively within
+the air, maritime, land and information domains. This
+force needs to act cohesively within potentially highrisk environments, inserting and sustaining diverse
+capabilities, preventing or minimising conflict, and
+supporting local communities to build security.
+
+33. Capabilities must be ready to gain access to islands
+via the sea. This may require maritime mine countermeasures, inspection of infrastructure, and the surveying
+of sea routes. Air surveillance capabilities also provide
+situational awareness, identifying the scale and impact of
+an event, movements of people and the state of critical
+infrastructure, including roads, ports and airfields.
+
+34. Once established, access allows amphibious forces to
+operate. Landing craft and helicopter forces operating
+from sealift vessels, as well as airlift capabilities, can
+supply a high-readiness land combat company, and if
+required, special operations forces into the region to
+secure and stabilise the event.
+
+35. Once a presence is established, New Zealand’s sealift,
+sustainment and air transport capabilities will transport
+equipment, stores, and rotating medium-readiness land
+forces to support nations until stability is restored.
+
+###### Support New Zealand’s presence in the Ross Dependency of Antarctica, and work with other agencies to monitor and respond to activity in  the Southern Ocean
+
+36. New Zealand has strong ties to Antarctica. While
+maintaining our claim in the region, New Zealand
+supports the Antarctic Treaty System, including the use
+of the region for peaceful purposes, and works to improve
+scientific and environmental endeavours in the region.
+
+
+37. The skills of the personnel of the Defence Force,
+including field engineering, logistics management,
+and the operation of ships and aircraft in challenging
+environments, mean the Defence Force is ideally suited
+to support New Zealand’s interests in the region. This is
+achieved by undertaking non-military tasks to support
+other Government agencies and the international
+scientific community.
+
+38. The New Zealand Defence Force’s airlift capabilities
+provide the transportation of personnel and supplies to
+the continent, including Defence personnel who repair
+and replace infrastructure and maintain supply lines.
+
+39. Fishing vessels and vessels in distress are able to
+be monitored by air surveillance capabilities. Using
+intelligence gained through surveillance, the naval
+patrol force undertakes fisheries patrols on behalf of
+the Convention for the Conservation of Antarctic Marine
+Living Resources, and search and rescue activities in
+support of New Zealand’s search and rescue obligations.
+
+40. HMNZS Aotearoa will further support the civilian
+presence on the continent, including scientific research,
+through the provision of supplies on behalf of the Joint
+Logistics Pool.
+
+41. The delivery of a specialised Southern Ocean Patrol
+Vessel will allow for fisheries patrols to monitor a greater
+area of the Southern Ocean. With the ability to refuel at
+sea from HMNZS Aotearoa, this vessel will also improve
+the ability of the Defence Force to maintain fisheries
+patrol throughout the fishing season.
+
+###### Work with other agencies to monitor and understand New Zealand’s strategic environment
+
+42. The activities outlined above demonstrate how Defence
+Force capabilities regularly support other agencies in
+New Zealand and the Pacific.
+
+43. These activities provide significant intelligence regarding
+our national and regional security. Specialist intelligence,
+cyber and surveillance capabilities are maintained
+to allow this intelligence to be analysed, informing
+the strategic environment for Defence and other
+New Zealand Government agencies.
+
+44. Effective monitoring of the strategic environment allows
+New Zealand to anticipate sudden changes, and to
+observe and plan for long-term changes. The capabilities
+required to achieve this outcome will be enhanced under
+this Defence Capability Plan 2019.
+
+45. New Zealand’s national security and interests also depend
+on events further afield. It is important that New Zealand
+can contribute Defence capabilities in support of
+Asia-Pacific regional security. Similarly, New Zealand
+must be able to contribute globally to support the
+maintenance of the international rules-based order.
+
+
+-----
+
+##### World
+
+###### Meet New Zealand’s commitments to its allies  and partners
+
+46. Working with our partners, New Zealand maintains a
+number of high-end combat-capable, flexible capabilities
+that can be used in support of peace and security within
+the region and the world.
+
+47. Three core capabilities comprise New Zealand’s
+high-end capabilities:
+
+47.1 The decision in July 2018 to procure four
+P-8A Poseidon maritime patrol aircraft means
+New Zealand will retain a common strategic
+air surveillance capability with key Defence
+partners following the withdrawal from service
+of the P-3 Orion fleet;
+
+47.2 The naval combat capabilities provided by the
+ANZAC frigates, and recently modernised through
+the Frigate Systems Upgrade project to retain
+world class combat systems and interoperability
+with New Zealand’s key defence partners.
+With HMNZS Aotearoa, the frigates will also
+provide a global response option for long duration
+operations; and
+
+47.3 New Zealand’s Special Operation Force, providing
+very high readiness counter-terrorism, special
+reconnaissance, and combat capabilities.
+
+48. Other Defence Force capabilities are able to provide
+valuable contributions to operations with our partners.
+This may be through the provision of niche capabilities
+such as rapid environmental assessment to support
+amphibious operations or the use of ports about which
+little is known, or through contributions that supplement
+partner forces.
+
+49. As an integrated Defence Force, the contribution of
+combat capabilities to our partners is reliant on support
+capabilities. This includes the delivery of capabilities
+into an area of operations through air or sealift, and
+sustainment of the capability for the duration of the
+operation.
+
+50. The nature of these capabilities offers Government
+a high level of discretion as to the size and nature of
+New Zealand’s contributions to operations outside of
+New Zealand’s immediate neighbourhood. Each is able
+to be deployed individually, or as a joint task group,
+towards coalition operations.
+
+51. Maintaining these capabilities’ interoperability will ensure
+they remain a valued contribution which will complement
+our partners’ forces, while also strengthening
+New Zealand’s force when it is operating independently.
+
+
+###### Protect New Zealand’s wider interests by contributing to international peace and security and the international rules-based order
+
+52. New Zealand’s contributions to the international rulesbased order usually comprise individual capabilities, or
+small task groups of capabilities working as part of a
+broader international effort.
+
+53. Contributions towards the rules-based order will continue
+to include a mix of capabilities:
+
+53.1 International efforts to combat piracy,
+transnational crime including the transhipment of
+narcotics, and maritime security operations will
+continue to be supported by naval combat and air
+surveillance capabilities; and
+
+53.2 United Nations peacekeeping operations and
+capacity building missions will be primarily
+supported by land forces, with a wide variety of
+deployable capabilities available to offer value to
+these operations.
+
+54. Future contributions to the international rules-based order
+will also require capabilities suitable for New Zealand’s
+place within the digital world. Space and cyber capabilities,
+described in this Defence Capability Plan 2019, will enable
+New Zealand to expand its contribution in this area.
+
+###### Make a credible contribution in support of peace and security in the Asia-Pacific region, including in support of regional security arrangements
+
+55. The collective capabilities of the New Zealand Defence
+Force offer Government a broad range of options for
+contributions in support of peace and security in the
+Asia-Pacific Region.
+
+56. Choices on the size and nature of deployments will
+ultimately depend on the event in question. This may require
+immediate, short-term responses to events such as natural
+disasters or conflict, or may involve long-term commitments.
+
+
+-----
+
+# C h a p t e r 3
+
+#### Delivering the Strategic Defence Policy Statement 2018 and Supporting the Pacific Reset
+
+
+-----
+
+57. The Strategic Defence Policy Statement 2018 anticipates
+an increase in the frequency of responses the Defence
+Force will be required to undertake in New Zealand’s
+neighbourhood. Our ability to respond across this area,
+which reaches from Antarctica to the South Pacific,
+requires that we can monitor events and trends as they
+unfold, and lead the responses to them.
+
+58. This Plan responds to the requirements outlined in the
+Policy Statement, by improving New Zealand’s overall
+capacity to respond, and providing greater ability to
+respond to multiple events concurrently.
+
+59. Capabilities have been prioritised to provide the greatest
+value to New Zealand, and New Zealand’s interests in
+the Pacific. The capability needs identified in the Policy
+Statement have been addressed, with investments
+planned to improve our awareness of, and response to
+what is occurring within our maritime domain, to develop
+and maintain sophisticated cyber capabilities, and to
+provide Defence contributions to the security of spacebased systems.
+
+60. Recognising the value the Defence Force contributes to
+the community and the nation through all-of-Government
+objectives, this Plan also gives increased emphasis to
+inter-agency cooperation.
+
+
+##### Defence supporting the Pacific Reset
+
+61. New Zealand is committed to long-term support to the
+Pacific, which is based on understanding, friendship,
+mutual benefit, collective ambition and sustainability.
+This has been reinforced by the Coalition
+Government’s Pacific Reset. Defence has an active
+role to play in this, filling the need for capabilities with
+which our Pacific partners are not equipped.
+
+62. New Zealand is a Pacific nation through geography,
+identity, and values. Our nation’s security and
+wellbeing are intrinsically bound to the peace and
+stability of the Pacific. Growing competition in the
+region will challenge New Zealand and Australia’s
+ability to maintain influence, protect our security, and
+have a more positive impact in line with our values.
+
+63. The Pacific Islands region is also disproportionately
+affected by the impacts of climate change, at the same
+time that it faces other intensifying complex disruptors,
+such as transnational crime and resource competition.
+Together, these challenges could test Pacific nations,
+and will likely require increased levels of assistance,
+including humanitarian and disaster response
+operations.
+
+64. The Strategic Defence Policy Statement 2018
+increased the priority for the New Zealand Defence
+Force to be able to operate in the Pacific to the
+highest level, equal with New Zealand’s own territory,
+our Exclusive Economic Zone, and the Southern
+Ocean and Ross Dependency. This reflects the
+importance of the Pacific to New Zealand’s national
+security. New Zealand’s defence role in the Pacific
+is non-discretionary, and the New Zealand Defence
+Force already maintains a robust programme of
+engagements across the region, which is being further
+enhanced in the context of the Pacific Reset.
+
+65. As the Strategic Defence Policy Statement 2018
+recognises, the Defence Force will have to act in new
+ways and at new levels to protect New Zealand’s
+interests. The Defence Capability Plan 2019 delivers
+the required lift in capability for New Zealand to support
+the Pacific into the future. It provides for long-term,
+sustainable efforts in the Pacific, as well as immediate
+responses to potential shocks and fast-moving events
+in the region.
+
+66. New Zealand has unique strengths to draw from
+when providing Defence support to the Pacific region.
+Cooperation among Pacific Island nations will be most
+successful when it leverages respective strengths
+and coordinates complementary approaches to meet
+Pacific security needs, in fostering a secure, stable and
+resilient region.
+
+
+-----
+
+###### Increasing our capacity to respond
+
+67. This Plan refocuses and improves Defence’s airlift
+and sealift capabilities, to better support challenges
+in the Pacific region. The demand placed on HMNZS
+_Canterbury has highlighted the criticality of effective_
+sealift. Experience over the last ten years has highlighted
+the operational and environmental limits of HMNZS
+_Canterbury, as well as the risks inherent in maintaining a_
+sole vessel of this type. Similarly, the C-130H Hercules
+are among the most Pacific orientated capabilities
+of the Defence Force, and are crucial to transporting
+New Zealand Defence Force people and equipment to
+operations around the region, including areas of high risk,
+or those which have limited accessibility for other aircraft.
+
+68. The C-130H Hercules will be replaced within the next five
+years, ensuring that this vital capability is maintained for
+decades to come. The replacement of the C-130H will
+provide for the full regeneration of existing Royal
+New Zealand Air Force capabilities. Immediate, highreadiness responses in the Pacific, from humanitarian
+and disaster relief to potential conflict or security
+incidents, will require a flexible and versatile tactical airlift
+capability. For this reason, replacement of the C-130H is
+the highest priority for this plan.
+
+69. Recognising the high value of sealift to humanitarian and
+disaster relief, and the sustainment of deployed forces,
+in the mid-2020s an additional sealift vessel will be
+acquired. Operating alongside HMNZS Canterbury, this
+acquisition will provide two sealift vessels, and will greatly
+improve the effectiveness of the Defence Force, and the
+resilience of the nation, and the region.
+
+70. The enhanced sealift vessel will have greater lift capacity
+than HMNZS Canterbury. The capability will provide a
+highly flexible military asset, including hospital facilities,
+planning spaces, and self-defence capabilities. It will
+also provide support for the deployment of a range of
+capabilities, including Special Forces, Unmanned Aerial
+Vehicles and NH90 helicopters. The enhanced sealift
+capability will also improve the New Zealand Defence
+Force’s amphibious operations. Through the provision
+of a well dock, it will be able to conduct operations in a
+wider range of sea conditions, and will have the size and
+capacity to carry large equipment, and sufficient aviation
+capacity to allow extended, long duration operations. Its
+size will also provide for the transport of a larger number
+of personnel, allowing for the value of the increased size
+of the New Zealand Army to be realised.
+
+
+71. Collectively, these enhancements will significantly
+increase our ability to respond to humanitarian and
+security events in the Pacific region. While a future
+project will determine detailed requirements for this
+capability, a Landing Platform Dock is an example of
+the type of vessel that will be considered.
+
+72. Following 2030, HMNZS Canterbury will be withdrawn
+from service. At this time an investment will be made to
+further improve the Defence Force’s sealift capability with
+an additional vessel. Options will be explored against the
+composition of the fleet, the wider Defence Force and the
+prevailing strategic environment.
+
+###### Sustaining our presence in the community
+
+73. People are the foundation from which the Defence Force
+is able to support the community, both at home and in the
+Pacific region. Defence people provide the connection
+between the Defence Force and the communities to
+which they belong. They represent our collective values
+and cultures, our whakapapa and whānau, and are
+New Zealand’s single greatest defence asset in the
+South Pacific.
+
+74. Defence Force people, operating from sea, air, and land,
+provide security and stability, and relief from natural
+disasters in the same way that they do throughout the
+region and beyond.
+
+75. Community-based support from Defence Force people
+contributes to the building of resilience in ways ranging
+from air and sea based search and rescue, response to
+natural disasters, and support to conservation efforts.
+The connection between Defence people and the
+communities of New Zealand and our Pacific partners
+is also deeply imbued in our national identity, providing
+ceremony and solemnity to occasions of national
+significance.
+
+76. This Plan delivers foremost on these values and
+connections by growing the Defence Force by a total
+of approximately 1500 service personnel. To focus on
+providing better and more sustainable services to the
+nation and the Pacific, this will include increasing the size
+of the New Zealand Army to 6000 personnel by 2035.
+
+
+-----
+
+##### Improving our maritime domain awareness and response
+
+###### Enhanced air surveillance capabilities
+
+77. New Zealand will face an increasing challenge in
+coming years to identify, characterise and respond
+to activity within its expansive maritime domain.
+Addressing this challenge will ensure New Zealand
+is better placed to protect our natural resources,
+respond to irregular migration while protecting the
+safety of those involved, and prevent the impacts of
+transnational crime from reaching our nation.
+
+78. The purchase of four Boeing P-8A Poseidon maritime
+patrol aircraft, announced in July 2018, provides
+a substantial commitment towards meeting this
+challenge. The P-8A Poseidon will replace the six
+P-3K2 Orion aircraft, which will be progressively
+retired from 2023. This replacement will guarantee the
+continuation of the maritime patrol function available to
+the Government.
+
+79. The P-8As provide a sophisticated, technologically
+advanced military capability that is of value to
+New Zealand and our partners. A commitment
+will also be made for an enhanced air surveillance
+capability, potentially utilising long range unmanned
+aerial vehicles. This capability will be dedicated to
+civil surveillance tasks, supporting the New Zealand
+Police, Customs, Immigration, the Department of
+Conservation, Maritime New Zealand and the Ministry
+for Primary Industries.
+
+80. This approach will provide greater availability of the
+P-8A for high-end tasks in support of our defence
+partners and the international rules-based order, while
+also providing other agencies with readily available
+surveillance capabilities that meet New Zealand’s
+national requirements.
+
+
+###### Preserving the Southern Ocean and New Zealand’s marine living resources
+
+81. In the coming years it is likely that a range of factors will
+lead to an increase in resource competition, impacting on
+access to and sustainability of marine resources in
+New Zealand, the Pacific, and the Southern Ocean.
+
+82. An opportunity exists for New Zealand to better support
+the sustainability of marine resources in the Southern
+Ocean and in New Zealand’s Exclusive Economic Zone.
+Monitoring and mitigating the effects of climate change
+will also require continued support to New Zealand’s
+civilian presence in Antarctica and the Southern Ocean.
+
+83. Towards these ends this Defence Capability Plan 2019
+includes the delivery of a dedicated Southern Ocean
+Patrol Vessel. The capabilities of this vessel will be
+primarily for use towards supporting other agencies in
+the Southern Ocean and around New Zealand. Built to
+commercial specifications, the vessel will have minimal
+specialist military capabilities.
+
+84. This vessel will be used by Defence alongside other
+Government agencies in the Southern Ocean and
+the waters of New Zealand, allowing the Otago Class
+offshore patrol vessels, and their eventual replacements,
+to focus on the South Pacific.
+
+85. While the operation of this vessel will be Defence-led, it
+will be able to support non-Defence functions including
+the gathering of scientific data.
+
+
+-----
+
+##### Replacement of key capabilities
+
+86. The Defence Capability Plan 2019 will see investment in
+all the core capabilities that have provided the foundation
+for New Zealand’s Defence Force for the last two
+decades. These high-end capabilities offer significant
+value to New Zealand’s security and our defence
+relationships.
+
+87. The Plan has been developed to ensure that each
+capability is able to be sustained to provide the necessary
+resources to our Defence personnel. Replacement of
+capabilities have been planned in a manner that is both
+financially and operationally achievable, to prevent
+capability gaps while maintaining affordability.
+
+###### Maintaining our high value air capabilities
+
+88. The purchase of the P-8A will bring enhanced capability
+to the roles performed by the P-3K2 Orions over many
+decades such as contributing to the international rulesbased order through peace and security operations,
+search and rescue, and as a contribution toward coalition
+operations with our defence partners.
+
+89. The P-8A will enable New Zealand to continue to
+carry out a wide range of surveillance operations
+independently, and when required, work effectively with
+partners including Australia, the United Kingdom, and
+the United States, who will all be operating the aircraft
+at the time of delivery to New Zealand. Extending this
+commitment to the Royal New Zealand Air Force’s fleet
+of C-130H aircraft is the highest priority included in this
+_Defence Capability Plan._
+
+
+###### Extending the life of the ANZAC Frigates
+
+90. The Government has already made a significant
+investment in the ANZAC frigates, Te Mana and
+_Te Kaha. These upgrades have been undertaken to_
+ensure that the frigates remain world-class maritime
+combat capabilities for the full duration of their service,
+and include:
+
+90.1 The maintenance of a discrete defensive close-in
+weapons system on the frigates that provides a
+final layer of protection against in-bound missile
+and fast inshore attack craft threats;
+
+90.2 A Platform Systems Upgrade, focused on the
+replacement of propulsion diesel engines,
+upgraded cooling systems, and new platform
+management and integrated bridge systems;
+
+90.3 The acquisition of the SH-2G(I) Seasprite
+maritime helicopter, to provide an embarked
+helicopter for the vessels that can provide rotary
+wing surveillance, warfare and airlift; and
+
+90.4 The Frigate Systems Upgrade, currently being
+delivered, which will maintain the surveillance,
+combat and self-defence capabilities of the
+frigates. This includes replacement of the combat
+management systems and a number of sensor
+and weapon systems.
+
+91. A further upgrade to the ships’ communications system
+will ensure continued interoperability with our key Defence
+partners. These upgrades will be completed in the early
+2020s, at which point the ANZAC frigates will provide a
+greater capability to the New Zealand Defence Force than
+at any time since their introduction in the 1990s.
+
+92. To realise the full value of these upgrades, the frigates’
+expected service life will be extended past 2030. This
+decision has been supported by independent analysis
+of the vessels, which has demonstrated that they are
+supportable for a greater period of time than
+previously anticipated.
+
+###### Replacing the maritime helicopter fleet
+
+93. The maritime helicopter fleet provides a critical combat
+element of the ANZAC frigates, while also increasing the
+effectiveness of other naval capabilities when embarked
+in patrol, sustainment and sealift ships.
+
+94. To support the improved maritime capabilities in this plan,
+the maritime helicopter fleet will be replaced by 2027,
+preventing a capability gap arising from the end of service
+life of the SH-2G(I) Seasprite.
+
+
+-----
+
+# C h a p t e r 4
+
+#### Responding to the Climate Crisis
+
+
+-----
+
+-----
+
+# C h a p t e r 5
+
+#### Improving our Ability  to Respond
+
+
+-----
+
+102. The Defence Capability Plan 2019 represents a
+commitment to provide New Zealand with a Defence
+Force that can deliver the outcomes required by the
+_Strategic Defence Policy Statement 2018._
+
+103. The Policy Statement identified various factors that will
+influence New Zealand’s strategic environment over the
+coming decade. As our strategic environment evolves, the
+contributions of different capabilities towards the defence
+and resilience of New Zealand’s communities and
+interests can also be expected to change.
+
+104. Capabilities that have been sufficient in past years will be
+under increased pressure, challenging the ability of the
+Defence Force to respond. Increasing extreme weather
+events and transnational crime in the Pacific will require
+greater involvement in the region. The Defence Force
+will also need to retain the ability to contribute globally in
+support of the international rules-based order.
+
+##### A Force that can operate independently
+
+105. Government’s highest priority for the Defence Force is its
+ability to operate and undertake tasks in New Zealand’s
+territory, including its Exclusive Economic Zone, and
+its neighbourhood from the South Pacific through to
+Antarctica. The Defence Force must be prepared to
+operate independently, or lead combined operations, in
+these areas if required.
+
+106. Independent operations require a broad range of
+capabilities that are able to operate as an integrated force
+across all domains. These capabilities are required to
+operate across the full spectrum of possible scenarios,
+from humanitarian relief to those with a significant threat
+level, including armed conflict.
+
+107. Leading an operation or acting independently presents
+a high level of complexity. It requires the delivery,
+sustainment and support of personnel, equipment and
+stores, potentially operating at great distances from
+New Zealand. Each capability in this plan plays a part
+in delivering this collective outcome.
+
+
+##### Delivering other Defence priorities
+
+108. Defence deployments beyond New Zealand’s immediate
+region will most likely continue to be as part of operations
+led by New Zealand’s security partners, or as part of
+United Nations-mandated peace support operations.
+The Defence Force must be able to operate effectively
+with New Zealand’s key security partners, in particular
+with our ally Australia.
+
+109. In addition to providing an independent force, the
+capabilities outlined in this Plan will provide Government
+with options to meet all of the priorities of the Policy
+Statement. This includes capabilities that offer wide
+support to our partners, as well as several niche
+capabilities required to address security challenges
+unique to New Zealand.
+
+110. Air, land and maritime capabilities will each provide
+possible contributions in support of Asia-Pacific regional
+security, towards United Nations mandated peacekeeping
+operations, and as commitments in support of the
+maintenance of the international rules-based order.
+
+111. These same capabilities, along with cyber capabilities,
+and a range of maritime surveillance capabilities, will
+monitor New Zealand’s neighbourhood, and provide the
+means for Defence to support other agencies to respond
+to events in and around New Zealand.
+
+112. In supporting collective outcomes, these capabilities may
+be deployed individually, or collectively, as part of a wider
+force. They include an array of capabilities that can act
+in combat or support roles. This ensures a high level of
+discretion as to the size and nature of New Zealand’s
+contributions to such operations outside New Zealand’s
+immediate neighbourhood.
+
+##### How the Defence Force will undertake its principal roles
+
+113. All force elements must be organised, trained and
+supported to allow for four potential ways of operating:
+
+113.1 As independent elements;
+
+113.2 As a Joint Task Force to provide an independent
+response option;
+
+113.3 As a military contribution to a broader
+New Zealand response; and
+
+113.4 As a New Zealand contribution to coalition
+operations.
+
+114. The nature of operations and the maintenance of
+capability can be considered within three distinct types of
+operations:
+
+114.1 Current Military Operations, involving the
+employment of New Zealand’s armed forces
+
+
+-----
+
+114.2 Standing Commitments, ongoing services
+provided by Defence domestically. These often
+incorporate the delivery of services to other
+Government agencies. Standing commitments
+reflect the role of the Defence Force in protecting
+New Zealand’s sovereignty and community
+wellbeing; and
+
+114.3 Contingent capabilities, maintained in order to
+deploy in response to national risks or sudden
+changes to the strategic environment, contingent
+capabilities relate to Defence’s role in managing
+the risk to New Zealand’s wellbeing.
+
+###### Prepared to respond to sudden shifts in the strategic environment
+
+115. Defence is often required to respond to events that cannot
+be anticipated, and which require an immediate and
+significant response.
+
+116. To achieve this, contingent capabilities require forces to
+be kept at agreed levels of readiness:
+
+116.1 Very High Readiness forces enable rapid
+response to events in the South Pacific, and to
+natural disasters; and
+
+116.2 Medium Readiness forces provide the means
+to sustain large-scale deployments, including
+preparing follow on forces and the regeneration of
+forces following deployments.
+
+##### A more resilient Defence Force
+
+117. Defence must be able to respond to incidents that arise
+concurrently. Capabilities that provide a wide range
+of response options have therefore been prioritised
+for investment. Where capabilities are currently under
+pressure to provide sufficient capacity, options have
+been assessed to determine where their roles can be
+complemented.
+
+118. Over past decades, the Defence Force has been reliant
+on a number of capabilities based on either a single or
+very small number of platforms, including:
+
+118.1 HMNZS Canterbury – the single sealift
+vessel of the New Zealand Defence Force is
+essential to large scale and timely responses
+in the Pacific region, particularly during cyclone
+season. However, the ship is also a critical
+component of any response to domestic civil
+defence management, and acts as a deployed
+headquarters for military operations;
+
+118.2 Offshore Patrol Vessels – the coincidence of the
+summer fishing season in the Southern Ocean,
+and the cyclone season in the Pacific creates
+demands on the two Offshore Patrol Vessels that
+often exceed the capacity of a two ship fleet; and
+
+
+118.3 Land Forces – the ongoing deployment of land
+forces requires training and respite for those
+being deployed, as well as significant support
+structures working domestically to enable the
+deployment. Existing personnel numbers in
+the New Zealand Army impose a limit of one
+large-scale deployment at any one time, despite
+the diversity of roles our land forces play in the
+community, nation and world.
+
+119. In addition to this, the need for certain capabilities to cover
+a wide range of roles reduces their overall availability. This
+can be illustrated by existing air surveillance capabilities
+provided by the P-3K2 Orion, which are required to
+concurrently support domestic air surveillance, search and
+rescue operations, and international partnerships, such as
+counter-piracy missions.
+
+120. The changes outlined in Chapter Three will significantly
+enhance Defence’s capacity for concurrent operations
+with additional sealift, patrol, and people. Furthermore,
+improved aerial surveillance with a greater diversity of
+response options will improve the efficiency with which
+capabilities are deployed.
+
+##### Concurrency
+
+121. With the changes described in Chapter Three, the force
+outlined in this Defence Capability Plan 2019 provides
+sufficient capabilities to ensure Defence is able to deliver
+its standing commitments, including domestic and
+Southern Ocean operations, while also delivering one of
+the following:
+
+121.1 Contribute a single independent Joint Task
+Force to a high-risk operation in the South
+Pacific, including land, air, maritime and support
+capabilities;
+
+121.2 Respond to a low threat security event or provide
+humanitarian assistance and disaster relief within
+the South Pacific, while also contributing a small
+number of capabilities to coalition operations
+globally; and
+
+121.3 Contribute multiple capabilities, individually or
+collectively, to a range of short duration operations
+globally.
+
+122. In practice, the operations being undertaken at a given
+time will be dependent on the needs of New Zealand and
+the Pacific region, the nature of the events requiring a
+response, and the decisions of Government as to the type
+of response provided.
+
+
+-----
+
+# C h a p t e r 6
+
+#### Positioning our Defence  Force for the Future
+
+
+-----
+
+123. Flexibility and adaptability will remain key attributes of the
+capabilities delivered under this Capability Plan. To deliver
+a force that meets the principles of the Strategic Defence
+_Policy Statement 2018, an increasing range of modern_
+technologies and resources will be introduced to the
+New Zealand Defence Force.
+
+124. The speed and effectiveness with which the Defence
+Force is able to respond to events is dependent on
+its ability to collect, analyse, distribute and exploit the
+immense quantities of information generated by modern
+information technologies. The effectiveness of all
+defence capabilities are now dependent on information
+capabilities. Major investments included in this plan
+will be unable to provide their full benefits without the
+corresponding investment in information technologies.
+
+125. Information domain capabilities are critical to Defence
+Force interoperability and support our defence
+partnership. The ability to protect, exchange and exploit
+information to an agreed common standard forms an
+essential part in our ability to operate with partners,
+including Australia.
+
+126. This chapter outlines how non-traditional and enabling
+capabilities will be adapted to provide for the Defence
+Force and New Zealand into the future.
+
+127. Delivering the information capabilities described in this
+plan will require Defence to work with other Government
+agencies. The challenges of keeping pace with
+technological change and maintaining an appropriately
+skilled workforce, while also ensuring that agencies retain
+complementary levels of capability to allow them to work
+together, will require an all-of-Government solution within
+the Information Domain.
+
+128. Investments in these capabilities will be informed over
+the course of delivering the Plan through continued
+cross agency development on delivery options. This
+will determine how best to integrate these capabilities
+into the existing structure of New Zealand’s national
+security system. Consideration will be given to sharing
+responsibilities and resources between agencies, and will
+include consideration of the following capabilities.
+
+
+##### Technologies for the modern era
+
+###### Space-centred capabilities
+
+129. Space is of high and growing strategic importance
+globally, with space-based systems becoming
+increasingly relied on for communication, commerce,
+navigation and transport, the management of
+infrastructure, and the observation of weather movements
+and human activity. The influence of these systems
+in everyday life is inescapable, supporting community
+growth, national prosperity and connectedness, as well
+as both enhancing and challenging national security
+objectives.
+
+130. This reliance extends to military capabilities. Spacebased systems are essential for communications,
+information exchange and navigation. They are a
+prerequisite to maintaining a professional, combatcapable and flexible force.
+
+131. New Zealand is now amongst a small number of nations
+hosting space launches, and has an associated obligation
+to support international rules and norms regarding the use
+of space. Furthermore, New Zealand’s relative geographic
+isolation increases the benefits derived from space-based
+infrastructure.
+
+132. This Plan will deliver satellite surveillance systems,
+drawing from improved space-based technologies to
+provide maritime domain awareness to an extent that
+cannot be achieved through traditional means. This will
+allow for a greater level of risk identification and more
+directed utilisation of resources.
+
+133. The specific role of the New Zealand Defence Force in
+delivering these capabilities will be confirmed during the
+investment case process. However this role will include
+the utilisation of space-based systems both to achieve
+military effects, and also to support all-of-Government
+outcomes within our Exclusive Economic Zone, our
+neighbourhood, and the Southern Ocean.
+
+
+-----
+
+###### Enhanced cyber capabilities
+
+134. To maintain relevant combat capabilities, including
+interoperability with close partners, the Defence Force
+needs to be able to conduct a range of cyber operations.
+
+135. In keeping with the commitment made under previous
+Capability Plans, the New Zealand Defence Force
+will deliver defensive cyber capabilities, to keep pace
+with the evolving threat to information security. This
+capability will ensure we remain a credible and trusted
+partner, and protect information that is central to our
+national security.
+
+136. Additionally, cyber capabilities will now be developed
+to include deployable teams capable of generating a
+range of military effects. These capabilities will offer
+greater force protection, reduce risks to personnel, and
+enable military objectives to be met through a greater
+range of approaches.
+
+137. This cyber capability will have highly trained, professional
+personnel at its core. The Defence Force will expand on
+the cyber capability committed under the Defence White
+_Paper 2016, and progressively build on this capability_
+over the timelines of this Plan.
+
+138. Protection of information and interoperability will
+also drive the requirement for the upgrade of several
+communications systems. These upgrades will ensure
+that existing capabilities keep pace with advancing
+technological trends in encrypted and high bandwidth
+communication systems.
+
+139. Where appropriate, new capabilities will be purchased
+with plans in place for progressive, spiral upgrades,
+eliminating capability degradation over time and the need
+for single, high cost upgrades during their service lives.
+
+
+###### Long endurance unmanned aerial systems
+
+140. The provision of continuous, real time information is a key
+determinant in the effectiveness of military operations.
+Unmanned aerial systems provide a means for
+commanders to maintain and sustain awareness of their
+operating environment. This plan includes the delivery of
+long endurance unmanned aerial systems for intelligence,
+surveillance and reconnaissance tasks to support land
+and maritime military forces.
+
+141. Manned aircraft will remain New Zealand’s primary air
+capabilities in the foreseeable future. However, some
+operations may see it preferable to use unmanned aircraft
+over crewed aircraft; these include the ability to maintain
+sustained surveillance over long missions, provide a
+range of mission support roles to deployed forces, and
+reduce the risk to personnel in high risk situations.
+
+###### An information led Defence Force
+
+142. The introduction of space-based capabilities, the P-8A
+Poseidon, upgrades to the ANZAC frigates, improved
+cyber capabilities and complementary air surveillance
+capabilities will result in an unprecedented collection of
+data. This presents a significant opportunity to improve
+the effectiveness and value of New Zealand’s Defence
+Force, and the overall achievement of New Zealand’s
+wider national security objectives.
+
+143. The Defence Force’s capacity to process, analyse
+and distribute information needs to be enhanced
+to match the greater levels of data now able to be
+gathered from upgraded intelligence, surveillance
+and reconnaissance platforms.
+
+144. This includes the technologies used to process, share
+and protect information that enables the Defence Force
+to understand, plan, control, coordinate and effectively
+direct operations. Current capabilities will benefit greatly
+from increased investment in intelligence and a more
+systematic approach across the Defence Force and the
+national security system more broadly.
+
+145. Improvements in these areas will improve awareness
+of our Exclusive Economic Zone, support operations
+overseas by providing actionable intelligence to military
+commanders, and enable Defence to share actionable
+information with other agencies.
+
+146. An improved intelligence capability will also enable more
+efficient decision making by commanders. For example,
+real time analysis of intelligence collected through spacebased systems will allow for targeted use of naval vessels,
+which will be able to be directed to intercept, board and
+inspect vessels of interest in support of partners and other
+agencies.
+
+
+-----
+
+# C h a p t e r 7
+
+#### Toward a Sustainable Future
+
+
+-----
+
+147. The investment intentions included in this plan are
+substantial. It is therefore important that Defence
+spending is approached in a way that ensures that
+capability can be sustained over time. Recognising that
+Defence is but one part of the Coalition Government’s
+goal of improving, sustaining and protecting
+intergenerational wellbeing, this Plan seeks to balance
+cost, viability of delivery and operational needs.
+
+148. The Defence Capability Plan 2019 extends the planning
+horizon for Defence, while maintaining the planned level
+of capital investment out to 2030. Maintaining this level
+of funding has been achieved alongside planning for
+new capabilities not provided for by previous Defence
+_Capability Plans. Indicative capabilities that will ensure the_
+Defence Force is prepared for the strategic environment
+following 2030 have also been identified, and will be
+explored in depth in the Defence White Paper planned
+for 2022. These capabilities and the value they offer are
+outlined in the following chapters.
+
+149. Learning from recent challenges, replacements for major
+Defence capabilities have been planned in a staggered
+approach, allowing for funding and resources to be
+utilised consistently and efficiently. Similarly, increases in
+the Defence Force’s work force and asset management
+processes as capabilities are delivered are being planned
+to ensure a long-term sustainable approach.
+
+##### Rationalised, efficient services
+
+###### Modernised logistics
+
+150. Defence is seeking to enhance and rationalise
+the management of its asset base through the
+Consolidated Logistics Project that is now in delivery.
+The Project delivers business change that will provide
+the logistic organisations necessary for the Defence
+Force to deliver required military output in a more
+flexible, adaptable and efficient manner.
+
+151. The core principle of the Consolidated Logistics Project is
+‘equip the force’. This principle will see the management
+and holding of equipment rationalised and regionally
+managed, moving away from unit level resourcing.
+Through the application of the ‘equip the force’ principle,
+the Consolidated Logistics Project will enable significant
+cost savings over the period of this Plan.
+
+152. Equipping the force will be achieved through four key work
+streams that will deliver a refreshed logistics organisation,
+improved information management and analytics, and
+the development of regional logistic pools including the
+provision of enhanced regional infrastructure. Anticipated
+benefits include:
+
+152.1 Improved equipment accessibility, utilisation
+and availability;
+
+152.2 Improved ability to undertake logistic activities
+and training;
+
+152.3 Contribution to improved equipment safety
+assurance;
+
+152.4 Improved strategic equipment and material
+management; and
+
+
+###### Intelligent delivery for information and communication technology
+
+153. Recognising the increasingly central role information
+and communication technologies play in the delivery of
+Defence outcomes, the Defence Force has embarked on
+the Communications and Information Systems Change
+and Transformation Project.
+
+154. The project will deliver a tailored organisational IT model
+to the Defence Force. Through innovative solutions, this
+will provide increased capacity and capability, improved
+integration of technologies, and greater oversight of
+initiatives to ensure rationalised and fully considered
+investment. Taken together, these changes will result in
+a significant reduction in organisational risk.
+
+155. Working in partnership with commercial providers,
+the Defence Force will look to introduce secure cloudbased information management, simplified support
+arrangements, and a more sustainable and efficient
+information and communication model.
+
+##### Sustainable, long-term  workforce planning
+
+156. Maintaining and growing a force of highly trained
+professionals requires careful long-term planning.
+Without the external resource pools or training providers
+available to other agencies, investment in the skills
+needed for military operations necessitates developing
+individuals within the force over time. Delivering
+improved capabilities out to 2030 requires the military
+workforce to start preparing for growth and development
+of personnel now.
+
+157. The Defence Force and Ministry of Defence, in
+consultation with the Central Agencies, are undertaking
+work focused on the Defence Force’s workforce
+structure, with the aim of providing assurance on longterm cost pressures, and improving the sustainability of
+the Defence Force’s operating costs. This has included
+the development of a model that will deliver improved
+accuracy and identify where changes in management
+practice, or internal policy could improve performance.
+
+158. The implementation of this model will provide the
+personnel required for the continued operation of the
+capabilities outlined in this plan. It will also provide for the
+necessary support such capabilities require, growing a
+professional Defence Force to serve New Zealand.
+
+
+-----
+
+# C h a p t e r 8
+
+#### Equipping the Defence Force:  Planned Investments in Capability
+
+
+-----
+
+159. This chapter outlines the intended capital investments
+planned by Government to achieve the objectives of this
+plan, and the Strategic Defence Policy Statement 2018.
+These investment intentions maintain the $20 billion in
+investment in the New Zealand Defence Force out to 2030.
+
+160. Investment intentions are categorised within their respective
+domains, and are ordered according to the year in which the
+Government expects to make a decision on the eventual
+capability solution.
+
+161. The timing and description of capability investments provided
+here are indicative. Options for each intended investment
+will be tested as broadly as possible against policy, including
+different models of delivery where appropriate.
+
+162. Investment intentions out to 2030 are subject to individual
+business cases justifying the investment, and funding
+being available through the Budget process, taking into
+account other Government priorities. Indicative investments
+planned for commitment between 2030 and 2035 have
+been included to allow for considered, long-term planning
+for the Defence Force’s future needs. These capabilities
+will be reassessed ahead of the 2022 Defence White
+Paper. Detailed assessment at this time will allow for
+a greater appreciation of improvement to military and
+commercial technologies, as well as the requirements of
+New Zealand in the prevailing strategic environment at that
+time. A greater understanding of these factors will allow for
+indicative dates and costs to be provided.
+
+##### Gaining approval on the investments outlined in this plan
+
+163. Business cases for major capability projects are built
+progressively, and follow a three pass approval process
+to Cabinet:
+
+163.1 Indicative Business Case – tests whether there
+is an acceptable level of benefit from a proposed
+investment, the likely costs, and provides a range of
+options that could deliver the benefits required;
+
+163.2 Detailed Business Case – examines thoroughly
+one or more of the options agreed in the Indicative
+Business Case, and assembles the information that
+would allow Cabinet to make an informed decision
+on whether to progress the proposal to the point
+of inviting tenders or other competitive market
+proposals; and
+
+163.3 Implementation Business Case – reports on the
+outcome of a tender or other supplier selection
+process, the total costs of the proposal and seeks
+Cabinet approval to commit to the investment.
+
+
+164. Indicative timings for decisions on Implementation
+Business Cases have been included in this plan for
+major capability projects, for public transparency and to
+give industry greater awareness of when information will
+be sought.
+
+165. The process of working towards an implementation
+business cases can take between two and
+five years depending on the scale and complexity
+of the investment.
+
+##### Early engagement
+
+166. A business case approach encourages early
+engagement, including with industry, to confirm:
+
+166.1 The fit with strategy, and the need to invest;
+
+166.2 That all options are considered, including different
+models of delivery where appropriate; and
+
+166.3 That preferred options are affordable and
+deliverable.
+
+167. Industry days and other opportunities for direct
+engagement will be held in support of requests for
+information and tenders, which will be undertaken
+through the business case project.
+
+168. Indicative Business Cases are normally informed by a
+Request for Information from Industry. These requests
+will seek information on the range of options that could
+deliver benefits, along with indicative capital and wholeof-life costs.
+
+169. A second, more targeted Request for Information may be
+released after Cabinet approval of the Indicative Business
+Case. This will seek more focused data on a preferred
+way forward and will inform a Detailed Business Base.
+
+170. Cabinet approval of the Detailed Business Case will be
+followed by a Request for Proposals or Tenders. The
+outcome of this process is the identification of a preferred
+supplier.
+
+171. Through-life support contracts may also be negotiated
+at this stage. Cabinet approval to commit to contract is
+sought as part of the Implementation Business Case.
+
+
+-----
+
+# A i r
+
+#### Planned Investments in Air Capabilities
+
+
+-----
+
+172. The primary focus for investments in Defence capabilities
+will be the replacement of the air surveillance and air
+transport fleets. These fleets are among the highest
+value capabilities to New Zealand, with the movement of
+personnel and equipment, both regionally and globally,
+being reliant on air assets. For many of the roles of the
+New Zealand Defence Force, it is these aircraft that allow
+for a high-readiness first response.
+
+173. Following the replacement of the air transport aircraft,
+the Royal New Zealand Air Force will have replaced
+the majority of its capabilities with effective, proven,
+modern aircraft. The focus for investments will then be
+on delivering greater effectiveness to all-of-Government
+objectives, including through the enhanced maritime
+awareness capability.
+
+174. Investments are subject to Cabinet approval of individual
+business cases justifying the investment, and funding
+being available through the budget process, taking into
+account other government priorities.
+
+##### Investment decisions planned for 2020
+
+###### Future Tactical Air Mobility
+
+175. Preserving the tactical airlift capability of the
+New Zealand Defence Force is the highest priority of
+the Defence Capability Plan 2019. A Future Air Mobility
+Capability project has confirmed Defence’s requirements
+for a tactical airlift capability to replace the existing C-130H
+Hercules. The five existing Hercules will be replaced with
+modern aircraft.
+
+176. The capability will be able to move personnel and cargo
+within the South Pacific, to Antarctica, and in support of
+coalition operations further afield, supporting missions
+from humanitarian and disaster relief to operations in
+high-risk conflict zones.
+
+**Indicative dates:**
+Introduction into Service – 2023
+
+**Indicative capital cost:**
+
+More than $1b
+
+
+###### Enhanced Maritime Awareness Capability
+
+177. The Enhanced Maritime Awareness Capability project
+will support the Government’s civil maritime security
+strategy, providing air surveillance capabilities that
+enhance all-of-Government maritime domain awareness
+in New Zealand and the Southern Ocean. The capabilities
+delivered through this investment will be dedicated to
+civil surveillance requirements, with Defence support for
+their delivery and operation. This will free up the new
+P-8A maritime patrol aircraft fleet to fly more missions
+in the South Pacific and further afield. Investment in a
+range of capabilities will be considered, including satellite
+surveillance, unmanned aerial vehicles and traditional
+fixed-wing surveillance.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Request for tender – 2020
+Introduction into Service – 2023
+
+**Indicative capital cost:**
+From $300m–$600m
+
+###### Operational and Regulatory Aviation  Compliance Sustainment
+
+178. A number of regulatory changes will come into effect
+during the 2020s which will improve aviation safety and
+effectiveness. This includes improvements to navigation
+systems in civil airspace, and changes to military
+communication requirements. A project is currently
+assessing the impact of these changes on the Royal
+New Zealand Air Force, and will progressively implement
+changes as required to ensure continued compliant
+operations and interoperability with partner air forces.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Request for tender – 2020
+Introduction into Service – 2022
+
+**Indicative capital cost:**
+From $100m–$300m
+
+
+-----
+
+##### Investment decisions planned for 2026
+
+###### Future Strategic Air Mobility
+
+179. Operations in the Pacific and globally will require an
+air transport option for the movement of personnel,
+equipment and stores over long ranges. The eventual
+withdrawal from service of the current Boeing 757 fleet
+will allow for the procurement of a strategic airlift
+capability that meets capability requirements across
+a range of tasks.
+
+**Indicative dates:**
+Industry engagement commences – 2021
+Request for tender – 2024
+Introduction into Service – 2028
+
+**Indicative capital cost:**
+From $300m–$600m
+
+##### Investment decisions planned for 2027
+
+###### Future Air Crew Training Capability
+
+180. The recently acquired King Air 350 have allowed the
+New Zealand Defence Force to conduct air crew training
+domestically, improving Defence’s resilience and
+sustainability. The leased aircraft will require replacement
+in the mid-2020s with a training platform that reflects the
+Royal New Zealand Air Force’s modern fleet of aircraft,
+following the introduction of the P-8A Poseidon, C-130H
+replacement, and strategic airlift capability.
+
+**Indicative dates:**
+Industry engagement commences – 2024
+Request for tender – 2026
+Introduction into Service – 2028
+
+
+##### Investment decisions after 2030
+
+181. Indicative investments planned between 2030 and 2035
+have been included to allow for considered, long-term
+planning for the Defence Force’s future needs. These
+capabilities will be reassessed ahead of the
+2022 Defence White Paper.
+
+###### P-8A Poseidon Upgrades
+
+182. In order to retain the full operational capability and
+interoperability of the P-8A Poseidon maritime patrol
+aircraft, projects will be undertaken to install upgraded
+systems and equipment on the aircraft as they
+become available from the late 2020s.
+
+###### Long Endurance Unmanned Aerial Vehicles
+
+183. A long-range unmanned aerial vehicle will be acquired
+to support land and maritime forces with improved,
+continuous intelligence and surveillance. The capability
+will provide a greater range and coverage of operational
+areas, while also reducing risk posed to personnel in
+collecting intelligence.
+
+
+-----
+
+# M a r i t i m e
+
+#### Planned Investments in Maritime Capabilities
+
+
+-----
+
+184. In the ten years between 2012 and 2022, the Royal
+New Zealand Navy will have decommissioned three
+vessels, and will have introduced the new fleet tanker
+HMNZS Aotearoa, the dive and hydrographic vessel
+HMNZS Manawanui, and the refurbished Anzac class
+frigates. Each of these new capabilities will be world class,
+providing a strong foundation for the Navy out to 2030.
+
+185. Focus for maritime investments will move to the patrol
+and sealift forces, with each vessel requiring replacement
+within the timeframe of this Capability Plan. These ships
+have made significant contributions domestically and in
+the South Pacific. Moving to more specialised vessels,
+including enhanced sealift and an ice-strengthened patrol
+vessel, will provide the Defence Force with the capability
+needed to meet future challenges.
+
+186. Investments are subject to Cabinet approval of individual
+business cases justifying the investment, and funding
+being available through the budget process, taking into
+account other government priorities.
+
+##### Investment decisions planned for 2020
+
+###### Patrol and Sealift Communication Upgrades
+
+187. By 2022, upgrades to communications systems onboard HMNZS Canterbury, HMNZS Otago and HMNZS
+_Wellington will be complete. These upgrades will enable_
+the ships to operate to the full extent of their capabilities
+until the end of their service lives.
+
+188. Upgraded communications will allow the HMNZS
+_Canterbury to act as a base for deployed amphibious_
+operations, address obsolescence, and will provide
+sufficient capacity to simultaneously communicate with
+maritime, air and land forces.
+
+189. Upgraded communications on the offshore patrol vessels
+will address obsolescence, and support interoperability
+with partners and recently acquired capabilities.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Request for tender – 2019
+Introduction into Service – 2022
+
+**Indicative capital cost:**
+From $25m–$50m
+
+
+##### Investment decisions planned for 2021
+
+###### ANZAC Frigate Life Extension
+
+190. The major upgrades currently being undertaken on
+the ANZAC frigates combat systems will not be fully
+completed until 2023. In order to maximise the value
+of these upgrades, the service lives of the ANZAC
+frigates will be extended until after 2030. To support this
+life extension additional work will be completed on the
+vessels, including an enhanced maintenance and repair
+package to ensure appropriate upkeep until the end of the
+ships’ service lives.
+
+191. Delaying the replacement of the frigates improves the
+affordability of the Defence Capability Plan 2019 by
+de-conflicting the replacement of the most significant
+Defence capabilities.
+
+###### ANZAC Communication Upgrade
+
+192. Communications systems will also be upgraded on-board
+the frigates, following the completion of the Frigates
+System Upgrade. Upgraded communications will address
+obsolescence of equipment, and support interoperability
+with partners and other capabilities recently acquired
+for the New Zealand Defence Force, such as the P-8A
+Poseidon and Network Enabled Army.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Request for tender – 2019
+Introduction into Service – 2024
+
+**Indicative capital cost:**
+From $50m–100m
+
+##### Investment decisions planned for 2023
+
+###### Southern Ocean Patrol Vessel
+
+193. The Navy’s existing patrol capabilities are not able to meet
+the changing requirements of New Zealand’s maritime
+domain. The inshore and offshore patrol vessel have
+provided significant value during their service lives, but
+are increasingly operationally limited as the ships age
+and regulations evolve. With expectations to operate
+with increasing frequency in the South Pacific and the
+Southern Ocean, the existing vessels do not provide the
+optimal fleet for our maritime domain.
+
+194. Acquisition of a Southern Ocean Patrol Vessel will occur
+in the mid-2020s. The new vessel will provide dedicated
+patrol capabilities to other Government agencies within
+New Zealand’s sovereign waters and the Southern
+Ocean. Built to commercial standards, the vessel will
+significantly increase the level of capability and safety for
+operations in the Southern Ocean, allowing for a broader
+patrol area and the ability to stay within fishing grounds for
+greater durations. This will allow the remaining offshore
+patrol vessels greater capacity to respond in the Pacific.
+
+
+-----
+
+**Indicative dates:**
+Industry engagement commences – 2020
+Request for tender – 2022
+Introduction into Service – 2027
+
+**Indicative capital cost:**
+From $300–$600m
+
+###### Future of the Inshore Patrol Vessels
+
+195. Operational experience has confirmed that specific tasks
+required of the naval patrol force are better conducted
+by offshore patrol vessels than inshore patrol vessels,
+particularly in the South Pacific, due to their longer range,
+endurance and embarked aviation capability.
+
+196. Two inshore patrol vessels will be withdrawn from
+service and disposed of immediately, leaving two vessels
+to meet the demands of domestic patrols within the
+exclusive economic zone. Prior to the Southern Ocean
+Patrol Vessel coming into service, which will give greater
+capacity to the offshore patrol fleet, the future of the
+remaining two inshore patrol vessels will be reassessed.
+
+**Indicative dates:**
+Initial two vessels withdrawn from service – 2020
+
+##### Investment decisions planned for 2026
+
+###### Enhanced Sealift Capability
+
+197. Acquisition of an enhanced multi-role sealift vessel to
+complement HMNZS Canterbury will occur in the late2020s. The ship will be able to carry more people, stores
+and equipment, and will include a docking well, allowing
+the ship to be able to operate in a greater range of sea
+states, including those typically encountered around
+New Zealand and in the Pacific. It will also support the
+same or a greater number of embarked helicopters as
+HMNZS Canterbury. An example of the class of vessel
+that could be considered under this project is a Landing
+Platform Dock.
+
+198. The new sealift vessel will provide greater support
+and sustainment of humanitarian and disaster relief
+and security operations in the Pacific, and increased
+support to civil defence and emergency management
+domestically.
+
+**Indicative dates:**
+Industry engagement commences – 2022
+Request for tender – 2024
+Introduction into Service – 2029
+
+**Indicative capital cost:**
+More than $1b
+
+
+###### Maritime Helicopter Replacement
+
+199. The eight existing Seasprite SH-2G(I), the last of their
+type, will reach the end of their service lives in the late
+2020s. A new fleet of maritime helicopters will be acquired
+in order to support the naval patrol, sealift and combat
+capabilities.
+
+200. Maritime helicopters offer surveillance, air transport and
+combat capabilities. Initial thinking on the replacement
+helicopters will need to determine the primary role of
+the aircraft, to ensure they are appropriately suited to
+complement planned replacements for the patrol, sealift
+and combat capabilities.
+
+**Indicative dates:**
+Industry engagement commences – 2020
+Request for tender – 2024
+Introduction into Service – 2028
+
+**Indicative capital cost:**
+More than $1b
+
+##### Investment decisions planned for 2028
+
+###### Offshore Patrol Vessel Replacement
+
+201. The Otago Class Offshore Patrol Vessels, HMNZS Otago
+and HMNZS Wellington, are expected to reach the end
+of their service lives in the early 2030s. The vessels
+offer patrol capabilities in New Zealand and the South
+Pacific. The replacement vessels will maintain the Royal
+New Zealand Navy’s existing offshore patrol capabilities.
+
+**Indicative dates:**
+Industry engagement commences – 2024
+Request for tender – 2027
+Introduction into Service – 2032
+
+**Indicative capital cost:**
+From $600m–$1b
+
+
+-----
+
+##### Investment decisions after 2030
+
+202. Indicative investments planned between 2030 and 2035
+have been included to allow for considered, long-term
+planning for the Defence Force’s future needs. These
+capabilities will be reassessed ahead of the 2022
+Defence White Paper.
+
+###### Additional Enhanced Sealift Capability
+
+203. HMNZS Canterbury will be replaced in the mid-2030s,
+at the end of its service life. The capability acquired will
+be determined during the business case process, but
+will improve the Defence Force’s sealift capability at
+the time HMNZS Canterbury is retired, complementing
+the enhanced sealift vessel procured in the late 2020s.
+Options will be explored against the composition of the
+fleet, the wider Defence Force and the prevailing strategic
+environment.
+
+###### Future Surface Combatant
+
+204. The Anzac Frigates are scheduled to be replaced with
+modern surface combatants relevant to New Zealand’s
+prevailing strategic environment in the mid-2030s.
+Introduction of the new ships will be phased with the
+withdrawal from service of the existing Anzac frigates.
+
+###### Dive and Hydrographic Capability
+
+205. HMNZS Manawanui will enter service in 2020, providing
+a substantial uplift in littoral capability. Once in service,
+HMNZS Manawanui will support underwater search
+and recovery, hydrographic survey, explosive ordnance
+disposal, mine counter-measures capability, training and
+maritime presence, rapid environmental assessment and
+route survey.
+
+206. Purchased second hand, HMNZS Manawanui has
+an expected service life of 15 years. The vessel will
+be replaced with a similar vessel in the mid-2030s, in
+order to retain the Royal New Zealand Navy’s dive and
+hydrographic capabilities.
+
+
+##### Other maritime investments
+
+207. In addition to the major investments outlined in this chapter,
+a variety of other investments will maintain and enhance
+the maritime capabilities of the New Zealand Defence
+Force. These include:
+
+207.1 Acquisition of littoral warfare systems to support
+HMNZS Manawanui, including littoral manoeuvre
+craft and a remotely operated underwater vehicle to
+support marine survey;
+
+207.2 Upgrade to the Phalanx Close-In Weapons system
+on board the ANZAC frigates in the early 2020s;
+
+207.3 Replacement of the ship-launched torpedo on board
+the ANZAC frigates;
+
+207.4 Upgrades to the current fleet of SH-2G(I) Seasprite
+helicopters, addressing hardware and software
+obsolescence of aircraft components, to ensure
+they are fit for purpose for the remainder of their
+service lives; and
+
+207.5 Upgrades to the machinery spaces, navigation
+systems and other essential capabilities will be
+completed on the Offshore Patrol Vessels to ensure
+the vessels remain fit-for-purpose until
+they are replaced in the late-2020s.
+
+
+-----
+
+# L a n d
+
+#### Planned Investments in  Land Capabilities
+
+
+-----
+
+208. Recent investments in land capabilities have provided
+improved combat capabilities to New Zealand’s land
+forces. This has included improved tactical vehicles for
+the New Zealand Special Operations Forces, and the
+introduction of the MARS-L rifle as the standard individual
+weapon of the New Zealand Defence Force.
+
+209. The vehicle fleets of the New Zealand Army are reaching
+the end of their operational service at the same time as
+digital technologies are dramatically changing the nature
+of warfare. Investments in land capabilities out to 2030
+will focus on replacing vehicle fleets with those more
+suited to the threats of a modern battlefield, integrating
+digital capabilities into new and existing platforms, and
+rolling these capabilities out across all aspects of the
+New Zealand Army. Following 2030, New Zealand Army
+equipment will be required to increase to support the
+increase of the Service to 6000 people by 2035. This
+will ensure that land forces will maximise the increased
+capcity and sustainability required to meet
+the challenges of the future.
+
+210. Investments are subject to Cabinet approval of individual
+business cases justifying the investment, and funding
+being available through the budget process, taking into
+account other government priorities.
+
+##### Investment decisions planned for 2019
+
+###### Network Enabled Army – Intelligence, Surveillance and Reconnaissance
+
+211. The first phase of the Network Enabled Army programme
+has made significant progress towards providing
+the New Zealand Army with digitised command and
+communication technology, battlefield management
+systems and secure satellite communications. This
+second phase further extends the communications
+networks and will introduce improved surveillance and
+reconnaissance capabilities, integrating them into the
+systems already delivered under phase one. Collectively,
+phase one and two will provide real time situational
+awareness to commanders.
+
+**Indicative dates:**
+Industry engagement commences – Continuous
+Introduction into Service – Progressive rollout of capabilities
+
+**Indicative capital cost:**
+From $100m–$300m
+
+##### Investment decisions planned for 2020
+
+###### Protected Mobility
+
+212. A variety of land mobility vehicles will be required to
+ensure that the New Zealand Army is able to operate
+across diverse environments. This includes vehicles that
+provide adequate protection from explosive devices, and
+those that can operate in rugged and hostile terrain.
+
+
+213. The Protected Mobility project will replace the army’s
+fleet of armoured Pinzgauer, providing New Zealand
+troops with improved armoured, high-mobility and tactical
+transport options. Undertaken in stages, the capabilities
+of the highest priority will be introduced, ensuring that
+New Zealand’s land forces remain suitably resourced for
+operations anticipated in the future.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Introduction into Service – 2024
+
+**Indicative capital cost:**
+From $300m–$600m
+
+###### Land Force Protection
+
+214. As the sophistication of improvised explosive devices
+continues to evolve, the New Zealand Army will be
+provided with an enduring solution to counter such
+devices. This project will focus on counteracting remotely
+operated devices, reducing the threat to soldiers on
+modern, networked battlefields.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Introduction into Service – From 2023
+
+**Indicative capital cost:**
+From $25m–$50m
+
+##### Investment decisions planned for 2021
+
+###### Garrison and Training Support Vehicles
+
+215. The Garrison and Training Support vehicles investment
+will provide the New Zealand Defence Force with vehicles
+required to fulfil domestic requirements. This includes
+vehicles necessary for the training and transport of
+New Zealand Defence Force personnel, support vehicles
+such as aircraft refuelling vehicles, and fire appliances for
+domestic first response. The project will be delivered in
+phases, beginning in 2021.
+
+**Indicative dates:**
+Industry engagement commences – Currently underway
+Request for tender – 2021
+Introduction into Service – From 2022
+
+**Indicative capital cost:**
+From $100m–$300m
+
+###### Network Enabled Army – Combined  Arms Task Group
+
+216. Following the successful integration of networked
+capabilities into New Zealand Army front line combat
+capabilities, the Network Enabled Army will be integrated
+across the full scope of a Combined Arms Task Group,
+including light armoured vehicles and support units such
+as artillery, engineers and logisticians.
+
+**Indicative dates:**
+Industry engagement commences – Continuous
+Introduction into Service – Progressive rollout of Capabilities
+
+**Indicative capital cost:**
+
+
+-----
+
+##### Investment decisions planned for 2023
+
+###### Tactical Mobility
+
+217. Investment in modern tactical mobility capabilities, from
+heavy engineering plant through to small militarised allterrain vehicles, will provide land forces with the ability
+to move freely around their area of operation. These
+capabilities will also enhance force protection through the
+control of the movement of adversarial forces.
+
+**Indicative dates:**
+Industry engagement commences – 2020
+Request for tender – 2023
+Introduction into Service – 2024
+
+**Indicative capital cost:**
+Less than $25m
+
+###### Network Enabled Army – Sustained Combined Arms Task Group
+
+218. The final phase of the Network Enabled Army completes
+the communications network and sensor systems
+development so that a Combined Arms Task Group can
+be sustained and supported on a long-term deployment.
+
+**Indicative dates:**
+Industry engagement commences – Continuous
+Introduction into Service – Progressive rollout of Capability
+
+**Indicative capital cost:**
+From $300m–$600m
+
+##### Investment decisions planned for 2024
+
+###### Domestic Counter Explosives
+
+219. An improved Domestic Counter Explosives capability
+has been delivered, providing response options able to
+address explosive threats at short notice throughout the
+country. These capabilities have improved equipment,
+and upgraded facilities in Auckland and Wellington. In the
+late-2020s these capabilities will be refreshed, ensuring
+that the New Zealand Army remains able to protect
+New Zealand communities from possible threats.
+
+**Indicative dates:**
+Industry engagement commences – 2027
+Request for tender – 2028
+Introduction into Service – 2031
+
+**Indicative capital cost:**
+From $25m–$50m
+
+##### Investment decisions planned for 2026
+
+###### Primary Combat Vehicle
+
+220. The New Zealand Light Armoured Vehicle has acted
+as the primary land combat vehicle of the New Zealand
+D f F i it i t d ti i 2003 Th NZLAV
+
+
+has provided light armoured transport and combat
+capabilities. Following the introduction of protected
+mobility capability, a project will be initiated to consider
+how best to replace the NZLAV. The capability delivered
+will provide modern armoured projection and directed
+firepower to the New Zealand Army.
+
+**Indicative dates:**
+Industry engagement commences – 2024
+Request for tender – 2025
+Introduction into Service – 2033
+
+**Indicative capital cost:**
+From $300m–$600m
+
+##### Investments after 2030
+
+221. Indicative investments planned between 2030 and 2035
+have been included to allow for considered, long term
+planning for the Defence Force’s future needs. These
+capabilities will be reassessed ahead of the 2022 Defence
+White Paper.
+
+222. Land investments after 2030 will focus on the ongoing
+sustainment and refreshment of capabilities introduced
+through this plan.
+
+223. Investments will include continued refreshment and
+upgrade of Network Enabled Army and night vision
+equipment. Capabilities will be updated to incorporate
+new technologies and to take advantage of ongoing
+developments in communications and surveillance
+systems, and other hardware and software.
+
+224. The MARS-L rifle will also be replaced following 2030,
+while other support weapons, such as artillery, will require
+reappraisal to ensure they remain technologically and
+tactically suited to our requirements.
+
+225. Equipment for the New Zealand Army will also need to
+be increased to ensure that the Army remains suitably
+resourced as it increases to a size of 6000 personnel.
+
+##### Other land investments
+
+226. In addition to the major investments outlined in this
+chapter, a variety of other investments will maintain
+and enhance the land capabilities of the New Zealand
+Defence Force. These include:
+
+226.1 A contemporary replacement or upgrade for the
+New Zealand Army’s anti-armour weapon, the
+FGM-148 Javelin missile;
+
+226.2 Further investment in specialised Special
+Operations Forces combat vehicles in the late
+2020s; and
+
+226.3 Various refreshes of minor New Zealand Army
+equipment, including soldier systems, to ensure
+that the New Zealand Army remains a properly
+resourced land combat force.
+
+
+-----
+
+# I n f o r m a t i o n
+
+#### Planned Investments in Information Capabilities
+
+
+-----
+
+227. As recognised by the Strategic Defence Policy Statement
+_2018, the growth and use of technology has increased_
+significantly for the Defence Force. Information and
+communications technology represents a critical
+component of new capabilities. Enhancing situational
+awareness, response, information fidelity and command
+and control ability, the information domain is essential to
+ensuring military capabilities are enhanced and remain
+credible within a global context.
+
+228. As discussed in Chapter Six, investments in the Defence
+information domain will be informed by cross-agency work
+on how best to deliver and resource these capabilities.
+The initiatives below will require investment in order to
+preserve the interoperability of the Defence Force, and
+improve the effectiveness and efficiency with which
+traditional capabilities are deployed.
+
+229. Investments are subject to Cabinet approval of individual
+business cases justifying the investment, and funding
+being available through the budget process, taking into
+account other government priorities.
+
+
+##### Investment decisions planned for 2019
+
+###### Cryptographic Refresh
+
+230. Additional investment in cryptographic technology will
+ensure that secure information remains protected on
+classified networks, and that security requirements for
+interoperability with our defence partners are met.
+
+**Indicative capital cost:**
+Less than $25m
+
+###### Electronic Warfare Capability
+
+231. The Electronic Warfare project will seek to implement an
+enduring solution that will improve the security and overall
+combat capability of our primary defence platforms,
+including the Anzac Frigates.
+
+###### Defence Intelligence Uplift
+
+232. A Joint Intelligence Programme is underway to raise
+the performance of operationally focused intelligence,
+including an increased capacity to process and analyse
+data. The initiative will involve organisational change within
+the New Zealand Defence Force, as well as increases to
+the number of dedicated intelligence personnel.
+
+###### High Frequency Radio Network
+
+233. High frequency radio provides a critically important option
+for communication with ships and aircraft within or near
+New Zealand, especially for operations in the Southern
+Ocean. It also provides communication resilience for
+ships and aircraft deployed further afield, in potentially
+satellite-denied environments. The existing infrastructure,
+based around New Zealand, is projected to become
+unsupportable, requiring replacement to ensure it remains
+available for Defence platforms, and for use by other
+emergency agencies if necessary.
+
+**Indicative dates:**
+Introduction into Service – 2026
+
+**Indicative capital cost:**
+From $25m–$50m
+
+
+-----
+
+##### Investment decisions planned for 2021
+
+###### Maritime Satellite Surveillance
+
+234. Surveillance from space through the procurement of
+specific coordinated services from operators of satellite
+systems will provide broad coverage of our expansive
+maritime domain, allowing for improved situational
+awareness, and more targeted and efficient use of
+surface vessels and aircraft. Information provided from
+satellite communications will be used to identify activities
+and vessels of interest in the Southern and South Pacific
+Oceans. This will allow aircraft and ships to be directed,
+assisting in interceptions of criminal activity at sea,
+resource and border patrols, and assistance to vessels in
+distress. In operations in support of our Pacific partners,
+surveillance may also be used to inform decision makers
+of the state of critical infrastructure and the movement
+of people. This will ensure that stability and security,
+and humanitarian and disaster relief operations can be
+undertaken with relevant, up-to-date information.
+
+**Indicative dates:**
+Introduction into Service – 2025
+
+###### Cyber Security and Support Capability
+
+235. Reflecting its increasing importance to the wider military
+force, cyber capabilities provide utility across the full range
+of Defence outcomes by supporting the resilience and
+security of Defence networks. The Cyber Security and
+Support Project will deliver capability to for cyber security
+for defence networks, deployed platforms, and deployed
+operations.
+
+**Indicative capital cost:**
+Less than $25m
+
+###### Tactical Remotely Piloted Aircraft
+
+236. A project is underway to deliver small scale remotely
+piloted aircraft, limited in their capability to provide direct
+tactical or operational level intelligence and surveillance.
+These aircraft will be able to be deployed and operated
+organically by small task groups or ships, in support of
+operations in the maritime, littoral and land environments.
+
+**Indicative dates:**
+Introduction into Service – 2025
+
+**Indicative capital cost:**
+From $25m–$50m
+
+
+##### Investments after 2030
+
+237. Indicative investments planned between 2030 and 2035
+have been included to allow for considered, long-term
+planning for the Defence Force’s future needs. These
+capabilities will be reassessed ahead of the 2022
+Defence White Paper.
+
+238. The current Wideband Global Satellite system used by the
+New Zealand Defence Force as part of its global defence
+communications network, will require replacement after
+2030. The current satellite constellation will reach the
+end of its life and be replaced with a new capability. The
+means through which this service is provided, along with
+the exact capability requirements, will be assessed at that
+time and will draw on technological advances from the
+intervening years.
+
+##### Other capital investments in Defence
+
+239. In addition to the major investments outlined in the
+proceeding sections, the New Zealand Defence Force
+will undertake a large number of small scale projects.
+These projects, totalling over $150 million out to 2030,
+will focus on replacing and refreshing essential pieces of
+equipment which can be acquired on a small scale and
+with lower risk.
+
+240. Investments in the near term may include small boats,
+soldier systems such as night vision equipment,
+information and communication solutions, and minor
+modifications to platforms including ships, aircraft and
+vehicles.
+
+241. Such investments are a primary avenue for New Zealand
+industry to engage with Defence, and provide
+opportunities for innovative solutions and adaptive
+delivery. Feedback from industry has indicated that a
+more robust and detailed indication of planned projects
+would allow for more responsive, valuable engagement.
+To achieve this the New Zealand Defence Force is
+committing to making its Annual Procurement Plan more
+detailed and transparent.
+
+
+-----
+
+# C h a p t e r 9
+
+#### Working with Industry
+
+
+-----
+
+242. Defence industry is a key partner and a fundamental
+input in the successful implementation of this Defence
+_Capability Plan 2019 and the future operations of the_
+Defence Force. It is by working closely with industry
+that the Defence Force, through its operations,
+provides value to the community, nation and world.
+In turn, Defence industry supports the well-being of
+New Zealand communities as a source of employment,
+revenue, and innovation.
+
+243. Defence currently spends around $900 million annually
+on the purchase of goods and services. The partnership
+this creates with industry is wide-ranging and includes
+the purchase of military equipment, the provision of longterm maintenance and support services, camp and base
+management, and the supply of professional services.
+The depth and breadth of this partnership will grow with
+the investment forecast in this capability plan.
+
+244. Industry is also a critical supplier to Defence of
+commercial knowledge, innovation, and engineering
+and scientific expertise. Inclusion of universities where
+suitable, can provide added access to scientific expertise
+and innovation in future-proofing Defence capability
+solutions.
+
+245. The values and behaviours underpinning Defence’s
+partnership with industry are set out in two key
+documents: the Defence Engagement Strategy, Smart
+Customers and Smart Suppliers, and the New Zealand
+_Defence Force Framework for External and Industry_
+_Engagement. Both documents put a priority on_
+setting expectations early, getting the right two-way
+communications, fostering early engagement, respecting
+each other’s culture, and understanding the constraints
+that each party operates under.
+
+246. These behaviours support a robust Capability
+Management System that will deliver goods and services
+that are modern, relevant, proven and reliable. The
+Ministry of Defence and the New Zealand Defence
+Force currently work with both national and international
+companies so that the Defence Force can deliver value
+to the community, nation and world. Maintaining and
+enhancing the commitment, understanding and trust
+between Defence and industry will ensure this continues
+into the future.
+
+
+##### Driving concepts
+
+247. Defence industry has access to commercial and industrial
+information, the infrastructure and personnel to contribute
+effectively and to inform Defence procurement options.
+
+248. As a source of commercial knowledge and engineering
+and scientific expertise, Defence industry works with
+Defence to reduce project risk and improve system
+performance.
+
+249. Defence engages and partners with capable suppliers
+with the capacity to support the achievement of
+Defence outputs and outcomes and deliver value to the
+community, nation and world.
+
+250. Value for money is enhanced when international prime
+suppliers partner with New Zealand-based companies
+and, when relevant, local scientific and tertiary institutions
+when delivering and supporting military capability.
+
+251. Improvements in Defence processes for early
+engagement will harness innovation in supplying products
+and services, as well as reducing risk.
+
+252. Effective partnerships with industry are developed to
+support the full capability life-cycle that contributes directly
+or indirectly to the delivery of Defence outputs and
+outcomes.
+
+##### Industry engagement
+
+###### Early engagement
+
+253. The review of Defence’s procurement, completed in
+May 2018, identified an area of opportunity for greater
+engagement with industry. This area is in the capability
+definition phase of the project life-cycle between project
+initiation and formally approaching the market with a
+Request for Tenders.
+
+254. Defence-led projects initiated under this capability
+plan will be required to have at least two structured
+engagements with the market during this early phase and
+prior to releasing a Request for Tenders. The aim is to
+engage industry to reduce risk and uncertainty in capital
+procurements and to ensure Defence understands and
+can leverage the market.
+
+255. Engaging early with industry will mean fewer surprises
+and better quality solutions. It will allow the Government to
+make informed investment decisions, based on the best
+information available as early in the process as possible.
+
+
+-----
+
+###### Transparency and ease of business
+
+256. Defence will ensure that industry is as informed as
+possible on plans for future defence spending. This
+includes provisional estimates of cost and schedule
+for Defence-led and infrastructure projects, along with
+indicative dates for engaging with industry.
+
+257. Defence will work to ensure that the tender debrief
+process is robust, informed and adds value to suppliers.
+Defence has also developed tools and information portals
+to enable industry to keep up to date with developments
+within Defence and industry. Started in 2016, an annual
+customer survey measures industry satisfaction with their
+engagements with Defence. The findings are published,
+along with the steps taken by Defence in responding to
+industry feedback and suggestions for improvement.
+
+258. Defence will continue to work on improving the Defence
+procurement and acquisition processes. This includes
+clarity of documentation, to reduce workload for industry
+responding to Requests for Information and Tenders.
+
+###### A focus on New Zealand industry
+
+259. The Government’s expectation that the Defence Force
+is flexible and is held at high levels of readiness means
+that value for money is enhanced when New Zealandbased suppliers are engaged in the supply and support of
+military capability.
+
+260. International prime companies submitting proposals to
+provide the capabilities outlined in this capability plan will
+be required to provide activity reports setting out the steps
+they have taken to identify and use New Zealand industry
+to supply goods and services as part of their proposal.
+Activity reports will specify the names and addresses of
+the New Zealand companies approached, describe the
+goods and services to be supplied over the life of the
+proposed contract, and quantify the value of those goods
+and services.
+
+261. Defence will use this information when considering
+whether the proposal provides best value for money over
+the life of the contracts, including taking into account
+any savings in time, money and labour, and enhanced
+responsiveness or resilience.
+
+
+###### System integration
+
+262. The unprecedented influx of data delivered by the
+investment priorities detailed in this capability plan
+will need to be processed and shared across multiple
+platforms and units, ranging from ships to individual
+soldiers on the ground. The aim is for every ship, aircraft,
+vehicle and soldier to be connected and able to share
+meaningful information.
+
+263. The complex and ‘system of systems’ nature of modern
+Defence projects represents a considerable challenge,
+particularly in the Land Domain. For industry, this
+represents an opportunity to help Defence understand
+and address the gaps in its technical and managerial
+capability to oversee systems integration, and ensure
+that the overall capability delivers what Defence needs, is
+robust, and is sustainable over time.
+
+264. For suppliers of equipment it also means considering how
+the various sub-systems can be integrated into the wider
+Defence Force architecture with the least risk and the
+least burden on the end-user.
+
+##### New Zealand Defence Industry Advisory Council, Minister of  Defence Awards
+
+265. The interests of Defence and Industry are represented
+by the New Zealand Defence Industry Advisory Council
+and the New Zealand Defence Industry Association.
+The New Zealand Defence Industry Advisory Council
+is appointed by, and reports directly to, the Minister of
+Defence. It has a wide brief to provide advice relating to
+developments, issues, and opportunities in the national
+and international defence industry sectors.
+
+266. The New Zealand Defence Industry Association is the
+preeminent body representing the commercial interests
+of Defence industry and its individual members. It is
+industry’s main conduit into Defence and vice versa.
+
+267. Defence will continue to coordinate the New Zealand
+Defence Industry Advisory Council and support the
+New Zealand Defence Industry Association. This
+includes continued support of the annual Minister of
+Defence Awards of Excellence to Industry and Defence
+Industry Association meetings and forums. Given
+the level of investment forecast in this capability plan
+activities where Defence can engage with industry,
+build relationships, and recognise excellence in
+capability service delivery are vital.
+
+
+-----
+
+-----
+

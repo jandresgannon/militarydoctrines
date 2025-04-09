@@ -1,0 +1,2454 @@
+ii
+
+
+-----
+
+**FOREWORD**
+
+The Gambia’s maiden National Security Policy (NSP) is the product of a long, collaborative effort
+
+initiated from My Office as the President of the Republic of the Gambia. It was prepared at the
+
+Office of National Security under the supervision of the SSR Steering Committee chaired by my
+
+Vice President. It is the result of the combined and meticulous efforts of Gambians and
+
+international partners. I wish to recognize the contributions of the United Nations (UN), the
+
+African Union (AU), Economic Community of West African States (ECOWAS), European Union
+
+(EU), and the United States of America (USA). My special thanks goes to the Drafting Committee
+
+assembled from key Security Institutions and the Editorial Team who painstakingly worked to
+
+produce this comprehensive document. This is the first National Security Policy ever produced in
+
+The Gambia. It is an overarching policy document that aims at streamlining mandates, roles and
+
+responsibilities of Security Institutions. It is my desire that the NSP will engender a clear division
+
+of labour that would serve the nation and its citizens in our march towards building a better
+
+Gambia.
+
+**H. E Mr. Adama Barrow** **Date: 09/05/19**
+
+**President of The Republic of The Gambia**
+**Commander-in-Chief of The Armed Forces**
+
+iii
+
+
+-----
+
+**ACKNOWLEDGEMENTS**
+
+The Office of National Security under the auspices of the National Security Advisor (NSA) wishes
+
+to thank His Excellency The President of the Republic of The Gambia and Commander-in-Chief
+
+of The Armed Forces, The Honourable Attorney General and Minister of Justice and chairperson
+
+of the Security Sector Reform Steering Committee, members of the Steering Committee,
+
+international partners in paricular the United Nations Development Programme (UNDP) as the
+
+lead sponsor, Security Chiefs, Drafting Committee, Editorial Team, and Civil Society
+
+Organizations for their unflinching support and commitment in producing the Gambia’s first
+
+National Security Policy (NSP). It is my expectation that this document, along with other national
+
+documents, such as the National Development Plan (NDP), and the Constitution, will deliver to
+
+the Gambian public a responsive, transparent and secure national environment that is conducive
+
+to promoting national economic development under legitimate civilian control. Therefore, this
+
+NSP, it is hoped, will represent a significant departure from and a farewell to decades-long lack of
+
+policy and institutional coordination of the country’s security apparatus.
+
+iv
+
+
+-----
+
+**CONTENTS**
+
+Foreword iii.
+
+Acknowledgements iv.
+
+Executive Summary vii.
+
+Abbreviations and Acronyms ix.
+
+Chapter One: The Foundations 1
+
+Background 1
+
+National (Core) Values 2
+
+National Security Interest 3
+
+National Power 3
+
+Diplomacy 3
+
+Economy 4
+
+National Cohesion 4
+
+Information and Communication 5
+
+Defence and Security 6
+
+Opportunities 7
+
+Political Will 7
+
+Youth Mobilization 7
+
+Strategic Environment 7
+
+Global and Regional Outlook 7
+
+National Geo- Political Situation 8
+
+Socio-Economic Landscape 9
+
+Broad Strategic Goals and Objectives 13
+
+Guiding Principles 14
+
+Chapter Two: The Aspiration 17
+
+National Security Interests 17
+
+Threats, Vulnerabilities, Challenges and Risks 17
+
+Disputed Borders and Lands 17
+
+Political Threat 18
+
+Trans National Organized and Cross Border Crime 19
+
+Human Rights and Justice 19
+
+v
+
+
+-----
+
+Gender Discrimination and Violence 20
+
+Health 20
+
+Environment 21
+
+National Aspiration 22
+
+Legislative Framework 22
+
+Governance Structure of Security Apparatus 23
+
+National Security Counsel 23
+
+Office of National Security 23
+
+Statuaries Ministries of National Security Counsel 25
+
+Mandate of the Security Forces and Services 26
+
+The Gambia Armed Forces 26
+
+The Gambia Police Force 27
+
+State Intelligence Service 28
+
+The Gambia Immigration Department 30
+
+Drug Law Enforcement Agency 31
+
+The Gambia Fire and Rescue Service 31
+
+The Gambia Prison Service 32
+
+The Gambia Revenue Authority (Custom and Excise) 32
+
+Security Sector Response 34
+
+Joint Human Resource Development 36
+
+Joint Human Resource Center 36
+
+Critical Appointments 36
+
+Medical Care 36
+
+Governance, Oversight and Review Mechanism 37
+
+Oversight Architecture 37
+
+Legislature 37
+
+Judicial 38
+
+Executive 38
+
+Independent Civil Bodies 38
+
+Chapter Three: Policy Support 39
+
+Partnership and Collaboration 39
+
+vi
+
+
+-----
+
+The Role of Civil Society Organizations. 40
+
+The Gambia - Senegal Relationship 40
+
+International Support and Coordination 40
+
+Resource Mobilization 41
+
+Communication 41
+
+Way Forward 42
+
+vii
+
+
+-----
+
+**EXECUTIVE SUMMARY**
+
+Rising popular expectations for a streamlined, cohesive, participatory, civilian-controlled and
+
+transparent National Security Policy (NSP), for the Gambia, predicated on human-security is a
+
+timely and necessary endeavor. A first of its kind since independence in 1965, the Gambia’s new
+
+NSP spells out key roles, responsibilities, and mandates of vital security institutions, organs,
+
+agencies, and personnel in order to reconfigure the security sector to meet evolving national state
+
+and human-security needs, challenges, risks and opportunities well into the next decade of the
+
+Twenty-first Century. Fundamental to achieving this is a foreign-policy pivot that prioritizes
+
+Gambia-Senegal relations to strengthen existing bilateral agreements to secure porous national
+
+borders, defend maritime boundaries, as well as explore existing and future resource discoveries
+
+for mutual gain. Addressing gender, youth, and social inequality, nationally, while leveraging the
+
+Gambia’s “soft-power” regionally and globally to mitigate environmental, cyber security,
+
+“radicalization” money-laundering and other challenges multilaterally, bodes well for the “New
+
+Gambia,” and its security institutions. Yet crucial to the success of the Gambia’s new NSP, is
+
+popular ownership and changed perceptions that long gone are the days when the security sector
+
+was an instrument in the hands of political actors who utilized it to deny Gambians of their
+
+fundamental rights, and for self-aggrandizement of the highest order.
+
+The Gambia's NSP positions the country and its security services to meet changing human security
+
+needs of Gambians. And, by spelling out the division of labor among the three branches of
+
+government and their oversight functions, the Gambia's new NSP will avail itself to periodic
+
+review and evaluation to reflect changing national, regional and global dynamics. Resulting
+
+institutionalized checks and balances to strengthen various security service responsiveness will
+
+make for a cohesive policy-strategy which at its core is driven by Security Sector Reform (SSR)
+
+principles in pursuit of human and national security."
+
+viii
+
+
+-----
+
+**ABBREVATIONS AND ACRONYMS**
+
+AIDS - Acquired Immune Deficiency Syndrome
+
+CED - Custom and Excise Department
+
+CSO - Civil Society Organizations
+
+DLEAG - Drug Law Enforcement Agency
+
+ECOSOCC - Economic, Social and Cultural Council
+
+EEZ - Exclusive Economic Zone
+
+GAF - Gambia Armed Forces
+
+GBoS - Gambia Bureau of Statistics
+
+GDP – Gross Domestic Product
+
+GFRS - Gambia Fire and Rescue Services
+
+GG – Gambia Government
+
+GID - Gambia Immigration Department
+
+GPF - Gambia Police Force
+
+GPS - Gambia Prison Services
+
+GRA - Gambia Revenue Authority
+
+HE – His Excellency
+
+HIV - Human Immunodeficiency Virus
+
+IFIs - International Financial Institutions
+
+IUU - Illegal, Unreported and Unregulated
+
+MoD - Ministry of Defence,
+
+MoFA – Ministry of Foreign Affairs
+
+MoFEA – Ministry of Finance and Economic Affairs
+
+MoI – Ministry of Interior
+
+MoICI – Ministry of Information and Communication Infrastructure
+
+ix
+
+
+-----
+
+MoJ – Ministry of Justice
+
+NA - National Assembly
+
+NDP - National Development Plan
+
+NDSC - National Deficit Syndrome Culture
+
+NSA - National Security Adviser
+
+NSC - National Security Council
+
+NSP – National Security Policy
+
+PBF- Peace Building Fund
+
+SGVB - Sexual and Gender-Based Violence
+
+SIS - State Intelligence Service
+
+SSR - Security Sector Reform
+
+TVCR - Threats, Vulnerabilities, Challenges and Risks
+
+UN - United Nations
+
+UNDP – United Nations Development Program
+
+UNGA – United Nations General Assembly
+
+x
+
+
+-----
+
+**CHAPTER ONE: THE FOUNDATIONS**
+
+**BACKGROUND**
+
+1. The protection of the State as well as the promotion of human security and the core values
+
+from which they emerge remain the single most important responsibility of any responsible
+
+government. They are in turn inextricably linked to economic stability, adequate resources, good
+
+governance and social cohesion. Twenty-two years of dictatorial rule in the Gambia effectively
+
+eroded government capacity to protect the citizens, derailed economic development efforts, and
+
+undermined core national values, in part, because the security sector was used as a tool for political
+
+repression.
+
+2. In the aftermath of The Gambia’s December 2016 presidential election and assumption of
+
+the presidency by H.E. Adama Barrow there was a clear need for a new people-centered national
+
+security policy to address Gambia’s glaring security deficit. With support from the United Nations
+
+(UN) Peace Building Fund (PBF) Security Sector Reform (SSR) a thorough assessment was
+
+undertaken in consultation with the general public and relevant development partners. The
+
+resulting Security Sector Assessment Report, December 2017, highlighted the need for a security
+
+policy and a civilian-controlled security sector founded on democratic institutions, norms and
+
+processes to promote human rights and rule of law. In light of changing domestic and global
+
+security landscape where emphasis has now shifted from National to Human Security, Gambia
+
+needs a well-crafted and clearly articulated National Security Policy that is predicated on popular
+
+participation, and international best practices. The President simultaneously serving as
+
+Commander-in-Chief and Minister of Defense is common practice in The Gambia. In the last two
+
+decades,The Gambia witnessed saw blatant abuse of Gambians and use of the state security
+
+apparatus primarily for political repression and self-interest. This culminated in a culture of silence
+
+and of impunity, which in turn severely eroded public trust and confidence in the security services.
+
+The New Face of Gambia’s Security Policy seeks to reverse negative public perceptions of the
+
+security services to engender confidence and regain public trust in this vital sector.
+
+3. However, the Gambia’s national security objectives cannot be achieved in the absence of
+
+a transparent and accountable government. It is important that the state takes appropriate measures
+
+**1 of 45**
+
+
+-----
+
+to safeguard people’s socio-economic security. These include but are not limited to the following:
+
+access to quality education, vocational training, job creation, improved energy sector, access to
+
+justice, food security, viable financial sector, industrialization, infrastructural development,
+
+improved public safety and emergency response preparedness.
+
+**NATIONAL (CORE) VALUES**
+
+4. Gambians place high premium on the following core values among others:
+
+4.1. Faith in their Creator,
+
+4.2. Love of the family,
+
+4.3. Integrity;
+
+4.4. Internal Peace, communal peace, self-respect, human rights and the dignity of
+
+persons,
+
+4.5. National unity, and
+
+4.6. Religious and ethnic tolerance.
+
+5. It is these shared values and principles that form the bedrock of Gambian culture, yet
+
+Gambian culture is not monolithic. It is the sum-total of various sub-cultures and, in a rapidly
+
+changing global security landscape propelled by shifting economic, technological and cultural
+
+changes. The Gambia’s core national valuesare changing at an unprecedented pace. These could
+
+pose potential threats to national unity.
+
+6. As a result of these therefore, Gambians have a collective responsibility and role to play
+
+when it comes to securing the nation. Building a security system that is ready to detect, deter and
+
+**2 of 45**
+
+
+-----
+
+defeat any eventualities in an inclusive manner is of paramount importance. This is fundamental
+
+to protecting the country's national security interests.
+
+**NATIONAL SECURITY INTERESTS**
+
+7. The Gambia’s overarching national interests lie in the prosperity and wellbeing of her
+
+peoples and the socio-economic transformation of the country. Such an interest is contingent on
+
+national sovereignty and territorial integrity. Furthermore, as a sovereign nation, the Gambia is
+
+committed to global peace, interdependence, security, stability and peaceful resolution of conflict.
+
+Similarly, the Gambia’s peaceful existence and strengthening of the “Special Relationship” with
+
+its neighbors, is not only a foreign policy priority but a national interest as well. Shared cultural
+
+values, geo-political contiguity and socio-economic and common cultural interests make relations
+
+with its neighbor, vitally important.
+
+**NATIONAL POWER**
+
+8. The Gambia’s national power include: Diplomacy, the Economy, National Cohesion,
+
+Information Communication Technologies, and Military/security Preparedness. These are
+
+fundamental to defending the country’s national interests. These attributes of national power will
+
+serve as vehicles to achieving national goals and interests both internally and externally. Therefore,
+
+the Gambia’s ability to advance its national interests is largely dependent on the effective use of
+
+the above-mentioned instruments to achieve National Strategic Objectives. The elements of
+
+National Power are enumerated below:
+
+8.1. **Diplomacy. It is the principal instrument that The Gambia uses to engage with**
+
+other states or foreign bodies to advance its values, interests and objectives, and
+
+to solicit foreign support for socio-economic advancement. Considering its
+
+national interest for peace and security within the state and outside its borders,
+
+the Gambian government will primarily use diplomacy:
+
+8.1.1. To settle any dispute through negotiation and other peaceful means.
+
+**3 of 45**
+
+
+-----
+
+8.1.2. To promote mutual respect and cooperation between states in order to
+
+reduce tension and potential for conflict within and outside the region.
+
+8.1.3. To integrate defense, security and intelligence in foreign policy
+
+activities and engagements.
+
+8.2. **Economy.The Gambia operates not as an island but as part of the global**
+
+political-economy. It is primarily a market-driven economy. Due to its small
+
+size, which is externally-dependent, and as a producer of primary commodities,
+
+the Gambia's economy is vulnerable to external shocks. Its economic behavior
+
+is shaped largely by the behavior of the International Financial Institutions
+
+(IFIs), and the goodwill of International Partners and multinational corporations.
+
+To address this deeply embedded dependency, it is important that agriculture,
+
+marine resources, and tourism be well managed with great amount of prudence.
+
+This is vital if the country would enhance employment opportunities especially
+
+for young people, as well as propel economic growth and development. Prudent
+
+and effective use of Gambia’s natural and human resources could position the
+
+country well to become an attraction for foreign direct investment. The ultimate
+
+objective would be to enhance competitiveness, explore the untapped resources
+
+that the country is endowed with, and reduce the country’s vulnerability to
+
+external shocks and the vagaries of dependency.
+
+8.3. **National Cohesion. Gambia believe in fostering co-existence to enforce family**
+
+ties and values and the infusion of social cohesion. There exists strong
+
+willingness of Gambians to cooperate with one another to promote national
+
+security objectives and to unite to promote economic advancement. Religious
+
+tolerance and ethnic harmony have, likewise, contributed positively to
+
+promoting national cohesion, and the maintenance of peace and security in the
+
+country. In the interest of national cohesion and harmony, it is crucially
+
+important that government assures religious minorities, that they remain
+
+**4 of 45**
+
+
+-----
+
+important and contributing members of society. Promoting Inter-faith dialogue
+
+among Christians and Muslims could allay mutual fears and break walls based
+
+on ignorance. Furthermore, it is in the Gambia’s vital national interest to curb
+
+rising ethnic, and religious chauvinism (“tribalism”) to avert inter-ethnic, as well
+
+as inter-religious conflict. These are looming threats that must not be
+
+overlooked.
+
+8.4. **Information and Communication**
+
+8.4.1. Technological globalization in the Twenty-first Century is
+
+advancing at an accelerated pace. It is pushing countries to not only
+
+keep abreast with these changes but harness them to protect, and
+
+promote vital national security interests both internally and globally.
+
+The Internet offers the Gambia numerous opportunities for better
+
+communication, and effective coordination of security and vital
+
+intelligence gathering instruments. Use of these technologies for
+
+monitoring and information gathering have the additional benefit of
+
+keeping policy-makers informed about threats and latest
+
+international best practices in the security sector. These technologies
+
+could also play a catalytic role in promoting national economic
+
+development.
+
+8.4.2. Paradoxically, these same technologies could become instruments of
+
+crime and terrorism. Modern technology can present clear dangers
+
+to the Gambia’s national security and cohesion.  Misinformation and
+
+disinformation via social media, remain a potential national threat.
+
+Care must be exercised, therefore, in dealing with these potential
+
+threats to safeguard national, sectoral and institutional interests. It is,
+
+therefore, critical for The Gambia to keep abreast with these global
+
+technological innovations. However, this technological innovations
+
+**5 of 45**
+
+
+-----
+
+are very useful platforms to enhance communication among
+
+Gambians.
+
+8.5. **Defence and Security**
+
+8.5.1. This instrument is by far the most crucial among attributes of
+
+national power. It refers to the defense and security posture capable
+
+to successfully resist and repel hostile or destructive action from
+
+within or without, overt or covert. This instrument of the Gambia’s
+
+national power is obviously not limited to the Armed Forces. A well
+structured and managed defence and security sector with clear
+
+delineations of competencies and definition of mandates will
+
+contribute to the achievement of peace and security as part of the
+
+national interest.
+
+8.5.2. In addition to their primary constitutional mandates, the Gambia will
+
+use its Armed and Security Services to strengthen the country’s
+
+participation in the UN, AU, and ECOWAS and Peace Support
+
+Operations in other parts of the World. Through defense and security
+
+agreements,international conventions and obligations, the Gambia
+
+should carve a niche of its own to boost professionalism, training and
+
+expertise of its security services. If effectively and adequately
+
+leveraged this could give the Gambia a vital platform to advance its
+
+interest, globally.
+
+**6 of 45**
+
+
+-----
+
+**OPPORTUNITIES**
+
+9. **Political Will.The Gambia more than any other time in its existence, has never enjoyed**
+
+greater goodwill from the international community. The new government’s commitment to a
+
+culture of tolerance, democracy, good governance, rule of law and human rights, augur well for
+
+the country’s future. If this goodwill is squandered for lack of effective policy directives and
+
+vision, it could evaporate and plunge the country into further economic difficulties.
+
+10. **Youth Mobilization.More than half of the Gambia’s population are youth under the age**
+
+of 25.This represents a huge potential human resource that could be used advantageously to foster
+
+growth and development of the country. Indeed, to realize this potential resource, youth must have
+
+better access to education, health care, and financial resources. A well-articulated Youth Policy
+
+that address the perennial neglect of this demography could make the difference in the life of The
+
+Gambians. For too long, youth have not featured prominently in national policy, or when they did,
+
+it was an afterthought. Their integration and inclusion of issues pertaining to youth, is well
+
+overdue.
+
+**STRATEGIC ENVIRONMENT**
+
+11. **Global and Regional Outlook**
+
+11.1. Polarization along economic, ethnic, religious, regional, and other fault lines has
+
+often resulted in national disintegration with adverse effects on human, national
+
+and global security. These have led to rising numbers of internally displaced
+
+populations, irregular migration, human-trafficking, terrorism, money
+laundering, organized crime, and other global human security challenges.
+
+Indeed, these represent the new frontiers of national and global security threats
+
+and challenges in the first two decades of the Twenty-first Century.
+
+**7 of 45**
+
+
+-----
+
+11.2. Additionally, rise in insurgency, extremism and radicalized groups have
+
+occasioned a more violent global society. This has irreversibly altered the theatre
+
+and techniques of conventional war more significantly into non-conventional
+
+forms. Thus, perceptions about the utility of force as a technique of conflict
+
+resolution has given way to the proposition that constructing sustainablepolitical
+
+and democratic institutions are, in the end, a more enduring basis for peace and
+
+development.
+
+12. **National Geo-political Situation**
+
+12.1. Located on the West Coast of Africa, The Gambia has a total land area of about
+
+11,300 square kilometres. It is surrounded by its much larger neighbour Senegal,
+
+with a land border of 748km except on its80km Atlantic coastline. The Gambia’s
+
+maritime spacecovers 12 nautical miles of territorial waters with an exclusive
+
+economic zone (EEZ) of 200 nautical miles (equivalent to 142000 km[2]).The
+
+continental shelf of the Gambia is about 3900 km[2] (equivalent to 14% of the total
+
+combined shelf area of The Gambia and Senegal).
+
+12.2. Consequently, in order, to protect the Gambia’s sovereignty, and interest,
+
+adherence to old and new security agreements with Senegal is necessary. Though
+
+with few existential external threats, it is of paramount importance for the
+
+Gambia to strengthen its national security through joint-security arrangements
+
+with Senegal and through International partners support especially in areas
+
+ofland, air and sea border control and management. This renewed joint-security
+
+arrangement could promote the Gambia’s re-export trade, reduce Illegal,
+
+unreported and unregulated (IUU) fishing in our waters and other related cross
+border crimes.
+
+12.3. Closer security ties with Senegal are importantto protectThe country’s maritime
+
+spaces and borders. Therefore, there is an urgent need, as well as an opportunity
+
+to establish a common maritime policy between the Gambia and Senegal to
+
+**8 of 45**
+
+
+-----
+
+collectively pursue and protect mutually beneficial interests. This can help to
+
+mitigate current and likely future disputes over maritime resources and new
+
+natural resource discoveries.
+
+12.4. The Gambia,is a multi-lingual, multi-ethnic, and multi-religious country with
+
+well over twelve ethnic groups with English as its official language. According
+
+to the 2013 Gambia Bureau of Statistics Report, the country has a population of
+
+approximately 1,882,450.
+
+12.5. According to GBOS (2013)Muslims constitute about 90% of the population with
+
+approximately 9% Christians and 1% other faiths. It is in the national security
+
+interest of the Gambia tostrengthen existing socio-cultural fluidity across ethnic,
+
+religious and political lines as well as to avert social dislocation.
+
+12.6. Fluid inter-ethnic relations underpinned by healthy “joking” relationships
+
+remain one of Gambia’s, as well as Senegal’s major strengths. This serves as
+
+asocial mechanismthat help to mitigate potential ethnic and communal conflict.
+
+It is therefore important, for both governments to simultaneously pursue policies
+
+and practices that promote, inter-state, inter-ethnic harmony and patriotism and
+
+avoid macro-nationalist sentiments.
+
+13. **The Socio-Economic Landscape**
+
+13.1. According to the2015/16 Integrated Household Survey conducted by the Gambia
+
+Bureau of Statistics, the proportion of the Gambian population living below the
+
+poverty line is onthe increase. The Poverty Index increased slightly from 48.1
+
+percent in 2010 to 48.6 percent in 2015. While this increase is considered
+
+statistically insignificant, poverty rate increased substantially by 18.2 percent
+
+from 0.79 million in 2010 to 0.94 million in 2015.
+
+**9 of 45**
+
+
+-----
+
+13.2. In spite of favorable conditions for food production to meet the needs of the
+
+people in The Gambia, the country is still proneto food insecurity. Estimates
+
+based on the 2015/16 Integrated Household Survey suggest that close to 55
+
+percent of the population cannot meet the daily required minimum calories of
+
+2400 per day per person.
+
+13.3. Fifty Five percent of Gambians live in the urban area while 45% live in the rural
+
+area. This high urban concentration explains the congestion and overcrowding
+
+in the urban area with its attendance, problems. Overcrowding leads to
+
+emergence of illegal structures and settlements which have implications on
+
+safety and security in the urban areas.
+
+13.4. The overall contribution of agriculture to GDP growth has been on the decline
+
+since 2010. This is traceable to factors such as climate shocks leading to food
+
+shortages. This trend has made peasant farmers economically vulnerable. High
+
+fertility in the country, which is the cause of the population growth rate of 3.2%
+
+per annum, might have been the cause of the rapid increase in poverty rate.There
+
+is the need for crafting of policies that will boost economic growth and ensure
+
+food security for all citizens.
+
+13.5. UNDP findings support the fact that the country registers high levels of
+
+unemployment and under-employment, with 40% of women and 20% of men
+
+falling into this bracket. This has raised the level of vulnerability to crime and
+
+radicalization as well as the incidence of gender-based violence and gender
+
+inequality. Irregular migration and substance abuse have also tended to increase.
+
+Unequal access to resources such as land for agriculture and construction which
+
+favors men, perpetuates pre-existing disparities between men and women. Only
+
+a small percentage of Gambian women hold strategic positions in both the
+
+private and public sectors, and in particular the security sector.
+
+**10 of 45**
+
+
+-----
+
+13.6. In spite of the negative indices of unemployment, irregular migration and
+
+unequal access to resources, tourism, construction and telecommunication
+
+sectors contribute significantly to the national economy. Revenuefrom these
+
+sectors in 2016, accounted for about 22% of GDP. There are reports of oil and
+
+other natural resource deposits in The Gambia, but the country is yet to benefit
+
+from them economically as initial exploration of SAMO 1 (offshore oil well),
+
+the first well to be drilled, did not meet commercial expectations. There is the
+
+need to continue exploration of all-natural resource deposit in The Gambia.
+
+**The Security Environment**
+
+13.7. The security instruments used and applied during the colonial era had continued
+
+in post-independence Gambia and was used to model or shape the security
+
+institutions. This explains why security was designed to focus on the protection
+
+of the political and economic interests of the elite as opposed to meeting the
+
+needs of the citizenry. This situation continued into the First Republic,
+
+worsening during the second republic.
+
+13.8. After the change of government in 1994, The Gambian security forces were less
+
+adequately prepared for the real and emerging security challenges within the
+
+country. When not being used for regime security, they were merely oriented to
+
+execute routine procedures in the barracks. This, coupled with professional
+
+stagnation and bad governance rooted in corruption, rivalry among service/
+
+agency institutions and political patronage, negatively impacted their integrity,
+
+capacity, and professionalism.
+
+13.9. In the Second Republic, the President abuse his power as Commander-in-Chief
+
+and Minister of Defence and made himself sole policy and decision-maker for
+
+the Armed and Security services. Appointments to key positions and elevation
+
+to higher ranks were mostly based on nepotism and personal loyalties. There was
+
+**11 of 45**
+
+
+-----
+
+also a dark chapter in the Gambia’s security sector that needs further unveiling
+
+to engender national healing and glean important lessons from this troubled
+
+legacy.
+
+13.10. Such legacies, even long after colonial rule ended, remained entrenched. In fact,
+
+the former President of the second republic perpetuated the culture as a tool to
+
+entrench himself in power. As a result, the new political leadership, following
+
+the national polls in December 2016 inherited a security apparatus that was not
+
+oriented to meet the needs of the people.
+
+13.11. In addition, there were instances of widespread human rights abuse and a culture
+
+of impunity perpetrated by elements of the security sector. This has led to the
+
+erosion of public trust and confidence. This security lapse resulted in many
+
+human rights abuses orchestrated with impunity by the authorities who were
+
+supposed to defend and protect the people and act in accordance with the law.
+
+Important lessons have been gleaned from the dark days of dictatorial rule that
+
+include the following:
+
+13.11.1. It is vital that comprehensive training modules for security
+
+personnel, including gender mainstreaming, international
+
+conventions on Human and People’s Rights, as well as an outreach
+
+program to enlighten security personnel will be most important in
+
+changing attitudes towards human rights concerns;
+
+13.11.2. Another lesson learnt is, vibrant national security in the Gambia, is
+
+contingent upon political order, good governance, effective foreign
+
+policy and true democracy. These national security objectives cannot
+
+be achieved in the absence of a transparent and accountable
+
+government;
+
+**12 of 45**
+
+
+-----
+
+13.11.3. To be proficient and effective, the security sector must possess
+
+standard structures, quality personnel, modern equipment and
+
+sufficient resources necessary to respond to the legitimate security
+
+needs of the state andcitizens;
+
+13.11.4. Furthermore, this transformation process requires unambiguous and
+
+transparent strategy to facilitate smooth interaction, coordination and
+
+cooperation between security sector actors consistent with
+
+constitutional roles and responsibilities, and,
+
+13.11.5. Consequently, unlike the traditional regime-centered approach to
+
+security in the Gambia, the modern concept should focus more on
+
+human-security as the basis for an enlightened national security
+
+policy. This is important for the reasons enumerated below.
+
+**BROAD STRATEGIC GOALS AND OBJECTIVES**
+
+14. Inspired by our national security vision and interests, the objectives of this national security
+
+policy are to:
+
+14.1. Protect The Gambia’s sovereignty and territorial integrity;
+
+14.2. Present The Gambia’s positive image and prestige regionally and globally.
+
+14.3. Promote socio-economic development and prosperity;
+
+14.4. Ensure empowerment and equal participation of women in the decision-making
+
+processes, including at the strategic level.
+
+**13 of 45**
+
+
+-----
+
+14.5. Conduct security sector reform to ensure efficient and effective governance and
+
+oversight of the security system as well as to ensure the definition of mandates
+
+and delineation of competencies of security forces, services and institutions.
+
+14.6. Enhance the cooperation, collaboration and coordination between the Security
+
+Forces and agencies for seamless interoperability bythe establishment of a
+
+National Joint Operation Center for internal and external operation.
+
+14.7. Enhance the cooperation, collaboration and coordination between the
+
+Intelligence agencies for seamless interoperability bythe establishment of a
+
+National Joint Intelligence Operation Center for coordination of all intelligence
+
+activities.
+
+14.8. Enhance the peace time role of the Armed forces and Security Services through
+
+the development of their productive potential.
+
+14.9. Participate and contribute to global and regional peace and security.
+
+14.10. To have a structured and professional Armed and Security Services that is
+
+proportionate to the security needs of the Gambia.
+
+**GUIDING PRINCIPLES**
+
+15. The Gambia’s National Security Policy and conduct of its international relations shall be
+
+guided by the following principles:
+
+15.1. Protection of national sovereignty and independence
+
+15.2. Promotion of national ownership, responsibility and commitment.
+
+**14 of 45**
+
+
+-----
+
+15.3. Fostering national unity and integration by developing a security sector which is
+
+fully representative of Gambians and promotes the welfare and prosperity of all
+
+persons in The Gambia.
+
+15.4. Promotion of human security that is responsive to the security and justice needs
+
+of The Gambian people.
+
+15.5. Promotion of democratic principles of good governance, accountability and the
+
+rule of law.
+
+15.6. Respect for Human rights and mainstreaming gender issues in all aspects of
+
+governance including the recruitment, retention, full participation in decision
+making and training curriculum of all security institutions.
+
+15.7. Ensuring civilian oversight and democratic control of the security sector in line
+
+with international standards of human rights and the rule of law including
+
+parliamentary approval of security legislation.
+
+15.8. Approving states of emergency, security sector budget, and inviting the Heads
+
+of Security Agencies for testimonies when necessary.
+
+15.9. Ensuring the delineation of competencies between different security services,
+
+such as between the defence and internal security forces and services, excluding
+
+militarization of the police and the interference of the Armed Forces in
+
+internal/public security and safety, except supportive roles when the need arises.
+
+15.10. Exclusion of perpetrators of serious human rights violations in the security sector
+
+through vetting and selection procedures.
+
+15.11. Ensuring the separation of the executive, legislative and judiciary powers;
+
+**15 of 45**
+
+
+-----
+
+15.12. Ensuring access to justice and right to security for people in The Gambia.
+
+15.13. Be guided by Public Finance Management (PFM) principles, including the
+
+affordability of the security sector and its balanced budget in relation to other
+
+public sectors.
+
+15.14. Fostering respect for the constitution, international law, treaty obligations and
+
+the settlement of international disputes by peaceful means.
+
+15.15. Integration of informal and customary security providers and traditional justice
+
+actors into SSR processes where appropriate.
+
+15.16. Integration of the goals and principles of international and regional organizations
+
+which The Gambia is a signatory.
+
+15.17. Adoption of international principles of transparency and inclusiveness.
+
+**16 of 45**
+
+
+-----
+
+**CHAPTER TWO: THE ASPIRATION**
+
+**NATIONAL SECURITY INTERESTS**
+
+16. The Gambia’s overarching national interests lie in the prosperity and wellbeing of her
+
+peoples and the socio-economic transformation of the country. Such an interest is contingent on
+
+our national sovereignty and territorial integrity.
+
+17. Furthermore, the Gambia as a bastion of peace and tolerance desires, as a sovereign nation,
+
+to effectively participate in the promotion of global peace, security, stability and integration.
+
+Equally desirous is to foster deep-rooted commitment to an unbreakable special bond and peaceful
+
+coexistence with the country's neighbors.
+
+**THREATS, VULNERABILITIES, CHALLENGES AND RISKS ASSESSMENT(TVCR)**
+
+18. The Gambia’s population is confronted with a range of TVCR that have direct impact on
+
+security. These include: poverty, unemployment, social and economic inequality, low and
+
+uncompetitive wages, inadequate education, limited access to health care, limited access to justice,
+
+and food insecurity. Also, the country's bulging and under-utilized or unemployed youth
+
+population and the inability of the private sector to grow or launch business ventures represents a
+
+vulnerability and a risk. The worst-case scenario is the combined effects of all these threats
+
+occurring at the same time, which has the potential of causing civil unrest,youths engaging in
+
+irregular migration, and in all sorts of crime, including theft, drug abuse, sexual violence,
+
+possession of small arms and light weapons and murder.
+
+19. **Disputed Land Borders**
+
+19.1. The distortion of the demarcation of the Senegal-Gambia borders inherited at
+
+independence pose a threat to the territorial integrity of the country. According
+
+to the Security Sector Assessment Report, The Gambia and Senegal have had
+
+tensions over border issues. Residents of the affected areas repeatedly disagree
+
+on land ownership and possession rights. Over the years, bilateral diplomatic
+
+**17 of 45**
+
+
+-----
+
+efforts have been made to resolve this issue, which led to the establishment of
+
+the “Senegalo-Gambia Boundary Commission” under the auspices of the
+
+‘Senegalo-Gambian Secretariat.’ This Commission has already conducted
+
+preliminary assessment aimed at finding a permanent solution. However, the
+
+recommendations are yet to be implemented. If the situation is not duly
+
+addressed, it could result to renewed tensions that could severely undermine the
+
+harmony between the two countries.
+
+19.2. The vast and sparsely monitored border between the Gambia and Senegal,
+
+coupled with the lack of capacity of the security operatives to effectively curb
+
+mounting crime rates, (such as armed banditry, sanctuary for dissident groups,
+
+robbery and wide spread cultivation and supply of cannabis) represent
+
+challenges or risks. The Casamance insurgency along the border could spill over
+
+into the border communities which may provoke a pursuit of these insurgents
+
+into the Gambia by the Senegalese security forces. Porous and poorly monitored
+
+borders are a recipe for transnational crime.
+
+20. **Political Threat**
+
+20.1. Partisan political threats that include political violence, politicizing traditional
+
+leadership institutions, (chiefdoms and Alkaloship) and risks of political
+
+violence remain real and must be addressed head on. Accordingly, the Security
+
+Sector is at risk of political polarization, especially, when past patron-client
+
+relationships seep into the new political dispensation. In addition, complications
+
+and regime risks and vulnerability will likely intensify if security personnel
+
+sympathetic to the former president possess large caches of weapons and
+
+ammunition. These combined with ethnic-based loss of ill-gotten favors,
+
+preferences and privileges are a lethal recipe for national fragmentation.
+
+**18 of 45**
+
+
+-----
+
+21. **OrganizedTrans- National and Cross- Border Crimes**
+
+21.1. Organized transnational crimes such as “terrorism, “human” and “drug
+trafficking, “smuggling,” and “money-laundering” within the African continent
+
+are emerging challenges for the Gambia's security. Recent terror attacks in the
+
+sub-region make terrorism and insurgency a real threat to the country’s security.
+
+Although, the country has not experienced a terror attack yet, the rising terror
+
+tendencies in the region poses a huge security challenge particularly to the
+
+tourism sector. This could adversely impact tourists and investors.
+
+21.2. Therefore, there is the need to effectively operationalize the Joint Security Pact
+
+between the Gambia and Senegal to stem cross-border criminal activities, as well
+
+as address the right of hot pursuit. A Joint IntegratedBilateral-national Border
+
+Management Structure between the security institutions to deal with illegal cross
+
+border activities is vital.
+
+22. **Human Rights and Justice**
+
+22.1. Further delays to set up a mechanism for dealing with members of the past
+
+regime accused of committing atrocities has resulted in deep-seated grievances
+
+amongst sections of the civilian population. Importantly, alleged perpetrators
+
+still actively involved in the security sector must be brought to account for
+
+alleged crimes in a strengthened Transitional Justice Process to ensure
+
+accountability and justice.
+
+22.2. Similarly, the manner in which security sector personnel handle disaffected
+
+groups that violently express grievances through acts of public disorder can have
+
+serious implications on national cohesion. The increased level of political and
+
+social awareness now enjoyed in the democratic opening of the New Gambia
+
+represent both an opportunity and a challenge.
+
+**19 of 45**
+
+
+-----
+
+23. **Gender Discrimination and Violence**
+
+23.1. The Gambia like many other countries is a male-dominated society with social
+
+constructs that inhibits the development of women and girls. However during
+
+the years, issues of women have been .
+
+23.2. Notwithstanding the Government’s recognition of the constitutional
+
+requirements of gender mainstreaming and making use of all available talents
+
+pursuant to section 28 (1) and (2) of the Constitution, a lot more needs to be done
+
+to bring women up to par in politics, especially in the National Assembly, high
+powered civil-servant jobs, the security sector and professions. Resolution 1325
+
+of the UN General Assembly also calls for women participation in the
+
+maintenance of global peace and security. It is vitally important, therefore, to
+
+recruit women and marginalized men into the security services and also
+
+introduce training modules that focus on different conceptualizations of
+
+“security”informed by women’s perspectives.
+
+23.3. The notion that women’s rights are human rights must filter up to the service
+
+brass, who in turn, must insist upon it in their specific institutions. Women in the
+
+security services must also be availed the space to express, without fear of
+
+retribution, their thoughts and concerns on a range of issues that include, but not
+
+limited to: pay, promotion, respect,and institutionalized bias (sexism). All
+
+security institutions must re-examine “old-boy” networks, reassess women’s
+
+“gendered roles” within their institutions, and train personnel accordingly to
+
+shed entrenched attitudes and practices.
+
+24. **Health**
+
+24.1. The occurrence and re-occurrence of infections and diseases such as malaria,
+
+cholera, child/ Infant and maternal mortality, Ebola and the scourge of
+
+HIV/AIDS infections is a grave security concern for the state considering the
+
+**20 of 45**
+
+
+-----
+
+porosity of the Gambia's borders coupled with the weak capacity to respond to
+
+disease outbreaks. These epidemics have had serious negative impact on the
+
+country’s tourism industry. The 2015 Ebola outbreakin some neighbouring
+
+countries (Manu River Union) shows evidence of the impact caused.
+
+24.2. The upsurge of life-threatening diseases such as cancer, diabetics and
+
+hypertension also pose serious security challenges relative to the lives and
+
+productivity of the work force. Effective control requires strengthening the
+
+national surveillance and response systems. There is need for the Security sector
+
+in collaboration with both local and international health care agencies and
+
+research institutions to develop appropriate capacity for intervention.
+
+25. **Environment**
+
+25.1. It is of paramount importance for the Gambia to strengthen its national security
+
+environment, through joint-security arrangements with Senegal and the support
+
+of International partners especially in the areas of land, air and sea border
+
+management and control.
+
+25.2. The indiscriminate cutting of trees for both economic and domestic use coupled
+
+with unregulated and uncontrolled fishing and mining, and bush fires has
+
+resulted in the destruction of the environment. This has endangered the flora and
+
+fauna of the country as well as human habitation. It is now generally agreed that
+
+human activity is largely responsible for climate change. In the Gambia’s case
+
+this has resulted in erratic rainfall patterns that negatively impact on sustainable
+
+agricultural activities leading to scarcity of resources, which pose a threat to
+
+national security.
+
+25.3. Human activities should be controlled to minimize the destruction of the
+
+environment. The effects of global warming and environmental degradation are
+
+the direct consequences of human activities.
+
+**21 of 45**
+
+
+-----
+
+25.4. To effectively deal with these threats, there is need for the government to adopt
+
+effective information dissemination strategies to enlighten the public about the
+
+environmental rules and regulations. Through these, government could help
+
+minimize the threats of deforestation and other detrimental environmental effects
+
+or consequences.
+
+**MARITIME SECURITY**
+
+25.5. It is important to protect maritime spaces and borders. Therefore, there is an
+
+urgent need to formulate and implement a maritime policy and strategy for the
+
+Gambia to promote, pursue, and protect her re-export trade, reduce Illegal,
+
+unreported and unregulated (IUU) fishing and other related cross-border
+
+maritime crimes. This can help to mitigate current and likely future disputes
+
+over maritime resources and new natural resource discoveries
+
+**NATIONAL ASPIRATIONS**
+
+26. To be a nation that will have a professional and apolitical security system able to protect
+
+the country and its people in line with fundamental human rights and rule of law, and a security
+
+system that will become empowered and motivated to defend national sovereignty against all
+
+forms of threats, committed to contributing to the building of peace, national unity, tolerance and
+
+social cohesion, and promoting respect for diversity and equal opportunities irrespective of gender,
+
+age, ability, ethnicity and religion in the interest of socio-economic development and prosperity.
+
+**LEGISLATIVE FRAMEWORKS**
+
+27. The Gambia’s NSP should strive to establish linkages between the National Assembly, the
+
+Constitution, National Development Plan (NDP), International Covenants and other legally
+
+binding national instruments. Sequencing the Gambia’s NSP policy/strategy and legislation, to
+
+ensure that it is aligned with national priorities, and are realistic in terms of the national capacity
+
+required to support and implement it, is of great importance.
+
+**22 of 45**
+
+
+-----
+
+28. The Gambia has eight security institutions, all of which have their primary and secondary
+
+mandates to maintain peace, security and the territorial integrity of the country. Without prejudices
+
+to the under mentioned mandates which they currently have, there is need to review the existing
+
+legal frameworks and align them to the current national security realities of the Gambia.
+
+29. There is also need to provide a legal framework for the National Security Council.
+
+**GOVERNANCE STRUCTURE OF THE SECURITY APPARATUS**
+
+30. **National Security Council (NSC).**
+
+30.1. The NSC, chaired by the president, is the highest authority for providing strategic
+
+guidance and direction in national security issues. To make it more effective, the
+
+composition of the NSC should include the membership of the policy makers of
+
+key institutions of the instruments of National power, such as the Ministries of
+
+Defence, Interior, Foreign Affairs, Justice, Finance and, Information and
+
+Communication Infrastructure.
+
+30.2. With the establishment of the Office of National Security which will provide
+
+secretarialservice for the NSC and coordinate Security Sector activities, this will
+
+enhance the oversight function of the NSC.
+
+31. **Office of National Security (ONS)**
+
+31.1. The Office of National Security will essentially be performing the following tasks:
+
+31.1.1. Act as the executive secretariat of the National Security Council and
+
+carrying out regular secretariat duties for the NSC
+
+31.1.2. Developing regular briefings and papers for NSC meetings
+
+**23 of 45**
+
+
+-----
+
+31.1.3. Keeping the chairman of the NSC (The President) informed of
+
+emerging issues and assessments that require the council’s attention.
+
+31.1.4. Analyzing the security environment – both internal and external – to be
+
+reported regularly to the NSC so that it can take informed decisions.
+
+31.1.5. Coordinating security sector activities to ensure that the directives and
+
+decisions emanating from the NSC are implemented; and that timely
+
+feedback from the sector is presented to apprise the NSC of
+
+developments.
+
+31.1.6. Generating periodic reports for the NSC on the basis of decisions of
+
+previous meeting of the Council
+
+31.1.7. Coordinating intelligence agencies to deliver joint assessments and,
+
+ensuring the veracity of assessed intelligence.
+
+31.1.8. Coordinating and supporting Joint Inter Departmental, Inter Agency
+
+and Multi National operations.
+
+31.1.9. Developing and monitoring the implementation and evaluation
+
+(Management) of the National Security Policy;
+
+31.1.10. The management of all national security related policies and strategies.
+
+31.1.11. The development of Integrated National Security Outcome Base Plans
+
+for the Short and Medium term.
+
+31.1.12. Report on quarterly and annual basis on the achievements and
+
+expenditure of the security sector.
+
+**24 of 45**
+
+
+-----
+
+31.1.13. Responsible for the management of the SSR Process in the security
+
+sector that include the Management (Policy development, review,
+
+monitor and evaluation) of the SSR policy.
+
+31.1.14. Responsible for the management of the national security planning
+
+process.
+
+31.1.15. Provide strategic direction guidelines for the security sector for the
+
+Short and Medium Term.
+
+31.1.16. Responding to any other needs identified by the President and NSC.
+
+32. **Statutory Organs of theNSC**
+
+32.1. The next layer in the governance of the security sector shall be at the Office of
+
+the President and ministerial level. The Office of the President, ministries of
+
+Defence and Interior have the primary responsibility to manage and administer
+
+the defence and security institutions and hence should be established with the
+
+requisite administrative, technical and operational competence. Each sector
+
+should be able to develop and review policies/strategies for military defence,
+
+intelligence and internal security.
+
+32.2. In view of the NSP as the overarching concept encompassing the national
+
+defence and internal security and related strategies, the Ministry of Defence
+
+(MoD)will define the national defence strategy related to the sovereignty and
+
+territorial integrity. The Ministry of Interior will establish the internal security
+
+concept and strategy towards ensuring effective Law Enforcement, and the
+
+protection of livesand property.
+
+32.3. The Ministry of Defence will manage the Defence Council and define relevant
+
+strategies, whilst the Ministry of Interior manages internal security issues and
+
+strategies within the established councils of the respective security institutions.
+
+**25 of 45**
+
+
+-----
+
+Consequently, this policy directs the establishment of Security Service
+
+Councils/Boards which will provide governance and oversight of the respective
+
+security institutions on matters relating to appointment, promotions and
+
+dismissal.
+
+32.4. The other statutory ministries of the NSC, namely Ministries of Finance, Foreign
+
+Affairs, Justice and Information and Communication Infrastructure are to
+
+perform significant role in pursuit of national security. These six (6) Ministries
+
+including Ministry of Defense and Ministry of Interior will constitute the first
+
+level of civil authority over national security matters. All other ministries in
+
+government are to ensure that their policies and activities are consistent with the
+
+pursuit of national interests.
+
+**MANDATES OF THE SECURITY FORCES AND SERVICES**
+
+33. The Gambia has eight security institutions, all of which have their primary and secondary
+
+mandates to maintain peace, security and the territorial integrity of the country. Without prejudice
+
+to the under-mentioned mandates which they currently have, there is need to review the existing
+
+legal frameworks and align them to the current national security needs. Hence the need for a
+
+cultural change in the security sector requires shifting attention from the traditional regime-centric
+
+approach to the concept of modern security, which focuses on human security as the basis for
+
+national security. The quality of training for the security sector will ultimately determine the
+
+output, behavior and level of professionalism.
+
+33.1. **The Gambia Armed Forces (GAF)**
+
+33.1.1. According to the 1997 Constitution, Section 186, the Armed Forces
+
+of the Gambia consist of the Army, the Navy and the Air Force and
+
+such other services for which provision is made by an Act of the
+
+National Assembly.
+
+**26 of 45**
+
+
+-----
+
+33.1.2. According to section 187 of the 1997 constitution, the principal
+
+functions of GAF are:
+
+33.1.2.1. To preserve and defend the sovereignty and territorial
+
+integrity of The Gambia;
+
+33.1.2.2. To aid the civil authority at their request, in
+
+emergencies and in case of natural disasters; and;
+
+33.1.2.3. To engage at the request of civil authorities, in
+
+productive activities such as agriculture, engineering,
+
+health, and education for the development of the
+
+Gambia.
+
+33.1.2.4. The National Youth Service shall be organized with
+
+co-operation and assistance of the Armed Forces
+
+33.1.2.5. The Armed Forces shall establish training program
+
+for their members at all levels to equip them with
+
+skills and trades, and a program of secondment to
+
+civilian occupations, so as to enable members of the
+
+Forces to return, after their service, to a full and
+
+productive civilian life.
+
+33.2. **The Gambia Police Force (GPF)**
+
+33.2.1. The GPF was established under section 178 of The 1997
+
+Constitution which defines the powers of the police as follows:
+
+33.2.1.1. The preservation of law and order;
+
+**27 of 45**
+
+
+-----
+
+33.2.1.2. Protection of life and property;
+
+33.2.1.3. The prevention and detection of crime;
+
+33.2.1.4. The apprehension of offenders and;
+
+33.2.1.5. The due enforcement of all laws and regulations with
+
+which they are charged with.
+
+33.2.1.6. Oversee the implementation of private security act,
+
+supervision of all private security companies and
+
+training of personnel of private security company.
+
+33.3. **State Intelligence Service (SIS)**
+
+33.3.1. The National Intelligence Agency (To beState Intelligence Service)
+
+was established by Decree 45 of 1995 and incorporated in the 1997
+
+Constitution.
+
+33.3.2. State Intelligence Service shall
+33.3.2.1. Have the lead role in intelligence on national security
+
+matters both internal  and external;
+
+33.3.2.2. Gather, analyze and collate intelligence to protect The
+
+Gambia from all external and internal threats;
+
+33.3.2.3. Closely work and collaborate with the ministries of
+
+Defense, Interior, Foreign Affairs, Justice, and
+
+**28 of 45**
+
+
+-----
+
+Finance, Labor Organizations and any other
+
+organization as may be deemed necessary;
+
+33.3.2.4. Closely work with other services to provide
+
+protection to the President and his properties, First
+
+Family, and all other VIPs as may be necessary;
+
+33.3.2.5. Provide the Government and other relevant
+
+consumers with accurate and verifiable intelligence
+
+relating to external and internal threats;
+
+33.3.2.6. Provide advice for our domestic and foreign policy
+
+matters as they relate to national security;
+
+33.3.2.7. Share Intelligence and cooperate with international
+
+partners where necessary in the interest of national
+
+security;
+
+33.3.2.8. Screen, vet, and clear all private security firms before
+
+registration;
+
+33.3.2.9. Screen and vet personnel of all national security
+
+institutions before enrollment and as may be deemed
+
+necessary, as well as prospective holders of sensitive
+
+public service positions;
+
+33.3.2.10. Perform such other functions as may be assigned to it
+
+by the President or by any other Act of the National
+
+Assembly.
+
+**29 of 45**
+
+
+-----
+
+33.4. **The Gambia Immigration Department (GID)**
+
+33.4.1. GID, which was established under the Immigration Act 1965, is
+
+mandated to execute the following functions:
+
+33.4.1.1. Facilitate, control, monitor and regulate entry,
+
+residence and exit of persons at entry points and
+
+localities within the country.
+
+33.4.1.2. Control and regulate residency through issuance of
+
+residence and work permits as prescribed in the
+
+Immigration Act and other international legal
+
+instruments relating to migration;
+
+33.4.1.3. Enforce the Citizenship and Nationality Act 1965
+
+and its amendments;
+
+33.4.1.4. Enforce the Registration of Aliens Act 1977 and its
+
+Amendments;
+
+33.4.1.5. Issuance of Passport, Identity Card and other Travel
+
+Documents;
+
+33.4.1.6. Enforce the Refugee Act 2008;
+
+33.4.1.7. Implement bilateral, multilateral and international
+
+conventions such as the ECOWAS framework on
+
+free movement of persons and goods;
+
+**30 of 45**
+
+
+-----
+
+33.4.1.8. Deployment of officers to visa sections of various
+
+Embassies and Consular offices of the Gambia to
+
+enhance accurate visa issuance.
+
+33.5. **Drug Law Enforcement Agency (DLEAG)**
+
+33.5.1. Drug Law Enforcement Agency, The Gambia (DLEAG) is the lead
+
+agency mandated to regulate and control Drug Abuse, Illegal Drug
+
+Trafficking and related activities by enforcing the Drug Control Act
+
+2003 and all international protocols and conventions relative to drugs
+
+signed and ratified by The Gambia. The functions of the Agency are
+
+to:
+
+33.5.1.1. Enforce all laws, rules, regulations and policies
+
+regulating or controlling the abuse and trafficking of
+
+illicit drugs.
+
+33.5.1.2. Advice government through the ministry on drug
+
+related matters.
+
+33.5.1.3. Control the abuse and misuse of controlled drugs.
+
+33.5.1.4. Sensitize the general public particularly the youth on
+
+the dangers of drug abuse.
+
+33.6. **The Gambia Fire and Rescue Services (GFRS)**
+
+33.6.1. The Gambia Fire Service Act No. 19 of 1948. The mandate of the
+
+Fire and Rescue Service is to:
+
+**31 of 45**
+
+
+-----
+
+33.6.1.1. Perform the function of saving life in fire and other
+
+disasters,
+
+33.6.1.2. Protecting life and property from destruction and
+
+catastrophe (Manmade or natural),
+
+33.6.1.3. Render humanitarian services, and;
+
+33.6.1.4. Assist in the protection of the environment.
+
+33.7. **The Gambia Prison Services (GPS)**
+
+33.7.1. The GPS is established under Section 182 of the constitution with
+
+the mandate to:
+
+33.7.1.1. Maintain the safety of inmates under custody which
+
+includes their welfare, shelter and food and
+
+33.7.1.2. To reform and rehabilitate.
+
+33.7.1.3. To reintegrate inmate back to the society.
+
+33.8. **The Gambia Revenue Authority (Custom and Excise)**
+
+33.8.1. The Gambia Revenue Authority is a merger of the former Customs
+
+& Excise and Domestic Taxes Departments for the purpose of
+
+maximizing revenue collection and also brings about economic
+
+**32 of 45**
+
+
+-----
+
+sovereignty and self-reliance as a country. It was established in 2004
+
+by an Act of the National Assembly.
+
+33.8.2. The main mandate of the department are as follows:
+
+33.8.2.1. Collect revenue on all taxable imports;
+
+33.8.2.2. Collection of trade statistics for GBOS and other
+
+stakeholders;
+
+33.8.2.3. Preventing illegal exports and imports.
+
+33.8.2.4. Processing of cargo, including documentary checks
+
+and physical examination of goods imported into the
+
+country.
+
+33.8.2.5. Surveillance of coastal and land borders to prevent
+
+smuggling activities.
+
+33.8.2.6. Protection of external borders from illegal aliens,
+
+drugs and other criminal activities.
+
+33.8.2.7. To implement and manage free trade agreements with
+
+other Customs Administration with a view to
+
+facilitate international trade and the free movement of
+
+persons across our national border.
+
+33.8.2.8. Protecting intellectual property rights.
+
+33.8.2.9. To collaborate with other security agencies to conduct
+
+joint security operations.
+
+**33 of 45**
+
+
+-----
+
+**SECURITY SECTOR RESPONSE**
+
+34. In pursuance of its aspirations to enhance professional competence, effectiveness and
+
+collaboration, this policy directs the establishment and implementation offlagship programs as
+
+follows:
+
+34.1. Support the establishment and operationalization of the Office of National
+
+Security.
+
+34.2. Reorganization, right-sizing and restructuring of defense and security forces into
+
+professional, representative and balanced forces;
+
+34.3. Judicial and correctional reforms to ensure access to justice for all people in the
+
+Gambia;
+
+34.4. Rehabilitation and (re) construction of infrastructure;
+
+34.5. Building of material and human capacities;
+
+34.6. Strengthening civilian oversight and the democratic control of the defence forces
+
+and security services, including the reform of governance and security
+
+institutions;
+
+34.7. Fight against the proliferation of weapons
+
+34.8. Fight against impunity, ensure transitional justice
+
+34.9. Rehabilitation and reconstruction of administrative structures
+
+34.10. Strengthening of the administration in regions and districts
+
+**34 of 45**
+
+
+-----
+
+34.11. Promotion of national unity and cohesion
+
+34.12. Promote and institutionalize democratic governance
+
+34.13. Coordinate institutional reforms
+
+34.14. Support capacity building of the administrative and local authorities
+
+34.15. Strengthen diplomacy (bilateral, multilateral and international relations and
+
+cooperation)
+
+34.16. Fight against corruption, favoritism and nepotism
+
+34.17. Respect, protect and fulfil human rights principles and standards
+
+34.18. Improve public financial management
+
+34.19. Advocate for a transparent and accountable management of natural resources
+
+34.20. Support capacity building of civil society and the media
+
+34.21. Encourage the promotion of gender equity
+
+34.22. Create an enabling environment for economic recovery and sustainable growth
+
+34.23. Advocate for the expansion and strengthening of public services (water,
+
+electricity, etc.) and basic social services (health and education) throughout the
+
+country
+
+34.24. Advocate development of basic infrastructure (roads, telephone networks and
+
+internet services, Seaport)
+
+**35 of 45**
+
+
+-----
+
+34.25. Promote environmental management and climate change mitigation
+
+34.26. Mobilize resources
+
+34.27. Create employment opportunities
+
+**JOINT HUMAN RESOURCE DEVELOPMENT**
+
+35. **Joint Human Resource Development Center. The establishment of a Human Resource**
+
+Development Center is required to provide a joint holistic capacity. This joint facility shall be
+under the purview of the National Security Council. The focus of this joint facility shall be:
+
+35.1. To attract and retain quality personnel.
+
+35.2. To enhance the professionalism of security personnel.
+
+35.3. To enhance inter-operability of the security sector.
+
+35.4. To enhance the judicious use of resources.
+
+36. **Appointments. The appointment of the following members is essential for the Gambia**
+
+Security Sector governance and management forward:
+
+36.1. The minister of defense.
+
+36.2. National Security Adviser (NSA), and a Deputy NSA.
+
+37. **Joint Medical Facility. This provides for the establishment of a joint medical facility to**
+
+cater for personnel of all the security institutions.
+
+**36 of 45**
+
+
+-----
+
+**OVERSIGHT AND REVIEW MECHANISM**
+
+38. An effective oversight body will help to deter corruption, promote independent and
+
+unbiased monitoring and investigation and ensure that public officials correctly exercise the power
+
+conferred upon them. In other words, a proficient oversight will also help to reduce incidents of
+
+human rights violations by members of the security sector and foster better relationship between
+
+them and the civilian population.
+
+38.1. **Oversight Architecture.**
+
+38.1.1. The priority of the oversight framework is to ensure that the security
+
+sector bodies do conform to laws, policies, rules and regulations that
+
+govern them.
+
+38.1.2. A critical requirement for the implementation of this policy is a
+
+functional democratic control and enhanced oversight mechanisms
+
+that are effective and efficient through a legitimate governance
+
+framework or architecture. This will facilitate the creation of a
+
+highly professional and law-abiding security sector that is responsive
+
+to the security needs of the people and subordinate to civilian
+
+authority, by adhering to the principles of human rights and
+
+committed to the rule of law.
+
+38.2. **The Legislature.The role of the National Assembly with respect to the security**
+
+sector resides in its function as the source of legitimacy of all security
+
+institutions. According to the 1997 Constitution, “no person shall raise any
+
+police service except by and under the authority of an Act of Parliament.” A
+
+subsequent article makes a similar statement concerning raising an armed force
+
+the key mandate of the standing committee on Security is to provide
+
+parliamentary oversight to ensure accountability and transparency in the Security
+
+sector.
+
+**37 of 45**
+
+
+-----
+
+38.3. **The Judiciary. The Judiciary controls and oversees the security sector by**
+
+ensuring that the use of intrusive powers without constitutional and legislative
+
+justification are curtailed. The judiciary will also support the prohibition of the
+
+limitation of the rights and freedoms of the citizens through the use of unlawful
+
+intrusive operational methods.
+
+38.4. **The Executive.The Gambia’s political and institutional systems are based on a**
+
+separation of powers between the Executive, Legislature and the Judiciary. The
+
+1997 Constitution adequately stipulates the authority of executive oversight of
+
+the security sector. As the Commander-in-Chief of the Armed Forces, the
+
+President has the constitutional mandate to oversee the security services. In
+
+keeping with good governance principles, the executive should ensure that all
+
+institutions establish internal checks and balances or internal monitoring
+
+mechanisms.
+
+38.5. **Independent Civil bodies.In keeping with the spirit of the Constitutive Act of**
+
+the African Union, which, among other things, underscores the need for peace,
+
+security, stability and human rights based on people’s participation, inclusion
+
+and ownership of democratic processes, empowers the office of the ombudsman
+
+as a designated civil institution to investigate complaints from the public and
+
+service members, and to monitor compliance of the security sector with
+
+applicable national and international law, including international humanitarian
+
+and human rights law.
+
+39. A review mechanism should be established to examine the NSP on regular basis, at least
+
+every 5 years, and upon major changes in the national, regional and international security arena.
+
+A committee of major national stakeholders shall conduct these periodic reviews of the NSP. The
+
+purpose of the review is to align existing policy with prevailing political, economic and social
+
+realities of the country.
+
+**38 of 45**
+
+
+-----
+
+**CHAPTER 3: POLICY SUPPORT ARRANGEMENTS**
+
+**PARTNERSHIP AND COLLABORATION**
+
+40. The NSP is the overarching framework of National Security directing, amongst others,
+
+what strategic pathways each individual security organ must follow to enable the collective
+
+achievement of the national security aspirations of the people of The Gambia. While the realization
+
+of these objectives primarily lie with the people of the Gambia, it is nonetheless critical that
+
+strategic, tactical and technical partnerships through bilateral/multilateral security
+
+protocols/agreements are sought for this journey.
+
+41. On the other hand, and particularly important will be the need to galvanize partnership and
+
+collaboration with the donor community/partners for both the NSP and the subsequent security
+
+sector wide reforms necessary to implement the Policy.The already demonstrated fervor, from
+
+donor partners and specialized agencies through the deployment of critical resources is well noted
+
+and quite encouraging. Such commitment needs to be harness to deliver the resultant values aspired
+
+in the policy document, as well as, embedded in the follow-on SSR.
+
+42. Similarly Inter Services Technical and Social/Welfare partnership and
+
+collaboration,should be an integral part of the institutional relationships.Technical cooperation as
+
+it relates to joint operations and coordination of separate but overlapping functions are a
+
+prerequisite for sector wide effectiveness and efficiency. Mutually reinforcing and therefore very
+
+important is the need for the development of inter-services socialization and welfare partnerships
+
+and collaborations for the primary purpose of enhancing Esprit de Corps amongst the services.
+
+43. The Services should build bridges with the NGOs, CBOs/CSOs and the public at large as
+
+a conduit to enhance aiding civil defence capacity and resilience.Invariably,such a close
+
+relationship will facilitate the development of the necessary environment for the Services and the
+
+people to complement each other for greater national security.
+
+**39 of 45**
+
+
+-----
+
+44. **The Role of Civil Society Organizations.**
+
+44.1. In the spirit of the objectives and principles of the constitutive Act of the African
+
+Union and the Statues of the Economic, Social and Cultural Council
+
+(ECOSOCC), the Government of The Gambia remains committed to ensure the
+
+participation of CSOs in the needs assessment, formulation, adoption,
+
+implementation, monitoring and evaluation of the security sector policy. The
+
+civil society organizations (CSOs)can address communal violence and promote
+
+human security through development, human rights monitoring and mitigate
+
+environmental degradation.
+
+44.2. In this regard, government encourages CSOs to play a positive role in enhancing
+
+security sector responsiveness to the security and justice needs of the state and
+
+people within the ambit of the law. Furthermore, they are urge to continue to
+
+alleviate social tensions and conflict, through the facilitation and promotion of
+
+dialogue, tolerance and the culture of peace.
+
+45. **The Gambia - Senegal Relationship. As mentioned earlier the Gambia, being contiguous**
+
+to Senegal on all sides except to the west (Atlantic Coast), provides ample opportunity for security
+
+cooperation and socio-economic development of both countries.
+
+46. **International Cooperation and Collaboration.** The support of the international
+
+community to the security sector reform and the transitional justice process, offer viable
+
+opportunities for the country to establish strong national cohesion, unity, peace and security upon
+
+which national development could be anchored. This is an invaluable opportunity that should be
+
+effectively exploited.
+
+**40 of 45**
+
+
+-----
+
+**RESOURCE MOBILIZATIONAND COORDINATION**
+
+47. Over the years, National Treasury has been the major source of funds for security activities,
+
+therefore all resources allocated must be used prudently. The wellbeing of the country depends on
+
+how the country is protected, hence the Gambian people expect effective delivery of defence and
+
+protection. Thepercentage of the annual budget allocated to the security sector should therefore be
+
+prudently utilized through sustainable spending by security institutions. In the same vein, it should
+
+be realistically based on the security needs and requirements of the country.
+
+48. It must be understood that security capabilities and preparedness are tied to the availability
+
+of resources. This should call for a regular review of the financial and material resources
+
+management that will enhance effective and efficient service delivery by the security sector.
+
+Therefore, mobilization strategies should explore an expanded range of resources from both
+
+localand international sources by focusing on the deepening of relations with existing and
+
+prospective donor partners.
+
+**COMMUNICATION**
+
+49. A comprehensive Communication strategy is vital to incorporate the media outfits, Internet
+
+services and satellite/cable television channels, think-tanks, civil society organizations and other
+
+platforms as a mechanism for information sharing, advocacy, innovation and feedback on key
+
+security issues with national and international dimensions.
+
+50. This will address the need to inform the people of the concerns and security challenges
+
+affecting their well-being, livelihood and their future. This will foster cooperation to ensure safety
+
+and help restore public trust in the security sector.
+
+51. Therefore, this policy directs that the government devotes the required resources to
+
+efficiently manage the information and effectively communicate its message to the public at all
+
+times. This policy directs that all security institutions comply fully with the above requirements.
+
+**41 of 45**
+
+
+-----
+
+**WAYFORWARD**
+
+52. The development of this NSP will be followed by the development of National Security
+
+Strategy and other polices/strategies, such as Defence Policy, Safety and Security Policy, Judicial
+
+Policy, Maritime Security Policyetc.
+
+53. There should be the establishment of a National Security Policy Monitoring Committee to
+
+be chaired by the Secretary General and Head of Civil Service. The committee shall be responsible
+
+for the management of the NSP and Subordinate Security Policies.
+
+**42 of 45**
+
+
+-----
+
