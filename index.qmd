@@ -83,7 +83,7 @@ world_data <- world_map %>%
 world_data$num_documents[is.na(world_data$num_documents)] <- 0
 
 # Create color palette
-bins <- c(0, 1, 5, 10, 20, 50, 100, Inf)
+bins <- c(0, 1, 5, 10, 15, 20, 25, 30)
 pal <- colorBin("Purples", domain = world_data$num_documents, bins = bins)
 
 # Create the leaflet map

@@ -18,7 +18,7 @@ website:
 
     style: "docked"
     search: true
-    collapse-level: 1
+    collapse-level: 2
     contents:
       - href: index.qmd
         text: Home
