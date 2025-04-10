@@ -93,20 +93,6 @@
     "text": "Figure 1\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6"
   },
   {
-    "objectID": "623b1483e89c1853/content/penguins.html",
-    "href": "623b1483e89c1853/content/penguins.html",
-    "title": "Penguins",
-    "section": "",
-    "text": "penguins"
-  },
-  {
-    "objectID": "623b1483e89c1853/content/Untitled.html",
-    "href": "623b1483e89c1853/content/Untitled.html",
-    "title": "Penguins",
-    "section": "",
-    "text": "data = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })"
-  },
-  {
     "objectID": "content/wordcloud.html",
     "href": "content/wordcloud.html",
     "title": "ROCCA Word Clouds",
