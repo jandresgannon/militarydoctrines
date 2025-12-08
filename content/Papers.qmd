@@ -1,5 +1,5 @@
 ---
-title: "Paper"
+title: "Paper (in progress)"
 page-layout: full
 format:
   html:
@@ -7,21 +7,23 @@ format:
     css: styles.css
     citations-hover: true
     footnotes-hover: true
-editor: visual
+editor: source
 execute:
   echo: false
   warning: false
   cache: false
 ---
 
-**Gannon, J Andrés. (2025) "Fighting Words: A computational text analysis of affective salience in national security strategies". Working paper.**
+**Gannon, J Andrés. (2025) "A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies". Working paper.**
 
-[Abstract]{.underline}: States produce detailed public accounts of their defense priorities through NSS documents and white papers. But do these reveal meaningful insights into interstate relations or are these merely bureaucratic rhetoric? This paper redefines NSS documents as dynamic, performative texts constructing state social intimacy. Using large language models, sentiment analysis, and advanced stance detection, I develop an asymmetric index of affective salience capturing both the prominence of states in NSS texts (salience) and their evaluative orientations (affinity). An analysis of over 400 documents from 92 countries (1962–2024) shows that salience is best explained by economic interdependence, that affinity mirrors traditional indicators of alliance and rivalry, and that affective salience predicts international crises as well as interstate diplomacy. Ultimately, the study challenges the cheap talk narrative and offers a robust framework for anticipating emerging security dynamics.
+[Abstract]{.underline}: This study develops and validates a novel text-as-data method for measuring interstate relations from political texts. Building on advances in natural language processing, I construct a directed dyad-year index of a state’s expressed salience (prominence) and affinity (evaluative stance) toward other states in its national security strategy. The measure is derived through a pipeline that integrates sentence-level segmentation, entity recognition, sentiment analysis, stance detection, and best–worst scaling calibration. Applied to a new corpus of 438 national security strategy documents issued by 92 countries (1962–2024), the approach produces reliable, continuous measures of interstate posture that closely track but also meaningfully diverge from traditional benchmarks such as alliance portfolios and UN voting patterns. This methodological contribution provides scholars with a replicable tool for extracting conveyed relationships from a wide range of political texts, enabling new insights into the articulation of political relationships.
 
-::: {layout-ncol="2"}
+::: {layout-ncol="3"}
 [![Pre-print](images/stock/pdf.png){fig-align="left" width="55"}](/content/files/FightingWords_Gannon.pdf)
 
-[![Github Repo](images/stock/github.png){alt="Github Repo" fig-align="left" width="55"}](https://github.com/jandresgannon/nss)
+[![Slides](images/stock/powerpoint.png){fig-align="left" width="100"}](/content/files/FightingWords-slides_Gannon.pdf)
+
+[![Github Repo (under construction)](images/stock/github.png){alt="Github Repo" fig-align="left" width="55"}](https://github.com)
 :::
 
 ```{r}

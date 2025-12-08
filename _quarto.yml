@@ -29,13 +29,11 @@ website:
       - section: "Data"
         contents:
           - href: content/PDF.qmd
-            text: pdf
-          - href: content/CSV.qmd
-            text: csv
+            text: pdf files
           - href: content/TXT.qmd
-            text: txt
-      - href: content/Selected_Viz.qmd
-        text: Visualizations         
+            text: text files
+          - href: content/CSV.qmd
+            text: csv files
 
 format:
   html:

@@ -1,6 +1,6 @@
 ---
-title: "TXT Data"
-description: "Download data in TXT format"
+title: "Text Format"
+description: "View and download the documents in .txt file format"
 page-layout: full
 format:
   html:
@@ -8,35 +8,27 @@ format:
     css: styles.css
     citations-hover: true
     footnotes-hover: true
-editor: visual
+editor: source
 execute:
   echo: false
   warning: false
   cache: false
 ---
 
+- [All NSS .txt documents](https://www.dropbox.com/scl/fo/nvz2tl3p1yde8x5t14o1r/ABMuD2p6Ubx75_dbarWtUzA?rlkey=r94e8mwgl5lg5hsgi457ey36i&dl=0)
+
 ```{r knitr_options}
 coverage_df <- read.csv("data_copy/country_year_coverage.csv")
 metadata <- read.csv("data_copy/nss_metadata.csv")
-```
-
-```{r}
 affective_salience <- read.csv("data_copy/affective_salience.csv")
-
+all_summary_df <- read.csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
+all_country_aliases <- readRDS("data_copy/country_aliases.rds")
 ```
 
 ```{r}
 library(tidyverse)
 library(ggplot2)
 library(htmltools)
-```
-
-```{r}
-all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
-all_country_aliases <- readRDS("data_copy/country_aliases.rds")
-```
-
-```{r}
 library(dplyr)
 library(downloadthis)
 ```
@@ -83,19 +75,22 @@ generate_country_panels <- function() {
     
     # Format display name with proper capitalization
     display_name <- case_when(
-      country_data$country_name == "southkorea" ~ "South Korea",
-      country_data$country_name == "southafrica" ~ "South Africa",
       country_data$country_name == "centralafricanrepublic" ~ "Central African Republic",
-      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
+      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "cookislands" ~ "Cook Islands",
+      country_data$country_name == "costarica" ~ "Costa Rica",
       country_data$country_name == "czechrepublic" ~ "Czech Republic",
-      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
-      country_data$country_name == "us" ~ "United States",
+      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
       country_data$country_name == "newzealand" ~ "New Zealand",     
       country_data$country_name == "northmacedonia" ~ "North Macedonia",    
-      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "sierraleone" ~ "Sierra Leone",
       country_data$country_name == "solomonislands" ~ "Solomon Islands",       
+      country_data$country_name == "southkorea" ~ "South Korea",
+      country_data$country_name == "southafrica" ~ "South Africa",
       country_data$country_name == "timor-leste" ~ "Timor Leste",  
       country_data$country_name == "trinidadandtobago" ~ "Trinidad and Tobago",        
+      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
+      country_data$country_name == "us" ~ "United States",
       # Add any other special cases here
       TRUE ~ tools::toTitleCase(country_data$country_name)  # Default case with proper capitalization
     )

@@ -7,7 +7,7 @@ format:
     css: styles.css
     citations-hover: true
     footnotes-hover: true
-editor: visual
+editor: source
 execute:
   echo: false
   warning: false

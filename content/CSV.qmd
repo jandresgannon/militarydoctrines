@@ -1,13 +1,13 @@
 ---
-title: "CSV Data"
-description: "Download data in CSV format"
+title: "CSV Format"
+description: "View and download each document in .csv file format"
 format:
   html:
     html-math-method: katex
     css: styles.css
     citations-hover: true
     footnotes-hover: true
-editor: visual
+editor: source
 execute:
   echo: false
   warning: false
@@ -17,10 +17,13 @@ execute:
 ```{r}
 library(dplyr)
 library(downloadthis)
+library(tidyverse)
+library(ggplot2)
+library(htmltools)
 ```
 
--   [nss_metadata_all_txts.csv](data_copy/nss_metadata_all_txts.csv)
--   [nss_metadata](data_copy/nss_metadata.csv)
+-   [Metadata](data_copy/nss_metadata_all_txts.csv)
+-   [All NSS documents in a single .csv (190MB file)](https://www.dropbox.com/scl/fi/e3cv6oo7gjlb3lg9mfwnu/01b_nss-doctrine-text.csv?rlkey=wh2qvebmodaq5nlr8u9jrte3g&dl=1)
 
 ```{r}
 # download_dir(
@@ -37,27 +40,8 @@ library(downloadthis)
 ```{r knitr_options}
 coverage_df <- read.csv("data_copy/country_year_coverage.csv")
 metadata <- read.csv("data_copy/nss_metadata.csv")
-```
-
-```{r}
-affective_salience <- read.csv("data_copy/affective_salience.csv")
-
-```
-
-```{r}
-library(tidyverse)
-library(ggplot2)
-library(htmltools)
-```
-
-```{r}
 all_summary_df <- read_csv("data_copy/directed_dyad_aggregated_directed_stance.csv")
 all_country_aliases <- readRDS("data_copy/country_aliases.rds")
-```
-
-```{r}
-library(dplyr)
-library(downloadthis)
 ```
 
 ```{r}
@@ -90,19 +74,22 @@ generate_country_panels <- function() {
     
     # Format display name with proper capitalization
     display_name <- case_when(
-      country_data$country_name == "southkorea" ~ "South Korea",
-      country_data$country_name == "southafrica" ~ "South Africa",
       country_data$country_name == "centralafricanrepublic" ~ "Central African Republic",
-      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
+      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "cookislands" ~ "Cook Islands",
+      country_data$country_name == "costarica" ~ "Costa Rica",
       country_data$country_name == "czechrepublic" ~ "Czech Republic",
-      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
-      country_data$country_name == "us" ~ "United States",
+      country_data$country_name == "dominicanrepublic" ~ "Dominican Republic",
       country_data$country_name == "newzealand" ~ "New Zealand",     
       country_data$country_name == "northmacedonia" ~ "North Macedonia",    
-      country_data$country_name == "burkinafaso" ~ "Burkina Faso",  
+      country_data$country_name == "sierraleone" ~ "Sierra Leone",
       country_data$country_name == "solomonislands" ~ "Solomon Islands",       
+      country_data$country_name == "southkorea" ~ "South Korea",
+      country_data$country_name == "southafrica" ~ "South Africa",
       country_data$country_name == "timor-leste" ~ "Timor Leste",  
       country_data$country_name == "trinidadandtobago" ~ "Trinidad and Tobago",        
+      country_data$country_name == "unitedkingdom" ~ "United Kingdom",
+      country_data$country_name == "us" ~ "United States",
       # Add any other special cases here
       TRUE ~ tools::toTitleCase(country_data$country_name)  # Default case with proper capitalization
     )
@@ -173,12 +160,6 @@ generate_country_panels <- function() {
                 tags$span(class = "doc-lang", sprintf("(%s, %s)", doc$language, doc$year)),
                 tags$div(
                   class = "download-buttons",
-                  tags$a(
-                    href = file_path,
-                    target = "_blank",
-                    class = "view-btn",
-                    "View"
-                  ),
                   tags$a(
                     href = file_path,
                     download = basename(file_path),
@@ -307,20 +288,10 @@ generate_country_panels <- function() {
   transition: background-color 0.2s;
 }
 
-.view-btn {
-  background-color: #e9ecef;
-  color: #495057;
-  border: 1px solid #ced4da;
-}
-
 .download-btn {
   background-color: #4c78a8;
   color: white;
   border: 1px solid #4c78a8;
-}
-
-.view-btn:hover {
-  background-color: #dee2e6;
 }
 
 .download-btn:hover {
