@@ -39,6 +39,16 @@ PDFs are too large for GitHub Pages. The site links to them in the shared Dropbo
 
 `content/data_copy/txt_files/`, `csv_files/` and the `*.zip` bulk downloads (about 500 MB) are gitignored on `main`. Step 2 regenerates them, and `docs/02_publish.sh` commits them to `gh-pages`.
 
-## DOI
+## DOI (Harvard Dataverse)
 
-The dataset citation has no DOI yet. To add one, deposit a release on Zenodo (metadata CSV, the two zips, the PDF zip and the codebook), then add the DOI to `content/_citation.md`.
+`Rscript docs/03_dataverse-package.R <version>` builds a release in `~/militarydoctrines-dataverse/<version>/`. It sits outside Dropbox because it is about 9.5 GB. The release contains:
+
+- `upload/`: the files to upload
+  - the metadata
+  - a single full-text table
+  - zips of the texts, the chunks, and the PDFs (in parts under Dataverse's 2.5 GB per-file limit)
+  - a README with the codebook
+- `FORM_FIELDS.md`: suggested Dataverse metadata
+- `UPLOAD_NOTES.md`: upload steps, including why each zip is wrapped in another zip
+
+Run `docs/01_sync-corpus.R` first. After the dataset is published, add the DOI to `content/_citation.md`.
