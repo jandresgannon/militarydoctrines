@@ -31,6 +31,7 @@ zip_mb <- function(f) sprintf("%.0f MB", file.size(here::here("content", "data_c
 | [All full texts (.zip, `r zip_mb("nss_txt_all.zip")`)](data_copy/nss_txt_all.zip) | One `.txt` file per document, plus the metadata. |
 | [All chunked texts (.zip, `r zip_mb("nss_chunks_all.zip")`)](data_copy/nss_chunks_all.zip) | One `_chunks.csv` file per document, plus the metadata. |
 | [All texts in one table (.csv, ~190 MB)](`r text_csv`) | Page-level text for every document in a single file. |
+| [Harvard Dataverse archive](https://doi.org/10.7910/DVN/OHOMP8) | The versioned, citable release (2026.11): metadata, full texts, chunked texts, and PDFs, with a DOI. |
 | [All PDFs (.zip, ~10 GB)](`r pdf_zip`) · [PDF folder](`r pdf_folder`) | The original documents as published. |
 
 ## Browse documents

@@ -19,6 +19,7 @@ version <- if (length(args)) args[1] else stop("Give the release version, e.g. 2
 out_root <- Sys.getenv("DATAVERSE_OUT", file.path(Sys.getenv("HOME"), "militarydoctrines-dataverse"))
 pdf_public <- Sys.getenv("PDF_PUBLIC_DIR",
                          here::here("..", "00_Archive", "03_Hopper", "data", "doctrines"))
+doi      <- Sys.getenv("DATAVERSE_DOI", "https://doi.org/10.7910/DVN/OHOMP8")
 max_part <- 2.3e9                     # Harvard Dataverse web upload limit is 2.5 GB/file
 
 out    <- file.path(out_root, version)
@@ -133,7 +134,7 @@ readme <- c(
   "",
   "## Citation",
   "",
-  sprintf("Gannon, J Andrés. 2026. *Military Doctrines: A Corpus of National Security Strategy Documents*. Version %s. Harvard Dataverse. [DOI]", version),
+  sprintf("Gannon, J Andrés. 2026. *Military Doctrines: A Corpus of National Security Strategy Documents*. Version %s. Harvard Dataverse. %s", version, doi),
   "",
   "Gannon, J Andrés. \"A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.\" Working paper.",
   ""

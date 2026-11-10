@@ -8,6 +8,7 @@ Releases are named by year and month. Cite the version you used (see [How to cit
 
 ## 2026.11
 
+- Archived on Harvard Dataverse: <https://doi.org/10.7910/DVN/OHOMP8>.
 - Corpus synchronized with the project's master document inventory; text and chunked-text files are now named exactly as in the metadata, which fixes links that previously failed for 36 documents.
 - Added New Zealand's 2000 *Government Defence Policy*, Argentina's 2018 *National Defence Policy*, and the English-language edition of Croatia's 2018 *Strategic Defence Review*.
 - Re-extracted text for Taiwan 2008, Bulgaria 2010, and Denmark 2010 to repair spacing and extraction errors.
