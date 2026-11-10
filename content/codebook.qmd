@@ -1,0 +1,64 @@
+---
+title: "Codebook"
+description: "Files, variables, and processing behind the corpus"
+editor: source
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+docs <- readRDS(here::here("data", "documents.rds"))
+```
+
+## Unit and scope
+
+One record is one document: a national security strategy, defense white paper, military doctrine, or related strategy document issued by a government (or the European Union) in a given year. The catalog currently holds `r nrow(docs)` documents, of which `r sum(docs$keep)` form the core corpus (see `keep` below).
+
+## File naming
+
+Every file shares a stem built from the metadata:
+
+```
+{country_name}_{year}_{TitleWithoutSpaces}[_noneng]
+```
+
+The `_noneng` suffix marks documents not written in English. The same stem names the PDF (`.pdf`), the full text (`.txt`), and the chunked text (`_chunks.csv`), so the three versions of a document can always be matched.
+
+## Metadata (`nss_metadata.csv`)
+
+| Variable | Description |
+|---|---|
+| `file_names` | Name of the original PDF; the stem links it to the text files. |
+| `country_name` | Issuing country, lowercase with spaces removed (e.g. `southkorea`, `us`, `eu`). |
+| `year` | Year of publication. |
+| `title` | Document title (English translation for non-English documents). |
+| `language` | `eng` for English-language documents, `noneng` otherwise. |
+| `keep` | `1` = core corpus: whole-of-government national security and defense strategy documents. `0` = catalogued but outside that scope, such as sectoral strategies (cyber, counterterrorism), corporate and investment plans, foreign-policy white papers, and duplicate editions. Both are available for download. |
+| `type` | Issue-specific strategies: `cyber` or `terrorism`; blank for general strategy documents. |
+
+## Full text (`.txt`)
+
+Text extracted from the PDF and saved as Markdown-flavored plain text. Documents with clean digital text were extracted with [pymupdf4llm](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/); scanned or difficult documents were processed with the OCR-based [Marker](https://github.com/datalab-to/marker) pipeline. The text keeps headings, tables, and page furniture as extracted, so it can contain OCR errors, image placeholders such as `![](...)`, and running headers. Non-English documents are provided in their original language.
+
+## Chunked text (`_chunks.csv`)
+
+Each document's text split into chunks of at most about 128 tokens within Markdown sections, for text-as-data work. Text is lowercased.
+
+| Variable | Description |
+|---|---|
+| `chunk_id` | Position of the chunk within the document, starting at 1. |
+| `text` | Chunk text. |
+| `char_length`, `word_count`, `token_count` | Length of the chunk in characters, words, and model tokens. |
+| `section_index` | Index of the document section the chunk belongs to. |
+| `source_file` | Text file the chunk was built from. |
+| `processed_date` | When the chunk was produced. |
+
+## All texts in one table
+
+The single-file download holds page-level text for every document, with columns `doc_text`, `doc_type`, `doc_number` (page), `doc_name` (file stem), `year`, `country`, `cow_code`, and `cow_alpha` (Correlates of War country codes).
+
+## Citation
+
+{{< include _citation.md >}}

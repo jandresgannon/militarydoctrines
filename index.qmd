@@ -1,121 +1,66 @@
 ---
 title: "Military Doctrines Dataset"
 page-layout: full
-format:
-  html:
-    html-math-method: katex
-    css: styles.css
-    citations-hover: true
-    footnotes-hover: true
-editor: visual
+editor: source
 execute:
   echo: false
   warning: false
-  cache: false
+  message: false
 ---
 
 ```{r}
-library(leaflet)
-library(dplyr)
-library(sf)
-library(rnaturalearth)
-library(rnaturalearthdata)
-library(countrycode)
-library(DT)
-library(htmltools)
+docs <- readRDS(here::here("data", "documents.rds"))
+
+n_docs     <- nrow(docs)
+n_issuers  <- dplyr::n_distinct(docs$country_name)
+year_range <- range(docs$year)
 ```
 
-```{r knitr_options}
-coverage_df <- read.csv("content/data_copy/country_year_coverage.csv")
-metadata <- read.csv("content/data_copy/nss_metadata.csv")
-```
+The Military Doctrines dataset is a catalog of `r format(n_docs, big.mark = ",")` national security strategies, defense white papers, and related strategy documents issued by `r n_issuers` countries, territories, and organizations from `r year_range[1]` to `r year_range[2]`. The documents are collected from government websites and other online repositories in their original PDF format and converted into machine-readable text and chunked CSV formats. All three versions can be [browsed and downloaded](content/data.qmd); the [codebook](content/codebook.qmd) documents the files and variables, and the [changelog](content/changelog.qmd) records what changed in each release.
 
-The Military Doctrines dataset is a catalog of `r metadata |> nrow()` National Security Strategy (NSS) documents spanning `r metadata |> dplyr::summarise(dplyr::n_distinct(country_name)) |> dplyr::pull()` countries from `r metadata |> dplyr::summarize(min = min(year)) |> pull()` to `r metadata |> dplyr::summarize(max = max(year)) |> pull()`. The data are sourced from government websites and other online repositories in their original pdf format and are organized into machine-readable text and csv formats, which you can browse and download from this website.
-
-The Military Doctrines project is led by [J Andrés Gannon](http://jandresgannon.com/), Assistant Professor of Political Science at [Vanderbilt University](https://as.vanderbilt.edu/political-science/bio/andres-gannon-/).
+The Military Doctrines project is led by [J Andrés Gannon](https://jandresgannon.com/), Assistant Professor of Political Science at [Vanderbilt University](https://as.vanderbilt.edu/political-science/bio/andres-gannon-/).
 
 ```{r}
-# Get world map data as sf object
-world_map <- ne_countries(scale = "medium", returnclass = "sf")
+counts <- docs |>
+  dplyr::filter(!is.na(iso3)) |>
+  dplyr::group_by(iso3) |>
+  dplyr::summarise(country = dplyr::first(country),
+                   num_documents = dplyr::n(),
+                   first_year = min(year), last_year = max(year),
+                   .groups = "drop")
 
-# Aggregate document counts by country
-document_counts <- coverage_df %>%
-  group_by(cname) %>%
-  summarise(num_documents = sum(coded, na.rm = TRUE)) %>%
-  ungroup()
-```
-
-```{r}
-world_map <- world_map |> 
-  mutate(cc_name = countrycode(sourcevar = name,
-                               origin = "country.name.en.regex",  
-                               destination = "cown")) |>
-  mutate(name = case_when(
-    name == "Micronesia" ~ "Federated States of Micronesia",
-    name == "S. Sudan" ~ "South Sudan",
-    name == "St. Vin. and Gren" ~ "St. Vincent & Grenadines",
-    name == "Côte d'Ivoire" ~ "Ivory Coast", 
-    name == "Dem. Rep. Congo" ~  "Democratic Republic of the Congo", 
-    name == "Marshall Is." ~ "Marshall Islands",
-    name == "Czechia" ~ "Czech Republic", 
-    TRUE ~ name  # Keep other names unchanged
-  ))
-```
-
-```{r}
-country_match <- data.frame(
-  cname = unique(coverage_df$cname),
-  name = unique(coverage_df$cname)  
-)
-```
-
-```{r}
-doc_counts_matched <- document_counts %>%
-  left_join(country_match, by = "cname")
-```
-
-```{r}
-# Join with world map
-world_data <- world_map %>%
-  left_join(doc_counts_matched, by = c("name" = "name"))
-
-# Replace NA values with 0 for countries with no documents
-world_data$num_documents[is.na(world_data$num_documents)] <- 0
-
-# Create color palette
-bins <- c(0, 1, 5, 10, 15, 20, 25, 30)
-pal <- colorBin("Purples", domain = world_data$num_documents, bins = bins)
-
-# Create the leaflet map
-leaflet(world_data) %>%
-  addTiles() %>%
-  setView(lng = 0, lat = 30, zoom = 2) %>%
-  addPolygons(
-    fillColor = ~pal(num_documents),
-    weight = 1,
-    opacity = 1,
-    color = "white",
-    dashArray = "3",
-    fillOpacity = 0.7,
-    highlightOptions = highlightOptions(
-      weight = 2,
-      color = "#666",
-      dashArray = "",
-      fillOpacity = 0.7,
-      bringToFront = TRUE
-    ),
-    label = ~paste0(name, ": ", num_documents, " documents"),
-    labelOptions = labelOptions(
-      style = list("font-weight" = "normal", padding = "3px 8px"),
-      textsize = "15px",
-      direction = "auto"
+world <- rnaturalearth::ne_countries(scale = "medium", returnclass = "sf") |>
+  dplyr::select(adm0_a3, name) |>
+  dplyr::left_join(counts, by = c("adm0_a3" = "iso3")) |>
+  dplyr::mutate(
+    num_documents = dplyr::coalesce(num_documents, 0L),
+    label = dplyr::if_else(
+      num_documents > 0,
+      sprintf("%s: %d documents (%d–%d)", country, num_documents, first_year, last_year),
+      sprintf("%s: no documents", name)
     )
-  ) %>%
-  addLegend(
-    position = "bottomright",
-    pal = pal,
-    values = ~num_documents,
-    title = "Number of Documents",
-    opacity = 0.7
   )
+
+bins <- sort(unique(c(0, 1, 5, 10, 20, 40, max(world$num_documents) + 1)))
+pal <- leaflet::colorBin("Purples", domain = world$num_documents, bins = bins, right = FALSE)
+
+leaflet::leaflet(world) |>
+  leaflet::addTiles() |>
+  leaflet::setView(lng = 0, lat = 30, zoom = 2) |>
+  leaflet::addPolygons(
+    fillColor = ~pal(num_documents),
+    weight = 1, opacity = 1, color = "white", dashArray = "3", fillOpacity = 0.7,
+    highlightOptions = leaflet::highlightOptions(weight = 2, color = "#666", dashArray = "",
+                                                 fillOpacity = 0.7, bringToFront = TRUE),
+    label = ~label,
+    labelOptions = leaflet::labelOptions(style = list("font-weight" = "normal", padding = "3px 8px"),
+                                         textsize = "15px", direction = "auto")
+  ) |>
+  leaflet::addLegend(position = "bottomright", pal = pal, values = ~num_documents,
+                     title = "Documents", opacity = 0.7,
+                     labFormat = leaflet::labelFormat(between = "–"))
 ```
+
+## How to cite
+
+{{< include content/_citation.md >}}

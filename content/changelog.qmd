@@ -1,0 +1,28 @@
+---
+title: "Changelog"
+description: "What changed in each release of the corpus"
+editor: source
+---
+
+Releases are named by year and month. Cite the version you used (see [How to cite](../index.qmd#how-to-cite)).
+
+## 2026.11
+
+- Corpus synchronized with the project's master document inventory; text and chunked-text files are now named exactly as in the metadata, which fixes links that previously failed for 36 documents.
+- Added New Zealand's 2000 *Government Defence Policy*, Argentina's 2018 *National Defence Policy*, and the English-language edition of Croatia's 2018 *Strategic Defence Review*.
+- Re-extracted text for Taiwan 2008, Bulgaria 2010, and Denmark 2010 to repair spacing and extraction errors.
+- Removed text files that did not correspond to a catalogued document.
+- New: one searchable table for all documents with per-document PDF, TXT, and CSV links; bulk zip downloads of all texts and all chunked texts; downloads of any search or filter result (metadata, texts, or chunked texts); a codebook; this changelog.
+- The headline document count now covers the full catalog, including documents outside the core corpus.
+
+## 2025.12
+
+- Added the United States 2025 *National Security Strategy*.
+
+## 2025.04
+
+- Text (`.txt`) and chunked-text (`.csv`) versions of each document made available to view and download.
+
+## 2024.09
+
+- Website launched.

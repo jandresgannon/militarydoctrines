@@ -1,10 +1,14 @@
 project:
   type: website
+  resources:
+    - CNAME
+    - content/data_copy/**
 
 website:
+  site-url: "https://militarydoctrines.com"
   navbar: true
   title: "Military Doctrines"
-  favicon: images/favicon.ico
+  favicon: favicon.ico
   bread-crumbs: true
 
   page-footer:
@@ -22,18 +26,16 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/about.qmd
-        text: About
+      - href: content/data.qmd
+        text: Data
+      - href: content/codebook.qmd
+        text: Codebook
+      - href: content/changelog.qmd
+        text: Changelog
       - href: content/Papers.qmd
         text: Paper
-      - section: "Data"
-        contents:
-          - href: content/PDF.qmd
-            text: pdf files
-          - href: content/TXT.qmd
-            text: text files
-          - href: content/CSV.qmd
-            text: csv files
+      - href: content/about.qmd
+        text: About
 
 format:
   html:
@@ -46,4 +48,4 @@ filters:
   - quarto
 
 execute:
-  freeze: auto
+  freeze: false

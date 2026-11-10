@@ -3,8 +3,13 @@
 .RData
 .Ruserdata
 
-/content/data_copy/nss_doctrine_text.csv
+# Corpus files are regenerated from measuring-asi by docs/01_sync-corpus.R
+# and published through the gh-pages branch; they are not tracked on main.
+/content/data_copy/txt_files/
+/content/data_copy/csv_files/
+/content/data_copy/*.zip
 
 /.quarto/
 /_site/
+/_freeze/
 **/*.quarto_ipynb
