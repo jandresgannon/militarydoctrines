@@ -214,10 +214,15 @@ build_zip(out_csv, here::here("content", "data_copy", "nss_chunks_all.zip"),
 
 # ---- Validation summary ------------------------------------------------------
 
-# Upstream chunk files with no metadata row (documents the Sheet does not list).
+# Upstream chunk files with no metadata row. Those with a PDF upstream are real
+# documents the Sheet does not list; those without are leftover duplicates
+# (pre-_noneng names of documents already in the Sheet) and are only counted.
 chunk_stems <- sub("_chunks\\.csv$", "", list.files(file.path(txts_dir, "chunking_results_128")))
 chunk_stems <- chunk_stems[!grepl("_mten", chunk_stems)]
 unlisted <- chunk_stems[!paste0(chunk_stems, "_chunks.csv") %in% basename(meta$csv_src)]
+has_pdf  <- file.exists(file.path(upstream, "inst", "extdata", "pdfs", paste0(unlisted, ".pdf")))
+stale_dupes <- unlisted[!has_pdf]
+unlisted <- unlisted[has_pdf]
 
 cat("\n== Corpus sync ==\n")
 cat(sprintf("Documents: %d (%d keep = 1) from %d countries, %d-%d\n",
@@ -239,3 +244,5 @@ if (length(missing)) cat("Missing text or chunks upstream:\n ", paste(missing, c
 if (length(orphans)) cat("Removed", length(orphans), "orphaned file(s)\n")
 if (length(unlisted)) cat("Upstream documents with no metadata row (add to the Sheet):\n ",
                           paste(unlisted, collapse = "\n  "), "\n")
+if (length(stale_dupes)) cat(length(stale_dupes),
+                             "leftover upstream chunk file(s) with no PDF or metadata row ignored\n")
