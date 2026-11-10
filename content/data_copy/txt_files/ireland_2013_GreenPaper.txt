@@ -1,0 +1,2439 @@
+# GREEN PAPER ON DEFENCE
+
+
+July 2013
+
+
+-----
+
+-----
+
+## Contents
+
+**Ministerial Foreword** **2**
+
+**1.** **Introduction** **3**
+
+**2.** **Overview and Policy Questions** **5**
+
+**2.1** **Defence and Security** **5**
+
+**2.2** **Changes since the White Paper on Defence (2000)** **6**
+
+**2.3** **Defence and Security Realities** **6**
+
+**2.4** **Policy Intent** **7**
+
+**2.5** **The Resource Challenge and Implications for Capability** **7**
+
+**2.6** **Military Neutrality** **8**
+
+**2.7** **Overseas Deployments and the “Triple Lock”** **9**
+
+**2.8** **Policy Questions** **10**
+
+**3.** **The White Paper on Defence (2000)** **11**
+
+**3.1** **Domestic Security** **11**
+
+**3.2** **Global and Regional Security** **11**
+
+**3.3** **Policy Requirements** **12**
+
+**3.4** **Roles assigned to the Defence Forces** **13**
+
+**3.5** **Capability Framework** **14**
+
+**4. Key developments since the White Paper** **15**
+
+**4.1** **Defence and Security Environment** **15**
+
+**4.2** **Global and Regional Institutions** **18**
+
+**4.3** **Capability Development** **22**
+
+**5.** **Other Roles assigned to the Defence Forces** **27**
+
+**6.** **Future Defence and Security Environment** **30**
+
+**Appendix 1: The Defence Organisation** **34**
+
+**Appendix 2: Defence Forces Operations in 2012** **40**
+
+**Appendix 3: Overseas Missions in which the Defence Forces have participated since 01/01/2000 43**
+
+**Appendix 4: Memorandums of Understanding (MOUs) and Service Level Agreements (SLAs)** **44**
+
+**Appendix 5: Details of Defence Vote 36 Expenditure for 2012 - by category** **45**
+
+RPC003417 EN PR L 1
+
+
+-----
+
+## Ministerial Foreword
+
+There have been significant changes in the defence and security environment since the first White
+Paper on Defence was published in 2000. I believe that the development of a new White Paper on
+Defence will benefit greatly from a wide, inclusive and informed debate on the defence and security
+challenges facing Ireland and how we should respond to those challenges.
+
+The Green Paper sets out the changes that have occurred in the defence and security environment
+since 2000 and the State’s policy response. It includes an assessment of likely future challenges
+and sets out a number of policy focused questions for consideration.
+
+I hope that this Green Paper will stimulate a broad and informed debate about Ireland’s future
+Defence policy, a debate that will contribute to the preparation of a new White Paper that sets out a
+balanced and practical Defence policy framework for the next decade.
+
+________________________
+
+Alan Shatter T.D.,
+
+Minister for Justice, Equality and Defence.
+
+
+________________________
+
+Alan Shatter T.D.,
+
+Minister for Justice, Equality and Defence.
+
+
+-----
+
+## 1. Introduction
+
+The goal of this Green Paper is to initiate and inform a broad consultative process, which will in turn
+inform the development of a new White Paper on Defence. This new White Paper on Defence will
+be completed early in 2014 and will set out Ireland’s Defence policy framework for the next decade.
+
+**DEFENCE VISION**
+
+This Green Paper provides an opportunity to develop a new vision for Defence and Defence policy
+taking account of the current and evolving environment. The vision for Defence must take account
+of a range of influences:
+
+ - The fundamental importance of Defence within the policies pursued by Government on behalf
+of the Irish people.
+
+ - Ireland’s obligations in the context of the international order, international agreements and the
+rule of law.
+
+ - Democratic control, civil oversight and strategic management of Defence, including professional
+military advice.
+
+ - The emerging defence and security environment and the complex nature of existing threats to
+security, such as those posed by international and cyber terrorism.
+
+ - The economic context and the availability of resources for defence.
+
+ - Political, social and other factors which bear on the conduct of defence.
+
+Each country has its own unique approach to its defence and security. In Ireland, the approach is
+a product of a range of factors including, among others, our history, our policy of military neutrality,
+our commitment to the United Nations and our membership of the European Union. This Green
+Paper seeks to maintain and give expression to an active vision of our neutrality, which includes a
+willingness to project Irish values and priorities, including the promotion and preservation of peace,
+disarmament, human rights, and support for humanitarian operations through the development and
+deployment of the Defence Forces.
+
+All of these factors combine to give a distinctly Irish vision of Defence and how it should sit within
+broader public policy. Ireland’s approach to security is underlined by its engagement in EU Common
+Security and Defence Policy together with other EU Member States and its strong support for the
+deployment of the Defence Forces to international peace support and crisis management operations
+as a means to protect and defend the vulnerable, particularly where the humanitarian role is manifest.
+Ireland has never had a conscripted military force and, therefore, approaches to recruitment, training
+and the relationship of the Defence Forces within wider society is different to many other countries.
+Again in contrast to many countries, Ireland has a predominantly unarmed police force, the Garda
+Síochána, and as a result the Defence Forces provide internal security supports of an on-going and
+contingent variety.
+
+
+-----
+
+**OBJECTIVES OF THE GREEN PAPER**
+
+This Green Paper provides the opportunity to update the vision for Defence while keeping faith
+with those elements of continuing relevance in the Irish context. In this regard, the objectives of this
+Green Paper are as follows:
+
+ - To stimulate an open, mature and wide ranging consultative process to update the approach to
+Defence as a follow-on to the 2000 White Paper;
+
+ - In updating Ireland’s approach, to reflect the changes that have taken place in the international
+and domestic defence, security and economic environments;
+
+ - To give appropriate underpinning to Ireland’s engagement in international bodies particularly
+the United Nations and the European Union;
+
+ - To configure Defence policy in ways which reflect these foregoing matters and to provide
+appropriate flexibility in the period ahead to take account of on-going changes to the defence
+and security environment;
+
+ - To ensure that the stated roles of the Defence Forces are consistent with requirements;
+
+ - To guide and underpin decisions relating to the capacity of the Defence Organisation to include
+resourcing, corporate skills, organisation, force composition and equipment acquisition over the
+next ten years, building on recent reorganisation measures for the Permanent Defence Force
+and the Reserve Defence Force;
+
+ - To sustain and develop the Defence Organisation as one in which people are proud to serve;
+
+ - To ensure Defence policy contributes in a congruent way with wider social and economic policy
+to achieve national recovery.
+
+The views that members of the public and other interested parties submit as part of this consultation
+process will represent a key aspect of the White Paper policy formulation process. All members of the
+public and public interest groups are encouraged to consider this important aspect of Government
+policy and fully contribute to this process.
+
+Submissions should be made in writing by e-mail to whitepaper@defence.ie or by post to:
+
+White Paper on Defence,
+Planning and Organisation Branch,
+Department of Defence,
+Station Road,
+Newbridge,
+Co. Kildare.
+
+Where submissions are made on behalf of organisations, this should be clearly stated. The closing
+date for receipt of submissions is 10th October 2013. Please note that all documentation received
+will be subject to the provisions of the Freedom of Information Acts 1997 and 2003 and may be
+subject to release.
+
+Further relevant information such as Strategy Statements, Annual Reports and Annual Output
+Statements are available on the Department’s website at www.defence.ie by following the White
+Paper link.
+
+
+-----
+
+## 2. Overview and Policy Questions
+
+### 2.1 Defence and Security
+
+Ireland has social, political, economic and cultural values and interests that define us as a nation
+and that we wish to promote and defend. Ireland also has a world view, and proactively engages in
+addressing the collective global challenges of preserving peace and security and defending human
+rights.
+
+The purpose of Defence policy is to provide security, and providing for the military defence of the
+territorial integrity of the State is a key responsibility that is vested specifically in the Department of
+Defence and the Defence Forces. Thankfully the threat of inter-state war in Europe is diminished.
+However, the changed defence and security environment has demands that differ from those of
+the past. The concept of security has continued to develop over recent decades and there is an
+acceptance in most nations that threats to national security are much broader than those of interstate conflict. As the concept of security has broadened, so too have the implications for Defence
+policy.
+
+In Ireland, the domestic security environment has required that the Defence Forces are tasked
+with fulfilling a broader security role, in particular in support of An Garda Síochána in protecting the
+internal security of the State. The provision of a high level of domestic security support differentiates
+Ireland’s Defence Forces from those of many States who utilise alternative forces apart from police
+or Defence Force to undertake such functions. The Defence Forces provide a “surge” capacity that
+enables the State to provide for additional security requirements. In addition, the Defence Forces
+retain flexible military capabilities that can be utlised in a wide range of support roles and for crisis
+situations. Ireland has also supported the maintenance of international peace and security through
+deploying contingents of the Defence Forces on overseas peace support and crisis management
+operations. Support for the United Nations (UN) has been a key part of our foreign policy. Ireland’s
+current Defence policy encompasses these broader security issues.
+
+A key role of the civil element of the Department of Defence is to support the Minister for Defence as
+head of the Department and in particular to provide policy advice and support on Defence matters.
+This includes providing assistance with policy formulation and the implementation of policy as
+directed by the Minister.
+
+Security is a whole of Government concern and as Ireland’s Defence policy encompasses
+broader security issues than territorial defence, there is a requirement for significant cross-cutting
+policy collaboration. Officials from the Department of Defence work alongside colleagues from
+the Department of Foreign Affairs and Trade in international fora and provide key inputs into the
+development of the EU’s Common Foreign and Security Policy. Officials from the Department also
+liaise extensively with other Government Departments and agencies in the framing of appropriate
+policy responses.
+
+This Green Paper considers new and emerging security threats that Defence policy must address
+appropriately, having regard to roles and responsibilities that rest with other Departments and
+agencies such as the Department of Justice and Equality, An Garda Síochána, the Department of
+the Taoiseach, the Department of Foreign Affairs and Trade, Revenue, etc.
+
+
+-----
+
+### 2.2 Changes since the White Paper on Defence (2000)
+
+Historically, there was a marked reluctance to formulate a specific Defence policy for the State.
+Remarkably, the White Paper on Defence, published in 2000, was the first ever in the history of the
+State. It has provided the policy framework for Defence over the last thirteen years. Chapter 3 of this
+Green Paper outlines this policy framework. Chapter 4 traces the changes in the domestic, regional
+and global defence and security environment and tracks associated policy responses. Chapter 5
+considers other roles assigned to the Defence Forces. Together these chapters explain the current
+Defence policy position.
+
+There has been significant change in the Defence and Security environment since the publication
+of the White Paper on Defence in 2000. The Defence Forces remain a key contributor within the
+domestic security architecture and continue to provide a broad range of specialised operational
+outputs both in Aid to the Civil Power and for other roles, including, inter alia, maritime patrols by
+both the Naval Service and Air Corps. Changes in the approach to emergency planning, has seen
+the establishment of the Office of Emergency Planning which supports the Government Taskforce
+on Emergency Planning.
+
+Globally and regionally, the last decade has seen an increased emphasis on collective security, which
+reflects the evolution of threats in the defence and security environment. This collective security
+requirement has been reflected in defence and security environment assessments from the UN
+and in the European Union’s (EU) 2003 European Security Strategy (ESS). These threats include:
+terrorism, proliferation of weapons of mass destruction, regional conflicts, state failure, organised
+crime, cyber security, energy security, climate change and piracy. Ireland has proactively engaged
+in the collective security response through the UN, the EU and NATO Partnership for Peace (PfP).
+
+The development of the EU’s Common Foreign and Security Policy (CFSP) and its Common Security
+and Defence Policy (CDSP) both underscore the Union’s emphasis on a comprehensive approach;
+that is the ability to deploy the wide range of political, diplomatic, economic and military instruments
+at its disposal to address complex security challenges. This has been supported by institutional
+developments within the EU all of which have been underpinned by the ratification of successive
+EU treaty reforms. Through this evolution, Ireland continues to play a full role in both the CFSP and
+CSDP.
+
+### 2.3 Defence and Security Realities
+
+Chapter 6 presents an assessment of the future defence and security environment and the following
+conclusions can be drawn:
+
+ Ireland has real security concerns and interests, arising both domestically and internationally.
+The boundaries between the internal and external aspects of security are becoming increasingly
+blurred.
+
+ Domestically, the Defence Organisation remains a key constituent of the security and defence
+architecture. The Defence Forces also provide a range of other services to Government on a
+day-to-day basis.
+
+ Globalisation has transformed the sources and nature of security threats. Borders and geographic
+location no longer provide the same degree of protection as in the past.
+
+
+-----
+
+ It is universally accepted that no one country acting alone can adequately respond to the new
+security challenges. Co-operative and collaborative security arrangements are deepening and
+Ireland must remain an active participant in the evolving collective security response.
+
+ Ireland has a practical as well as a principled interest in participation in UN mandated peace
+support operations. Our active participation has underpinned our ability to influence broader
+policy developments in the EU and UN.
+
+### 2.4 Policy Intent
+
+The Department of Defence and the Defence Forces are a constituent part of the security and
+defence architecture that the State employs in protecting the citizens of the State and our values
+and interests. The intention is that Ireland will continue to confront pragmatically the threats in the
+defence and security environment. We will seek to address the challenges of the future domestic and
+international environment in a manner that supports our strategic interests, including the economic
+and social development of Ireland, and that continues our constructive participation in the realm of
+international peace and security.
+
+In this, Ireland will continue to advocate a strong and effective United Nations; to play an active role
+in peace support operations; and to support efforts towards UN reform. Ireland is committed to the
+security cooperation that is necessary in order to underpin the political, economic and social wellbeing of the EU, which has been underpinned by the ratification of successive EU treaties. Ireland
+is strongly committed to remaining at the heart of Europe and will continue to work on the full range
+of policy priorities in the EU, including security and defence.
+
+### 2.5 The Resource Challenge and Implications for Capability
+
+Determining the optimal capabilities, having regard to the future defence and security environment
+and allocated resources, is a key Defence policy challenge. The linkage between Defence policy,
+ensuring the capacity to deliver and Defence Forces’ operational outputs is reflected in the strategic
+dimensions set out in the Department of Defence and Defence Forces Strategy Statement 2011-2014.
+In order to ensure effective policy, capabilities and operational outputs, the civil and military elements
+of the Defence Organisation must retain the capacity to effectively discharge their respective roles.
+
+Military capability is a combination of equipment, personnel, training and education, infrastructure,
+organisation, planning, leadership and military doctrine. The delivery of military capability requires the
+combined efforts of the Defence Organisation, both civil and military. There is a long lead time in the
+delivery of new military capability. The military capability of today is the result of policy and strategic
+management decisions taken years ago. The equipment necessary to achieve military objectives
+and to optimise the safety of personnel is increasingly technologically advanced and expensive.
+This ranges from the personal protection equipment for individual soldiers to communications and
+surveillance devices as well as weapons systems. The skill sets of personnel must also match this
+new sophistication.
+
+Future military capability must be appropriate to the demands presented by the evolving security
+and defence environment. For example, responses to threats such as terrorism, drug smuggling
+and organised crime are intelligence led and this remains a critical capability area. Future capability
+must address the operational requirements of the Army, Air Corps and Naval Service at home
+and overseas. Interoperability with sophisticated security partners will remain the cornerstone of
+overseas peace support operations and this means that the Defence Forces must train and equip
+
+
+-----
+
+to NATO capability standards. NATO has become in effect the ISO[1] of the military world with regard
+to capability standards. The Defence Forces must also retain the contingent capability to contribute
+to the State’s response to non-military events or crises and an appropriate surge capacity for
+deteriorations in the security environment, in their aid to the civil power and aid to the civil authority
+roles.
+
+The funding provided for Defence has been reduced in recent years as part of the programme of
+correction in the national finances. Within this reduced resource envelope, resourcing the Defence
+Forces’ front line operational capability has been prioritised. In this context, the Defence Forces
+entered the current period of economic austerity with modern equipment. However, equipment and
+platforms will depreciate in the normal manner and stocks will be consumed.
+
+The percentage of Government expenditure allocated to Defence in Ireland is one of the lowest in
+the EU. In the short term funding constraints may prevent us from making commitments or carrying
+out activities which might be otherwise considered desirable when the Exchequer finances have
+been put on a more sustainable footing. Within these resource parameters, maintaining existing
+capability into the future will be challenging and require difficult decisions. In this context, new and
+innovative ways of acquiring and retaining required capability and delivering operational outputs will
+become increasingly essential. This is also challenging other EU Member States and amongst the
+initiatives being advanced are: the pooling and sharing of equipment platforms, joint development
+partnerships with industry and new modes of procurement. New technology can also provide more
+cost effective solutions in delivering required effects or outputs.
+
+### 2.6 Military Neutrality
+
+This Green Paper outlines the reality of the required collective security response to the new security
+and defence environment and the continued requirement for Ireland’s engagement in that response.
+The involvement of the Defence Forces in this collective response and deeper international
+collaboration and cooperation will be the hallmark of security and defence into the future.
+
+Ireland’s policy of military neutrality has been respected within the EU’s Common Foreign and
+Security Policy, as has been the defence and security policies of the other EU countries. As outlined
+in subsequent chapters, the EU Treaties clearly confirm the sovereign right of Member States to
+decide how much to spend on defence and how, where and when to use their Defence Forces. In
+addition, the Constitution provides clarity regarding Ireland’s position should the EU wish to propose
+a “common defence”. Therefore all of the defence participation and activity, outlined in this Green
+Paper, has a clear legislative and policy basis.
+
+Ireland’s traditional policy of military neutrality has its origins in the country’s declared neutrality
+during the Second World War. Against this background, but for other reasons as well, a decision was
+taken in 1949 not to join the newly created North Atlantic Treaty Organisation (NATO). The State’s
+policy of remaining outside military alliances has remained in place ever since. We must now look to
+the future. Our traditional policy of military neutrality was formed in an era when the risk of inter-state
+conflict was the key issue of national security for most nations. However, the current broad range of
+threats does not fall into this category and military neutrality is immaterial for threats that are generic
+and transnational in character e.g., cyber-security or terrorism.
+
+The security threats and collective response are such that military capabilities are frequently
+
+1 ISO refers to International Organisation for Standardisation. Quite apart from its role as a military alliance, NATO has
+evolved a role as the standard setting organisation for military forces generally. NATO standards have been adopted by
+a wide range of countries including Sweden, Switzerland, Finland and Austria.
+
+
+-----
+
+utilised for tasks that are not defined as “national defence”. Transnational and cross organisational
+collaboration is required with regard to these generic and transnational threats. A concrete example
+was the successful operation “Seabight” which intercepted drug smugglers at sea and included
+international intelligence, police, Revenue and Naval Service and Air Corps collaboration.
+
+There is a requirement for policy clarity with regard to the military contribution to the response to
+collective security, which recognises the limitations of military neutrality as a policy response to these
+broader threats. While Defence remains an area for sovereign decision, EU Member States, and in
+particular other non-NATO members, have found it possible to progress actively the collaborative
+response to the changed security environment.
+
+### 2.7 Overseas Deployments and the “Triple Lock”
+
+The approval procedures that govern the despatch of contingents of the Permanent Defence
+Force on overseas peace support operations, commonly known as the “triple lock”, comprise three
+requirements namely:
+
+ - the authorisation of the operation by the Security Council or General Assembly of the United
+Nations;
+
+ - a formal Government decision; and
+
+ - the approval of Dáil Éireann[2].
+
+The legislative basis for the participation by the Permanent Defence Force in overseas peace
+support operations as part of an “International United Nations Force” was originally provided for by
+the Defence (Amendment) (No. 2) Act, 1960. The legal provisions were updated in 1993 to permit
+participation in Chapter VII[3] missions and again in 2006 to take account of developments in peace
+support including the UN’s increased reliance on regional organisations, such as the EU, NATO
+and the African Union (AU). The requirements of the “triple lock” were formally set out in Ireland’s
+national declaration associated with the ratification of the Lisbon Treaty.
+
+The requirement for a UN resolution as part of the “triple lock” reflects the central importance of the
+UN in granting legitimacy to peace support and crisis management missions. At the same time, it also
+constitutes a self imposed, legal constraint on the State’s sovereignty in making decisions about the
+use of its armed forces. This could prevent the State from participating in a peace support operation.
+In 2003, the EU led peace support mission EUFOR Concordia in Former Yugoslav Republic of
+Macedonia, was welcomed in UN resolution 1371 in terms that did not conform to the requirements
+of the Defence Acts at that time. Accordingly, Ireland could not participate in the mission.
+
+The benefits of a formal legislative requirement for UN authorisation must be weighed against the
+possibility that this constraint may lead to an inability to act on occasions where there is a pressing
+moral or security imperative and overwhelming international support to do so, but where UN sanction
+is not forthcoming, in circumstances where a veto is exercised by a permanent member of the
+Security Council acting in its own national interests.
+
+2 There is no requirement for Dáil approval where, the international United Nations Force is unarmed, where the size of
+the Permanent Defence Force contingent does and will not exceed twelve members, or if the contingent is intended to
+replace in whole or in part or reinforce a contingent of the PDF serving outside of the State already serving as part of an
+International United Nations Force.
+3 Under Chapter VII of the UN Charter (entitled “Action with respect to threats to the Peace, Breaches of the Peace and
+Acts of Aggression”), the UN Security Council is mandated to take whatever action “as may be necessary to maintain or
+restore international peace and security”. UN mandated operations mounted under this Chapter are commonly known
+as “peace enforcement” operations.
+
+
+-----
+
+It is acknowledged that there is substantial public support for the triple lock mechanism and that,
+in practical terms, due to the size of our Defence Forces, the State only has a limited capacity to
+contribute to UN Missions. In real terms Ireland has, in the context of its size, punched above its
+weight and made a valuable, disproportionate contribution and, save for the example of the Former
+Yugoslav Republic of Macedonia, has not been excluded from peace keeping engagements by the
+triple lock. On balance, the advantages of retaining the mechanism can be seen as outweighing the
+disadvantages. Having said that, it is an issue worthy of discussion in advance of the adoption of a
+new White Paper.
+
+### 2.8 Policy Questions
+
+The central challenge presented by this Green Paper is to consider the changed security paradigm
+together with our understanding of military neutrality and to plot a pragmatic way ahead. Key policy
+questions in this regard are:
+
+**_Apart from the security challenges set out in this Green Paper, are there additional security_**
+**_concerns that should be considered?_**
+
+**_Do the advantages to the State in retaining the triple lock, in particular in ensuring the_**
+**_international legitimacy of peace keeping missions, outweigh any possible disadvantages?_**
+
+**_What will be the operational demands on the Defence Forces in future years and do the_**
+**_roles currently assigned to the Defence Forces reflect these future requirements?_**
+
+**_What capabilities does the Defence Organisation need for the period ahead including_**
+**_corporate skills, force composition, equipment platforms, etc. and how can we best_**
+**_prioritise our resources on human capital and equipment procurement?_**
+
+**_What options should be pursued in acquiring the capabilities required e.g. should the_**
+**_pooling and sharing of equipment platforms be considered?_**
+
+**_How can Ireland’s traditional policy of military neutrality be dovetailed with increasing_**
+**_requirements for Defence participation in collective security cooperation?_**
+
+**_How can Defence further contribute to economic recovery e.g. options for increased_**
+**_engagement with Irish Industry?_**
+
+
+-----
+
+## 3. The White Paper on Defence (2000)
+
+The publication of the State’s first ever White Paper on Defence in 2000 represented a major
+landmark in formulating Defence policy. Prior to this the reticence about addressing fundamental
+questions about the purpose and role of the Defence Forces constituted a major impediment to the
+modernisation and development of the Defence Organisation[4]. In the decade since its publication,
+the Defence Organisation has been transformed and the reform programme undertaken by the
+Department and the Defence Forces as a result of the White Paper is widely regarded as a role
+model for the public service. Because of its seminal importance, any background discussion of
+Defence policy in Ireland must include a review of the White Paper.
+
+### 3.1 Domestic Security
+
+The White Paper on Defence noted that the threats to the security of the State which required an
+operational response from the Defence Forces in the preceding thirty years, had all been in the
+internal security domain, where the Defence Forces provided critical input in an aid to the civil power
+(ATCP) role.
+
+It noted the improvements to the on-island security situation arising from the Good Friday agreement.
+The security situation in Northern Ireland and on the Border had been transformed with the continuing
+ceasefires on the part of the main republican and loyalist paramilitary groups and the beginning
+of normalisation of security arrangements. It noted that dissident republican paramilitary groups
+represented the greater threat to the security of the State. However, the overall dangers to security
+were considered to be of “a considerably lower order than was the case prior to the ceasefires”.
+
+However, it outlined that there would be a continued requirement for Defence Forces personnel
+to provide a broad range of support in the ATCP role, including cash escorts, and the provision of
+military security at Portlaoise prison. The requirement for an effective Explosive Ordnance Disposal
+(EOD) capacity in order to deal with a broad range of contingencies was emphasised.
+
+### 3.2 Global and Regional Security
+
+The White Paper on Defence considered defence responses to the changing defence and security
+environment. It concluded that Ireland approached Defence provision on the basis of a generally
+benign security environment and that the external security environment did not contain any specific
+threats to the overall security of the State[5].
+
+Analysis of the defence and security environment at that time indicated that _“national security_
+_has evolved beyond the narrow role of territorial defence towards issues of conflict prevention,_
+_peacekeeping and crisis management”[6] and that a broad concept of security had emerged in all of_
+the European and Euro-Atlantic institutions including the EU.
+
+Trends in the international peace support environment highlighted an increase in the number of
+conflict situations for which a peace support operation was an element of the solution and in some
+cases the most important element. In addition, the UN was increasingly mandating peace support
+operations by regional organisations on its behalf. A greater demand for international peace support
+
+4 “Defence Organisation” refers to the civil and military organisation.
+5 White Paper on Defence (2000) section 2.1
+6 White Paper on Defence (2000) section 3.2.2
+
+
+-----
+
+operations in internal conflict situations had brought new levels of complexity, often involving difficult
+and historically charged situations created by ethnic tensions and disputes[7]. In this context, defence
+concepts had evolved focussing on rapidly deployable forces.
+
+The White Paper confirmed that Ireland’s commitment to collective security is pursued through the
+United Nations, which has the primary role to play in the maintenance of international peace and
+security[8]. The moral imperative for such engagement in maintaining international peace and security
+is a given and Ireland has consistently contributed to the fullest extent possible. However, the White
+Paper also acknowledged that: _“Ireland is a small country with a limited capacity to influence its_
+_external environment. We have a practical as well as a principled interest in the maintenance of_
+_international peace and security in Europe and further afield. Our defence policy will seek to reflect_
+_this strategic interest.” [9]_
+
+The White Paper also acknowledged the evolution of the response to threats to international peace
+and security. It noted, in the context of the experiences of regional conflicts such as in Kosovo and
+Bosnia and Herzegovina, that increasingly proactive and preventive approaches encompassing a
+range of coordinated techniques - e.g. diplomatic, humanitarian, policing and military, - in the form
+of regional peacekeeping and crisis management were seen as necessary to ensure stability and
+defend against threats to security in the European sphere.[10]
+
+It emphasised the fact that such multi-faceted challenges to security were beyond the capacity
+of individual states and noted that a web of mutually reinforcing security cooperation, involving
+an increasing number of countries, including neutral States, was developing in the Euro-Atlantic
+area. This security interdependence had played a role in reducing the risk of war between states in
+Europe and involved the UN, the Organisation for Security and Cooperation in Europe (OSCE), the
+EU, NATO and the Western European Union[11] (WEU).
+
+The White Paper re-iterated that Ireland’s participation in any EU military operation would only arise
+where a UN mandate was present. It also concluded that Ireland’s participation in this emerging
+environment was “an important element of Ireland’s capacity to influence events in a way which was
+_sensitive to this country’s needs and consonant with Ireland’s military neutrality”.[12]_
+
+### 3.3 Policy Requirements
+
+Based on the then assessment of the defence and security environment, the White Paper on Defence
+outlined the following policy requirements for Defence. It states: [13]
+
+“Having regard to the defence and security environment, the Government’s policy for defence will be
+aimed at ensuring that the following requirements are met:
+
+ - To maintain a military force structure that provides a basis for responding to any major change
+in Ireland’s strategic circumstances in the medium to long term, as well as demonstrating an
+appropriate commitment to national defence.
+
+7 White Paper on Defence (2000) section 6.2
+8 White Paper on Defence (2000) section 3.2.4
+9 White Paper on Defence (2000) section 3.2.1
+10 White Paper on Defence (2000) section 3.2.6
+11 The WEU is now defunct
+12 White Paper on Defence (2000) section 3.2.9
+13 White Paper on Defence (2000) section 4.2.1
+
+
+-----
+
+ - To maintain a military force structure capable of responding to requests to provide aid to the
+civil power and in that context, contributing to the prevention of security challenges from abroad
+including terrorism and arms smuggling.
+
+ - To fulfil Ireland’s international and regional responsibilities arising from membership of the UN
+by providing a range of military capabilities that can effectively be employed to participate in a
+broad range of multinational peace support and humanitarian relief operations.
+
+ - To demonstrate Ireland’s commitment to European security by having a suitable range of military
+capabilities that can be used to make appropriate contributions to regional security missions
+authorised by the UN.”
+
+### 3.4 Roles assigned to the Defence Forces
+
+Unlike many other countries, Ireland’s military capabilities are not retained exclusively for national
+defence contingencies or overseas missions. The outputs of the Defence Organisation form an
+integral part of a multidimensional defence, security and support framework.
+
+In addition to the security roles, the White Paper on Defence recognised that Defence Forces
+capabilities and resources were utilised in a broader range of roles including, inter alia, fishery
+protection, assisting the civil authorities in response to major emergencies, natural disasters and
+in the maintenance of essential services. The White Paper recommended the development of
+Memoranda of Understanding (MOU) or Service Level Agreements (SLA) with other Government
+Departments and Agencies as a means of formalising the provision of Defence Forces outputs.
+
+The Roles assigned to the Defence Force in the White Paper reflect all of these requirements and
+were as follows: [14]
+
+ - to defend the State against armed aggression; this being a contingency, preparations for its
+implementation will depend on an ongoing Government assessment of the security and defence
+environment;
+
+ - to aid the civil power (meaning in practice to assist, when requested, the Garda Síochána, who
+have primary responsibility for law and order, including the protection of the internal security of
+the State);
+
+ - to participate in multinational peace support, crisis management and humanitarian relief
+operations in support of the United Nations and under UN mandate, including regional security
+missions authorised by the UN;
+
+ - to provide a fishery protection service in accordance with the State’s obligations as a member
+of the EU; and
+
+ - to carry out such other duties as may be assigned to them from time to time, e.g. search and
+rescue, air ambulance service, Ministerial air transport service, assistance on the occasion of
+natural or other disasters, assistance in connection with the maintenance of essential services
+and assistance in combating oil pollution at sea.
+
+14 White Paper on Defence (2000) section 3.3.3
+
+
+-----
+
+### 3.5 Capability Framework
+
+The development of military capability requires the combined efforts of the Defence Organisation,
+both civil and military. Military capability is much broader than equipment platforms and it has a
+number of dimensions, which are interrelated and all of which impact on the ability to achieve
+operational success. Capability results from combining human resources, planning, modern
+equipment, infrastructure, military organisation, training and education, leadership and military
+doctrine. It requires the retention of a range of professional skills and the ability to effectively deploy
+appropriately trained and equipped personnel. In particular, operations must be sustainable i.e.
+enough personnel to rotate as required and appropriate logistical support. This was reflected in the
+White Paper on Defence (2000).
+
+Key capability decisions included in the White Paper were:
+
+ - The retention of a Permanent Defence Force of 10,500 personnel organised along conventional
+military lines.
+
+ - A light infantry based Army with a three Brigade structure and an appropriate level of all arms
+capability.
+
+ - Development of the Naval Service around a modern 8 ship flotilla.
+
+ - Development of the Air Corps based on its existing role profile.
+
+ - Development of a re-organised Reserve Defence Force.
+
+In this context, a key element of the development strategy outlined in the White Paper was the rebalancing of resources to achieve an organisation that could be sustained on the available budget.
+This required a reduction in the number of personnel and greater investment in equipment and
+infrastructure. A reduction in the Permanent Defence Force strength ceiling from 11,500 personnel
+to 10,500 personnel was an essential enabler in re-balancing the resource allocation towards the
+recommended 70:30 pay to non-pay ratio.
+
+
+-----
+
+## 4. Key developments since the White Paper
+
+There are a number of inter-dependent dimensions to the evolution of Ireland’s Defence policy in
+the intervening period since 2000 and within the framework outlined in the White Paper on Defence.
+These include changes in the defence and security environment, policy, capability and operational
+responses to these changes and the resource envelope within which the Defence Organisation
+must deliver capability and operational outputs.
+
+Domestically, the Defence Forces remain a key constituent of the security architecture and have
+continued their support roles across a range of aid to the civil power tasks including cash escorts,
+prisoner escorts, explosive ordnance disposal, assistance with major security operations, etc.
+
+Internationally the defence and security environment has undergone significant changes. For
+Ireland, a key policy issue has been the developing responses by global and regional security
+organisations with which Ireland acts in pursuit of collective security, principally the UN, the EU and
+NATO/PfP. Cooperation within the EU has deepened and this has been underpinned by institutional
+developments within the EU in accordance with successive Treaties to which Ireland has subscribed,
+albeit with specific points of clarification.
+
+These changes, in turn, have informed required operational responses and associated capability
+requirements. The EU and UN both acknowledge that a wide variety of responses are required in
+order to deal with the security challenges that have emerged and that risk mitigation strategies must
+address the complex multi-faceted causes of these threats. In this context, military capabilities are
+but one of a range of instruments that can be brought to bear. However, this paper primarily focuses
+on the Defence contribution to security.
+
+Working to the framework provided by the White Paper, the transformation of the Defence
+Organisation is recognised as having been a model of public service reform and modernisation.
+Over the period 2000 to 2012, the gross provision allocated for Defence (Vote 36) increased by 7%
+which represents a decline in real terms. This is in marked contrast to the overall increase in public
+expenditure, which was approx 114% for the same period[15]. In addition the number of personnel
+employed in the Defence Organisation is now 15% below that of 2000. This is in contrast to overall
+public service numbers which are 20% greater than in 2000.
+
+Together these changes have shaped the current position and they are considered in more detail in
+the following sections.
+
+### 4.1 Defence and Security Environment
+
+**4.1.1 Domestic Security**
+
+The Good Friday Agreement delivered a stable peace process that commands overwhelming
+cross community support and led to a welcome transformation of the level of security threat posed
+by paramilitary groups on both parts of the island. Nonetheless, so called ‘dissident’ republican
+groups remained intent on disrupting the progress that has been achieved since the signing of the
+agreement.
+
+In recent years there has been a worrying development which has seen an increased use of
+improvised explosive devices by criminals within the State. This has required an ongoing response
+from Defence Forces EOD teams, which are maintained at high readiness to respond to such
+
+15 http://databank.per.gov.ie/
+
+
+-----
+
+incidents. This has required ongoing rotation of teams, the maintenance of high level technical skills
+sets and the provision of specialist equipment and vehicles.
+
+There has also been an ongoing requirement for a wide range of other Defence Forces supports
+to an Garda Síochána. The Garda Síochána are predominantly unarmed and trained for policing
+activities in a normal peaceful society although they have developed some armed and specialist
+elements. The Defence Forces provide military personnel in an operational role in an aid to the civil
+power (ATCP) capacity. The Defence Forces continue to provide cash escorts, prisoner escorts and
+provide security at Portlaoise prison in addition to other supports such as to the Garda Air Support
+Unit. In addition to the range of security supports provided daily, a Defence Forces contribution is
+also required as part of the security provided for events of national importance such as visits by
+heads of State and other VIPs.
+
+Since the publication of the White Paper, the total area over which Ireland claims maritime sovereign
+rights (to various degrees) has almost doubled and is now approximately 220 million acres extending
+1,000km (over 600nm) into the North Atlantic. This represents a sea to land ratio in excess of 12:1
+when compared to the land mass of the State. The Naval Service is the State’s principal seagoing agency and has continued to undertake a broad range of security tasks including ongoing
+surveillance and patrolling of the State’s maritime domain. The Air Corps provides the air component
+of the State’s maritime surveillance and patrolling capacity.
+
+The Naval Service operates as part of the Joint Task Force on Drugs Interdiction (with an Garda
+Síochána and Revenue). In this context, Ireland contributes to the Maritime Analysis and Operations
+Centre – Narcotics (MAOC-N), which was established in 2007 as an international coordination
+centre to provide a greater focus on intelligence exchange between its seven member countries
+(i.e. Ireland, the United Kingdom, the Netherlands, France, Spain, Portugal and Italy) to tackle large
+drug shipments by sea.
+
+The Air Corps is also involved in this area to the extent that it provides air support to drug interdiction
+operations and, on occasions, carries members of Revenue in an observational capacity for the
+purpose of monitoring vessels suspected of drug trafficking and other illegal activities.
+
+**4.1.1.1 Emergency Planning**
+
+Following the events of September 11, 2001, emergency planning has been transformed. The
+Government Task Force on emergency planning brings together all parts of government with a
+lead or support role in Government emergency planning. The Office of Emergency Planning
+(OEP) is a civil-military office within the Department of Defence, established to support the work
+of the Government Task Force. The Office works with all departments and agencies involved in
+emergency planning and it carries out a cross-departmental oversight function, which forms the
+basis of a confidential Annual Report to Government. The most recent Report was for the period
+1 October 2011 to 31 December 2012.
+
+The National Emergency Coordination Centre, opened in 2007, provides a robust and resilient
+facility for emergency planners involved in such a national response. The facilities put in place have
+been utilised on a number of occasions. For example, during the severe weather events in 2009 and
+2010 and during the volcanic ash crisis in March/April 2010. Throughout March and April 2011, the
+Centre was used by the National Coordination Group formed to coordinate the impact and monitor
+emerging issues arising from the earthquake in Japan and subsequent explosion of the nuclear
+plant in Fukushima.
+
+
+-----
+
+**4.1.1.2 Civil Defence**
+
+Since the publication of the White Paper on Defence (2000) the Civil Defence organisation has
+continued to develop as a volunteer based high-quality second line emergency response service
+in addition to continuing and developing its community support activities. This was supported by
+investment and the modernisation of equipment such as off-road vehicles, boats and specialist
+equipment.
+
+The Civil Defence Act, 2002 provided for the establishment of the Civil Defence Board (a State
+authority under the aegis of the Department of Defence), which was subsequently established in
+2003. The Civil Defence Board managed the development of the Civil Defence organisation at
+national level in the period to end 2012. In line with Government policy on the rationalisation of
+State Agencies, the Civil Defence Act 2012 dissolved the Civil Defence Board and its functions were
+reassigned to the Department of Defence.
+
+The headquarters of Civil Defence was decentralised to a new facility in Roscrea, Co. Tipperary
+in 2006. The Civil Defence College has been progressively developing training supports to the
+organisation and is recognised as a training institution by a number of statutory and regulatory bodies
+such as the Further Education and Training Awards Council (FETAC) and Pre-Hospital Emergency
+Care Council (PHECC).
+
+Civil Defence volunteers continue to provide ongoing supports to their communities and have played
+a comprehensive role during the severe weather and flood related events of recent years. Civil
+Defence is now very much integrated into emergency planning and response arrangements at
+local, regional and national level in support of the frontline services under the Framework for Major
+Emergency Management.
+
+While the organisation at national level is managed and developed by the Department of Defence,
+operational control at local level is the responsibility of the relevant local authority. In that regard the
+ongoing local government reform programme will also inform the ongoing development of the Civil
+Defence Organisation.
+
+**4.1.2 Global and Regional Security**
+
+The White Paper policy framework predates 9/11, the Iraq War, the war in Afghanistan, and the
+Arab Spring. It also predates the accession of previous eastern European States as members of
+the Union and members of NATO. Since its publication there have been other significant changes
+internationally with countries such as China, India and Brazil evolving further and Russia continuing
+its re-emergence.
+
+During the intervening period, periodic formal assessments of the defence and security environment
+have been included in Defence Statements of Strategy, at a minimum every three years. These
+assessments are informed by both EU and UN assessments of the global and regional security
+environment.
+
+The European Security Strategy (ESS) was adopted by the EU Heads of State and Government in
+2003. It identified that at that time the EU faced security threats “which are more diverse, less visible
+and less predictable”. These threats included:
+
+1. Terrorism.
+
+2. Proliferation of Weapons of Mass Destruction.
+
+3. Regional Conflicts.
+
+
+-----
+
+4. State Failure.
+
+5. Organised Crime.
+
+The ESS reflects a holistic approach to the concept of European security and focuses on the EU’s
+comparative advantage in the area of “soft power”[16]. It identified threats and established more
+coherence in EU policy and among Member States in conflict prevention and crisis response,
+including military capability.
+
+In 2004, in recognition of the changed security environment, a report by the UN Secretary General’s
+High Level Panel on Threats, Challenges, and Change entitled ‘A More Secure World: Our Shared
+Responsibility’, emphasised the need for collective security and for security to be addressed at the
+global, regional and national level. The report identifies six clusters of threats:
+
+ - Economic and social, including poverty, infectious disease, and environmental degradation.
+
+ - Interstate conflict.
+
+ - Internal conflict, including civil war, genocide, and other large scale atrocities.
+
+ - Nuclear, radiological, chemical and biological weapons.
+
+ - Terrorism.
+
+ - International organised crime.
+
+A report on the implementation of the ESS was carried out by the EU’s then High Representative in
+2008. The report concluded that the EU had made substantial progress over the five year period and
+that the EU was recognised as an important contributor to a better world. The report also indicated
+that the world was changing fast, with evolving threats e.g., cyber attacks, energy security, climate
+change and piracy. It noted however, despite all that had been achieved, that implementation of the
+ESS remained a work in progress and for the EU’s full potential to be realised the EU needs to be
+still “more capable, more coherent and more active”.
+
+The ESS concluded that none of the threats identified, e.g., terrorism, the proliferation of weapons
+of mass destruction, regional conflicts, state failure and organised crime, are purely military. Nor can
+any be tackled by purely military means. The response to each requires the application of a mixture
+of civilian and military instruments. A key factor in the increased capacity of the EU to influence the
+international security agenda is the comprehensive approach. That is the ability to deploy the wide
+range of instruments at its disposal including military, economic, diplomatic and political. The Lisbon
+Treaty facilitates the comprehensive approach.
+
+### 4.2 Global and Regional Institutions
+
+Global and regional institutions with which Ireland engages in pursuit of collective security, such as
+the UN, the EU and NATO PfP, similar to many individual States, have evolved their approach to
+security and defence in response to the acknowledged changes in the environment. The response
+within the EU has of necessity been achieved through closer political cooperation and new institutional
+structures arising from the ratification of successive treaties. Notable developments are set out
+below.
+
+16 The EU’s range of “soft power” instruments to utilise for conflict prevention, crisis management and peace promotion
+purposes include political, diplomatic, economic, humanitarian, together with civil administration and military instruments.
+
+
+-----
+
+**4.2.1 UN Developments**
+
+Discussion on reform of the UN, from the structure of the Security Council through to military
+peacekeeping, is ongoing. In 2000 the Brahimi Panel captured the UN response to their much
+criticised engagement in conflicts in Africa and the Balkans in the 1990s. Highlighting the changed
+nature of conflicts, the report called for the capacity for a quick response to complex and volatile
+situations far beyond traditional peacekeeping. Western nations in particular were called upon to
+provide self-deploying, self-sustaining, quick reaction forces. The report recognised the requirement
+for more Chapter VII peace enforcement operations and for UN operations to be capable of applying
+credible coercive force. The policy changes arising from this report have been evident since 2000
+with an increased reliance on regional organisations to lead peace support operations on behalf of
+the UN. The EU, NATO and the African Union are now major players in UN peacekeeping.
+
+**4.2.2 EU Developments**
+
+Since the publication of the White Paper on Defence, the European Union has been further
+strengthened through ratification of the Nice Treaty and the Lisbon Treaty. In order for Ireland to ratify
+these treaties, constitutional amendments were required and on both occasions these amendments
+were rejected in the first instance by the Irish electorate. One of the concerns raised by the electorate
+related to the implications of ratification on Ireland’s defence and security policy.
+
+On each occasion Ireland’s position was clarified and further underpinned in the declarations and
+protocols attached to these EU Treaties. In addition, the constitutional amendment ratifying the Nice
+Treaty in 2002 contained, inter alia, the following text:
+
+_Article 29.4.9_
+_The State shall not adopt a decision taken by the European Council to establish a common_
+_defence pursuant to Article 1.2 of the Treaty referred to in subsection 7 of this section where that_
+_common defence would include the State._
+
+However, in 2008, concerns regarding Ireland’s defence and security policy were subsequently
+cited[17] as one of the reasons for the initial rejection of the constitutional amendment in order to ratify
+the Lisbon Treaty. The position with regard to the Lisbon Treaty was clearly set out in The White
+Paper on the Lisbon Treaty[18] (2009) and similar to the Nice treaty, the treaty was also subsequently
+ratified.
+
+Ireland has and continues to engage positively with and influence the evolution of the Common
+Foreign and Security Policy and the Common Security and Defence Policy of the EU.
+
+**4.2.2.1 EU Defence and Security Policy Developments**
+
+EU Member States have committed themselves to a Common Foreign and Security Policy (CFSP),
+under which the Member States undertake to work together on international issues in mutual
+political solidarity. The Common Security and Defence Policy (CSDP), which is a component of
+the EU’s CFSP, aims to strengthen the Union’s external ability through the development of civilian
+and military capabilities in crisis management and conflict prevention. The EU’s CFSP, under the
+Treaty of Amsterdam (1997), encompassed a new role for the EU in the areas of humanitarian
+and rescue tasks, peacekeeping tasks and tasks of combat forces in crisis management, including
+peacemaking (collectively known as Petersberg tasks). It noted that this did not involve the creation
+of a European Army.
+
+17 http://www.dfa.ie/uploads/documents/ucd%20geary%20institute%20report.pdf
+18 White Paper on the Lisbon Treaty (2009) Pg.18.
+
+
+-----
+
+The decisions of the 1999 Cologne and Helsinki EU summits recognised the need for a collective
+response to security challenges and the associated need for the EU to work towards a capability for
+autonomous action. EU Member States set an agreed, voluntary target, known as a Headline Goal,
+to improve capabilities for Petersberg Tasks, which they aimed to meet by 2003. This includes a
+“pallette of forces”, to which Ireland contributes from within our UNSAS[19] commitment. A unanimous
+decision of the Council is required to launch a “Crisis Management Task operation”.
+
+During the Irish Presidency of the EU in 2004, the Battlegroups[20] concept was adopted and has
+introduced the capability to deploy forces at high readiness. Since January 2007 two Battlegroups
+are required to be on stand-by for a period of six months at a time. Ireland has participated in the
+Nordic Battlegroup (2008 and 2011) and participated in the Austrian / German Battlegroup which was
+on standby for the second six months of 2012. Ireland’s operational deployment with a Battlegroup
+remains subject to the “triple lock” mechanism. To date, there has been no operational deployment
+of an EU Battlegroup.
+
+In May 2006, the EU Commission published “A Concept for European Community Support for Security
+Sector Reform,” which notes the need for a holistic approach to Security Sector Reform (SSR) by
+the EU. It also emphasised the need for cooperation with regional and multilateral organisations,
+including the UN, the Organisation for Economic Cooperation and Development (OECD), Council of
+Europe, OSCE and the African Union (AU), in training and SSR support. The EU is engaged in SSR
+related support in over 70 countries.
+
+The importance of security to the social and economic development of communities and nations is
+well recognised by the international aid community. Security from violence is a necessary condition
+to achieve sustainable social, economic and political development. Similarly, for aid to be effective,
+it is necessary to have a stable and secure environment in order to maximise its impact in terms of
+development and growth.
+
+Ireland has added value to participation in SSR activities. The Defence Forces have supported the
+Disarmament, Demobilisation and Reintegration (DDR) process in Liberia through the provision of
+security for DDR teams at weapons sites. Between 2005 and 2006, they assisted in the weapons
+decommissioning process in Indonesia, as part of the EU Monitoring Mission in Indonesia. Also, a
+small contingent of Defence Force personnel are currently assisting in the training of the security
+forces of the Somali Transitional Federal Government in the EU training Mission in Somalia. This
+mission is being led by a General from the Defence Forces and has been acknowledged as a
+significant success.
+
+The EU is now a major player on the world stage with an increasing capacity to influence the
+international security agenda using the instruments at its disposal including economic, diplomatic,
+political and military instruments and this comprehensive approach is a hallmark of the CFSP.
+The Nobel Peace Prize for 2012 was awarded to the European Union (EU) in recognition of the
+contribution over six decades to the advancement of peace and reconciliation, democracy and
+human rights in Europe.
+
+19 A key element of Ireland’s contribution to international peace and security is the commitment of personnel to international
+peace support operations (PSOs) under UN authority. Ireland is committed to provide up to 850 personnel under the
+United Nations Standby System (UNSAS). From within this figure, Ireland has committed a palette of forces under the
+Helsinki Headline Goal which requires the maintenance of a broad range of capabilities at varying readiness states.
+20 The purpose of the EU Battlegroups is to provide a rapid level of response to developing international crises, allowing
+the EU to intervene during the critical early stages or to reinforce an existing operation.
+
+
+-----
+
+**4.2.2.2 EU Institutional Developments**
+
+The structures in the EU to support the CFSP have also evolved. The Political and Security Committee
+(PSC) and the Military Committee (EUMC) bring together the diplomatic and military representatives
+of the Member States. There is also an EU military staff supporting the planning and conduct of
+operations and the development of capability. Ireland plays an active part in all of these committees
+and institutions.
+
+The European External Action Service (EEAS) was established on 1 December 2010; exactly
+one year after the Lisbon Treaty came into force. The EEAS is staffed by diplomats from national
+services and from the Council and the Commission. The EEAS has been fully operational since 1
+January 2011. The EEAS serves as a foreign ministry and diplomatic corps for the EU. It assists
+and is under the authority of the High Representative for Foreign Affairs and Security Policy who is
+responsible for implementing the EU's Common Foreign and Security Policy, and other areas of the
+EU's external representation. The EEAS manages the EU's response to crises and cooperates with
+the European Commission in areas with which it shares competence.
+
+Expenditure related to the Common Foreign and Security Policy is charged to the EU budget, except
+expenditure arising from operations having military and defence implications and cases where the
+Council unanimously decides otherwise. The Heads of State and Government agreed in September
+2003, on the arrangements for the payment of the costs of EU led military operations. Each State
+contributes to the common costs of an operation using a Gross National Income (GNI) key and
+Ireland’s contribution is just over 1% of these costs. In addition, Member States which contribute
+personnel to an operation, pay for their operational costs on a “costs lie where they fall” basis. The
+facility for a Member State to opt out of contributing to the common costs of an operation by means
+of a formal declaration under Article 23(1) (“constructive abstention”) of the Treaty on European
+Union has never been exercised.
+
+**4.2.3 EU – UN Cooperation**
+
+Driven by the need for effective responses to crises, cooperation between the EU and other
+international actors, particularly the UN, in the area of crisis management, has developed substantially.
+EU-UN cooperation is an important component of Common Security and Defence Policy (CSDP).
+Both formal and operational interaction between the two organisations remains strong.
+
+In this regard, Ireland developed a Food For Thought paper – Enhancing EU/UN Cooperation[21].
+Following a consultation process between the EU’s Crisis Management and Planning Directorate
+(CMPD) and the UN’s Department of Peacekeeping Operations, the European External Action
+Service (EEAS) has produced an action plan which, had its origin in the Irish paper, setting out
+actions which they believe will enhance EU-UN cooperation such as: - the EU providing a component
+to a UN operation (civilian or military) and/or an EU autonomous military deployment in support of
+UN operations.
+
+**4.2.4 The EU and NATO**
+
+Given that so many EU Member States are also part of NATO, the relationship between the EU and
+NATO was foreseen from the outset of the Common Security and Defence Policy (CSDP), which was
+formerly known as European Security and Defence Policy (ESDP). States demand that duplication
+of effort and duplication of standards across the two organisations, and wasteful expenditure, is
+avoided.
+
+21 Food For Thought paper – Enhancing EU/UN Cooperation (2010). This is available under publications at
+www.defence.ie
+
+
+-----
+
+Permanent arrangements between the EU and NATO have evolved in accordance with principles
+specified by successive European Councils since Feira (Portugal) in 2000. These principles include
+full respect for the autonomy of EU decision-making, recognition of the different natures of the EU
+and NATO, and no discrimination against Member States of either organisation.
+
+Following the enlargement of both organisations in 2004, and the subsequent accession of Bulgaria
+and Romania to the EU in 2007, NATO and the EU now have 21 common member countries. The
+cooperation mechanisms established include EU-NATO meetings at ambassadorial and ministerial
+level, as well as regular meetings between the EU and non-EU European NATO members. This
+structure facilitates consultations in the event of a crisis, and also permits non-EU NATO members
+to contribute to EU-led operations. In 2002, the EU-NATO arrangement was formalised and in
+March 2003, the “Berlin Plus”[22] arrangement was put in place which allows the EU to use NATO
+assets and capabilities such as transport and headquarters, for substantial crisis management and
+peacekeeping missions.
+
+NATO’s Strategic Concept, which was adopted at the NATO Lisbon Summit in November 2010,
+commits the Alliance to prevent crises, manage conflicts and stabilise post-conflict situations,
+including by working more closely with NATO’s international partners, most importantly the UN and
+the EU. The Strategic Concept clearly states that an active and effective EU contributes to the
+overall security of the Euro-Atlantic area.
+
+The EU and NATO share a strategic vision and operational ambitions. As both organisations cooperate
+on issues of common interest and are working side by side in crisis-management operations, the
+NATO Strategic Concept underlines the importance of improving the NATO-EU strategic partnership.
+Close cooperation between NATO and the EU will remain an important element in the development
+of an international “Comprehensive Approach” to crisis management and operations, which requires
+the effective application of both military and civilian means.
+
+### 4.3 Capability Development
+
+The continued development of the Defence Organisation’s capabilities has been informed by Defence
+policy developments and operational requirements, both domestic and international. Defence Forces
+capabilities have been funded within a reducing resource envelope and significant organisational
+reform and modernisation has been required in order to maintain the operational outputs of the
+Defence Forces. This has been a key part of the Defence management response in order to ensure
+the retention of appropriate capabilities. It has entailed the further closure of barracks, a major
+reorganisation of the Defence Forces, both Permanent and Reserve, and the careful prioritisation of
+equipment expenditure.
+
+The civil and military elements of the Department of Defence work closely in managing, maintaining
+and developing military capabilities. In addition to the policy and financial management functions,
+the procurement of major equipment, management of the Department’s extensive infrastructure
+and property holdings (including training lands), and the provision of appropriate HR and regulatory
+frameworks are just some of the other key contributions of the Department of Defence to military
+capability maintenance and development.
+
+Major equipment holdings are outlined in Appendix 1.
+
+22 “Berlin Plus” was originally outlined at the NATO Summit in Washington D.C. in 1999 (4th April – Article 10
+Washington Summit Communiqué).
+
+
+-----
+
+**4.3.1 Economic Resources**
+
+Defence expenditure has decreased in real terms over the period from 2000. The Defence
+Organisation has downsized, infrastructure has been rationalised whilst outputs have improved in
+qualitative and quantitative terms.
+
+Defence vote expenditure (including pensions), as a percentage of overall gross Government
+expenditure[23], has decreased from 2.9% in 2000 to 1.6% in 2010. Over the same decade, defence
+expenditure as a percentage of Gross National Product (GNP) has decreased from 0.85% to 0.70%.
+When measured as a percentage of Gross Domestic Product (GDP), this equates to a decrease
+from 0.7% to 0.6% over the same period.
+
+Proportionately, defence expenditure in Ireland also remains amongst the lowest of EU Member
+States[24]. In 2010 average defence expenditure across EU States, as a percentage of (GDP), was
+1.6%, whilst Ireland’s rate of defence expenditure was 0.6%. This was second lowest within the EU
+with only Luxembourg recording a lower percentage at 0.5%.
+
+Defence provision includes the cost of developing and maintaining capability as well as the direct
+cost of participation in overseas peace support operations. Where the mission is a UN led operation,
+the UN reimburses the Exchequer with some costs in respect of contributions of personnel and
+equipment. Rates of reimbursement, fixed in accordance with UN categories of equipment and
+personnel, are agreed in a Memorandum of Understanding (MoU) between Ireland and the UN for
+each mission. The only mission, for which Ireland is currently entitled to reimbursement of some
+troop and equipment costs, is the United Nations Interim Force in Lebanon (UNIFIL).
+
+The UN does not reimburse costs where the mission is one on which the UN has requested a regional
+organisation to launch and manage the military operation on its behalf and under its authority. The
+majority of the cost of participation in UN mandated operations led by regional organisations, i.e.,
+EU, AU, falls on the Exchequer.
+
+Within these reduced expenditure levels, maintaining outputs and capability has required a consistent
+focus on delivering efficiencies. A key element of the White Paper in 2000 was the re-balancing of
+pay to non-pay costs in order to ensure the required investment in equipment. The policy adopted by
+Government of reinvestment of the proceeds of property sales (including barrack closures), allowed
+for a progressive development of defence assets.
+
+The White Paper on Defence reduced the strength of the Permanent Defence Force (PDF) from
+11,500 to 10,500 as the level necessary to fulfil Government policy on Defence provision. The
+Permanent Defence Force was maintained at a level of 10,500 until the current economic difficulties
+emerged. A revised strength ceiling of 10,000 PDF personnel was agreed with the Department of
+Finance in October 2010. However, the actual numbers serving continued to fall below that level.
+Following the Comprehensive Review of Expenditure (CRE) in 2011, the Government stabilised the
+strength ceiling of the PDF at 9,500 personnel.
+
+As the organisational structures which were in place for a strength level of 11,500 PDF personnel
+were no longer viable for a strength ceiling of 9,500 PDF personnel, the Minister for Defence initiated
+a reorganisation of the Defence Forces. In July, 2012, the Minister accepted the proposals for the
+reorganisation which had been prepared by the Chief of Staff of the Defence Forces and the Secretary
+
+23 Vote trend information sourced on Department of Public Expenditure and Reform Databank available at
+http://databank.per.gov.ie
+24 The figures have been extracted from the European Defence Agency (EDA) National Defence Data for 2010. All
+EU Member States except Denmark participate in the EDA. Percentages are based on the EDA methodology which
+provides a baseline for comparative purposes and are rounded to one decimal place.
+
+
+-----
+
+General of the Department of Defence. The recommendations outlined a PDF Army structure based
+on two Brigades with the brigade headquarters located in Cork and Dublin. Other key aspects of
+this reorganisation included the consolidation of under-strength Units and the disestablishment of
+certain units, a reduction in the number of headquarters and a re-deployment of personnel from
+administrative and support functions to operational Units. A reorganisation of the Reserve Defence
+Force, within a revised strength ceiling of 4,069 personnel also commenced following the publication
+of a Value for Money review of the Reserve in November 2012.
+
+Since 2000, the Department of Defence has taken on additional responsibilities, from within reducing
+resources, such as the Office of Emergency Planning (OEP) and an increased policy workload
+arising from the development of European Security and Defence Policy.
+
+**4.3.2 EU Capability Development**
+
+The main priority in the area of the EU’s capability development planning is to provide the Union
+with an operational capacity, drawing on civilian and military assets, which can be used on missions
+outside the Union for peacekeeping, conflict prevention and strengthening international security in
+accordance with the principles of the United Nations.
+
+These efforts have been informed by the increased recourse to more robust UN Chapter VII missions
+and the related development of associated standby arrangements such as EU Battlegroups. In that
+context, the EU has agreed broad civilian and military capability objectives beyond 2010.
+
+**4.3.2.1 European Defence Agency**
+
+The European Defence Agency (EDA) was established by the Council of the European Union[25] in
+2004 with the goal of supporting Member States in their efforts to improve defence capabilities in
+the field of crisis management and to support the CFSP into the future. Participating Member States
+continue to retain all decision making powers with regard to their defence policy, planning and
+capability development. Ireland’s participation in the Agency is focused on the development of military
+capabilities for UN-led or UN mandated peace support operations and leveraging the contribution
+which the Irish Defence Forces in partnership with Irish Enterprise can make in delivering high end
+research and technology in support of such capabilities. The financial commitment of participants to
+this budget is in accordance with EDA funding principles, based on the Gross National Income (GNI)
+key. In 2011 Ireland’s contribution was €284,047.
+
+Ireland’s participation in the EDA means that we have access to research and information on
+developing and maintaining professional capabilities and research that we cannot generate by
+ourselves. Ireland is supportive of developments which improve market efficiencies, potentially
+yielding economies of scale for equipment procurement for the Defence Forces. The Defence
+(Miscellaneous Provisions) Act, 2009 governs Ireland’s engagement with specific EDA projects or
+programmes which is subject to Government and Dáil approval.
+
+Ireland participates in the EDA’s Research and Technology Joint Investment Project on Force
+Protection. This programme aims to enhance the security of deployed operations through improved
+doctrine, best practice and emerging technologies. During 2011, Government and Dáil approval
+was given for Ireland’s participation in a Joint Investment Programme on Chemical, Biological,
+Radiological and Nuclear (CBRN) Defence and in a project on Maritime Surveillance. The aim of
+the CBRN programme is to develop initiatives to provide additional protection in the area of CBRN
+Protection. The aim of the Maritime Surveillance project is to develop and improve an exchange
+
+25 Ireland joined the EDA when it was established in 2004.
+
+
+-----
+
+network that will allow for the sharing of data between Member States to compile a Recognised
+Maritime Picture[26].
+
+**4.3.2.2 Pooling and Sharing**
+
+Over the past number of years the EU has focused very much on the financial crisis and how this is
+impacting on the EU as a whole and indeed on individual Member States. In the context of defence
+budget cuts and the requirement for EU Member States to retain, maintain and/or enhance their
+military capabilities, in 2010, the EU embarked on a new initiative in the area of military capability
+development called “Pooling and Sharing”. The concept involves groups of Member States coming
+together and pooling resources which they can make available for CSDP operations. This represents
+an effort to deliver greater cost efficiency through cooperation and economies of scale.
+
+The Pooling and Sharing initiative affords Member States an alternative solution to protect, enhance
+and acquire vital military capabilities in a time when prudent use of scarce finances is required. It
+also affords Member States the opportunity to examine how best to avoid duplication of effort in
+the delivery of military capabilities and therefore ensuring that tax payers’ money is well spent. This
+can be further supported by exploring how collaboration between military and civilian bodies can
+be advanced and how research funding for dual use goods can be optimised. This initiative is fully
+supported by the European Defence Agency (EDA) and the EU Military Committee (EUMC) who
+continue to support Member States in identifying opportunities for pooling and sharing in the areas
+of training, equipment acquisition and research/technology developments, etc.
+
+To date the EDA has proposed, in consultation with participating Member States, eleven initiatives
+under Pooling and Sharing to address key capability gaps as well as to increase overall efficiency
+and cost-effectiveness. Some of the EDA pooling and sharing initiatives identified are as follows:
+helicopter pilot training programme; medical field hospital (Italian lead); air to air refuelling (French
+lead); future military satellite communications; cyber defence. Also, the Irish Naval Service is leading
+a study on Naval Mariner training. The objective of the study is to review and evaluate what training
+is currently available across the Union with a view to consolidating EU capabilities in this area and
+deliver value for money training for our naval mariners.
+
+European States are also increasingly cooperating in Defence matters bilaterally and multilaterally
+outside of the EU framework, but appropriate to their particular circumstances. The Nordic states
+for example, have established the Nordic Defence Cooperation Organisation (NORDEFCO).
+NORDEFCO consists of Denmark, Finland, Iceland, Norway and Sweden. It has the aim of
+strengthening the participating nations´ national defence, explore common synergies and facilitate
+efficient common solutions. They recently agreed to establish a Nordic pool of airlift resources.
+
+**4.3.3 NATO/PfP**
+
+The Defence Forces must be able to operate seamlessly alongside other EU Member States. This
+has been evident where Ireland has operated in partnership alongside other Member States such
+as Sweden in Liberia, the Netherlands in Chad and Finland in Chad and Lebanon.
+
+Ireland had just joined Partnership for Peace (PfP) when the White Paper was approved by
+Government in 2000. PfP is a programme of practical cooperation between individual Euro Atlantic
+partner countries and NATO. PfP facilitates interoperability with other militaries in peace support
+
+26 A Recognised Maritime Picture is a picture/map, which shows all vessels and activities present in a particular maritime
+area and links data and information on vessels, activity and incidents compiled from various national and international
+monitoring and surveillance systems.
+
+
+-----
+
+operations. NATO is the primary standard setting organisation for modern conventional armed
+forces. In this regard, NATO has adopted a multitude of formal military standards to ensure seamless
+integration and interoperability of multi-national forces, which includes standards for training,
+equipment, operational procedures and administration. All NATO members and partners, including
+non-NATO EU Member States, have adopted these standards.
+
+PfP allows partners to build up an individual relationship with NATO, choosing their own priorities for
+cooperation, tailored to individual needs and jointly implemented at the level and pace chosen by
+each participating government. Cooperation focuses, in particular, on defence-related work, including
+defence reform, defence policy and planning, civil-military relations, education and training, crisis
+management, and civil emergency planning.
+
+Ireland’s ongoing engagement with NATO/PfP, in the Partnership Goal process and with the
+Planning and Review Process (PARP), is a key factor in supporting interoperability and capability
+development. It enables Ireland to contribute high-end capabilities to UN mandated operations.
+Under NATO PfP, Ireland’s annual Individual Partnership Cooperation Programme (IPCP) focuses
+on the enhancement of skills and expertise in such areas as operational and generic planning for
+peacekeeping and peace support, communications, command and control, operational procedures
+and logistics. Activities include training courses, seminars, workshops, conferences, staff exercises
+and tabletop exercises.
+
+
+-----
+
+## 5. Other Roles assigned to the Defence Forces
+
+In addition to the security roles, the other roles assigned to the Defence Forces have continued
+to evolve over the period since the White Paper was published. Operations relating to these roles
+can encompass ongoing tasks and contingencies. Since the publication of the White Paper, the
+Framework for Major Emergency Management was published in 2006. Although the Defence Forces
+are not a principal response agency, as defined in the Framework, many Departments and agencies
+with lead responsibility for the various elements of emergency planning often request the assistance
+of the Defence Forces and other specialised services in emergency situations.
+
+Where services are provided to other Departments and Agencies on a regular basis or for routine
+services, a formal agreement such as a Memorandum of Understanding (MOU) or a Service
+Level Agreement (SLA) is put in place as a framework for the provision of services. These are
+reviewed periodically and updated as required. Where appropriate, consideration is given to the
+recommendation in the (McCarthy) Report of the Special Group on Public Service Numbers and
+Expenditure Programmes that the full-economic cost be charged to the relevant Department/Agency
+for assistance provided by the Defence Forces. The negotiation of such agreed arrangements
+continues to facilitate a planned and efficient response in all situations. A list of current MoUs and
+SLAs in place is included in Appendix 4.
+
+In the context of the severe weather events that have occurred in recent years all assets, resources
+and capabilities of the Defence Forces nationally were made available to the Government Task Force
+on Emergency Planning and its Inter Agency Coordination Committee. This was for the purpose of
+providing assistance to other agencies where additional capacity and /or specialised capabilities
+were required.
+
+The Air Corps continues to provide a Ministerial Air Transport Service (MATS) for Government,
+routine maritime patrols throughout the Irish Exclusive Economic Zone (and periodically beyond these
+limits), and, an emergency inter hospital air ambulance service on an as available basis. Separately,
+in support of the HSE, since June 2012 the Air Corps has dedicated a helicopter to participate in a
+one-year pilot emergency aeromedical support service which operates out of Custume Barracks,
+Athlone. In 2004 the Air Corps was withdrawn from its maritime Search and Rescue (SAR) role.
+Since then, the Irish Coast Guard has overall responsibility for the provision of SAR services but
+in the context of the Defence Forces role in providing aid to the civil authorities, the Air Corps does
+provide support to the Irish Coast Guard as the need arises and within its available capability. A
+limited Maritime SAR capability has been retained by the Air Corps as a contingency in the context
+of their security role.
+
+In accordance with the White Paper, the primary day-to-day tasking of the Naval Service is providing
+sea fishery protection services based on outputs agreed with the Sea Fisheries Protection Authority
+(SFPA). The Naval Service is committed to having at least three vessels on patrol at all times
+throughout the Irish exclusive fishery limits and periodically beyond these limits. When carrying
+out its fishery protection role, all Naval Service vessels are multi-tasked in the sense that they
+also undertake general surveillance, security and other duties while on patrol. Since the White
+Paper was published, the Naval Service has been participating in joint deployment plans with other
+Member States, which are the means whereby the EU Community Fishery Control Agency supports
+operational cooperation between EU Member States in conducting fishery patrols.
+
+The Naval Service also provides assistance to other maritime agencies, including supporting the
+Irish Coast Guard in ship casualty and pollution monitoring/control operations. The Naval Service
+Diving Section and Naval Service ships also provide assistance to the civil authorities in SAR and
+drug interdiction operations.
+
+
+-----
+
+**Defence support to economic development**
+
+Apart from the Defence contribution to ensuring a secure environment, which is the bedrock of
+economic development and success, over recent years there have been significant developments
+which have broadened the Defence contribution to economic development. The Defence Forces have
+a long tradition of supporting Irish industry and research institutes in the development and delivery of
+capabilities for Defence Forces operations. In addition, following the establishment of the European
+Defence Agency, Defence has participated in a range of multilateral projects, most particularly in the
+area of force protection, chemical, biological and nuclear energy protection, counter IED detection,
+analysis and destruction, counter IED training, maritime surveillance and naval mariner training.
+
+In July 2011, Government approval was received, pursuant to s. 8(5) of the Science and Technology
+Act, 1987 whereby Enterprise Ireland would support Defence by raising the awareness of and
+engaging with, Irish-based enterprise and research institutes, including third level colleges that
+are engaged in relevant activities related to Defence Forces capability development. The primary
+objective is to support Defence Forces capability development and also to support innovation,
+growth and jobs in Irish based industry, particularly in the security and defence (dual use) sector,
+which can contribute to Ireland’s economic development and recovery. In addition, the Government
+agreed that Enterprise Ireland could also support Irish based enterprise and research institutes, the
+Department of Defence and Defence Forces Capability Development, where appropriate in relation
+to European Defence Agency ongoing activities.
+
+A policy framework has been agreed with Enterprise Ireland which includes the establishment of
+a Defence Enterprise Committee to consider proposals for such engagement. Under the policy
+framework the Defence Forces makes available, within its capability and resources, and where
+deemed appropriate, resources, expertise, advice and information, to Enterprise Ireland supported
+companies and other companies and institutions engaged in research, innovation and product/service
+development in the security and defence arena. The support offered by the Defence Forces under
+this policy includes the evaluation of technology research and innovation, provision of information
+on military requirements and the Defence Forces considered views on trends in specific capability
+development requirements. Separately, the Defence Forces may independently initiate projects in
+areas of interest to it with Irish enterprise or research institutes.
+
+Key projects currently being supported by Defence include:
+
+a) Hazard prediction analysis of a chemical/biological warfare agent in a dense urban environment,
+blast overpressure production from current IEDs and blast wave interactions in an urban
+environment; and development of lightweight armour systems for first responders with Carlow
+Institute of Technology.
+
+b) Explosive and chemical testing sensors and a project on developing procedures, practices and
+guidelines for chemical biological radiological and nuclear forensic aspects with the Tyndall
+Institute.
+
+c) The establishment and operation of the PPP National Maritime College of Ireland in conjunction
+with Cork Institute of Technology (CIT) as a civil military collaboration for delivering education
+and training to both naval and merchant seafarers.
+
+d) Support to the Irish Maritime and Energy Resource Cluster (I-MERC), a collaboration between
+CIT, University College Cork and the Naval Service which brings together expertise in the fields
+of energy engineering, maritime operations, maritime technology and ecosystem governance.
+
+Within the Enterprise Ireland policy framework, the Defence Forces are also participating in a range
+of projects in support of Irish companies and research institutes under the EU’s FP7 programme.
+
+
+-----
+
+In 2012, the Government published an integrated marine plan for Ireland, titled “Harnessing Our
+Ocean Wealth”, which sets out to enable Ireland’s marine potential to be realised. Maritime safety,
+security and surveillance were earmarked as an enabler and in this regard the Naval Service was
+identified as having a role in developing and implementing systems to provide real-time operating,
+surveillance and monitoring information on activity within Ireland’s maritime domain.
+
+
+-----
+
+## 6. Future Defence and Security Environment
+
+The security and defence environment has changed fundamentally since the publication of the
+Defence White Paper in 2000. The previous chapters have described the wide range of policy
+responses that have been implemented at both national and EU level over the intervening years.
+This process of change continues and the policy responses appropriate to today’s world will require
+constant review and revision in order to remain relevant. The knowledge and experience residing in
+Irish institutions can be combined with the perspectives of the UN and EU to guide our expectations
+regarding the future direction of the security and defence environment.
+
+In short, Ireland will continue to face a broad range of security challenges in the period ahead
+reflecting the significant changes to the defence and security environment that have evolved
+alongside globalisation. In addition, there will be an expectation that we will continue to fulfil our
+international obligations in contributing to international peace and security.
+
+While there is a variety of opinion concerning possible future trends, two dominant themes run
+through all of the available analysis:
+
+1. Firstly, the defence and security environment will continue to change rapidly and unpredictably;
+however, the risk of a conventional military attack on Ireland’s territory from another State will
+remain very low and
+
+2. Secondly, the world has evolved to the point where no one country acting alone can respond
+adequately to the collective threats in the defence and security environment. States are
+increasingly accepting that collaboration in defining the shared threats to security, as well as in
+the collective response, is necessary.
+
+As a small open economy Ireland benefits from globalisation. At the same time, Ireland is exposed
+to all of the dangers, uncertainties and challenges in the wider defence and security environment
+that accompany globalisation. As the world becomes ever more networked and interdependent,
+the distinction between the internal and external aspects of security becomes ever more blurred.
+Ireland’s geographic isolation does not provide the same degree of protection as in the past, from
+these new and emerging threats. Threats to the EU, to European interests and to wider security
+are now threats to Ireland. Both national security and our social and economic well-being will be
+affected by the global and regional environment. Military neutrality is a policy position that was
+framed in the context of inter-state armed conflict. However, it was not envisaged as a response
+to the transnational threats outlined here or to threats emanating from non-state actors such as
+terrorists.
+
+The future threats to security are interconnected, more diverse, less visible and less predictable
+than heretofore. They increasingly involve non-state actors such as terrorists, for whom national
+borders are irrelevant. States must coordinate responses in order to address these emerging
+threats. Security threats arise from extremism, international terrorism, organised crime, cyber crime
+and cyber terrorism. Population growth, energy competition, migration, environmental degradation
+and climate change all impact on both security and the response to humanitarian crises. Poverty
+and stunted economic development, taken with trends in population growth and migration, provides
+an environment in which terrorist recruitment and illegal economic activity can flourish.
+
+According to Kofi Annan, as Secretary General of the UN, “We can no longer afford to see problems
+_such as terrorism, or civil wars, or extreme poverty, in isolation. Our strategies must be comprehensive._
+_Our institutions must overcome their narrow preoccupations and learn to work across the whole_
+
+
+-----
+
+_range of issues, in a concerted fashion” [27]._
+
+According to the UN Panel of High Level threats, “Terrorism attacks the values that lie at the heart of
+_the Charter of the United Nations: respect for human rights; the rule of law; rules of war that protect_
+_civilians; tolerance among peoples and nations; and the peaceful resolution of conflict”. The threat_
+derives from movements that are well resourced, connected by electronic networks and are willing
+to use unlimited violence to cause massive casualties. A stated aim of Al Qaida is to target Western
+Europe and its way of life. Self-radicalised groups have emerged, such as those influenced but
+not directed by Al Qaida. Ireland must remain vigilant in this regard and also has a responsibility to
+ensure that the State does not become a safe haven for transnational terrorist groups or individuals.
+
+The experience in other European countries has shown that the threat level from terrorism can
+escalate rapidly. Spain, France, Sweden, Germany and the UK have been targeted by credible
+terrorist plots. A threat can emerge suddenly as a result of factors that lie outside the control of
+Government. For example, the security situation in Denmark worsened significantly and without
+notice following the publication of controversial cartoons featuring the prophet Muhammad in 2005.
+European experience has also shown that self radicalised “lone wolf” extremists can operate outside
+of terrorist networks. The level of impact caused by the actions of an individual was seen in Norway
+in 2011.
+
+Ireland has always engaged actively, through the EU, UN and other international bodies in crisis
+management and in tackling the root causes of instability. Military intervention, through the UN,
+is one of the instruments used by the international community in the collective security response.
+Active engagement by Ireland in this collective response can on occasion lead to an increase in the
+threat to Ireland, without however, significantly altering the general security environment that Ireland
+faces.
+
+In the Western Balkans, the efforts of the international community have contributed to the ongoing
+stability. However, some difficulties remain which need to be addressed, building on the security
+achieved so far.
+
+Tensions in Asia and the Middle East and regional conflicts in Africa and elsewhere will continue to
+challenge international peace and security. The defence and security environment will continue to be
+dynamic and it will continue to be difficult to predict all future developments. The suddenness, scale
+and escalation of recent uprisings in some Arab States have led to a fundamental transformation in
+the political, economic and social conditions in many of the countries of North Africa and the Middle
+East. While these developments have led to the overthrow of many dictatorships, they have done so
+at a significant cost in human lives and have created instability as the countries concerned attempt
+to rebuild their political institutions. These efforts are likely to require significant time.
+
+In Africa, problems associated with weak political institutions and other political and economic
+difficulties all call for a response from Europe, amongst others. For example, piracy and criminality,
+particularly off the African coasts (the Horn of Africa, Somalia and the Gulf of Aden) has implications
+for aid distribution and the flow of international trade. This is currently being combated directly
+through the European Union Naval Force (EU NAVFOR) – Operation Atalanta.
+
+Failed and failing States remain a source of internal distress to citizens, as havens for terrorism and
+of regional uncertainty. Security threats thrive in weak states. During conflict and in post conflict
+re-building, States require assistance in enhancing the capacity of their institutions, including in
+security and defence. Through EUCAP Nestor, the EU is assisting States in the Horn of Africa to
+
+27 Foreword by the UN Secretary General to the “Report of the Secretary General’s High Level Panel on Threats,
+Challenges and Change (A More Secure World: Our Shared Responsibility)” 2004.
+
+
+-----
+
+develop a self-sustaining capacity to enhance their maritime security and governance. Through
+EUTM Somalia, the EU is contributing to stabilising Somalia by training Somali soldiers.
+
+The proliferation and potential use of Chemical, Biological, Radiological and Nuclear (CBRN)
+weapons will continue to be of major concern to the international community.
+
+In March 2008, the EU High Representative and Commission presented a report to the European
+Council which described climate change as a "threat multiplier which exacerbates existing trends,
+tensions and instability". The report indicated that climate change could lead to disputes over trade
+routes, maritime zones and resources previously inaccessible. According to the report, “the core
+challenge is that climate change threatens to overburden states and regions which are already
+fragile and conflict prone”. The risks are not just of a humanitarian nature; they also include political
+and security risks that directly affect European interests[28].
+
+**Domestic Security**
+
+The Good Friday Agreement has delivered a stable peace process that commands overwhelming
+cross community support. Nonetheless, so called ‘dissident’ republican groups, with very limited
+levels of support, remain intent on disrupting the progress which has been achieved. Accordingly,
+there is a requirement for continued vigilance. There are ongoing reviews of the threat assessment
+arising from the activities of these groups taking into account particularly evidence of amalgamation
+and cooperation between the various groups.
+
+Certain security risks which were previously associated primarily with subversive paramilitaries are
+now also associated with criminal gangs. The Defence Forces continue to provide armed support to
+the Garda Síochána, for example in the transit of cash and in prisoner escorts. The use of improvised
+explosive devices by criminals within the State requires a major ongoing response from Defence
+Forces Explosive Ordnance Disposal, which continues to increase. Human trafficking and drug
+smuggling connects domestic and international criminals. The State is actively combating these
+criminal networks in partnership with EU Member States.
+
+At present, the main international threats to domestic security arise from terrorist acts or a major
+emergency incident (e.g. nuclear accident, medical epidemic, etc.). Overall, the direct threat to
+Ireland as a target of international terrorism is currently assessed as low. However, the State
+shares the common risk that arises for western democracies generally. In addition, Ireland has a
+responsibility to ensure that international terrorists cannot use the State as a refuge or as a base
+from which to direct their activities against targets in other countries. Regarding the threat from
+major accidents/emergencies, military capabilities will continue to contribute to the response. The
+‘Framework for Major Emergency Management (2006)’ sets out the structure enabling the principal
+response agencies such as the Garda Síochána, the HSE and Local Authorities to prepare for and
+make a coordinated response to major emergencies. The Defence Forces provide a contingent
+capability to support these agencies, with that support set out in MoUs and SLAs.
+
+**Cyber Security**
+
+Cyber crime represents a real and immediate threat to the welfare of individuals, business and
+states. The cyber threat exists equally for Government and public utilities as well as for commercial
+entities and individuals. Both nationally and internationally, there have been instances in recent
+years of cyber attacks on businesses, State institutions and critical national infrastructure. The
+experience gained from such attacks has heightened awareness of weaknesses in security and has
+
+28 Climate Change and International Security - Paper from the High Representative and the European Commission to
+the European Council (14 March 2008).
+
+
+-----
+
+illustrated greater sophistication in the methods of attack on systems. Across Europe, Governments
+are sharing information in developing protection against cyber attacks.
+
+The response to the cyber threat remains a whole of Government challenge, with the Department
+of Communications, Energy and Natural Resources taking the lead role with inputs in the security
+domain from the Garda Síochána and the Defence Forces. The Department of Communications,
+Energy and Natural Resources has established a dedicated cyber security unit to assist in identifying
+and protecting us from cyber attacks. The work of this unit is supported by an Inter-Departmental
+Committee on Cyber Security established and chaired by that Department, which regularly reports
+on progress and cyber security issues to the Government Task Force on Emergency Planning,
+chaired by the Minister for Defence. The Government Task Force maintains cyber security as a
+standing agenda item where regular updates are provided and where issues of common interest
+may be raised and addressed. The Defence Forces are also contributing to this whole of Government
+response by leveraging information sharing within the European military community.
+
+The Department of Communications, Energy and Natural Resources, in conjunction with the
+Department of Justice and Equality, the authorities in Northern Ireland and private sector
+companies, operates a recurring public awareness campaign called "Make IT Secure"
+(www.makeitsecure.ie) to raise public awareness of issues surrounding Internet access and cyber
+security.
+
+**Maritime Domain**
+
+In the maritime domain, the area of State jurisdiction has been expanded to encompass the
+continental shelf. This has implications for the provision of maritime law enforcement services.
+Security challenges also arise in relation to enhanced economic activity that is planned within this
+enlarged area of State jurisdiction. In 2012, the Government launched an integrated marine plan,
+‘Harnessing our Ocean Wealth”. The plan sets two targets: to double the value of our ocean wealth
+to 2.4% of GDP by 2030 and to increase the turnover from our ocean economy to exceed €6.4bn
+by 2020. The plan includes maritime safety, security and surveillance as enablers of the growth and
+investment envisaged. “Inter-agency cooperation at national, EU and international level, together
+_with industry and research collaboration, are key elements in delivering on this agenda”. “In order_
+_to provide assurances to investors and meet our international obligations, Ireland must continually_
+_improve national capabilities in the areas of security, safety and eco-protection of the maritime_
+_domain”. Work is ongoing on developing a shared common maritime picture which will facilitate_
+enhanced maritime data sharing at national level and between EU partners and enhance the defence
+and security of Ireland’s maritime interests.
+
+**Resources and Information Sharing**
+
+Global and regional political, economic, technological, energy, environmental and climate trends
+will cause the wider defence and security environment to remain unpredictable. Defence budgets
+across Europe are decreasing significantly as Governments respond to the global economic crisis.
+To minimise the likelihood of threats materialising, States are increasingly engaging in cooperation
+and resource prioritisation.
+
+Information is also a key element of the assessment of the environment as well as of the policy
+responses to threats identified. The world is increasingly networked and terrorism and organised
+crime do not recognise borders. The sharing of information, from any source, between States and
+with international organisations is critical as an early warning in establishing threats, in the evaluation
+and development of policy responses as well as during any operations undertaken.
+
+
+-----
+
+## Appendix 1: The Defence Organisation
+
+The Defence Organisation has civil and military elements, which work collaboratively to ensure that
+the Minister and Government’s requirements for Defence are delivered.
+
+**The Department of Defence**
+
+The Department of Defence was established by the Ministers and Secretaries Act, 1924 and the Act
+assigns to the Department “the administration and business of the raising, training, organisation,
+_maintenance, equipment, management, discipline, regulation and control according to law of the_
+_military defence forces”._
+
+The Department's mandate has a constitutional and statutory basis which seeks to ensure the civil
+control of the armed forces of the State. The Constitution of Ireland vests the right to raise and
+maintain military or armed forces exclusively in the Oireachtas and expressly prohibits the raising
+and maintenance of any other military or armed force for any purpose whatsoever.
+
+The Act provides that the Minister is ‘Head’ of the Department. The Minister is assisted in discharging
+his functions by the civil and military elements of the Department. The Secretary General is the
+“principal officer” of the Department and is also appointed by the Minister for Finance as the Accounting
+Officer for all defence expenditure in accordance with the Exchequer and Audit Departments Act,
+1866. The authority, responsibility and accountability of the Secretary General are further elaborated
+in the Comptroller and Auditor General (Amendment) Act, 1993 and the Public Service Management
+Act, 1997. The 1997 Act also requires the Secretary General to prepare a Strategy Statement for the
+Minister’s approval and an annual report on performance.
+
+The Department of Defence comprises civil and military elements with distinct but complementary
+roles. The primary role of the civil element of the Department is to support the Minister as Head of
+the Department, in particular by providing policy advice and support on Defence matters. The civil
+element of the Department of Defence is central to the oversight and management of the Defence
+Votes, the drive for efficiency and the process of change, formulating Defence policy, representing
+Ireland at EU and international engagements in Defence, defending against litigation and providing
+a range of services critical to the outputs of the Defence Forces. The civil element also provides
+liaison between the Defence Forces and other Government Departments, public authorities, the EU
+and public representatives. The Secretary General is the Minister’s principal defence policy adviser.
+
+Defence Forces Headquarters (DFHQ) is the military element of the Department of Defence, which
+is headed by the Chief of Staff, who is the Minister’s principal military adviser. It is focused on
+planning, managing, formulating military advice, development, and major strategic issues affecting
+the Defence Forces, including ongoing modernisation and transformation. DFHQ comprises a range
+of military staffs, which have responsibilities ranging from Defence Forces Strategic Planning to
+Operations, Logistics and Human Resource Management.
+
+**DEFENCE FORCES**
+
+The Defence Acts, 1954 to 2011 provide the legislative basis for the Defence Forces (Óglaigh na
+_hÉireann). The legislation provides that Defence Forces Headquarters (DFHQ) is the military element_
+of the Department of Defence. The Chief of Staff of the Defence Forces, who is the Minister’s
+principal military adviser, heads DFHQ. As provided for in the Act the Minister has assigned duties
+to the Chief of Staff. The Chief of Staff is directly accountable to the Minister for the performance of
+these duties, which include responsibility for the military effectiveness, efficiency, organisation, and
+economy of the Defence Forces. As provided for in the Acts and with the approval of the Minister,
+
+
+-----
+
+the Chief of Staff has, in turn, delegated responsibility for certain duties to the Deputy Chief of Staff
+(Operations) and to the Deputy Chief of Staff (Support).
+
+The Defence Forces are organised on conventional military lines providing a sufficiently flexible
+structure to carry out all the roles assigned by Government. The Defence Forces consist of a
+Permanent Defence Force (PDF) and a Reserve Defence Force (RDF).
+
+The PDF is a standing force and provides the primary capabilities for military operations at home
+and military peace support operations abroad. The RDF provides a contingent conventional military
+capability to augment and assist the PDF in situations where such additional capabilities are required.
+
+Civilian employees are engaged throughout the Defence Forces and provide a range of general
+operative, trade and other services in military installations.
+
+**PERMANENT DEFENCE FORCE**
+
+The Permanent Defence Force consists of the Army, the Air Corps and the Naval Service.
+
+**Permanent Defence Force Strength details as of 31**
+**December 2012**
+**Men** **Women** **Total**
+
+**7,028** **482** **7,510**
+**Army**
+_93.6%_ _6.4%_
+
+**761** **30** **791**
+**Air Corps**
+_96.2%_ _3.8%_
+
+**988** **70** **1,058**
+**Naval Service**
+_93.4%_ _6.6%_
+
+**ARMY**
+
+The Army provides the land component of the State’s Defence capabilities. The Army currently
+provides the deployable military capabilities for overseas peace support, crisis management and
+humanitarian operations augmented by personnel from the Air Corps and Naval Service. On a dayto-day basis the Army provides a broad range of operational outputs. These include activities in
+support of an Garda Síochána such as providing cash escorts, prisoner escorts, explosive ordnance
+disposal and prison security. The Army also undertakes tasks in support of the civil authorities
+such as the provision of assistance in severe weather crises and is an integral part of the State’s
+response to many contingencies.
+
+Following the implementation of the reorganisation of the Defence Forces, the Army is structured
+into two all-arms brigades. Each brigade is designated a territorial area of responsibility with specific
+garrison locations. The Defence Forces’ Training Centre (DFTC), based in the Curragh, Co. Kildare
+supports the training functions for the entire Defence Force. The Army also has a special forces unit
+known as the Army Ranger Wing (ARW).
+
+**Principal Weapons and Equipment System**
+
+The principal weapon and equipment systems of the Army are as follows:
+ - Weapons Systems on Mowag APCs (Armoured Personnel Carriers). The main weapon is a
+12.7mm machine gun while the turret also has a co-axial 7.62mm general purpose machine
+
+|Permanent Defence Force Strength details as of 31 December 2012|Col2|Col3|Col4|
+|---|---|---|---|
+||Men|Women|Total|
+|Army|7,028|482|7,510|
+||93.6%|6.4%||
+|Air Corps|761|30|791|
+||96.2%|3.8%||
+|Naval Service|988|70|1,058|
+||93.4%|6.6%||
+
+
+-----
+
+gun; 9 x RWS (Remote Weapon System) cw 12.7mm QCB HMG (Quick Change Barrel Heavy
+Machine Gun)/40mm GMG (Grenade Machine Gun); 6 x Oto Melara cw 30mm Bushmaster
+MK44 Cannon, 7.62 co-ax MMG (Medium Machine Gun);
+
+ - Javelin MRATGW (Medium Range Anti Tank Guiding Weapon) System;
+
+ - Mortar Systems. 60mm, 81mm and 120mm;
+
+ - Weapon Systems on RG 32 M LTAV (Light Tactical Armoured Vehicle):- Standard Variant x
+15 7.62mm GPMG (General Purpose Machine Gun) and ISR (Intelligence Surveillance
+Reconnaissance) Variant x 6 RWS (Remote Weapon System) cw 12.7mm QCB HMG/40mm
+GMG;
+
+ - 76 mm gun system mounted on the Scorpion tracked reconnaissance armoured vehicle;
+
+ - The 105 mm towed Field Gun;
+
+ - The Bofors RBS 70 SAM system (5 x BV 206 cw Giraffe MK IV Radar and 1 Giraffe MD II
+System);
+
+ - EL 70 40 mm (Flycatcher Radar).
+
+**AIR CORPS**
+
+As the air component of the Defence Forces, the Air Corps provides air support capabilities to the
+other components in carrying out their roles. On a day-to-day basis the Air Corps undertakes Army
+support, fishery protection patrols, provides a Ministerial Air Transport Service and operates an air
+ambulance service. The Air Corps routinely undertake tasks such as providing air cover for cash
+in transit operations and providing pilots and technical support for the Garda Air Support Unit. In
+addition, the Air Corps undertakes approved operations in support of the civil authorities.
+
+The Air Corps is based at Casement Aerodrome, Baldonnel, Dublin and consists of an operational
+headquarters, two operational wings, two support wings, the Air Corps Training College, and a
+Communication and Information Services Squadron.
+
+The Air Corps fleet consists of:
+
+ - 6 Agusta Westland AW139 aircraft. The AW139 is a medium-lift twin-engine helicopter, capable
+of night time flying. It has a troop lifting capacity of up to 14 personnel in land and maritime
+environments.
+
+ - 2 EC135 P2 aircraft. These are light utility helicopters which are used for carrying out a wide
+variety of roles for the Air Corps.
+
+ - 2 Casa CN 235 Maritime Patrol Aircraft. These aircraft work in close conjunction with the Naval
+Service, by providing an aerial platform in off shore maritime patrols.
+
+ - 2 Eurocopter EC135 T2. Although operational control of the aircraft remains with the Department
+of Justice and Equality, the Air Corps provide pilots to the Garda Air Support Unit to fly the
+aircraft.
+
+ - 5 Cessna FR172H aircraft. The vast majority of operations in which these aircraft are involved
+in, are aerial surveillance and monitoring of cash and prisoner & explosive escorts.
+
+ - 1 Gulfstream Aerospace GIV. This aircraft offers an intercontinental transport capability to the
+state. It is usually used in the Ministerial Air Transport role.
+
+ - 1 Learjet 45. This aircraft is usually used in the Ministerial Air Transport role. However, it
+
+
+-----
+
+regularly carries out national and international patient transfer services in conjunction with the
+Department of Health and the HSE.
+
+ - 1 Pilatus Britten Norman Defender. This aircraft operates in the Garda Air Support role. The Air
+Corps provide pilots and aircraft technicians to the Garda Air Support Unit to fly and maintain
+the aircraft.
+
+ - 7 Pilatus PC-9M. These aircrafts operate as the main pilot training aircraft for the Air Corps.
+They have a limited Close Air Support (CAS) and Combat Air Patrol (CAP) capability.
+
+**NAVAL SERVICE**
+
+The Naval Service, based in Haulbowline, Co. Cork, provides the maritime component of the State’s
+Defence capabilities. It is the State’s principal sea going agency and is tasked with a broad range
+of roles. The Naval Service has a flotilla of eight ships, an operational headquarters, an operations
+command, a logistical support command and a Naval Service College.
+
+On a day to day basis, routine patrols are multi-tasked to encompass security, safety and surveillance,
+port security, fishery protection, drug interdiction, pollution control and search and rescue. The
+Fisheries Monitoring Centre at the Naval Base is the designated national centre with responsibility
+for monitoring all fishing activity within the Irish Exclusive Fishery Limits and all Irish fishing vessels
+operating around the world. The Diving Section within the Naval Service routinely undertakes a
+range of operations in support of an Garda Síochána and the civil authorities. The Naval Service
+is also a partner at the National Maritime College and the Irish Maritime and Energy Resource
+Cluster (IMERC) at Cork. In addition, Naval Service vessels have, on occasion, undertaken supply
+and reconnaissance missions in support of overseas peace support operations and participated in
+foreign visits in support of Irish trade and diplomacy.
+
+The Naval Service fleet comprises an eight ship flotilla of patrol vessels:
+
+ - one Helicopter Patrol Vessel (HPV) – LE Eithne,
+
+ - two Large Patrol Vessels (LPV) - LE Niamh, LE Róisín,
+
+ - three Offshore Patrol Vessels (OPV) - LE Aoife, LE Aisling, LE Emer, and
+
+ - two Coastal Patrol Vessels (CPV) - LE Orla and LE Ciara.
+
+The LE before the ships names means Long Éireannach or Irish Ship. Each vessel is equipped with
+state of the art machinery, weapons, communication’s and navigation systems.
+
+The Naval Service ship replacement programme is integral to the future of the Naval Service and
+will see two new ships in service in the near future. Delivery of the first ship is programmed for early
+2014 followed by the second in 2015. The new ships will replace two of the older Naval Service
+vessels, which will be withdrawn from operational service.
+
+**RESERVE DEFENCE FORCE**
+
+The Reserve Defence Force (RDF) provides a capacity to augment the Permanent Defence Force
+in its contingent Defence role and other crisis situations. It consists of the First Line Reserve (FLR),
+the Army Reserve (AR) and the Naval Service Reserve (NSR).
+
+The FLR is comprised of former members of the Permanent Defence Force who have undertaken,
+either voluntarily or on foot of a contractual commitment, to complete a period of service in the
+FLR. There is no set establishment for the FLR; its strength is dependent on recruitment policy and
+
+
+-----
+
+reserve commitments given voluntarily or on foot of contractual commitments.
+
+The AR and NSR are comprised of volunteers who undertake reserve activities in their spare time.
+Arising from the recommendations of a Value for Money Review of the Reserve Defence Force, which
+was published in November 2012, the Army Reserve and Naval Service Reserve have a revised
+establishment of 4,069 personnel (3,869 AR and 200 NSR). The AR and NSR have undergone a
+major reorganisation. Defence Forces’ Army Units now have Permanent and Reserve elements
+within a “Single Force” structure. The number of Reserve Units has been consolidated and the
+number of Army Reserve locations retained outside of PDF installations was reduced to 16. These
+changes will deliver significant efficiencies and reduce direct expenditure on the Reserve by €11
+million in 2013.
+
+The VFM also recommended that members of the Reserve be afforded the opportunity to undertake
+Aid to the Civil Authority type tasks in a voluntary unpaid capacity.
+
+**Reserve Defence Force Strength as at 30 November 2012**
+
+The strength of the First Line Reserve as at 30 November 2012 was 263 personnel.
+
+The effective strength of the Army Reserve and Naval Service Reserve at 30 November 2012 was
+4,371 personnel (Army Reserve 4,191, Naval Service Reserve 180).
+
+**CIVIL DEFENCE**
+
+Civil Defence was set up in 1950 and the Civil Defence organisation currently has over 5,000 trained
+active volunteers based in local authority areas nationwide. Volunteers join Civil Defence through
+the local authority for their area and, in time, may progress and qualify as Instructors in one or more
+disciplines.
+
+The principal role of Civil Defence is to act as a volunteer based high-quality second line emergency
+response service supporting the frontline services in addition to its community support activities.
+Civil Defence is very much integrated into emergency planning and response arrangements at local,
+regional and national level.
+
+Civil Defence operates as a partnership between the Department of Defence at national level and
+local authorities at local level. The Department has responsibility for Civil Defence policy and for the
+management and development of the organisation at national level. The relevant local authority is
+responsible for the management and operational control of Civil Defence at local level.
+
+Civil Defence services are managed at local level by the Civil Defence Officer (CDO) of the relevant
+local authority. The CDO is a full time employee of the local authority and is responsible for the dayto-day management of Civil Defence matters under the overall direction of the relevant City/County
+Manager.
+
+The Department of Defence provides policy guidance and administrative support to local authorities
+and centralised training for Civil Defence volunteers in a range of disciplines such as casualty,
+rescue, auxiliary fire, radio communications, welfare and warden services. Multi disciplined training
+is the norm within Civil Defence.
+
+The level of Civil Defence activity over the course of extended periods of severe weather in recent
+years demonstrated the capability of Civil Defence to deploy significant skilled resources to assist
+communities in the event of a major emergency and shows the ongoing commitment of Civil Defence
+volunteers to serving their communities.
+
+
+-----
+
+In addition to its community support activities Civil Defence search and rescue units country-wide
+routinely respond to calls from the Gardaí and other front-line services requesting support in the
+rescue and recovery of missing persons both on land and in rivers and lakes.
+
+
+-----
+
+## Appendix 2: Defence Forces Operations in 2012
+
+The operational outputs of the Defence Forces encompass land, maritime and air operations, both
+at home and overseas. As previously outlined, there are also a range of capabilities that are on
+standby as part of the United Nations Standby Arrangement System (UNSAS) or in meeting EU
+Helsinki Headline Goal or Battlegroup commitments. The following illustrate some of the current
+day-to-day operational demands on the Defence Forces.
+
+**DEFENCE FORCES AID TO THE CIVIL POWER (ATCP) OPERATIONS CONDUCTED IN 2012**
+
+**Type of ATCP Operations** **Number of Operations**
+
+Cash in Transit (CIT) Escorts 2,023
+Prisoner Escorts 113
+Explosive Ordnance Disposal (EOD) call-outs 209
+Explosive Escorts 5
+Air Missions in support of ATCP (Garda Air Support Unit - GASU) 1,279
+Public Building security 366
+Public Building patrols 732
+Central Bank security guard 366
+Central Bank Patrols 732
+Portlaoise Prison security duties 366
+Explosive production security guard 366
+Airport security duties 381
+Power Installation Security 360
+Fuel Storage Facilities 12
+Naval Services involvement in Joint Task Force Operations 1
+Naval Service ATCP Diving Operations 16
+
+**Total** **7,327**
+
+**Naval Service Fleet Patrol Days conducted in 2012**
+
+|Type of ATCP Operations|Number of Operations|
+|---|---|
+|Cash in Transit (CIT) Escorts|2,023|
+|Prisoner Escorts|113|
+|Explosive Ordnance Disposal (EOD) call-outs|209|
+|Explosive Escorts|5|
+|Air Missions in support of ATCP (Garda Air Support Unit - GASU)|1,279|
+|Public Building security|366|
+|Public Building patrols|732|
+|Central Bank security guard|366|
+|Central Bank Patrols|732|
+|Portlaoise Prison security duties|366|
+|Explosive production security guard|366|
+|Airport security duties|381|
+|Power Installation Security|360|
+|Fuel Storage Facilities|12|
+|Naval Services involvement in Joint Task Force Operations|1|
+|Naval Service ATCP Diving Operations|16|
+|Total|7,327|
+
+|Col1|Planned|Achieved|
+|---|---|---|
+|Fleet Patrol Days|1,480 days|1,480 days|
+
+
+-----
+
+**Air Corps Aid to the Civil Authority (ATCA) Operations Conducted in 2012**
+
+**Activity** **Missions** **Flight Hours**
+
+Ministerial Air Transport Service (MATS) 79 353.57[29]
+
+Air Ambulance 108 314.40
+Air Corps Maritime Patrols 241 1,306.41
+Search and Rescue missions 10 28.62
+Other[30] 104 342.73
+
+**TOTAL** **542** **2,345.73**
+
+**International Peace and Security**
+
+Palette of Forces available for deployment as part of Ireland’s contribution to EU Headline Goal
+2010[31], status January 2012:
+
+**UNIT** **Personnel** **Readiness[32]**
+
+Infantry Brigade Headquarters 150 M
+Logistics Battalion Headquarters 50 H
+Light Infantry Battalion 750 H
+with 1 Infantry Company Group V
+Field Artillery Battery 80 H
+Reconnaissance Unit 80 V
+Medium Transport Unit 60 H
+Medium Truck Pallet Cargo 60 H
+Special Operations Forces Unit 40 V
+CBRN Decontamination Unit[33] 30 H
+CIMIC Group[34] 30 H
+CIMIC Tactical Elements 25 H
+EOD/IED Team[35] 5 H
+EOD/IEDD Team (CBRN) 5 H
+Military Observation Team 12 V
+Operations Liaison Reconnaissance Team 10 V
+Military Provost Marshal Office 10 H
+Military Police Detachment 10 H
+Media Operations Unit 6 H
+
+29 Ministerial Time on Board (Hours)
+30 Consists of other ATCA requests such as firefighting, ballot box collection, and wildlife surveys
+31 The Table provides for many combinations of units up to a maximum commitment of 850.
+32 Readiness States are measured in days: Very High 1-20, High 21-60; Medium 61-90 Days.
+33 CBRN: Chemical, Biological, Radiological and Nuclear.
+34 CIMIC: Civil-Military Cooperation.
+35 EOD/IEDD: Explosive Ordnance Disposal/Improvised Explosive Device & Disposal.
+
+|Activity|Missions|Flight Hours|
+|---|---|---|
+|Ministerial Air Transport Service (MATS)|79|353.5729|
+|Air Ambulance|108|314.40|
+|Air Corps Maritime Patrols|241|1,306.41|
+|Search and Rescue missions|10|28.62|
+|Other30|104|342.73|
+|TOTAL|542|2,345.73|
+
+|UNIT|Personnel|Readiness32|
+|---|---|---|
+|Infantry Brigade Headquarters|150|M|
+|Logistics Battalion Headquarters|50|H|
+|Light Infantry Battalion with 1 Infantry Company Group|750|H V|
+|Field Artillery Battery|80|H|
+|Reconnaissance Unit|80|V|
+|Medium Transport Unit|60|H|
+|Medium Truck Pallet Cargo|60|H|
+|Special Operations Forces Unit|40|V|
+|CBRN Decontamination Unit33|30|H|
+|CIMIC Group34|30|H|
+|CIMIC Tactical Elements|25|H|
+|EOD/IED Team35|5|H|
+|EOD/IEDD Team (CBRN)|5|H|
+|Military Observation Team|12|V|
+|Operations Liaison Reconnaissance Team|10|V|
+|Military Provost Marshal Office|10|H|
+|Military Police Detachment|10|H|
+|Media Operations Unit|6|H|
+
+
+-----
+
+**Defence Forces overseas deployment in 2012:**
+
+During 2012, approximately 1,000 members of the Permanent Defence Force deployed to various
+missions including postings within the UN, EU, OSCE and PfP/NATO. The table below gives the
+breakdown as per the Mission categories on 1 January 2012 and on 31 December 2012.
+
+**Mission** **01-Jan-2012** **31-Dec-2012**
+
+**UNITED NATIONS Led Peace Keeping Operations**
+UNTSO (Middle East) 12 12
+MINURSO (Western Sahara) 3 3
+MONUC (Democratic Rep Congo) 3 3
+UNOCI (Cote d'Ivoire) 2 2
+UNIFIL HQ (Lebanon) 10 16
+UNIFIL Infantry Battalion (Lebanon) 437 337
+UNIFIL Sector West HQ (Lebanon) 8 8
+
+SUB-TOTAL (UN) **475** **381**
+
+**EUROPEAN UNION Led Crisis Management Operations**
+EUFOR (Bosnia & Herzegovina) 7 7
+Austro-German Battlegroup 1 1
+EUTM Somalia 7 10
+
+SUB-TOTAL (EU) **15** **18**
+
+**NATO PfP Led Peace Support Operations**
+KFOR HQ 12 12
+ISAF (Afghanistan) 7 7
+
+SUB-TOTAL (NATO/PfP) 19 19
+
+**OSCE Led Operations**
+OSCE 4 4
+
+SUB-TOTAL (OSCE) **4** **4**
+
+**MILITARY REPS/ADVISERS/STAFF Postings**
+UNNY (New York) 1 1
+EUMS (Brussels) 7 4
+NATO/PfP (Belguim)* 5 5
+IRISH DELEGATION TO OSCE (Vienna) 2 2
+CSDP/PSC (Brussels)* 8 9
+
+SUB-TOTAL (MIL REPS/ADVISERS/STAFF) **23** **21**
+TOTAL PERSONNEL OVERSEAS **536** **443**
+
+- Both civil and military staff from the Defence Organisation are deployed to CSDP/PSC and NATO/
+PfP offices in Brussels.
+
+|Mission|01-Jan-2012|31-Dec-2012|
+|---|---|---|
+|UNITED NATIONS Led Peace Keeping Operations|||
+|UNTSO (Middle East)|12|12|
+|MINURSO (Western Sahara)|3|3|
+|MONUC (Democratic Rep Congo)|3|3|
+|UNOCI (Cote d'Ivoire)|2|2|
+|UNIFIL HQ (Lebanon)|10|16|
+|UNIFIL Infantry Battalion (Lebanon)|437|337|
+|UNIFIL Sector West HQ (Lebanon)|8|8|
+|SUB-TOTAL (UN)|475|381|
+|EUROPEAN UNION Led Crisis Management Operations|||
+|EUFOR (Bosnia & Herzegovina)|7|7|
+|Austro-German Battlegroup|1|1|
+|EUTM Somalia|7|10|
+|SUB-TOTAL (EU)|15|18|
+|NATO PfP Led Peace Support Operations|||
+|KFOR HQ|12|12|
+|ISAF (Afghanistan)|7|7|
+|SUB-TOTAL (NATO/PfP)|19|19|
+|OSCE Led Operations|||
+|OSCE|4|4|
+|SUB-TOTAL (OSCE)|4|4|
+|MILITARY REPS/ADVISERS/STAFF Postings|||
+|UNNY (New York)|1|1|
+|EUMS (Brussels)|7|4|
+|NATO/PfP (Belguim)*|5|5|
+|IRISH DELEGATION TO OSCE (Vienna)|2|2|
+|CSDP/PSC (Brussels)*|8|9|
+|SUB-TOTAL (MIL REPS/ADVISERS/STAFF)|23|21|
+|TOTAL PERSONNEL OVERSEAS|536|443|
+
+
+-----
+
+## Appendix 3: Overseas Missions in which the Defence Forces have participated since 01/01/2000
+
+United Nations Monitoring Verification and Inspection Commission (UNMOVIC)
+
+United Nations Special Commission (UNSCOM)
+
+United Nations Peacekeeping Force in Cyprus (UNFICYP)
+
+United Nations Interim Administration Mission in Kosovo (UNMIK)
+
+United Nations Interim Force in Lebanon (UNIFIL)
+
+United Nations Iraq-Kuwait Observation Mission (UNIKOM)
+
+United Nations Joint Logistics Centre (UNJLC)
+
+United Nations Mission for the Referendum in Western Sahara (MINURSO)
+
+United Nations Mission in Côte d'Ivoire (MINUCI )
+
+United Nations Operation in Côte d'Ivoire (UNOCI)
+
+United Nations Assistance Mission in East Timor (UNAMET)
+
+United Nations Transitional Administration in East Timor (UNTAET)
+
+United Nations Mission of Support in East Timor (UNMISET)
+
+United Nations Mission in Ethiopia and Eritrea (UNMEE)
+
+United Nations Mission in Liberia (UNMIL)
+
+United Nations Mission in the Democratic Republic of Congo (MONUC)
+
+United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO)
+
+United Nations Truce Supervision Organisation (UNTSO)
+
+United Nations Mission in Central African Republic and Chad (MINURCAT)
+
+United Nations Supervision Mission in Syria (UNSMIS)
+
+European Union Monitoring Mission in Aceh in Indonesia (AMM)
+
+EU support Mission to UN authorised African Union Mission in Sudan (AMIS)
+
+EUFOR RD Congo
+
+EUFOR TChad/RCA – EU-led Mission in Central African Republic and Chad
+
+EU-led Operation in Bosnia and Herzegovina (EUFOR Operation ALTHEA)
+
+EUNAVFOR EU-led Operation (ATALANTA)
+
+European Union Monitor Mission (EUMM) to the former Yugoslavia
+
+European Union Training Mission Somalia (EUTM Somalia)
+
+European Union Training Mission Mali (EUTM Mali)
+
+EU-led Operation Artemis in the Democratic Republic of Congo
+
+Stabilisation Force (SFOR) in Bosnia and Herzegovina
+
+International Force for East Timor (INTERFET)
+
+International Security Assistance Force in Afghanistan (ISAF)
+
+International Security Presence in Kosovo (KFOR)
+
+OSCE Mission to Albania
+
+OSCE Mission to Serbia
+
+OSCE Mission to Bosnia and Herzegovina
+
+OSCE Mission to Georgia
+
+OSCE Mission to Former Yugoslav Republic of Macedonia (FYROM)
+
+
+-----
+
+## Appendix 4: Memorandums of Understanding (MOUs) and Service Level Agreements (SLAs)
+
+The Department of Defence has completed MOUs with:
+
+ - Department of Agriculture, Fisheries and Food;
+
+ - Department of Environment, Community and Local Government;
+
+ - Department of Foreign Affairs and Trade;
+
+ - Department of Health;
+
+ - Department of Transport, Tourism and Sport; and
+
+ - The Irish Banking Federation.
+
+SLAs have been agreed with:
+
+ - Garda Síochána Ombudsman Commission (GSOC) - for the provision by the Air Corps of an Air
+Transport Service to GSOC Investigators.
+
+ - Department of Health / Health Service Executive (HSE) – regarding an Air Ambulance Service
+provided by the Air Corps.
+
+ - Irish Aviation Authority (IAA) – regarding Air Navigation Services between the IAA and the Air
+Corps.
+
+ - Department of Justice and Equality – regarding the Garda Air Support Unit.
+
+ - Irish Coast Guard (IRCG) – regarding Search and Rescue (SAR) and other services provided
+by the Defence Forces to the IRCG.
+
+ - Marine Institute (MI) – regarding surveys, information sharing and training between the MI and
+the Naval Service.
+
+ - Met Éireann – regarding the exchange of meteorological data between the Naval Service and
+Met Éireann.
+
+ - Air Accident Investigation Unit (AAIU) - in relation to services provided by the Defence Forces
+to the AAIU in the event of an air accident.
+
+ - Marine Survey Office (MSO) - in relation to port security services provided by the Naval Service
+to the MSO.
+
+ - Medico Unit in Cork University Hospital, - in relation to training assistance provided by the Naval
+Service to Medico[36].
+
+ - Office of Public Works – provision of services by the Air Corps.
+
+36 ‘Medico Cork’ is the communications call sign for the National Maritime Telemedical Assistance Service provided by
+the Emergency Department at Cork University Hospital. The service provides medical advice and assistance in the
+event of medical emergencies at sea or on an island.
+
+
+-----
+
+## Appendix 5: Details of Defence Vote 36 Expenditure for 2012
+ - by category
+
+**_(Based on 2012 Provisional Outturn Figures)_**
+
+**Expenditure Category** **€m** **%**
+
+PDF Pay & Allowances **430** 65.4
+Pay & Allowances of civilian & RDF employees **31** 4.7
+Defensive Equipment **29** 4.4
+Air Corps – Equipment, fuel maintenance etc. **16** 2.4
+Naval service – equipment, fuel maintenance etc **34** 5.2
+Barrack Expenses, repairs & maintenance of land **23** 3.5
+Building – capital (includes capital carryover of €1.5m) **6** 0.9
+Military Transport – new vehicles, fuel, repairs & maintenance **15** 2.3
+Compensation **3** 0.5
+Other non-pay military expenditure **44** 6.7
+Administrative budget **20** 3.0
+Civil Defence Board, Irish Red Cross Society. **6** 0.9
+
+**Total (Gross)** **657** **100**
+
+**Note: Minor discrepancies may arise due to rounding.**
+
+|Expenditure Category|€m|%|
+|---|---|---|
+|PDF Pay & Allowances|430|65.4|
+|Pay & Allowances of civilian & RDF employees|31|4.7|
+|Defensive Equipment|29|4.4|
+|Air Corps – Equipment, fuel maintenance etc.|16|2.4|
+|Naval service – equipment, fuel maintenance etc|34|5.2|
+|Barrack Expenses, repairs & maintenance of land|23|3.5|
+|Building – capital (includes capital carryover of €1.5m)|6|0.9|
+|Military Transport – new vehicles, fuel, repairs & maintenance|15|2.3|
+|Compensation|3|0.5|
+|Other non-pay military expenditure|44|6.7|
+|Administrative budget|20|3.0|
+|Civil Defence Board, Irish Red Cross Society.|6|0.9|
+|Total (Gross)|657|100|
+
+
+-----
+
+-----
+
+-----
+
+-----
+
+-----
+
+© Copyright
+Department of Defence
+Station Road, Newbridge, Co. Kildare.
+Tel: (045) 492 000 Fax: (045) 492 017
+Lo Call: 1890 251 890
+
+
+-----
+

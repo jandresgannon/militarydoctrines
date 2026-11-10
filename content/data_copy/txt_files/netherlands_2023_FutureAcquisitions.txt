@@ -1,0 +1,603 @@
+# Future Acquisitions  For the Norwegian Defence Sector 2023–2030
+
+#### May 2023
+
+###### 1
+
+
+-----
+
+#### Table of Contents
+
+###### 1. Introduction ..................................................................................................................................... 3
+
+ 2. National Defence Industry Strategy. ............................................................................................... 4
+
+ 3. Investments in the Norwegian Defence Sector ............................................................................... 5
+
+ 4. Main Focus Areas ................................................................................................................................ 7
+
+ 4.1 Acquisitions during the Period 2023–2030 ............................................................................. 7
+
+ 4.2 Land Domain ............................................................................................................................ 9
+
+ 4.3  Maritime Domain .................................................................................................................. 17
+
+ 4.4 Air Domain ............................................................................................................................. 24
+
+ 4.5 Cyber Domain ........................................................................................................................ 30
+
+ 2
+
+
+-----
+
+#### 1. Introduction
+
+###### The Norwegian Long-Term Defence Plan outlines the continuous development of the Norwegian Defence Sector with respect to organisation, infrastructure (garrisons and bases), personnel (numbers, composition and qualifications) and materiel (existing equipment and new acquisitions). The Government outlines a direction towards a more capable and sustainable defence force better able to face future challenges and the changing security environment. The Ministry of Defence (MoD) maintains the National Investment plan for the defence sector through continuous planning in different timeframes from four to twenty years ahead. The National Investment Plan itself is evaluated and updated several times per annum based on changing requirements, resources and progress within on-going acquisitions. The Investment Plan outlines the basis for all major procurement activities in the short- term (4 years) and the medium-term (8 years) perspectives. MoD issues The Investment Plan at least once a year. 
+
+ The Government acknowledges the defence industries contribution to the Armed Forces’ capabilities. The defence industry provides the Armed Forces with support from the provision and maintenance of military equipment through delivery of a wide range of support services.
+
+ A central feature in the annual updating of the Investment Plan is the preparation and publication of an unclassified overview of long-term requirements and objectives. This publication does not examine each planned project in detail but establishes a platform for in-depth discussions between the Defence Sector and industry. Hence, industry can get an early overview of potential future investments. The intent of giving this insight to commercial entities is to present the possibility for single or cooperative initiatives that can support the needs of both the Defence Sector and the Industry. Having a proven and highly skilled industry is also fundamental for being able to compete in the international defence market, a market that in many ways remains closed. Infrastructure projects are only described in the text through the document. Details in the tables will be included in a later edition.
+
+ The investment projects are subject to decisions and approval by the MoD and the Parliament. 
+
+ The projects listed in this publication have not yet been approved for implementation, as they have status as planned projects. It is necessary to emphasise that any project not yet formally approved may subsequently be terminated or changed without any further explanation or liability. 
+
+ Details related to a small number of classified and sensitive projects are being withheld.
+
+ 3
+
+
+-----
+
+###### Projects that are approved will not be addressed in this publication, but are listed in the charts presented in chapter 4. Information about major projects in this category can be found, among other places, on the home page of the Norwegian Defence Materiel Agency (NDMA).
+
+ This publication is only available as an electronic document on the Defence Sector’s area of the website http://www.regjeringen.no, and will not be published in paper format. An English version is published due to the statutory objectives and principles of procurement regulations, regarding competition and equal treatment.
+
+#### 2. National Defence Industry Strategy.
+
+###### An increasingly complex security environment with rapid technological advancements creates challenges that require actions to protect our national security and prosperity. The Norwegian defence industry is strategically important for Norway and is vital for our national security interests. In order to provide operational support and capabilities for the Norwegian Armed Forces, we need a viable and predictable defence industry. The Norwegian defence industry is one of world’s leading producers of niche products, and one of the core elements of the new industrial strategy is to improve the Norwegian defence industry to become even more competitive globally.
+
+ In order to have a competitive industry the National Defence Industry Strategy has prioritized eight technological areas, which provides the industry with a clear direction for future developments and national needs. The strategy highlights the importance of innovation, technology, national and international cooperation, and addresses the most important elements to maintain a future-proof Norwegian defence industry. 
+
+ The eight prioritized technological areas are as following:
+
+ 1. Command and control systems, information, decision support and combat
+ systems 
+ 2. Systems integration 3. Autonomous systems and artificial intelligence  4. Missile technology 5. Underwater technology 6. Ammunitions, propulsion technologies and explosives  7. Materiel technology developed for military use 8. Life cycle support for military land, air and sea systems
+
+ Additionally, the Government will seek to take advantage of emerging disruptive technologies nationally and as part of international cooperation. 
+
+ The strategy puts forward a holistic approach on how incentives are included in the acquisition process of defence equipment. The incentives are adjusted to each phase of the life cycle, from research and development to procurement and sustainment.
+
+ 4
+
+
+-----
+
+###### The strong cooperation between the defence sector, defence industry and academia has been essential in achieving innovation and exploitation of new technology. The defence sector must cooperate with relevant industry from other sectors that are in lead of their respective technological areas. Cooperating with leading actors in academia and the civilian industry and engagement in collaborative development brings new technology that will help modernize the Norwegian Armed Forces.
+
+ The Ministry of Defence will facilitate and strengthen international cooperation to ensure the Armed Forces' access to critical capacities and enhance global market access for the Norwegian industry. Bilateral and international cooperation is a crucial measure for success. The strategy further highlights the need to develop and reinforce the cooperation with small- and medium size businesses, which provide relevant technology, services and products. A stronger international procurement and industrial cooperation strengthens Norway’s contribution to support national and international ability to deliver technology, systems and expertise in demand. 
+
+ Norway has adopted the United Nations Sustainable Development Goals. The defence sector is also committed to implement goals relevant for the defence sector. Promotion of transparency, accountability, integrity and fighting corruption are strongly emphasised. Several mitigating actions are successfully across the social, economic and environmental pillars of sustainable development.
+
+#### 3. Investments in the Norwegian Defence Sector
+
+###### The Norwegian Defence Sector consists of the Norwegian Ministry of Defence (MoD) and its subordinate bodies; the Norwegian Armed Forces, the Norwegian Defence Estates Agency, the Norwegian Defence Materiel Agency and the Norwegian Defence Research Establishment. All new investment projects within the Defence Sector are approved by the MoD, and subordinate bodies execute the planning and procurements according to existing procedures. An important tool is the PRINSIX project model that describes phases, decision points and roles/responsibilities. This project model ensures a uniform execution of procurements. The MoD has established several investment domains to oversee and provide guidance through all the phases of procurements. Projects are typically conceived in two ways. One is the top-down approach, which largely deals with the major weapon systems resulting from strategic planning processes. The second way is the bottom-up approach, which deals with smaller requirements typically initiated by the services and users. At an early stage, the proposal is known as a Project Idea (PI), which is assessed by the portfolio manager, who presents recommendations to the investment committee, led by the Chief of Defence (CHOD). If the investment committee finds the PI to have merit, it is subsequently recommended to the MoD for approval and to be part of the Investment Plan. This is the first formal decision point. In a conceptual study, alternative concepts are assessed with respect to how capability requirements can be resolved in conceptually different ways. The study also assesses different procurement solutions, and recommends one of these for further development. The
+
+ 5
+
+
+-----
+
+###### outcome of a conceptual study is submitted in a document referred to as a Conceptual Solution. This document forms the basis for the Central Guidance document (CGD) which further develops the recommended solution from the conceptual study. Based on the CGD a decision will be made at the end of this phase whether to move on with the project or not. External quality control of the conceptual study is done in accordance with guidelines from the Royal Norwegian Ministry of Finance for projects exceeding 1000 million NOK. 
+
+ Once the Conceptual Solution is approved, the project moves into the next phase which is the detailed planning process leading up to the approval of the acquisition of the materiel in question. During this phase, the project is referred to as a Planned Project. Important outcomes of this planning phase are scope, procurement strategy, timelines and contractual provisions. 
+
+ Major materiel acquisitions with a scope exceeding 500 million NOK require approval from the Parliament. For digital projects the limit is 300 million NOK, and for infrastructure projects 200 million NOK. Projects with a lower scope are approved by the MoD.
+
+ 6
+
+
+-----
+
+#### 4. Main Focus Areas
+
+##### 4.1 Acquisitions during the Period 2023–2030
+
+###### Figure 1- Acquisitions (% share) broken down by domain incl. MoD during the period 2023–2030. The MoD allocates funds for preliminary project work, R&D and other supporting activities.
+
+ The Investment Plan for the Defence Sector focus on ongoing projects to improve the Armed Forces` availability and endurance. The main purpose is to ensure that our capabilities are operational. Subsequently, vital and strategic capabilities that increase situational awareness and control are prioritized. The procurement of new F-35 fighter aircraft, submarines, Ground Based Air Defence, surveillance sensors, Finnmark Land Defence, long range precision weapon and Maritime Patrol Aircraft (MPA) are prioritized. 
+
+ The Investment Plan also cover significant investments in intelligence, surveillance, survivability and combat power to strengthen Norway’s and NATO’s ability to prevent and deter use of force, and maintain situational awareness in the North Atlantic and the High North.
+
+ 7
+
+
+-----
+
+## LAND DOMAIN
+
+###### Photo 1 / Norwegian Armed Forces
+
+
+#### Point of Contact 
+
+ Senior Adviser Bjørn Ryen 
+
+ Norwegian Ministry of Defence
+
+ Telephone: +47 23 09 64 55
+
+ E-mail: Bjorn.Ryen@fd.dep.no
+
+###### 8
+
+
+-----
+
+##### 4.2 Land Domain
+
+###### Figure 2- Acquisitions (% share) broken down by main category.
+
+ According to the Long-Term Plan for the Armed Forces, large investments in modern materiel are planned for the Army. Various capabilities have been evaluated, each contributing to the necessary capacity of the land forces, and securing that available funds are used to provide the best possible operational capability. As with other acquisitions of key capabilities for the Armed Forces, the acquisitions of main systems for the Army will be time-consuming. The most important initiatives for the Army are to establish Finnmark Land Defence with adequate capabilities, strengthen the brigade system with further mechanization, and establish a satisfactory combat air defence.
+
+ A new 155 mm artillery system has been procured, while new artillery hunting radars are being procured. Acquisition of a new, modern tank capacity with associated infrastructure will start at the end of the short-term period. In order to maintain the tank capacity until new tanks are delivered from 2025, the service life of the existing Leopard 2 A4 will be extended. Additionally, it is planned to introduce a long-range precision fire system for the Army at the end of the period.
+
+ A number of support vehicles based on the Leopard and the M113 platforms are renewed to support the mechanized structure. Furthermore, command and control systems for the Army will be upgraded continuously throughout the period. All-terrain vehicles and trucks will be replaced, when existing vehicles reaches the end of their service life. Overall, this means that the main materiel in the Army has been significantly modernized or is in the process of being modernized. The strengthening
+
+ 9
+
+
+-----
+
+###### of the Army in Finnmark is supported by the acquisition of Man-Portable Air-Defence System and combat engineer resources.
+
+ Modern equipment for the individual soldier, such as personal clothing and equipment, weapons, personal protection, optics and night capacity equipment will increase the ability to survive and conduct effective operations. Norwegian soldiers have modern and state-of-the-art equipment, and this will be maintained throughout the period with the supply of new equipment with associated necessary infrastructure such as barracks, offices, medical services, garrison security and garages.
+
+ Special Forces capabilities will be upgraded throughout the period. For further details, contact Oeistein Edvardsen, Defence Staff: oaedvardsen@mil.no., tel: +47 2309 6340. 
+
+ 10
+
+
+-----
+
+###### Planned Projects
+ Materiel
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Army|1095|Long range precision weapon system for the Army|Procurement of a long-range weapon system with range exceeding existing army systems|To be defined.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Army|1113|Area control (phase 2)|This is phase 2 procurement of a area control system. Phase 1 will be completed in project 5065. In phase 1 an initial system will be procured based on existing equipment and COTS. In phase 2 this will be further developed including procurement of new equipment|Will not be disclosed in this publication|250-500 mill. kroner|||||||||
+|Materiel|Army|1116|IFV, recce and C2 vehicles for the Army|Procurement of additional IFV, recce and C2 vehicles for the new 4th mech. bn. and Finnmark Land Defence|To be defined.|2,0-3,5 bill. kroner|||||||||
+|Materiel|Army|2593|Improved capability on Light Portable Excon|Upgrade and improve the capability of the Light Portable Excon (LPE) of the Tactical Training Centre at Camp Rena. An upgraded LPE will enable effective training also outside Camp Rena.|Antenna systems for Data Acquisition Network (DAN), facilities for LPE including infrastructure, power supply, communication network, etc.|50-100 mill. kroner|||||||||
+|Materiel|Army|4046|Uniforms and personal protection for the soldier|Procurement of uniforms and personal protection for the soldier|To be defined.|250-500 mill. kroner|||||||||
+|Materiel|Army|4048|New types of ammunition|Procurement of new ammunition types for small calibre weapons (up to 12,7 mm)|To be defined.|150-250 mill. kroner|||||||||
+|Materiel|Army|5027|Upgrade/replacement of M113|Upgrade and/or replace existing M113|To be defined.|3,0-4,5 bill. kroner|||||||||
+
+
+###### 11
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Army|5066|Training and simulation materiel|Training and simulation materiel for drivers of armoured vehicles. Equipment must have an open standard enabling new vehicle types to be implemented in the simulator.|Replacement of existing trainers.|400-600 mill. kroner|||||||||
+|Materiel|Army|5067|FAC materiel|Equipment for Forward Air Controllers|To be defined.|400-600 mill. kroner|||27|106|106|44|96||
+|Materiel|Army|5090|Anti-armour system|Procurement of a new Anti-armour weapon system to replace an existing system|To be defined.|650-850 mill. kroner|||||||||
+|Materiel|Army|5092|Replacement of Mercedes Benz all- terrain vehicle|Replace ageing Mercedes-Benz all-terrain vehicles procured during the 1980'ies.|Non-armoured vehicles with trailers for the Armed Forces. Number to be defined.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Army|5096|Sensor systems for surveillance behind enemy lines|Sensor systems for use by units operating behind enemy lines.|To be defined.|500-700 mill. kroner|||||||||
+|Materiel|Army|5097|Replacement of Leguan|Replace existing Leguan bridges for the Leopard Bridge Layer armoured vehicle.|To be defined.|250-400 mill. kroner|||||||||
+|Materiel|Army|5098|Modernisation of mine clearing equipment and procurement of a new MICLIC system.|Modernisation of Hydrema mechanical mine clearing equipment. Procurement of a new MICLIC system.|To be defined.|75-150 mill. kroner|||||||||
+|Materiel|Army|5230|Artillery ammunition (40/60/90 km)|Artillery ammunition for the 155 system|A balanced procurement taking into consideration economy, number of shells, fuses and propellant charges|2-3,5 bill. kroner|||||||||
+|Materiel|Army|5456|Support vehicles M113 based|Procurement of M113 in various versions: Command and Control, Communications, Logistics, etc.|To be defined.|3,5-5 bill. kroner|||||||||
+|Materiel|Army|7639|Strengthen the Army Air Defence|The purpose of the project is to strengthen the Army Air Defence.|To integrate MRAD and SHORAD and increase the number of weapon stations.|0,8-1,4 bill. kroner|||||||||
+
+
+###### 12
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Army|LMU05|Command post equipment|Procure new command post equipment to ensure enhanced operational use, improved command and control, higher mobility etc.|To be defined.|250-400 mill. kroner|||||||||
+|Materiel|Army|MP100|Replace existing tracked vehicles|Replace BV206|To be defined.|400-750 mill. kroner|||||||||
+|Materiel|Army|MP103|Infantry Fighting Vehicles|Upgrade of CV90|To be defined.|1,5-3,0 bill. kroner|||||||||
+|Materiel|Army|MP105|Battlefield reconnaissance|Procurement of materiel for battlefield reconnaissance|To be defined.|400-600 mill. kroner|||||||||
+|Materiel|Army|MP106|Tactical support weapon system|Replacement of existing Javelin system|To be defined.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Army|MP107|Weapon systems|Procurement of various weapon systems for the new 4th mech. bn.|To be defined.|0,8-1,2 bill. kroner|||||||||
+|Materiel|Army|MP109|Replacement of SISU vehicles|Replace existing SISU ambulances.|To be defined.|1,5-3,0 bill. kroner|||||||||
+|Materiel|Army|MP113|Light all-terrain vehicles summer/winter|Procurement of light all-terrain vehicles summer ("ATV") and winter (snow scooter)|To be defined.|150-250 mill. kroner|||||27|109|36||
+|Materiel|Army|MP116|Armoured reinforced commercial vehicles|Procurement of armoured reinforced commercial vehicles|To be defined.|350-550 mill. kroner|||||||||
+|Materiel|Army|MP117|Remote weapon stations|Procurement of remote weapon stations|To be defined.|250-400 mill. kroner|||||||||
+|Materiel|Army|MP402|Mine clearing equipment|Procurement of mine clearing equipment|To be defined.|150-250 mill. kroner|||||||||
+|Materiel|Army|MP405|NRBC vehicles|Life extension program for existing vehicles|To be defined.|400-750mill. Kroner|||||||||
+|Materiel|Army|MP500|Small fire arms (replacement AG3 MP 5 MP 7 HK 416 P80 MLU)|Small fire arms, up to 12,7 mm|To be defined.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Army|MP502|Observation Equipment|Equipment for RECCE- patrols|To be defined.|2,0-3,5 bill. kroner|||||||||
+|Materiel|Army|SUP LTP M-03-E|Various ammunition categories|Procurement of various ammunition|To be defined.|400-600 mill. kroner|||||||||
+|Materiel|Army|SUP LTP M-18|M113 fire control vehicle|Procurement of fire control vehicles based on the M113|To be defined.|50-100 mill. krone|||23|15|3||||
+|Materiel|Army|SUP-LTP M-21-D|Light utility vehicles|Additional procurement of LUV|To be defined.|350-500 mill. kroner|||||102|204|102||
+|Materiel|Army|SUP-LTP M-21-E|Hook lift trucks|For transport purposes|To be defined.|400-600 mill. kroner||||22|102|204|181||
+
+
+###### 13
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Army|SUP-LTP M-21-F|40 mm automatic grenade launcher|Procurement of grenade launchers and ammunition|To be defined.|75-150 mill. kroner|||||25|51|25||
+|Materiel|Army|SUP-LTP M-21-G|84 mm. recoilless cannon|Replace existing materiel|To be defined.|175-300 mill. kroner|||||25|102|107||
+|Materiel|Army|SUP-LTP M-21-I|Fuel distribution materiel|Additional procurement of fuel distribution materiel|To be defined.|50-100 mill. kroner|||71||||||
+|Materiel|Army|SUP-LTP M-21-J|Ferry equipment|Additional procurement of ferry materiel|To be defined.|75-150 mill. kroner|||||||82||
+|Materiel|Army|SUP-LTP M-21-K|Fire distribution vehicle|Vehicle on M113 platform|To be defined.|250-450 mill. kroner|||||||357||
+|Materiel|Army|SUP-LTP M-21-P|Cargo handling containers|For transport purposes|To be defined.|40-80 mill. kroner|||||51||||
+|Materiel|Army|SUP-LTP M-21-Q|Work shop equipment for field use|Various equipment|To be defined.|50-100 mill. kroner||||71|||||
+
+
+###### INFRASTRUCTURE
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Infrastructure|Troms|Army|2LV10526|Materiel storage and maintenance|Support procurement of materiel system.|Establish buildings to support personnel and materials associated with Brigade North's Fourth Mechanized Manoeuvre Battalion.|400-500 mill. NOK|||||||||
+|Infrastructure|Troms|Army|2LV10501|Combat air defence and long-range precision weapon system|Support procurement of materiel system.|Establish storage and maintenance infrastructure.|300-375 mill. NOK|||||||||
+|Infrastructure|Multiple|Army|2LV10564|Infrastructure for tank procurements|Support procurement of materiel system.|Renovate storage and maintenance infrastructure.|260-340 mill. NOK|||||||||
+
+
+###### 14
+
+
+-----
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Infrastructure|Troms|Army|2FM10569|Quarters Bn2|Support procurement of materiel system.|Renovate existing barracks infrastructure.|100-165 mill. NOK|||||||||
+|Infrastructure|Innlandet|Army|2FM10558|Quarters|Replace quarters with temporary permit.|Renovate existing barracks infrastructure.|150-210 mill. NOK|||||||||
+|Infrastructure|Innlandet|Army|2AS10551|Replace temporary office capacity|Replace buildings with temporary permit.|Renovate buildings.|120-165 mill. NOK|||||||||
+
+
+###### 15
+
+
+-----
+
+## MARITIME DOMAIN
+
+#### Point of Contact
+
+ Jon Inge Stensrud
+
+ Norwegian Ministry of
+
+ Telephone: +47 23 09 65 87
+
+ E-mail: Jon-Inge.Stensrud@fd.dep.no
+
+
+###### Foto 1 Marius Vågenes Villanger / Sjøforsvaret
+
+
+###### 16
+
+
+-----
+
+##### 4.3  Maritime Domain
+
+###### Figure 3- Acquisitions (% share) broken down by main category.
+
+ The main procurement for the naval forces will be the acquisition of new submarines including pier-, maintenance and test facilities. The first submarine is planned to be delivered in 2029, and the last one in 2035. In order to sustain the submarine capability, the existing Ula-class is subject to modernization in order to stay relevant in its remaining lifetime.
+
+ Coast guard vessels Svalbard and Harstad will receive necessary modernization and upgrades in order to extend remaining service time. The inshore vessels of the coastguard (Nornen-class) will be upgraded in the middle of the period. 
+
+ Towards the end of the medium-term period, the Fridtjof Nansen-class frigates will undergo a technical update to ensure continuation of the vessels' operational capability. This work will include a large number of systems on-board. Critical safety updates may be initiated earlier.
+
+ A sufficient number of the Skjold-class corvettes will be continued until 2030, and will undergo upgrades in the first part of the period.
+
+ A future maritime mine countermeasure capability will be established in the period, consisting of autonomous counter measure systems. As a part of this project, two motherships for these systems will be procured or leased. This system will replace
+
+ 17
+
+
+-----
+
+###### existing minesweepers and -hunter vessels, which also will undergo a continuation programme to ensure a relevant capability until the new system is fully operational.
+
+ The Naval Strike Missile is an anti-ship missile produced by Kongsberg Defence & Aerospace, and represents the Navy's main weapon against surface vessels. A new, upgraded NSM missile (Future NSM) is being developed in cooperation with Germany, which will be available from 2035.
+
+ The first project in a series of four related to upgrades and development of the Coastal Ranger capability will start early in the period. Activities will continue throughout the period. 
+
+ Special Forces capabilities will be upgraded throughout the period. For further details, contact Oeistein Edvardsen, Defence Staff: oaedvardsen@mil.no, tel: +47 2309 6340.
+
+ Investments in necessary infrastructure to support vessels, maritime helicopters and personnel such as barracks, offices, port- and maintenance facilities will be carried out during the period. 
+
+ Replacement capability for coastguard and support vessels is in the early stages of an analysis process. A replacement with a standardized class of vessels is likely when current vessels become obsolete.
+
+ A new naval surface structure will be analysed in due time before the plans for decommissioning the Skjold-class corvettes and Nansen-class frigates around 2030 are being executed.
+
+ 18
+
+
+-----
+
+###### Planned Projects
+ Materiel
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Navy|1081|Future NSM|In cooperation with Germany develop a Future Naval Strike Missile, ready for delivery 2035|Through a common development, with Norwegian industry in lead, Germany and Norway will develop a Future Naval Strike Missile. Development contract planned to be established by the end of 2023, resulting in missiles ready for delivery from 2035.|3,5-6 bill. kroner|||||||||
+|Materiel|Home Guard|1109|Light commercial watercrafts and maritime barriers|The project aim is to procure commercial watercrafts for the Home guard for maritime patrols. In addition, maritime barriers to mark military controlled areas at sea.|Commercial boats and light sea barriers that can be moved within the home guard district.|20-40 mill. kroner|||||||||
+|Materiel|Navy|6096|Lifetime extension Fridtjof Nansen-class frigates|The Nansen-class of frigates represents a vital part of the Norwegian naval capability. The vessels are approaching a need of a mid-life update. The objective of the project is to identify and carry out necessary upgrades to ensure that the operational capability remains relevant.|The project scope is not yet detailed, but will include replacement of subsystems due to technical end life or sourcing issues (availability of spare parts, etc) and upgrades necessary to maintain operational relevance as operational requirements evolves|8-12 bill. kroner|||||||||
+
+
+###### 19
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Navy|6359|Future Naval Mine Countermeasures system (NMCM)|Naval Mine Countermeasures (NMCM) is an essential part of a naval capability. RNoN current NMCM inventory is approaching technical end life and must be replaced. The objective of this project is then to develop and field an advanced NMCM capability in a timely manner and with capability meeting key future operational requirements as they develop.|Project scope is to develop, procure and field a new generation NMCM system with capabilities in line with key operational requirement. While a specific solution is not chosen, it is expected that the next generation Norwegian NMCM capability to an extent will be based on and utilize unmanned and autonomous systems. Furthermore, the project will also include necessary infrastructure and support equipment in order to sustain the new capability in its technical lifetime.|1,5-3 bill. kroner|||||||||
+|Materiel|Navy|6380|CRCDO upgrade|Update of necessary equipment for the CRCDO so that the unit operational ability is maintained and developed in accordance with policy decisions.|The scope of the projects is a large variety of systems and materiel in a limited number adapted to the CRCDO requirements. The project will replace current boat assets, UAV systems in different sizes, weapons, sensors and C4 equipment.|1-1,5 bill. Kroner|||||||||
+|Materiel|Navy|6395|Facility for electromagnetic signature measurements for submarines|The project overall objective is to establish a facility for electromagnetic signature measurements for the Ula class submarines and the new 212 CD submarines.|The project includes new materiel and is also closely linked to investments in new infrastructure.|20-40 mill. kroner|||||||||
+|Materiel|Navy|6624|Lifetime extension inner coast guard vessels|Purpose is to upgrade vessels for safe in order to ensure O&M.|Project scope is to undergo a technical update to ensure continuation of the vessels' operational capability, including replacement of organic fast patrol craft.|450-600 mill. kroner|||||||||
+
+
+###### 20
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Navy|6692|Small craft integration Nansen- class frigates|Capability to conduct Maritime Interdiction Operations (MIO) is an inherent part of the Nansen class capabilities. To ensure this a key requirement is to carry and utilize small craft in an efficient and safe manner. The Nansen class needs upgraded davits and cranes to provide this capability at a sufficient level|The project scope is to provide an updated, safe and efficient small craft capability on all four frigates of the Nansen class. This includes procurement and installation of new davit and crane systems including necessary hull modifications|100-200 mill. kroner|||||||||
+|Materiel|Navy|SUP LTP M- 29|New equipment mine clearance divers|The purpose of the project is to maintain mine clearance diving capacity through replacement of obsolete materiel.|Project scope is to cover the need for replacement, updates and upgrades of existing materiel.|150-300 mill. kroner|||||||||
+|Materiel|Navy|SUP LTP M- 35|New surface vessel structure|The purpose of the project is to replace the capacity currently comprised of frigates and corvettes.|The project concept and scope are not defined yet|35-50 bill. kroner|||||||||
+|Materiel|Navy|P1118|Standardized vessels|The project aim is to procure new vessels as replacement for current coastguard and support vessels.|A class of standardized vessels. The project is in early stages and concept is not set.|5-7 bill. Kroner|||||||||
+
+
+###### Infrastructure
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Infrastructure|Rogaland|Joint institution|2UØ20339|Increase the effectiveness of military recruit training|Ensure the military's educational capacity to maintain sufficient stability and operational readiness.|Establish and renovate buildings.|300-450 mill. NOK|||||||||
+|Infrastructure|Rogaland|Navy|2FM20317|Crew barracks|Increase barracks availability and capacity.|Renovate existing barracks infrastructure.|40-80 mill. NOK|||||||||
+
+
+###### 21
+
+
+-----
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Infrastructure|Nordland|Navy|2BS20336|Concrete rehabilitation of the coast guard dock facilities|Ensure available harbour facilities.|Renovate harbour facilities.|35-55 mill. NOK|||||||||
+|Infrastructure|Nordland|Navy|2NM20341|Environmental measures of dock facilities|Establish means for docked vessels to connect to shore power.|Renovate harbour facilities.|200-300 mill. NOK|||||||||
+|Infrastructure|Troms|Navy|2BS20335|Other developments|Establish and renovate buildings and infrastructure to support increased activity related to the Navy and allied forces.|Renovate and establish infrastructure.|770-920 mill. NOK|||||||||
+|Infrastructure|Vestland|Navy|2FM20325|Renewal of crew barracks|Improve barracks availability and capacity.|Renovate existing barracks infrastructure.|120-165 mill. NOK|||||||||
+
+
+###### 22
+
+
+-----
+
+## AIR DOMAIN
+
+###### Photo 2 / Norwegian Armed Forces
+
+
+#### Point of Contact 
+
+ Jan Ronny Fagereng
+
+ Norwegian Ministry of Defence
+
+ Telephone: +47 23 09 64 32
+
+###### E-mail: Jan-Ronny.Fagereng@fd.dep.no
+
+ 23
+
+
+-----
+
+##### 4.4 Air Domain
+
+###### Figure 4- Acquisitions (% share) broken down by main category.
+
+ The new Long-Term Defence Plan introduces measures to ensure the Norwegian Armed Forces will continue to strengthen their efforts in the air domain. The introduction of new weapon systems and the upgrade of existing systems will enhance the combat power in the long term. 
+
+ The procurement of new aircraft systems including weapons and additional equipment will have priority for the Air Force during the years leading up to 2025. Extensive infrastructure is being established at Oerland and Evenes air bases, including logistic facilities, hangars, base defence and upgrade of operational structures. Upgrades of the F-35 aircraft will begin at the end of the period and beyond. P-8 Poseidon maritime patrol aircraft with associated logistics and maintenance facilities as well as infrastructure will replace the fleet of P-3 Orion. C- 130J will be upgraded in the period. The Bell 412 transport helicopters are due to be replaced by a new helicopter capability better suited for the Special Forces, and to increase the transport capability for the Army.
+
+ The Air Force and the Army are expanding their air defence capability. To improve air defence capability, NASAMS will be be upgraded with modern sensors as well as integrated with a Long-Range Air Surveillance Sensor System. There are also plans for replacing the existing missile (AMRAAM AIM-120B) with a new medium-range missile with extended range as well as introduction of a complementary capacity with shorter range. Associated infrastructure will be upgraded and renewed. The implementation of the Army mobile air defence continues, and will be expanded. 
+
+ 24
+
+
+-----
+
+###### The majority of the long-range air surveillance radars will be replaced with new sensors between 2025 and 2029. Other radars will be modernized.
+
+ There are major investments in personnel-related infrastructure and operational infrastructure at Oerland, Evenes and Rygge.
+
+ Special Forces capabilities will be upgraded throughout the period. For further details, contact Oeistein Edvardsen, Defence Staff: oaedvardsen@mil.no, tel: +47 2309 6340.
+
+ 25
+
+
+-----
+
+###### Planned projects
+ Materiel
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Air Force|1107|New helicopter capability|The purpose of the project is to introduce new helicopter capability better suited for the Special Forces, and to increase the capacity for helicopter transport for the Army.|To procure a number of helicopters adapted to special operations and transport operations.|4,5-7,0 bill. kroner|||||||||
+|Materiel|Air Force|1108|Log base Air|The purpose of the project is to strengthen the capacity of Log base Air, which will support Air Force units deployed outside home bases.|Support deployed forces with medium or small contributions, through the acquisition of support and management materials.|100-200 mill. kroner|||||||||
+|Materiel|Air Force|1114|Passive sensor systems for Air Surveillance|The purpose of the project is to procure passive sensors in support to air surveillance and electronic warfare.|To implement a nationwide network of passive sensors.|175-300 mill. kroner|||||||||
+|Materiel|Air Force|1117|Force Protection Oerland, Evenes, Rygge, Bardufoss|The purpose of the project is to procure equipment that contributes to the development of Force Protection through unified solutions.|Acquire equipment for the Force Protection at Air Force Bases Oerland, Evenes, Rygge and Bardufoss.|450-700 mill. kroner|||||||||
+|Materiel|Air Force|2048|P8 Upgrade|The project intends to maintain and develop the P-8 in order to ensure operational performance and counter relevant threats.|Acquisition of relevant upgrades and participation in relevant fora.|2,0-3,5 bill. kroner|||||||||
+|Materiel|Air Force|7571|Surveillance Systems for the Base defence|The purpose of the project is to procure surveillance systems for the Base defence in order to improve the existing capacity.|To procure modern surveillance systems equipment.|15-30 mill. kroner|||||||||
+|Materiel|Air Force|7621|Ground Based Air Defence|The purpose of the project is to strengthen ground-based air defence in the Armed Forces.|Upgrade existing NASAMS system, sensors and effectors, as well as integration with national and NATO C2.|6-8 bill. kroner|||||||||
+
+
+###### 26
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Air Force|7627|Long Range Ground Based Air Defence|The purpose of the project is to enhance Norway’s ability to protect important infrastructure against airborne platforms and long-range precision munitions.|The project will procure long range ground-based air defence for integration into existing GBAD.|19-23 bill. kroner|||||||||
+|Materiel|Air Force|7630|Mobile Ground Based Air Defence System Upgrade|The purpose of the project is to enhance the Norwegian Armed Forces capability to protect against modern airborne threats.|Upgrade of the mobile GBAD capabilities both in terms of mobility-, sensor- and shooter.|100-200 mill. kroner|||||||||
+|Materiel|Army|7637|UAV Tactical Level|The purpose of the project is to acquire a UAV capacity for use at the tactical level.|To procure UAVs with airborne sensor system and all-weather capacity.|275-450 mill. kroner|||||||||
+|Materiel|Army|7639|Strengthen the Army Air Defence|The purpose of the project is to strengthen the Army Air Defence.|To integrate MRAD and SHORAD and increase the number of weapon stations.|0,8-1,4 bill. kroner|||||||||
+|Materiel|Army|7642|Counter UAS capability|The purpose of the project is to procure an initial CUAS capacity.|The procure CUAS system consisting of sensor, control station and effector, that can meet the threats posed by smaller unmanned aerial vehicles.|100-175 mill. kroner|||||||||
+|Materiel|Air Force|7820|MLU C-130J|The purpose of the project is to update and upgrade C-130J in order to maintain the operational capability.|To upgrade C-130J in line with the operational and technological development.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Air Force|7821|Replacement MSAM|The purpose of the project is to increase the operational capability to protect vital assets and installations against modern air threats.|To procure a number of missiles with the right capability as a replacement for the current system.|2,0-4,0 bill. kroner|||200|690|890|989|||
+
+
+###### 27
+
+
+-----
+
+###### Infrastructure
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Infrastructure|Norway|Air Force|2BS30468|Base defence|Support procurement of materiel system.|Establish storage and maintenance infrastructure.|160-240 mill. NOK|||||||||
+|Infrastructure|Trøndelag|Air Force|2BS31070|Air defence|Strengthen the ability to protect national infrastructure.|Renovate and establish buildings.|290-420 mill. NOK|||||||||
+|Infrastructure|Trøndelag|Air Force|2BS31078|Reacquisition and collocation of maintenance building and warehouse|Support the national capacity for force generation and ensure adequate maintenance capability.|Replace and renovate existing warehouse and maintenance infrastructure.|90-220 mill. NOK|||||||||
+
+
+###### 28
+
+
+-----
+
+### CYBER DOMAIN
+
+
+###### Photo 3 Cyber Defence
+
+
+###### Point of Contact
+
+ Ole Oyvind Stensli
+
+ Norwegian Ministry of Defence
+
+ Telephone: +47 23 09 65 13
+
+ E-mail: Ole-oyvind.stensli@fd.dep.no
+
+ 29
+
+
+-----
+
+##### 4.5 Cyber Domain
+
+###### Figure 5- Acquisitions (% share) broken down by main category.
+
+ The Norwegian Armed Forces are dependent on the cyber domain to conduct operations and assigned tasks by possessing modern and updated ICT-solutions. Robust ICT-solutions, which effectively connects effectors, sensors and decision makers, is a decisive capability to provide for an effective military force with good operational ability. Modern and resilient ICT solutions further enable the Armed Forces to access a significant unrealised potential accessible in the Armed Forces’ force structure. The Armed Forces operational capabilities are also dependent on efficient management, logistics and force production.
+
+ Streamlining and improvement of these elements are crucial and will be achieved by increased digitalisation, innovation efforts and utilisation of new and emerging technologies. To make this possible, the defence sector needs modern and flexible ICT solutions that facilitate digitalisation according to The Defence Sector ICT Strategy and the Armed Forces’ digitalisation strategy. 
+
+ The investments within the cyber domain will primarily focus on measures that will contribute in strengthening the Armed Forces ICT infrastructure. Current plans incorporate significant investments in the timeframe 2022 – 2029 for these purposes. These investments will modernise and develop new ICT solutions in areas such as combat-near ICT, military application of cloud services, compounded ICT,
+
+ 30
+
+
+-----
+
+###### applications, communications infrastructure (including communications satellites), geographical services, information security and other ICT.
+
+ The main investment effort within the cyber domain is conducted within the two programmes Mime (combat-near ICT) and MAST (Military application of cloud services). These programmes shall deliver operational effect through investment, business, and innovation measures coordinated and managed as a whole. 
+
+ Program Mime will provide solutions for combat-near ICT towards 2030, while program MAST will modernise the Armed Forces’ secure ICT platforms with integrated services towards 2028. The Armed Forces have delivered a conceptual study for the Armed Forces’ secure ICT platforms and integrated services, which describes guidelines for the modernisation of a large portion of the Armed Forces’ ICT-systems. 
+
+ Within the area of compounded ICT, we will see a significant effort on providing ICT for the Special Forces. Significant funding will also be used on continuing the efforts on Joint Intelligence, Surveillance and Reconnaissance (JISR) capabilities and solutions for secure information exchange. The ICT infrastructure on several existing bases will be further developed and modernised. 
+
+ Within the area of communication infrastructure, significant investments are planned in this period, regarding both the stationary infrastructure and static networks, in the use of satellites and diverse radio transmitters.
+
+ A resilient, high capacity communications infrastructure with the ability to resist and withstand relevant threats is a prerequisite for other ICT systems and is thus highly prioritized. In addition, the Armed Forces will be supplied with a new space segment for wide band infrastructure satellite communications in the Northern area, early in the timeframe.
+
+ Further, significant investments will be made in the other areas within the cyber domain: applications, geographical services, information security and assurance as well as other ICT.
+
+ 31
+
+
+-----
+
+###### Planned projects
+ Materiel
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Projects in Mime|||||||||||||||
+|Materiel|Cyber|1133|Mime - LB3|Program Mime tranche 3|Maintain and develop a joint tactical information infrastructure. Improving cooperation and C2 according to current and future operational requirements. Improving the effect and cooperation between weapon platforms, sensor systems and decision makers.|1,7-3,0 bill. kroner|||||||||
+|Materiel|Cyber|1134|Mime - LB4|Program Mime tranche 4|Maintain and develop a joint tactical information infrastructure. Improving cooperation and C2 according to current and future operational requirements. Improving the effect and cooperation between weapon platforms, sensor systems and decision makers.|1,5-2,5 bill. kroner|||||||||
+|Materiel|Cyber|1135|Mime - LB5|Program Mime tranche 5|Maintain and develop a joint tactical information infrastructure. Improving cooperation and C2 according to current and future operational requirements. Improving the effect and cooperation between weapon platforms, sensor systems and decision makers.|1,2-2 bill. kroner|||||||||
+|Projects in MAST|||||||||||||||
+|Materiel|Cyber|1041|FSP next generation - Restricted and unclassified level|The project will establish a new ICT-platform on low grade classification level and complete the establishment of a secure ICT- platform on the unclassified level for the Armed Forces.|Defence sector, details to be disclosed.|175-300 mill. kroner|||||||||
+
+
+###### 32
+
+
+-----
+
+|Investment Field|Business Area|P nr|Project Name|Background and Overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Materiel|Cyber|1061|Modernisation of ERP-core system|Modernisation of the ERP-core system to a more flexible architecture with an improved user front-end, improved processing capabilities on large data sets, standardisation of services, utilisation of cloud services and facilitation of security certification.|Defence sector, details to be disclosed.|350-500 mill. kroner|||||||||
+|Materiel|Cyber|8171|NEXTGEN Norwegian Armed Forces Secure CIS Platform|The project will establish a new high security CIS platform.|Defence sector, details to be disclosed.|250-400 mill. kroner|||||||||
+|Materiel|Cyber|8179|Consolidation of CIS Support and Monitoring Centres|The project is intended to increase efficiency and consolidate CIS operations and streamline how cyber network defence and CIS can be aggregated and presented as a recognized cyber picture (RCP).|Primarily cyber defence.|300-450 mill. kroner|||||||||
+|Materiel|Cyber|MP35|INI data centre solutions|Ensure access to necessary information for the Norwegian Armed Forces|Under evaluation, details to be disclosed.|450-700 mill. kroner|||||||||
+|Other projects|||||||||||||||
+|Materiel|Cyber|8178|Automated Data Analysis for Operations|The project is intended to procure solutions to support automatic analyse of big data and give operators on different levels context-based information in support of missions.|Defence sector, details to be disclosed.|125-175 mill. kroner|||||||||
+|Materiel|Cyber|MP15|Local radiocommunication|Support of local communication|Defence sector, details to be disclosed.|450-650 mill. kroner|||||||||
+|Materiel|Cyber|MP29|Infrastructure for secure information sharing step 3|Further develop the infrastructure for secure information sharing.|Defence sector, details to be disclosed.|175-300 mill. kroner|||||||||
+|Materiel|Cyber|MP34|Next generation collaborative services|Further develop collaborative services for the Norwegian Armed Forces|Defence sector, details to be disclosed.|75-150 mill. kroner|||||||||
+|Materiel|Cyber|MP44|Further development decision support - management II|Further develop systems for management and decision support for the Norwegian Armed Forces|Defence sector, details to be disclosed.|100-150 mill. kroner|||||||||
+
+
+###### 33
+
+
+-----
+
+###### Infrastructure
+
+|Investment Field|Region|Business Area|Pnr|Project Name|Background and overall Objective|Scope|Cost estimate|2023|2024|2025|2026|2027|2028|2029|2030|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Other projects||||||||||||||||
+|Infrastructure|Norway|Other|2NM60201|Tank facility - Compliance of environmental requirements|Maintain the capacity for fuel replenishment at various locations, with the purpose of meeting emergency preparedness needs.|Measures to comply with regulatory requirements.|500-565 mill. NOK|||||||||
+
+
+###### 34
+
+
+-----
+
+###### Norwegian Ministry of Defence
+ Postbox 8126 Dep
+ NO-0032 Oslo
+ Norway
+
+ All photos © Forsvarets mediearkiv
+
+
+###### POC: Lieutenant Colonel Ketil Skogheim (Ketil.Skogheim@fd.dep.no)
+
+ 35
+
+
+-----
+

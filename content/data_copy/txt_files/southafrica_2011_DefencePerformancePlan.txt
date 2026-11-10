@@ -1,0 +1,1827 @@
+# defence
+
+Department:
+
+
+-----
+
+## DEPARTMENT OF DEFENCE (DOD)
+
+###### “Doing things differently to achieve more with less”
+
+## Overarching Strategic Statement
+
+##### For the � scal years
+
+ 2011/12– 2015/16
+
+###### Date of tabling: 09 March 2011
+
+
+-----
+
+## CONTENTS
+
+###### Topic .......................................................................................................................................................Page
+
+ Foreword by the Honourable Minister of Defence & Military Veterans, Ms L.N. Sisulu, MP .................................. 5
+
+ THE DEFENCE FUNCTION IN CONTEX ........................................................................................................................7
+
+ Defence Constitutional Mandate ................................................................................................................7
+
+ Vision ................................................................................................................................................................7
+
+ Mission .............................................................................................................................................................7
+
+ The DOD Medium-Term Strategic Focus .....................................................................................................7
+
+ The Minister of Defence and Military Veterans (MOD&MV) Priorities .......................................................8
+
+ Defence Outcomes .......................................................................................................................................8
+
+ Defence Outputs ...........................................................................................................................................9
+
+ Defence Activities ..........................................................................................................................................9
+
+ Defence Inputs ...............................................................................................................................................9
+
+ Building for the Future ....................................................................................................................................9
+
+ DOD Strategy Map ........................................................................................................................................9
+
+ Budget Programme Structure of the DOD ................................................................................................10
+
+ DOD Alignment with Medium-Term Strategic Framework (MTSF) Priorities ..........................................10
+
+ Information Systems Supporting DOD Performance Information ..........................................................12
+
+ DOD Selected Performance Indicators ....................................................................................................13
+
+ Financial Considerations in Allocation of the Defence Programmes....................................................13
+
+ DOD Expenditure Trends .............................................................................................................................14
+
+ Departmental Receipts ...............................................................................................................................14
+
+ Organs of State and Public Entities Reporting to the MOD&MV ............................................................14
+
+ DOD Performance Information for the Period FY2011/12 to FY2015/16 ................................................15
+
+ DOD Service Delivery Improvement Plan .................................................................................................19
+
+ LIST OF TABLES
+
+ Table 1: DOD Budget Programme Structure ..........................................................................................................10
+
+ Table 2: DOD Alignment with the MTSF Priorities ....................................................................................................10
+
+ Table 3: DOD Trendable Performance Indicators and Targets ...........................................................................13
+
+ Table 4: Trendable Performance Indicators and Targets: Job Creation ............................................................13
+
+ Table 5: Financial Allocations of the Defence Programmes ................................................................................14
+
+ Table 6: Estimated Departmental Revenue ...........................................................................................................14
+
+ Table 7: DOD Performance Information for the Period FY2011/12 to FY2015/16 ..............................................15
+
+ Table 8: DOD Service Delivery Improvement Plan (SDIP) .....................................................................................19
+
+ LIST OF FIGURES
+
+ Figure 1: DOD Strategy Map ......................................................................................................................................9
+
+
+-----
+
+###### DEFENCE SECRETARIAT ANNUAL PERFORMANCE PLAN Introduction by the Accounting Of� cer ................................................................................................................. 24 Of� cial Sign Off .......................................................................................................................................................... 26 Declaration on Accuracy and Completeness of the Inputs to the Annual Performance
+ Plan by the Secretary of Defence .......................................................................................................................... 27
+ PART A: STRATEGIC OVERVIEW
+ CHAPTER 1  .......................................................................................................................................................... 28 Introduction ............................................................................................................................................................ 28 Strategic Focus ......................................................................................................................................................... 28 Alignment with Government Outcomes ................................................................................................................ 28 Arrangement of the Plan ......................................................................................................................................... 28 Vision  ............................................................................................................................................................ 28
+ Mission  ............................................................................................................................................................ 28 Constitutional and Legislative Mandates .............................................................................................................. 29 Revisions to Legislative and Other Mandates ...................................................................................................... 29 Pending Court Rulings ............................................................................................................................................. 29 Minister of Defence & Military Veterans (MOD&MV) Priorities ............................................................................. 29 DOD Policy Proposals in Support of the Priorities of the MOD&MV ..................................................................... 30 Situational Analysis ................................................................................................................................................... 31 Organisational Environment .................................................................................................................................. 31 Financial Considerations and Allocations for the Administration Programme .................................................. 32 Expenditure Trends for the Administration Programme Over the FY 2011/12 MTEF ........................................... 32 Defence Secretariat Financial Information ........................................................................................................... 32
+ PART B: PERFORMANCE INFORMATION CHAPTER  .......................................................................................................................................................... 34 Introduction ............................................................................................................................................................ 34 Overview of Programme 1: Administration ........................................................................................................... 34 Administration Programme Purpose ....................................................................................................................... 34 Overview of Sub-Programme Purpose ................................................................................................................... 35 Budget Programme Structure of the Defence Secretariat .................................................................................. 35 Changes to Budget Programme Structure ............................................................................................................ 35 Defence Secretriat Outcome.................................................................................................................................. 36 Defence Secretariat Outputs and Annual Targets ............................................................................................... 36 Defence Secretariat Trendable and Non-Trendable Performance Information .............................................. 37 Defence Secretariat Programme Performance Indicators ................................................................................. 38 Defence Secretariat Quarterly Targets................................................................................................................... 50 Risk Management .................................................................................................................................................... 57
+ PART C: LINKS TO OTHER PLANS (RESOURCE PLANS) CHAPTER 3  .......................................................................................................................................................... 59 Overview of the Chapter ......................................................................................................................................... 59 Links to the Defence Secretariat Long-term Infrastructure and Other Capital Plans ...................................... 59 Overview of Public-Private Partnerships ................................................................................................................. 59 Public Entities Reporting to the Executive Authority ............................................................................................. 59 Defence Force Service Commission (DFSC) .......................................................................................................... 60 Consultant Utilisation ................................................................................................................................................ 60
+ LIST OF TABLES Table 1: Defence Secretariat Constitutional and Legislative Mandate .............................................................. 29 Table 2: Budget for the DOD Administration Programme  .................................................................................. 32 T bl 3 D f S t i t F ll C t f th FY2011/12 t FY2013/14 33
+
+
+-----
+
+###### Table 4: Administration Programme ......................................................................................................................... 34 Table 5: Current Defence Secretariat Budget/Sub-Programme Structure ......................................................... 35 Table 6: Defence Secretariat Outputs, Activities and Inputs ................................................................................ 36 Table 7: Defence Secretariat Trendable Performance Indicators ....................................................................... 37 Table 7a: Trendable Performance Indicators: Job Creation ............................................................................... 37 Table 8: Defence Secretariat Outputs and Annual Targets for MTSF Outcome 3 ............................................ 38 Table 9: Defence Secretariat Outputs and Annual Targets for MTSF Outcome 5 ............................................. 39 Table 10: Defence Secretariat Outputs and Annual Targets for MTSF Outcome 11 ......................................... 39 Table 11: Defence Secretariat Outputs and Annual Target for MTSF Outcome 12 ......................................... 40 Table 12: Defence Secretariat Performance Indicators: Building for the Future ............................................... 42 Table 13: Defence Secretariat Performance Indicators for DOD Activities Linked to MTSF Outcomes ........ 43 Table 14: Defence Secretariat Performance Indicators Linked to the Inputs.................................................... 45
+ Table 15: Defence Secretariat Programme Performance Indicator Administration ........................................ 46 Table 16: Quarterly Targets for Defence Secretariat Outputs Linked with MTSF Outcome 3 .......................... 50 Table 17: Quarterly Targets for Defence Secretariat Outputs Linked with MTSF Outcome 5 .......................... 50 Table 18: Quarterly Targets for Defence Secretariat Outputs Linked with MTSF Outcome 11 ......................... 50 Table 19: Quarterly Targets for Defence Secretariat Outputs Linked with MTSF Outcome 12 ......................... 51 Table 20: Quarterly Targets for Defence Secretariat: Activities .......................................................................... 52 Table 21: Quarterly Targets for Defence Secretariat: Inputs ............................................................................... 53 Table 22: Quarterly Targets for Defence Secretariat: Building for the Future .................................................... 54 Table 23: Quarterly Targets for Defence Secretariat: Programme Performance Indicators ........................... 54 Table 24:. Defence Secretariat Risks ...................................................................................................................... 57 Table 25: Defence Secretariat Long Term Infrastructure and Capital ............................................................... 59 Table 26: Public Entities Reporting to the Executive Authority ............................................................................ 60 Table 27: Consultant Utilisation and HDI Classi� cation for the FY2011/12 ......................................................... 60 LIST OF FIGURES Figure 1: Defence Secretariat Organisational Structure ...................................................................................... 32
+
+ Figure 2: Origin of Defence Secretariat Performance Information .................................................................... 37
+
+
+-----
+
+#### Foreword by the Honourable Minister of Defence and Military Veterans, L.N. Sisulu, MP
+
+###### In the 2010 budget Vote, we pro� led the conscious development of reliable, dependable human capital base within the Defence Force. To this end, we announced the establishment of the National Defence Service Force Commission, revitalisation of the Defence Reserves and  � nalisation of the non statutory Force Military Veterans Pension, to mention but a few. Auditable outputs have been recorded in so far as these are concerned and are evidenced by the Promulgation of Defence Amendment Act 22 of 2010, whose object is to provide for the establishment of the National Defence Force Service Commission charged with a role to create a separate dispensation for the Defence Force, creating a paradigm that prescribes contracts for Defence Reserves whilst protecting them from discrimination by employers and creditors.
+
+ Stemming from the President’s announcement at a special Cabinet meeting on 25 October 2010, a new growth path for the country has been agreed upon. This path places people’s employment at the centre of government’s economic policy. Defence commits itself to support government’s intent in terms of inherent available Defence capabilities and initiatives such as the MSDS and National Youth Service system in contribution to national skills development and job creation.
+
+ Notwithstanding the auditing standards that are continually being enhanced, the Ministry will earnestly pursue the realisation of a quali� cation free Audit. Some auditable strides have been registered which are a result of the multi-pronged strategy to realise the quali� cation free audit, of which operation “Clean Audit” is but one. Deepening in establishing internal controls that will help to proactively mitigate functions and processes that could lead to an audit quali� cation will be prioritised. A strong monitoring and evaluation capability will be enhanced.
+
+ The role of Defence within the Government Cluster system in the International Co-operation Trade and Security (ICTS) Cluster, will continue to receive priority attention in order to strengthen South Africa’s support of international and regional peace, security and stability.
+
+ The SANDF contributes with contingent force of 1229 men and women under the Mission dubbed MONUSCO in the DRC and 634 soldiers under the Mission code named UNAMID in Sudan. Apart from the troop contribution in the Peace Mission in the DRC, SANDF troops also provide post con� ict reconstruction in that country with the view to strengthening the weak state apparatus and institutions. In this respect the focus areas are integration and team building training, transformation process and general military training of the Armed Forces. On the basis of bilateral arrangements with Central African Republic, SANDF has deployed 49 men and women with the view to providing general military assistance in the form of training to the Armed Forces of said country.
+
+ Internally, the SANDF has since April 2010 deployed for border safeguarding along the borders of RSA and her neighbouring countries. Currently, SANDF has already set its footprint along RSA/Zimbabwe Border and RSA/ Mozambique border and due to deploy along RSA/Lesotho border on 1 April 2011. State resources need to be mobilised more aggressively to ensure the stable roll out of Operation CORONA (border-safeguarding). Currently, Defence is furthermore exploring possibilities to ensure security against piracy prevails in the SADC waters on a bilateral and multinational basis. The piracy threat is real and therefore they is a need to ensure in accordance with safe guarding territorial integrity that we need to develop a plan on how to deal with this problem and ensure that our trade lines remain safe and secure.
+
+ At the time of writing, the SANDF has joined forces with National Disaster Management Centre for humanitarian assistance community affected by � oods national. To this end, the SANDF has deployed air assets to airlift entrapped people to safety, as well as delivering food parcels for those in need. The mandate of the Defence remains that of Defence and protection of the, Republic, its territorial integrity and its people in accordance with the Constitution of the Republic and the principles on international law regulating the use of forces. 
+
+ We have entered into a Delivery Agreement (DA) with the President to facilitate service delivery in terms of selected Medium Term Strategic Framework (MTSF) outcomes. In the meanwhile Defence has implemented the outcomes based strategic planning approach in order to ensure that high performance levels are
+
+
+-----
+
+###### and 5 and as such obligations that � ow from these delivery agreements must � nd expression in the planning instruments of the Constitutional institutions that service the Defence mandate, with the Defence Secretariat providing the essential norms and standards to guarantee implementation.
+
+ The Strategic Plans are developed to give effect to the two constitutional entities that service the Defence Mandate which are the Defence Force and the Defence Secretariat re� ect, amongst others, the essence of the Delivery Agreement (DA) entered into, between myself and the Commander in Chief in terms of applicable Outcomes and provide parameters and expectations that I consider achievable for Defence. The alignment of Defence with the Constitutional and legislative mandate is re� ected through the pursuance of our identi� ed Outcomes, Outputs, Vision and Mission which will ensure that Defence remains relevant to the dynamic circumstances.
+
+ Finally, allow me to re� ect a little on impact assessment of my Portfolio. During the Budget Vote 21 of both FY2009/10 and FY2010/11, I outlined the institutional reforms that will form the strategic levers of my transformation Agenda. In the FY 2009 Budget Vote, I indicated the need to provide a visible reward and recognition to all those that sacri� ced their well being to help us realise the freedoms that we now enjoy. As such Military Veterans were consciously my transformation agenda. To date the Department is indeed in place. The coming years will thus be characterised by initiatives to maximise the functionality of the organ of State by widening the footprint of a reliable and dependable service delivery focused Department.
+
+ The execution of the Constitutional and legislative Defence mandate of both the Defence Secretariat and the South African National Defence Force are provided in the strategic and annual performance plans accompanying this Overarching Statement. These documents provide the required detailed information on the functioning of these two Defence entities.
+
+ I am con� dent that through these planning instruments, distinctive features of the Defence Force will be protected whilst delivery to the citizens will be enhanced.
+
+ (L.N. SISULU) MINISTER OF DEFENCE AND MILITARY VETERANS, MP
+
+
+-----
+
+#### THE DEFENCE FUNCTION IN CONTEXT
+###### DEFENCE CONSTITUTIONAL MANDATE
+
+ The primary object of the Defence function is to provide for the Defence and protection of the Republic, its territorial integrity and its people. The Constitution provides that the rendition of the Defence function should be done in a manner consistent with the provisions of the Constitution and the principles of international law regulating the use of force.
+
+ The Department of Defence (DOD) derives its mandate primarily from section 200(2) of the Constitution[1] as well as section 227 of the Interim Constitution of the Republic of South Africa[2]. The Defence mandate is given substance by the Defence Act[3], the White Paper on Defence (1996) and the Defence Review (1998).
+
+ The DOD comprises of the Defence Secretariat which is established in terms of Section 204 of the Defence Act and the South African National Defence Force (SANDF) established in terms of Section 200 (2) of the Interim Constitution[4].
+
+ VISION
+
+ Effective Defence for a democratic South Africa.
+
+ MISSION
+
+ To provide, manage, prepare and employ Defence capabilities commensurate with the needs of South Africa as regulated by the Constitution, national legislation and Parliamentary and Executive direction. The above will be provided through the proper management, provision, preparedness and employment of Defence capabilities, which are in line with the domestic and global needs of South Africa.
+
+ THE DOD MEDIUM-TERM STRATEGIC FOCUS
+
+ In the medium to long term, the DOD will execute its mandate through focusing on the following:
+
+ �� To defend and protect South Africa, its sovereignty, its territorial integrity, its national interests and its people in accordance with the Constitution and principles of international law regulating the use of force.
+
+ �� To contribute to freedom from fear and want, including the promotion of human security, both nationally and internationally.
+
+ �� To contribute to a better life for the people of South Africa.
+
+ Whilst emphasising its obligation, the DOD embraces Government’s initiatives and priorities to alleviate poverty and underdevelopment. The DOD support to these Government initiatives requires that:
+
+ �� Defence capabilities are enhanced and maintained.
+
+ �� Peace, security and con� dence-building in the SADC region and the rest of the continent are promoted through constructive dialogue aimed at nurturing sound Defence diplomatic relations and projecting South Africa’s foreign policy principles and objectives;
+
+ �� The Government’s policy to resolve con� icts peacefully through recognised international instruments and mechanisms be supported by deploying the SANDF in international peace missions;
+
+ �� The Government’s diplomatic engagements are supported through participation in multilateral institutions such as the SADC, AU and UN.
+
+1 Act 108 of 1996.
+2 Act 200 of 1993
+
+
+-----
+
+###### THE MINISTER OF DEFENCE AND MILITARY VETERANS (MOD&MV) PRIORITIES
+
+ For the period ahead, the Minister has made a determination of matters considered important for the DOD to pursue as strategic priorities. The execution of these strategic priorities will enhance the effective realisation of the Defence mandate. Monitoring and evaluation of performance against these identi� ed strategic priorities will test the extent to which the Defence function has been able to “do things differently and achieve more with less”. The strategic priorities identi� ed are as follows:
+
+ �� Execution of the Border Safeguarding Function. The safeguarding of the borders of South Africa remains one of the key functions of the SANDF. The phased in approach, adopted by the SANDF in undertaking this function, will continue in FY2011/12 with the � nal phase completed in FY2012/13.
+
+ �� Establishment of the New Service Dispensation. The Defence Amendment Act, 22 of 2011, has been enacted. As intended, the Defence Amendment Act has created a new service dispensation for the SANDF members. In FY2011/12 the DOD shall focus on the implementation of the afore-mentioned  amendment in order to realise this dispensation. Consequential amendments to other Acts will also be taken into account.
+
+ �� Enhancement of the SANDF’s Landward Defence Capabilities. In order to undertake all required missions, the enhancement of the Landward Defence Capabilities is essential. For the Landward Defence Capability to operate jointly with the Air Defence and Maritime Defence Capabilities, this enhancement is considered a priority. The Landward Defence Capability has not enjoyed the advantage of being part of the Strategic Defence Packages and is thus lacking technologically advanced Primary Mission Equipment.
+
+ �� Maritime Security. The Defence and security of South Africa is inextricably linked to that of the region and the continent. Being a littoral country, South Africa needs to have a balanced maritime capability to effectively respond to arising maritime security threats affecting South Africa. 
+
+ �� Job Creation. In support of the government initiative on job creation, the DOD plans to create job opportunities in the following areas:
+
+ �� Filling of all 1 401 vacant funded positions in the DOD. �� Recruitment of 5 700 young South Africans per year to the Military Skills Development System (MSDS). �� Call up of 16 400 Defence Reserve members per year to undertake speci� c tasks over speci� c periods of time. �� The enhancement of the DOD Works Capability to create opportunities for people with technical skills within the SANDF. This in turn will allow for the SANDF intakes to increase with the same number of the SANDF members transferred to the DOD Works Capability.  �� Creation of job opportunities in the Defence Industry through approved DOD projects.
+
+ �� Enhancement of the SANDF’s Peacekeeping Capability (SANDF Deployability). The role of the SANDF in promoting peace and security in the region and the continent necessitates the enhancement of the SANDF’s peacekeeping capability that will include the SANDF’s Forward Deployment Capability.
+
+ �� National Youth Service. The implementation of the National Youth Service by using core Defence capabilities to provide initial training to the youth prior to absorption into service delivery departments.
+
+ �� Revitalisation of the Reserves. As part of the One Force concept, the Reserves must be transformed and revitalised to ful� l the various important Defence roles allocated to them.
+
+ �� Restructuring and Support of the Defence Industry. The restructuring should focus on Defence capability, the interactive framework and function alignment in order to properly synchronise these with the requirements and mandate of Defence. The emphasis should be on Governance, Risk Management, Compliance and Accountability framework applicable within Defence Portfolio.
+
+ �� Department of Defence Works Capability. The state of the DOD facilities portfolio calls for the review of the existing arrangements for the repair and maintenance of Defence facilities. The establishment of the DOD Works Capability seeks to achieve an end state where the DOD will have an in-house capacity that will ultimately assume the full responsibility of the Defence facilities repair and maintenance. The DOD Works Capability will at the same time create job opportunities in the DOD, thus contributing to the Government’s priority of job creation.
+
+ DEFENCE OUTCOMES
+ The Defence outcomes relate to the medium term results that are the consequence of achieving speci�c
+
+
+-----
+
+###### �� Enhanced Civil Control of the Department of Defence.
+
+ �� RSA is Defended and Protected. DEFENCE OUTPUTS
+ Defence outputs relate to the DOD’s � nal products, or goods and services produced for delivery. Outputs are de� ned as “what we produce or deliver”. The Defence Outputs are as follows:
+
+ �� Conduct ordered defence commitments in accordance with government policy and strategy.
+
+ �� Provide mission ready defence capabilities.
+
+ �� Provide sound defence direction.
+
+ �� Ensure defence compliance with Regulatory Framework. DEFENCE ACTIVITIES
+
+ Defence activities are the processes or actions that use a range of inputs to produce the desired outputs and ultimately achieve the intended outcomes. In essence, activities describe “what we do”. The following Departmental activities are relevant:
+
+ �� Administrate the DOD.
+
+ �� Enable the DOD.
+
+ �� Employ the SANDF.
+
+ DEFENCE INPUTS
+
+ �� Provide professional & Supported DOD Human Resources.
+
+ �� Provide appropriate & sustained Materiél.
+
+ �� Provide integrated & reliable Defence Information & Intelligence.
+
+ �� Provide sound Financial Management of the DOD.
+
+ BUILDING FOR THE FUTURE (REJUVENATION)
+
+ �� Ensure Appropriate Strategic Reserves.
+
+ �� Renew DOD Main Equipment and Doctrine.
+
+ �� Undertake Defence Research & Development.
+
+ �� Promote & appropriate Defence Industry.
+
+ �� Ensure Consensus on Defence.
+
+ DOD STRATEGY MAP
+
+ As a whole, the DOD has made progress with the implementation of the Balanced Score Card (BSC) as a performance management framework. Although the performance management system has not reached maturity in the DOD, it has established a profound footing in the Department’s planning process. Figure 1: DOD Strategy Map
+
+
+-----
+
+###### BUDGET PROGRAMME STRUCTURE OF THE DOD
+ For � nancial allocation and reporting purposes, the Outputs of Defence are presented in terms of programmes representing the contribution of various Services and Divisions within the DOD in the achievement of the Defence mandate. The outputs of the eight DOD individual programmes are described in Table 1.
+
+ Table 1: DOD Budget Programme Structure
+
+**Programme** **Purpose** **Accountable Entity**
+Administration. Conduct the policy development, management and administration of the Ministry
+Department. Def Sec /SANDF
+Force Employment. Successfully conduct all operations, as well as joint interdepartmental and SANDF
+multinational military exercises.
+
+Landward Defence. Provide prepared and supported landward Defence capabilities for the SANDF
+Defence and protection of South Africa.
+
+Air Defence. Provide prepared and supported air Defence capabilities for the Defence and SANDF
+protection of South Africa.
+
+Maritime Defence. Provide prepared and supported maritime Defence capabilities for the SANDF
+Defence and protection of South Africa.
+
+Military Health Support. Provide prepared and supported military health capabilities and services for SANDF
+the Defence and protection of South Africa.
+
+Defence Intelligence. Provide a Defence intelligence and counter-intelligence capability. SANDF
+General Support. Provide general support capabilities and services to the Department. Def Sec /SANDF
+
+###### DOD ALIGNMENT WITH MEDIUM TERM STRATEGIC FRAMEWORK (MTSF) PRIORITIES
+
+ The Table below indicates the DOD alignment to MTSF Priorities as issued by the Presidency. This is a Framework that guides the Government’s programme during the electoral mandate for the period 2009 – 2014 and beyond.
+
+ Table 2: DOD Alignment with the MTSF Priorities
+
+**Strategic Priority as** **Elements of Strategy** **DOD Alignment with MTSF Priorities**
+**Re� ected in the MTSF**
+
+Strategic Priority 1: Creation of decent employment, economic Ensure that procurement processes promote broad-based
+Speeding up growth and growth, broad-based industrialisation. economic empowerment.
+transforming the economy Development of the White Paper on Defence Industry.
+to create decent work and
+
+Intensify the implementation of the National The DOD National Youth Service Strategy and Military Skills
+
+sustainable livelihoods.
+
+Youth Service by enhancing youth development Development System (MSDS) are work in progress to meet
+through job creation in public sector the government’s priority of developing youth.
+programmes.
+
+Strategic Priority 2: Development of robust, reliable, affordable Development of the DOD integrated cyber-security policy.
+Massive programme to and secure ICT infrastructure.
+build economic and social Establish an integrated management framework Establishment of the DOD Works’ Capability to address the
+infrastructure. to ensure the synchronisation of DOD and Defence facilities maintenance backlog.
+
+|Programme|Purpose|Accountable Entity|
+|---|---|---|
+|Administration.|Conduct the policy development, management and administration of the Department.|Ministry|
+|||Def Sec /SANDF|
+|Force Employment.|Successfully conduct all operations, as well as joint interdepartmental and multinational military exercises.|SANDF|
+|Landward Defence.|Provide prepared and supported landward Defence capabilities for the Defence and protection of South Africa.|SANDF|
+|Air Defence.|Provide prepared and supported air Defence capabilities for the Defence and protection of South Africa.|SANDF|
+|Maritime Defence.|Provide prepared and supported maritime Defence capabilities for the Defence and protection of South Africa.|SANDF|
+|Military Health Support.|Provide prepared and supported military health capabilities and services for the Defence and protection of South Africa.|SANDF|
+|Defence Intelligence.|Provide a Defence intelligence and counter-intelligence capability.|SANDF|
+|General Support.|Provide general support capabilities and services to the Department.|Def Sec /SANDF|
+
+
+infrastructure development and management. Development of the DOD Asset and Facilities Management
+
+Policy Framework will enable Defence to assume full
+responsibility for the management and maintenance of
+facilities and fi xed assets.
+Strategic Priority 3: Support other government departments in the Finalisation of pending Defence land claims (land restitution).
+Comprehensive rural land aggressive implementation of land reform Develop partnership with local Government and broad based
+development strategy linked policies. community organization in optimal utilization of underutilized
+to land and agrarian reform Facilitation of the Draft DPW Disposal Policy military land and facilities.
+and food security. into a policy implementation document.
+
+Strategic Priority 4: Broaden access to post-secondary education Access to post-secondary education funding by means of
+Strengthen the skills and and improve higher education. bursaries.
+human resource base. In partnership with identifi ed academic Restructuring of DOD logistics training capability to be
+
+institutions, develop DOD logistics training streamlined towards force preparation objectives, broadinstitutions into centres of excellence for based skills and human resource development.
+Supply Chain Management and Life Cycle
+Management.
+
+|Strategic Priority as ReÁ ected in the MTSF|Elements of Strategy|DOD Alignment with MTSF Priorities|
+|---|---|---|
+|Strategic Priority 1: Speeding up growth and transforming the economy to create decent work and sustainable livelihoods.|Creation of decent employment, economic growth, broad-based industrialisation.|Ensure that procurement processes promote broad-based economic empowerment.|
+|||Development of the White Paper on Defence Industry.|
+||Intensify the implementation of the National Youth Service by enhancing youth development through job creation in public sector programmes.|The DOD National Youth Service Strategy and Military Skills Development System (MSDS) are work in progress to meet the government’s priority of developing youth.|
+|Strategic Priority 2: Massive programme to build economic and social infrastructure.|Development of robust, reliable, affordable and secure ICT infrastructure.|Development of the DOD integrated cyber-security policy.|
+||Establish an integrated management framework to ensure the synchronisation of DOD and DPW strategic objectives of Defence facility infrastructure development and management.|Establishment of the DOD Works’ Capability to address the Defence facilities maintenance backlog. Development of the DOD Asset and Facilities Management|
+|||Policy Framework will enable Defence to assume full responsibility for the management and maintenance of facilities and fi xed assets.|
+|Strategic Priority 3: Comprehensive rural land development strategy linked to land and agrarian reform and food security.|Support other government departments in the aggressive implementation of land reform policies. Facilitation of the Draft DPW Disposal Policy into a policy implementation document.|Finalisation of pending Defence land claims (land restitution). Develop partnership with local Government and broad based community organization in optimal utilization of underutilized military land and facilities.|
+||Broaden access to post-secondary education and improve higher education.|Access to post-secondary education funding by means of bursaries.|
+||In partnership with identifi ed academic institutions, develop DOD logistics training institutions into centres of excellence for Supply Chain Management and Life Cycle Management.|Restructuring of DOD logistics training capability to be streamlined towards force preparation objectives, broad- based skills and human resource development.|
+
+
+To provide the technical skills needed by the
+economy there is a need to work very closely
+with state-owned enterprises to train people in
+
+
+The DOD will have to work with entities such as Armscor,
+Denel and the Castle Control Board to ensure that skills
+development is achieved.
+
+
+-----
+
+|Col1|Strategic Priority as ReÁ ected in the MTSF|Elements of Strategy|DOD Alignment with MTSF Priorities|
+|---|---|---|---|
+||Strategic Priority 5: Improve the health profi le of all South Africans.|Increase institutional capacity to deliver health- system functions.|Hospital revitalisation programme. Health promotion treatment, care and support. Filling of vacant funded posts and improving remuneration of health and medical care personnel.|
+|||Improving treatment of TB.|DOD awareness programmes.|
+|||Comprehensive plan for HIV/AIDS.|DOD prevention awareness programmes. HIV treatment roll-out sites. Bio-medical research on issues around mission readiness.|
+||Strategic Priority 6: Intensify the fi ght against crime and corruption.|Develop the strategy and Plan to inform DOD’s role in borderline safeguarding.|Undertaking of border safeguarding function.|
+|||Combat the scourge of corruption in the public and private sectors by strengthening legal and policy frameworks.|Full implementation of anti-criminality strategy and plan. Full implementation of Fraud Prevention Plan. Promote fi nancial disclosures at all levels. Strengthen the GRC processes to address the ethical and fi duciary requirements that guide the securing of service providers. Strengthen the DOD Risk Management Framework.|
+|||Support provided to other government institutions in the fi ght against crime and corruption and ensuring that people in SA are and feel safe.|Internal Deployment of the SANDF.|
+|||Effective and effi cient Defence Legal Service.|Strengthening of the Military Justice System and reducing military court case backlogs.|
+||Strategic Priority 7: Build cohesive, caring and sustainable communities.|Promote shared value system.|Intensify civic education programmes to include all members and employees.|
+||Strategic Priority 8: Pursuing African advancement and enhanced international co-operation.|Continued prioritisation of African Agenda.|Promote nationally identifi ed outputs that relate to advancement of regional and global peace, security and sustainability.|
+||||Ensure that regional, continental and international peace security structures are capacitated and strengthened by appropriate deployments.|
+||||Ensure that adequate legal instruments and frameworks exist to support the requisite deployments in Peace Missions and General Military Assistance Missions.|
+|||Improving political and economic integration of the SADC.|Improve governance within SADC in terms of Defence Specifi c Security Sector Reform programmes.|
+|||Strengthen South-South Relations.|Implementation and monitoring of IBSA Agreements and Action Plans relevant to the DOD. Ensure alignment of agreements with NEPAD, revitalise NAASP, and support AU and UN efforts to guarantee lasting solutions to confl icts.|
+|||Strengthening political and economic relations with emerging nations and forums.|Participation in the BRICS Forum by South Africa to ensure that South Africa and Africa in general contribute to the growing|
+||||economy of the world. The DOD Foreign Relations Strategy to include the BRICS objectives.|
+
+
+-----
+
+|Strategic Priority as ReÁ ected in the MTSF|Elements of Strategy|DOD Alignment with MTSF Priorities|
+|---|---|---|
+|Strategic Priority 9: Sustainable resources management and use.|Promote a culture of sustainable resource management.|Assist in protecting marine resources in co-operation with the South African Police Services (SAPS). Promote the responsible management of land resources through the collaboration with stakeholders to promote land use recycling.|
+||Contribute to a system for environmental Impact Management Strategy.|Ensure compliance with National Environmental Management Act (NEMA) and the applicable protocols regarding sustainable resource management.|
+||Effectively utilise the allocated radio frequency spectrum.|Promote prudent utilisation of Defence allocated bandwidth.|
+||Implementation of national Framework for sustainable development. Develop a sustainable Supply Chain Management and Life Cycle Management framework that meets Force employment requirements and is compliant with NT resource management guidelines and requirements.|Compliance with relevant protocols to ensure sustainable environmental management. Ensure that the Logistics Intervention and Restructuring Programme objectives are accomplished and embraced within the DOD at all levels.|
+|Strategic Priority 10: Building a developmental state, including improvement of public service and strengthening of democratic institutions.|Improving the capacity and effi cacy of the State.|The review of the Defence Secretariat to align it with the mandate for Defence organisation and support requirements for the Minister of Defence and Military Veterans. Strengthening the Monitoring and Evaluation component of the DOD. Defence Strategy, Force Design and Force Structure that responds to the country’s current and emerging needs.|
+||In order to have a capacitated State that will ensure that service delivery is happening faster, there is a need to fi ll all funded vacant posts.|Linked to the Medium-term Expenditure Framework, the DOD will ensure that funded posts are to be fi lled, incumbents capacitated and skilled in order to meet the post requirements.|
+||Entrenching a culture and practice of an effi cient, transparent, honest and compassionate Public Service.|Continually project patriotism and high levels of discipline that characterise the Defence Force. Deepen the understanding of the code of conduct that defi nes the outlook of the members and employees of Defence. Improve DOD supply chain and fi nancial management to facilitate the payment of SMME’s on time. Promote the responsible use of public resources and accountability through the realisation of a qualifi cation-free audit.|
+
+
+###### INFORMATION SYSTEMS SUPPORTING DOD PERFORMANCE INFORMATION
+
+ Since 2005, the DOD has developed an information system called “GEJIMA” which provides for one-stop-shop capturing of performance information. The aforementioned system is managed by the State Information, Technology Agency (SITA), and is utilised to conduct gap and trend analysis with regards to performance information. Notwithstanding the challenges with the current local area networks experienced in certain domains within the DOD, the Department is determined to improve on the integrity, currency and reliability of the performance information. In cases of infrastructural failures, capturing of data on the system as it relates to planning and performance data is undertaken at the SITA of� ces and the consolidated information is con� rmed by Departmental planning authorities. 
+
+
+-----
+
+###### DOD SELECTED PERFORMANCE INDICATORS
+
+ Table 3: DOD Trendable Performance Indicators and Targets
+
+**Indicator** **Programme** **Past** **Current[5]** **Projections**
+
+**2007/08** **2008/09** **2009/10** **2010/11** **2011/12** **2012/13** **2013/14**
+
+% Compliance of SADC early warning
+
+Force
+
+centre contribution with SADC and New indicator 100% 100% 100%
+
+Employment
+
+SADC organ outcomes
+
+% Compliance with the SADC standby
+
+Force
+
+force agreements and South African New indicator 100% 100% 100%
+
+Employment
+
+pledge
+
+Number of large-scale external Force
+11 9 8 4 3 3 3
+operations per year[6] Employment
+
+Average number of personnel deployed Force
+2 698 2 931 2 480 2 041 1 985 1 985 1 985
+daily in external operations Employment
+
+Number of person days used during Force
+515 516 231 608 133 036 524 000 375 000 555 165 735 840
+internal operations[7] Employment
+
+Number of internal operations in support
+
+Force
+
+of other government departments per 3 4 5 5 4 4 4
+
+Employment
+
+year
+
+Number of joint, inter departmental and Force
+10 10 8 8 8 8 8
+military exercises conducted per year Employment
+
+% Compliance with UN requirements, Force
+New indicator 100% 100% 100%
+rules and regulations for peace missions Employment
+
+Total number of Defence diplomatic
+Administration 32 36 37 37 37 37 37
+missions
+
+Finalisation of the DOD Border Approved Implementation Compliance
+Administration New indicator
+Management Strategy (Monitor) (Monitor)
+Number of force employment hours
+Air Defence 12 271 11 099 12 754 8 279 10 402 8 862 9 452
+fl own each year
+
+Number of sea hours on patrol in South Maritime
+9 648 8 236 12 945 8 286 9 000 9 000 9 000
+African maritime zones per year Defence
+
+Throughput in terms of the DOD National
+Administration New indicator 1 500 2 000 6 000
+Youth Service concept
+
+Number of military skills development Landward
+4 677 6 736 8 874 8 662 11 140 11 140 11 140
+members in the system per year Defence
+
+Total number of active reserves Landward
+12 583 19 763 13 352 11 083 16 400 17 500 18 500
+Defence[8]
+
+5678
+
+###### Table 4. Trendable Performance Indicators and Targets: Job Creation
+
+**Performance Indicator/priorities** **Programme** **Projections** **MTSF Outcome**
+**2011/12** **2012/13** **2013/14**
+Members in the MSDS Administration 11 140 11 140 11 140 Outcome 5
+per year.
+
+Number of active Reserves Administration 16 400 17 500 18 500 Outcome 5
+per year.
+
+Throughput in terms of the DOD National Youth Administration 1 500 2 000 6 000 Outcome 5
+Service concept.
+
+% Vacant funded post fi lled by June 2011. Administration 100% 100% 100% Outcome 5
+% Decline in turn-over rates. Administration 6% 5% 5% Outcome 5
+Establishment of a DOD Works Capability Administration Approval of the Monitor Monitor Outcome 5
+function (Strategic Direction) DOD Works (Implementation) (Impact)
+Capability Structure
+
+Creation of job opportunities in the Defence Administration TBD TBD TBD Outcome 5
+industry according to DOD projects
+
+###### FINANCIAL CONSIDERATIONS IN ALLOCATION OF THE DEFENCE PROGRAMMES
+
+ The composition of the Defence’s Budget Programmes as published in the Estimates of National Expenditure (ENE) 2011, Vote 22 is as provided the Table below.
+
+5 Data as reported for the � rst two quarters of the FY2010/11.
+6 The indicator has been changed from 2011/12 to only re� ect “large-scale” operations, as the requirement for general military assistance and smallscale operations cannot be accurately projected. Currently the requirement is for two large-scale (Battalion + [More than 800 members]) operations,
+but contingency planning is being done to be prepared for a third operation of limited duration, should it be required.
+7 The large number in 2010 was due to operations in support of the 2010 FIFA World Cup and the gradual increase from 2011/12 onwards is the result of
+
+|Col1|Performance Indicator/priorities|Programme|Projections|Col5|Col6|MTSF Outcome|
+|---|---|---|---|---|---|---|
+||||2011/12|2012/13|2013/14||
+||Members in the MSDS per year.|Administration|11 140|11 140|11 140|Outcome 5|
+||Number of active Reserves per year.|Administration|16 400|17 500|18 500|Outcome 5|
+||Throughput in terms of the DOD National Youth|Administration|1 500|2 000|6 000|Outcome 5|
+||Service concept.||||||
+||% Vacant funded post fi lled by June 2011.|Administration|100%|100%|100%|Outcome 5|
+||% Decline in turn-over rates.|Administration|6%|5%|5%|Outcome 5|
+||Establishment of a DOD Works Capability function (Strategic Direction)|Administration|Approval of the DOD Works Capability Structure|Monitor (Implementation)|Monitor (Impact)|Outcome 5|
+||Creation of job opportunities in the Defence industry according to DOD projects|Administration|TBD|TBD|TBD|Outcome 5|
+
+
+-----
+
+###### Table 5: Financial Allocations of the Defence Programmes
+
+**Programmes** **2010/11** **2011/12** **2012/13** **2013/41**
+**R’000** **R’000** **R’000** **R’000**
+
+Administration 3 247 080 3 718 129 4 052 120 4 395 303
+Force Employment 1 908 870 2 241 553 2 436 064 2 692 237
+Landward Defence 9 982 892 11 763 543 12 773 878 13 730 269
+Air Defence 6 059 126 6 768 133 7 216 773 7 007 093
+Maritime Defence 2 179 822 2 500 516 2 539 002 2 919 458
+Military Health Support 2 770 215 3 044 139 3 328 036 3 519 675
+Defence Intelligence 631 149 668 988 702 465 737 049
+General Support 3 936 179 3 899 964 4 322 904 4 701 090
+Total 30 715 333 34 604 965 37 371 242 39 702 174
+
+###### DOD EXPENDITURE TRENDS The detail of DOD’s estimated expenditure is re� ected in Government’s Estimate of National Expenditure 2011 and is included in the Appropriation Bill 2011 tabled in Parliament on 23 February 2011.
+
+ DEPARTMENTAL RECEIPTS
+
+ Departmental receipts are mainly from the sale of redundant or obsolete equipment and Defence matériel, the rental of accommodation to personnel, and board and lodging. The reason for the � uctuations in real departmental receipts, speci� cally � nancial transactions in assets and liabilities, is due to the unpredictable nature of reimbursements for peace support operations. Revenue collection projections are also hampered by the unpredictable nature of the potential buyers of SANDF equipment, and by international treaties, protocols and licence agreements. Between FY2009/10 and FY2013/14, revenue is expected to increase from R676.7 million to R885.9 million, at an average annual rate of 7.7 percent.
+
+ Table 6: Estimated Departmental Revenue
+
+**Economic classi� cation** **Audited outcome[1]** **Revised** **Medium-term receipts estimate**
+**estimate**
+
+(Rand thousand) **2007/08** **2008/09** **2009/10** **2010/11** **2011/12** **2012/13** **2013/14**
+Sales of goods and services produced by 165 148 165 268 209 606 281 638 295 720 310 506 326 031
+department
+
+Sales of scrap, waste, arms and other used 7 336 28 285 - 17 859 18 752 19 690 20 674
+current goods
+
+Transfers received - 290 653 228 291 195 682 172 353 180 971 190 019
+Fines, penalties and forfeits 1 157 1 058 3 724 3 615 3 796 3 986 4 185
+Interest, dividends and rent on land 1 710 1 398 2 750 2 473 2 597 2 726 2 863
+Sales of capital assets 128 913 122 066 19 481 52 684 55 318 58 084 60 988
+Transactions in fi nancial assets and liabilities 247 591 20 662 236 097 348 515 255 006 267 756 281 144
+**Total Departmental Receipts** **551 855** **629 390** **699 949** **902 466** **803 542** **843 719** **885 904**
+
+###### ORGANS OF STATE AND PUBLIC ENTITIES REPORTING TO THE MOD&MV
+
+ This Strategic Statement is applicable to all organs of State and public entities reporting to the Minister in terms of the Public Finance Management Act (PFMA). These include the following:
+
+ �� Department of Military Veterans. The purpose of the Department of Military Veterans is that it is responsible for the overall management and administration of military veterans affairs including but not limited to developing policy, legislation, programmes, bene� ts and services that facilitate the transition from active service to civilian life.
+
+ �� Defence Force Service Commission. This Commission is responsible for making recommendations to the Minister concerning conditions of service of SANDF members.
+
+ �� ARMSCOR. ARMSCOR is a Schedule 2 entity under the PFMA mandated to support the delivery of the strategic Defence capabilities.
+
+ �� Castle Control Board. The Castle Control Board is classi� ed as a public entity under the PFMA and carries the mandate of managing and protecting the Castle of Good Hope on behalf of the MOD & MV and has the ultimate ownership responsibility for the Castle.
+
+|Programmes|2010/11|2011/12|2012/13|2013/41|
+|---|---|---|---|---|
+||R’000|R’000|R’000|R’000|
+|Administration|3 247 080|3 718 129|4 052 120|4 395 303|
+|Force Employment|1 908 870|2 241 553|2 436 064|2 692 237|
+|Landward Defence|9 982 892|11 763 543|12 773 878|13 730 269|
+|Air Defence|6 059 126|6 768 133|7 216 773|7 007 093|
+|Maritime Defence|2 179 822|2 500 516|2 539 002|2 919 458|
+|Military Health Support|2 770 215|3 044 139|3 328 036|3 519 675|
+|Defence Intelligence|631 149|668 988|702 465|737 049|
+|General Support|3 936 179|3 899 964|4 322 904|4 701 090|
+|Total|30 715 333|34 604 965|37 371 242|39 702 174|
+
+
+-----
+
+|Col1|Delegation|SANDF|Def Sec/ SANDF|Def Sec|Def Sec|Def Sec/ SANDF|Def Sec/ SANDF|SANDF|Def Sec/ SANDF|Def Sec/ SANDF|Def Sec/ SANDF|Def Sec/ SANDF|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Medium-term Targets|15/16|Positive trend|Implementation|Monitor (Effectiveness)|100%|Monitor (Effectiveness)|Monitor (Effectiveness)|Monitor (Effectiveness)|Legislation Implemented|Review Policy|Monitor Development Plan||
+||14/15|Positive trend|Implementation|Monitor (Effectiveness)|100%|Monitor (Effectiveness)|Monitor (Effectiveness)|Monitor (Effectiveness)|Legislation Implemented|Monitor Policy|Approved DOD Skills Gap Development Plan||
+||13/14|Positive trend|Implementation|Monitor (Compliance)|100%|Monitor (Compliance)|Monitor (Compliance)|Monitor (Compliance)|Legislation Implemented|Development of Policy|Compile DOD Master Skills Plan||
+||12/13|Positive trend|Implementation|Monitor (Implementation)|75%|Monitor (Implementation)|Monitor (Implementation)|Monitor (Implementation)|Legislation Monitored|Strategy Piloted|Conduct Skills Audit (Comprehensive)||
+||11/12|Positive trend|Approved|Strategy Approved|50%|Approved|Approved by MOD&MV (Consultation with security agencies)|Approved|Regulations drafted and Approved|Approved Strategy|Pilot DOD Skills Audit Instrument||
+|Estimated Performance (Targets) 10/11||Positive trend|TBD|TBD|TBD|TBD|TBD|TBD|Legislation drafted|TBD|TBD||
+|rmance icator||eployable Concurrent sessment|Capability nt approved d Defence|DOD Border ent Strategy|allocation or approved tegic ackages|Strategy to ecuring of Key Points|National Security|DOD Corruption Strategy|and tation of e Force n|Human evelopment nd Plan|HR Skills ent Plan||
+|Perfo Ind||Trend of d status on Health As|Landward requireme (Approve Strategy)|Approved Managem|% funding received f DOD Stra Defence P|Approved facilitate s National|Approved Defence Strategy|Approved Fraud and Prevention|Approval implemen the Reserv Legislatio|Approved Capital D Strategy a|Approved Developm||
+|DOD Outputs||Combat ready Defence capabilities|Combat ready Defence capabilities|||||Defence Compliance with Regulatory Framework|||||
+|DOD Outcome||RSA is defended and protected|RSA is defended and protected|||||Enhanced civil control of DOD|||||
+
+
+-----
+
+|Col1|Delegation|SANDF|SANDF/Def Sec|Col5|Col6|SANDF|SANDF|Col9|
+|---|---|---|---|---|---|---|---|---|
+|Medium-term Targets|15/16|100% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|
+||14/15|100% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|
+||13/14|100% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|
+||12/13|100% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|
+||11/12|100% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|
+|Estimated Performance (Targets) 10/11||70% operational|Force Levels to >95% of the TCC MOU|Equipments to 90% of the TCC MOU|Financial Expenditure to >90% of the Mission Cash Flow Plan|100%|Force Levels to >95% of the MOU|Equipments to 90% of the TCC MOU|
+|rmance icator||ance ly Warning ntribution C Organ|ance to rce levels andby Force ts and South edge)|||ance of feguarding|||
+|Perfo Ind||% Compli SADC Ear Centre Co with SAD Outcomes|% Compli agreed fo (SADC St agreemen African Pl|||% Compli Border Sa|||
+|DOD Outputs|||||||||
+|DOD Outcome|||||||||
+
+
+-----
+
+|Col1|Delegation|Def Sec|SANDF|Def Sec/ SANDF|Def Sec|Def Sec|Def Sec|Def Sec|Def Sec|SANDF/ Def Sec|Def Sec/ SANDF|Def Sec|Def Sec/ SANDF|Def Sec/ SANDF|Def Sec|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Medium-term Targets|15/16|35%|Information Classifi ed|Reviewed policy promulgated|Policy implemented|Defence Strategy, Force Design and Force Structure Implementation monitored|35%|White paper implementation monitored.|6%|Unqualifi ed|6%|50%|100%|90%||
+||14/15|30%||Policy reviewed|Policy Approved|Defence Strategy, Force Design and Force Structure Implementation monitored|30%|White paper implementation monitored.|6%|Unqualifi ed|6%|50%|80%|80%||
+||13/14|25%||Policy Implemented|Further work as directed|Defence Strategy, Force Design and Force Structure Implemented|25%|White paper implementation monitored.|6%|Unqualifi ed|5%|45%|60%|70%||
+||12/13|20%||Policy Implemented|Further work as directed|Defence Strategy, Force Design and Force Structure Approved|20%|White Paper implemented|6%|Unqualifi ed|5%|40%|40%|60%||
+||11/12|15%||Policy promulgated|Policy drafted|Draft Defence Strategy, Force Design and Force Structure developed.|15%|White Paper approved|6%|1x qualifi cation|6%|35%|20%|50%||
+|Estimated Performance (Targets) 10/11||5%||Policy Revised|TBD|TBD|5%|White Paper drafted|TBD|1x qualifi cation|TBD|TBD|TBD|TBD||
+|rmance icator||resentation ved DOD ssion ion fora|ce with the rce levels ployment)|DOD n Security SS) policy of cyber- spects)|DOD cyber- olicy|Strategy, ign and cture|esentation number of lled against for a quota of al institutions|White Paper ce Industry|in DOD s|eneral’s|in turn-over|f disciplinary e DOD ithin 120 days|t reduction es of es and in the DOD|e litigation in favour of||
+|Perfo Ind||DOD Rep %: Appro peace mi coordinat|Complian agreed fo (Force Em|Amended Informatio Systems (I (Inclusive security a|Approved security p|Defence Force Des Force Stru|DOD repr %: current positions fi allocated internation|Approved on Defen|% Decline Vacancie|Auditor-G Opinion|% decline rates|Number o cases in th fi nalised w|Signifi can in the cas irregulariti corruption|Percentag settlement the DOD.||
+|DOD Outputs||Defence Direction|||||||Defence Direction|||||||
+|DOD Outcome||Enhanced civil control of Defence||||||||||||||
+
+
+-----
+
+|Col1|Delegation|Def Sec/CFO|Def Sec/ SANDF|Def Sec|Def Sec|Def Sec|Def Sec|Def Sec/ SANDF|
+|---|---|---|---|---|---|---|---|---|
+|Medium-term Targets|15/16|Implement Reviewed Framework|Implement Reviewed Framework|Fully operational structure|Implement|100%|Review||
+||14/15|Assess impact of Defence Fiscal Framework|Review|Fully operational structure|Review|100%|Implementation and monitoring||
+||13/14|Full implementation of Defence Fiscal Framework|Monitor Effectiveness|Fully operational structure|Monitor|100%|Implementation of guidelines to give effect to policy||
+||12/13|Review of Defence fi scal framework in line with Defence Strategy|Implementation|Fully operational structure|Implementation|100%|Development of subordinate policies||
+||11/12|Development of revised Defence fi scal framework|Approved|Organisational structure|Approval|100%|Develop Policy Framework||
+|Estimated Performance (Targets) 10/11||TBD|TBD|TBD|TBD|TBD|TBD||
+|rmance icator||Defence mework|Defence ies k|research|DOD Anti- n Policy and|ce with information|DOD Facilities ent Policy.||
+|Perfo Ind||Approved Fiscal Fra|Approved Capabilit Framewor|Approved capability|Approved Corruptio Strategy.|Complian MISS and security|Approved Asset and Managem||
+|DOD Outputs|||||||||
+|DOD Outcome|||||||||
+
+
+-----
+
+|DESIRED STANDARD|No audit qualifi cation from 2012 onwards.|Establish effective internal controls on the processes that have an impact on disclosure notes to annual fi nancial statement in order to ensure sustainable, predictable and reliable HR systems, policies, practices, processes and procedures.|To establish an integrated policy forum that comprises of HR Practitioners at Lvel 3 & 4 to discuss implementation measures of the policy decision taken in the policy making structures.|To streamline information fl ow throughout the policy making structural processes to ensure that monitoring and evaluation are done expeditiously.|That HR Practitioners across all levels of the department are provided with an opportunity to provide input into the policy before promulgation.|To have informed HR Practitioners that keep abreast with contemporary policy matters.|To inform HR Practitioners of possible changes in HR procedures and practices ahead of implementation of those changes, through effective on-line communication, e.g. the Internet or Intranet.|TBD|Effective implementation of polices, procedures and practices by competent practitioners that will eliminate unfair labour practices.|That continuity and rejuvenation are achieved in a sustained manner.|Col12|HR Practitioners and all offi cials in the DOD, taking ownership of the processes.|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Quantity|Quality|Consultation|Access|Courtesy|Open & Transparency|Information|Redress|Value for Money|Time|Cost|Human Resources|
+|CURRENT STANDARD|The DOD has been receiving audit qualifi cation for the past seven (7) consecutive years.|Current HR processes and practices of the DOD require mapping to ensure that they are streamlined and integrated. Governing processes of HR policies, procedures and practices need to be reviewed.|Monthly and weekly meetings are held in terms of the Human Resources Board (HRB) and HR Exco, respectively, to discuss HR and related issues.|The DOD utilises physical unit visits to empower HR practitioners on policy measures, and through the Intranet, information bulletins and, distribution of policy documents.|Services/Divisions/Formations/Units are provided with the opportunity to give inputs to be incorporated in the policy document. However, the inputs from the units are often addressed as implementation concerns after the policy has been promulgated.|The HR Practitioners are kept informed of HR policies, procedures and practices through bulletins and Intranet.|Information is disseminated through physical unit visits, information bulletins, the Intranet, communication forums .|TBD|HR policies, procedures and practices are implemented, taking into account the principle of effi ciency, effectiveness and economy.|HR policies, procedures and practices are developed and implemented as and when the need arises.||HR Practitioners in the DOD.|
+||||||||||ney|||urces|
+||Quantity|Quality|Consultation|Access|Courtesy|Open & Transparency|Information|Redress|Value for Mo|Time|Cost|Human Reso|
+|SERVICE BENEFICIARY|DOD Management and Offi cials||||||||||||
+
+
+-----
+
+|DESIRED STANDARD|To reduce the turnaround time of fi lling the posts to six (6) months from the date of their becoming vacant.|Revise the staffi ng policy by focusing on interventions to improve the quality of staffi ng.|To conduct roadshows across all levels of the DOD, empowering HR Practitioners and end-users of the policy.|Implementation of automated software through IFMS (SAP) that will refl ect the total profi le of the post in terms of its vacancy period and equity status.|Improve the recruitment & selection system to effectively enable the department to practise professional etiquette by issuing acknowledgements & regrets.|Staffi ng processes that observe the provision of R&S practices, as enshrined in the Act, Regulations and departmental policy.|To inform HR Practitioners of possible changes to the staffi ng policy and practices ahead and implementation of those changes through effective on-line communication, e.g Internet or Intranet.|TBD|Improving the recruitment & selection to be “just on time”.|Post fi lled within a period of six (6) months|Staffi ng budget.|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||Quantity|Quality|Consultation|Access|Courtesy|Openness & Transparency|Information|Redress|Value for Money|Time|Cost|
+|CURRENT STANDARD|The department has a large number of vacant posts across all levels. This contributes to incapacity and impacts negatively on service delivery.|The applicable staffi ng policy makes provision for a vacancy for six months to a year.|Policy making structures that include the Defence Staff Council, HR Board, HR Exco and, HR Policy Development Committee. Liaise with external departments/institutions including DPSA and PSC.|The policy website (Intranet), and hard copies are distributed across DOD via post.|Services/Divisions seldom send letters of regret to post applicants who did not make the shortlist, let alone acknowledge receipt of application.|The practice with regard to the current staffi ng process does not involve all the relevant role-players in terms of employment equity and labour representatives. The latter enhances the extent of openness and transparency of the process.|Information is disseminated through physical unit visits, information bulletins, Intranet and communication forums.|TBD|The staffi ng process that is followed until the appointment of a suitable candidate is done effectively, effi ciently and economically.|More than 12 months after the post becomes vacant|Staffi ng budget.|
+|||||||&|||ney|||
+||Quantity|Quality|Consultation|Access|Courtesy|Openness Transparency|Information|Redress|Value for Mo|Time|Cost|
+|SERVICE BENEFICIARY|DOD Management and Offi cials|||||||||||
+
+
+-----
+
+|DESIRED STANDARD|100% signing of Performance Agreements within the required time period. PA to include gender responsibilities and accountability.|Detailed Performance Agreements that will serve as an enabling tool to highlight ways and means to achieve the strategic objectives as refl ected in the plans.|Conduct a workshop once per annum, involving all SMS members in the DOD, to serve as a forum to educate and empower members in terms of PAs PA to include constitutional imperative in respect of responsibility and accountability.|Introduce an electronic system that can be utilized to keep the data of signed and unsigned PA’s on time, and furnish the reasons for non-compliance with the stipulated timelines.|SMS members to be given a period of six (6) months before the fi nancial year to submit PAs for the subsequent fi nancial year.|Creation of a computer system to enable authorized members who report a particular SMS member to view PAs on a regular basis. This will ensure that they stay focused on the course as far as strategic objectives are concerned.|Utilise the Internet as a tool to educate and empower SMS members and prospective SMS members on PA’s regarding their important strategic link to Strategic Business Plan.|TBD|Introduce a monitoring and evaluation system that will help validate the direct link of the PAs and Strategic Business Plan.|As per Financial Year.|According to Budget allocation for the FY.|As per number of staff employed within a particular service/division/unit/directorate.|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Quantity|Quality|Consultation|Access|Courtesy|Openness & Transparency|Information|Redress|Value for Money|Time|Cost|Human Resources|
+|CURRENT STANDARD|An estimated 60% of SMS Performance Agreements are signed after the stipulated required timeline and 40% is still outstanding to date.|Performance Agreements are compiled without taking into account the deliverables stipulated in the Strategic Business Plans of respective environments.|Human Resources Management environment is responsible for the management function. It issues an instruction on an annual basis to inform SMS members about submission of PA’s. The instruction is often accompanied by the guidelines on how to complete the PA’s.|Human Resources Management section liaises with SMS members through the offi ce that deals with Performance Agreements.|SMS members are continuously reminded with regard to PAs that are due for submission and any other improvement that needs to be done to the already submitted PA’s.|Completed, signed and approved PAs of SMS members are available for reference by members reporting to a particular SMS member.|SMS members are informed through circulars and ministerial directives on issues pertaining to PAs. There is also a Ministerial Handbook for SMS members, which gives guidelines on PAs, amongst others.|TBD|SMS members complete PAs taking into account fi nancial guidelines and budgetary provision allocated to their specifi c environments.|As per Financial Year.|According to Budget allocation for the FY.|As per number of staff employed within a particular service/division/unit/directorate.|
+|||||||&|||ney|||rces|
+||Quantity|Quality|Consultation|Access|Courtesy|Open Transparency|Information|Redress|Value for Mo|Time|Cost|Human Resou|
+|SERVICE BENEFICIARY|DOD SMS members||||||||||||
+
+
+-----
+
+|DESIRED STANDARD|100% completed performance assessments within the required time period.|Revise the system of performance assessments/ incentives to be aligned with individual performance.|To hold education and empowerment workshops annually with managers and supervisors. This will help improve the competency level of managers/ supervisors in managing the process effectively.|Performance assessments/incentives are available electronically and on hard copy and are distributed across Services/divisions/formations/units.|Introduce an electronic system to monitor environments that need to be assisted in completing performance assessments/incentives.|The process of managing and completing performance assessments/incentives involves stakeholders throughout the management and decision-making structures up to the HOD.|Instructions are issued to Services/Divisions, and are published in the Intranet and further communicated through information bulletins.|Members/employees are advised to utilize the grievance management system of the department to raise issues that need to be redressed.|Performance assessment/incentive system to be revised by including supporting motivations that accompany the results. The latter will assist the Moderating Committee to take informed decisions in awarding the incentives.|As per Financial Year.|As per allocated budget for the payment of incentives.|As per identifi ed personnel for performance assessments/incentives.|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Quantity|Quality|Consultation|Access|Courtesy|Openness & Transparency|Information|Redress|Value for Money|Time|Cost|Human Resources|
+|CURRENT STANDARD|An average of 70% of performance assessments are completed and submitted on time as stipulated in the directives and instructions.|Performance assessments are completed using 360 degree method (multi-rater). The supervisory responsibility of performance assessments/incentives needs to be strengthened to ensure that the quality of the results is objective and not compromised.|The DOD customises the PMDS guidelines issued by the DPSA to be applied internally. There are instructions issued annually to Services/Divisions by the HR Service System environment highlighting measures to be applied in the performance assessment/incentive process.|Performance assessments/incentives are available electronically and on hard copy and are distributed across Services/divisions/formations/units.|HR Service System provides support to environments that require assistance in completing performance assessments/incentives.|The process of managing and completing performance assessments/incentives involves stakeholders throughout the management and decision making structures up to the HOD.|Instructions are issued to Services/Divisions, and are published in the Intranet, and further communicated through information bulletins.|Members/employees are advised to utilize the grievance management system of the department to raise issues that need to be redressed.|The payment of the incentive is done on the basis of the confi rmed results of the Moderating Committee.|As per Financial Year.|As per allocated budget for the payment of incentives.|As per identifi ed personnel for performance assessments/ incentives.|
+|||||||&|||ney|||rces|
+||Quantity|Quality|Consultation|Access|Courtesy|Openness Transparency|Information|Redress|Value for Mo|Time|Cost|Human Resou|
+|SERVICE BENEFICIARY|DOD Offi cials||||||||||||
+
+
+-----
+
+## DEFENCE SECRETARIAT
+
+ ANNUAL PERFORMANCE PLAN (APP)
+
+##### FOR THE FISCAL YEARS
+
+ 2011/12 -2013/14
+
+###### “Doing things differently to achieve more with less”
+
+ Date of tabling: 09 March 2011
+
+
+-----
+
+## INTRODUCTION BY THE ACCOUNTING OFFICER
+
+###### The mandate of Defence remains unambiguously the protection of the territorial integrity of the RSA. In delivering on this mandate, the collateral utility of Defence capabilities has been demonstrated with the various service delivery projects in support of other government departments.  The mandate is executed in terms of section 200(1) that establishes a disciplined South African National Defence Force (SANDF) whose functions are articulated in section 224(1) of the interim Constitution of South Africa.
+
+ Equally so, section 204 of the Constitution of the Republic of South Africa, has institutionalised civil–military relations through a civilian Secretariat. In terms of section 204 “a civilian secretariat for Defence must be established by national legislation to function under the direction of the Cabinet member responsible for Defence.” Giving substance to this Constitutional imperative is section 8 of the Defence Act, No 42 of 2002 which spells out the scope of operations of the Defence Secretariat. The task directive encapsulates provision of policy advice to the Minister, enhancing civil control and oversight, comprehensive instructions and ensuring SANDF compliance to MOD&MV directives. 
+
+ At a work session in September 2009, the Defence Secretariat developed a blueprint for a vision of building a responsive and dependable Defence secretariat for the third decade. The blueprint culminated in the ground breaking September 2010 Margate DOD Resolution that formalised the separation of norms and standards from execution. The aforementioned resolutions concerned the MOD&MV priority on alignment of the Defence Secretariat with its constitutional and legislative mandate; viz “A review of the Defence Secretariat to align with the mandate of the Defence organisation and support requirements for the Minister of Defence and Military Veterans.”
+
+ Furthermore, in an attempt to achieve more with little, the President of the Republic of South Africa adopted the outcomes based approach to strategic planning, implementation and performance monitoring and evaluation so as to achieve auditable evidence of improvement of the quality of lives of citizens.
+
+ The success in achieving the identi� ed outcomes will be the careful selection of outcomes that will have the greatest impact within the DOD in the most effective and ef� cient manner. More importantly, our ability to measure with appropriate performance indicators will ensure the Department is able to gauge the successes that we are achieving and also areas which may require intervention and support to ensure our outputs are achieved and that ultimately our outcomes are realised. 
+
+ Furthermore, this will also imply that we need to do things differently, that we need to move away from the comfort of the familiar and take on ways of working that are different and new with heightened levels of ef� ciency and effectiveness.
+
+ At the Cabinet Lekgotla held from 20 to 22 January 2010, we adopted the twelve (12) Medium-Term Strategic Framework (MTSF) outcomes that most accurately re� ect Government’s mandate derived from the MTSF priorities and electoral mandate. The role of Defence as the Secretariat and the coordinator of the International Co-operation, Trade and Security (ICTS) Cluster presents an opportunity for the Defence Secretariat to take centre stage in providing policy directives that will guide the footprint of Defence as well as provide a focused approach to management of the � ve security domains.
+
+ The phased implementation of border safeguarding has seen the Defence Force deployed for border safeguarding along the borders of RSA and its neighbouring countries since April 2010. Currently, the Defence Force has returned to the RSA/Zimbabwe and the RSA/Mozambique border and is due to deploy along the RSA/Lesotho border on 1 April 2011. 
+
+ From a strategic budgeting perspective it is worth indicating that the analysis of cost drivers has revealed the massive resource recapitalisation that is required to maintain the anticipated border safeguarding priority. Such State resources need to be mobilised more aggressively to ensure the success of Operation CORONA (border safeguarding).
+
+ In embracing the government’s priority of creating decent jobs the massi�cation of the Military Skills
+
+
+-----
+
+###### the MSDS programme. Further partnerships with other organs of state, notably Sector Education and Training Authorities (SETA)s and the Department of Higher Education and Training, will be explored in the quest to expand the creation of decent work. 
+
+ Another initiative that demonstrates the Department’s commitment to the creation of decent work is the National Youth Service (NYS) concept. In re� ning the concept in collaboration with other Government Departments, a pilot project has, in collaboration with the Department of Rural Development, commenced in Bloemfontein during this � nancial year. It is believed that this will re� ne the concept and advance implementation.
+
+ It is against this backdrop that the Defence Secretariat has developed its Annual Performance Plan informed by the Strategic Plan. This is important for the alignment of the Defence Secretariat strategic statement so that the government outcomes oriented monitoring and evaluation approach can be achieved by working together with all relevant stakeholders.
+
+ The Annual Performance Plan details the outcomes, outputs, activities and inputs that the Defence Secretariat is responsible and accountable for, which provides the norms and standards that support its execution, accountability and monitoring.
+
+ Honourable Minister, I submit to you the Defence Secretariat Annual Performance Plan as evidence of the DOD’s commitment to building a responsive and dependable Defence secretariat for the third decade. It is hoped that through this Performance Plan, civil-military relations will be strengthened to the bene� t of South Africa.
+
+ (MS N.Z.H. MPOFU) SECRETARY FOR DEFENCE
+
+
+-----
+
+###### OFFICIAL SIGN-OFF
+ It is hereby certi� ed that this Performance Plan
+
+ a. was developed by the Defence Secretariat (Defence Secretariat) Management under the guidance of the Accounting Of� cer;
+
+ b. was prepared in line with the current Strategic Plan of the Defence Secretariat; and
+
+ c. accurately re� ects the strategic outcomes and outputs which the Defence Secretariat programme/ sub-programme will endeavour to achieve given the resources made available in the budget for the FY 2011/12-FY13/14.
+
+ [MR M. DLABANTU] CHIEF FINANCIAL OFFICER
+
+ [DR T. GAMEDE] CHIEF DEFENCE POLICY STRATEGY AND PLANNING
+
+ [MS N.Z.H. MPOFU] ACCOUNTING OFFICER Approved by:
+
+ [MS L.N. SISULU] MINISTER OF DEFENCE AND MILITARY VETERANS
+
+
+-----
+
+###### DECLARATION ON THE ACCURACY AND COMPLETENESS OF THE INPUTS TO THE ANNUAL PERFORMANCE PLAN BY THE SECRETARY FOR DEFENCE
+
+ I, Ms N.Z.H. Mpofu, Secretary for Defence, acknowledge my responsibility for the accuracy of the performance information and the fair presentation of the Annual Performance Plan (APP) and con� rm, to the best of my knowledge and belief, the following:
+
+ �� The Plan has been prepared in accordance with the relevant Defence Secretariat guidelines that gives substance to the policy direction provided by the National Treasury or any other organ of state delegated to perform the function.
+
+ �� The information furnished in this APP for the FY 2011/12 – FY 2013/14 is true and correct in every respect.
+
+ �� The APP is free of any omissions.
+
+ �� The necessary records to support my declarations on this form are available for audit purposes.
+
+ [MS N.Z.H. MPOFU] ACCOUNTING OFFICER
+
+
+-----
+
+#### PART A: STRATEGIC OVERVIEW
+
+##### CHAPTER 1
+###### INTRODUCTION
+
+ This chapter provides an overview of the constitutional and legislative origins of the Defence Secretariat, its vision, mission, Minister’s priorities, planned policy and legislative developments that will impact on strategic budgeting during the Medium-Term Expenditure Framework (MTEF) and the overview of budget and Medium- term estimates.
+
+ The Defence Secretariat was established in terms of section 204 of the Constitution of the Republic of South Africa, 1996, given substance to by section 6 of the Defence Act, 42 of 2002 and executes its functions within the parameters of section 8 of the Defence Act 42 of 2002.
+
+ The Secretary for Defence is furthermore, the Head of the Defence Secretariat and acts within the speci� ed  areas of responsibility to provide strategic direction to the DOD by operating under the direction of the Minister of Defence and Military Veterans.
+
+ Under other applicable regulatory frameworks, the Secretary for Defence is the Head of the Department, the Accounting Of� cer, the Information Of� cer and the principal adviser to the Minister of Defence on Defence policy matters.
+
+ The development of norms and standards which the Defence Secretariat is responsible for, enhances the DOD’s compliance with the appropriate regulatory frameworks as they relate to resource mobilisation, utilisation and accounting.
+
+ STRATEGIC FOCUS
+
+ As illustrated in the Vote 22 Chapter of the Estimate of National Expenditure (ENE), to continue to deliver on its mandate, the DOD focuses on strategic priorities determined in response to changing circumstances. By implication, the role of the Defence Secretariat focuses on the implementation of these emerging priorities aimed at the realization of the Defence mandate.
+
+ ALIGNMENT WITH GOVERNMENT OUTCOMES
+
+ The Defence Secretariat provides for the coordination of the Department’s contribution to MTSF Outcomes 2, 3, 5 11 and 12. In this regard, the Defence Secretariat provides the necessary support to the Minister to perform the coordination role of the International Cooperation, Trade and Security (ICTS) Cluster. Furthermore, the Defence Secretariat coordinates the DOD’s inputs to other MTSF priorities.
+
+ ARRANGEMENT OF THE PLAN
+
+ The Annual Performance Plan (APP) consists of three parts, packaged in chapters and covers the following aspects:
+
+ �� Part A. A strategic overview which provides insight into the organisational environment, performance environment of the Defence Secretariat, an updated situational analysis and the associated � nancial information.
+
+ �� Part B. Information pertaining to the Defence Secretariat Outputs linked with the MTSF Outcomes is provided as well as the information on risk management, utilisation of consultants, Private Public Partnerships and the Public Entities reporting to the Executive Authority.
+
+ �� Part C. This Chapter provides links to other plans.
+
+ It is the intended that each of the parts as alluded to above will display the logical progression of the linkage between the Defence Secretariat strategic planning process and the APP.
+
+ VISION
+ Excellence in governance to ensure the ef� cient and effective Defence delivery.
+
+ MISSION
+ The Defence Secretariat directs speci� ed managerial, administrative and advisory services to achieve the
+
+
+-----
+
+###### CONSTITUTIONAL AND LEGISLATIVE MANDATES
+ The Constitutional and legislative mandate governing the Defence Secretariat is re� ected in Table 1 below.
+
+ Table 1. Defence Secretariat Constitutional and Legislative Mandates
+
+**Act** **Key Responsibilities Placed on the DOD**
+Section 204 of the Constitution of the RSA, “A civilian secretariat for Defence must be established by national
+1996 (Act 108 of 1996) legislation to function under the direction of the cabinet member
+responsible for Defence”.
+
+Defence Act 42 of 2002 Section 6: Establishment of the Defence Secretariat
+
+Section 7: Appointment of the Sec Def as a head of the department by
+the Presidency.
+
+Section 8: Functions of the Sec Def.
+
+Section 9: Delegation of powers and assignment of duties by the Sec Def.
+Public Service Act (3)(a) Subject to the provisions of paragraphs (c) and (d), a head of department
+shall be responsible for the ef� cient management and administration of his
+or her department, including the effective utilisation and training of staff,
+the maintenance of discipline, the promotion of sound labour relations
+and the proper use and care of State property, and he or she shall perform
+the functions that may be prescribed.
+Treasury Regulations 5 and 30 (amended) Prescribes the planning and reporting process (Strategic Plans and Annual
+Performance Plan) for Government Departments and Public Entities.
+
+###### REVISIONS TO LEGISLATIVE AND OTHER MANDATES
+
+ Currently there are no revisions to legislative mandates within the Defence Secretariat. In FY2011/12, the Defence Secretariat will, however, focus on the drafting of regulations to implement the following legislation:
+
+ �� Military Discipline Bill. The Constitution enjoins the State to respect the dignity of all persons and some of the offences and penalties are not in line with this injunction.
+
+ �� Geneva Conventions Bill. To enact the Geneva Conventions and their Protocols into domestic law in terms of section 231 of the Constitution.
+
+ �� Defence and Related Acts Repeal and Amendment Bill. To repeal and amend Defence and Related Acts
+
+ �� Military Ombudsman Bill. To make provisions for the appointment of a Military Ombudsman to attend to complaints by members of the SANDF.
+
+ �� Defence Amendment Act. To operationalise the Defence Service Commission and to establish the Regulatory Framework in which they operate.
+
+ �� Appointment of the Defence Military Command Structure. To provide the process and procedures for the appointment of members to the Military Command Structure.
+
+ PENDING COURT RULINGS
+
+ No applicable court rulings are noted within the Defence Secretariat which may impact on policy aspects.
+
+ THE MINISTER OF DEFENCE AND MILITARY VETERANS (MOD&MV) PRIORITIES
+
+ For the period ahead, the Minister has made a determination of matters considered important for the DOD to pursue as strategic priorities. The execution of these strategic priorities will enhance the effective realisation of the Defence mandate. Monitoring and evaluation of performance against these identi� ed strategic priorities will test the extent to which the Defence function has been able to “do things differently and achieve more with less”. The strategic priorities identi� ed are as follows:
+
+ �� Execution of the Border Safeguarding Function. The safeguarding of the borders of South Africa remains one of the key functions of the SANDF. The phased in approach, adopted by the SANDF in undertaking this function, will continue in FY2011/12 with the � nal phase completed in FY2012/13.
+
+|Act|Key Responsibilities Placed on the DOD|
+|---|---|
+|Section 204 of the Constitution of the RSA, 1996 (Act 108 of 1996)|“A civilian secretariat for Defence must be established by national legislation to function under the direction of the cabinet member responsible for Defence”.|
+|Defence Act 42 of 2002|Section 6: Establishment of the Defence Secretariat Section 7: Appointment of the Sec Def as a head of the department by the Presidency. Section 8: Functions of the Sec Def. Section 9: Delegation of powers and assignment of duties by the Sec Def.|
+|Public Service Act (3)(a)|Subject to the provisions of paragraphs (c) and (d), a head of department shall be responsible for the efÀ cient management and administration of his or her department, including the effective utilisation and training of staff, the maintenance of discipline, the promotion of sound labour relations and the proper use and care of State property, and he or she shall perform the functions that may be prescribed.|
+|Treasury Regulations 5 and 30 (amended)|Prescribes the planning and reporting process (Strategic Plans and Annual Performance Plan) for Government Departments and Public Entities.|
+
+
+-----
+
+###### �� Establishment of the New Service Dispensation. The Defence Amendment Act, 22 of 2011, has been enacted. As intended, the Defence Amendment Act has created a new service dispensation for the SANDF members. In FY2011/12 the DOD shall focus on the implementation of the afore-mentioned  amendment in order to realise this dispensation. Consequential amendments to other Acts will also be taken into account.
+
+ �� Enhancement of the SANDF’s Landward Defence Capabilities. In order to undertake all required missions, the enhancement of the Landward Defence Capabilities is essential. For the Landward Defence Capability to operate jointly with the Air Defence and Maritime Defence Capabilities, this enhancement is considered a priority. The Landward Defence Capability has not enjoyed the advantage of being part of the Strategic Defence Packages and is thus lacking technologically advanced Primary Mission Equipment.
+
+ �� Maritime Security. The Defence and security of South Africa is inextricably linked to that of the region and the continent. Being a littoral country, South Africa needs to have a balanced maritime capability to effectively respond to arising maritime security threats affecting South Africa. 
+
+ �� Job Creation. In support of the government initiative on job creation, the DOD plans to create job opportunities in the following areas:
+
+ �� Filling of all 1 401 vacant funded positions in the DOD. �� Recruitment of 5 700 young South Africans per year to the Military Skills Development System (MSDS). �� Call up of 16 400 Defence Reserve members per year to undertake speci� c tasks over speci� c periods of time. �� The enhancement of the DOD Works Capability to create opportunities for people with technical skills within the SANDF. This in turn will allow for the SANDF intakes to increase with the same number of the SANDF members transferred to the DOD Works Capability.  �� Creation of job opportunities in the Defence Industry through approved DOD projects.
+
+ �� Enhancement of the SANDF’s Peacekeeping Capability (SANDF Deployability). The role of the SANDF in promoting peace and security in the region and the continent necessitates the enhancement of the SANDF’s peacekeeping capability that will include the SANDF’s Forward Deployment Capability.
+
+ �� National Youth Service. The implementation of the National Youth Service by using core Defence capabilities to provide initial training to the youth prior to absorption into service delivery departments.
+
+ �� Revitalisation of the Reserves. As part of the One Force concept, the Reserves must be transformed and revitalised to ful� l the various important Defence roles allocated to them.
+
+ �� Restructuring and Support of the Defence Industry. The restructuring should focus on Defence capability, the interactive framework and function alignment in order to properly synchronise these with the requirements and mandate of Defence. The emphasis should be on Governance, Risk Management, Compliance and Accountability framework applicable within Defence Portfolio.
+
+ �� Department of Defence Works Capability. The state of the DOD facilities portfolio calls for the review of the existing arrangements for the repair and maintenance of Defence facilities. The establishment of the DOD Works Capability seeks to achieve an end state where the DOD will have an in-house capacity that will ultimately assume the full responsibility of the Defence facilities repair and maintenance. The DOD Works Capability will at the same time create job opportunities in the DOD, thus contributing to the Government’s priority of job creation.
+
+ DOD POLICY PROPOSALS IN SUPPORT OF THE PRIORITIES OF THE MOD&MV
+
+ In support of the MOD&MV by the Defence Secretariat in the achievement of the above-mentioned ministerial priorities, the Defence Secretariat will undertake the following planned policy proposals.
+
+ �� Development of a policy framework to form the basis of the Defence Amendment Act 22 of 2010 and its implementation.
+
+ �� Development of the Defence Security Strategy contributing to the National Security Strategy. This development will set the broad context for the development of a National Security strategy.
+
+ �� Defence contribution to the Crime Prevention Strategy of Government which will include support to the JCPS Cluster priorities and requirements.
+
+ �� Finalisation of the DOD Border Management Strategy which includes Border Safeguarding.
+
+
+-----
+
+###### �� The National Youth Service Conceptual and policy framework to set the norms and standards which the DOD will follow in order to ensure the achievement of the targets (DOD representation) as set in the delivery agreement of MTSF Outcome 5 namely “Skilled and capable workforce to support an inclusive growth path”.
+
+ �� Establishment of research capacity in the Policy Division in order to inform policy development and formulation. This will include international benchmarking and best practice analysis with other Defence sectors.
+
+ �� Review of the White Paper on Defence Related Industries and development of a Defence Industry Strategy to strategically position the Defence function to maximise the responsiveness of the Defence Industry in supporting the delivery of the mandate.
+
+ �� Defence Related Public Entities Strategy to include the transformation of Armscor and proposals on the Repositioning of Denel.
+
+ �� Assets and Facilities Management Policy Framework to enable the DOD to assume full responsibility for the management and maintenance of facilities and � xed assets.
+
+ �� The repositioning of the DOD “Shared Staffs” functions to allow for the execution of the Defence Secretariat and the SANDF distinct yet complimentary roles. 
+
+ �� Development of an HR Development Policy and Skills Development Plan which will include the � nalisation of a DOD Skills Audit.
+
+ �� Development of a Defence Fiscal and Defence Capability Framework.
+
+ �� An Armed Forces Day policy Framework that facilitates armed forces engagements with the national citizenry is to be developed.
+
+ The Defence Secretariat will furthermore ensure that the Ministerial priorities are executed within the framework of governance, risk, compliance and accountability management principles. The strategic resourcing of the above-mentioned priorities will underpin Departmental funding initiatives if and where so required to ensure full support to the Executive Authority.
+
+ SITUATIONAL ANALYSIS
+
+ The Defence Secretariat APP for the period of the FY 2011/12 to FY 2013/14 has been developed taking into consideration the priorities of government. This top-down approach has been used in the development of this APP, which is linked with the Strategic Plan and the Budget for the MTEF. This APP includes performance information in terms of outputs for the Changed (MTSF Outcomes) and Sustained Agenda (Legislative Mandate). The Defence Secretariat APP will outline mainly how a sound direction will be provided to Defence in order for the MOD&MV to realise the achievement of its priorities which are linked to the relevant MTSF Outcomes.
+
+ ORGANISATIONAL ENVIRONMENT
+
+ It is envisaged that a review of the Defence Secretariat will be completed and implemented in order to align this constitutionally mandated establishment with support requirements of the Minister of Defence. The current Defence Secretariat Organisational Structure is indicated in � gure below:
+
+
+-----
+
+###### Figure 1. Defence Secretariat Organisational Structure
+
+ FINANCIAL CONSIDERATIONS AND ALLOCATIONS FOR THE ADMINISTRATION PROGRAMME
+
+ The budget of the Defence Secretariat is located within Programme 1: Administration. Table 2 below provides an overview of the distribution of funds to the sub-programmes of the DOD (Defence Secretariat and SANDF) within the Administration programme.
+
+ Table 2. Budget for the DOD Administration Programme
+
+**2011/12** **2012/13** **2013/14**
+
+**Medium term estimates**
+
+Rand thousand
+**Sub-programmes**
+
+Ministry 55,694 58,701 60,975
+Departmental Direction 38,740 41,558 44,815
+Policy and Planning 96,699 102,918 110,630
+Financial Services 266,091 267,960 281,285
+Human Resources Support Services 635,355 668,032 707,050
+Legal Services 160,942 168,077 175,676
+Inspection Services 69,759 72,890 76,715
+Acquisition Services 54,129 58,351 61,869
+Communication Services 29,652 30,954 32,612
+South African National Defence Force Command and Control 105,828 108,787 115,840
+Religious Services 9,628 11,534 12,129
+Defence Reserve Direction 15,859 16,376 17,089
+Defence Foreign Relations 172,433 192,119 202,035
+Of� ce Accommodation 1,961,950 2,202,656 2,445,642
+Military Veterans Management 45,370 51,207 50,941
+**Total** **3,718,129** **4,052,120** **4,395,303**
+
+###### EXPENDITURE TRENDS FOR THE ADMINISTRATION PROGRAMME OVER THE FY2011/12 MTEF
+ The detail of DOD’s estimated expenditure is re� ected in Government’s Estimate of National Expenditure 2011 and is included in the Appropriation Bill 2011 tabled in Parliament on 23 February 2011.
+
+ DEFENCE SECRETARIAT FINANCIAL INFORMATION
+
+ The full cost and budgeted amount per programme are indicated in Table 3. The full cost indicates the variation between the required funds within the Department in order to achieve both the Changed and Sustained Agenda of the Department and the actual funds allocated. The full cost and the budget are linked h b d
+
+|Table 2. Budget for the DOD Administration Programme|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Rand thousand|2011/12|2012/13|2013/14||
+||Medium term estimates||||
+|Sub-programmes|||||
+|Ministry|55,694|58,701|60,975||
+|Departmental Direction|38,740|41,558|44,815||
+|Policy and Planning|96,699|102,918|110,630||
+|Financial Services|266,091|267,960|281,285||
+|Human Resources Support Services|635,355|668,032|707,050||
+|Legal Services|160,942|168,077|175,676||
+|Inspection Services|69,759|72,890|76,715||
+|Acquisition Services|54,129|58,351|61,869||
+|Communication Services|29,652|30,954|32,612||
+|South African National Defence Force Command and Control|105,828|108,787|115,840||
+||||||
+|Religious Services|9,628|11,534|12,129||
+|Defence Reserve Direction|15,859|16,376|17,089||
+|Defence Foreign Relations|172,433|192,119|202,035||
+|OfÀ ce Accommodation|1,961,950|2,202,656|2,445,642||
+|Military Veterans Management|45,370|51,207|50,941||
+|Total|3,718,129|4,052,120|4,395,303||
+
+
+-----
+
+###### The Defence Secretariat budget is located within Programme 1: Administration of the current Defence Budget Programme Structure. It is envisaged that the programme structure will be structured according to the two Defence Entities (Defence Secretariat and SANDF) and not the DOD as a whole. This will ensure that the Secretary for Defence (Sec Def) and the Chief of the SANDF (C SANDF) take responsibility for what is rightfully theirs and hence there will be Annual Reports for each entity. Reporting will then be simpli� ed in this case.
+
+ The Table below re� ects the full cost of the sub-programmes under Programme 1: Administration. This includes the budget for shared services such as Finance Services, Legal Services and the Human Resource Services. The budget of Defence Secretariat Divisions that lies with the SANDF, or in respect of which the budget holder is at the SANDF, are not clearly re� ected in this table since the breakdown is not available.
+
+ Table 3. Defence Secretariat Full Cost for the FY2011/12 to the FY2013/14
+
+**2011/12** **2012/13** **2013/14**
+**(R’000)** **(R’000)** **(R’000)**
+
+**Sub-Programmes**
+
+Budget Budget Budget
+Full Cost Full Cost Full Cost
+Amount Amount Amount
+Ministry 55 694 55 694 58 701 58 701 60 975 60 975
+Departmental Direction (Secretary for Defence) 38 740 38 740 41 558 41 558 44 815 44 815
+Government Information Technology Of� cer
+15 322 11 822 15 919 12 105 16 510 12 352
+(GITO)[1]
+
+Policy and Planning (Defence Policy Strategy
+96 699 96 699 102 918 102 918 110 630 110 630
+and Planning)
+
+Financial Services[2] 266 091 266 091 267 960 267 960 281 285 281 285
+Human Resource Support Services 635 355 635 355 668 032 668 032 707 050 707 050
+Legal Services 160 942 160 942 168 077 168 077 175 676 175 676
+Acquisition Services (Defence Materiél and
+54 129 54 129 58 351 58 351 61 869 61 869
+Defence Supply Chain Integration )
+
+Communication Services 29 652 29 652 30 954 30 954 32 612 32 612
+Defence Foreign Relations
+13 131 13 131 12 833 12 833 13 101 13 101
+(Defence International Affairs)
+
+**TOTAL** **1 365 755** **1 362 255** **1 425 303** **1 421 489 1 504 523** **1 500 365**
+
+12
+
+1 These estimates are included in the sub-programme Departmental Direction
+
+
+-----
+
+#### PART B: PERFORMANCE INFORMATION
+
+##### CHAPTER 2
+###### INTRODUCTION
+
+ This chapter provides an overview of the performance information that spells out the operationalisation of the mandate articulated in the previous chapter. Further, the translation of the performance information in terms of the outcomes based approach as well as the Vote 22 is presented.
+
+ OVERVIEW OF PROGRAMME 1: ADMINISTRATION
+ Defence Secretariat mandate � nds expression within the Administration programme of the ENE. This programme is aimed at facilitating the overall management of the Department, as well as discharging the responsibilities of the Accounting Of� cer, in pursuit of the Minister’s Policy, as well as charging Divisions with the development of norms and standards in the various areas. The Administration programme provides a centralised human resource support; � nancial, religious and legal services; centralised governance, risk and compliance expertise and the determination of working methods and procedures that improve internal controls as well as the veracity of information provided.
+
+ ADMINISTRATION PROGRAMME PURPOSE
+
+ The Administration Programme executes the Department’s overall management, administration and policy development and is re� ected hereunder.[3]
+
+ Table 4: Administration Programme
+
+|Table 4: Administration Programme|Col2|Col3|
+|---|---|---|
+|Sub-programme|Responsibility||
+|Ministry. To provide political direction to the DOD to ensure the democratic Defence of South Africa by meeting the required Defence commitments and providing appropriate Defence capabilities.|Minister and Deputy Minister of Defence and Military Veterans||
+|Departmental Direction. To provide departmental direction to the DOD to ensure the effective, effi cient and proper conduct of Defence activities in accordance with legislation and policy.|Secretary for Defence||
+|SANDF Command and Control: To provide command and control for the SANDF.|Chief of the SANDF||
+|Policy and Planning3: To advise on national security policy matters and co-ordinate the strategic direction process by developing, formulating, monitoring and adapting Defence policy, strategy and plans in accordance with national policy to enable the effective, effi cient and proper conduct of Defence activities.|Chief of Defence Strategy, Policy and Planning Chief of Military Policy, Strategy and Planning||
+|Financial Services. To provide a cost-effective fi nancial management service to the Minister of Defence, the Secretary for Defence and the Chief of the South African National Defence Force within the evolving regulatory framework, by means of a professional representative civilian fi nancial management corps and an appropriate fi nancial management system.|Chief Financial Offi cer||
+|Acquisition Services: To manage the DOD acquisition policies.|Chief of Defence Matériel||
+||||
+|Defence Supply Chain Integration To provide management on supply value chain, governance, risk and compliance within the department.|Head of Defence Supply Chain Integration||
+|Inspection Services: To ensure the validity and veracity of the management information of the DOD.|Inspector General Internal Audit||
+|Human Resources Support Services. To provide full human resources support services to the DOD.|Chief of Human Resources||
+|Legal Service. To provide professional, legitimate and deployable Defence legal services and support commensurate to the needs of the DOD.|Chief of Defence Legal Services||
+|Religious Services. To provide a chaplain service that cares for all DOD members and their dependants and promotes spiritual growth, social support and ethical conduct.|Chaplain General||
+
+
+-----
+
+|Sub-programme|Responsibility|
+|---|---|
+|Communication Services. To provide Defence communication policy, strategy and plans in accordance with DOD policy and national (Government Communication and Information System – GCIS) policy, and provide a centralised corporate communication capability, services and products in order to enable effective, effi cient, interactive, two-way communication between the DOD and its public/stakeholders.|Head of Communication|
+|Defence Reserve Direction. To direct the development and maintenance of the Reserve Force system, to provide specialist advice on Reserve matters; and to promote/market the Reserves and the volunteer Reserve system.|Chief of Defence Reserves|
+|Defence International Affairs: Formulate and provide policy advice on the determination and conduct of Defence foreign relations and the attendant Defence diplomatic engagement and ensure such policy accords with evolving and emerging foreign policy of the country. Defence Foreign Relations. To provide the DOD and MOD with a foreign relations capability and services.|Chief of Defence International Affairs Chief of Defence Foreign Relations|
+|Offi ce Accommodation. To manage the payment of accommodation charges, leases and municipal services as a direct result of the devolution of a portion of the National Department of Public Works’ budget to national departments (Managed within General Support Programme)|Chief of Logistics|
+
+
+###### OVERVIEW OF SUB-PROGRAMME PURPOSE
+
+ The Defence Secretariat resides under the Administration Programme. The sub–programmes’ purpose that fall under the Defence Secretariat is illustrated in the Table below.[4]
+
+ BUDGET PROGRAMME STRUCTURE OF THE DEFENCE SECRETARIAT
+
+ In order to ensure Strategic Budgeting and reporting for the DOD, the outputs of the department are presented in terms of programmes that are all-encompassing. The programmes represent the contribution of various Services and Divisions within the DOD. However, the programmes will be restructured in order to ensure that the Defence Secretariat supports the achievement of the DOD mandate and outcomes.
+
+ CHANGES TO BUDGET PROGRAMME STRUCTURE
+
+ No changes to the budget Programme Structure have been made. However, it is envisaged that the budget programme structure will be aligned with the National Treasury Framework for Budget Programme Structure for the MTEF FY 2012/13-FY 2014/15 (i.e. Programmes should be grouped within the three categories, namely Support Service Programmes, Service Delivery Programmes and Enabling Programme).
+
+ The current Defence Secretariat budget programme structure with its associated purpose is depicted in Table 5 below through which the outputs of the Defence Secretariat will be achieved.
+
+ Table 5: Current Defence Secretariat Budget/Sub-Programme Structure
+
+Programme/Sub-Programme Purpose
+Ministerial Direction. To provide political direction to the DOD to ensure the democratic defence of South
+Africa by meeting the required Defence commitments and providing appropriate Defence
+capabilities
+Administration. Conduct the policy development, management and administration of the Department
+Departmental Direction (Accounting Offi cer). Provide departmental direction to the DOD to ensure the effective, effi cient and proper
+conduct of Defence activities in accordance with legislation and policy.
+Government Information Technology Offi cer To provide departmental direction to the Department of Defence to ensure the effective,
+(GITO). effi cient and proper conduct of Defence information and communication system activities
+in accordance with legislation and policy.
+Internal Audit. To ensure the validity and veracity of management information of the DOD.
+Policy and Planning (Defence Policy Strategy To advise on national security policy matters and coordinate the strategic direction
+and planning). process by developing, formulating, monitoring and adapting Defence policy, strategy
+and plans in accordance with national policy to enable the effective, effi cient and proper
+conduct of Defence activities.
+Financial Services[4.] To provide a cost-effective fi nancial management to the Minister of Defence, the Secretary
+for Defence and the Chief of South African National Defence Force within the revolving
+regulatory framework, by means of a professional representative civilian fi nancial
+management corps and an appropriate fi nancial management system.
+
+4 Based on the model that will enhance good corporate governance ef�ciency effectiveness and economy in the execution of functions by Services
+
+|Col1|Programme/Sub-Programme|Purpose|
+|---|---|---|
+||Ministerial Direction.|To provide political direction to the DOD to ensure the democratic defence of South Africa by meeting the required Defence commitments and providing appropriate Defence|
+|||capabilities|
+||Administration.|Conduct the policy development, management and administration of the Department|
+||Departmental Direction (Accounting Offi cer).|Provide departmental direction to the DOD to ensure the effective, effi cient and proper conduct of Defence activities in accordance with legislation and policy.|
+||Government Information Technology Offi cer (GITO).|To provide departmental direction to the Department of Defence to ensure the effective, effi cient and proper conduct of Defence information and communication system activities in accordance with legislation and policy.|
+||Internal Audit.|To ensure the validity and veracity of management information of the DOD.|
+||Policy and Planning (Defence Policy Strategy and planning).|To advise on national security policy matters and coordinate the strategic direction process by developing, formulating, monitoring and adapting Defence policy, strategy and plans in accordance with national policy to enable the effective, effi cient and proper conduct of Defence activities.|
+||Financial Services4.|To provide a cost-effective fi nancial management to the Minister of Defence, the Secretary for Defence and the Chief of South African National Defence Force within the revolving regulatory framework, by means of a professional representative civilian fi nancial management corps and an appropriate fi nancial management system.|
+
+
+-----
+
+|Human Resource Support Services|To advise on human resource policy matters and coordinate the strategic direction process by developing, formulating, monitoring and adapting human resource policy, strategy and plans in accordance with government HR policy to enable an effective and effi cient HR function.|
+|---|---|
+|Defence Legal Services|To provide professional legitimate and deployable Defence legal services and support commensurate with the needs of the DOD (excluding Adjutant General).|
+|Acquisition Services (Defence Materiel)|To manage DOD acquisition policies|
+|Defence Supply Chain Integration|To provide management on supply value chain, governance, risk and compliance within the department of Defence.|
+|Defence International Affairs|Formulate and provide policy advice on the determination and conduct of Defence foreign relations and the attendant Defence diplomatic engagement and ensure such policy accords with the evolving and emerging foreign policy of the country.|
+|Communication Service (Ministry)|To provide Defence communication policy, strategy and plans in accordance with DOD policy and national (Government Communication and Information System – GCIS) policy, and provide a centralised corporate communication capability, services and products in order to enable effective, effi cient, interactive, two-way communication between the DOD and its publics/stakeholders.|
+
+
+###### DEFENCE SECRETARIAT OUTCOME
+
+ The Defence Secretariat Outcome to support the realisation of the MTSF Outcomes is “Enhanced Civil Control[5] of Defence”.
+
+ DEFENCE SECRETARIAT OUTPUTS AND ANNUAL TARGETS
+
+ The Defence Secretariat outputs will support the DOD Outcomes which are linked to the Minister’s Delivery Agreement.
+
+ The Minister of Defence has signed the Delivery Agreements for Outcomes 11 but will contribute to the following outcomes:
+
+ �� Outcome 2 - A long and healthy life for all South Africans. �� Outcome 3 - All people in South Africa are and feel safe. �� Outcome 5 - Skilled and capable workforce to support an inclusive growth path. �� Outcome 11 - Create a better South Africa, a better Africa in a better world. �� Outcome 12 - An ef� cient, effective and development oriented public service and empowered, fair and inclusive citizenship.  
+
+ The MOD&MV will, in terms of the Delivery Agreement play a leading role in terms of Outcome 11 and contribute to Outcome 2, 3, 5 and 12 as stated above. The signing of Delivery Agreements for the above- mentioned outcomes by the MOD does not prevent the DOD from contributing to other MTSF Outcomes. The performance information of the DOD is therefore derived from the linkage of different priorities and strategies as depicted in � gure 2 below.
+
+ The APP will only re� ect the performance indicators which are in support of the Defence Secretariat Outcomes and Outputs which will then be linked to the relevant MTSF Outcomes as outlined above.
+
+ The Defence Secretariat Outputs, Activities and Inputs that support the DOD outcomes are listed in the table below:
+
+ Table 6: Defence Secretariat Outputs, Activities and Inputs
+
+**Defence Secretariat Outputs** Sound Defence Direction
+Defence Compliance with the Regulatory Framework
+Defence Commitments in Accordance with Government Policy and Strategy
+**Defence Secretariat Activities Comprehensive Defence Strategy and Policy**
+Comprehensive Instructions Framework
+Ef� cient systems and processes for monitoring and evaluation in the DOD
+A corporate support function.
+Information management in the DOD.
+Financial management for the DOD.
+**Defence Secretariat Inputs** Human Resources
+Materiél
+Information Communication Technology (ICT)
+Finances
+
+|Defence Secretariat Outputs|Sound Defence Direction|
+|---|---|
+||Defence Compliance with the Regulatory Framework|
+||Defence Commitments in Accordance with Government Policy and Strategy|
+|Defence Secretariat Activities|Comprehensive Defence Strategy and Policy|
+||Comprehensive Instructions Framework|
+||EfÀ cient systems and processes for monitoring and evaluation in the DOD|
+||A corporate support function.|
+||Information management in the DOD.|
+||Financial management for the DOD.|
+||Human Resources|
+||Materiél|
+||Information Communication Technology (ICT)|
+
+
+-----
+
+###### Figure 2: Origin of DOD Performance Information
+
+### L INK ING OF P R IOR ITIE S /S TR ATE G IE S
+
+E lectoral MTS F Outcomes Delivery
+MTS F P riorities
+Mandate 3,5,11,12 Agreement/s
+
+DOD P riorities MOD P riorities
+
+**DOD Outc omesDOD Outc omes**
+
+**DOD OutputsDOD Outputs**
+
+**DOD InputsDOD Inputs**
+
+###### DEFENCE SECRETARIAT TRENDABLE AND NON-TRENDABLE PERFORMANCE INFORMATION
+
+ The Defence Secretariat Outputs and annual targets linked to the MTSF Outcomes are indicated in the tables to follow. The individual Programmes’ contribution to these outputs are embedded within their respective core outputs. The tables therefore re� ect the integrated and consolidated outputs of the Defence Secretariat Programme and Sub-programmes.
+
+ Table 7. Defence Secretariat Trendable Performance Indicators
+
+**Performance Indicator** **Programme** **Projections** **MTSF**
+**Outcome**
+**2011/12** **2012/13** **2013/14**
+Finalisation of the DOD Border Management Administration Approved Monitor Monitor Outcome 3
+Strategy. (Implementation) (Compliance)
+
+Throughput in terms of the DOD National Administration 1500 2000 6000 Outcome 5
+Youth Service concept.
+
+Approved DOD Anti-Corruption Policy Administration Approved Implementation Monitor Outcome 12
+Percentage litigation settlement in favour of Administration 50% 60% 70% Outcome 12
+the DOD.
+
+Institutionalisation of the Defence Force Administration Establishment Fully Functional Review (Impact Outcome 12
+Service Commission Assessment)
+
+###### Table 7a. Trendable Performance Indicators and Targets: Job Creation
+
+|Performance Indicator|Programme|Projections|Col4|Col5|MTSF Outcome|
+|---|---|---|---|---|---|
+|||2011/12|2012/13|2013/14||
+|Finalisation of the DOD Border Management Strategy.|Administration|Approved|Monitor (Implementation)|Monitor (Compliance)|Outcome 3|
+|Throughput in terms of the DOD National Youth Service concept.|Administration|1500|2000|6000|Outcome 5|
+|Approved DOD Anti-Corruption Policy|Administration|Approved|Implementation|Monitor|Outcome 12|
+|Percentage litigation settlement in favour of the DOD.|Administration|50%|60%|70%|Outcome 12|
+|Institutionalisation of the Defence Force Service Commission|Administration|Establishment|Fully Functional|Review (Impact Assessment)|Outcome 12|
+
+|Performance Indicator/priorities|Programme|Projections|Col4|Col5|MTSF Outcome|
+|---|---|---|---|---|---|
+|||2011/12|2012/13|2013/14||
+|Members in the MSDS per year.|Administration|11 140|11 140|11 140|Outcome 5|
+|Number of active Reserves per year.|Administration|16 400|17 500|18 500|Outcome 5|
+|Throughput in terms of the DOD National Youth Service concept.|Administration|1 500|2 000|6 000|Outcome 5|
+|% Vacant funded post fi lled by June 2011.|Administration|100%|100%|100%|Outcome 5|
+|% Decline in turn-over rates.|Administration|6%|5%|5%|Outcome 5|
+|Establishment of a DOD Works Capability function (Strategic Direction)|Administration|Approval of the DOD Works Capability Structure|Monitor (Implementation)|Monitor (Impact)|Outcome 5|
+|Creation of job opportunities in the Defence industry according to DOD projects|Administration|TBD|TBD|TBD|Outcome 5|
+
+
+-----
+
+|Medium-term Targets|Programme/ Sub- Programme|Administration (Policy and Planning)|Administration (Policy and Planning)|Administration (Defence Materiel)|Administration (Policy and Planning)|Administration (IG DOD)|Administration (C Def Mat & HODSCI )|Administration (C Def Mat )|
+|---|---|---|---|---|---|---|---|---|
+||2015/16|Monitor (Effectiveness)|Monitor (Effectiveness)|100%|Monitor (Effectiveness)|Monitor (Effectiveness)|Review||
+||2014/15|Monitor (Effectiveness)|Monitor (Effectiveness)|100%|Monitor (Effectiveness)|Monitor (Effectiveness)|Monitor (Effectiveness)||
+||2013/14|Monitor (Compliance)|Monitor (Compliance)|100%|Monitor (Compliance)|Monitor (Compliance)|Monitor (Compliance)||
+||2012/13|Monitor (Implementation)|Monitor (Implementation)|75%|Monitor (Implementation)|Monitor (Implementation)|Monitor (Implementation)||
+||2011/12|Strategy Approved|Approved|50%|Approved by MOD&MV (Consultation with security agencies)|Approved|Approved||
+|Estimated Performance (Targets -2010/11)||TBD|TBD|TBD|TBD|TBD|TBD||
+|erformance Indicators||roved DOD er Management egy|roved Strategy to itate securing of onal Key Points|nding allocation ived for roved DOD egic Defence ages (Air and itime Defence egy)|roved National nce Security egy|roved DOD d and uption Prevention egy|roved White er on Defence stry||
+|P||App Bord Strat|App facil Nati|% Fu rece app Strat Pack Mar Strat|App Defe Strat|App Frau Corr Strat|App Pap Indu||
+|Defence Secretariat Outputs||Govern Defence commitment in Accordance with Government Policy & Strategy|Govern Defence commitment in Accordance with Government Policy & Strategy|Govern Defence commitment in Accordance with Government Policy & Strategy)|||||
+|Defence Secretariat Outcome|||||||||
+
+
+-----
+
+|Programme/ Sub- Programme|Administration (Human Resources)|Administration (Human Resources)|Administration (Human Resources)|Administration (Human Resources)|
+|---|---|---|---|---|
+
+|Medium-term Targets|Programme/ Sub- programme|Administration (Defence International Affairs)|Administration (Defence International Affairs)|Administration (Defence International Affairs)|Administration (Defence International Affairs)|
+|---|---|---|---|---|---|
+||15/16|100%|90%|90%||
+||14/15|95%|85%|85%||
+||13/14|90%|80%|80%||
+||12/13|85%|75%|75%||
+||11/12|80%|70%|70%||
+|Estimated Performance (Targets) 10/11||75%|65%|65%||
+|Performance Indicators||Percentage interaction between DOD and foreign training (Def Research and Development).|% Compliance with outputs of diplomatic missions.|% Compliance with UN and AU Requirements Rules and Regulations for Peace Missions.||
+|efence cretariat Outputs||||||
+|D Se||||||
+|Defence Secretariat Outcome||||||
+
+
+-----
+
+|Medium-term Targets|Programme/ Sub- Programme|Ministry|Departmental Direction|Administration (Human Resource & CDIA)|Administration (Sec Def)|Administration (Financial Services)|Administration (Legal Services & Human Resources)|Administration (Human Resource Support Services)|Administration (IG DOD)|
+|---|---|---|---|---|---|---|---|---|---|
+||15/16|Full Implementation of Minister’s priorities|Continuous improvement of the accounting and reporting systems|35%|100%|Unqualifi ed|100%|6%|100%|
+||14/15|Full Implementation of Minister’s priorities|Continuous improvement of the accounting and reporting systems|30%|100%|Unqualifi ed|100%|6%|80%|
+||13/14|Full Implementation of Minister’s priorities|Continuous improvement of the accounting and reporting systems|25%|100%|Unqualifi ed|100%|5%|60%|
+||12/13|Full Implementation of Minister’s priorities|Continuous improvement of the accounting and reporting systems|20%|100%|Unqualifi ed|100%|5%|40%|
+||11/12|Full Implementation of Minister’s priorities|Evaluate the implementation of structure for accounting and reporting by C SANDF and make improvements|15%|100%|1x Qualifi cation|60%|6%|20%|
+|Estimated Performance (Targets) 10/11||TBD|TBD|5%|TBD|1x Qualifi cation|TBD|TBD|-|
+|rmance icator||of the orities ties with ent’s e of Action net Lekgotla s.|Directives partmental guidelines to tment as a|resentation t number ns fi lled located international .|e Security es Allocated c staff|eneral|f ry cases in ec fi nalised 0 days|-over rates|t reduction es of es and in the DOD|
+|Perfo Ind||Alignment DOD’s pri and activi Governm Programm and Cabi resolution|Quality of to the De planning the Depar whole|DOD Rep %: Curren of positio against al quotas of institutions|Percentag Clearanc to Def Se|Auditor G Opinion|Number o disciplina the Def S within 12|% HR turn|Signifi can in the cas irregulariti corruption|
+|Def Sec Outputs||Defence Direction|||Defence commitments in accordance with government policy and strategy|Compliance with good fi nancial management|Defence in compliance with the regulatory framework|||
+|Def Sec Outcome||Civil control / oversight of Defence||||||||
+
+
+-----
+
+|Medium-term Targets|Programme/ Sub- Programme|Administration (Human Resources, Inspector General and Risk Management)|Administration (DEISM)|Administration (HODSCI)|Administration (Human Resources)|Administration (Financial Services))|Administration (Defence Acquisition)|Administration|
+|---|---|---|---|---|---|---|---|---|
+||15/16|Implement|100%|Review|100%|Implement Reviewed Framework|Implement Reviewed Framework||
+||14/15|Review|100%|Implementation and monitoring|100%|Assess impact of Defence Fiscal Framework|Review||
+||13/14|Monitor|100%|Implementation of guidelines to give effect to policy|100%|Full implementation of Defence Fiscal Framework|Monitor Effectiveness||
+||12/13|Implementation|100%|Development of subordinate policies|100%|Review of Defence fi scal framework in line with Defence Strategy|Implementation||
+||11/12|Approval|100%|Develop Policy Framework|100%|Development of revised Defence fi scal framework|Approved||
+|Estimated Performance (Targets) 10/11||-|NA|NA|100% By June 2011|N/A|N/A||
+|mance cator||DOD Anti- Policy and|ce with information|DOD Facilities ent Policy|funded|Defence mework|Defence es k||
+|Perfor Indi||Approved Corruption Strategy.|Complian MISS and security|Approved Asset and Managem|% Vacant posts fi lled|Approved Fiscal Fra|Approved Capabiliti Framewor||
+|Def Sec Outputs||Defence Compliance with Regulatory Framework||||||Provide Sound Defence Direction|
+|Def Sec Outcome||Civil control / oversight of Defence|||||||
+
+
+-----
+
+|Programme/Sub- Programme|Col2|Ministry (HOC)|Administration (Def Mat & DSCI )|Administration Defence International Affairs|Administration Policy and Planning in conjunction with Defence Supply Chain Integration|
+|---|---|---|---|---|---|
+|Medium-Term targets|15/16|TBD|90%|80%||
+||14/15|17%|80%|80%||
+||13/14|17%|80%|80%||
+||12/13|17%|80%|80%||
+||11/12|17%|70%|TBD||
+|Estimated Performance(Targets) 10/11||% Improvement in the outcome of the Annual GCIS Consensus|The frequency of interaction between DOD training institutions and the equivalent institutions of foreign partners (Def Research and Development)|TBD||
+|Performance indicator||GCIS Survey|% Expenditure on Research and Development|The frequency of interaction between DOD training institutions and the equivalent institutions of foreign partners (Def Research and Development)||
+
+
+-----
+
+|Medium-term Targets|Programme|Administration (HOC)|Administration (Human Resource Services)|Administration (Human Resource Support Services)|Administration (GITO)|Administration (Policy and Planning)|Administration Policy and Planning)|Administration (Policy and Planning)|Administration (Defence Materiel)|Administration (Human Resource Support Services)|Administration (Legal Services)|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||14/15|17%|TBD|Implementation|100%|Implementation|Implementation|Implementation|100%|TBD||
+||13/14|17%|5% deviation|Implementation|100%|Implementation|Implementation|Implementation|100%|TBD||
+||12/13|17%|15% deviation|Implementation|100%|Implementation|Implementation|Implementation|100%|TBD||
+||11/12|17%|25% deviation|Approved|100%|Approved|Approved|Approved|100%|TBD||
+|Estimated Performance (Targets) 10/11)||TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD||
+|Performance Indicator||% Improvement Public Opinion of the SANDF (value for money)|% Deviation from Approved DOD Budget Allocation on Training (Skills Improvement)|Approved DOD HR Retention Strategy|Compliance with approved DEIS Master Plan|Approval of Reserve Force Amended Legislation|Approval of the White Paper on Defence|Approved DOD Policy regulating resource unit costing|% funding allocation received for approved DOD Strategic Defence Packages|% Achievement of competency requirements by DOD SMS members||
+|nce ariat ities||e ction||ensive trategy y||||||||
+|Defe Secret Activ||A corporat support fun (Comms)||Compreh Defence S and Polic||||||||
+|Defence Secretariat Outputs||||||||||||
+|Defence Secretariat Outcomes||||||||||||
+
+
+-----
+
+|Medium-term Targets|Programme|CDIA|CDIA|CDIA|Defence International Affairs|Administration (Human Resource Support Services)|Administration (Financial Services)|
+|---|---|---|---|---|---|---|---|
+||14/15|95%|85%|85%|95%|30 days||
+||13/14|90%|80%|80%|90%|30 days||
+||12/13|85%|75%|75%|85%|30 days||
+||11/12|80%|70%|70%|80%|30 days||
+|Estimated Performance (Targets) 10/11)||75%|65%|65%|75%|30 days||
+|Performance Indicator||The frequency of interaction between our training institutions and the equivalent institutions of our foreign partners. (Def Research and Development)|% Compliance with objectives set by respective diplomatic missions in line with SA foreign policy direction|% Compliance with UN and AU Requirements Rules and Regulations for Peace Missions|Ensuring that CJ Ops complies with agreed force levels for deployment in UN missions as would be refl ected in the MOU|Average days outstanding payments (Claims, Invoice and transaction costs)|Compliance with % Budget Transfers|
+|nce tariat ities||nsive trategy||||ate unction||
+|Defe Secre Activ||Comprehe Defence S and Policy||||A Corpor Support F||
+|Defence Secretariat Outputs||Sound Defence Direction||||Sound Defence Direction||
+|Defence Secretariat Outcomes||Civil control / oversight of Defence||||Civil control / oversight of Defence||
+
+
+-----
+
+|Programme/ Sub- Programme|Col2|Administration (HR Services)|Administration (Communication Services)|Administration (HR Services)|Administration (HR Services)|Administration (HR Services)|Administration (HR Services)|Administration (HR Services)|Administration (HR Services)|Administration (GITO)|Administration (Financial Services)|Administration (Financial Services)|Administration (Financial Services)|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Medium-term targets|14/15|6%|17%|25%|100%|Strategy Reviewed|2 months|100%|N/A|100%|0% Deviation|Submitted in terms of National Treasury guidelines||
+||2013/14|5%|17%|20%|100%|Strategy Implemented|2 months|85%|N/A|100%|0% Deviation|Submitted in terms of National Treasury guidelines||
+||2012/13|5%|17%|18%|100%|Strategy Implemented|4 months|50%|N/A|100%|0% Deviation|Submitted in terms of National Treasury guidelines||
+||2011/12|6%|17%|15%|100%|Strategy Approved|6 months|20%|01 April 2011|100%|0% Deviation|Submitted in terms of National Treasury guidelines||
+|Estimated Performance (Targets)||TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|According to National Treasury guidelines||
+|Performance Indicator||% Decline HR turnover rates.|% Improvement in Public Opinion of the SANDF (Value for money).|% of DOD PSAP members attending training programmes.|% SMS members’ Performance Agreements signed and submitted by stipulated time.|Approved DOD HR Retention Strategy.|Decline in average months to fi ll funded vacancies in the DOD.|Finalised DOD skills audit.|Improved quality of Performance Management System (PM) system and implementation thereof.|% Compliance with approved DEIS Master Plan.|% Deviation from Approved Budget.|DOD ENE Chapter in compliance with National prescripts.||
+|DOD Input||man sources||||||ormation||||||
+|||Hu Re||||||Inf||||||
+|Defence Secretariat Output||Compliance with the regulatory framework||||Sound Defence Direction||Compliance with the regulatory framework||||||
+|Defence Secretariat Outcome||||||||||||||
+
+
+-----
+
+|Medium-Term targets|13/14|Review Implementation|Implementation|100%|Continuous review and Implementation of action plans|
+|---|---|---|---|---|---|
+||12/13|Monitor Implementation|Implementation|100%||
+||11/12|Monitor Implementation|Implementation|100%||
+|Estimated Performance (Targets) 10/11||Implementation|Implementation|100%||
+|Audited Outcome|09/10|Strategy Reviewed|Review ICS Policy development Plan|All staff visits conducted||
+||08/09|Implementation|Implementation|All staff visits conducted||
+||07/08|Strategy aligned and promulgated|Approved ICS Policy|All staff visits conducted||
+|mance cator||ed nt of nformation|ed n and cating licy in ce with ation and cating licy ent plan.|all the staff ervices ons in ce with ved ff visit table ndations mental ICS date.||
+|Perfor indi||Promulgat Departme Defence I Strategy.|Promulgat Informatio Communi System Po accordan the Inform Communi System Po Developm|Conduct visits to S and Divisi accordan the appro annual sta plan and recomme for depart policy up||
+|Sub- Programme||||||
+
+
+-----
+
+|Medium-Term targets|13/14|Strategy reviewed|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury timelines|>80%|Tabled in terms of the stipulated National Treasury timelines|Level 3|Resource 70% of the D CAC approved Operational Plan requirement|
+|---|---|---|---|---|---|---|---|---|---|
+||12/13|Strategy Approved|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury timelines|>80%|Tabled in terms of the stipulated National Treasury timelines|Level 3||
+||11/12|Strategy Drafted|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury timelines|>80%|Tabled in terms of the stipulated National Treasury timelines|Level 3||
+|Estimated Performance (Targets) 10/11||-|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury timelines|>80%|Tabled in terms of the stipulated National Treasury timelines|Level 2||
+|Audited Outcome|09/10|-|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury timelines|>80%|According to prescribed National Treasury Timelines|Level 2||
+||08/09|-|-|-|-|-|-|-||
+||07/08|-|-|-|-|-|-|-||
+|mance cator||Defence trategy|ted ent clusters|nts in ce with law|tegic APP in ce with Prescripts|tional Reports d for within me frames rements|ual and reports ance with Prescripts|maturity ased||
+|Perfor indi||Approved Review/S|Co-ordina Defence engagem|Defence Deployme mandated complian|DOD Stra Plan and complian National|Organisa Structure complete approval agreed ti and requi|DOD Ann Quarterly in compli National|DOD ERM level incre||
+|Sub- Programme||||||||||
+
+
+-----
+
+|Medium-Term targets|13/14|1|70%|8|100%|100%|Strategy Implemented and Monitored|100%|Execution|Implementation|6%|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||12/13|1|50%|8|90%|100%|Strategy Implemented and Monitored|100%|Execution|Implementation||
+||11/12|1|30%|8|85%|95%|Strategy Implemented and Monitored|100%|Execution|Approved||
+|Estimated Performance (Targets) 10/11||1|20%|6|80%|92%|Strategy Approved and Promulgated|100%|Execution|-||
+|Audited Outcome|09/10|1|-|4|70%|81%|Draft Strategy Finalised|97%|SCAMP approved|-||
+||08/09|1|-|-|60%|92%|Draft Strategy Developed|85%|-|-||
+||07/08|-|-|-|-|-|Draft Strategy Developed|-|-|-||
+|mance cator||pproved porate HR lan|duction ollective s|of HR evised to ensure t with cable y k|ctive s and solved|nce with bmission rding nancial s|tion of an opment|D legal ervices and y provided D|based on Divisional nts|White Defence||
+|Perfor indi||Annual a DOD cor Support p|Annual re in DOD c grievance|Number policies r annually alignmen the appli regulator framewor|% of colle grievance dispute re|%complia annual su and reco of SMS fi disclosure|Promulga HR Devel Strategy|% of DO advice S capabilit to the DO|Approved SCAMP Services/ requireme|Approved paper on Industry||
+|Sub- Programme||Human Resource Services||||||Defence Legal Services|Acquisition services (Defence Materiel)|||
+
+
+-----
+
+|Medium-Term targets|13/14|90%|80%|80%|90%|100%|8%|
+|---|---|---|---|---|---|---|---|
+||12/13|85%|75%|75%|85%|100%||
+||11/12|80%|70%|70%|80%|100%||
+|Estimated Performance (Targets) 10/11||75%|65%|65%|75%|100%||
+|Audited Outcome|09/10|-||-|-|99%||
+||08/09|-|-|-|-|99%||
+||07/08|-|-|-|-|95%||
+|mance cator||ency ion our stitutions quivalent of our artners. arch and ent)|ance ctives pective c missions h SA olicy|ance and AU ents Rules lations for ssions|hat CJ plies with rce levels yment in ons as refl ected U|iture on locations|on within sh fl ow|
+|Perfor indi||The frequ of interact between training in and the e institutions foreign p (Def Rese Developm|% Compli with obje set by res diplomati in line wit foreign p direction|% Compli with UN Requirem and Regu Peace Mi|Ensuring t Ops com agreed fo for deplo UN missi would be in the MO|% expend budget al|% deviati the 8% ca range|
+|Sub- Programme||Defence International Affairs||||Financial Services||
+
+
+-----
+
+|Quarterly Targets|4th|500|100%|
+|---|---|---|---|
+||3rd|500||
+||2nd|500||
+||1st|500||
+|Annual Target 2011||1500||
+|Reporting Period||Annually||
+|Description of Indicator||oughput number in terms of the DOD National Youth ncept||
+|||Thr co||
+|Defence Secretariat Outputs||||
+
+|Quarterly Targets|4th|5%|20%|20%|20%|
+|---|---|---|---|---|---|
+||3rd 25%||20%|20%||
+||2nd 25%||15%|15%||
+||1st 25%||15%|15%||
+|Annual Target 2011 80%|||70%|70%||
+|Reporting Period Quarterly|||Annually|Annually||
+|Description of Indicator interaction between Defence training institutions and the equivalent reign training institutions (Def Research and Development)|||Compliance with outputs of diplomatic missions|Compliance with UN and AU Requirements Rules and Regulations r Peace Missions||
+|% fo|||%|% fo||
+|Defence Secretariat Outputs Sound Defence Direction||||||
+
+|Quarterly Targets|4th|Strategy approved|Strategy approved|100% allocations received|Minister’s tabled document in Cabinet|
+|---|---|---|---|---|---|
+||3rd|Draft Strategy presented to command bodies for approval|Draft Strategy presented to command bodies for approval|Funding request drafted with motivations||
+||2nd|Stakeholder consultation|Stakeholder consultation|TBD||
+||1st|Strategy drafted|Strategy drafted|TBD||
+|Annual Target 2011||Approved|Approved|100%||
+|Reporting Period||Annually|Annually|Annually||
+|of Indicator||ement approved (Approved|nagement Strategy|ived for approved DOD ges (Air and Maritime)||
+|Description||Landward Capability requir Defence Strategy)|Approved DOD Border Ma|% funding allocation rece Strategic Defence Packa||
+|Defence Secretariat Outputs||||||
+
+
+-----
+
+|Quarterly Targets|4th|25%|White Paper approved|Unqualifi ed|3%|15%|6%|100%|Policy approved|100%|Final Policy document|Capturing of structure on the system|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||3rd|25%|Stakeholders Consultation|Unqualifi ed Audit|3%|15%|4%|100%|Stakeholders Consultation|100%|Amendment||
+||2nd|25%|Development of draft White Paper|Unqualifi ed|3%|15%|2%|100%|Development of draft policy|100%|Consultation||
+||1st|25%|Conceptualisation|Unqualifi ed|3%|15%|1%|100%|Conceptualisation|100%|Draft document||
+|Annual Target 2011||100%|White paper Approved|1 Qualifi cation|12%|60|6%|100%|Policy approved|100%|Development of Policy framework by end June||
+|Reporting Period||Annually|Annually|Quarterly|Quarterly|Quarterly|Quarterly|Quarterly|Quarterly|Annually|Quarterly||
+|f Indicator||on %: Current s fi lled against f international|aper on|pinion|tary court case|inary cases in within 120|ver rates|cant vacancies|nti-corruption|MISS and y|sset and ment Policy||
+|Description o||DOD Representati number of position allocated quotas o institutions.|Approved White P Defence Industry|Auditor–General o|% reduction in mili backlogs|Number of discipl the DOD fi nalised days|% decline HR turno|% fi lled funded va by 1 June 2011.|Approved DOD a policy|Compliance with information securit|Approved DOD A Facilities Manage||
+|Defence Secretariat Outputs||Sound Defence Direction||||Defence in compliance with the regulatory framework|||||||
+
+
+-----
+
+|Quarterly Targets|4th|5%|50%|Strategy approved|100%|Legislation approved|White Paper approved|Policy approved|100% allocations received|80%|15%|20%|20%|20%|30 days|8% )|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||3rd|5%|15%|Stakeholders Consultation|100%|Stakeholders Consultation|Stakeholders Consultation|Stakeholders Consultation|Funding Request drafted with motivations|-|35%|20%|20%|20%|30 days||
+||2nd|5%|20%|Development of draft Strategy|100%|Development of draft Legislation|Development of draft White Paper|Development of draft policy|-|-|35%|15%|15%|20%|30 days||
+||1st|2%|15%|Conceptualisation|100%|Conceptualisation|Conceptualisation|Conceptualisation|-|-|25%|15%|15%|20%|30 days||
+|Annual Target 2011||17%|100%|Approved Strategy|100%|Legislation approved|White Paper Approved|Policy Approved|100%|80%|80%|70%|70%|80%|30 days||
+|Reporting Period||Annually|Annually|Quarterly|Annually|Annually|Annually|Annually|Annually|Annually|Quarterly|Annually|Annually|Annually|Annually||
+|Description of Indicator||ment in Public Opinion of the ecretariat (value for money)|utilisation of Def Sec budget on training (skills improvement).|DOD HR Retention Strategy|ce with approved DEIS Master Plan|of Reserve Force Amended|of the White Paper on Defence|DOD Policy regulating resource unit|allocation received for approved tegic Defence Packages|r of disciplinary cases in the DOD ithin 120 days|ncy of interaction between DOD stitutions and the equivalent of foreign partners. (Def Research opment)|ance with objectives set by diplomatic missions in line with SA licy direction|ance with UN and AU Requirements Regulations for Peace Missions|hat CJ Ops complies with agreed s for deployment in UN missions as refl ected in the MOU|ays outstanding payments (Claims, d transaction costs)||
+|||% Improve Defence S|Annual % allocation|Approved|Complian|Approval Legislation|Approval|Approved costing|% Funding DOD Stra|% Numbe fi nalised w|The freque training in institutions and Devel|% Compli respective foreign po|% Compli Rules and|Ensuring t force level would be|Average d Invoice an||
+|Defence Secretariat Activities||Effi cient Systems and Processes|||||||||Comprehensive Defence Strategy and Policy||||||
+|Defence Secretariat Outputs|||||||||||||||||
+
+
+-----
+
+|Quarterly Targets|4th|6%|1.5%|5%|17%|18%|100%|Strategy approved|6 months|20% completed|System developed and Implemented|100%|0% Deviation|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||3rd|4%|1.5%|5%|TBD|TBD|TBD|Stakeholders Consultation|-|-|System developed and Implemented|TBD||
+||2nd|2%|1.5%|5%|TBD|TBD|TBD|Development of Strategy|-|-|System developed and Implemented|TBD||
+||1st|1%|1.5%|10%|TBD|TBD|TBD|Conceptualisation|6 months|-|System developed and Implemented|TBD||
+|Annual Target 2011||6%|6%|25% deviation|17%|18%|100%|Approved Strategy|6 months|20% completed|System developed and Implemented|100%||
+|Reporting Period||Quarterly|Quarterly||Annually|Annually|Annually|Quarterly|Annually|Annually|Annual|Annually||
+|scription of Indicator||e in HR turnover rates.|e in DOD vacancies.|tion from Approved DOD Allocation on Training (Skills ment)|vement Public Opinion of the (Value for money)|D PSAP members attending programmes|members’ Performance ents signed and submitted by d time|d DOD HR Retention|in average months to fi ll acancies in the DOD|DOD Skills Audit.|d quality of Performance ment System and ntation thereof.|liance with approved DEIS lan||
+|De||% Declin|% Declin|% Devia Budget Improve|% Impro SANDF|% of DO training|% SMS Agreem stipulate|Approve Strategy|Decline funded v|Finalised|Improve Manage impleme|% Comp Master P||
+|D e f e n c e Secretariat Inputs||Human Resources||||||||||Information||
+|Defence Secretariat Outputs||Compliance with the regulatory framework/ Sound Defence Direction||||||Defence Direction|Compliance with the regulatory framework|||||
+
+
+-----
+
+|Quarterly Targets|4th|100%|100%|100%|100%|Statutory Reports submitted by stipulated dates|
+|---|---|---|---|---|---|---|
+||3rd|70%|70%|75%|||
+||2nd|30%|40%|50%|||
+||1st|10%|15%|25%|||
+|Annual Target 2011||100%|100%|100%|||
+|Reporting period||Quarterly|Quarterly|Quarterly|||
+|escription of Indicator||ted Department of Defence n Strategy.|ted Information and cating System Policy in ce with the Information and cating System Policy Development|all the staff visits to Services ion in accordance with the annual staff visit plan and table ndations for departmental ICS date.|e of risks mitigated in ce with the Department of Information and Communication isk management plan and|priorities and activities aligned nment outcomes and Cabinet esolutions.|
+|D||Promulga Informatio|Promulga Communi accordan Communi plan.|Conduct and Divis approved recomme policy up|Percentag accordan Defence’s Systems R register.|Defence to Gover Lekgotla r|
+|Sub- programme||GITO||||Ministry|
+
+|Quarterly Targets|4th|17%|80%|White Paper approved|
+|---|---|---|---|---|
+||3rd|17%|80%||
+||2nd|17%|80%||
+||1st|17%|80%||
+|Annual Target 2011||17%|80%||
+|Reporting Period||Annually|Quarterly||
+|ator|||etween he n partners. nt)||
+|Description of Indic||GCIS Survey|The frequency of interaction b DOD training institutions and t equivalent institutions of foreig (Def Research and Developme||
+
+
+-----
+
+|Quarterly Targets|4th|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|SP and APP tabled in terms of the stipulated National Treasury Timeline|>80%|According to prescribed National Timeline|-|15%|4|25%|95%|Strategy approved|100 %|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||3rd|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Draft SP and APP approved by the MOD for printing|>80%|According to prescribed National Timeline|1|-|0|20%|-|Stakeholder Consultation||
+||2nd|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Draft SP and APP submitted to NT, AG and Presidency in terms of the stipulated timeline|>80%|According to prescribed National Timeline|-|15%|4|20%|-|Development of Strategy||
+||1st|Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Draft SP and APP aligned with National Treasury Prescripts|>80%|According to prescribed National Timeline|-|-|0|20%|-|Conceptualisation||
+|Annual Target 2011||Cluster related submissions by defi ned target dates|100% Defence deployments legally authorised|Tabled in terms of the stipulated National Treasury Timeline|>80%|According to prescribed National Timeline|1|30%|8|85%|95%|Strategy Approved||
+|Reporting period||Quarterly|Quarterly|Annually|Quarterly|Quarterly|Annually|Bi-Annually|Bi-Annually|Quarterly|Annually|Quarterly||
+|escription of Indicator||ted Defence engagement clusters|Deployments mandated in ce with law|tegic Plan (SP) and APP in ce with National Treasury|tional Structure Reports completed val within agreed time frames rements|ual and Quarterly reports in ce with National Prescripts|pproved DOD corporate HR lan|duction in DOD collective s|f HR policies revised annually alignment with the applicable framework|ctive grievances and disputes|nce with annual submission and of SMS fi nancial disclosures|ion of HR Development Strategy||
+|D||Co-ordina|Defence complian|DOD Stra complian Prescripts|Organisa for appro and requi|DOD Ann complian|Annual a Support p|Annual re grievance|Number o to ensure regulatory|% of colle resolved|%complia recording|Promulgat||
+|Sub- programme||Policy and Planning||||||||||||
+
+
+-----
+
+|Quarterly Targets|4th|MCC approval obtained as and when required Armament acquisition executed according to the SCAMP|1%|Negative Trend|White paper approved|15%|20%|Implementation|20%|20%|40%|8%|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||3rd|-|1%|Negative Trend|Stakeholder Consultation|35%|20%|Approval process|20%|20%|35%||
+||2nd|MCC approval obtained as and when required Armament acquisition executed according to the SCAMP|1%|Negative Trend|Development of draft White Paper|35%|15%|Consultation|15%|20%|15%||
+||1st|-|1%|Negative Trend|Conceptualisation|25%|15%|Draft strategy|15%|20%|10%||
+|Annual Target 2011||MCC approval obtained as and when required Armament acquisition executed according to the SCAMP|4%|Negative Trend|White paper Approved|80%|70%||70%|80%|100%||
+|Reporting period||Bi-annually|Quarterly|Annually|Annually|Quarterly|Annually|Annually|Annually|Annually|Quarterly||
+|escription of Indicator||SCAMP based on Services/ requirements|on in non-compliance with supply in regulatory framework|he incidents of non-compliance ly chain regulatory framework|White Paper on Defence|ency of interaction between our stitutions and the equivalent of our foreign partners. (Def and Development)|ance with objectives set by diplomatic missions in line with n policy direction|DOD Foreign Relations Strategy|ance with UN and AU ents Rules and Regulations for ssions|hat CJ Ops complies with rce levels for deployment in UN s would be refl ected in the MOU|iture on budget allocations||
+|D||Approved Divisional|% reducti value cha|Trend in t with supp|Approved Industry|The frequ training in institutions Research|% Compli respective SA foreig|Approved|% Compli Requirem Peace Mi|Ensuring t agreed fo missions a|% expend||
+|Sub- programme||Defence Materiel|Defence Supply Chain Integration||||Defence International Affairs||||||
+
+
+-----
+
+###### RISK MANAGEMENT The DOD fully understands its statutory obligations in respect of Enterprise Risk Management. To that end, the DOD will continue to enhance the risk management culture as contemplated in section 38(1) (a) (i) of the PFMA, (Act 01 of 1999) as amended. For the MTEF period (FY2011/12 to 2013/14), the DOD focus will be on the approved DOD Enterprise Risk Management Framework and the enhancement of the Enterprise risk architecture through the revision of the current risk management policy and strategy. 
+
+ The DOD is guided by the Public Sector Risk Management Framework of 2008, which aims to support institutions to improve and sustain their performance by enhancing their systems of risk management.
+
+ The main Defence Secretariat risks that could impact on the realization of the outputs are tabulated below:
+
+ Table 24: Defence Secretariat Risks
+
+|Table 24: Defence Secretariat Risks|Col2|
+|---|---|
+|Enterprise Risk|Mitigation Strategy/Action|
+|Full Compliance with Regulatory Framework. The DOD’s inability to fully comply with the regulatory framework requirements in respect of accounting and supply chain management.|Implementation of best practice supply chain and life cycle management. The acquisition of a single logistic information management system that is compliant with National Treasury and Auditor-General reporting requirements is being investigated. Until then, manual work-around and enhancements of legacy Defence logistics systems are being implemented.|
+|The DOD Infrastructure and Facilities’ State of Disrepair. Continued deterioration of DOD infrastructure, facilities and equipment due to insuffi cient funding. This situation constrains the DOD from executing its mandate effectively.|The verifi cation of the DOD asset portfolio is under way. Closer management of the DOD and Public Work Department’s respective rights and obligations on infrastructure and facilities’ maintenance. The DOD Internal maintenance /works capabilities are being enhanced.|
+|The Non-Integration of DOD IT Systems. The non-integration of information systems (Finance, Supply Chain Management and Human Resources systems) and inadequate information technology network has a negative impact on the DOD’s performance.|Analysis of all DOD IT systems for integration options. Seek National Treasury permission for the procurement of a single logistic management system that will allow for integration with other IFMS modules. The IFMS roll-out plan to be implemented to mitigate reliance on manual controls or other external systems.|
+
+
+-----
+
+-----
+
+## PART C: LINKS TO OTHER PLANS (RESOURCE PLANS)
+
+##### CHAPTER 3
+###### OVERVIEW OF THE CHAPTER
+
+ As required by National Treasury Regulation 5, the resources necessary for the delivery of the Defence mandate are provided herewith. This chapter deals with the presentation of supporting and functional resource areas which support the execution of the mandate. Further the chapter presents a brief exposition of Public Entities that report to the Executive Authority. Details of which will be contained in the individual plans of the entities. Also presented herein are the Public Private Partnerships as well as consultants that will be utilised during the medium-term expenditure framework and beyond.
+
+ LINKS TO THE DEFENCE SECRETARIAT LONG-TERM INFRASTRUCTURE AND OTHER CAPITAL PLANS
+
+ This section must reconcile the budget and MTEF with the infrastructure and other capital projects set out in the DOD Strategic Plan.
+
+ Details of the links to the long-term infrastructure plan are re� ected in the below. 
+
+ Table 25: Defence Secretariat Long-term Infrastructure and Capital Plan
+
+Outputs Outcome Main Medium Term Estimates
+Project Name/Programme Appropriation
+
+07/08 08/09 09/10 2010/111 2011/12 2012/13 2013/14
+**New and Replacement Assets**
+
+Maintenance and repair TBD
+to Defence Legal Service
+
+214 388 290 866 417 935 275 612 304 670 1 810 066 145 582
+
+Division infrastructure.
+
+**Upgrades and Additions of Assets**
+Upgrading of DLSD TBD 1 255 000 230 560 0 0
+Infrastructure.
+
+Total **1 530 612** **535 230** **181 006** **145 582**
+
+###### OVERVIEW OF PUBLIC-PRIVATE PARTNERSHIPS
+
+ The Department is conducting a feasibility study for Project Brilliant which is a PPP project within the Human Resource sub-programme. The project was approved by the Defence Plenary Defence Staff Council (PDSC) in January 2008. The DOD has not yet entered into an agreement with any company. The transactional costs of the project amount to R8 million.
+
+ PUBLIC ENTITIES REPORTING TO THE EXECUTIVE AUTHORITY
+
+ The DOD has an oversight role for two Public Entities which fall under Schedule 2 of the PFMA, namely Armscor and the Castle Control Board. The Sec Def therefore, as the Accounting Of� cer of the Department, will oversee the performance of these Public Entities. Armscor receives allocations from the � scus while the Castle Control Board generates its own revenue. The summary of the mandate, outputs and annual budget for both the above-mentioned entities is provided in the table below.
+
+|Project Name/Programme|Outputs|Outcome|Main Appropriation|Medium Term Estimates|Col6|
+|---|---|---|---|---|---|
+||||||2013/14|
+
+|Maintenance and repair to Defence Legal Service Division infrastructure.|TBD|
+|---|---|
+
+|Upgrading of DLSD Infrastructure.|TBD|Col3|Col4|Col5|1 255 000|230 560|0|0|
+|---|---|---|---|---|---|---|---|---|
+|Total||||||||145 582|
+
+
+-----
+
+###### Table 26: Public Entities Reporting to the Executive Authority
+
+**Name** **Legislative Mandate** **Output** **Current Annual** **Date of Next**
+**of Public** **Budget (R** **Evaluation**
+**Entity** **thousands)**
+
+Castle The Castle Control Board as a public entity, under To preserve and protect the No state funds Internal Audit
+Control the Public Finance Management Act (Act No 1 of military and cultural heritage of are allocated by Mazars –
+Board 1999) sec 1, has the mandate to manage and the Castle of Good Hope. to the Castle February/March
+
+protect the Castle of Good Hope on behalf of the Control Board. 2011
+Minister of Defence having the ultimate ownership To optimise the tourism
+responsibility for the Castle. potential of the Castle. External Audit by
+
+Auditor General –
+
+To optimise accessibility to the June 2011.
+Castle by the public.
+
+Armscor Armscor mandate is derived from the Armscor Act ��Funding and growth; 820 872 for July 2011
+51 of 2003 to assist the MOD & MV with the ��People capabilities; the 2011/12
+following: Financial Year
+
+��Broad Based Black
+
+��To be a nodal centre for acquisition; Economic Empowerment;
+��Disposal of equipment; and ��Stakeholder relationships;
+��Decision to support Defence materiél requirement ��Support local industry;
+of the DOD; ��Operational effi ciency
+�� Conduct the Defence technology, research,
+development, analysis, test and evaluation
+requirements of the Department of Defence
+effectively, effi ciently and economically;
+
+###### DEFENCE FORCE SERVICE COMMISSION (DFSC)
+
+ The Defence Force Service Commission (DFSC) is a service commission of the Defence Force established in terms of section 62A of the Defence Amendment Act 22 of 2010. The mandate, composition and governance prescripts pertaining to the processes to discharge the legislative mandate are encapsulated in section 62. As an independent and autonomous entity the commission reports to the Minister. The purpose of the DFSC is to investigate, provide expert advice and make recommendations regarding remuneration and the conditions of service of members of the Defence Force. Currently the Interim National Defence Force Service Commission will continue doing work until the permanent Defence Force Service Commission has been appointed.
+
+ CONSULTANT UTILISATION
+ Table 27: Consultant Utilisation and HDI Classi� cation for the FY2011/12
+
+**Project Title** **Total Number of** **Percentage** **Duration** **Contract Value in Rand**
+**Consultants required** **ownership by HDI** **Work Days**
+**on the Project** **Groups**
+
+Supply Chain Strategic Plan of 54,973,801
+Action 53 - 8 032
+
+CSIR: CPSC/G/230/08
+
+Transformation Management 10 Permanent members on N/A 4 One-day Board Chairperson per day:
+Advisory Board (TMA Board). the TMA Board. meetings per annum. 12,112.00
+
+Members per day: 1,208.00
+
+4 two-day visits to
+Services per annum. Total: 155,808 [Inclusive of
+
+transportation costs]
+Asset Management Stock 47,219,391
+Verifi cation Programme
+
+106                - 257
+
+Classic One Consortium:
+B/G/839/08
+
+Media Monitoring Intention to contract - Continuous (monthly 700,000
+company at analysis and reports)
+commencement of MTEF
+2011
+
+**Total amount used for consultants** **TBD** **TBD** **105, 693,192**
+(Footnotes)
+1
+These estimates are included in the sub-programme Departmental Direction
+2 These estimates are subject to changes in the FY 2012/13 and onwards based on the implementation of the Governance, Risk and Compliance
+Management Framework.
+3 In the ENE, the policy and Planning allocation includes funding for the Corporate Staff Of� ce as well as the Military Policy, Strategy and Planning
+Of� ce.
+4 Based on the model that will enhance good corporate governance, ef� ciency, effectiveness and economy in the execution  of functions by Services
+and Divisions the Financial Management Division must be reviewed to support the governance risk and compliance model and to empower Service and
+
+|Name of Public Entity|Legislative Mandate|Output|Current Annual Budget (R thousands)|Date of Next Evaluation|
+|---|---|---|---|---|
+|Castle Control Board|The Castle Control Board as a public entity, under the Public Finance Management Act (Act No 1 of 1999) sec 1, has the mandate to manage and protect the Castle of Good Hope on behalf of the Minister of Defence having the ultimate ownership responsibility for the Castle.|To preserve and protect the military and cultural heritage of the Castle of Good Hope. To optimise the tourism potential of the Castle. To optimise accessibility to the Castle by the public.|No state funds are allocated to the Castle Control Board.|Internal Audit by Mazars – February/March 2011 External Audit by Auditor General – June 2011.|
+|Armscor|Armscor mandate is derived from the Armscor Act 51 of 2003 to assist the MOD & MV with the following: To be a nodal centre for acquisition; Disposal of equipment; and Decision to support Defence materiél requirement of the DOD;  Conduct the Defence technology, research, development, analysis, test and evaluation requirements of the Department of Defence effectively, effi ciently and economically;|Funding and growth; People capabilities; Broad Based Black Economic Empowerment; Stakeholder relationships; Support local industry; Operational effi ciency|820 872 for the 2011/12 Financial Year|July 2011|
+
+|Project Title|Total Number of Consultants required on the Project|Percentage ownership by HDI Groups|Duration Work Days|Contract Value in Rand|Col6|
+|---|---|---|---|---|---|
+|Supply Chain Strategic Plan of Action CSIR: CPSC/G/230/08|53|-|8 032|54,973,801||
+|Transformation Management Advisory Board (TMA Board).|10 Permanent members on the TMA Board.|N/A|4 One-day Board meetings per annum.|Chairperson per day: 12,112.00 Members per day: 1,208.00||
+||||4 two-day visits to Services per annum.|Total: 155,808 [Inclusive of transportation costs]||
+|Asset Management Stock Verifi cation Programme Classic One Consortium: B/G/839/08|106|-|257|47,219,391||
+|Media Monitoring|Intention to contract company at commencement of MTEF 2011|-|Continuous (monthly analysis and reports)|700,000||
+|Total amount used for consultants||TBD|TBD|105, 693,192||
+
+
+-----
+
+-----
+

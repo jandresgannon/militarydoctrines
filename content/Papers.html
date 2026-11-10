@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Paper (in progress) – Military Doctrines</title>
+<title>Paper – Military Doctrines</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,7 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../images/favicon.ico" rel="icon">
+<link href="../favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -74,10 +74,9 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar docked nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -271,7 +270,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -289,8 +288,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/about.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About</span></a>
+  <a href="../content/data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/codebook.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Codebook</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/changelog.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Changelog</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -299,35 +310,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Paper</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Data</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/PDF.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">pdf files</span></a>
+  <a href="../content/about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/TXT.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">text files</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/CSV.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">csv files</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -335,17 +323,17 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Paper (in progress)</h1>
+<h1 class="title">Paper</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
@@ -357,48 +345,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Gannon, J Andrés. (2025) “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies”. Working paper.</strong></p>
-<p><u>Abstract</u>: This study develops and validates a novel text-as-data method for measuring interstate relations from political texts. Building on advances in natural language processing, I construct a directed dyad-year index of a state’s expressed salience (prominence) and affinity (evaluative stance) toward other states in its national security strategy. The measure is derived through a pipeline that integrates sentence-level segmentation, entity recognition, sentiment analysis, stance detection, and best–worst scaling calibration. Applied to a new corpus of 438 national security strategy documents issued by 92 countries (1962–2024), the approach produces reliable, continuous measures of interstate posture that closely track but also meaningfully diverge from traditional benchmarks such as alliance portfolios and UN voting patterns. This methodological contribution provides scholars with a replicable tool for extracting conveyed relationships from a wide range of political texts, enabling new insights into the articulation of political relationships.</p>
-<div class="quarto-layout-panel" data-layout-ncol="3">
+<p><strong>Gannon, J Andrés. “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.” Working paper.</strong></p>
+<p><u>Abstract</u>: How states regard one another – which states command attention, and with what evaluative orientation – is central to international relations, yet it is measured with proxies that are largely binary, symmetric, and slow-moving because they are built for other purposes. I develop and validate a text-as-data method that recovers directed dyad-year indices of a state’s expressed salience (prominence) and affinity (evaluative stance) toward other states from its national security strategy. The method automates the judgments a careful reader would make – which states a government names, how prominently, and in what evaluative terms – and makes them consistently across hundreds of documents. Applied to a new public corpus of 438 national security strategy documents issued by 92 countries (1962–2024) – to date the most comprehensive cross-national, multi-decade collection of security-strategy texts – the approach produces continuous, directional, and time-varying measures of interstate posture. Because governments revise these documents every few years rather than every few decades, the measures register shifts in stated posture as they happen, an early signal alongside slower-moving indicators such as UN votes and alliances. The measures converge with benchmarks such as alliance portfolio similarity and UN voting patterns where they should, track human judgments of expressed orientation, and diverge from the benchmarks where expressed and behavioral alignment part ways. In application, the scores add incremental predictive validity for militarized interstate dispute onset and diplomatic visits beyond these benchmarks, and reveal an asymmetry – cooperation tracks both a target’s prominence and its warmth, while conflict tracks prominence most strongly, with expressed hostility contributing a smaller association. The corpus, processing code, and derived measures are publicly released, providing a replicable tool for extracting conveyed relationships from political texts.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="../content/files/FightingWords_Gannon.pdf"><img src="images/stock/pdf.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="55"></a></p>
+<p><a href="files/MeasuringASI_Gannon.pdf"><img src="images/stock/pdf.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="55"></a></p>
 </figure>
 </div>
-<figcaption>Pre-print</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><a href="../content/files/FightingWords-slides_Gannon.pdf"><img src="images/stock/powerpoint.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="100"></a></p>
-</figure>
-</div>
-<figcaption>Slides</figcaption>
+<figcaption>Pre-print (November 2026)</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="https://github.com"><img src="images/stock/github.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Github Repo" width="55"></a></p>
+<p><a href="https://github.com/jandresgannon/measuring-asi"><img src="images/stock/github.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="GitHub repo" width="55"></a></p>
 </figure>
 </div>
-<figcaption>Github Repo (under construction)</figcaption>
+<figcaption>GitHub repo (forthcoming)</figcaption>
 </figure>
 </div>
 </div>
 </div>
 </div>
+<p>The paper analyzes a subset of this website’s catalog: English-language documents from the core corpus, with the selection rules described in the paper. The <a href="../content/data.html">Data</a> page lists every catalogued document.</p>
 
 
 
@@ -489,7 +466,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jandresgannon\.github\.io\/militarydoctrines\/");
+        var filterRegex = new RegExp("https:\/\/militarydoctrines\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

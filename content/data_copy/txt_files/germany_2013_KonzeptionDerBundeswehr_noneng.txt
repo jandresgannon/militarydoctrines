@@ -1,0 +1,952 @@
+
+
+![0_image_0.png](0_image_0.png)
+
+![0_image_1.png](0_image_1.png)
+
+# Konzeption Der Bundeswehr
+
+Bundesministerium
+
+![1_image_0.png](1_image_0.png)
+
+der Verteidigung Dr. Thomas de Maizière Bundesminister der Verteidigung Mitglied des Deutschen Bundestages Plg I 1 - Az 09-02-04 HAUSANSCHRIFT Stauffenbergstraße 18, 10785 Berlin POSTANSCHRIFT 11055 Berlin TEL +49 (0)30 18-24-8000 FAX +49 (0)30 18-24-8004 Hiermit erlasse ich die Konzeption der Bundeswehr
+
+![1_image_1.png](1_image_1.png)
+
+Der Hauptpersonalrat und der Gesamtvertrauenspersonenausschuss beim Bundesministerium der Verteidigung sind beteiligt worden.
+
+Inhalt 
+
+| Inhalt   | Seite                                                          |    |
+|----------|----------------------------------------------------------------|----|
+| 1        | Zielsetzung                                                    | 3  |
+| 2        | Rahmenbedingungen                                              | 4  |
+| 2.1      | Risiken und Bedrohungen                                        | 4  |
+| 2.2      | Sicherheitspolitischer Rahmen                                  | 5  |
+| 2.3      | Gesellschaftspolitischer Rahmen                                | 6  |
+| 2.4      | Finanzieller Rahmen                                            | 8  |
+| 3        | Auftrag und Aufgaben der Bundeswehr                            | 9  |
+| 3.1      | Verteidigungspolitische Vorgaben                               | 9  |
+| 3.2      | Differenzierung des Aufgabenspektrums                          | 11 |
+| 4        | Bundeswehrgemeinsame Prinzipien                                | 18 |
+| 4.1      | Einsatzorientierung                                            | 18 |
+| 4.2      | Langfristige Sicherheitsvorsorge                               | 18 |
+| 4.3      | Multinationalität                                              | 19 |
+| 4.4      | Vernetztes Denken und Handeln                                  | 21 |
+| 4.5      | Selbstverständnis                                              | 22 |
+| 4.6      | Steuerung nach Wirkung und Wirtschaftlichkeit                  | 25 |
+| 5        | Leistungs- und Fähigkeitsprofil                                | 29 |
+| 5.1      | Erwartete Konfliktformen                                       | 29 |
+| 5.2      | Dimensionen Land, See, Luft, Weltraum, Informationsraum        | 31 |
+| 5.3      | Verbund Führung - Aufklärung - Wirkung - Unterstützung         | 36 |
+| 5.4      | Basis Inland                                                   | 40 |
+| 5.5      | Gesundheitsversorgung                                          | 41 |
+| 5.6      | Vorgaben für das priorisierte Fähigkeitsprofil                 | 42 |
+| 5.7      | Einsatzbereitschaftslage                                       | 49 |
+| 6        | Vorgaben zu Gestaltungsbereichen                               | 50 |
+| 6.1      | Organisation                                                   | 50 |
+| 6.2      | Personal                                                       | 51 |
+| 6.3      | Ausbildung Streitkräfte und Übungen                            | 53 |
+| 6.4      | Material und Ausrüstung                                        | 54 |
+| 6.5      | Infrastruktur, Dienstleistungen und gesetzliche Schutzaufgaben | 56 |
+| 7        | Vorgaben zur Umsetzung im Zuge der Planung                     | 57 |
+| Glossar  | 59                                                             |    |
+
+## 1. Zielsetzung
+
+Die Konzeption der Bundeswehr (KdB) ist als langfristige Grundsatzweisung das Dachdokument der Gesamtkonzeption der militärischen Verteidigung Deutschlands. Sie beschreibt, wie die Bundeswehr ihren in den Verteidigungspolitischen Richtlinien vom 27. Mai 2011 (VPR 2011) festgelegten Auftrag und ihre Aufgaben erfüllt. Sie erklärt Zusammenhänge und Prinzipien und macht Vorgaben für die Gestaltung der Bundeswehr. 
+
+Sie wird durch weitere konzeptionelle bzw. strategische Dokumente1 präzisiert bzw. ergänzt und bildet damit in einer konsequenten Ableitung von oben nach unten die Basis für die weitere konzeptionelle Arbeit und die Planung in der Bundeswehr. Als offenes Dokument trägt die KdB dazu bei, die Neuausrichtung der Bundeswehr der interessierten Öffentlichkeit zu vermitteln und dadurch ihren Rückhalt in der Bevölkerung zu stärken. 
+
+Durch die Neuausrichtung wird die Voraussetzung geschaffen, zukünftige Anpassungen der Bundeswehr innerhalb der neuen Strukturen zu verwirklichen. Auf Grundlage der Beurteilung der langfristigen Lageentwicklung, der politischen Entscheidungen zur Neuausrichtung und weiterer politischer und planerischer Vorgaben gibt die KdB den Rahmen vor, in dem sich die Gesamtorganisation Bundeswehr weiterentwickeln und als lernende Organisation fortlaufend an sich verändernde Bedingungen und Herausforderungen anpassen kann. Deshalb ist die KdB kurz gefasst und verzichtet auf Detailregelungen; diese bleiben der Ebene der Teilkonzeptionen vorbehalten2. Das Leistungsprofil der Bundeswehr setzt sich aus den Fähigkeiten3 und Kapazitäten der Streitkräfte und des zivilen Bereichs zusammen. In diesem Sinne umfasst die KdB alle militärischen und zivilen Bereiche der Bundeswehr in einem ganzheitlichen Ansatz der Bundeswehrgemeinsamkeit. Sie dient einem gemeinsamen Verständnis der Angehörigen der Bundeswehr über die zukünftige Ausrichtung. Sie basiert auf dem Leitbild des Staatsbürgers in Uniform und den Grundsätzen der Inneren Führung einerseits, sowie den hergebrachten Grundsätzen des Berufsbeamtentums und der gewachsenen Dienstleistungstradition der Wehrverwaltung andererseits und erweitert sie um Aspekte, die sich aus der intensivierten Zusammenarbeit zwischen militärischen und zivilen Angehörigen der Bundeswehr ergeben. Die Aufgaben der Bundeswehr werden ganzheitlich betrachtet. Leitendes Prinzip ist die auf die Erfüllung ihres Aufgabenspektrums ausgerichtete Einsatzorientierung der gesamten Bundeswehr. Darauf basierend legt die KdB in Anwendung weiterer Prinzipien und unter Berücksichtigung der Rahmenbedingungen der in den VPR definierten Vorgaben für die Ausgestaltung des priorisierten Fähigkeitsprofils und weiterer Gestaltungsbereiche fest. Den Abschluss bilden Vorgaben, die Orientierung für Planung und Umsetzung geben. Übergreifendes Ziel ist es, einsatzbereite und bündnisfähige Streitkräfte aufzubieten, die die erforderlichen Fähigkeiten gemäß der nationalen Zielvorgabe der Verteidigungspolitischen Richtlinien bereitstellen und dem Stellenwert Deutschlands in den Bündnissen entsprechen.
+
+ 
+1 Konzeption der Reserve, Teilkonzeptionen, IT-Strategie des BMVg 2 vgl. Leitfaden für konzeptionelle Dokumente der Bundeswehr 3 siehe Glossar 
+
+## 2. Rahmenbedingungen
+
+In den Verteidigungspolitischen Richtlinien vom 27. Mai 2011 (VPR 2011) wurde die sicherheitspolitische Lage Deutschlands bewertet und Folgerungen für die Bundeswehr abgeleitet. Anlass für die Neuausrichtung sind die sicherheitspolitischen Entwicklungen. 
+
+Demografiefestigkeit und nachhaltige Finanzierbarkeit sind wesentliche zu berücksichtigende Merkmale ihrer Ausgestaltung. 
+
+## 2.1 Risiken Und Bedrohungen
+
+Eine unmittelbare territoriale Bedrohung4 Mitteleuropas und damit Deutschlands mit konventionellen militärischen Mitteln ist in absehbarer Zukunft angesichts der geografischen Lage Deutschlands im erweiterten europäischen Stabilitätsraum unwahrscheinlich. 
+
+Diese für Deutschland vorteilhafte Lagebewertung gilt allerdings nicht oder nur eingeschränkt für Staaten in den Randlagen Europas und der Bündnisgebiete. Einige dieser Länder sehen sich Bedrohungen ausgesetzt, die maßgeblichen Einfluss auf ihre sicherheitspolitischen Positionen in der internationalen Zusammenarbeit innerhalb und außerhalb der Bündnisse haben. Diese Bedrohungsperzeptionen müssen in der sicherheitspolitischen Analyse berücksichtigt werden. In den letzten beiden Jahrzehnten haben sich jenseits einer klassischen, rein militärischen Bedrohung vielgestaltige, teilweise gänzlich neue Herausforderungen gezeigt. Es sind eine Vielzahl von Risiken und Bedrohungen zu erkennen, die regional und zeitlich in unterschiedlicher Intensität und in unterschiedlicher Kombination auftreten. Sie sind unvorhersehbar, komplex und machen auch vor nationalen Grenzen nicht Halt. Selbst wenn sie ihren Ausgangspunkt in weit entfernten Regionen haben, können sie unmittelbare Auswirkungen auf Europa und Deutschland entfalten und sicherheitspolitisches Handeln erfordern. Viele dieser Risiken und Bedrohungen sind nicht in erster Linie militärisch. Sie können im Zuge der Globalisierung und der Abhängigkeiten moderner Gesellschaften aus politischen, gesellschaftlichen, religiösen, kulturellen, technischen, gesundheitlichen, ökonomischen oder ökologischen Entwicklungen erwachsen. Das Einflusspotenzial nichtstaatlicher Akteure nimmt dabei zu. Mehrere derartige Entwicklungen können kumulativ wirken und Effekte haben, die militärische Risiken und Bedrohungen an Intensität deutlich übersteigen können. Neue marktverfügbare Technologien, die Verwendung eigentlich ziviler Mittel zu kriminellen oder terroristischen Zwecken oder die Weitergabe von Massenvernichtungswaffen und deren Trägermitteln an kriminelle oder feindlich gesinnte nichtstaatliche Akteure können zu einer Bedrohung für Deutschland und seine Verbündeten werden. Diese Potenziale können sicherheitspolitische Relevanz erreichen, wobei die Grenzen zwischen der Sicherheit im Äußeren und der im Inneren verschwimmen. Dementsprechend müssen Instrumente gewählt werden, mit denen auf solche Bedrohungen reagiert werden kann. Mit unilateralem Handeln kann derartigen Herausforderungen nicht wirksam begegnet werden. Die vielschichtigen Ursachen und die Komplexität heutiger Krisen 
+
+ 
+4 Bedrohungen resultieren aus wahrgenommenen Risiken und quantifizieren diese nach der Eintrittswahrscheinlichkeit und der erwartbaren Höhe von Schäden. 
+und Konflikte5 erfordern ein umfassendes Verständnis von Sicherheit. Sie erfordern einen ressortgemeinsamen und zwischenstaatlich abgestimmten Ansatz. Bei ihrer Bewältigung kann die Bundeswehr als Instrument deutscher Außen- und Sicherheitspolitik die Maßnahmen der Diplomatie, der Wirtschafts-, Finanz- und Entwicklungshilfe, der politischadministrativen Zusammenarbeit und der humanitären Hilfe mit ihren Mitteln unterstützen. 
+
+## 2.2 Sicherheitspolitischer Rahmen
+
+Deutschlands Stellung in der Welt wird im Wesentlichen bestimmt von seiner wirtschaftlichen Stärke und geostrategischen Lage in Europa. Nationale Sicherheitsvorsorge wird durch den gemeinsamen Einsatz von zivilen und militärischen, staatlichen und nicht-staatlichen Stellen und Organisationen im multinationalen Verbund gewährleistet. Die Sicherheitsarchitekturen von NATO, EU, Vereinten Nationen (VN) und der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) bilden den Rahmen. 
+
+Die transatlantische Partnerschaft im Rahmen der NATO ist die entscheidende Grundlage für die deutsche Sicherheits- und Verteidigungspolitik und damit für die Sicherheit und Verteidigung Deutschlands und seiner Verbündeten. Sie ist eine historisch gewachsene, auf gemeinsamen kulturellen Wurzeln basierende und unter kritischen Herausforderungen gereifte und bewährte Interessen- und Wertegemeinschaft. Vor dem Hintergrund des sicherheitspolitischen Umfelds liegen die wesentlichen Aufgaben der Allianz in der kollektiven Verteidigung, Krisenbewältigung und kooperativen Sicherheit durch weltweite Partnerschaften. Ziele sind die Erhöhung von Sicherheit und Wahrung der Stabilität im euro-atlantischen Raum und darüber hinaus. Um diese Zielsetzung zu erfüllen und auch globalen Sicherheitsherausforderungen wirksam entgegentreten zu können, muss die NATO in der Lage sein, auf Grundlage von politischen Entscheidungen Streitkräfte räumlich flexibel, schnell und durchsetzungsfähig einzusetzen. Neben der NATO bildet die EU einen wesentlichen Rahmen für Formulierung und Umsetzung deutscher Sicherheits- und Verteidigungspolitik. Die sicherheitspolitische Integration der EU und die Schaffung einer eigenen Handlungsfähigkeit, die militärische und zivile Instrumente durch die Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP) verbindet, sind Kernanliegen deutscher Sicherheitspolitik. Deutschland beteiligt sich an den Verteidigungsplanungen der NATO und EU und geht damit politisch verbindliche Selbstverpflichtungen ein. Die Nationale Zielvorgabe in den VPR 2011 orientiert sich am NATO Level of Ambition6 (LoA) und EU Headline Goal7. Die strategischen und konzeptionellen Vorgaben der NATO und EU haben damit auch Auswirkungen auf das nationale Fähigkeitsprofil. Die daraus resultierenden Planungsvorgaben fließen auf allen Ebenen in die Ausrichtung der Bundeswehr ein. Die mit den nationalen Vorhaben konsolidierte Umsetzung der Planungsvorgaben gewährleistet eine angemessene Einflussnahme Deutschlands und eröffnet Gestaltungsmöglichkeiten zum Durchsetzen von nationalen Interessen. 
+
+ 
+5 siehe Glossar 6 2 Major Joint Operations (MJO), 6 Smaller Joint Operations (SJO). 7 Verlegung von 50 000 bis 60 000 Soldaten bzw. Soldatinnen binnen 60 Tagen für ein Jahr, grundsätzlich ohne geografische Begrenzung 
+Die Bundeswehr beteiligt sich an VN-geführten Friedensoperationen und bekräftigt damit die aktive Rolle Deutschlands in den Vereinten Nationen. Bezüglich der OSZE strebt Deutschland an, deren Rolle zur Krisenprävention und Konfliktnachsorge im europäischen Raum zu stärken. 
+
+Es ist grundlegendes Interesse Deutschlands, den Ausbau der militärischen Handlungsfähigkeit von NATO und EU mitzugestalten. Die Entwicklungen in NATO, EU, den VN und der OSZE sind so umzusetzen, dass Deutschland mit seinen Streitkräften handlungsfähig bleibt und über eine angemessene Mitsprache bei Planungen und Entscheidungen verfügt; das nationale Fähigkeitsprofil ist entsprechend auszurichten. Veränderungen der sicherheitspolitischen Lage und finanzielle Zwänge haben viele Staaten veranlasst, ihre Streitkräfte zu reduzieren und auf Fähigkeiten zu verzichten. Um Fähigkeitslücken im Bündnis zu vermeiden, bedarf es einer engen Abstimmung der Mitgliedstaaten und neuer Kooperationsformen, soweit es die staatliche Souveränität erlaubt. Deutschlands Ziel ist es, die Möglichkeit zur Übernahme von Führungsverantwortung als Rahmennation8 innerhalb der NATO und der EU sicherzustellen. Dabei ist zu berücksichtigen, dass die gemeinsame oder arbeitsteilige Wahrnehmung von Aufgaben für den Einsatz oder im Einsatz wechselseitige Abhängigkeiten und mögliche Verbindlichkeiten zur Folge haben kann. Für Einsätze gilt der Grundsatz, dass Kräfte und Mittel der Bundeswehr, die für die NATO, 
+EU oder VN angezeigt werden, aus einem einheitlichen Kräftedispositiv9 verfügbar zu machen sind. Dabei ist nicht in erster Linie der personelle Umfang, sondern die Wirkung im und für den Einsatz maßgebend. 
+
+Deutschland ist durch den ständigen Beitrag zu integrierten multinationalen Strukturen und seine Beteiligungen an bi- und multinationalen Kommandobehörden, Dienststellen und Verbänden fest in NATO und EU eingebunden. Gemeinsame Einsätze, Übungen und Ausbildungen sowie einsatzgleiche Verpflichtungen wie NATO Response Force (NRF) und EU Battle Groups (EU BG) verstärken diese Integration. Hinzu kommen die ständige Zusammenarbeit in internationalen Organisationen und gemeinsame rüstungspolitische Aktivitäten. 
+
+## 2.3 Gesellschaftspolitischer Rahmen
+
+Die Bundeswehr genießt im In- und Ausland hohes Ansehen und großes Vertrauen. Ihre Leistungen werden anerkannt; sie wird geschätzt. Die Bevölkerung verbindet mit ihr zentrale Tugenden und Werte wie Hilfsbereitschaft, Zuverlässigkeit, Verantwortung, Tapferkeit, Respekt und das Dienen. Als staatliche, im Grundgesetz verankerte Institution hat die Bundeswehr ihren selbstverständlichen Platz in der Mitte der Gesellschaft, für die sie eine einzigartige und unverzichtbare Aufgabe wahrnimmt. Ihre feste gesellschaftliche Verankerung ist Voraussetzung für ihre Leistungsfähigkeit und Grundlage für ihr Leitbild des Staatsbürgers in Uniform. 
+
+ 
+8 vgl. 4.3 Multinationalität 9 siehe Glossar 
+In den Auslandseinsätzen sind die Soldaten und Soldatinnen der Bundeswehr oft weit umfänglicher von der Lebens- und Erfahrungswelt der deutschen Bevölkerung entfernt, als dies in früheren Zeiten der Fall war. Gefahr, Entbehrungen, Tod und Verwundung, aber auch die Ermangelung jeglicher Privatsphäre sind soldatische Erfahrungen, die in der Bundeswehr vielfach, in der breiten Gesellschaft hingegen höchst selten anzutreffen sind. 
+
+Gleichzeitig blieben unsere Möglichkeiten bisher beschränkt, diese Erfahrungen in die Gesellschaft zu tragen. Mit der Aussetzung der verpflichtenden Einberufung zum Wehrdienst wird die Wahrnehmung der Bundeswehr im täglichen Leben der Menschen zudem deutlich abnehmen. Die Reduzierung des Personalumfangs und die notwendige Schließung von Standorten können diese Tendenz noch verstärken. 
+
+Daher wird ein großer Teil der Gesellschaft die Einsatzrealität und den militärischen Alltag unserer Soldaten und Soldatinnen künftig weitgehend über die Berichterstattung in den Medien und viel weniger aus persönlicher Betroffenheit wahrnehmen. Darauf müssen wir uns einstellen und neue Möglichkeiten erschließen, die Bundeswehr für die breite Öffentlichkeit erfahrbar zu machen. Der Vermittlung verteidigungspolitischer Zusammenhänge und Handlungen in der Öffentlichkeit kommt damit eine wichtige Rolle zu. Es ist deshalb unmittelbares Interesse der Bundeswehr, eine breite gesellschaftliche sicherheitspolitische Diskussion zu führen und über die Besonderheiten des soldatischen Dienstes zu informieren. Dazu gehören insbesondere die bewaffneten Einsätze mit ihren Gefahren und Belastungen und die Würdigung derer, die sie getragen haben. Eine lebendige sicherheitspolitische Diskussionskultur in Deutschland fördert und bewahrt das gesellschaftliche Vertrauen in die Bundeswehr und unterstützt ihre Attraktivität als Arbeitgeber. Die Würdigung und der Rückhalt, den die Bundeswehr durch Politik und Gesellschaft erfährt, haben wesentlichen Einfluss darauf, inwieweit junge Menschen auch künftig bereit sein werden, sich freiwillig für den Schutz und die Sicherheit unseres Landes in der Bundeswehr zu engagieren. 
+
+Die Bevölkerung in Deutschland wird in den nächsten Jahren deutlich abnehmen. Gleichzeitig wird der Anteil junger Erwerbstätiger aufgrund der Altersstruktur weiter sinken. Damit wird die Bundeswehr künftig in einem noch stärkeren Wettbewerb um geeigneten und qualifizierten Nachwuchs bestehen müssen. Die veränderte Bedrohungslage erlaubt im Rahmen der Neuausrichtung zwar eine Reduzierung der Umfänge, aber eine stärkere Technologisierung und ein hoher, vermutlich noch wachsender Bedarf an Spezialisten machen es wahrscheinlich, dass die Gewinnung von qualifiziertem Nachwuchs eine strategische Herausforderung bleiben wird. Deshalb muss die Bundeswehr dauerhaft als attraktiver Arbeitgeber wahrgenommen werden. 
+
+Die Bundeswehr hat daneben weitere gesellschaftliche Entwicklungen10 auf ihre langfristigen Auswirkungen zu analysieren. 
+
+ 
+10 z. B. Umgang mit natürlichen Ressourcen, Energie, nachhaltige Entwicklung 
+
+## 2.4 Finanzieller Rahmen
+
+Die Bundeswehr steht wie alle anderen staatlichen Organe in der Verpflichtung, verantwortungsbewusst und sparsam mit öffentlichen Mitteln umzugehen. Eine zu hohe Staatsverschuldung kann mit einem Verlust politischer Gestaltungs- und letztlich sicherheitspolitischer Handlungsfähigkeit eines Staates einhergehen. Die Entwicklung des Bundeshaushalts ist deshalb sicherheitspolitisch relevant, die Schuldenbremse als finanzielle Rahmenvorgabe verbindlich. 
+
+Das Ziel, eine dauerhaft tragfähige Finanzierung der Bundeswehr sicherzustellen, hat die Entscheidung für eine zielorientierte Steuerung, integrierte Planung und durchgängige Prozessorientierung11 wesentlich beeinflusst. 
+
+Die planerische Herausforderung besteht darin, die Einsatzfähigkeit und die Einsätze sicherzustellen, die Neuausrichtung der Bundeswehr und ihre Zukunftsentwicklung finanziell abzusichern, das mit der Nationalen Zielvorgabe angewiesene priorisierte Fähigkeitsprofil12 weiter zu gestalten und gleichzeitig qualifiziertes Personal zu gewinnen und zu halten. 
+
+Die multinationale Fähigkeitsentwicklung und Lastenteilung in den Bündnissen kann dazu beitragen, finanzplanerischen Handlungsspielraum zu gewinnen. 
+
+# 3. Auftrag Und Aufgaben Der Bundeswehr
+
+3.1 Verteidigungspolitische Vorgaben13 Auftrag der Bundeswehr Die Bundeswehr schützt Deutschland und seine Bürgerinnen und Bürger, sichert die außenpolitische Handlungsfähigkeit Deutschlands, trägt zur Verteidigung der Verbündeten bei, leistet einen Beitrag zur Stabilität und Partnerschaft im internationalen Rahmen und fördert die multinationale Zusammenarbeit und europäische Integration. 
+
+## Aufgaben Der Bundeswehr
+
+ **Landes- als Bündnisverteidigung** im Rahmen der Nordatlantischen Allianz, 
+ **Internationale Konfliktverhütung und Krisenbewältigung** - einschließlich des Kampfs gegen den internationalen Terrorismus, Beteiligung an militärischen Aufgaben im Rahmen der **Gemeinsamen Sicherheitsund Verteidigungspolitik** der EU, 
+ Beiträge zum **Heimatschutz** umfassen Verteidigungsaufgaben auf deutschem Hoheitsgebiet sowie Hilfeleistungen in Fällen von Naturkatastrophen und schweren Unglücksfällen, zum Schutz kritischer Infrastruktur und bei innerem Notstand, 
+ **Rettung und Evakuierung** sowie Geiselbefreiung im Ausland, 
+ **Partnerschaft und Kooperation** als Teil einer multinationalen Integration und globalen Sicherheitszusammenarbeit im Verständnis moderner Verteidigungsdiplomatie und 
+ **humanitäre Hilfe** im Ausland14. 
+
+## Nationale Zielvorgabe
+
+Die Nationale Zielvorgabe ist ein wesentlicher fähigkeits- und strukturbestimmender Leitfaktor für die Bundeswehr. Sie gibt vor, was die Bundeswehr leisten soll: 
+ Die Bundeswehr leistet im Rahmen ihrer Auftragserfüllung einen - Deutschlands Gewicht und Wirtschaftskraft in der Staatengemeinschaft angemessenen - Beitrag zur Wahrung seiner sicherheitspolitischen Interessen. 
+
+ Die Möglichkeit der Übernahme von Führungsverantwortung als **Rahmennation** und die Bereitstellung benötigter Fähigkeiten für das gesamte Aufgabenspektrum, in die Beiträge anderer Nationen flexibel und synergetisch integriert werden können, ist sicherzustellen. 
+
+ Nicht durch einen Einsatz gebundene Kräfte der Bundeswehr stellen die Einsatzfähigkeit und die Einsatzbereitschaft im gesamten Intensitätsspektrum sicher. 
+
+ 
+13 vgl. Verteidigungspolitische Richtlinien vom 27. Mai 2011 14 Die Bundeswehr agiert dabei nicht als eigenständiger humanitärer Akteur, sondern leistet einen Beitrag zur humanitären Hilfe, in der Regel auf Anforderung des Auswärtigen Amtes. 
+ Die **Befähigung zum Kampf** als höchster Anspruch an Personal, Material und Ausbildung ist der Maßstab für die Einsatzbereitschaft. 
+
+Unter Gewichtung ihrer Aufgaben muss die Bundeswehr folgende Ziele erreichen: 
+ Zur Bündnisverteidigung ist ein **streitkräftegemeinsames Kräftedispositiv**
+bereitzustellen, das multinational zur schnellen, wirksamen und zeitlich begrenzten Reaktion befähigt ist. Eine derartige Operation kann die Entscheidung zum Abbruch parallel laufender Stabilisierungseinsätze erfordern. 
+
+ Die in diesem Kräftedispositiv enthaltenen deutschen Anteile der NATO Response Force und der EU Battle Groups bilden den Kern des deutschen Beitrags für die schnelle Reaktion im Nordatlantischen Bündnis und in der Europäischen Union. 
+
+ Zur internationalen Konfliktverhütung und Krisenbewältigung müssen bundeswehrgemeinsam eskalations- und durchsetzungsfähige Kräfte gleichzeitig für Einsätze in unterschiedlichen Einsatzgebieten, gegebenenfalls unter Abstützung auf externe Unterstützung, gestellt werden können. Dafür sind zeitgleich rund **10 000** 
+Soldaten und Soldatinnen durchhaltefähig vorzuhalten. Darüber hinaus sind weitergehende deutsche Verpflichtungen zur strukturellen Bereithaltung verlege- und durchhaltefähiger Kräfte für NATO und EU zu erfüllen. 
+
+ Zur VN-Friedenssicherung im Rahmen des "UN Standby Arrangement System" sind streitkräftegemeinsam Kräfte auf der Basis verfügbarer Kapazitäten bereitzustellen. Für Beobachtermissionen ist Personal in angemessenem Umfang vorzuhalten. Über weitere Beteiligungen an VN-Einsätzen ist im Einzelfall zu entscheiden. 
+
+ Zur Rettung, Evakuierung und Geiselbefreiung im Ausland sind im Rahmen nationaler Krisen- und Risikovorsorge dauerhaft bundeswehrgemeinsame Fähigkeiten bereitzuhalten. 
+
+ Zur Überwachung und Sicherheit im deutschen Luft- und Seeraum sowie für den Such- und Rettungsdienst sind dauerhaft entsprechende Fähigkeiten bereitzustellen. 
+
+ Zur Wahrnehmung von Aufgaben im **Heimatschutz** werden im Bedarfsfall alle verfügbaren Kräfte, einschließlich Reservisten und Reservistinnen, herangezogen. 
+
+Aus dem Auftrag und den Aufgaben der Bundeswehr und der Nationalen Zielvorgabe leiten sich die erforderlichen Fähigkeiten ab. Eine Priorisierung der Fähigkeiten ergibt sich aus der Bewertung nationaler Interessen, der Wahrscheinlichkeit, mit der Risiken und Bedrohungen einen militärischen Beitrag erforderlich machen, aus dem Zeitbedarf zur Bereitstellung der Fähigkeiten, der Berücksichtigung von Vorgaben und Prioritäten der multinationalen Fähigkeitsentwicklung der Bündnisse, denen Deutschland zugestimmt hat, und der Finanzierbarkeit. Auf dieser Grundlage beschreibt das **priorisierte Fähigkeitsprofil** die Fähigkeiten nach ihrer Art, ihrer Qualität und ihrem Umfang. Es legt damit deren Vielfalt und Durchhaltefähigkeit in Abhängigkeit verschiedenartiger Anforderungen fest. Die erforderlichen Fähigkeiten für eine Rolle als Rahmennation, an die sich Kontingente anderer Staaten mit Beiträgen anlehnen können, finden darin besondere Berücksichtigung. 
+
+## 3.2 Differenzierung Des Aufgabenspektrums
+
+Nachfolgend werden die Aufgaben der Bundeswehr erläutert. Dies dient dem gemeinsamen, einheitlichen Verständnis in der Bundeswehr und nach außen. Die Aufgaben bilden den Ausgangspunkt für die Ableitung von Teilaufgaben und Fähigkeiten in der weiteren konzeptionellen Arbeit der Bundeswehr. Dabei ist zu beachten, dass die Aufgaben der Bundeswehr nicht separat betrachtet werden dürfen; sie greifen ineinander. Die abzuleitenden Teilaufgaben und Fähigkeiten werden meist zu mehreren Aufgaben beitragen. 
+
+## Landesverteidigung Als Bündnisverteidigung Im Rahmen Der Nato
+
+Fähigkeiten zum Schutz der Bürgerinnen und Bürger und zur Wahrung der territorialen Integrität Deutschlands sind Ausdruck staatlicher Souveränität. Landesverteidigung ist eine originäre militärische und konstitutive Aufgabe der Bundeswehr. Derzeit ist ein Angriff auf das Territorium Deutschlands, der eine konventionelle Landesverteidigung erfordert, unwahrscheinlich. Die Sicherheitsvorsorge verlangt es, sich trotzdem auf eine solche, für die Zukunft nicht grundsätzlich auszuschließende existenzbedrohende Entwicklung angemessen vorzubereiten. 
+
+Die Bundeswehr erfüllt ihre Aufgaben mit wenigen Ausnahmen15 im Rahmen von Bündnissen; sie ist fest in die Strukturen der NATO integriert. Bündnisverteidigung hat zum Ziel, die territoriale Integrität und politische Unabhängigkeit aller Bündnispartner durch Abschreckung und Abwehr bewaffneter Angriffe von außen zu sichern oder ggf. 
+
+wiederherzustellen. Bündnisverteidigung ist deshalb Landesverteidigung im erweiterten Sinne. Sie schließt die gemeinsame Abwehr von bewaffneten und asymmetrischen Angriffen und terroristischen Anschlägen nicht staatlicher Gewaltakteure ein. Hinsichtlich konventioneller Angriffe erfordern sie Fähigkeiten zur Führung von Operationen mit hoher Intensität über eine begrenzte Dauer. Die nukleare Teilhabe ist Teil der Verteidigung im Bündnis. 
+
+Weil konventionelle Angriffe gegen das Bündnisgebiet vornehmlich an dessen Außengrenzen zu erwarten sind, muss die Bundeswehr zu Operationen in diesem Bereich befähigt sein. Deshalb muss sie über Kräfte und Mittel verfügen, die nach kurzer Vorbereitung an den Grenzen oder jenseits des Bündnisgebiets einsetzbar sind. Das schließt Fähigkeiten zur strategischen Verlegung ein. Die Möglichkeit der frühzeitigen Reaktion auf erkannte konkrete Angriffsabsichten wird durch Fähigkeiten zur allgemeinen und präventiven Krisenfrüherkennung unterstützt. Über die Beteiligung an gemeinsamen Operationen des Bündnisses entscheidet Deutschland in jedem Einzelfall. Um den politischen Entscheidungsspielraum hierfür zu sichern, sind die dazu absehbar erforderlichen Fähigkeiten im Sinne der gemeinsamen Sicherheitsvorsorge im Bündnis harmonisiert strukturell bereitzuhalten. Mit seinem hieraus abzuleitenden Fähigkeitsprofil definiert Deutschland seinen Anspruch im Bündnis und übernimmt in souveräner Entscheidung Beiträge, die im Verteidigungsplanungsverfahren der NATO16 vereinbart werden. Sie schließen die Beiträge zur integrierten Luftverteidigung und Flugkörperabwehr, zu den ständigen maritimen Einsatzverbänden der NATO, dem 
+
+ 
+15 Militärische Operationen zur Rettung, Evakuierung und Geiselbefreiung deutscher Staatsangehöriger aus krisenhaften Lagen im Ausland werden grundsätzlich in nationaler Verantwortung durchgeführt. 
+
+16 NATO Defence Planning Process (NDPP) 
+Aufklärungs- und Überwachungsverbund und die Teilhabe an der NATO Kommandostruktur ein. 
+
+Beiträge zu den NATO Committed Forces (NCF)17 sind kontinuierlich zu erfüllen. Diese Dauereinsatzaufgaben (DEA) haben Einsatzcharakter und sind durch einsatzbereite Kräfte und Mittel der Mitgliedsstaaten in hoher Verfügungsbereitschaft zu erfüllen. 
+
+Aufgaben im Zusammenhang mit Vorbereitungen, Übungen und Bereitstellungen von deutschen Kontingenten an der NATO Response Force (NRF) sind Einsatzgleiche Verpflichtungen18. Sie dienen der Sicherheitsvorsorge, gewährleisten Fähigkeiten zur schnellen Reaktion und unterstützen die kontinuierliche Weiterentwicklung und Transformation im Bündnis. 
+
+## Beteiligung An Militärischen Aufgaben Im Rahmen Der Gsvp Der Eu
+
+Die eigenständige sicherheitspolitische Handlungsfähigkeit der EU ist ein wesentliches Interesse deutscher Sicherheitspolitik. Daher beteiligt sich Deutschland an militärischen Aufgaben im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP). Alle Kräfte der Bundeswehr können zur Unterstützung von EU-Aufgaben herangezogen werden. 
+
+Strukturen der GSVP ergänzen die Strukturen der NATO. Die kontinuierliche Abstimmung und die Zugriffsmöglichkeit der EU auf Einrichtungen der NATO tragen dazu bei, Doppelstrukturen und zeitlich konkurrierenden Zugriff auf Ressourcen zu vermeiden. Dementsprechend wird die deutsche Beteiligung an EU-Führungsstrukturen mit den Beiträgen zur NATO-Kommandostruktur harmonisiert und die Anzeige der überwiegend für beide Organisationen strukturell bereitzuhaltenden Fähigkeiten Deutschlands zum EU Headline Goal mit denen im Verteidigungsplanungsprozess der NATO abgestimmt. 
+
+Deutschland beteiligt sich an den EU Battle Groups (EU BG) zur schnellen Krisenreaktion. Vorbereitungen, Übungen und Bereitstellungen der deutschen Kontingente sind Einsatzgleiche Verpflichtungen. 
+
+## Internationale Konfliktverhütung Und Krisenbewältigung
+
+Internationale Konfliktverhütung und Krisenbewältigung bleibt für die Bundeswehr auf absehbare Zeit die wahrscheinlichere Aufgabe. Sie findet in einem multinational abgestimmten, ressortübergreifenden Rahmen statt. Diese Aufgabe prägt maßgeblich das Leistungs- und Fähigkeitsprofil der Bundeswehr. Sie umfasst Beiträge zur Krisenfrüherkennung und -prävention, zur Bewältigung bewaffneter Konflikte und zur Krisennachsorge. 
+
+Die Anforderungen, die sich aus dieser Aufgabe ergeben, reichen von ständiger Vorsorge über präventives Handeln bei krisenhaften Entwicklungen, zeitlich begrenzte Anfangsoperationen19 - auch in schneller Reaktion20 mit hoher Intensität - bis hin zu lang 
+
+ 
+17 Der deutsche Beitrag zu den NCF umfasst die durch Deutschland dauerhaft der NATO unterstellten Kräfte der Bundeswehr für dauerhaft wahrzunehmende Bündnisaufgaben bzw. die Kräfte der Bundeswehr, die an NATO-Operationen teilnehmen. 
+
+18 siehe Glossar unter Aufgabentypen 19 Anfangsoperation zur Konfliktverhütung und Krisenbewältigung können in weiten Bereichen dieselben Phasen umfassen und Kräfte und Mittel erfordern wie eine Operation zur Bündnisverteidigung. 
+
+20 siehe Glossar unter Aufgabentypen 
+andauernden21 stabilisierenden Einsätzen im Rahmen der Sicherheitsvor- und Krisennachsorge. 
+
+Internationale Konfliktverhütung und Krisenbewältigung beginnt mit der Erfassung und Beobachtung krisenhafter Entwicklungen in ressortübergreifender Zusammenarbeit, um den Entscheidungsträgern frühzeitig ein Lagebild bereitzustellen. Im Rahmen einer gemeinsamen Krisenfrüherkennung kann die Bundeswehr wesentlich zur Feststellung der Nachrichtenlage und zur Information der politischen Entscheidungsträger beitragen. Diese weltweite Krisenfrüherkennung ist Voraussetzung für die gezielte Krisenprävention. 
+
+Rüstungskontrolle, Maßnahmen zur Nichtverbreitung von Massenvernichtungswaffen und eine restriktive Rüstungsexportpolitik können präventiv wirken. Bi- und multilaterale Kooperationen bilden und fördern das gegenseitige Vertrauen. Die Bundeswehr wirkt an der Erfüllung internationaler Verpflichtungen und an der Weiterentwicklung von Verträgen und Abkommen mit und beteiligt sich an VN- und OSZE-Beobachter- und Verifikationsmissionen. Von der Anzahl und Qualität verfügbarer Handlungsoptionen hängt ab, wie zeitig und variabel die politisch Verantwortlichen im Falle einer Krise reagieren können. Um vielfältige Handlungsmöglichkeiten bereitstellen zu können, muss die Bundeswehr über ein breites, kohärentes und abgestuftes Fähigkeitsspektrum verfügen. Zum Schutz deutscher Staatsangehöriger bei krisenhaften Situationen im Ausland können ressortübergreifend präventive Maßnahmen zur Nationalen Krisenvorsorge eingeleitet werden. Die Bundeswehr stellt dabei den militärischen Rat und Sachverstand bereit. Sie trägt mit ihren Fähigkeiten zur ressortgemeinsamen Nationalen Risikovorsorge und zur Lösung von Entführungs- oder Geisellagen oder vergleichbaren Situationen bei22. 
+
+Die Bundeswehr unterstützt sicherheits-, verteidigungs- und rüstungspolitische Maßnahmen indem sie die Befähigung anderer fördert, ihre Sicherheitsaufgaben selbst wahrzunehmen. Sie bildet im Rahmen der militärischen Ausbildungshilfe und -unterstützung Personal der Sicherheitskräfte anderer Staaten aus. Um die Stabilität in anderen Staaten zu fördern, kann sie militärisches Beraterpersonal für den Aufbau und die Unterstützung lokaler Sicherheitskräfte23 entsenden. 
+
+Wenn sich die Sicherheitslage in einer Region verschlechtert, kann die Bundeswehr einen präventiven Beitrag zur Wiederherstellung von Stabilität und gegenseitigem Vertrauen leisten, um einer bewaffneten Auseinandersetzung vorzubeugen. Die Bundeswehr unterstützt mit ihrer Präsenz, mit der Demonstration militärischer Stärke24 und mit der Durchsetzung von Sanktionsmaßnahmen der internationalen Gemeinschaft. Krisen und bewaffnete Auseinandersetzungen sind im Rahmen der NATO und der Gemeinsamen Sicherheits- und Verteidigungspolitik der EU auf Basis der Charta der VN zu bewältigen. Die militärischen Operationen fügen sich im Sinne der vernetzten Sicherheit in ein politisches Konzept ein, das ressortübergreifend abgestimmte Maßnahmen der Diplomatie, der Entwicklungszusammenarbeit, der Inneren Sicherheit und weiterer Bereiche umfasst. In Abhängigkeit von der Sicherheitslage ist die Abstimmung mit anderen Akteuren 
+
+ 
+21 siehe Glossar unter Aufgabentypen 22 vgl. Rettung und Evakuierung, Geiselbefreiung im Ausland 23 Theatre Security Cooperation, Capacity Building, Security Force Assistance 24 Show of Force 
+wie internationalen und Nichtregierungsorganisationen anzustreben25, um die Stabilität in der Krisenregion in einem breiten Ansatz wiederherzustellen. 
+
+Die Bundeswehr kann durch Präsenz in einer Krisenregion mit Kräften an Land, in der Luft oder auf See militärische Stärke zeigen, mit dem Ziel, einen Angreifer von seinem Vorhaben abzubringen, ohne dass es zum Waffeneinsatz kommt. Schutz- und Geleitoperationen in der Krisenregion dienen dazu, Schifffahrt, Luftverkehr und Handelswege zu sichern und die Reaktionsfähigkeit und Mobilität der eigenen Kräfte zu erhöhen. 
+
+Wenn der Ausbruch von Gewalt nicht zu verhindern ist, kann ein zeitlich begrenzter friedenserzwingender Kampfeinsatz26 erforderlich werden, an den sich eine Stabilisierungsoperation anschließen kann. Friedenserzwingende Maßnahmen sind deshalb möglichst so zu wählen, dass ihre Wirkungen die beabsichtigte langfristige Stabilisierung nicht beeinträchtigen. Streitkräfte müssen zur Durchsetzung eines Waffenstillstands einschließlich der Einrichtung von Flugverbotszonen, Puffer- und Schutzzonen und der Entwaffnung und Rückführung der Konfliktparteien befähigt sein. Wenn erforderlich nehmen sie Aufgaben zur Stabilisierung des Umfeldes und zum Schutz der Bevölkerung und kritischer Infrastrukturen wahr. Zum Trennen von Konfliktparteien kann das Bezwingen eines militärischen Gegners erforderlich sein. Um diese Aufgaben zu erfüllen, müssen Streitkräfte, die zur Bewältigung von Krisen und bewaffneten Auseinandersetzungen eingesetzt werden, zum Kampf im gesamten Intensitätsspektrum befähigt sein. In der Krisennachsorge gilt es, zur Herstellung von staatlicher Sicherheit und Ordnung beizutragen und neuen Kampfhandlungen vorzubeugen. Außerdem sind in dieser Phase Schäden zu beseitigen und Wiederaufbauarbeit zu leisten. Ist das betroffene Land selbst nicht in der Lage, die öffentliche Sicherheit und Ordnung umfassend sicherzustellen, kann die Bundeswehr in einem ressortübergreifenden Ansatz vorübergehend auch Ordnungsaufgaben wahrnehmen, deren Äquivalent im Inland von zivilen Stellen geleistet wird, und den Aufbau von Behörden und Organisationen mit Sicherheitsaufgaben (BOS) unterstützen. Darüber hinaus trägt sie durch Beratung und militärische Ausbildungshilfe zur Wiederherstellung erforderlicher Strukturen im Land bei. Zusätzlich kann subsidiär beispielsweise bei der medizinischen Versorgung, der kurzfristigen Beseitigung von Schäden an lebenswichtiger Infrastruktur und übergangsweise bei deren Betrieb oder der Flugsicherung geholfen werden. 
+
+Demobilisierung und Entwaffnung von Konfliktparteien sowie konfliktbegleitende und -nachsorgende Rüstungskontrollmaßnahmen greifen ineinander und sind weitere Beiträge der Bundeswehr im Rahmen der Krisennachsorge. Zusätzlich ist sie in der Lage, logistische und andere fachliche Unterstützung bei diesen Aufgaben und bei dem Aufbau einer regionalen Rüstungskontrolle zu leisten. 
+
+ 
+25 Comprehensive Approach - ressortübergreifendes Zusammenwirken 26 z. B. in Form einer robusten Anfangsoperation 
+
+## Heimatschutz
+
+Heimatschutz ist eine gesamtstaatliche Aufgabe. Der Beitrag zum Heimatschutz umfasst alle Fähigkeiten der Bundeswehr zum Schutz des Landes und seiner Bürger und Bürgerinnen auf deutschem Hoheitsgebiet bis hin zur Landesverteidigung. Zur Abwehr von Bedrohungen Deutschlands von Land, aus der Luft und von See ist die Bundeswehr in nationale und multinationale Organisationen eingebunden. Dazu gehört die Integrierte NATOLuftverteidigung und Flugkörperabwehr einschließlich des nationalen Entscheidungsstrangs. 
+
+Maßnahmen zur Verteidigung gegen ballistische Flugkörper sind Teil des Heimatschutzes. 
+
+Für den Heimatschutz stehen grundsätzlich alle aktiven und nicht aktiven Kräfte der Bundeswehr zur Verfügung. Nur im Einzelfall begründet der Heimatschutz im Bereich der originären Aufgaben der Bundeswehr zusätzliche Strukturen, einschließlich einer grundsätzlichen Befähigung zum Aufwuchs. Strukturen der Reserve müssen so gestaltet sein, dass diese die aktiven Kräfte im Heimatschutz entlasten können. Die allgemeine Wehrpflicht bleibt im Grundgesetz verankert. Für die langfristige Sicherheitsvorsorge bleibt der Bundeswehr damit die grundsätzliche Befähigung zu einem Aufwuchs für derzeit nicht absehbar erforderliche Fähigkeiten erhalten. Originäre Aufgaben des Heimatschutzes sind Überwachung und Gewährleistung der Sicherheit des deutschen Luft- und Seeraumes und die Absicherung militärischer Anlagen der Basis Inland. Das umfasst im Rahmen gesetzlicher Regelungen im Frieden den Schutz militärischer Anlagen der Bundeswehr und der Stationierungsstreitkräfte Verbündeter im Inland, den Schutz kritischer Infrastruktur27 als Teil der Basis Inland und die Unterstützung bei luft- und seehoheitlichen Aufgaben. 
+
+Hinzu kommen Territoriale Aufgaben der Bundeswehr (TerrAufgBw). Sie setzen sich aus den nationalen territorialen Aufgaben (NatTerrAufg)28 und weiteren territorialen Aufgaben zur Unterstützung der Bundeswehr29 zusammen. Für NatTerrAufg können alle verfügbaren Kräfte, Einrichtungen, Mittel und Verfahren im Inland einschließlich der Reserve eingesetzt werden. 
+
+Hoheitliche Aufgaben der Bundeswehr sind als Dauereinsatzaufgaben30 zur Überwachung und Gewährleistung der Sicherheit des deutschen Luft- und Seeraumes und des Militärischen Such- und Rettungsdienstes in nationaler Verantwortung strukturbegründend. Sie sind grundsätzlich ressortübergreifend wahrzunehmen. 
+
+Als subsidiäre Aufgabe leistet die Bundeswehr im Inland auf Anforderung der Behörden von Bund, Ländern oder Kommunen und unter Beachtung der verfassungsmäßigen Zuständigkeiten Hilfeleistung bei Naturkatastrophen und besonders schweren Unglücksfällen sowie zum Schutz kritischer Infrastruktur und bei innerem Notstand. Diese Leistungen werden in enger Kooperation mit Behörden der Bundes-, Landes- und Kommunalverwaltung sowie zivilen Hilfsorganisationen erbracht. Die Bundeswehr ist dabei in einer unterstützenden Rolle, um zivile Kräfte zu ergänzen. Alle nicht gebundenen Kräfte der 
+
+ 
+27 Organisationen und Einrichtungen mit wichtiger Bedeutung für das staatliche Gemeinwesen, bei deren Ausfall oder Beeinträchtigung nachhaltig wirkende Versorgungsengpässe, erhebliche Störungen der öffentlichen Sicherheit oder andere dramatische Folgen eintreten würden (vgl. BMI Nationale Strategie zum Schutz kritischer Infrastruktur (KRITIS-Strategie) 28 z. B. Unterstützung von Kräften und Einrichtungen von Bündnispartnern, Beitrag zur Unterstützung der Nationalen Zivilen Verteidigung 29 z. B. regionale militärische Sicherheitslage, Vollzugsbehörde, Reservistenarbeit (außerhalb Beorderungen) und Kurierdienst 30 siehe Glossar 
+Bundeswehr können zu Hilfeleistungen herangezogen werden. Die Reserve unterstützt aktive Truppenteile und Dienststellen und erhöht deren Durchhaltefähigkeit. Die Steuerung von Hilfeleistungen der Bundeswehr im Inland erfolgt durch die Territoriale Organisation. 
+
+## Rettung Und Evakuierung, Geiselbefreiung Im Ausland
+
+Die Bundeswehr leistet einen wesentlichen Beitrag zur gesamtstaatlichen Aufgabe der Nationalen Krisen- und Risikovorsorge (NatKRV), um den Schutz und die Sicherheit deutscher Staatsangehöriger im Ausland zu gewährleisten. Die Aufgabe umfasst die Krisenvorsorgeberatung der deutschen Auslandsvertretungen, die Erhebung krisenrelevanter Daten und als Dauereinsatzaufgabe31 das Vorhalten einsatzbereiter Kräfte für die Bewältigung krisenhafter Lagen im Ausland. 
+
+Operationen zur Rettung, Evakuierung und Geiselbefreiung im Ausland werden grundsätzlich ressortgemeinsam vorbereitet, in nationaler Verantwortung durchgeführt und lageabhängig multinational koordiniert. Sie erfordern besondere Geheimhaltung und den Zugriff auf ausgewählte militärische Fähigkeiten. Die Beteiligung von Verbündeten und Partnern ist im Einzelfall möglich. 
+
+Der Einsatz unterliegt keinen geografischen Einschränkungen, kann ohne Vorwarnzeit in unmittelbarer Reaktion erfolgen und ist von kurzer Dauer. Die Bereitstellung der erforderlichen Fähigkeiten in höchster Verfügungsbereitschaft ist eine strukturbegründende Dauereinsatzaufgabe. Sie wird von Spezial- und spezialisierten Kräften unter Abstützung auf weitere Fähigkeiten im bundeswehrgemeinsamen Einsatzverbund wahrgenommen. 
+
+## Partnerschaft Und Kooperation
+
+Partnerschaft und Kooperation unterstützt die präventive Sicherheitspolitik. Sie ist ständige Aufgabe32 der Bundeswehr und dient dazu, Vertrauen zu bilden, Stabilität zu fördern und dadurch bewaffneten Konflikten vorzubeugen. Zu dieser Aufgabe gehören neben dem Aufbau und der kontinuierlichen Pflege der bilateralen Beziehungen unter anderem auch Rüstungskontrollmaßnahmen, Vertrauens- und Sicherheitsbildende Maßnahmen (VSBM), 
+Ausbildungsunterstützung und die Beteiligung an multinationalen Übungen oder Manövern. 
+
+Die deutsche Rüstungspolitik schafft die Grundlagen für die internationale Rüstungskooperation als Teil von Partnerschaft und Kooperation. 
+
+Durch Partnerschaft und Kooperation können die Kräfte von Staaten einer Region befähigt werden, die Verantwortung für die Sicherheit in einer Krisenregion zu übernehmen. Das trägt zur dauerhaften Konfliktvorbeugung bei und kann eigene Kräfte entlasten. 
+
+Beiträge im Rahmen der Partnerschaft und Kooperation werden aus den bestehenden Strukturen heraus erfüllt. Im Einzelfall können Strukturelemente für diese Aufgabe verstärkt werden. 
+
+ 
+31 siehe Glossar unter Aufgabentypen 32 siehe Glossar unter Aufgabentypen 
+
+## Hilfeleistungen Im Ausland
+
+Die Bundeswehr leistet subsidiär mit verfügbaren Kräften und Mitteln Hilfe im Ausland33 bei Naturkatastrophen und besonders schweren Unglücksfällen. Auch im Rahmen der Konfliktverhütung und Krisenbewältigung können sich Hilfeersuchen zeitweilig auf die dort eingesetzten Streitkräfte konzentrieren, solange die dafür spezialisierten und zuständigen zivilen Organisationen in einem Einsatzgebiet noch nicht in ausreichendem Umfang handlungsfähig sind.
+
+## Weitere Gesamtstaatliche Aufgaben
+
+Die Bundeswehr nimmt gesamtstaatliche Aufgaben wahr und unterstützt dadurch im grundgesetzlich möglichen Rahmen andere staatliche Institutionen. Den Kern bildet dabei ihr Beitrag zum Heimatschutz. Sie trägt zur Krisenvorsorge, zum Krisenmanagement, zum gesamtstaatlichen Lagebild und zur protokollarischen Repräsentanz bei und gewährleistet den politisch-parlamentarischen Flugbetrieb. 
+
+Wissenschaftliche Einrichtungen der Bundeswehr tauschen ihre Erkenntnisse mit zivilen Institutionen aus. Darüber hinaus bringt sich die Bundeswehr bei der Gestaltung ressortgemeinsamer Optimierungsprozesse ein34 und nimmt Impulse aus den Ländern auf. 
+
+Die Bundeswehr ist für den Schutz ihrer eigenen Informations- und Kommunikationsinfrastruktur und ihrer Daten verantwortlich. Sie trifft Vorkehrungen gegen Bedrohungen aus dem Cyberraum innerhalb ihres Verantwortungsbereichs35. 
+
+ 
+33 auch Beiträge zur humanitären Hilfe 34 z. B. bei der Einrichtung leistungsübergreifender Elemente in der Bundesverwaltung 35 Die Gewährleistung von Sicherheit im Cyberraum, die Durchsetzung von Recht und der Schutz der kritischen Informationsinfrastrukturen richten sich nach der Cyber-Sicherheitsstrategie für Deutschland vom 21. Februar 2012 unter Federführung des BMI. 
+
+## 4. Bundeswehrgemeinsame Prinzipien 4.1 Einsatzorientierung
+
+Die Bundeswehr hat die ihr gestellten Aufgaben permanent zu erfüllen. Dazu gehören neben den mandatierten Einsätzen36 der Konfliktverhütung und Krisenbewältigung die kontinuierlich zu leistenden Dauereinsatzaufgaben, einsatzgleichen Verpflichtungen, Daueraufgaben zur Unterstützung von Einsätzen, ständige Aufgaben, Maßnahmen des Heimatschutzes37 und die Vorbereitung und Unterstützung dieser Einsätze aus der Basis Inland38. Dieses Aufgabenspektrum beschreibt die Leistung, die die Bundeswehr mit ihrem breiten Potenzial an Fähigkeiten und einer Vielzahl an Instrumenten zur Wirkung bringt. Hinzu kommt der tägliche Dienst in der Basis Inland, der zur Aufrechterhaltung des Betriebs der Bundeswehr erforderlich ist. 
+
+Einsatzorientierung bedeutet, die Bundeswehr auf die Gesamtheit dieser Leistungen auszurichten. Sie verlangt das Selbstverständnis, dass nicht nur das Personal im Auslandseinsatz, sondern - unabhängig vom Dienstort - alle militärischen und zivilen Angehörigen der Bundeswehr einschließlich der Reservistendienst Leistenden zum Einsatz beitragen. 
+
+Viele Prozesse verbinden die Basis Inland unmittelbar mit den Kräften im Einsatz. Diese zunehmende Verflechtung und die Möglichkeit, Einsatzaufgaben direkt aus Deutschland heraus zu erfüllen, lassen keine Brüche zwischen dem Dienst im Heimatland und dem in einem Einsatzgebiet zu. Alle Prozesse sind deshalb an den Einsatzerfordernissen auszurichten. "Vom Einsatz her denken" ist dabei die Richtschnur. Einsatzorientierung fordert von den Angehörigen der Bundeswehr ein hohes Maß an physischer und psychischer Robustheit sowie persönlicher Flexibilität und Mobilität. Verlässlichkeit, Fürsorge und Planungssicherheit im Gegenzug ist Selbstverpflichtung der Bundeswehr gegenüber all ihren Angehörigen. Die besonderen Risiken in den Auslandseinsätzen werden durch versorgungsrechtliche Regelungen39 berücksichtigt. 
+
+Bundeswehrgemeinsames Denken und Handeln ist über die aktuellen Auslandseinsätze hinaus darauf ausgerichtet, die Befähigung der Bundeswehr zum Einsatz im Hinblick auf neue und zukünftige Entwicklungen im gesamten Aufgabenspektrum auszurichten. 
+
+## 4.2 Langfristige Sicherheitsvorsorge
+
+Die langfristige Sicherheitsvorsorge hat zum Ziel, die Bundeswehr auf die wahrscheinlichen und auf neue Herausforderungen vorzubereiten. Angesichts der begrenzten Vorhersehbarkeit künftiger Herausforderungen muss die Bundeswehr über ein breites Spektrum an Fähigkeiten verfügen, um bei Bedarf schnell Schwerpunkte bilden zu können. Dabei erfordern Anpassungen der Streitkräfte im Regelfall auch Angleichungen der Beiträge der zivilen Organisationsbereiche. 
+
+Zu den Aufgaben der Zukunftsentwicklung40 als wesentlichem Verfahren der langfristigen Sicherheitsvorsorge gehört es, diese Schwerpunkte rechtzeitig zu identifizieren. Die 
+ 
+36 siehe Glossar 37 z. B. Sicherheit im deutschen Luft- und Seeraum und Absicherung militärischer Liegenschaften, im Rahmen subsidiärer Hilfeleistung 38 vgl. 5.4 Basis Inland 39 u. a. Einsatzversorgungsgesetz, Einsatz-Weiterverwendungsgesetz, Einsatzversorgungs-Verbesserungsgesetz 40 siehe Glossar 
+Bundeswehr stützt sich unter anderem auf Erkenntnisse der Rüstungskontrolle und des militärischen Nachrichtenwesens und berücksichtigt Erkenntnisse aus der Auswertung der Einsatzerfahrungen, der technologischen Entwicklungen sowie der Analyse geopolitischer Veränderungsprozesse. Mit wissenschaftlichen Methoden41 trägt sie kontinuierlich zur Risikoabschätzung und Früherkennung bei, zeigt Trends auf und hilft, neue Bedrohungen zu erkennen. Die Erkenntnisse bilden den Ausgangspunkt für Planungen und die Weiterentwicklung aller Bereiche der Bundeswehr. Vorschläge zum Umgang mit sich abzeichnenden Risiken und Bedrohungen dienen der kontinuierlichen Anpassung des Leistungsprofils. Im Sinne einer lernenden Organisation entwickelt sich die Bundeswehr permanent weiter. 
+
+Um neue Herausforderungen zu bewältigen, muss sie schnell über den im eigenen Bereich vorhandenen zivilen und militärischen Sachverstand hinaus Kompetenzen aufbauen können. Ein wesentliches Element hierfür bildet die Beteiligung an Expertennetzwerken, in denen Trends und Analysen diskutiert und bewertet werden. Reservistendienst Leistende mit spezifischen Kenntnissen aus ihrer zivilen Tätigkeit können ihren Rat und Sachverstand beisteuern. 
+
+## 4.3 Multinationalität
+
+Die feste Integration in Bündnisse ist ein kennzeichnendes Merkmal der Bundeswehr von ihrer Gründung an. Sie resultiert aus der politischen Einbindung Deutschlands in NATO und EU und ist ein sichtbares Zeichen für Verbundenheit, Gestaltungswillen und das Eintreten für gemeinsame Wertvorstellungen und Interessen. Daher ist das nationale Fähigkeitsprofil strukturell und inhaltlich an NATO- und EU-Verteidigungsplanungszielen bzw. -
+Fähigkeitsforderungen orientiert. Einsätze der Bundeswehr finden gemeinsam mit Verbündeten und Partnern im Rahmen von NATO, EU, VN und OSZE statt. Eine Ausnahme können national geführte Einsätze zur Rettung, Evakuierung und Geiselbefreiung im Ausland sein. 
+
+Neben der politischen Bedeutung hat die multinationale Zusammenarbeit erhebliche militärische und praktische Auswirkungen. Sie kann Handlungsoptionen erweitern, die Durchhaltefähigkeit eigener Kräfte erhöhen und Kosten reduzieren; umgekehrt ergeben sich aus Bündnisverpflichtungen planerische Vorgaben an die eigenen Fähigkeiten. Deshalb bedarf die multinationale Zusammenarbeit grundsätzlich der kontinuierlichen politischen Abstimmung und kann das Zurückstellen nationaler Vorbehalte erfordern. Die Beiträge, die Deutschland dabei im multinationalen Rahmen zur Verfügung stellt, sind eine wesentliche Grundlage, um selbst Einfluss auf Planungen und Entscheidungen zur Lastenteilung in der NATO und im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik der EU nehmen zu können. Weil die Zusammensetzung der Kräfte in multinationalen Kontingenten vor allem bei neuen Einsätzen nur in begrenztem Maße planbar ist, bestehen besondere Anforderungen an die Interoperabilität der eingesetzten Kräfte und Mittel. Sie hängt neben einem gemeinsamen 
+
+ 
+41 siehe Glossar 
+operativen Verständnis von der Harmonisierung von Vorgaben, Verfahren42, Ausbildung und der Kompatibilität von Material und Ausrüstung in den Bündnissen ab. Modularität und Interoperabilität ermöglichen in diesem Zusammenhang die Integration militärischer Beiträge anderer Nationen in eigene Strukturen und das Einbringen eigener Kräfte in multinationale Strukturen. 
+
+## Rahmennation
+
+Das Leistungsprofil der Bundeswehr berücksichtigt Fähigkeiten und Kapazitäten zur Übernahme sicherheits-, verteidigungs- und rüstungspolitischer Verantwortung Deutschlands als Rahmennation. Das beinhaltet auch, in einem multinationalen Einsatz Anteile von Streitkräften der Verbündeten und Partner integrieren und führen zu können. 
+
+Die Bundeswehr muss in einer solchen Führungsrolle grundsätzlich über das gesamte Fähigkeitsspektrum im Verbund von Führung, Aufklärung, Wirkung und Unterstützung verfügen43. Von einer Rahmennation werden dabei vor allem Schlüsselfähigkeiten in der Führung, Aufklärung und Unterstützung erwartet, über die nicht alle Verbündete oder Partner in gleichem Maße verfügen. In dieser Rolle werden Kontingente der Bundeswehr deshalb aus einem funktionellen Verbund bestehen mit einem Kern im Bereich Wirkung und Grundmodulen der Führung, Aufklärung und Unterstützung44. Verbündete und Partner sind eingeladen, die im Kontingent bereitgestellten Fähigkeiten vor allem im Bereich Wirkung und mit weiteren funktionalen Elementen, die ihnen zur Verfügung stehen, zu ergänzen. Um die Kontinuität der Kräftegenerierung zu fördern, sind dazu vorzugsweise langfristig wirksame Konfigurationen anzustreben. Die Beiträge können in Abstimmung zwischen den Truppen stellenden Nationen abwechseln. 
+
+## Multinationale Fähigkeitsentwicklung
+
+Fähigkeiten der Bundeswehr orientieren sich grundsätzlich an den Fähigkeitsforderungen von NATO und EU. Nationale Fähigkeitsentwicklungen müssen so koordiniert werden, dass Lücken bei den Fähigkeiten einer Nation nicht zu einer Fähigkeitslücke in NATO und EU 
+führen. Bei der Bewertung von Fähigkeiten der Bundeswehr ist dazu regelmäßig deren Einordnung in das Fähigkeitsprofil und den künftigen Fähigkeitsbedarf von NATO und EU und ggf. das Fähigkeitsprofil einzelner Partner zu berücksichtigen. Auf nationale Fähigkeiten und Kapazitäten kann nur dann verzichtet werden, wenn die Verfügbarkeit durch multinationale Abstimmung gesichert ist oder in angemessener Zeit aus den vorhandenen Fähigkeiten bzw. Ressourcen aufgebaut werden kann. Zudem ist es möglich, Fähigkeiten quantitativ zu reduzieren, wenn die geforderte Durchhaltefähigkeit durch Abstimmung in den Bündnissen gesichert werden kann. 
+
+Dazu werden mit den etablierten Verteidigungsplanungsverfahren45 von NATO und EU die Fähigkeitsprofile zwischen den Partnern abgestimmt und Fähigkeitsdefizite ausgeglichen, um ein umfassendes und möglichst lückenloses Fähigkeitsspektrum mit hoher 
+
+ 
+42 z. B. Kenntnis und Umsetzung von multinationalen Verfahrensvorschriften wie bspw. COPD und Verfahrensregelungen wie bspw. SOP sowie Anwendung in Übung, Ausbildung und Einsatz 43 vgl. 5.3 Verbund FAWU unter Berücksichtigung 5.6 Gestaltungsparameter (Breite vor Tiefe) 44 so genannte "Enabler" 45 NATO Defence Planning Process (NDPP) bzw. Capability Development Mechanism (CDM) 
+Durchhaltefähigkeit zu gewährleisten. Diese multinationale Abstimmung ist integraler Bestandteil des nationalen Planungsprozesses mit direktem Einfluss auf die nationale Fähigkeitsentwicklung. Dadurch werden die etablierten Verteidigungsplanungsverfahren synchronisiert, gestärkt und ungewollte Redundanzen vermieden. Darüber hinaus ist eine enge Zusammenarbeit mit anderen Nationen anzustreben. 
+
+## Internationale Personelle Repräsentanz
+
+Angehörige der Bundeswehr werden in die Bündnisstrukturen, in weitere internationale Organisationen und in multinationale Stäbe entsandt. Hinzu kommen bilaterale Kontakte durch Militär- und wehrtechnische Attachés und Attachées, bundeswehrgemeinsame Verbindungselemente, Austauschpersonal und Personal zur Begleitung von Rüstungsprogrammen und die Teilnahme an Ausbildungsgängen im Ausland. 
+
+Internationale personelle Repräsentanz resultiert aus sicherheits-, verteidigungs- und rüstungspolitischen Interessen Deutschlands und dem Zusammenarbeitsbedarf mit der aufnehmenden Organisation. Durch dieses Engagement wird einerseits den Organisationen qualifiziertes Personal zur Verfügung gestellt, andererseits ermöglicht es, eigene Interessen aktiv und konstruktiv in die Organisationen einzubringen. In multinationalen Stäben und Organisationen eingesetzte Angehörige der Bundeswehr handeln im Rahmen ihrer Aufgabenstellung im Sinne dieser Interessen. Unabhängig von der jeweiligen Funktion repräsentieren alle in internationaler Funktion eingesetzten Angehörigen der Bundeswehr diese gegenüber anderen Nationen und internationalen Organisationen. Mit ihren Erfahrungen, Eindrücken und Erkenntnissen tragen sie dazu bei, dass die Bundeswehr ihrer multinationalen Ausrichtung in vollem Umfang gerecht wird. 
+
+## 4.4 Vernetztes Denken Und Handeln
+
+Die vielschichtigen Ursachen heutiger Konflikte und Krisen erfordern ein umfassendes Verständnis von Sicherheit, das die teilweise komplexen Zusammenhänge der Inneren und Äußeren Sicherheit Deutschlands beachtet. Die Gewährleistung von Sicherheit und Stabilität verlangen zunehmend einen im In- und Ausland abgestimmten Ansatz aller handelnden Akteure46; nicht zuletzt auch im Sinne der Effizienz. Die durch die Bundeswehr unterstützte Vernetzte Sicherheit ist ein national und international anwendbares Handlungsprinzip. Es dient dazu, alle für die erweiterte Sicherheit relevanten staatlichen und nicht staatlichen Akteure zu verknüpfen und langfristig in ein koordiniertes gemeinsames Krisenmanagement mit dem Ziel eines kohärenten Gesamtansatzes zu integrieren. Dies erfolgt in allen Krisenund Konfliktphasen47 und kann verschiedene Ausprägungen der Vernetzung48 umfassen, wobei deren Grad sich an Effizienz- und Effektivitätskriterien orientiert. Diesen Ansatz gilt es, national wie international - vornehmlich mit EU, NATO und VN - 
+fortzuentwickeln und zu intensivieren. 
+
+ 
+46 Comprehensive Approach - ressortübergreifendes Zusammenwirken 47 Prävention, Früherkennung, Bewältigung und Nachsorge 48 z. B. Ziele, Prozesse, Fähigkeiten, Aufgaben und Strukturen in den Bereichen Ausbildung, Planung, Einsatz, Auswertung, Weiterentwicklung sowie Entscheidungsfindung der Führung. 
+In Krisengebieten sind Sicherheit und Stabilität Voraussetzungen für einen dauerhaften Frieden. Sie erfordern ein System, das dem individuellen Sicherheitsbedürfnis der jeweiligen Bevölkerung Rechnung trägt, von der Bevölkerung akzeptiert wird und politisch legitimiert ist. 
+
+Dabei sind gesellschaftliche, ökonomische, ökologische, völkerrechtliche und kulturelle Bedingungen zu berücksichtigen. Die Bundeswehr kann deshalb im Sinne des vernetzten Ansatzes nur im Zusammenwirken mit vielen anderen Institutionen Beiträge leisten. Im Rahmen des Heimatschutzes leistet die Bundeswehr im Inland unter Abstützung auf ihre Fähigkeit zur Zivil-Militärischen Zusammenarbeit (ZMZ) einen Beitrag zur gesamtstaatlichen Sicherheitsvorsorge. Die territoriale Organisation bildet dazu ein flächendeckendes, an der föderalen Struktur ausgerichtetes und zum Teil durch Reservistendienst Leistende getragenes Netzwerk, um zivile Stellen auf Bundes-, Landes- und Kommunalebene zu beraten und zu unterstützen. Darüber hinaus bringt sich die Bundeswehr als Teil der Exekutive aktiv und gestaltend in die laufende Verwaltungsmodernisierung ein, um sicherzustellen, dass Belange der Bundeswehr bei der ressortübergreifenden Betrachtung Berücksichtigung finden. Insgesamt leitet sich daraus das zunehmende Erfordernis einer engen Zusammenarbeit der Bundeswehr mit staatlichen und nicht staatlichen Akteuren im In- und Ausland ab, um die Sicherheit Deutschlands zu gewährleisten. 
+
+## 4.5 Selbstverständnis
+
+Das Selbstverständnis und die Organisationskultur der Bundeswehr leiten sich aus dem Verfassungsauftrag ab. Sie sind geprägt durch die Grundsätze der Inneren Führung mit dem Staatsbürger in Uniform, durch die hergebrachten Grundsätze des Berufsbeamtentums und des öffentlichen Dienstes sowie durch das gewachsene Dienstleistungsverständnis der Bundeswehrverwaltung. Dieses Selbstverständnis verdichtet die Kernbotschaft 
+"Wir.Dienen.Deutschland.". Ein prägnant formuliertes bundeswehrgemeinsames Selbstverständnis wird dies reflektieren. 
+
+Innere Führung ist die Führungsphilosophie der Bundeswehr. Sie gewährleistet die Verwirklichung der Werte und Normen unseres Grundgesetzes in der Bundeswehr. Sie wirkt im Spannungsfeld zwischen den soldatischen Prinzipien von Befehl und Gehorsam und den persönlichen und demokratischen Freiheitsrechten, das auch dem Konzept "Staatsbürger in Uniform" zu Grunde liegt. Die gewachsene Herausforderung für die Bundeswehr besteht darin, diesen hohen Anspruch auch unter großen Belastungen durch die Einsätze und unter den Bedingungen der Freiwilligenarmee zu verwirklichen. Schon in der Ausbildung werden unsere Soldaten und Soldatinnen deshalb verstärkt auf jene Bewährungsproben für die Innere Führung vorbereitet, die sich ergeben, wenn Kampf, Multinationalität und der Kontakt mit fremden Kulturen die Einsatzwirklichkeit bestimmen. Die Prinzipien der Inneren Führung wirken dabei sinnstiftend und stärken die Moral unserer Soldaten und Soldatinnen. Damit die Bundeswehr ihre Aufgaben bewältigen kann, verstehen und identifizieren sich alle Angehörigen - militärische wie zivile - als Teil einer gemeinsamen Organisation mit einem gemeinsamen Auftrag. Alle Angehörigen der Bundeswehr sind sich ihrer Verantwortung und ihres Beitrages zur Einsatzfähigkeit der Bundeswehr bewusst. Den Führungskräften aller Ebenen kommt bei der Entwicklung und Kommunikation dieses gemeinsamen Selbstverständnisses und einer solchen gemeinsamen Organisationskultur eine besondere Rolle als Gestalter, Multiplikator und Vorbild zu. Hierzu gehört auch die Entwicklung und Pflege eines angemessenen Traditionsverständnisses im Rahmen der gültigen Richtlinien. 
+
+Das gegenseitige Vertrauen und Verständnis zwischen Soldaten und Soldatinnen und zivilen Mitarbeitern und Mitarbeiterinnen wird gefördert, indem die gemeinsame Auftragserfüllung in zivil-militärisch gemischt besetzten Dienststellen in der Bundeswehr in den Vordergrund tritt. Zudem werden in Einsätzen und Übungen gewonnene Erfahrungen ziviler Angehöriger der Bundeswehr in die gemeinsame Aufgabenerfüllung mitgenommen. In gleichem Maße gewinnen Soldaten und Soldatinnen, die in zivilen Organisationsbereichen eingesetzt werden, Kenntnisse von deren Leistungsprofil. Dieser Ansatz fördert das Denken in Richtung auf die gemeinsamen Ziele und das solidarische "Wir". Ausdruck besonderer staatsbürgerlicher Verantwortung ist der Freiwillige Wehrdienst, der zugleich einen wichtigen Beitrag für die Verankerung der Bundeswehr in die Gesellschaft leistet. Die Gleichstellung von Männern und Frauen ist eine allgemein anerkannte gesellschaftliche Verpflichtung. Die Bundeswehr fördert die Gleichstellung von Männern und Frauen bzw. Soldaten und Soldatinnen in allen Aufgabenbereichen und Dienststellen sowie in der Zusammenarbeit als durchgängiges Prinzip. 
+
+## Haltung Und Führungsprinzip
+
+Die militärische Auftragserfüllung ist Anspruch und Ziel soldatischen Handelns. Die Erfüllung militärischer Aufträge in ihrer ganzen Vielfalt und Besonderheit bedarf soldatischer Tugenden wie Tapferkeit, Kameradschaft und Fürsorge, Disziplin und moralische Urteilsfähigkeit. Sie stärken auch den besonderen Zusammenhalt in der Truppe. Erziehung und Bildung müssen deshalb die Förderung unserer soldatischen Tugenden angemessen berücksichtigen. Daher stützt sich die Bundeswehr auch in ihrer künftigen Struktur auf gewachsene organische Einheiten, die soldatische Tugenden im kameradschaftlichen Miteinander erfahrbar machen. 
+
+Führen mit Auftrag ist das herausragende und grundlegende Prinzip des Führungsverständnisses der Bundeswehr. Die Komplexität der Entscheidungsfindung, mit der ein militärischer Führer konfrontiert wird, erfordert Eigeninitiative, Handlungsspielräume, Mitwirkung und Mitverantwortung. Das Maß an Handlungsfreiheit richtet sich dabei oft nach der Art der zu erfüllenden Aufträge. Um dieses Prinzip auf allen Ebenen zu fördern und zu verwirklichen, bedarf es besonderen Vertrauens und einer durch Toleranz geprägten Fehlerkultur. Auch die Tätigkeiten auf zivilen Dienstposten in der Bundeswehr unterscheiden sich durch die Einsatzorientierung vielfach von denen in anderen Ressorts. Führen mit Auftrag ist deshalb nicht nur ein Grundsatz für den Einsatz von Streitkräften. Verständnis und Haltung müssen über alle Ebenen in allen Organisationsbereichen der Bundeswehr entwickelt werden, denn nur auf diese Weise wird die gemeinsame Verantwortung für die Auftragserfüllung gestärkt. 
+
+## Betreuung Und Fürsorge
+
+Die gesellschaftlichen Entwicklungen und die hohen Belastungen sowohl durch die Einsätze als auch durch den fortschreitenden Anpassungsprozess der Bundeswehr wirken auf alle Bundeswehrangehörigen und ihre Familien. Es ist Ausdruck der Fürsorge des Dienstherrn, die Rahmenbedingungen so zu gestalten, dass berechtigte persönliche Interessen angemessen berücksichtigt werden. Das trägt maßgeblich zur Sicherstellung der Einsatzfähigkeit und Einsatzbereitschaft der Bundeswehr bei. 
+
+Vor diesem Hintergrund haben Betreuung und Fürsorge einen hohen Stellenwert; sie sind eine Führungsaufgabe für die Vorgesetzten aller Ebenen. Fürsorge ist die Verpflichtung des Dienstherrn, für die Soldaten und Soldatinnen und zivilen Mitarbeiter und Mitarbeiterinnen der Bundeswehr sowie ihrer Angehörigen im Rahmen ihrer berechtigten Ansprüche zu sorgen. Betreuung umfasst alle Leistungen und Einrichtungen für Bundeswehrangehörige und ihre Familien, die ihre Grundlage in der Fürsorgepflicht des Dienstherrn haben. Mit ihr sollen die Besonderheiten des militärischen Dienstes erträglicher und der Dienst in der Bundeswehr attraktiver gemacht werden. Betreuung und Fürsorge umfasst allgemeine, sozialdienstliche, sanitätsdienstliche und psychologische Aspekte und gewährleistet den Bundeswehrangehörigen und ihren Familien umfassende Unterstützung in diesen Bereichen. Der eingeschlagene Weg, Familie und Dienst bzw. Beruf im Rahmen des Möglichen besser zu vereinbaren, ist fortzusetzen. Nicht nur die Personalgewinnung, sondern auch die Mitarbeiterbindung ist für die Zukunftsfähigkeit der Bundeswehr entscheidend. 
+
+## Attraktivität
+
+Personal, das den hohen Anforderungen des Dienstes bzw. der Arbeit in der Bundeswehr gerecht wird, ist nicht allein mit finanziellen Angeboten auf dem Arbeitsmarkt zu gewinnen. Deshalb muss die Bundeswehr Anreize bieten, die sie von anderen Arbeitgebern unterscheidet. Neben der Anerkennung und Würdigung erbrachter Leistungen und getragener Belastungen kommt einem adäquaten Aus-, Fort-, Weiterbildungs- und Qualifizierungsangebot eine herausragende Bedeutung zu. Dazu gehört die Berufsförderung der Soldaten und Soldatinnen auf Zeit als Basis für eine erfolgreiche zivile Karriere. Hinzu kommt die Möglichkeit zur kontinuierlichen beruflichen und persönlichen Weiterentwicklung mit wachsender Verantwortung im militärischen und zivilen Dienst im Rahmen attraktiver Laufbahnen sowie die gesetzlich verankerte, unentgeltliche truppenärztliche Versorgung. Außerdem sind eine moderne Infrastruktur mit angemessenen Unterkünften und ein modernes Wohnungsmanagement für Pendler und Pendlerinnen oder Umzugsbereite wichtige Faktoren, um die Bereitschaft zur Mobilität zu erhalten. 
+
+## Kommunikation
+
+Kommunikation leistet einen entscheidenden Beitrag zur Integration der Bundeswehr in die Gesellschaft, vor allem mit dem Ziel, die Wertschätzung der Bevölkerung zu gewinnen und die Personalbedarfsdeckung sicherzustellen. Kommunikation ist eine dauerhafte Querschnittsaufgabe aller Führungsebenen. Sie wirkt dabei in den öffentlichen Raum entlang der politischen, gesellschaftlichen und personalwerblichen Dimension. In der politischen Dimension fördert die Kommunikation eine breite sicherheitspolitische Debatte mit der Öffentlichkeit und unterstützt im Einsatz die politischen sowie militärischen Zielsetzungen. Die Imagewerbung gestaltet in der gesellschaftlichen Dimension die Schnittstelle zur personalwerblichen Dimension, deren Kommunikationsmaßnahmen die Grundlage für die nachhaltige Personalbedarfsdeckung der Bundeswehr bilden. 
+
+Die Kommunikation in der politischen sowie gesellschaftlichen Dimension sind Wirkungsfelder der Informationsarbeit. Diese trägt zur Erfüllung der gebotenen Informationspflicht bei. 
+
+## 4.6 Steuerung Nach Wirkung Und Wirtschaftlichkeit
+
+Steuerung bedeutet entscheidungsorientiertes und zukunftsbezogenes Handeln, das dem Erreichen von Zielen dient. Es ist ein Gestaltungsauftrag. Ein gemeinsames, an der Einsatzorientierung ausgerichtetes, die gesamte Bundeswehr durchdringendes Steuerungsverständnis schafft die Voraussetzung dafür, dass die erwünschte Wirkung erzielt, Verantwortung für die Zielerreichung ebenengerecht wahrgenommen und der Grundsatz der Wirtschaftlichkeit bei der Leistungserstellung berücksichtigt wird. Um eine nachhaltige Finanzierung der Bundeswehr auf Dauer sicherzustellen, ist es erforderlich, die Mittelverwendung künftig noch stärker an priorisierten strategischen Planungszielen auszurichten und auf eine effiziente Erbringung der Ergebnisse (Leistungen und Produkte) zu fokussieren. Eine zielorientierte Steuerung, unterstützt durch ein wirksames Controlling, auf der Grundlage einer integrierten Planung und einer verstärkten Prozessorientierung, schaffen hierfür die Voraussetzungen. Das Rechnungswesen und die Planung stellen die erforderlichen Daten bereit. 
+
+## Zielorientierte Steuerung Und Controlling
+
+Zielorientierte Steuerung im Geschäftsbereich des BMVg heißt, dass auf allen Ebenen über Ziele geführt wird. Ausgangspunkt ist das strategische Zielsystem der Leitung BMVg, aus dem strategische Ziele für die nachgeordneten Führungsebenen abgeleitet und operationalisiert werden. Jährliche Zielvereinbarungen ersetzen Weisungen, Erlasse oder Befehle, wenn sie das Zusammenführen von zu erbringenden Leistungen und Ressourcen transparenter machen und die Steuerung unterstützen. Eine ebenengerechte Zielnachhaltung, in der über den gemessenen Zielerreichungsgrad berichtet wird, stellt die erforderliche Transparenz her, um auf dieser Basis die Ursache und Wirkung von Abweichungen analysieren und geeignete Steuerungsmaßnahmen einleiten zu können. 
+
+Das Controlling stellt Informationen bereit, um diese Transparenz für Führungsentscheidungen zu schaffen. Es unterstützt durch die Prozesse Zielsetzung, Zielvereinbarung und Zielnachhaltung, um letztlich die beabsichtigte Wirkung mit den verfügbaren Ressourcen zu synchronisieren. Die zielorientierte Steuerung und das Controlling stehen in der Kontinuität mit den Führungsprinzipien Führen mit Auftrag und Delegation von Verantwortung, die integrale Bestandteile der Führungskultur in der Bundeswehr sind. Zielorientierte Steuerung ist Aufgabe jeder Führungskraft. Die Führungskraft ist für die Ergebnisse und damit für die Zieldurchsetzung verantwortlich. 
+
+## Integrierte Planung
+
+Die erfolgreiche, nachhaltige und zielorientierte Steuerung des Geschäftsbereichs BMVg durch die Leitung verlangt die konsequente Zusammenführung der Bundeswehrplanung, des Haushalts und des Controllings in einen integrierten Planungsprozess. Innerhalb dessen werden konkrete und verbindliche Grundlagen für die Haushaltsaufstellung erarbeitet und umgesetzt sowie deren Realisierung kontinuierlich nachgehalten. Im Zuge der zielorientierten Steuerung ist dabei im Blick zu halten, ob das, was mit dem Einsatz von Haushaltsmitteln bezweckt war, auch tatsächlich erreicht worden ist. Die im Rahmen des Controllings aus politischen Vorgaben abgeleiteten Ziele der Leitung bilden dabei einen wichtigen Ausgangspunkt für die strategische Top-Down-Steuerung im Geschäftsbereich BMVg. Die Mittelfristplanung gibt die Schwerpunktsetzungen und realistisch zu erreichende planerische Zwischenziele im mittelfristigen Planungshorizont vor, um die Entwicklung der Bundeswehr an den finanziellen und weiteren Rahmenbedingungen auszurichten. Diese werden über die Finanzbedarfsanalyse und den Ressourcenplan in einen Haushaltsvoranschlag überführt. Im Rahmen des Haushaltsvollzugs werden die geplanten Maßnahmen unter Verwendung der verfügbaren Haushaltsmittel realisiert. Die begleitende Zielnachhaltung im Rahmen des Controllings ermöglicht das rechtzeitige Erkennen von Nachsteuerungsbedarf. 
+
+## Prozessorientierung
+
+Aus der Einsatzorientierung leitet sich das Erfordernis ab, alle Aktivitäten in der Bundeswehr auf die erfolgreiche Durchführung der Einsätze auszurichten. Dazu gehört auch, einsatzbereite Kräfte im vorgegebenen Umfang bereitzustellen und die Belange der Bundeswehr erfolgreich in die ressortübergreifenden und multinationalen Entscheidungsprozesse einzubringen. Um dies zu ermöglichen, bedarf es zweckmäßiger Strukturen und Abläufe, innerhalb derer unnötige Arbeitsschritte oder zeitraubende Abstimmungen vermieden werden. Gegenstand der ablauforganisatorischen Betrachtungen ist die Optimierung der Prozesse im gesamten Geschäftsbereich. Damit leistet die Prozessorientierung einen wesentlichen Beitrag, um innerhalb einer zielorientierten strategischen Steuerung die bestmögliche Zielerreichung zu gewährleisten. Die Befassung mit Prozessen ist in weiten Teilen der Bundeswehr bereits gelebte Realität. Die Neuausrichtung der Bundeswehr zielt u. a. auf ein bundeswehrgemeinsames Führungsverständnis und die entsprechende Anpassung der Führungsstrukturen sowie auf eine Bündelung von Kompetenz und Verantwortung für eine Aufgabe ab. Dies führt zu einer klareren Trennung von Verantwortlichkeiten im BMVg und im nachgeordneten Bereich. In deren Ergebnis sind alle Organisationsbereiche in zunehmendem Maße für ihre erfolgreiche Aufgabenwahrnehmung von einer verlässlichen Ressourcenbereitstellung bzw. Leistungserbringung durch andere Organisationsbereiche abhängig. Im Lichte der Neuausrichtung bekommen damit Prozesse, deren Interaktion sowie zielorientierte Weiterentwicklung im Rahmen des Prozessmanagements eine noch größere Bedeutung. 
+
+Aus der gemeinsamen Sicherheitsvorsorge von NATO und EU und der dementsprechenden Fähigkeitsbereitstellung im Rahmen der etablierten Verteidigungsplanungsverfahren49 ergibt sich zugleich die Notwendigkeit, die nationalen Prozesse der Planung, Steuerung und Leistungserbringung mit den Prozessen in den Bündnissen zu harmonisieren und, wenn immer möglich, zu synchronisieren. 
+
+Im Rahmen der Prozessorientierung ist es erforderlich, die übergreifende Zusammenarbeit im Sinne des bundeswehrgemeinsamen Ansatzes zunächst transparent zu machen und sie nachvollziehbar und einem gemeinsamen Verständnis folgend auszugestalten. Dabei werden - im Sinne der Einsatzorientierung - die Trennlinien zwischen Einsatz und Betrieb, Inland und Ausland, militärisch und zivil, Bedarfsträgern und Bedarfsdeckern nach und nach an Bedeutung verlieren. 
+
+Wirtschaftliches Handeln erfordert die kontinuierliche Prüfung, wie die notwendigen Leistungen zur Auftragserfüllung mit einem adäquaten Ressourceneinsatz erbracht werden können. Neben einer ziel-, leistungs- und fähigkeitsorientierten Ausrichtung der Bundeswehr, leisten die Analyse der Prozesse und das Heben der dabei identifizierten Verbesserungspotenziale hierzu einen wichtigen Beitrag. 
+
+Insgesamt findet prozessorientiertes Denken und Handeln in stärkerem Maße Eingang in die Führung und eine zielorientierte Steuerung. Das Steuern der Prozesse bleibt Führungsaufgabe. Vor diesem Hintergrund bedarf es einer intensiveren Ausbildung, die auch die Führungskräfte auf den mittleren und oberen Führungsebenen einbindet. Darüber hinaus ist der Wandel hin zu einer prozessorientierten Organisation dauerhaft durch breit angelegte Maßnahmen des Veränderungsmanagements zu begleiten. Veränderungsmanagement - verstanden als die zielgerichtete und ebenengerechte Steuerung und Kommunikation von Veränderung - ist eine Führungsaufgabe. 
+
+## Zusammenarbeit Mit Wirtschaft Und Industrie
+
+Unter den gegebenen Rahmenbedingungen können und im Sinne der Einsatzorientierung müssen nicht mehr alle bisher wahrgenommenen Tätigkeiten durch militärisches oder ziviles Personal der Bundeswehr vorgenommen werden. Durch Rückgriff auf Leistungen der Industrie oder gewerblichen Wirtschaft - unmittelbar durch die Bundeswehrverwaltung oder unter Abstützung auf multinationale Beschaffungsagenturen - lassen sich Synergien erzielen und ggf. weitere Einsparungen erreichen. Kooperationen dieser Art sind in verschiedenen Formen und in allen Prozessen möglich. Unterstützende Leistungen können beispielsweise durch neue, eine Erweiterung bereits etablierter Zusammenarbeit oder in alleiniger Zuständigkeit eines privatwirtschaftlichen Anbieters wahrgenommen werden. Die Inanspruchnahme von Leistungen Dritter muss im Sinne der Auftragserfüllung vertretbar, bedarfsgerecht, wirtschaftlich und dauerhaft gewährleistet sein. 
+
+ 
+49 NATO Defence Planning Process (NDPP) bzw. Capability Development Process (CDP) 
+Die Entscheidung über die Vergabe von Leistungen hat sich an der Auftragserfüllung, der Einsatzfähigkeit im gesamten Aufgabenspektrum und der Sicherstellung der Einsatzbereitschaft der Bundeswehr auszurichten. Dabei ist der Erhalt von Eigenkompetenz und Fähigkeiten zu beachten; einseitige Abhängigkeiten sind möglichst zu vermeiden. Daher kann es erforderlich werden, im Rahmen vorhandener Ressourcen Rückfallpositionen auszuplanen und vorzuhalten, um die Leistungserbringung für einen Einsatz sicherzustellen. 
+
+## 5. Leistungs- Und Fähigkeitsprofil
+
+Die Bundeswehr hat den Auftrag, einsatzbereite Streitkräfte für alle Aufgaben in angemessenem Umfang in einem breiten Fähigkeitsspektrum zur Verfügung zu stellen, das den Interessen und Zielen Deutschlands in NATO und EU entspricht und den politisch in der Verantwortung Stehenden vielfältige Handlungsoptionen eröffnet. Die Verteidigungspolitischen Richtlinien (VPR 2011) geben dazu vor, ein priorisiertes Fähigkeitsprofil der Bundeswehr zu entwickeln, das die Einzelfähigkeiten nach ihrer Art, ihrer Qualität und ihrem Umfang beschreibt. Im Folgenden werden Vorgaben für das priorisierte Fähigkeitsprofil festgelegt. Gleichzeitig wird damit der Rahmen abgesteckt, innerhalb dessen diese Konzeption durch Teilkonzeptionen präzisiert wird. 
+
+Dazu werden die derzeit absehbaren Konfliktformen skizziert und die maßgeblichen Operationsräume, in denen die Bundeswehr ihre Aufgaben wahrnimmt, und deren Besonderheiten betrachtet. Die Erläuterungen zum Verbund Führung, Aufklärung, Wirkung, Unterstützung (Verbund FAWU), zur Basis Inland, zur Gesundheitsversorgung und den Gestaltungsparametern dienen der Festlegung des bundeswehrgemeinsamen, einheitlichen Verständnisses für die Weiterentwicklung. Anschließend werden Vorgaben für die Ausgestaltung des priorisierten Fähigkeitsprofils festgelegt. Im Zuge der Zukunftsentwicklung wird das priorisierte Fähigkeitsprofil kontinuierlich überprüft und an sich ändernde Rahmenbedingungen50 und neue Bedrohungen angeglichen. Umsetzung und Anpassung erfolgen in enger Zusammenarbeit mit der Mittelfristplanung51 und dem Fähigkeitsmanagement52. 
+
+## 5.1 Erwartete Konfliktformen
+
+Gegner wirken nach ihren Möglichkeiten gegen Politik, Wirtschaft, Gesellschaft und Militär. 
+
+Sie sind oftmals bestrebt militärische Stärken zu umgehen und gleichzeitig eine Vielfalt symmetrischen und asymmetrischen Vorgehens, letaler53 und nichtletaler Waffenwirkung, wirtschaftlicher, technischer und politischer Maßnahmen zu nutzen. 
+
+Symmetrische Konflikte werden heute oftmals von asymmetrischen Konflikten überlagert. Angesichts vorhandener Potenziale und laufender Rüstung bleiben konventionelle Gefechte hoher Intensität zwischen regulären Streitkräften weiterhin grundsätzlich möglich. Militärische Operationen konventionellen Charakters, z. B. von Staaten zur Durchsetzung ihrer nationalen Interessen, sind nicht auszuschließen. Zudem kann konventionelle Schwäche den falschen Anreiz geben, neue symmetrische Bedrohungspotenziale aufzubauen, um damit politische Ziele zu verfolgen. Asymmetrisch handelnde Akteure - staatliche wie nicht staatliche - versuchen, den konventionellen Kampf zu vermeiden. Sie nutzen Nischen und demokratisch-zivilisatorische Selbstbeschränkungen, um ihre konventionelle Unterlegenheit zu unterlaufen und sich 
+
+ 
+50 z. B. sicherheitpolitische, demografische, finanzplanerische oder haushalterische Veränderungen 51 siehe Glossar 52 siehe Glossar 53 neben konventionellen Waffen ist dabei auch der Einsatz von ABC-Kampfmittel und die gezielte Freisetzung von ABCGefahrstoffen möglich 
+Vorteile zu verschaffen. Sie setzen dabei auf psychologische Wirkung, die Einschüchterung der Bevölkerung und die Erschütterung von staatlichem Gemeinwesen durch Anschläge bzw. Angriffe gegen staatliche Sicherheitskräfte, unterstützende internationale Hilfskräfte, Ziele mit Symbolcharakter, politische Eliten und die gesellschaftliche und wirtschaftliche Infrastruktur. Dabei nutzen sie neue Technologien, moderne Kommunikationsmittel und Medien und nehmen unter Missachtung des humanitären Völkerrechts und der Menschenrechte eine hohe Zahl von Opfern in Kauf. Ihr Ziel ist es meist, zu demoralisieren und zu Gegenreaktionen zu verleiten, mit denen das Handeln und die Legitimität von Einsatzkräften in der Bevölkerung eines Einsatzgebietes und in der Heimat infrage gestellt werden können. Konflikte - insbesondere asymmetrisch geführte - sind mit militärischen Mitteln allein nicht zu lösen. Sie müssen ganzheitlich betrachtet werden und sind nur im abgestimmten, ressortübergreifenden Ansatz erfolgreich zu bewältigen. Allerdings können - insbesondere bei einem unvorhergesehenen Ausbruch eines gewaltsamen Konfliktes - militärische Mittel für eine schnelle Reaktion genutzt werden, um die Sicherheitslage soweit wie möglich zu stabilisieren und anderen Maßnahmen die erforderliche Zeit zu verschaffen, ihre Wirkung zu entfalten. Hiermit wird zugleich Bedrohungen, die von außen nach Deutschland bzw. die EU und das nordatlantische Bündnis wirken können, an ihrem Ursprungsort entgegengetreten. In künftigen Konflikten ist zu erwarten, dass die Bedrohung durch Handfeuerwaffen inkl. 
+
+Panzerabwehrhandwaffen und Sprengstofffallen54 hoch bleibt, die durch klassische Luftkriegsmittel wahrscheinlich stagnieren und die durch ballistische Flugkörper, Marschflugkörper, unbemannte (Kleinst-)Flugzeuge und durch Raketen, Artillerie und Mörser55 hingegen eher zunehmen wird. Auf See können potenzielle Akteure Mittel des seadenial56 einsetzen, um Handels- und Verbindungswege zu sperren und Operationen im Küstenvorfeld zu stören. 
+
+Die wachsende Verwundbarkeit der modernen Infrastruktur und die Ressourcenabhängigkeit moderner Gesellschaften bieten vielfältige Angriffspunkte. Die Verbreitung von Massenvernichtungswaffen und ihrer Trägersysteme57, Konfliktführung mit terroristischen Mitteln und Angriffe im Cyberraum58 können zu einer direkten Bedrohung Deutschlands und seiner Verbündeten werden. Die technische und operative Überlegenheit der euroatlantischen Streitkräfte besteht absehbar fort. Staatliche und nicht staatliche Gewaltakteure werden deshalb versuchen, sich der offenen Konfliktaustragung zu entziehen und ganz oder teilweise zu asymmetrischen Strategien überzugehen. Sie werden sich darum bemühen, dass ihr Vorgehen spät oder gar nicht völkerrechtlich als Bedrohung oder Bruch des Friedens, als Aggression oder als bewaffneter Angriff qualifiziert wird, um dadurch eine geschlossene Intervention der Staatengemeinschaft zu vermeiden. 
+
+Insgesamt ist zu erwarten, dass die Wechselwirkungen von Innerer und Äußerer Sicherheit weiter zunehmen. Mit direkten Angriffen und der Instrumentalisierung ethnischer und 
+
+ 
+54 sogenannte Improvised Explosive Device (IED) 55 abgekürzt RAM, Wirkmittel für indirektes Feuer 56 sea-denial: Die Nutzung der See verwehren, ohne sie selbst kontrollieren zu können; dazu können u. a. Seeminen, U-Boote, Speedboote und unbemannte fliegende und schwimmende Systeme eingesetzt werden. 
+
+57 Ballistische Flugkörper (engl. Ballistic Missiles (BM)) stellen in diesem Zusammenhang ein besonderes Risikopotenzial dar. 58 sogenannte Cyberangriffe 
+religiöser Minderheiten können Gegner versuchen, ihren bewaffneten Kampf in die euroatlantischen Staaten zu tragen. Operationen eigener Kräfte im Ausland können Gegner zu Angriffen im Inland bewegen, um damit den politischen Preis des Einsatzes zu erhöhen und den Rückhalt in der eigenen Bevölkerung zu untergraben. Zugleich sind terroristische Angriffe auf Kräfte und Einrichtungen im Einsatz möglich. 
+
+Als vorherrschende Konfliktformen werden deshalb sogenannte hybride Konflikte mit sowohl staatlichen als auch nichtstaatlichen Konfliktparteien und Gegnern erwartet, die symmetrische und asymmetrische Mittel einsetzen. Deshalb wird künftig der Schwerpunkt absehbar auf Operationen niedriger bis mittlerer Intensität außerhalb des Bündnisgebietes unter asymmetrischer Bedrohung liegen. Dabei sind zeitlich und örtlich begrenzte Gefechte hoher Intensität nicht auszuschließen. Aufgrund von Unvorhersehbarkeiten in Konflikten muss es besondere Stärke der Streitkräfte bleiben, auf unerwartete Herausforderungen schnell, zielgerichtet und wirkungsvoll reagieren zu können. Das erfordert Flexibilität und schnelles Anpassungsvermögen. 
+
+## 5.2 Dimensionen
+
+Mit der Betrachtung nach Dimensionen orientiert sich die Bundeswehr an einer in den etablierten Verteidigungsplanungsverfahren von NATO und EU bewährten Einteilung und richtet das Fähigkeitsspektrum ihrer Streitkräfte nach den maßgeblichen Räumen aus, in denen sie zur Wirkung kommt. Zu den klassischen Operationsräumen Land, See und Luft treten der Weltraum und der Informationsraum hinzu. Jeder dieser Räume ist durch spezifische Eigenschaften gekennzeichnet, die Einfluss auf den militärischen Einsatz haben. 
+
+## Land
+
+Die Bedeutung des Operationsraums Land ergibt sich aus seiner Funktion als Siedlungsraum der Bevölkerung, Quelle wichtiger Ressourcen, Wirtschaftsraum, Sitz von staatlichen, gesellschaftlichen, kulturellen Institutionen und Heimat der Menschen. Das gilt für das eigene Land wie für andere Regionen, in denen Streitkräfte eingesetzt werden. Um in diesem Raum zu wirken, müssen Landstreitkräfte sichtbar präsent sein. Die Kontrolle urbaner Zentren ist zum Aufbau und Erhalt von Sicherheit und Ordnung unabdingbar. Die Kräfte operieren deshalb regelmäßig in ausgedehnten urbanen Gebieten im unmittelbaren Kontakt zur Zivilbevölkerung. Aufgrund von Besiedelung und Bebauung ergeben sich in diesem Umfeld spezifische Herausforderungen bei Operationen. Unbeteiligte und Gegner sind in vielen Fällen kaum unterscheidbar. Neben lokaler Bevölkerung, Regierungs-/Nichtregierungsorganisationen (GO/NGO), Internationalen Organisationen (IO), Nachbarstaaten, globalen und regionalen Wirtschaftsunternehmen, Medienvertretern, Sicherheitskräften und regulären Streitkräften mit eigenem Lageverständnis, spezifischen Bedürfnissen und Zielen können eine Vielzahl von dezentral strukturierten, informell koordinierten gegnerischen Akteuren auftreten. Letztere werden in Landoperationen zumindest teilweise in der Lage sein, militärisch organisiert das Gefecht zu führen. Mit Operationen hoher Intensität ist deshalb zumindest zeitlich oder örtlich begrenzt jederzeit zu rechnen. Diese Bedingungen wirken sich in besonderer Weise bei Einsätzen zur Konfliktverhütung und Krisenbewältigung aus. Aus ihnen erwachsen Risiken für die eingesetzten Kräfte und Herausforderungen wie zum Beispiel die Vermeidung von unbeabsichtigten Begleitschäden59. 
+
+Die eingesetzten Kräfte müssen über lange Zeiträume in Regionen mit ausgedehnten Verantwortungsbereichen operieren. Häufig wechseln in den Einsatzräumen der Kräfte Intensitäten schlagartig; oft kommt es in einem Einsatzraum zu einem Nebeneinander von Gefechtshandlungen unterschiedlicher Intensitäten. Deshalb müssen sich die eingesetzten Kräfte schnell verändernden Lagen in allen Intensitäten anpassen können. Sie müssen gleichzeitig kooperationsbereit sein und über ein glaubhaftes Eskalationspotenzial verfügen, um ihren Beitrag zur Wiederherstellung von Sicherheit und staatlicher Ordnung in Krisengebieten zu leisten. Ziel ist es, einerseits gegenüber der Bevölkerung durch Präsenz Sicherheit zu vermitteln und dadurch Vertrauen zu schaffen, andererseits den Gegner abzuschrecken und ihm die Unterstützung zu entziehen. Zeitweilig, vor allem in einer Anfangsphase, müssen die eingesetzten Kräfte zum Kampf im hohen Intensitätsspektrum befähigt sein, um militärisch organisierte und asymmetrisch agierende Gegner am Boden bekämpfen und schlagen zu können. Zur Verstärkung und schnellen Wirkungsprojektion müssen durchsetzungsfähige Kräfte rasch im gesamten Einsatzraum verlegt werden und dort ggf. auch länger autark operieren können. Militärische Landoperationen im Rahmen der Bündnisverteidigung sind künftig vornehmlich noch an der Peripherie des Bündnisgebiets zu erwarten, wenn es darum geht, Verbündeten gegen Bedrohungen und Risiken von außen beizustehen und das Bündnisgebiet zu schützen. Die hierfür vorgesehenen Kräfte müssen innerhalb eines angemessenen Zeitraums verlegen können und zum Kampf im gesamten Intensitätsspektrum befähigt sein. Bei der Verlegung in ihre Einsatzgebiete sind Landstreitkräfte auf Unterstützung angewiesen. Landstreitkräfte tragen im Frieden zum Heimatschutz bei, indem sie u. a. bei der Lagefeststellung unterstützen, Sicherungsaufgaben übernehmen und sich an der Bewältigung von Schadensereignissen beteiligen. 
+
+## See
+
+Den größten Teil des Operationsraums See bilden die keiner Gebietshoheit eines Staates unterliegenden ausschließlichen Wirtschaftszonen und die Hohe See, an die sich die territorialen Gewässer der Staaten anschließen. 
+
+Die See ermöglicht die Freiheit des Welthandels. Sie ist als Transportweg, als Zugang zu Rohstoffen und Märkten und als Rohstoffquelle von weltwirtschaftlicher Bedeutung. Da weite Teile der See durch jedermann frei genutzt werden können, eröffnen sich auch unerwünschte Möglichkeiten des Missbrauchs zu Frieden störenden oder kriminellen Zwecken mit teilweise gravierenden wirtschaftlichen Folgen. Deutschland ist als außenhandels- und rohstoffabhängige Nation aus strategischer, wirtschaftlicher und ökologischer Sicht besonders auf die uneingeschränkte Nutzung der See angewiesen. Diese Nutzung ist bündnis- und bundeswehrgemeinsam sicherzustellen. 
+
+ 
+59 Das Humanitäre Völkerrecht untersagt die Hinnahme exzessiver Begleitschäden. Aus operativer Sicht sollten Begleitschäden soweit wie möglich vermieden werden, da sie oft schwerwiegende langfristige Auswirkungen auf die Lage in einem Einsatzgebiet haben können (z. B. Bevölkerung, Infrastruktur). 
+Aufgrund dieser maritimen Abhängigkeit Deutschlands kommt der Bundeswehr beim Schutz eigener Küstengewässer und internationaler Seeverbindungslinien eine besondere Verantwortung zu. Deutsche Seestreitkräfte leisten in multinationaler und zivil-militärischer Kooperation einen ständigen Beitrag zur maritimen Sicherheit60. 
+
+Seestreitkräfte können zügig und relativ unabhängig internationale Gewässer als Operationsund Bereitstellungsraum und als Zugang zu anderen Regionen nutzen. Sie können verdeckt oder offen eine dauerhafte Präsenz gewährleisten, ohne auf hoheitliche bzw. territoriale Beschränkungen Rücksicht nehmen zu müssen. In Einsätzen zur Konfliktverhütung und Krisenbewältigung können sie damit frühzeitig demonstrativ seeseitig in einer Krisenregion vorausstationiert werden. Sie können Seegebiete überwachen und Gegnern deren Nutzung durch Embargo- und Blockademaßnahmen verwehren. 
+
+Seestreitkräfte tragen zu militärischen Operationen durch den Schutz von Aufmarsch und Verlegung bei und ermöglichen bzw. sichern den Zugang zum Operationsgebiet. Sie unterstützen eigene an oder über Land operierende Kräfte von See aus durch Aufklärung, Führung, Waffenwirkung, Seetransport, Logistik und Sanitätsdienst und stellen die Nutzung der See als Basis für streitkräftegemeinsame Operationen sicher. Die Bekämpfung gegnerischer Seestreitkräfte, insbesondere solcher, die die Seewege und Verbindungslinien eigener Operationen bedrohen, bleibt sowohl in der Landesverteidigung als Bündnisverteidigung als auch in Einsätzen zur Konfliktverhütung und Krisenbewältigung maßgebliche Aufgabe der Seestreitkräfte. Dazu müssen sie auch Gefechte hoher Intensität führen können. Die Überwachung des deutschen Seeraums und die Wahrnehmung seehoheitlicher Aufgaben in ressortübergreifender Zusammenarbeit sind als Dauereinsatzaufgaben Beiträge zum Heimatschutz. 
+
+## Luft
+
+Die ungefährdete Nutzung des Luftraumes hat politische und wirtschaftliche Bedeutung. Die Sicherheit des Luftraumes, das Recht zu seiner Nutzung und die Gewährleistung gemeinsamer Verfahren der Luftraumnutzung liegen deshalb im nationalen und internationalen Interesse. Die Nutzung des Luftraums ist global reglementiert. Über dem Territorium Deutschlands und seiner territorialen Gewässer gehört der Luftraum zum staatlichen Hoheitsgebiet; der Übergang zwischen Luftraum und Weltraum ist fließend61. 
+
+Der Luftraum bietet militärischen Kräften im gesamten Aufgabenspektrum die Möglichkeit kurzfristiger und flexibler, weltweiter Reaktionen in Form von abgestuften militärischen Einsatzoptionen mit Luftkriegsmitteln. Diese reichen von der Gewinnung von Lageinformationen über humanitäre Hilfeleistungen, Rettungs- und Evakuierungseinsätze bis hin zur physischen Wirkung im Einsatzgebiet. Insbesondere zu Beginn von militärischen 
+
+ 
+60 u . a. durch Fähigkeiten zur Seeraumüberwachung, zur Gewinnung eines umfassenden maritimen Lagebildes im multinationalen Verbund, zur Seeminenabwehr, zur Abwehr terroristischer Bedrohungen und zur Bekämpfung von Piraterie 61 Die obere Grenze des Luftraums wird überwiegend in Anlehnung an den niedrigsten möglichen Orbit im Bereich zwischen 80 und 110 Kilometern über der Erdoberfläche gesehen. Der Weltraum darüber ist hoheitsfrei. 
+Operationen kann im und aus dem Luftraum schnell erste Wirkung erzielt werden. Im Lufttransport können eigene Kräfte in kurzer Zeit Präsenz in einer Krisenregion aufbauen. 
+
+Der Einsatz von Kräften in der Luft ist durch sehr hohe Geschwindigkeit, rasche Schwerpunktbildung und hohe Durchsetzungsfähigkeit verbunden mit präziser, skalierbarer Wirkung gekennzeichnet. Überlegenheit im Luftraum ist häufig Voraussetzung für militärische Land- und Seeoperationen. Sie herzustellen und zu erhalten ist eine wesentliche Aufgabe von Luftstreitkräften, insbesondere in Anfangsoperationen. Luftstreitkräfte tragen durch den Schutz von Aufmarsch und Verlegung zu militärischen Operationen bei und unterstützen eigene an Land und auf See operierende Kräfte durch Aufklärung, Wirkung und Transport. Im Rahmen der Konfliktverhütung und Krisenbewältigung sind sie zum Durchsetzen von Flugverbotszonen befähigt. Zur humanitären Hilfeleistung tragen Luftstreitkräfte vor allem mit ihren Transport- und Aufklärungsmitteln bei. Die Überwachung und der Schutz des deutschen Luftraums ist eine Dauereinsatzaufgabe. Luftstreitkräfte leisten dazu in nationaler zivil-militärischer Verantwortung und internationaler Kooperation einen ständigen Beitrag. Darüber hinaus trägt Deutschland zum Schutz des Luftraums verbündeter Staaten bei. 
+
+## Weltraum
+
+Die Nutzung des Weltraums ist für moderne Gesellschaften im Informationszeitalter unverzichtbar. Sie durchdringt alle Bereiche des privaten, kommerziellen und öffentlichen Handelns. Es ist für Deutschland von strategischer Bedeutung, freien Zugang zum Weltraum zu haben. Der Schutz und die freie Nutzung der dort eingesetzten Systeme sind Teil der gesamtstaatlichen Sicherheitsvorsorge. Der Weltraum unterliegt keiner staatlichen Gebietshoheit. Die Hoheitsgewalt der Staaten über ihnen zugeordnete Weltraumobjekte und sich im Weltraum aufhaltende Personen ihrer Nationalität bleibt hiervon unberührt. 
+
+Weltraumgestützte Systeme zeichnen sich durch ihre langfristige Präsenz und ihren weltumspannenden Einsatz aus. Die Abhängigkeit von ortsfesten, terrestrischen Netzen und Einrichtungen kann dadurch reduziert werden. Weltraumgestützte Systeme sind zusammen mit den zugehörigen Bodenelementen als Teil der Ausrüstung der Streitkräfte beziehungsweise als (zivile) kritische Infrastruktur zu schützen. Eigene weltraumgestützte Systeme leisten einen wesentlichen Beitrag zur Informations- und Wirkungsüberlegenheit62 im Sinne der Vernetzten Operationsführung insbesondere in der Aufklärung, der Kommunikation und der Navigation. Der gesicherte und unabhängige Zugriff auf nationale Systeme zur weltweiten Aufklärung und weiträumigen Kommunikation ist Voraussetzung für ein unabhängiges Lagebild und die souveräne Handlungsfähigkeit der Bundesregierung. Die Bundeswehr baut darüber hinaus in enger Kooperation mit Partnern Fähigkeiten zur Erfassung und Bewertung der Weltraumlage einschließlich Weltraumüberwachung und Weltraumaufklärung auf. 
+
+ 
+62 siehe Glossar 
+
+## Informationsraum
+
+Im Zentrum der Dimension Informationsraum steht die Information. Diese ist umgeben vom Informationsumfeld, in dem sie wahrgenommen, interpretiert und weiter verbreitet wird. Eine Besonderheit stellt der Cyberraum dar, der in das Informationsumfeld eingebettet ist. Der Cyberraum umfasst über territoriale und strukturelle Grenzen hinweg alle erreichbaren Informationsinfrastrukturen. 
+
+Moderne Gesellschaften nutzen die Chancen, die vernetzte Informations- und Kommunikationssysteme sowie globale Informationsnetze bieten und sind deshalb in besonderer Weise von ihnen abhängig. Diese Chancen, die der Cyberraum durch allgegenwärtige Verfügbarkeit von Informationen und neue Formen der Wissensaufbereitung und 
+-präsentation bietet, sind auch zur Verbesserung der Effektivität und Effizienz der Bundeswehr zu nutzen. Das Prinzip der Vernetzten Operationsführung ist in heutigen Streitkräften fest verankert. Vernetzte Einrichtungen, Plattformen und Waffensysteme sind auf die ungehinderte Nutzung von Information angewiesen. In der Operationsplanung und -führung der Streitkräfte ist die gesicherte und rechtzeitige Verfügbarkeit verlässlicher Informationen die Grundlage für den militärischen Entscheidungsprozess und die Befehlsgebung. Gleiches gilt für alle weiteren Führungs- und Geschäftsprozesse und für den inneren Dienst- und Geschäftsbetrieb. Gezielte Angriffe gegen diese Systeme müssen insbesondere in Konfliktsituationen erwartet werden. Deshalb sind diese Systeme zu schützen; den Wirkungen solcher Angriffe ist vorbeugend zu begegnen. Die Bundeswehr muss im Rahmen eines Einsatzes in der Lage sein, auch initiativ im Cyberraum zu wirken. Das umfasst den zielgerichteten und koordinierten Einsatz von Maßnahmen im Cyberraum zur Aufklärung, Veränderung und Beeinträchtigung gegnerischer Informations- und Kommunikationssysteme und der darin verarbeiteten Informationen. Streitkräfte wirken durch ihr Handeln immer auch im Informationsumfeld. Jede Operation, jede Entscheidung und jede Waffenwirkung hat somit Konsequenzen im Informationsumfeld - erwünschte oder unerwünschte. Wirkungen können dabei weit über den eigentlichen Verantwortungsbereich hinaus reichen, mit günstigen oder nachteiligen Folgen für die Gesamtsituation. Die im Informationsumfeld wahrgenommenen, weiter verbreiteten und interpretierten Informationen beeinflussen das Denken und Handeln der Akteure. Im Rahmen eines Einsatzes muss die Bundeswehr daher auch im Informationsumfeld in der Lage sein, initiativ zu wirken, um das Verhalten festgelegter Zielgruppen im Sinne der eigenen Operationsziele zu beeinflussen. Zudem muss die Bundeswehr mit Blick auf die deutsche und auch internationale Öffentlichkeit stets durch kommunikative Maßnahmen die sicherheits- und verteidigungspolitischen Ziele, Position und Interessen Deutschlands erläutern und das Verständnis und die Anerkennung für den soldatischen Dienst im Einsatz fördern. 
+
+## 5.3 Verbund Führung - Aufklärung - Wirkung - Unterstützung
+
+Einsätze der Bundeswehr erfolgen grundsätzlich in mehreren Dimensionen bundeswehrgemeinsam im Verbund Führung, Aufklärung, Wirkung, Unterstützung (Verbund FAWU). Für eine möglichst schnelle und effiziente Operationsführung ist dieser Verbund so weit wie möglich zu vernetzen (Vernetzte Operationsführung, NetOpFü). 
+
+Führung und Einsatz von Streitkräften unter den Bedingungen der Vernetzten Operationsführung erfordert einen bundeswehrgemeinsamen, alle Führungsebenen umfassenden, national und multinational interoperablen und sicheren Informations- und Kommunikationsverbund. Alle relevanten Personen, Stellen, Truppenteile und Einrichtungen sowie Sensoren und Effektoren werden auf Basis multinational interoperabler Mittel und Verfahren miteinander verbunden. Von Führern und Geführten erfordert es die Bereitschaft zu vernetztem Denken und Handeln sowie das Wissen um die Möglichkeiten und Grenzen der Vernetzung. Die Befähigung zur Vernetzten Operationsführung ist ein vorrangiges Ziel der Weiterentwicklung der Bundeswehr. Sie ist deshalb auch ein wichtiger Betrachtungsgegenstand in der Fähigkeitslage der Bundeswehr. Die Informations- und Kommunikationstechnik (IT) ist eine Voraussetzung für die Realisierung der Vernetzten Operationsführung und unterstützt entscheidend die nationale und multinationale Einsatzund Führungsfähigkeit von Streitkräften63. 
+
+Um die Befähigung als Rahmennation sicherzustellen, können im Zweifelsfall Interoperabilität und Kompatibilität in der NATO und der EU Vorrang vor nationaler Bundeswehrgemeinsamkeit haben. 
+
+Die Geoinfo-Unterstützung64 stellt für die Bundeswehr sicher, einsatzrelevante Umwelteinflüsse zu erkennen, für das eigene Handeln auszuwerten, sich exakt im dreidimensionalen Raum zu positionieren, zu navigieren und präzise auf Ziele zu wirken. Sie stellt die Geofaktoren der Dimensionen Land, Luft, See und Weltraum in einem Informationsraum auch für den Verbund FAWU zur Verfügung. 
+
+Mobilität ist Voraussetzung für die Durchführung von Operationen. Sie umfasst Fähigkeiten zur Verlegung und die Beweglichkeit der Kräfte. Lage- und auftragsgerechte Maßnahmen zum Schutz eigener Kräfte sind teilweise gesetzlich normierte Vorgabe und verpflichtender Bestandteil von verantwortungsbewusstem Führungsverhalten in der Bundeswehr auf allen Ebenen. Im Einsatz tragen aktive und passive Schutzmaßnahmen65 substanziell zum Verstärken von Fähigkeiten sowie zum Erhalt der eigenen Kampfkraft bzw. der erforderlichen Einsatzbereitschaft bei und ermöglichen so einen effektiven Verbund FAWU. 
+
+Der kombinierte Einsatz von bemannten und unbemannten Systemen erhöht den Schutz des eingesetzten Personals und verbessert und erweitert die Fähigkeiten im Verbund FAWU. Die Basis See bietet eine von fremden Hoheitsgebieten unabhängige, sich selbst schützende Abstützmöglichkeit, die sich zeitlich begrenzt besonders für die Unterstützung während der 
+
+ 
+63 Die Ausrichtung der IT wird durch die IT-Strategie des BMVg festgelegt. 64 Sicherstellung erfolgt durch Kräfte des Geoinformationsdienstes der Bundeswehr. 65 ineinander greifende präventive, aktive und reaktive Maßnahmen des Schutzes; z. B. ABC-Abwehr, Kampfmittelabwehr, Military Engineering, C-IED, Objektschutz u. a. 
+Anfangs- und Endphasen von Operationen eignet, um von See aus durch Führung, Aufklärung, Wirkung und Unterstützung in und über einem Einsatzgebiet beizutragen. 
+
+## Führung
+
+Führung zielt darauf ab, Kräfte, Mittel, Einrichtungen und Kommunikation der Bundeswehr auftragsbezogen und bedarfsgerecht so einzusetzen, dass die beabsichtigte Wirkung erzielt wird. Eine wesentliche Voraussetzung effektiver Führungsfähigkeit ist die verzugsarme, unterbrechungsfreie Informationsversorgung auf und zwischen allen Führungsebenen und allen Truppenteilen und Dienststellen. Dies bedingt eine straffe Führungsorganisation, klare und einheitliche Führungsverfahren sowie ein effektives Informationsmanagement, die zusammen auf einer leistungsfähigen Führungsunterstützung aufbauen. Hierzu legt der militärische Führer bzw. die militärische Führerin Art und Umfang einschließlich einer Kernführungsfähigkeit66 auftragsspezifisch fest. Führer bzw. Führerinnen müssen zudem über ihr Fachgebiet hinaus die Folgen ihres Handelns im Gesamtzusammenhang ganzheitlich reflektieren können. Ein einheitliches Verständnis der Grundsätze und die Kenntnis der Prozesse und Verfahren in der Einsatz- und Operationsführung67 bei allen an Einsätzen der Bundeswehr Beteiligten ist Voraussetzung für erfolgreiches militärisches Wirken. 
+
+Ausgerichtet an den bundeswehrgemeinsamen Prinzipien68 verfolgt die Bundeswehr die erforderliche Standardisierung der Einsatz- und Operationsführung im Schwerpunkt in der NATO; Entwicklungen in der EU sind zu berücksichtigen. Entsprechend ist es Ziel der Weiterentwicklung der Bundeswehr, als Rahmennation die Interoperabilität zu den Verbündeten im Verbund FAWU auszubauen. Im Bündnis vereinbarte Führungs- und Verfahrensvorschriften sind verbindlich für Einsatz, Übung und Ausbildung der Bundeswehr; sie können - wenn erforderlich - ebenengerecht durch nationale Dokumente ergänzt werden. Rein nationale Entwicklungen sind mit Blick auf die erforderliche Interoperabilität bei Einsätzen zu vermeiden69. 
+
+Führer bzw. Führerinnen und ihre Stäbe nutzen auf allen Ebenen das grundlegende Prinzip Führen mit Auftrag, um gerade in sich schnell verändernden Lagen angemessen und erfolgreich handeln zu können. Die Fähigkeit zum Handeln im Sinne der übergeordneten Führung bleibt unter den Bedingungen der Vernetzten Operationsführung Voraussetzung aller eingesetzten Kräfte. Führen mit Auftrag ist im zivilen Umfeld als Managementgrundsatz anerkannt und damit auch Richtschnur für das zivile Führungspersonal der Bundeswehr. Führung berücksichtigt das neue Steuerungsverständnis. Es wird auf allen Ebenen über Ziele geführt. Dabei sind Zielvereinbarungen zu nutzen, wenn diese ein wirkungsvolles Mittel zur Steuerung darstellen und Entscheidungs- und Verantwortungsfreiräume bestehen. Führungsunterstützung wird in Gesamtverantwortung der Streitkräfte für die Bundeswehr wahrgenommen. Wesentliche Leistung der Führungsunterstützung ist es, die Führungsfähigkeit der Bundeswehr mit dem Einsatz und Betrieb des IT-Systems der Bundeswehr (IT-
+
+ 
+66 siehe Glossar 67 siehe Glossar 68 vgl. insbesondere Abschnitte 4.1 Einsatzorientierung und 4.3 Bundeswehr im Bündnis 69 Die Umsetzung des nat. Verständnisses zur Einsatz- und Operationsführung erfolgt durch die Dokumentenlandschaft Einsatz. 
+SysBw) zu ermöglichen. Dazu stellt sie in der Basis Inland und für Einsätze zentrale ITServices bereit und gewährleistet die Verfügbarkeit weiterer militärischer und kommerzieller IT-Services national und multinational in unterschiedlichen Schutzbereichen. Zusätzlich unterstützt die Führungsunterstützung die Führungsverfahren, die Führungsorganisation sowie das Informationsmanagement. Sie setzt sich aus Fähigkeiten aller militärischen Organisationsbereiche zusammen und wird durch Fähigkeiten kommerzieller ITLeistungserbringer ergänzt. 
+
+## Aufklärung
+
+Aufklärung schafft eine maßgebliche Grundlage für die effektive Informationsbedarfsdeckung des BMVg und der Bundeswehr im Verbund FAWU durch das streitkräftegemeinsame System Militärisches Nachrichtenwesen (SysMilNW). Das SysMilNW ist ein durchgehendes, auf allen Führungsebenen agierendes System mit globaler Ausrichtung und zur unmittelbaren Unterstützung der Kräfte im Einsatz. Zusätzlich leistet das SysMilNW einen wesentlichen Beitrag zum gesamtstaatlichen Lagebild. 
+
+Als integraler Bestandteil des Militärischen Nachrichtenwesens tragen die Aufklärungstruppen aller militärischen Organisationsbereiche innerhalb des SysMilNW durch den komplementären Einsatz ihrer Fähigkeiten in allen Aufklärungskategorien (weltweit, weiträumig und im Einsatzgebiet) zu einer auftrags-, lage- und ebenengerechten Informationsgewinnung zur Feststellung der Militärischen Nachrichtenlage und zum Verbund FAWU bei. Neben der Informationsgewinnung besteht die Herausforderung in der Auswertung und dem zeit- und ebenengerechten Verfügbarmachen der daraus abgeleiteten Erkenntnisse. Das SysMilNW ist deshalb in die Informationsinfrastrukturen integriert. 
+
+## Wirkung
+
+Die Bundeswehr muss befähigt sein, gemeinsam mit Verbündeten in allen Dimensionen zu wirken. Wirkung dient der Durchsetzung des Auftrags. Sie ist die zentrale Aufgabe der Streitkräfte, die durch alle Fähigkeiten unterstützt wird. 
+
+Anspruch an das Fähigkeitsprofil der Bundeswehr ist es, über vielfältige, im Eskalationspotenzial differenzierte Fähigkeiten zur Wirkung im gesamten Aufgabenspektrum durch modular zusammenstellbare, flexible, integrierbare Kräfte zu verfügen, die Wirkungsüberlegenheit70 in der Operationsführung gewährleisten. 
+
+In der Operationsführung sind direkte und indirekte, letale und nicht letale, physische und psychologische Wirkungen ganzheitlich zu betrachten und mit Blick auf die übergeordnete Zielsetzung zu synchronisieren. In diese ganzheitliche Betrachtung sind mögliche unerwünschte Wirkungen, Wirkung durch Hilfeleistung und Maßnahmen ziviler Akteure71 einzubeziehen. 
+
+Wirkung richtet sich gegen Kräfte, Mittel und Einrichtungen eines Gegners in allen Dimensionen. Besondere Bedeutung kommt dabei den Fähigkeiten zur Wirkung im urbanen 
+
+ 
+70 siehe Glossar 71 Comprehensive Approach - ressortübergreifendes Zusammenwirken 
+Umfeld bei Anwesenheit der Bevölkerung und zur bedrohungsgerechten und präzisen Bekämpfung kleiner/kleinster Ziele zu. Diese Fähigkeiten sind deshalb in unterschiedlicher Ausprägung abzubilden. Sie können von der temporären Beeinträchtigung (z. B. Lähmung durch den Einsatz von nicht letalen Mitteln) bis zur dauerhaften, irreparablen Zerstörung des Zieles reichen und sind mit möglichst geringen eigenen Verlusten und unter bestmöglicher Vermeidung von unbeabsichtigten Begleitschäden72 zu erreichen. 
+
+Spezialkräfte können aufgrund ihrer besonderen Fähigkeiten Wirkung von strategischer Bedeutung erzielen. Sie sind im Fähigkeitsverbund ein herausgehobenes Element zur Leistungserbringung im Aufgabenspektrum der Bundeswehr. Spezialkräfte können reaktionsschnell, weltweit im gesamten Intensitätsspektrum eingesetzt werden. Darüber hinaus sind sie besonders befähigt zum Einsatz gegen asymmetrisch handelnde Gegner und zum Schutz und zur Sicherheit deutscher Staatsangehöriger in krisenhaften Lagen im Ausland. 
+
+Spezialkräfte können bei vergleichsweise geringem Mitteleinsatz sehr hohe Wirkung entfalten und die Wirkung anderer Fähigkeiten verstärken. Sie sind im besonderen Maße für kontrollierte, präzise und begrenzte Operationen unter Vermeidung von Eskalation und unbeabsichtigten Begleitschäden geeignet. Ihr Einsatz erfolgt im bundeswehrgemeinsamen Verbund mit einem Kern ausgewählter, zur Operationsführung zu Lande, im maritimen Umfeld und zur Unterstützung aus der Luft besonders befähigter Kräfte. Wirkung im Informationsumfeld wird insbesondere durch die Operative Kommunikation erbracht. Sie stellt Fähigkeiten, um die Lage im Informationsumfeld mit ihren Möglichkeiten und Risiken auf allen Führungsebenen im Führungsprozess zu analysieren, festzustellen, zu beurteilen, darzustellen und durch zielgerichtete Informationsaktivitäten geplante Wirkungen in diesem Umfeld zu erzielen und diese mit wissenschaftlichen Methoden zu messen. 
+
+## Unterstützung
+
+Die Bundeswehr muss zur Wahrnehmung aller Aufgaben über eine leistungsstarke Unterstützung aus den militärischen und den zivilen Organisationsbereichen verfügen. 
+
+Unterstützungsleistungen sind in stationären, verlegefähigen, teilbeweglichen und mobilen Einrichtungen und Elementen zu erbringen. Wesentliche Elemente der Unterstützung sind die Logistik und die sanitätsdienstliche Unterstützung73. Sie werden durch vielfältige weitere Unterstützungsleistungen ergänzt. 
+
+Leistungen zur Unterstützung werden durch die Streitkräfte und zivilen Anteile der Bundeswehr erbracht und durch Leistungen Dritter (gewerbliche Dienstleister, Host Nation Support und multinationale Partner) ergänzt. Durch Rückgriff auf Leistungen Dritter können eigene militärische und zivile Kräfte entlastet, ggf. Mittel eingespart und Synergien und Effizienzsteigerungen erzielt werden74. Voraussetzung ist eine gesicherte Leistungserbringung. Deshalb ist dabei immer ein mögliches Ausfallrisiko und die damit verbundenen Auswirkungen auf die Auftragserfüllung und militärische Sicherheit zu bewerten und 
+
+ 
+72 siehe Fußnote zu Begleitschäden in 5.2 Dimensionen, Abschnitt Land. 73 vgl. 5.5 Gesundheitsversorgung 74 vgl. 4.6 Abschnitt "Zusammenarbeit mit Wirtschaft und Industrie" 
+entsprechend zu berücksichtigen. Führungsaufgaben und Aufgaben der staatlichen Gewaltanwendung bleiben davon ausgeschlossen. 
+
+Das Logistische System der Bundeswehr stellt Fähigkeiten zur Unterstützung der Bundeswehr und ihrer Bündnispartner in der Basis Inland sowie für Einsätze und in Einsätzen zur Verfügung. Sie werden durch einen zielorientierten Wirkverbund von Basisund Einsatzlogistik der militärischen Kräfte, Leistungen der Bundeswehrverwaltung, der gewerblichen Wirtschaft, Verbündeter, der Host Nation und nationaler und multinationaler Agenturen75 gebildet. 
+
+Unterstützungskapazitäten sind maßgebend für das Leistungsvermögen der Bundeswehr. Insbesondere zu Beginn von Einsätzen ist die Unterstützung durch eigene Kräfte zu gewährleisten. 
+
+Meist können - bei entsprechenden operativen und wirtschaftlichen Voraussetzungen - in vielen Bereichen schon von Beginn an Unterstützungsleistungen in- und außerhalb eines Einsatzgebietes durch die Bundeswehrverwaltung oder Dritte erbracht werden. Damit und durch eine spätere sukzessive Übernahme können Kräfte und Mittel für andere Aufgaben frei gemacht werden. 
+
+Streitkräfte können sich auf Basen in einem Einsatzgebiet, auf Basen am Rande des Einsatzgebiets, z. B. als Host Nation Support im Bereich einer befreundeten oder verbündeten Nation, auf Basen auf See und auf die Basis Inland abstützen. 
+
+Kräfte im Einsatz sind für ihre Unterstützung auf eine Basis angewiesen, die sich im Einsatzgebiet oder an dessen Rand befindet. Basen im Einsatzgebiet unterliegen einer ähnlichen Gefährdung wie die von ihnen unterstützten Kräfte. Sie bedürfen des Schutzes. 
+
+In der Nähe des Einsatzgebiets können Basen eingerichtet werden, die einer geringeren Gefährdung unterliegen als Basen im Einsatzgebiet. Sie können sich in angrenzenden Staaten oder auf See befinden. Die Einrichtung von Basen in Drittstaaten hängt von deren politischer Bereitschaft zur Zusammenarbeit ab. In diesem Umfeld kann noch stärker als im Einsatzgebiet auf die Wehrverwaltung und die Leistungen Dritter zurückgegriffen werden. 
+
+Allerdings hat dies Auswirkungen auf Länge und erforderlichen Schutz für Versorgungswege. Alle Operationen werden durch die Basis Inland unterstützt. 
+
+## 5.4 Basis Inland
+
+Alle Kräfte der Bundeswehr sind für Einsätze vorgesehen oder unterstützen sie direkt oder indirekt76. Die Basis Inland77 fasst die Gesamtheit aller Fähigkeiten der Bundeswehr und Leistungen gewerblicher Anbieter zusammen, die Einsätze aus dem Inland unterstützen. 
+
+Aus der Basis Inland werden Leistungen über land- und seegestützte Basen in oder außerhalb eines Einsatzgebietes oder direkt in die Einsatzräume erbracht. Der Schutz der Basis Inland ist Teil der Aufgabe Heimatschutz. 
+
+Die Basis Inland unterstützt Kräfte in den Einsatzgebieten direkt durch Rat und Sachverstand, der von Fachdienststellen im Inland bereitgestellt wird78. Die zunehmende 
+
+ 
+75 Logistic Support of Operations/OLSP sowie Support Partnership Programmes 76 vgl. 4.1 Einsatzorientierung 77 Ständige Auslandsdienststellen außerhalb von Einsatzgebieten werden als Teil der Basis Inland verstanden. 
+Vernetzung und Verfügbarkeit von Bandbreite sowie leistungsfähigen Computersystemen bieten hierzu ein zwar bisher noch begrenztes aber wachsendes Potenzial. Weitreichende Aufklärungssysteme können vom Inland aus Einsatzkräfte unterstützen. All das trägt dazu bei, den Aufwand zu verringern, Gefährdung und Belastung der Truppe zu reduzieren und die Durchhaltefähigkeit zu steigern. Darüber hinaus gewährleistet die Basis Inland den Betrieb Inland79. Er ist Voraussetzung für die Aufgabenwahrnehmung und Fähigkeitsentwicklung der Bundeswehr. 
+
+## 5.5 Gesundheitsversorgung
+
+Die Gesundheitsversorgung der Bundeswehr wird im Zusammenwirken aller Organisationsbereiche und unter der Maßgabe der fachlichen Richtlinienkompetenz des Inspekteurs bzw. 
+
+der Inspekteurin des Sanitätsdienstes der Bundeswehr sichergestellt. Sie leitet sich in ihrem Leistungsspektrum aus dem Einsatz ab und ist das Produkt aller Fähigkeiten und Kapazitäten zum Schutz, Erhalt, zur Förderung und Wiederherstellung der körperlichen und geistig-psychischen Gesundheit, des sozialen Wohlempfindens und der Einsatzfähigkeit der Soldaten und Soldatinnen nach dem jeweils aktuellen Stand von Wissenschaft und Technik. Dabei werden Aufgaben des Gesundheitsschutzes, der Heilfürsorge, der Wehrmedizin, der Zahnmedizin, des Veterinärwesens, der Wehrpharmazie (einschließlich der Lebensmittelchemie) und des Medizinischen ABC-Schutzes wahrgenommen und öffentlich-rechtliche Aufgaben erfüllt. Aus diesem Spektrum werden spezifische Beiträge im Hinblick auf die medizinische Versorgung der Soldaten und Soldatinnen sowie im Rahmen der sanitätsdienstlichen Ausbildung und Unterstützung geleistet. Leitlinie für die Qualität der sanitätsdienstlichen Versorgung im Auslandseinsatz ist die Gewährleistung eines Behandlungsergebnisses, das qualitativ dem fachlichen Standard in Deutschland entspricht. Dazu nutzt der Sanitätsdienst gezielte Kooperationen mit internationalen sowie nationalen militärischen und zivilen Partnern auch im Sinne einer Lastenteilung. 
+
+Die Gesundheitsversorgung der Bundeswehr dient der Erhaltung der Beschäftigungs- und Dienstfähigkeit der Angehörigen der Bundeswehr. Für Soldaten und Soldatinnen ist der Anspruch der Gesundheitsversorgung besoldungsrechtlich verankert und wird im Rahmen der unentgeltlichen truppenärztlichen Versorgung (utV) gewährt. Diese ist Ausdruck der Fürsorgepflicht der Bundeswehr und trägt damit wesentlich zu ihrer Attraktivität als Arbeitgeber bei. Zugleich leistet sie einen wesentlichen Beitrag zur Einsatzfähigkeit und Einsatzbereitschaft und fördert die Motivation der Truppe. Der sanitätsdienstliche Einsatzbeitrag orientiert sich am jeweiligen Einsatzumfeld, den Einsatzbedingungen und den zu unterstützenden Truppenteilen. Dazu gehört neben den Leistungen in den Einsatzgebieten die Sanitätsbasis Inland. Sie ist integraler Bestandteil der Rettungskette und dient der unmittelbaren Unterstützung durch die Beiträge des Gesundheitsschutzes, der Therapie und Rehabilitation. Das funktionale sanitätsdienstliche Versorgungskontinuum wird dabei im Zusammenwirken mit dem zivilen Gesundheitswesen 78 sogenanntes Reach-Back-Verfahren z. B. in den Bereichen Geoinformationswesen, Militärisches Nachrichtenwesen, Operative Kommunikation, ABC-Abwehrberatung, Feldjägerwesen, Logistik, Führungsunterstützung, Ausbildung, baulicher Schutz, Telemedizin, munitionstechnische Sicherheit und Schießsicherheit 79 siehe Glossar sichergestellt und trägt den wehrmedizinischen Besonderheiten in den weltweiten Einsatzgebieten Rechnung. 
+
+Das militärische Gesundheitssystem der Bundeswehr leistet einen verbindlichen Beitrag in der Ressortforschung sowie bei der Erfüllung gesamtstaatlicher Aufgaben auch im Zusammenwirken mit anderen Ressorts und Organisationen. Darüber hinaus erfüllt es Aufgaben im Rahmen der Eigenvollzugskompetenz. 
+
+## 5.6 Vorgaben Für Das Priorisierte Fähigkeitsprofil Gestaltungsparameter
+
+Das Fähigkeitsprofil der Bundeswehr wird durch die Breite des Fähigkeitsspektrums in Verbindung mit Qualität und Quantität der Fähigkeiten bestimmt. Die Verteidigungspolitischen Richtlinien verlangen ein breites Fähigkeitsspektrum, das den politischen Entscheidungsträgern angesichts der Unvorhersehbarkeit von Bedrohungen vielfältige Handlungsoptionen eröffnet, die dem Stellenwert Deutschlands im Bündnis entsprechen. Daraus leitet sich die Vorgabe ab, dass die Breite des Fähigkeitsprofils gegenüber den anderen Faktoren einen höheren Stellenwert hat (Breite vor Tiefe). Gestaltungsmöglichkeiten des Fähigkeitsprofils ergeben sich somit durch die Variation und Priorisierung von Qualität und Quantität. Die Breite des Fähigkeitsspektrums ist durch die Aufgaben der Bundeswehr vorgegeben. Sie bestimmt die Vielfalt erforderlicher Fähigkeiten, mündet jedoch nicht zwangsläufig in eine hoch differenzierte Ausstattungsvielfalt. Die Qualität von Fähigkeiten äußert sich in ihrer Wirksamkeit, der Einbindung in vernetzte Strukturen, der Mobilität, dem Schutzniveau für Personal und Material und weiteren Aspekten. Sie ist unter Berücksichtigung bestehender Fähigkeiten, der Anforderungen an eine Rahmennation, der multinationalen Abstimmung und planerischer und operativer Aspekte zu gestalten. 
+
+Die Quantität vorhandener Fähigkeiten wirkt sich auf die Durchhaltefähigkeit und die Anzahl gleichzeitig durchführbarer Operationen aus. Dabei ist zu unterscheiden, ob eine Fähigkeit in einem oder mehreren Einsatzgebieten und dort jeweils einmalig für nur kurze Dauer, für längere Dauer eines festzulegenden Zeitraums ohne Ablösung oder dauerhaft zur Verfügung stehen muss. Die zeitliche Bindung wird deshalb differenziert nach - kontinuierlicher Bereitstellung, 
+- kontingentweiser Bereitstellung, - Bereitstellung im Bedarfsfall oder 
+- subsidiärer Bereitstellung im Rahmen vorhandener Kapazität. Fähigkeiten bedingen Mindestumfänge, deren Unterschreitung Unwirtschaftlichkeit und Unwirksamkeit zur Folge haben. Durchhaltefähigkeit beschreibt die Verfügbarkeit von einsatzbereiten Fähigkeiten über die Zeit. Die Anforderungen an die Durchhaltefähigkeit sind aufgabenabhängig und können variieren. Erfahrungen aus den Einsätzen zeigen, dass Umfang und Art eingesetzter Fähigkeiten kontinuierlich an veränderte Aufgaben angepasst werden müssen. Insofern ist die Durchhaltefähigkeit der Kräfte und Mittel für die verschiedenen Aufgaben differenziert zu betrachten. Sie hängt maßgeblich von der vorgegebenen Einsatzsystematik, d. h. dem Verhältnis von individueller Stehzeit im Einsatz und Zeit zwischen den Einsätzen als Grundlage für Rotation von Kontingenten ab. Darüber hinaus kann die Durchhaltefähigkeit durch Abstimmung im Bündnis gesichert und gesteigert werden. 
+
+Die Einsatzsystematik dient dazu, den Kräfte- und Fähigkeitsbedarf mit den Belastungsgrenzen des Personals in Einklang zu bringen. Um unterschiedlichen Anforderungen an Fähigkeiten in Einsätzen Rechnung zu tragen, sind Zeiten im Einsatz und Zeiträume zwischen den Einsätzen flexibel zu halten. Die Fürsorge für das eingesetzte Personal, Erhalt und Steigerung der physischen und psychischen Fitness sowie die Attraktivität des Dienstes sind hierbei zu berücksichtigen. Planerisch ist grundsätzlich eine Einsatzsystematik zur Gewährleistung von vier Monaten Einsatz und zwanzig Monaten Zeit zwischen den Einsätzen anzustreben. Eine einheitliche Einsatzsystematik ist allerdings aufgrund spezifischer Eigenheiten der militärischen Organisationsbereiche nicht möglich. 
+
+## Allgemeine Vorgaben
+
+Zur Sicherstellung der politischen Handlungsfähigkeit Deutschlands muss die Bundeswehr in der Lage sein, jederzeit Aufgaben in schneller Reaktion in unterschiedlichen Einsatzgebieten wahrnehmen zu können. Darüber hinaus sind gleichzeitig rund 10 000 Soldaten und Soldatinnen zur internationalen Konfliktverhütung und Krisenbewältigung durchhaltefähig vorzuhalten. Hinzu kommen ständig einsatzbereite Kräfte für Dauereinsatzaufgaben. Dazu gehören Kräfte, die für Operationen zur Rettung, Evakuierung und Geiselbefreiung im Ausland mit unmittelbarer Reaktionsfähigkeit in Deutschland bereitgehalten werden sowie Kräfte, die im Rahmen der Bündnisse entweder außerhalb Deutschlands eingesetzt80 oder für die Integrierte NATO-Luftverteidigung als Teil der Bündnisverteidigung bereits im Frieden der NATO unterstellt sind. 
+
+Gleiches gilt für Kräfte, die als Teil der Basis Inland unmittelbar einsatzunterstützende Aufgaben in Deutschland wie zum Beispiel Führungs-, logistische, sanitätsdienstliche und weitere fachliche Unterstützungs- und Dienstleistungen erfüllen. Hinzu kommt außerdem der Einsatz aus Basen im Inland wie etwa des SysMilNW einschließlich des Einsatzes weitreichender Aufklärungssysteme. 
+
+Weitere Kräfte, die andere Aufgaben in der Basis Inland erfüllen oder Teil der multinationalen Strukturen der Bündnisse sind, binden ebenfalls einen Anteil des einsatzbezogenen Personalumfangs der Bundeswehr. 
+
+Kräfte und Mittel der Bundeswehr bilden ein einheitliches Kräftedispositiv81. Sie können einander gegenseitig ergänzend im gesamten Aufgabenspektrum eingesetzt werden. Sie sind in der Lage, sich in internationale Strukturen zu integrieren und Beiträge anderer Nationen in die Strukturen aufzunehmen. 
+
+ 
+80 z. B. Beteiligung an der NATO-Kommandostruktur, kontinuierliche Bereitstellung von Kräften zu den NATO Committed Forces und der deutschen Anteile an multinationalen Kommandostrukturen 81 siehe Glossar 
+Die vielfältigen Aufgaben der Bundeswehr und die zur Verfügung stehenden Ressourcen machen eine Priorisierung erforderlich. Die Gewichtung der Aufgaben der Bundeswehr, die Wahrscheinlichkeit, welche Aufgaben einen militärischen Beitrag erfordern, die sich daraus ableitenden funktionalen Erfordernisse, die zeitliche Verfügbarkeit von Ressourcen in den jeweiligen Planungskategorien sowie ihre Finanzierbarkeit sind wesentliche Kriterien der Priorisierung. Ein wesentlicher Orientierungspunkt für die grundsätzliche Prioritätensetzung sind die in NATO und EU politisch vereinbarten Planungsparameter und Zielvorgaben. Die Priorisierungen in den Fähigkeitsprofilen von NATO und EU sind angemessen zu berücksichtigen, um die Wirksamkeit für diese Bündnisse zu gewährleisten. Damit wird der überwiegenden Nutzung des Fähigkeitsprofils der deutschen Streitkräfte im Rahmen von NATO- und EU-Operationen Rechnung getragen. Beim Erhalt und Aufbau des Fähigkeitsprofils stehen solche Fähigkeiten im Vordergrund, die für mehrere Aufgaben verwendbar sind und andere Fähigkeiten unterstützen. Das sind Fähigkeiten zur schnellen Reaktion und für Anfangsoperationen zur internationalen Konfliktverhütung und Krisenbewältigung sowie zur Landesverteidigung als Bündnisverteidigung und solche zur Rettung, Evakuierung und Geiselbefreiung im Ausland. Internationale Konfliktverhütung und Krisenbewältigung ist auf absehbare Zeit die wahrscheinlichere Aufgabe. Das dafür erforderliche breite Fähigkeitsspektrum ist deshalb strukturbestimmend82. Außerdem können Bedrohungen und Konflikte am Rande des Bündnisgebiets entstehen. Insofern bleibt Landesverteidigung als Bündnisverteidigung die anspruchvollste Aufgabe. Die dafür erforderlichen zusätzlichen Fähigkeiten sind deshalb strukturbegründend83. Für die Landesverteidigung werden alle verfügbaren Kräfte, Mittel und Reserven unter Rückgriff auf die in diesem Falle geltenden gesetzlichen Grundlagen mobilisiert. Dazu werden aufgrund der materiellen Ausstattung im Wesentlichen die bestehenden Strukturelemente verfügbar sein; Reserven verstärken mit verfügbarer Ausstattung. Zusätzlich benötigte Fähigkeiten zur Rettung und Evakuierung deutscher Staatsangehöriger aus krisenhaften Situationen und zur Geiselbefreiung im Ausland als Beitrag zur Nationalen Krisen- und Risikovorsorge (NatKRV) sind strukturbegründend. Darüber hinaus sind originäre Teilaufgaben des Heimatschutzes, Beiträge zu gesamtstaatlichen Aufgaben, der Betrieb und der Schutz der Basis Inland und die Unterstützung der Standorte der Bundeswehr im Ausland strukturbegründend, wenn sie nicht aus dem vorhandenen Kräftedispositiv erfüllt und auch nicht durch andere bereitgestellt werden können. Teilaufgaben im Rahmen Partnerschaft und Kooperation, der humanitären Hilfe und der Amtshilfe werden aus vorhandenen Fähigkeiten erfüllt. 
+
+## Internationale Konfliktverhütung Und Krisenbewältigung
+
+Für Beiträge zur internationalen Konfliktverhütung und Krisenbewältigung sind Fähigkeiten für lang andauernde Aufgaben in bis zu zwei Einsatzgebieten auszuplanen84. Es wird nur 
+
+ 
+82 siehe Glossar 83 siehe Glossar 84 orientiert am NATO Level of Ambition und European Headline Goal 
+eine Anfangsoperation gleichzeitig durchgeführt. Hinzu kommen Beiträge zu kleineren Operationen von Land-, Luft- und Seestreitkräften und Spezialkräften in weiteren Einsatzgebieten abhängig von der Verfügbarkeit von Kräften unter Einbindung von zusätzlicher organischer und kommerzieller Unterstützung, Host Nation Support (HNS) und Unterstützung durch Verbündete und Partner im Einsatzgebiet. 
+
+Die Unterstützung eigener landgestützter Kräfte ist für bis zu zwei Einsätze lageabhängig mit Hilfe eigener Kräfte, von Partnern, Host Nation Support und gewerblicher Unterstützung vorzusehen. Davon unabhängig ist organische und kommerzielle Unterstützung für Seestreitkräfte zu nutzen. Fähigkeiten zur Übernahme der Verantwortung als Rahmennation sind in bis zu zwei Einsatzgebieten (landgestützt), davon eines durchhaltefähig und eines zeitlich begrenzt85, und in einem maritimen Einsatz zu gewährleisten. Spezifische, nur für zeitlich begrenzte Anfangsoperationen benötigte Fähigkeiten sind nicht durchhaltefähig auszuplanen. Militärische Fähigkeiten, die beim Übergang in eine Folgeoder Stabilisierungsoperation weiterverwendet werden, haben grundsätzlich durchhaltefähig zur Verfügung zu stehen und sind bei Bedarf zu ergänzen. 
+
+Für Anfangsoperationen stellt die Bundeswehr unter Heranziehung deutscher Anteile NCF, 
+NRF und EU BG Kräfte bereit. Eine Anfangsoperation kann parallel zu lang andauernden Operationen erfolgen. 
+
+Es sind Fähigkeiten auszuplanen, die die Übernahme der Verantwortung als Rahmennation für eine auf ein Jahr begrenzte Operation, deren Anforderungsprofil ähnlich dem eines Einsatzes zur Bündnisverteidigung ist, ermöglichen mit den Schwerpunkten: - als Rahmennation den Kern eines multinationalen Führungselements für einen landgestützten Einsatz bis Divisionsebene zu stellen, 
+- Bereitstellung von Landstreitkräften in Brigadestärke mit flexiblem und eskalatorisch abstufbaren Fähigkeiten, 
+- Bereitstellung von Kräften zur Planung und Führung von Luftoperationen86, zur Aufklärung und Überwachung, zum Luftangriff, zur Luftverteidigung einschließlich Flugkörperabwehr, zum Lufttransport sowie zum Schutz und Betrieb eines streitkräftegemeinsamen Flugplatzes im Einsatzgebiet, 
+- Bereitstellung von Spezialkräften mit Fähigkeiten im gesamten Intensitätsspektrum sowie, - Bereitstellung von weltraumbasierten Diensten, Dienstleistungen und Produkten z. B. zur Aufklärung, Kommunikation, Navigation. 
+
+ 
+- Bereitstellung von Seestreitkräften mit Fähigkeiten zur operativen oder strategischen Verlegung, zum Schutz des Aufmarschs und eigener Kräfte während der Operation und zum Wirken und Führen von See, Es sind Fähigkeiten auszuplanen, die für Folge- und Stabilisierungsoperationen durchhaltefähig die Übernahme der Verantwortung als Rahmennation für eine lang andauernde Operation ermöglichen mit den Schwerpunkten: 
+
+85 im Rahmen von Aufgaben zur schnellen Reaktion 86 flexible Elemente von der Ebene Brigade (ASOC) bis hin zu einem JFAC HQ 
+
+## Durchhaltefähig:
+
+- als Rahmennation den Kern eines multinationalen Führungselements für einen landgestützten Einsatz auf Brigadeebene zu stellen, 
+- Führungselement für einen gemischten maritimen Verband, - Personal in multinationalen Stäben und Gefechtsständen, 
+- Landstreitkräfte im Umfang von zwei verstärkten Einsatzverbänden, Kräften zur Unterstützung fremder Streitkräfte, einem gemischten Hubschrauberverband (einschließlich FwdAirMedEvac87), lageabhängig ggf. zeitlich begrenzt Kräfte zur direkten taktischen Unterstützung von Spezialkräften und luftbewegliche QRF88, 
+- Aufbau und Betrieb eines streitkräftegemeinsamen Einsatzflugplatzes, - Luftstreitkräfte im Umfang von zwei gemischten fliegenden Einsatzverbänden, einem Einsatzverband bodengebundene Luftverteidigung, bis zu zwei Lufttransportverbänden 
+(einschließlich CSAR89, SOF Air Capability90 und StratAirMedEvac91) und bis zu zwei Elemente zur integrativen Planung des Einsatzes von Luftstreitkräften auf Ebene Division/Brigade92, 
+- ein gemischter maritimer Verband (Task Force/Task Group) mit Fähigkeiten zur Aufklärung, zum Schutz und zur Überwachung der Seewege und zur Durchsetzung von Embargomaßnahmen, 
+- Spezialkräfte für einen landgestützten Einsatz sowie ggf. zeitlich begrenzt für einen Einsatz im maritimen Umfeld, 
+- Fähigkeiten zur Unterstützung in zwei Einsatzgebieten, davon in einem Gebiet Vollunterstützung und im anderen Gebiet mit wesentlicher Unterstützung der zivilen Organisationsbereiche der Bundeswehr, ggf. unter Einbindung multinationaler, kommerzieller und Host Nation Support-Ergänzung und 
+- sanitätsdienstliche Unterstützung einschließlich Rettungskette. 
+
+Zeitlich begrenzt: 
+- Fähigkeiten zur multinationalen Operationsführung auf operativer Ebene, - Fähigkeiten zur multinationalen Operationsführung auf oberer taktischer Ebene mit einem Component Command93 für einen Einsatzzyklus und 
+- Fähigkeiten zur taktischen Führung von Luftstreitkräften mit einem verlegbaren CRC94. 
+
+ 
+87 Forward Aeromedical Evacuation ist der vorgeschobene Verwundetenlufttransport vom Ort der Verwundung zur ersten sanitätsdienstlichen Behandlungseinrichtung (Primärtransport mit Drehflüglern). 88 Quick Reaction Forces - einsatzbereite Kräfte, die schnell in ein Einsatzgebiet verlegt werden können. 89 Combat Search and Rescue (Bewaffnete Suche und Rettung): Umfasst Fähigkeiten zur luftgestützten Rettung und Rückholung abgeschossener oder notgelandeter Luftfahrzeugesatzungen und weiterer sich an Bord befindlicher Personen sowie von Spezialkräften auch unter Bedrohung. 
+
+90 direkte Unterstützung von Operationen der Spezialkräfte aus der Luft 91 Strategic Aeromedical Evacuation ist der strategische Verwundetenlufttransport von einem Einsatzgebiet in Einrichtungen im Inland oder in ein Transitland/Drittland. Dies erfolgt mit Luftfahrzeugen der Bundeswehr, Verbündeter, in Ausnahmefällen mit zivilen Leistungserbringern. 
+
+92 nicht parallel zur Gestellung eines Führungselementes auf oberster taktischer Ebene (JFAC HQ) 93 Component Command ist ein militärisches Führungskommando auf oberer taktischer Ebene zur Planung und Durchführung von Land-, See-, Luft-, Spezial- oder anderer Teiloperationen im Rahmen einer streitkräftegemeinsamen Operation. 94 Control and Reporting Center: Gefechtsstand zur Luftraumüberwachung und zur Führung von Luftoperationen 
+
+## Landesverteidigung Als Bündnisverteidigung
+
+Für Beiträge zur Landesverteidigung als Bündnisverteidigung sind Fähigkeiten für eine umfassende Operation (Major Joint Operation MJO+95) von bis zu einem Jahr Dauer in schneller Reaktion und nach Vorbereitung auszuplanen. Die Unterstützung96 der eigenen Anteile wird unter Ergänzung durch Partner, durch Host Nation Support (HNS) und durch kommerzielle Unterstützung gewährleistet. Bündnisverpflichtungen werden mit allen Kräften über das gesamte Fähigkeitsspektrum unter Berücksichtigung der in laufenden Operationen gebundenen Ressourcen geleistet. Das kann zum Abbruch parallel laufender Einsätze im Rahmen der Konfliktverhütung und Krisenbewältigung führen. 
+
+Deutsche Anteile der NRF und der EU BG bilden im Rahmen einsatzgleicher Verpflichtungen in hoher Verfügungsbereitschaft den Kern des deutschen Beitrags zur schnellen Reaktion im Nordatlantischen Bündnis und in der Europäischen Union. Die Kräfte zur schnellen Reaktion können zeitweise ergänzend in lang dauernden Operationen eingesetzt werden97. 
+
+Umgekehrt können bei Bedarf zusätzliche Kräfte für Aufgaben in schneller Reaktion frei gemacht werden durch Eingriff in die Einsatzsystematik (Rotation und Einsatzdauer), das Beenden laufender Einsätze im Zuge des nächsten Kontingentwechsels (die Einsätze laufen mit dem nächsten oder übernächsten Kontingentwechsel aus), den sofortigen Abbruch laufender Einsätze (alle Kräfte werden umgehend in den neuen Einsatz überführt) oder die Substitution militärischer Unterstützungsaufgaben durch die Wehrverwaltung und sonstige zivile Unterstützungsleistungen im Rahmen des sachlich und rechtlich Möglichen. Für die Bündnisverteidigung sind Fähigkeiten auszuplanen, die die Unterstützung einer umfassenden Verteidigungsoperation (MJO+) von bis zu einem Jahr Dauer ermöglichen. 
+
+Sie umfassen: - Fähigkeiten zur Teilhabe an streitkräftegemeinsamer und multinationaler Operationsführung auf allen Ebenen, 
+- Landstreitkräfte auf Divisionsebene mit Divisionstruppen, zwei verstärkten Brigaden und einem gemischten verstärkten Hubschrauberverband, 
+- Luftstreitkräfte im Umfang von mindestens zwei gemischten fliegenden Einsatzverbänden, einem Flugabwehrraketen-Einsatzverband, zwei gemischten Lufttransportverbänden einschl. CSAR, taktischen Führungselementen98, Betrieb eines streitkräftegemeinsamen Einsatzflugplatzes99 und zum strategischen Lufttransport, Luftbetankung und AirMedEvac100 sowie des Beitrags zur nuklearen Teilhabe im Bündnis, 
+- Seestreitkräfte mit einem gemischten Einsatzverband mit Führung für Schwerpunkt Schutz Seewege, Wirken von See und Unterstützen von See (sanitätsdienstliche Unterstützung, Seetransport), 
+- Spezialkräfte mit Fähigkeiten im gesamten Intensitätsspektrum, 
+
+ 
+95 "…a joint operation larger than a MJO (up to the equivalent of three MJOs)", NATO Political Guidance. 96 Von wesentlicher Bedeutung sind Qualität und Quantität der Unterstützungsleistungen Logistik, Führungsunterstützung und sanitätsdienstliche Versorgung einschließlich Rettungskette. 97 z. B. in Rotation mit Beiträgen anderer Nationen 98 nicht parallel zur Gestellung eines Führungselementes auf oberster taktischer Ebene (JFAC HQ) 99 im Verbund mit Kräften der anderen OrgBer 100 Aeromedical Evacuation ist der Verwundetenlufttransport zu und zwischen sanitätsdienstlichen Behandlungseinrichtungen im Verbund mit Kräften des Sanitätsdienstes der Bundeswehr. 
+- Unterstützungskräfte einschließlich der Abstützung auf Leistungen Dritter (Host Nation Support, multinational und gewerblich), 
+- einen dem Gewicht Deutschlands angemessenen Beitrag zu Kräften, Struktur und Führung der NATO sowie relevante Beiträge zu NATINAMDS, NAEW, AGS101und 
+- Bereitstellung von Seestreitkräften als Dauereinsatzaufgabe zu den ständigen maritimen Einsatzverbänden der NATO und zur EU BG einschließlich des Beitrags zum Führen eines maritimen Verbands. 
+
+## Rettung Und Evakuierung, Geiselbefreiung Im Ausland
+
+Als Beitrag zur Nationalen Krisen- und Risikovorsorge (NatKRV) sind dauerhaft Fähigkeiten für Operationen zur Rettung, Evakuierung und Geiselbefreiung deutscher Staatsangehöriger aus krisenhaften Situationen im Ausland vorzusehen. Sie müssen jederzeit in unmittelbarer Reaktion, parallel zu anderen Operationen und weltweit zur Wirkung gebracht werden können. Kräfte mit den dazu erforderlichen Fähigkeiten im gesamten Intensitätsspektrum sind einschließlich der Kräfte und Mittel zur Unterstützung, insbesondere zur Gewährleistung von Fähigkeiten zur strategischen Luftverlegung und taktischen Luftbeweglichkeit, ständig einsatzbereit vorzuhalten (Dauereinsatzaufgabe). 
+
+Die Besonderheiten dieser Aufgabe erfordern grundsätzliche Fähigkeiten zur Wahrnehmung nationaler Planungs- und Durchführungsverantwortung auf der Grundlage der in einer ressortgemeinsamen Datenbank aktualisiert verfügbaren Planungsdaten. 
+
+## Gesamtstaatliche Aufgaben
+
+Neben den Aufgaben des Heimatschutzes trägt die Bundeswehr zu den Aufgaben der gesamtstaatlichen Sicherheitsvorsorge und zu den allgemeinen Staatsaufgaben bei durch: 
+- einen Beitrag zum gesamtstaatlichen Lagebild unter Nutzung und Weitergabe der Erkenntnisse aus dem System Militärisches Nachrichtenwesen, der militärischen Abschirmung, der Weltraumüberwachung, der Cybersicherheit und der Rüstungskontrolle, 
+- Umsetzung der Pflichten aus Rüstungskontrollverträgen und -abkommen in Deutschland und Wahrnehmung der Rechte der Bundesrepublik Deutschland im Ausland, die aus diesen Verträgen und Abkommen resultieren, 
+- die Bereitstellung von Geoinformationen ausländischer Krisenregionen und Einsatzgebiete, 
+- einen Beitrag zum IT-Krisenmanagement des Bundes, 
+- Mittel zur Rettung im Rahmen innerstaatlicher und internationaler Verträge zum Suchund Rettungsdienst über See und über Land, 
+- die Beteiligung an der zivilen Gesundheitsversorgung, u. a. durch den Betrieb von in das zivile Gesundheitssystem integrierten Bundeswehrkrankenhäusern und die Teilnahme am Rettungsdienst, 
+- den parlamentarischen und politischen Flugbetrieb, 
+
+ 
+101 NATO Integrated Air and Missile Defence System (NATINAMDS), NATO Airborne Early Warning (NAEW), Alliance Ground Surveillance (AGS). 
+- das militärische Zeremoniell zur Wahrung des politischen Protokolls, 
+- das Betreiben von Flugzeugen und Schiffen für das BMVBS102 zum Erkennen und Bekämpfen von Meeresverschmutzungen, 
+- die Seeraumüberwachung und Gewinnung eines weltweiten maritimen Lagebildes im multinationalen Verbund und in Zusammenarbeit mit Bundesressorts und Küstenländern im Maritimen Sicherheitszentrum (MSZ) und 
+- die Spitzensportförderung. 
+
+## 5.7 Einsatzbereitschaftslage
+
+Um jederzeit Aussagen zur aktuellen und perspektivischen Einsatzbereitschaft der Bundeswehr treffen zu können, wird eine Einsatzbereitschaftslage geführt. Der Systematik des priorisierten Fähigkeitsprofils folgend, werden in ihr Kräfte hinsichtlich ihrer personellen und materiellen Verfügbarkeit in Bezug auf die Erfüllung der Nationalen Zielvorgabe bewertet. Sie ermöglicht damit unter Berücksichtigung laufender Einsätze und einsatzgleicher Verpflichtungen103 Aussagen für einen einsatzbezogenen Aufwuchs von Kräften auf der Zeitachse. 
+
+Auf Grundlage der Einsatzbereitschaftslage können auch Möglichkeiten für einen Beitrag der Bundeswehr zu Hilfeleistungen in Fällen von Naturkatastrophen und besonders schweren Unglücksfällen, der dringenden Hilfe sowie in anderen Fällen der Amtshilfe bewertet werden. 
+
+Gehen die Anforderungen aus lang andauernden Aufgaben und Aufgaben in schneller Reaktion aufgrund ihrer zeitlichen Parallelität über das Maß der Nationalen Zielvorgabe hinaus, führt dies zu einer Überdehnung der Kräfte. In diesem Fall erfolgt eine politische Entscheidung über die Einsatzprioritäten. 
+
+ 
+102 Bundesministerium für Verkehr, Bau und Stadtentwicklung 103 im Sinne von NRF und EU BG 
+
+## 6. Vorgaben Zu Gestaltungsbereichen 6.1 Organisation
+
+Die Organisation der Bundeswehr muss eine effektive und effiziente Auftragserfüllung ermöglichen. Dazu folgen Strukturen und Prozesse dem Auftrag der Bundeswehr. Mit der Neuausrichtung der Bundeswehr erfolgt neben der Umgestaltung der Organisation und der bisherigen zivilen und militärischen Führungsstrukturen auch eine Anpassung des Führungsund Steuerungsverständnisses der Gesamtorganisation, ausgehend von der ministeriellen Spitze durchgehend in die gesamte Bundeswehr. Davon unbenommen bleiben die Innere Führung und das Prinzip Führen mit Auftrag. Die Bundeswehr wird nach dem Grundsatz der Einheit fachlicher Kompetenz und organisatorischer Zuständigkeit gestaltet. Im Ergebnis entstehen klare, an Prozessen orientierte Strukturen mit wo immer möglich gemischter Besetzung aus militärischem und zivilem Personal in Stäben, Ämtern und Behörden. Das gemeinsame Denken und Handeln ist dabei der Maßstab. Die Organisation der unmittelbar dem BMVg nachgeordneten Führungsebene ist an der Organisation des Ministeriums auszurichten. Stäbe werden gestrafft, Truppe wird gestärkt. Im Rahmen der ministeriellen Zuständigkeit für die Gesamtorganisation legt das Ministerium entsprechend die wesentlichen organisationsübergreifenden und bundeswehrgemeinsamen Grundsätze und Organisationsprinzipien fest. 
+
+Das Ministerium ist auf die ministeriellen Kernaufgaben konzentriert104 und nimmt gegenüber dem nachgeordneten Bereich die Rechts- und Fachaufsicht im Rahmen seiner strategischen Verantwortung wahr. Darüber hinausgehende Aufgaben und die entsprechende operative Verantwortung sind dem nachgeordneten Bereich zugeordnet; das Bundesministerium der Verteidigung steuert diesen ungeachtet organisatorischer Zuordnungen und militärischer Unterstellungsverhältnisse durch die fachlich zuständigen ministeriellen Stellen. 
+
+Dem Generalinspekteur bzw. der Generalinspekteurin der Bundeswehr als ministerielle Institution sind die Streitkräfte unterstellt. Die Inspekteure und Inspekteurinnen führen die militärischen Organisationsbereiche mittels eigener Kommandos außerhalb des Ministeriums. 
+
+Dem Ministerium nachgeordnet sind die militärischen Organisationsbereiche Heer, Luftwaffe, Marine, Streitkräftebasis (SKB) und Zentraler Sanitätsdienst der Bundeswehr (ZSanDstBw), 
+die zivilen Organisationsbereiche der Militärseelsorge, der Rechtspflege und der Bundeswehrverwaltung mit den Ressourcenbereichen Personal (P), Ausrüstung, Informationstechnik und Nutzung (AIN) und Infrastruktur, Umweltschutz und Dienstleistungen 
+(IUD) sowie dem Ministerium unmittelbar unterstellte militärische Dienststellen105. Für die Ressourcenbereiche ist jeweils eine Bundesoberbehörde als zentrales Element zur Wahrnehmung der nicht ministeriellen Durchführungsaufgaben und zur Steuerung des eigenen Bereichs eingerichtet. 
+
+Für die Führung der Auslandseinsätze untersteht dem Generalinspekteur bzw. der Generalinspekteurin der Bundeswehr der Befehlshaber bzw. die Befehlshaberin des Einsatzführungskommandos der Bundeswehr. 
+
+ 
+104 Trotzdem bleibt jede Aufgabe der Bundeswehr grundsätzlich im Ministerium verankert. 105 Einsatzführungskommando der Bundeswehr, Planungsamt der Bundeswehr 
+Einsatzkontingente der Bundeswehr werden aus dem einheitlichen Kräftedispositiv für den jeweiligen Auftrag bundeswehrgemeinsam zusammengestellt. Die Organisation der Bundeswehr ist entsprechend auf die modulare Kontingentbildung und frühzeitige Kohäsion zusammenwirkender Truppenteile und Unterstützungselemente auszurichten. 
+
+Dabei ist zu berücksichtigen, dass die Dauer, für die spezifische Fähigkeiten benötigt werden, variieren kann; der Einsatz einzelner Elemente kann sich lagebedingt verlängern, andere bereitgehaltene Fähigkeiten werden hingegen nicht oder nur für kurze Zeit abgerufen. Starre Verfahren und Strukturen können dies nicht leisten. Das System muss flexibel genug sein, in angemessener Zeit auf derartige Schwerpunktverlagerungen zu reagieren und die erforderlichen Fähigkeiten bereitzustellen. 
+
+## 6.2 Personal
+
+Aus Auftrag, Aufgaben und Organisationsstruktur der Bundeswehr leiten sich Personalumfang und -struktur ab106. Diese müssen nachhaltig finanzierbar und demografiefest sein. 
+
+## Anforderungen An Das Personal
+
+Die Bundeswehr ist eine einsatzorientierte Freiwilligenarmee. Sie benötigt kompetentes, talentiertes, den Anforderungen entsprechend gebildetes und ausgebildetes, leistungsfähiges und leistungswilliges Personal, das von seinem Auftrag überzeugt ist. Seine Bereitschaft sich persönlich weiterzuentwickeln und Veränderungen als Herausforderungen zu begreifen, seine Qualifikation, Motivation und Berufszufriedenheit bestimmen maßgeblich die Einsatzfähigkeit und Einsatzbereitschaft der Bundeswehr. 
+
+Reservistendienst Leistende ergänzen und verstärken das personelle Potenzial der Bundeswehr. Sie werden in allen Aufgabengebieten der Bundeswehr eingesetzt. Im Rahmen des Personalmanagements sind alle Möglichkeiten auszuschöpfen und weiterzuentwickeln, um qualifiziertes Personal auch nach dem Ausscheiden aus dem aktiven Dienst ggf. wiederbzw. weiterzuverwenden (Binnenarbeitsmarkt Bundeswehr). Über den Status der Reservistendienst Leistenden hinausgehend können Kooperationsmodelle mit Organisationen außerhalb der Bundeswehr entwickelt werden. Im Rahmen von freien Kapazitäten steht das Bildungs- und Qualifizierungssystem der Bundeswehr auch Reservistendienst Leistenden offen. Somit kann eine langfristige Bindung an die Bundeswehr unterstützt werden. Darüber hinaus sind Reservisten und Reservistinnen der Bundeswehr Mittler und Multiplikatoren für die Bundeswehr in der Gesellschaft. 
+
+## Gesundheitsmanagement
+
+Ein präventiv ausgerichtetes Gesundheitsmanagement trägt maßgeblich zu qualifizierten, motivierten, gesunden, leistungsfähigen und leistungsbereiten Beschäftigten bei. Die Gesundheitsförderung ist in der Personal- und Organisationsentwicklung zu berücksichtigen. Gesundheitsschutz und Gesundheitsförderung liegen somit nicht nur im selbstverständlichen Interesse jedes Einzelnen, sondern sind auch Aufgaben des Dienstherrn und Arbeitgebers. 
+
+ 
+106 in Beachtung Art 87a Grundgesetz Abs. 1 Satz 2 (zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben) 
+
+## Personalmanagement Der Bundeswehr
+
+Das Personalmanagement der Bundeswehr (PersMgmtBw) gewährleistet die personelle Einsatzbereitschaft und Durchhaltefähigkeit der Bundeswehr. Ein zentraler Aspekt dabei ist es, geeignetes Personal für eine hohe Anzahl fachlich diversifizierter und spezialisierter Aufgaben zu gewinnen. Diesem steigenden Bedarf stehen auf dem Arbeitsmarkt immer weniger Menschen mit den benötigten Qualifikationen und Kompetenzen gegenüber. Für das bundeswehrgemeinsame PersMgmtBw ergibt sich daraus zum einen die Notwendigkeit, sich wettbewerbsfähig auf dem Arbeitsmarkt zu positionieren. Zum anderen gilt es mehr als zuvor, die Potenziale und Kompetenzen aller Angehörigen der Bundeswehr in einem integrierten Personalkörper zu nutzen und zu entwickeln. 
+
+Dazu sind, soweit es sachlich sinnvoll ist, die organisatorischen und haushalterischen Voraussetzungen sowie die Personalentwicklungsinstrumente zu schaffen, um Dienstposten je nach Angebot und Bedarf sowohl militärisch als auch zivil wechselseitig zu besetzen. 
+
+Alle Angehörigen der Bundeswehr sind gemäß ihren gezeigten Leistungen und Kompetenzen bedarfsorientiert auf Verwendungen ihrer Laufbahngruppe oder Funktionsebene vorzubereiten und zu fördern. Chancen- und Leistungsgerechtigkeit, Transparenz, Planbarkeit und Verlässlichkeit stellen dabei verbindliche Leitlinien des PersMgmtBw dar. Vor diesem Hintergrund kommt es insbesondere darauf an, die bestehenden Instrumente und Verfahren der Personalgewinnung, -entwicklung, Ausbildung sowie Bildung und Qualifizierung zu harmonisieren und weiterzuentwickeln. Dies erfolgt in enger Abstimmung und im Dialog zwischen den Bedarfsträgern und dem Bedarfsdecker. Das PersMgmtBw basiert auf den drei Säulen Personalgewinnung, Personalentwicklung sowie Ausbildung, Bildung und Qualifizierung. Eine umfassend verantwortliche Personalgewinnungsorganisation soll das auf dem Arbeitsmarkt vorhandene Potenzial der an einer Beschäftigung bei der Bundeswehr Interessierten besser ausschöpfen und bei verschiedenen Personengruppen ein verstärktes Interesse wecken. Sie kann auf Maßnahmen der Informations- und Öffentlichkeitsarbeit, die ein positives Image und ein generelles Interesse an der Bundeswehr fördern, aufbauen. Die personalwerbliche Kommunikation attraktiver Berufsbilder, Karriereperspektiven und Besoldung verbessert die Wettbewerbsfähigkeit der Bundeswehr auf dem Arbeitsmarkt. Ziel der Personalentwicklung ist es, den Personalbedarf der Bundeswehr leistungs- und potenzialorientiert zu decken und zu steuern. Sie trägt damit zu einer - soweit möglich - die Interessen der Angehörigen der Bundeswehr wahrenden chancengerechten Stellen- und Dienstpostenbesetzung sowie Karrieregestaltung bei. Ausbildung, Bildung und Qualifizierung unterstützen über die gesamte Beschäftigungs- bzw. Dienstzeit die Personalentwicklung der Bundeswehr. Sie sind zu berücksichtigende Faktoren bei der fortlaufenden Anpassung der Fähigkeiten der Bundeswehr an sich verändernde Bedingungen und stellen die Befähigung des Einzelnen zum Wirken im Team sicher. 
+
+## Ausbildung, Bildung Und Qualifizierung
+
+Aus-, Fort- und Weiterbildung in der Bundeswehr fördert mit einem umfassenden Bildungsund Qualifizierungsangebot die Einsatzorientierung und schafft die Voraussetzungen für Betrieb und Einsatz. Sie ist effektiv sowie effizient zu planen und durchzuführen. Mit aktuellen Inhalten deckt sie den unmittelbaren und absehbaren Bedarf. Lebenslanges Lernen und die Nutzung moderner Ausbildungstechnik und -infrastruktur werden dabei zielgerichtet genutzt, um unter Berücksichtigung bereits vorhandener Kompetenzen die Ausbildung auf den spezifischen Qualifizierungsbedarf des Einzelnen auszurichten 
+(Individualisierung der Ausbildung). Ausbildung, Bildung und Qualifizierung in der Bundeswehr leistet einen Beitrag zur Wettbewerbsfähigkeit der Bundeswehr als Arbeitgeber, indem sie eine individuelle zivilberufliche Qualifizierung und die Laufbahndurchlässigkeit fördert. Zivil zertifizierte bzw. zertifizierbare international vergleichbare Qualifizierungen garantieren daneben einen mit der Privatwirtschaft vergleichbaren Qualitätsstandard. Die durchgeführten Ausbildungen sind personenbezogen zu dokumentieren und erworbene Kompetenzen wo immer möglich zivilberuflich verwertbar zu zertifizieren. Dabei ist auf internationaler und nationaler Ebene auf die Vergleichbarkeit erworbener Kompetenzen und Qualifikationen gemäß der Vorgaben des Europäischen Qualifikationsrahmens (EQR) und des Deutschen Qualifikationsrahmens für lebenslanges Lernen (DQR) zu achten. Ziel ist, die bundeswehrgemeinsame und ressortübergreifende sowie multinationale Ausbildungs-kooperation auszubauen, Ausbildungsinhalte abzustimmen und Ausbildungsvorhaben - wo immer möglich und sinnvoll - gemeinsam durchzuführen. Im Verständnis eines gemeinsamen "Binnenarbeitsmarktes Bundeswehr" werden dadurch die Voraussetzungen geschaffen, ausscheidende Zeitsoldaten und Zeitsoldatinnen mithilfe einer individuellen und arbeitsmarktorientierten Berufsförderung für eine Tätigkeit als zivile Mitarbeiter und Mitarbeiterinnen der Bundeswehr oder für ein Erwerbsleben außerhalb der Bundeswehr vorzubereiten. 
+
+## 6.3 Ausbildung Streitkräfte Und Übungen
+
+Die Ausbildung der Streitkräfte ist unter dem leitenden Prinzip der Einsatzorientierung ein herausgehobener Gestaltungsbereich in Verantwortung des Generalinspekteurs bzw. der Generalinspekteurin der Bundeswehr. Allgemein militärische Grundfertigkeiten, ein einheitliches Verständnis der Aufgaben Führer und Ausbilder sowie eine standardisierte und für einen Einsatz streitkräftegemeinsam geplante und durchgeführte einsatzvorbereitende Ausbildung sind Grundlage für den Erfolg im Einsatz. Ausbildung in den Streitkräften stellt daher die Befähigung des Einzelnen zur Teilnahme an Einsätzen und zum militärischen Wirken im Team sicher. Allgemeine militärische Fähigkeiten und Verfahren werden grundsätzlich so vermittelt, dass sie unter Gefechtsbedingungen beherrscht werden. Daher richtet sich die Ausbildung in den Streitkräften kontinuierlich an den Einsatzerfordernissen aus und hat die Befähigung zum Kampf als Ziel. Im Rahmen der Einsatzvorbereitung werden die militärischen Grundfertigkeiten durch spezifische, auf den jeweiligen Einsatz bezogene Fertigkeiten und Kenntnisse ergänzt. Übungen dienen in erster Linie dem Herstellen, dem Halten und dem Nachweis der Einsatzbereitschaft der Bundeswehr für Einsätze, Dauereinsatzaufgaben und einsatzgleiche Verpflichtungen im gesamten Aufgabenspektrum. Sie befähigen die Bundeswehr, Aufträge in einem komplexen, multinationalen Umfeld, zusammen mit internationalen und zivilen Partnern, Organisationen und Akteuren107 wahrzunehmen. 
+
+Weiterhin sollen sie die in den Einsätzen gewonnenen Erfahrungen in der Bundeswehr umsetzen, indem sie Ausbildungs- und Ausrüstungslücken identifizieren und Konzepte, Taktiken sowie geänderte Grundsätze und Verfahren erproben, bevor sie im Einsatz zum Tragen kommen. 
+
+Darüber hinaus sind Übungen ein Teil des Gestaltungsprozesses deutscher Außen-, Militärund Rüstungspolitik. In diesem Rahmen dienen sie der allgemeinen Informationsgewinnung, Förderung von Partnerschaften und Kooperationen und verdeutlichen und unterstützen nationale Interessen. 
+
+Der Übungsprozess der Bundeswehr ist zyklisch und mit den Übungsplanungsprozessen der NATO und EU synchronisiert. 
+
+## 6.4 Material Und Ausrüstung
+
+Die materielle Ausstattung der Bundeswehr und die Verfügbarkeit erforderlicher Dienstleistungen sind Voraussetzung für die Auftragserfüllung, die Einsatzfähigkeit, Einsatzbereitschaft und die Sicherheit der eingesetzten Kräfte. Die materielle Ausstattung leitet sich aus dem priorisierten Fähigkeitsprofil, den konzeptionellen Dokumenten und den Vorgaben der Mittelfristplanung ab. Sie trägt zum Fähigkeitsgewinn bzw. -erhalt der Bundeswehr bei. 
+
+Material und Dienstleistungen müssen zeit- und bedarfsgerecht in ausreichendem Umfang einsatzreif zur Verfügung stehen. Voraussetzung dafür ist die rechtzeitige Einplanung im Integrierten Planungsprozess und die rasche Bereitstellung der erforderlichen Ausrüstung, Informationstechnik und Dienstleistungen im Ausrüstungs- und Nutzungsprozess. 
+
+In der Ausrüstung erfolgt mit dem zielvorgabenorientierten Ausrüstungsumfang ein Neuansatz. Dem Prinzip der Einsatzorientierung folgend wird der Ausrüstungsumfang beschafft, der zur Gewährleistung des priorisierten Fähigkeitsprofils mit den daraus abgeleiteten Kräftedispositiven einschließlich der notwendigen Ausbildung erforderlich und finanzierbar ist. Um die erforderliche Ausstattung unter gegebenen finanziellen Rahmenbedingungen realisieren zu können, werden im Verlauf des Integrierten Planungsprozesses Ziele festgelegt. Dabei stehen beabsichtigte Maßnahmen zur Anpassung der Ausrüstung der Bundeswehr aufgrund der Begrenzung der Ressourcen in Konkurrenz zueinander und sind entsprechend ihres Beitrags zum Leistungs- und Fähigkeitsprofil zu priorisieren. Ein breites Fähigkeitsspektrum ist nicht gleichzusetzen mit einer hoch differenzierten Ausstattungsvielfalt. Anzustreben sind skalierbare, flexible und fähigkeitsübergreifende oder modulare Systeme, um die Bundeswehr in die Lage zu versetzen, sich schnell verändernden Einsatzbedingungen anpassen zu können. Zur Verbesserung der Interoperabilität ist die 
+
+ 
+107 Comprehensive Approach - ressortübergreifendes Zusammenwirken 
+materielle Fähigkeitsentwicklung multinational abzustimmen. Personelle, betriebliche, Ausbildungs- und Infrastrukturaspekte sind bei der Abstimmung zu berücksichtigen. 
+
+Vorgaben für die Realisierung der materiellen Ausstattung mit Informationstechnik ergeben sich aus der IT-Strategie des BMVg. 
+
+Die Bundeswehr vermeidet aufwändige oder risikobehaftete Entwicklungen, setzt den Schwerpunkt auf Zukunftsentwicklung im Rahmen von Forschung und Technologie (F&T) und stützt sich zur Beschaffung von Ausrüstung und Dienstleistungen im größtmöglichen Umfang auf marktverfügbare bzw. handelsübliche Produkte mit Leistungen der nationalen und internationalen gewerblichen Wirtschaft und wehrtechnischen Industrie ab. Hierbei werden auch internationale Kooperationsmöglichkeiten geprüft. Eine sicherheitspolitisch erforderliche und wirtschaftlich tragfähige nationale wehrtechnische Kernfähigkeit und 
+-kapazität sowie eine in einem europäischen Rüstungsmarkt abgesicherte Bedarfsdeckung stehen im besonderen Interesse der gesicherten und durchhaltefähigen Versorgung der Streitkräfte, insbesondere in Krisenzeiten. 
+
+Life Cycle Cost Management (LCCM)108 sowie die Optimierung der Beschaffung sind Ausdruck der verstärkten Nutzung betriebswirtschaftlicher Methoden bei der Bedarfsdeckung der Bundeswehr. 
+
+Zur Sicherstellung moderner, leistungsfähiger und zukunftsfähiger Streitkräfte, beschafft die Bundeswehr Ausrüstung und komplexe Dienstleistungen und betriebsbedingtes Material mit einer eigenen Beschaffungs- und Nutzungsmanagementorganisation, in der eigene, von der Industrie unabhängige wehrtechnische Kompetenzen und Kapazitäten bereitgehalten werden. 
+
+Die Beschaffungs- und Nutzungsmanagementorganisation stellt über das gesamte Leistungsspektrum der Bundeswehr bedarfsgerechte materielle Lösungen109 (Produkte und Dienstleistungen) bereit, ermöglicht flexible technische Lösungen, nimmt Bewertungs- und Beratungsaufgaben wahr und gewährleistet insbesondere die Einsatzreife des Materials. Die in der Nutzung, insbesondere in den Einsätzen, gewonnenen Erkenntnisse werden durch sie bei Neuentwicklungen, Weiterentwicklungen und der Anpassung eingeführter Produkte und Dienstleistungen eingebracht. 
+
+Die Beschaffungs- und Nutzungsmanagementorganisation bündelt das über den gesamten Lebensweg erworbene technische "System-Know-how" im Bereich der Bundeswehr mit einem durchgängigen Management. Dessen Aufgabenspektrum reicht von der Erarbeitung von Vorschlägen im Bereich für materielle Lösungen und Dienstleistungen über die Realisierung und Nutzung bis hin zur Aussonderung und Verwertung von Wehrmaterial. Im Rahmen ihrer Beratungsaufgaben stellt sie auch eine Bewertung möglicher gegnerischer Produkte sicher. Zum Erhalt der Analyse- und Bewertungsfähigkeit in allen wehrtechnischen Belangen und zur Gewährleistung einer modernen Ausrüstung, die auch künftigen Anforderungen gerecht wird, betreibt sie für die Bundeswehr wehrtechnische Forschung und Technologie. 
+
+ 
+108 LCCM ist eine betriebswirtschaftliche Methode zur Heranziehung von Lebenswegkosten für Entscheidungen im Zyklus von Produkten. 
+
+109 Zu beschaffende neue Waffensysteme und Munition sind auf deren völkerrechtliche Zulässigkeit und Konformität mit Rüstungskontrollverträgen und -abkommen zu prüfen. 
+
+## 6.5 Infrastruktur, Dienstleistungen Und Gesetzliche Schutzaufgaben
+
+Die Bundeswehr braucht attraktive, moderne und ablaufoptimierte Infrastruktureinrichtungen im In- und Ausland sowie in den Einsatzgebieten. Das erfordert die rechtzeitige Durchführung von entsprechenden Infrastrukturvorhaben und den effizienten Betrieb von Liegenschaften sowie die entsprechende Finanzierung. 
+
+Im Inland bündelt die Bundeswehr Fachkompetenz und Verantwortung in einer zivilmilitärischen Infrastrukturorganisation. Das Aufgabenspektrum der Bedarfsträger- und Bedarfsdeckerorganisation wird in einer Organisation zusammengeführt und schafft dadurch eine Straffung der Arbeitsabläufe sowie effizientere Aufgabenerledigung im Infrastrukturbereich. Zur Ausführung der Baumaßnahmen bedient sich die Bundeswehr der Bauverwaltungen des Bundes und der Länder, die im Rahmen der Organleihe110 Planung und Ausführung der Infrastrukturvorhaben wahrnehmen. In Einsatzgebieten werden die Fachaufgaben für das Bauwesen, den Bau und den Betrieb von Einsatzliegenschaften durch ziviles Fachpersonal und militärische Kräfte der Bundeswehr sichergestellt. Damit sind Möglichkeiten zur raschen, flexiblen und durchhaltefähigen Unterbringung unabhängig von den gegebenen klimatischen, geografischen und geologischen Bedingungen zu gewährleisten. 
+
+Zu den Dienstleistungen des zivilen Bereichs der Bundeswehr gehören des Weiteren die Bereitstellung von Verpflegung und die bewirtschaftete Betreuung. Um diese Leistungen im Einsatz zu gewährleisten, sind modulare, sich dem Einsatzbedarf flexibel anpassende Komponenten weiterzuentwickeln und vorzuhalten. Die Bundeswehr nimmt als Träger hoheitlicher Belange Zustimmungs- und Genehmigungsfunktionen mit Außenwirkung gegenüber Dritten wahr111. 
+
+Die Bundeswehr hat in Erfüllung ihrer Fürsorgepflicht und auf der Grundlage gesetzlicher Regelungen, Leben und Gesundheit ihrer Angehörigen zu schützen, öffentlich-rechtliche Aufgaben in Eigenvollzugskompetenz wahrzunehmen und gleichzeitig den Schutz von Natur und Umwelt zu beachten112. Gesetzliche und weitere Schutzaufgaben113 sind deshalb integraler Bestandteil aller Prozesse, Verfahren und Anwendungen im Betrieb und im Einsatz der Bundeswehr. 
+
+ 
+110 Auf der Grundlage § 8 Abs. 5 Finanzverwaltungsgesetz werden die Bauverwaltungen der Länder (als Organ eines Rechtsträgers) für den Bund (als Entleiher) tätig und haben dessen Weisungen zu befolgen. Ihre Maßnahmen werden dem Bund zugerechnet. 
+
+111 z. B. Luftverkehrsgesetz, Raumordnungsgesetz, Energiegesetze 112 Einschlägige Regelungen zu den einzelnen Rechtsgebieten erfolgen durch ministerielle Grundsatzweisungen. 113 u. a. Umweltschutz, Arbeitsschutz, Brandschutz, Gefahrgutwesen, Selbstschutz, Munitionstechnische Sicherheit und Schießsicherheit 
+
+## 7. Vorgaben Zur Umsetzung Im Zuge Der Planung
+
+Planung ist die gedankliche Vorwegnahme zukünftigen Handelns zur Vorbereitung von Entscheidungen; sie konkretisiert das politische Ziel, zeigt den Weg auf, und verbindet dies mit den absehbar verfügbaren Mitteln. 
+
+Gesamtplanerisches Ziel der Bundeswehr ist es, einsatzbereite und bündnisfähige Streitkräfte aufzubieten, die die erforderlichen Fähigkeiten gemäß der nationalen Zielvorgabe der Verteidigungspolitischen Richtlinien bereitstellen und dem Stellenwert Deutschlands in den Bündnissen entsprechen. Dies setzt eine mittelfristige Ziel- und Finanzplanung voraus, die die Aufwendungen für Verteidigung politisch im Einklang mit dem Auftrag der Bundeswehr hält. 
+
+Wesentliche Leistung der Planung ist es, konkrete Schritte zu diesem gesamtplanerischen Ziel zu entwickeln und vorzugeben. Dabei kommt es darauf an, im vorgegebenen Rahmen gestalterischen Handlungsspielraum zu schaffen und zu nutzen, um bestehende, notwendige Fähigkeiten zu erhalten, neue benötigte Fähigkeiten zu realisieren und nicht mehr benötigte Fähigkeiten abzubauen. Diese Optimierung des Leistungsspektrums der Bundeswehr erfolgt balanciert in allen Gestaltungsbereichen der Zukunftsentwicklung. Planung muss außerdem die Voraussetzungen dafür schaffen, dass konkrete Maßnahmen, Vorhaben oder Projekte im Haushalt verankert werden können. Sie muss deshalb die finanzplanerischen Rahmenbedingungen, in denen sich die Bundeswehr absehbar bewegen wird, konsequent mit einbeziehen. 
+
+## Planerischer Handlungsrahmen
+
+Die Handlungsspielräume werden durch die Rahmenbedingungen eingeschränkt. Hohe und langfristige Bindungsstände durch vertraglich gebundene Projekte, Kostensteigerungen, zeitliche Verzögerungen und Mindererfüllung vertraglich geforderter Leistungen verkleinern die Spielräume ebenso wie ein damit meist einhergehender ausgabenintensiver Parallelbetrieb moderner und alter Ausrüstung. Die Materialerhaltung und der Betrieb moderner, leistungsstarker Waffensysteme sind deutlich kostenintensiver als bei den abzulösenden Altsystemen. Deshalb ist in der integrierten Planung eine diesbezügliche Risikovorsorge zu implementieren. Die vor dem Hintergrund der Einsatzorientierung notwendige Deckung kurzfristiger Einsatzbedarfe darf nicht zu einer dauerhaften Einschränkung der Fähigkeitsentwicklung führen. Es gilt, die Balance zwischen Einsatz und Zukunftsentwicklung zu wahren. Betreiber- und Kooperationsmodelle werden im Zuge der Konzentration auf Kernfähigkeiten weiter an Bedeutung gewinnen. Sie ermöglichen eine wirtschaftliche Leistungserbringung durch die Nutzung von Ressourcen der privaten Wirtschaft für die Bundeswehr. Bei den dafür erforderlichen Mitteleinsätzen ist darauf zu achten, dass die vertraglichen Bindungen die planerische und haushaltswirtschaftliche Flexibilität nicht langfristig einschränken. Die Verträge müssen flexibel genug gestaltet werden, um sich ändernden Rahmenbedingungen anpassen zu können. Darüber hinaus wird der Handlungsspielraum durch erforderliche Infrastrukturmaßnahmen und den Anteil der Personal- und Versorgungsausgaben begrenzt. Auch der weiterhin zu leistende Beitrag zur Konsolidierung des Bundeshaushalts im Zusammenhang mit der Einhaltung der im Grundgesetz verankerten Schuldenbremse wird zukünftig eine wesentliche Rahmenbedingung darstellen. 
+
+## Vorgaben Für Die Planung
+
+Gesamtplanerische Schwerpunktsetzungen sind im Integrierten Planungsprozess der Bundeswehr aufzugreifen und auf der Grundlage des ganzheitlichen Ansatzes im Rahmen einer bundeswehrgemeinsamen, ressortübergreifenden und multinationalen Betrachtung umzusetzen. Klare Vorgaben hinsichtlich dessen, was die Bundeswehr vorrangig benötigt und voraussichtlich finanziert werden kann, müssen künftige Bedarfe begrenzen. 
+
+Grundsätzlich hat für die Zukunft der Bundeswehr die glaubhafte Priorisierung von Maßnahmen zur Attraktivitätssteigerung herausgehobene Bedeutung, denn nur ein attraktiver Arbeitgeber ist zukunftsfähig. 
+
+Der Einsatz von finanziellen Mitteln für neue Fähigkeiten und zugehörige Ressourcen muss im ausgewogenen Verhältnis zum Erhalt und der Gesamtentwicklung des Leistungsprofils der Bundeswehr stehen, um ein breites Fähigkeitsspektrum erreichen und stabilisieren zu können. Hierzu gehört auch der mögliche Verzicht auf Fähigkeiten, die aufgrund einer hohen finanziellen Bindungswirkung eine ausgewogene Fähigkeitsentwicklung zu sehr beeinträchtigen. Insbesondere für zukünftige betriebs- und kostenintensive Systeme sowie langfristige Bindungen wie z. B. durch Betreiberverträge muss nicht nur die Frage nach deren Finanzierbarkeit, sondern - mit Blick auf ein anzustrebendes breites Fähigkeitsprofil - auch die Frage der hierdurch ausgelösten Verdrängungseffekte auf andere Fähigkeiten den Fokus der Bewertung bilden. Eine inhaltliche und zeitlich gestaffelte Schwerpunktsetzung und Priorisierung muss auch die multinationale Fähigkeitsentwicklung einschließlich der Lastenteilung in den Bündnissen berücksichtigen. Dies kann zu Entlastungen führen und die Durchhaltefähigkeit einzelner Kräftedispositive erhöhen. 
+
+Es gilt die Neuausrichtung in allen Bereichen umzusetzen und dabei das derzeitige Leistungsspektrum so anzupassen, dass die Bundeswehr die Erfüllung ihrer Aufgaben gewährleistet und planerische Flexibilität gewinnt und erhält. Die qualitative Steigerung des Leistungsspektrums der Bundeswehr ist unter den bereits dargestellten Gestaltungsparametern der Breite vor Tiefe schrittweise zu gestalten. Der Zuwachs in Qualität und Quantität wird langfristig anzustreben sein. Die Bundeswehr wird sich im Sinne der langfristigen Sicherheitsvorsorge als lernende Organisation in allen Bereichen permanent weiterentwickeln. Den Rahmen hierfür bildet diese Konzeption. Die Zukunftsentwicklung gibt dafür die einzuschlagende Richtung vor, die Mittelfrist- und Ressourcenplanung beschreiben den konkreten Weg. 
+
+## Glossar Aufgabentypen
+
+Für **Aufgaben in schneller Reaktion** ist planerisch keine Ablösung vorgesehen, d. h. die Aufgabenerfüllung ist kontinuierlich sicherzustellen und erfolgt sequenziell. Aufgaben in schneller Reaktion können in lang andauernde Aufgaben übergehen. 
+
+Für **lang andauernde Aufgaben**114 **(LAA)** müssen Fähigkeiten durchhaltbar bereitgestellt werden. Für den Einsatzfall ist das charakterisierende Merkmal, dass die Bereitstellung von Fähigkeiten über einen langen Zeitraum eine regelmäßige personelle Ablösung erfordert. Dauereinsatzaufgaben (DEA) haben Einsatzcharakter und sind - begründet durch hoheitliche Aufträge oder internationale Verpflichtungen - kontinuierlich zu erfüllen. Sie können nur durch ständig einsatzbereite Kräfte und Mittel der Bundeswehr kurzfristig abrufbar oder der NATO bereits unterstellt erfüllt werden. 
+
+Hierzu gehören die ständig einsatzbereiten Kräfte der NCF (gemäß MC 586115). Des Weiteren nehmen Kräfte zur Überwachung und Gewährleistung der Sicherheit des deutschen Luft- und Seeraums, der nuklearen Teilhabe, für Operationen zur Rettung, Evakuierung und Geiselbefreiung im Ausland, des militärischen Such- und Rettungsdienstes und der Deutschen Anteile an den multinationalen Kommandostrukturen Dauereinsatzaufgaben wahr. 
+
+Einsatzgleiche Verpflichtungen (EV) sind für bestimmte Zeiträume gegenüber der NATO 
+und EU eingegangene und nach Art und Umfang jeweils individuell festgelegte Verpflichtungen mit Einsatzcharakter (z. B. Beitrag zu NRF und EU BG). In den Vorbereitungsphasen ergibt sich ihre tatsächliche Inanspruchnahme aus den nationalen und multinationalen Übungs- und Zertifizierungsverpflichtungen, in den Bereitstellungsphasen die Bereitschaftszustände aus den zugesagten Notice to Move-Fristen. 
+
+Daueraufgaben zur Unterstützung von Einsätzen (DA) sind Fachaufgaben, die durch ihren unmittelbaren funktionalen Beitrag die Durchführung von Einsätzen, DEA und EV erst ermöglichen und die kontinuierlich nur durch Kräfte und Mittel der Bundeswehr zu erbringen sind. Hierzu gehören alle einsatzunterstützenden Aufgaben der Basis Inland inklusive abrufbarem Rat und Sachverstand und Fähigkeiten für den Einsatz (Reach-Back-Verfahren). Ständige Aufgaben (StA) sind Aufgaben, die kontinuierlich durch Kräfte und Mittel der Bundeswehr erbracht werden müssen, jedoch keine DEA, EV oder DA sind. Dazu gehört auch die Bereitstellung von Kräften und Mitteln der Bundeswehr im Zusammenhang mit dem NATO Defence Planning Process, dem EU Headline Goal, dem United Nations Standby Arrangement System (UNSAS) einschließlich eines angemessenen personellen Vorhalts für Beobachtermissionen sowie der deutschen Teilhabe in integrierten Führungs- und Truppenstrukturen. Darüber hinaus sichern StA die Grundfunktionen durch die Erfüllung von Ämteraufgaben. 
+
+ 
+114 Entspricht dem Begriff "Dauereinsätze" im Bericht des GenInsp zum Prüfauftrag aus der Kabinettsklausur vom 7. Juni 2010. 115 u.a. NATO Airborne Early Warning and Control Force Command's E-3A Component (NAEW&CF E-3A Component), NATO 
+Integrated Air and Missile Defence System (NATINAMDS), NATO Alliance Ground Surveillance (AGS), Standing NATO Maritime Groups (SNMG) und Standing NATO Mine Counter Measure Groups (SNMCMG) 
+
+## Betrieb Inland
+
+Leistungen der Bundeswehr in allen Aufgabenbereichen basieren auf einer Organisation, welche die Einsatzbereitschaft der Streitkräfte insgesamt und den hierfür erforderlichen Betrieb im Inland, im Ausland und in den Einsatzgebieten sichert. Darauf beruht die Grundfunktionalität der Bundeswehr im gesamten Aufgabenspektrum. Sie ist die Voraussetzung für die Wahrnehmung der nach außen gerichteten Aufgaben. Dies gilt insbesondere für die Basis Inland als direkte Unterstützung der Einsätze aus der Heimat. 
+
+Folgende Aufgaben sind u. a. zu leisten: Ausbildung, Ausrüstung, Betreuung, Dienstleistungen, Feldjägerwesen, Führungsunterstützung (mit der Aufgabe Einsatz und Betrieb des IT-SysBw), GeoInfo-Unterstützung, Gesetzliche Schutzaufgaben116, InfoArbeit, Infrastruktur, Logistik (einschließlich zugeordneter Fachaufgaben), Militärmusik, Militärisches Nachrichtenwesen, Militärseelsorge, Munitionstechnische Sicherheit und Schießsicherheit117, Nutzung, Organisation, Personalmanagement, Planung, Rechtspflege, Territoriale Aufgaben, Truppenpsychologie, Weltraumlageerstellung, Zukunfts- und Weiterentwicklung und weiterer Bereiche der Ressortforschung. 
+
+## Einheitliches Kräftedispositiv
+
+wird im Sinne der englischen Terminologie "Single Set of Forces" genutzt. Es bedeutet, dass die Kräfte grundsätzlich für ein möglichst großes Spektrum an Aufgaben zur Verfügung stehen, nach einer Einsatzentscheidung für andere parallele Aufgaben aber nicht mehr einplanbar sind. 
+
+## Einsatz
+
+Der Begriff des Einsatzes wird im militärfachlichen Sinne verwendet, unabhängig davon, ob es sich dabei um einen Einsatz i.S.v. Art. 87a Abs 2 GG oder einen Einsatz bewaffneter Streitkräfte i.S.d. Parlamentsbeteiligungsgesetzes oder eine schlichte Verwendung von Streitkräften, beispielsweise im Rahmen der Amtshilfe, handelt. Entsprechend ist die Erfüllung eines besonders angeordneten, in der Regel befristeten, jenseits von Routinedienstbetrieb, Ausbildung und Übung angesiedelten Auftrages unabhängig von der rechtlichen Einordnung als Einsatz zu verstehen. 
+
+## Einsatzfähigkeit
+
+ist das Vermögen, mit den personellen, materiellen, infrastrukturellen, aufbau- und ablauforganisatorischen sowie betrieblichen Gegebenheiten (einschließlich Leistungen Dritter) einen Auftrag erfüllen zu können. 
+
+ 
+116 Arbeitsschutz, Umweltschutz, Brandschutz, Gefahrgutwesen und Wahrnehmung der öffentlich-rechtlichen Aufsicht in den Rechtsgebieten der gesetzlichen Schutzaufgaben 117 Eigenregelungskompetenz der Bundeswehr zur Entwicklung von den zivilen Vorschriften möglichst gleichwertigen Sicherheitsstandards unter Berücksichtigung militärspezifischer Belange 
+
+## Einsatzbereitschaft
+
+Bewerteter aktueller Ist-Zustand der verfügbaren personellen und materiellen Ausstattung, der vorhandenen Infrastruktur und der gebilligten aufbau- und ablauforganisatorischen Strukturen zur Erfüllung zugewiesener Aufgaben/Aufträge. Einsatzbereitschaft setzt das Vorhandensein von Einsatzfähigkeit voraus. 
+
+## Einsatzführung Und Operationsführung
+
+Einsatzführung (EinsFü) umfasst die in nationaler Verantwortung liegenden Führungsaufgaben bei multinationalen Einsätzen, einschließlich der nationalen Interessenvertretung und der Führung der in nationaler Verantwortung liegenden Einsatzunterstützung sowie der nationalen Teilhabe am Joint Targeting Prozess. Operationsführung (OpFü) umfasst die Führungsaufgaben der Bundeswehr zur Erfüllung strategischer, operativer oder taktischer Aufträge und Aufgaben. OpFü deutscher Kräfte findet in der Regel multinational im Rahmen von NATO, EU oder Koalitionen statt. Im Ausnahmefall, z. B. bei Einsätzen zur Rettung, Evakuierung und Geiselbefreiung im Ausland, erfolgt die OpFü rein national. Gemeinsam ist EinsFü und OpFü, dass sich beide Führungsvorgänge auf den operationellen Einsatz der Bundeswehr beziehen. Sie haben jedoch unterschiedliche Schwerpunkte. Die EinsFü wertet die Fähigkeitsforderungen multinationaler Führungsebenen aus und leitet daraus die benötigten Fähigkeiten des nationalen Kräftebeitrages ab. Sie schafft im Zusammenwirken mit den Truppenstellern die Voraussetzungen für den erfolgreichen Einsatz der national bereitgestellten Kräfte. Demgegenüber lenkt die OpFü den konkreten Einsatz des zugewiesenen Kräftedispositivs durch eigene Befehlsgebung. Ein der EinsFü eigentümlicher Schwerpunkt ist die nationale Mandatsüberwachung gegenüber der multinationalen OpFü. Im Falle der NatOpFü liegen EinsFü und OpFü in einer Hand. Dabei entfällt die EinsFü-eigentümliche Überwachung multinationaler Befehlsgebung. 
+
+Bei Einsätzen zur Rettung, Evakuierung und Geiselbefreiung im Ausland erfolgt die OpFü rein national. 
+
+## Fähigkeiten
+
+Fähigkeiten leiten sich aus operationellen Zielen ab, die den Grad der Aufgabenerfüllung beschreiben. Sie setzen sich aus einem oder mehreren funktionalen Bausteinen zusammen und besitzen zugehörige Ressourcen in allen Planungskategorien (Personal, Rüstung, Infrastruktur, Organisation, Betrieb). Die Fähigkeiten der Bundeswehr als Ganzes werden durch den Generalinspekteur bzw. die Generalinspekteurin geplant. Fähigkeiten schaffen wesentliche Voraussetzungen für die Einsatzbereitschaft der Bundeswehr sowie für den Einsatz, einsatzgleiche Verpflichtungen und die Wahrnehmung von Dauereinsatzaufgaben. Sie sind durch verfügbares Personal und Material wie auch deren Einsetzbarkeit und Können geprägt. 
+
+## Fähigkeitsmanagement
+
+Fähigkeiten stehen in einem bundeswehrgemeinsamen und multinationalen Kontext einschließlich der hierfür erforderlichen nationalen und multinationalen Interoperabilität und Standardisierung. Hierzu gehört auch als integraler Bestandteil das Leistungsprofil der Ressourcenbereiche, um eine koordinierte, zentrale Prioritätensetzung zu ermöglichen. Die Einteilung nach Fähigkeiten dient der Planung auch im multinationalen Rahmen und der Darstellung operationeller Zusammenhänge und Verbünde von Kräften. 
+
+Die funktionale Fähigkeitsstruktur ist in Führung - Aufklärung - Wirkung - Unterstützung unterteilt, die zusammen den Verbund FAWU bilden. Er wird durch querschnittliche Anforderungen von Vernetzbarkeit, Mobilität und Schutz einschließlich der hierfür erforderlichen nationalen und multinationalen Interoperabilität und Standardisierung ergänzt. 
+
+Grundlage eines effektiven Fähigkeitsmanagements ist ein eindeutiges Lagebild (Fähigkeitslage der Bundeswehr), das auf einer Zeitachse darstellt, welche Fähigkeiten die Bundeswehr bereitstellen kann. Dem gegenübergestellt werden die nationalen und multinationalen Fähigkeitsforderungen. Daraus entwickelt das Fähigkeitsmanagement Vorschläge, um nationale Positionen in die multinationale Streitkräfteplanung einzubringen, greift multinational abgestimmte Zielvorgaben auf und integriert sie in den nationalen Planungsprozess. 
+
+## Kernführungsfähigkeit
+
+Die Kernführungsfähigkeit beschreibt das für eine durchgehende Einsatz- und Operationsführung erforderliche Mindestmaß an Führungsfähigkeit. 
+
+## Konflikt, Krise
+
+Konflikte sind ein Ausdruck von Spannungen und Unvereinbarkeiten zwischen verschiedenen, voneinander abhängigen Parteien im Hinblick auf ihre jeweiligen Bedürfnisse, Interessen und Wertvorstellungen. Zu gesamtgesellschaftlichen Krisen führen solche Auseinandersetzungen vor allem in Phasen tief greifender Veränderungen. Das Problem sind nicht die Konflikte als solche, sondern die Art und Weise ihrer Austragung. Ziel muss es daher sein, Gewalt als Austragungsform von Konflikten zu verhindern. Der Konflikt wird folglich als Interessengegensatz verstanden, während eine Krise die Situation beschreibt, die aus einem Konflikt heraus entstehen kann. 
+
+## Methoden
+
+Die Anwendung moderner wissenschaftlicher Methoden, z. B. Concept Development & Experimentation (CD&E), Operations Research (OR), Modellbildung & Simulation (M&S), 
+Architektur und Studien, ist ein wesentlicher Bestandteil der Bundeswehr als "lernende Organisation". Die Vorgaben zur Neuausrichtung bilden den Ausgangspunkt für die künftigen Planungen und die Weiterentwicklung der Bundeswehr. Der methodischen Unterstützung mit wissenschaftlich erarbeiteten Fragestellungen und Erkenntnissen und deren Verfügbarmachung kommt hierbei eine besondere Bedeutung zu. CD&E ist eine Methode, die in einem iterativen Prozess von wechselseitiger Konzeptentwicklung und experimenteller Überprüfung innovative Ideen auf ihren operationellen Nutzen für die Bundeswehr untersucht. Ziel der Anwendung der Methode CD&E ist es, das einer neuen Idee inhärente Innovationspotenzial frühzeitig zu erkennen, die Relevanz für die Bundeswehr zu bewerten, auf Realisierbarkeit zu überprüfen und dessen Wirksamkeit zu untersuchen. OR ist die Entwicklung und der Einsatz quantitativer Modelle und Methoden zur Entscheidungsunterstützung. OR ist geprägt durch die Zusammenarbeit von angewandter Mathematik, Wirtschaftswissenschaften und Informatik zur Unterstützung von Entscheidungsprozessen im Rahmen der Entscheidungsvorbereitung, Entscheidungsfindung sowie Entscheidungsdurchführung und -kontrolle. 
+
+M&S ist die auf Basis mathematisch formalisierter Modelle programmierte Softwareanwendung, die eine Simulation verschiedener Vorgänge erlaubt. Durch Simulationsläufe und Veränderung der Modellparameter lassen sich Erkenntnisse über das Modellverhalten gewinnen, die dann auf das reale System übertragen werden können. Architekturen ermöglichen die standardisierte, modellhafte Beschreibung komplexer funktionaler Zusammenhänge und dienen der systematischen Analyse, Dokumentation, Kommunikation und Entscheidungsunterstützung. Die Methode Architektur enthält hierzu standardisierte Vorlagen und Vorgehensmodelle zur Erarbeitung und Nutzung von Architekturen. 
+
+## Mittelfristplanung
+
+Die Mittelfristplanung (MFP) verknüpft die konzeptionellen Entwicklungslinien, die Weiterentwicklung der Bundeswehr und erforderliche Maßnahmen zur Anpassung des Fähigkeitsprofils mit politischen und finanziellen Rahmenbedingungen. Die Mittelfristige Zielsetzung (MFZ) ist das zentrale Dokument und Produkt der Mittelfristplanung. Sie entwickelt und dokumentiert die zukünftig realistisch zu erreichenden Zwischenziele und Schwerpunktsetzungen für den mittelfristigen Planungshorizont (12 Jahre mit abnehmender Detaillierung). An diesen haben sich die Planungsaktivitäten in allen Gestaltungsbereichen der Zukunftsentwicklung auszurichten. Damit nimmt die MFZ eine Schwerpunktsetzung für die Entwicklung der Bundeswehr im mittelfristigen Planungshorizont vor. 
+
+## Prozessorientierung
+
+Prozessorientierung bedeutet, Denken und Handeln sowie darauf aufbauend die Ablauf- und Aufbauorganisation konsequent auf die Prozesse der Leistungserbringung und deren Zusammenspiel für eine bestmögliche Auftragserfüllung auszurichten. Strukturbestimmend sind Aufgaben, die die Grundstruktur der Bundeswehr prägen. Strukturbegründend sind Aufgaben, die einzelne zusätzliche Elemente erfordern, die sich in die Grundstruktur der Bundeswehr einfügen. 
+
+## Wirkungsüberlegenheit
+
+ist das Ergebnis eines kontinuierlichen Optimierungsprozesses mit dem Ziel, die beabsichtigten Effekte schneller und präziser zu erreichen als gegnerische Kräfte, Akteure beziehungsweise Konfliktparteien. Wirkungsüberlegenheit ist ein gegebenenfalls nur temporärer Vorteil, der die Fähigkeit beinhaltet, sich in einer Operation zur rechten Zeit am rechten Ort mit angemessener Wirkung gegen gegnerische Kräfte und Akteure durchzusetzen.
+
+## Zukunftsentwicklung
+
+dient der langfristigen Sicherheitsvorsorge der Bundeswehr. Sie hat zum Ziel, die Bundeswehr innerhalb des in der KdB definierten Rahmens fortlaufend an veränderte Bedingungen und Herausforderungen anzupassen. Die kontinuierliche Zukunftsentwicklung als Teil der Zukunftsentwicklung hat zum Ziel, die Bundeswehr auf die wahrscheinlichen Herausforderungen vorzubereiten. Sie nimmt relevante Entwicklungen aus internen und externen Bereichen der Bundeswehr auf und berücksichtigt die Erkenntnisse aus der Auswertung der Einsatzerfahrungen und der technischen Entwicklungen. Mit wissenschaftlichen Methoden trägt sie permanent zur Früherkennung bei, zeigt Trends auf und adaptiert das Fähigkeits- und Leistungsprofil der Bundeswehr. Die kontinuierliche Zukunftsentwicklung erarbeitet konzeptionelle Grundlagen und Vorgaben für die Weiterentwicklung. Die Ergebnisse der kontinuierlichen Zukunftsentwicklung bilden die konzeptionelle Basis für die Mittelfristplanung. 

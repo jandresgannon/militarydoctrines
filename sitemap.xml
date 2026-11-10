@@ -1,47 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/Papers.html</loc>
-    <lastmod>2025-12-08T05:56:13.969Z</lastmod>
+    <loc>https://militarydoctrines.com/content/Papers.html</loc>
+    <lastmod>2026-11-10T00:47:30.287Z</lastmod>
   </url>
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/PDF.html</loc>
-    <lastmod>2025-12-08T05:51:08.619Z</lastmod>
+    <loc>https://militarydoctrines.com/content/changelog.html</loc>
+    <lastmod>2026-11-10T00:47:30.287Z</lastmod>
   </url>
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/Selected_Viz.html</loc>
-    <lastmod>2025-12-08T05:44:06.363Z</lastmod>
+    <loc>https://militarydoctrines.com/content/codebook.html</loc>
+    <lastmod>2026-11-10T00:47:30.287Z</lastmod>
   </url>
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/CSV.html</loc>
-    <lastmod>2025-12-08T05:53:29.108Z</lastmod>
+    <loc>https://militarydoctrines.com/index.html</loc>
+    <lastmod>2026-11-10T00:47:30.292Z</lastmod>
   </url>
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/Affinity.html</loc>
-    <lastmod>2025-04-09T05:20:03.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/index.html</loc>
-    <lastmod>2025-12-07T19:29:14.462Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/Wordfish.html</loc>
-    <lastmod>2025-04-09T05:20:03.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/about.html</loc>
+    <loc>https://militarydoctrines.com/content/about.html</loc>
     <lastmod>2025-12-07T19:19:56.910Z</lastmod>
   </url>
   <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/Data.html</loc>
-    <lastmod>2025-04-09T05:20:03.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/wordcloud.html</loc>
-    <lastmod>2025-04-09T05:20:05.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jandresgannon.github.io/militarydoctrines/content/TXT.html</loc>
-    <lastmod>2025-12-08T05:46:27.344Z</lastmod>
+    <loc>https://militarydoctrines.com/content/data.html</loc>
+    <lastmod>2026-11-10T00:47:30.287Z</lastmod>
   </url>
 </urlset>

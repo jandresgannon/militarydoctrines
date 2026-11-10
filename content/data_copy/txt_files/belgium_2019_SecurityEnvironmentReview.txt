@@ -1,0 +1,1076 @@
+##### B l i D f
+
+
+# 2019 SECURITY ENVIRONMENT REVIEW
+
+
+-----
+
+-----
+
+Deep trends 6
+
+Vulnerability at home 9
+
+Europe 16
+
+Neighbourhood 18
+
+Sub-Saharan Africa and Southern Asia 26
+
+Asia-Pacific 28
+
+The United States 30
+
+Cyber and space 31
+
+Complex security 35
+
+Notes & references 39
+
+
+-----
+
+###### "The liberty of the individual is guaranteed."
+
+Constitution of the Kingdom of Belgium, Article 10.
+
+###### "Enjoyment of the rights and freedoms recognized for Belgians must be provided without discrimination."
+
+Constitution of the Kingdom of Belgium, Article 10.
+
+###### "Everyone has the right to lead a life in keeping with human dignity."
+
+Constitution of the Kingdom of Belgium, Article 23.
+
+
+-----
+
+##### Introduction
+
+In the midst of a secure and enlarging Europe, our country has enjoyed several decades of security and
+prosperity. After the fall of the Soviet Union, no major adversaries were able to threaten our security.
+For many years, the number of armed conflicts, incidents of violence, and refugees decreased. Over the
+last few years, however, as the charts on the following page show, there have once again been more wars,
+conflict casualties, and forcibly displaced people. Despite economic uncertainty, world military
+spending and the arms trade remain at the highest levels since the end of the Cold War and will continue
+to increase. The central question of this security environment review is whether we should indeed expect
+this long peace, this strategic pause, to be drawing to an end, and what the consequences could be for
+our society.
+
+To make a proper assessment of what challenges us, we must first determine what we seek to secure. In
+the end, this can only be our way of life, characterized by some of the core values in our constitution:
+life, liberty, democracy, prosperity, equality, and human dignity. Many of these values are taken for
+granted, but they are increasingly contested inside and around our country. To uphold those values, our
+way of life, the armed forces play a critical role in guaranteeing the security of our citizens, upholding
+our country's freedom of action, securing vital infrastructure, and preserving strength vis-à-vis actors
+that challenge our key values and core political, economic and security interests.
+
+This is the starting point and this is what we have to keep in mind whenever we take stock of our position
+in the world: how are we able to secure these core values and what is threatening them? This report
+reconstructs some important deep trends, takes stock of key security issues in different regions, but also
+evaluates to what extent we, our country and its partners, have also used the strategic pause to make
+our position more resilient. It looks behind and forward; inside-out and outside-in.
+
+This security environment review, the first of its kind, has been prepared by the Belgian Armed Forces,
+benefited from the input of its different services and discussed with various external experts. It is meant
+to inform society, our sole stakeholder, to raise awareness of the international context and impact on our
+country. It is also expected to serve political decision-makers, to provide them with insights for making
+strategy and for discussions about the many decisions that will shape the future of our society.
+
+
+-----
+
+-----
+
+##### Deep trends
+
+The restlessness of today's world is mainly caused by six deep evolutions: a profound shift in the balance
+of power, the explosion of data, efficiency gains in the economy, environmental distress, political
+fragmentation, and increasing lethality.
+
+**Trend 1: Power shift. It is undeniable that, over recent decades, power has shifted away from the Euro-**
+Atlantic world. Our share of the global economy has decreased and that has led to a relative loss of
+political and military influence, of which the consequences are only starting to become clear. This power
+shift is not merely relative. Many citizens in Europe and the United States have been confronted with
+economic stagnation. The ending of the golden age of rapid growth of economic confidence, roughly
+between the mid-nineties and the most recent financial crisis, combined with the rise of new political,
+economic and ideological challengers renders more and more citizens uncertain – and sometimes angry.
+The European Union, the Western world, and their values, are on the defensive.
+
+**Trend 2: Data explosion: Sustained scientific progress in digital storage and energy devices, combined**
+with growing investment, competition, and the development of large production facilities, is causing
+data technology to continue to become cheaper, smaller, and faster. Exponential has become the new
+incremental. This paves the way for more productivity gains through automation and because data
+networks can create markets of unprecedented scale. The difference between human and artificial will
+continue to fade, as wireless devices bring more data processing power to individuals, blend with the
+human body through exoskeletons and various sensors permanently track our emotions and behaviour.
+Key and disrupting innovation in connecting external data to bio-neural networks can bring the image
+of augmented humans or cyborgs closer to reality. The control of both the devices and the data will
+shape the distribution of power the same way as previous industrial revolutions did in the past.
+
+**Trend 3: More economic stress: What exacerbates uncertainty is the fact that societies struggle to handle**
+new efficiency gains from automation and digitization. Whereas productivity gains should be a good
+thing, they also lead to greater difficulties in distributing wealth fairly. They do not always lead to gains
+in wellbeing and happiness. This in turn aggravates the feeling of economic injustice and has led to
+increased support for protectionism in several Western countries. But it also leads to problems in
+countries where a growing population also increases the search for jobs. So, despite technological gains,
+economic confidence does not always grow. The larger that gap between technological progress and
+social confidence becomes, the greater the risk of social instability, protectionist policies, and a retreat
+for globalization.
+
+
+-----
+
+**Trend 4: More environmental stress: We also observe a gap between environmental challenges and the**
+degree to which new technologies are used to combat them. As a result of poverty and bad governance,
+science and technology are often only applied slowly, to promote sustainable farming, for example, or
+to mitigate climate change and alleviate water scarcity. With world population set to rise from 7.6 billion
+in 2019 to 8.6 billion by 2030, this will cause enormous challenges. By 2030, Europe, with an ageing
+population below 500 million inhabitants, will sit amidst two vast landmasses. Over 4.7 billion people
+will live elsewhere in Eurasia and 1.7 billion people on the African continent, many of them in precarious
+environmental circumstances.[1] This will undermine the stability of states, incite more competition for
+natural resources, inside and between states, and enlarge intra- and trans-regional migration.
+
+**Trend 5: Political fragmentation: While there exists a need for international cooperation on the**
+numerous economic, environmental, and security issues, synergy is thwarted by political fragmentation.
+There is political fragmentation inside and between countries. Internally, state structures are challenged,
+mostly through polarized voting by their own citizens, who have lost confidence. The result is often an
+awkward mixture of political fragmentation and nationalism, of actors seeking to weaken the state and
+state elites seeking to preserve it. It also thwarts cooperation across borders. Multilateralism, one of the
+pillars of Belgian foreign policy, is on the retreat. Global organizations are not being strengthened and
+often replaced by regional, plurilateral or bilateral initiatives.[2] International regulations and law are
+defied.
+
+**Trend 6: Growing lethality: Making that context more complicated is the growing lethality of weapons.**
+The latest Russian intercontinental ballistic missile, for example, is able to carry a charge of more than
+40 megatons, or 2,000 times the bomb dropped on Hiroshima. New conventional explosives can be much
+more powerful than traditional explosive materials; projectiles pierce the toughest armour. Combined
+with cheap delivery vehicles, this evolution compels our armed forces to adjust. Moreover, the erosion
+of Cold War arms limitation agreements, the vague doctrines of some nuclear powers, new kinds of
+missiles, and the growing importance of cyber and space mean that the line between strategic deterrence,
+premised on the capability of mass destruction, and other forms of warfare continue to blur.
+
+These deep trends will not disappear. We expect them to have a far-reaching and lasting impact on our
+security. Equally, these trends will defy international partnerships and organizations, however much
+we as a small country have come to depend on them. This requires our country to maintain and enhance
+the capacity to reflect carefully upon the evolving security environment, to assess existing threats, and
+to anticipate new ones. But it also demands introspection, systematic monitoring and reporting on our
+country’s position, including its vulnerability and strength. Preserving security starts with awareness of
+your own strengths and weaknesses.
+
+
+-----
+
+##### Vulnerability at home
+
+Belgium is a small yet rich country in the geographic heart of western Europe. It has the thirteenth largest
+population and the eleventh largest economy in Europe. It is one of the best countries to live in. The
+quality of life and wellbeing, as perceived by its citizens, is good. It is above the European average, yet
+still significantly below other countries of comparable size in north-western Europe, such as the
+Netherlands and Denmark.[3] As regards important building blocks of national power, such as social
+cohesion, quality of governance, economic strength, and external resilience, Belgium performs averagely
+and less well than comparable countries such as Austria, Denmark and the Netherlands.[4]
+
+Belgium remains the most globalized country in the world.[5] Globalization has allowed our country to
+profit from foreign investment, access to foreign markets, and from its growing role as a centre of
+international governance. Yet, in a world of growing economic nationalism, this exposure also creates
+dependency and vulnerability. Foreign companies, for example, control around 47 percent of Belgian
+intellectual property and 55 percent of industrial production.[6] As much as 76 percent of the energy we
+use depends on imports.[7] This dependency is larger than in comparable European states.
+
+Belgium depends heavily on the international market, but international actors are critical of the
+evolution of our country. On the one hand, international organizations praise assets, like our unique
+geographic position, relative high level of wellbeing, and education. Yet, on the other hand, the World
+Bank reports that the quality of governance, administration, and regulation has decreased and lags
+behind comparable countries.[8] This was echoed by other institutions.[9] Important organizations have
+stated that the productivity of our country remains behind its peers, that structural unemployment is
+high despite labour shortages in certain sectors, that public debt levels are still high, that there is
+underinvestment in infrastructure, and that progress on environmental issues has been too slow.[10]
+
+The Federal Planning Bureau expects the economic situation to remain complex in the medium-long
+term, with slower growth in the Eurozone, a growing risk of deteriorating trade relations, and relatively
+slow economic growth in our country as a result.[11] Belgian citizens themselves are critical as well. Only
+28 percent expect the future to be better. Trust in the government is below the levels in comparable
+countries, as is satisfaction about how our democracy works. Around 58 percent of citizens assess the
+economic situation to be good, while the average is above 75 percent in north-western Europe.[12] As much
+as one fifth of the population feels itself poor.[13]
+
+
+-----
+
+**Less influence**
+
+In terms of security and defence, this has important consequences. While international threats grow,
+economic fragility usually leads to frustration, unrest, and fragmentation at home. This is especially so
+when economic fault lines coincide with cultural divisions, as we have seen with the problem of religious
+extremism. But it also applies to society at large, as we have witnessed with the emergence of the Yellow
+Vests movement. And while economic uncertainty increases the need for a globalized country to
+preserve balanced economic partnerships, the relative decline of power will make it more difficult to
+shape relations with other countries. Even for small countries, power matters.
+
+The weakening of Belgium’s economic and political position makes wielding influence abroad less selfevident. This is of importance first of all in the European context. Belgium has lost relative economic
+power compared to most of its neighbours and has become increasingly dependent on those neighbours'
+investments and energy supply. Experts have also highlighted the disadvantage of this relative
+weakening and complex political structure in terms of diplomatic credibility. While Belgium has an
+interest in European cooperation, it often lacks sufficient financial resources to contribute to the
+implementation of European projects, which leads to unequal engagement, and insufficient political and
+administrative efficiency to respond quickly to challenges and opportunities in the European context.
+
+In the domain of military affairs, this has led to an ambivalent situation. While the government has stated
+the need for a stronger European defence, the Belgian contribution to a solid European defence has
+decreased. Belgium counts for about 2.8 percent of Europe's GDP, but only represents 1.8 percent of total
+European defence spending. This share was still 2.1 percent in 2008. Belgium’s share of European
+defence R&D dropped from 0.8 percent to 0.3 percent between 2008 and 2018. The share of troops in
+foreign operations has decreased from 1.3 percent in 2008 to 1.2 percent in 2018.
+
+Limited resources also make it harder to participate in European defence equipment projects that might
+benefit the domestic industry. Already, the armed forces face difficulties in finding sufficient qualified
+personnel to guarantee that our country has a seat around the table for new important initiatives relating,
+for example, to the defence industry, to follow up on these initiatives, and to liaise with other domestic
+departments or industries. European cooperation can create opportunities, but it also demands
+significant investment in terms of human resources, particularly as presence also needs to be guaranteed
+in other contexts, such as NATO.
+
+
+-----
+
+**Greater constraints, greater responsibility**
+
+We should expect budgetary choices to remain difficult. While the necessity for sustained investment in
+security and defence becomes more pressing, there is also a need for investment in public infrastructure,
+from schools to energy, and an expectation by our citizens that their standard of living will be preserved.
+This makes it even more imperative to clarify the importance of the armed forces and how they provide
+security with a rather small budget. An average Belgian citizen still spends many times more on various
+luxury products, such as pet food and the lottery, than he/she contributes via taxes to the defence of the
+country.[14] At times of financial scarcity, clear communication towards society is key.
+
+Communication, however, is not enough. In a context of growing challenges and limited budgets,
+effectiveness is of the utmost importance. That requires the armed forces to strengthen their capacity to
+scan the security environment, to assess threats, and to explain very transparently its recommendations
+to the population and decision-makers. Effectiveness means sufficient means, clear priorities, leadership,
+professionalism, and cooperation wherever possible. This makes a genuine integrated security and
+defence strategy in which all actors seek excellence in their core business indispensable.
+
+As the economic context will continue to be taxing, the armed forces are encouraged to explain not only
+how they use financial resources efficiently, but also how they contribute to the financial soundness of
+our country. Each euro spent on the armed forces is expected to protect 444 euros of economic interests:
+industrial infrastructure, trade, and so forth. But the economic context also compels the armed forces to
+become a catalyst of innovation, together with universities and companies. If our country seeks a return
+for expenditure on defence material, it needs to participate in its development.
+
+**Internal security challenges**
+
+Terrorism remains security threat number one for the majority of our citizens. The terrorist attacks of
+2016 have exposed to our country the vulnerability of critical infrastructure and the fact that security
+threats do not stop at the border. Even if borders are closed, radical ideas and financing of terrorist
+groups continue to cross national borders. Besides the human casualties and the consequences in terms
+of social polarization, terrorist attacks have caused 2.3 billion euros in economic damage.[15]
+
+
+###### "Each euro spent on the armed
+
+ forces is expected to protect
+
+ 444 euros of economic
+
+ interests."
+
+
+-----
+
+Since the terrorist attacks of 2016, no such major incidents have occurred. Yet the root causes of
+radicalism remain present. The economic, social and cultural divide between different groups in our
+society is still very large and could be exacerbated both by more economic uncertainty and security
+incidents. Islamic extremism and the terrorist attacks have clearly sparked a counter-reaction from
+rightist movements. Radicalism triggers radicalism. Even if the number of truly radicalized people is
+small, their influence spreads rapidly and the impact of new violent incidents can be devastating. As a
+result of the difficulty of constraining and preventing this phenomenon, it is likely that the armed forces
+will continue to have to play a role in protecting our society against extremist violence.
+
+This underscores again that our country is in need of a more integrated security strategy that clearly
+identifies and divides responsibilities between different services from prevention, to early detection and
+intelligence, disruption, dissuasion, defence, prosecution and re-integration. The armed forces stand
+ready to protect our society and its citizens at all times. But, given the need for efficiency and the growing
+insecurity abroad, priorities need to be clear and emergency situations clearly defined and limited in
+time. Between 2016 and 2018, 3,246 soldiers participated in homeland defence; whereas only 1,947 could
+be deployed abroad. Soldiers did not expect to be deployed as policemen.
+
+Still, in case of terrorist and other similar security threats at home, the armed forces are ready, as a last
+resort, to provide highly trained forces in support of the police. In addition, as the recent terrorist attacks
+highlighted, the expertise of the armed forces in handling and dismantling explosive devices are
+available in such circumstances.
+
+The tenacity of terrorism and radicalization requires the armed forces to help contain them, in support
+of domestic security services. The military intelligence service, the General Intelligence and Security
+Service, is and will remain present in countries that are a breeding ground for terrorism. The military
+intelligence service, together with the Centre for Cyber Security and other departments, is tasked with
+building a basic capacity to guard the internet, with an eye on terrorism, misinformation and
+propaganda. It has a specific responsibility for monitoring information and propaganda wars waged by
+other states to the detriment of our national security and the core values enshrined in the constitution.
+
+Belgian cities are very open and have depended on their openness to host important European and
+international organizations. The result of this, however, is that your cities are important targets for
+foreign infiltration, espionage and misinformation. Geopolitical rivalry and hybrid war, in which states
+often seek to advance their interests and influence through proxies in other states, will likely only
+increase this vulnerability. The military intelligence service will continue to support the State Security
+Service in this regard in tracking and answering such threats.
+
+
+-----
+
+**Economic security**
+
+Besides terrorism, the main concern of our citizens remains the state of the economy. The resilience of
+our national economy depends above all on entrepreneurship, creativity, sustainability and
+inclusiveness. The armed forces play an important role in this regard in preserving a secure environment
+in which entrepreneurs can flourish. We expect this contribution to become more important in a time of
+geopolitical and geo-economic turbulence.
+
+With the rise of economic nationalism, aggressive industrial policy, and the desire of developing
+countries to rapidly modernize their militaries, there is also a rising threat of industrial espionage.
+Industrial espionage is estimated to have cost the European Union over one million jobs. It erodes our
+national economy's core advantage: brains and knowledge. As our economy thrives on many small yet
+highly innovative companies, some of them active in security-sensitive fields, this makes it more difficult
+to guard our scientific knowledge against intellectual property theft. The military intelligence service,
+through its capacity in cybersecurity, is ready to support other actors in combating industrial espionage.
+
+The armed forces are indispensable to protecting economic lifelines. This applies to maritime trade. One
+major incident on the River Scheldt could cost our economy around 30 million euros per day; one major
+incident on a busy corridor in the North Sea could cost around 50 million euros per day. Navy patrol
+and mine countermeasure ships remain ready to deal with such disturbances. But the challenge to
+maritime trade is not confined to our littorals. Ports depend on access for shipping to some of the most
+insecure chokepoints in the Middle East and East Asia, and on seas that are contested by major powers.
+The Navy has been and will continue to be deployed to protect our maritime lifelines in distant seas and
+to contribute to international efforts to secure shipping. Moreover, our special forces have trained to
+intervene in case of threats to port infrastructure.
+
+Each hour, about 36 international flights depart from or arrive at our national airports. About 8 of them
+cross Europe and come from or are bound for countries outside the European Union. Millions of citizens
+and billions in economic value depend on the security of our airports and international airspace. Our
+soldiers have helped secure airports. As air traffic above our country grows by five percent each year,
+fighter jets need to remain ready 24/7 to scramble whenever incidents occur. To guarantee the security
+of our airspace, the armed forces contribute to air traffic control and develop a capacity to identify and
+intercept drones. The downing of flight MH17 shows that civilian airlines are also vulnerable to the
+proliferation of advanced missiles. The armed forces will go on monitoring this threat and contributing
+to operations against armed groups that are or could become operators of surface-to-air missiles. Finally,
+
+
+-----
+
+we see growing security risks in countries that are important for airlines operating from Brussels and
+thus consider the need to provide assistance whenever required.
+
+Today, most citizens and companies trust that their data are secure, even though they are often
+channelled back and forth across the globe. Some of these data concern private information, some
+sensitive economic information, others financial transfers, as part of our financial wealth too has taken
+on the form of data on a server. Even though these data are encrypted, adversaries, state and non-state,
+are increasingly able to disturb data flows and even to crack their encryption. Electronic espionage,
+disinformation campaigns via social media, and cyberwarfare pose increasingly important threats to the
+resilience of our society. Military intelligence has the job of warding off cyber-threats, but with
+technology developing extremely fast this will become harder and harder. Furthermore, major powers
+are searching for the weakest spots in data infrastructures. For instance, special navy surveillance ships
+have been detected above cables on the seafloor and various countries have developed strategies to
+"blind and deafen" satellites.
+
+It is not only goods and passengers that travel across borders, diseases and pandemics do so too. One of
+the tragic consequences of populations growing in poverty is that many megacities or densely populated
+rural areas in the South remain prone to outbreaks of pandemics. As the Ebola virus, for example,
+spreads in central Africa, the N7H9 flu is still far from exterminated in Asia. Meanwhile, global financial
+commitments to combat pandemics are not fulfilled and countries are reluctant to share information,
+which hampers an effective international response.[16] Belgium has been commended for its capacity to
+respond to pandemics, to which the armed forces make important contributions, but several weaknesses
+in terms of our capabilities and internal coordination remain.[17]
+
+Of all the countries in Europe, Belgium is the most dependent on external energy supply. Whereas
+increasing energy efficiency remains one of the best ways to limit this vulnerability, the armed forces are
+key in securing energy lifelines. The Belgian Pipeline Organization not only secures oil and kerosene
+supplies through Europe in times of crisis, but also supplies strategic facilities like airports throughout.
+With 800,000 families now depending on offshore wind energy, the protection of cables on the seafloor
+will become increasingly important. Despite the push for renewable energy, our country will still rely
+on the supply of fossil and nuclear fuel from unstable regions, which compels our armed forces to
+contribute to the protection of external sources and corridors of supply, and the stability and prosperity
+of relevant countries.
+
+
+-----
+
+_Figure: Overview of security threats to key economic lifelines._
+
+
+-----
+
+##### Europe
+
+Whereas we have long taken European integration as a given, the European project has lost traction and
+that has major consequences for the position and security of our country. The European Union is a
+project of geopolitical importance. It seeks to preserve the peace between the large member states, with
+the bloodshed of previous centuries in mind. It is meant to be a check against dictatorship, considering
+the oppression of the Soviet regime and undemocratic regimes in southern European countries in more
+recent history. It is also supposed to uphold some of the core values promulgated in our constitution.
+Moreover, European integration is crucial to lowering the costs of trade with our main partners. Any
+setback in European cooperation would be to the detriment of our national interests and values.
+
+But Europe is not a given. One of the problems of the European project is that, while it still has the quiet
+support of around half of the population, it faces a much more vocal opposition of about one third of the
+population that is sceptical. In some countries, like the United Kingdom, such scepticism has been
+historical. In other countries, negative attitudes have been exacerbated by a combination of economic
+distress, the distance between the European institutions and citizens, Eurosceptic populism, and the
+difficulty in managing the migration crisis.
+
+Either way, Europe remains fragile. Even if the Eurozone has recovered after the crisis, internal
+imbalances are still large, purchasing power and private sector employment have only grown slowly,
+and Member States are reluctant to make it stronger. Eurosceptic parties have gained ground and
+increasingly organize themselves across borders, while mainstream parties have also become more
+reticent to deepening European unity and are challenging cohesion with more nationalistic economic
+policies and free-riding. The same goes for migration. Since 2015, flows of refugees and immigrants have
+become significantly smaller, but the problems that remain with regard to external border control,
+reception, and integration might go on to fuel Euroscepticism.
+
+The contribution of our country to European defence and security has decreased to the point that
+questions can be asked about Belgium’s compliance with key stipulations of treaties, such as Article 42(3)
+of the Treaty on European Union, which requires Member States "to improve their military capabilities"
+and to make them available for common security and defence policy. If our economic production is
+2.8 percent of the European total, defence spending was 1.8 percent in 2018 and the share of total
+European troop deployments 1.2 percent. Compared to 2008, these shares have decreased. Both in the
+context of NATO and the EU, as well as in bilateral partnerships, our country has been urged to do more.
+Should this not change, Belgium risks finding it more difficult to influence European initiatives and
+contribute to possibilities for collective security that make our citizens secure.
+
+
+###### "Belgium risks finding it more
+
+ difficult to influence European
+
+ initiatives and contributing to
+
+ possibilities of collective security
+
+ that make our citizens secure."
+
+
+-----
+
+Europe's internal stagnation and fragmentation risks accelerating the region's relative decline with
+respect to the world's main powers. Not only has its economic production hardly grown in absolute
+terms since 2009; its share in world economic production has decreased from 27 to 20 percent in the last
+ten years. Its share in high-tech exports shrank from 35 to 28 percent during the same period. The
+challenge for Europe will be to preserve its power in a world that has become much more competitive,
+with an economy that is no longer so productive and a population that will continue to shrink. By 2030,
+Europe will probably only represent 6 percent of the world’s population, with about 40 percent of that
+population being over 50 years old.
+
+Its share in global defence spending has dropped to 14 percent. In absolute terms, European Member
+States' defence spending decreased by about US$ 60 billion between 2008 and 2018. During the same
+period, defence spending by the countries in Europe's neighbourhood, including Russia, Turkey, and
+Saudi Arabia, increased by US$ 45 billion. European defence budgets are expected to increase, albeit
+slowly, and depending on economic conditions. And despite these increases, force levels are set to
+continue to fall, in terms of military personnel, as well as major systems, such as surface combatants and
+fighter jets. As a result, as shown in Kosovo and Libya, European countries are not able to conduct largescale military operations independently.
+
+Despite growing public and political concern about Europe's lack of innovation in key military
+technologies, the United States still spends ten times as much on defence-related research and
+development each year, China four times as much.[18 ]In critical domains, like cyber and space, as well as
+the application of artificial intelligence, certain missile technologies and electronic warfare, the European
+Union will find it increasingly difficult to preserve its capacity on par with certain major powers.[ 19]
+Recent initiatives like the European Defence Fund (EDF) and the Permanent Structured Cooperation
+(PESCO) are a first step forward but likely not sufficient to catch up.
+
+The relative weakening of the European Union has important consequences for our country. More
+political and diplomatic efforts will be required to understand and respond to challenges and changing
+alignments between Member States. As a result of the relative weakening of Europe, Member States
+might be more inclined to advance external partnerships with other powers, which might undermine
+cohesion further. The European Union will continue to be obliged to respond to different kinds of
+security threats on different parts of its border at the same time. The more it fails to do so, the more its
+internal legitimacy will erode. With the current commitments and given the budgetary uncertainty, we
+cannot take for granted that European countries will succeed in rebalancing the Transatlantic
+Partnership and make a greater contribution to NATO, which affects the resilience of this alliance.
+
+
+-----
+
+-----
+
+###### Neighbourhood
+
+The weakening of Europe has diminished its presence and influence in its neighbourhood at a moment
+that instability around Europe is on the rise. Europe has become less important as a trade partner to
+many countries in the vicinity. Countries like China, Turkey, and the Gulf States have become an
+alternative investor. European development aid, while still being the largest, has been stagnant and
+challenged also by large volumes of loans from new creditors. As a result, many countries surrounding
+Europe have diversified their foreign policies away from Europe.
+
+In this regard, a growing contradiction is emerging between, on the one hand, the expectations of
+European countries towards neighbouring states to help manage challenges like migration, terrorism,
+and armed conflicts and, on the other hand, their ability to preserve Europe's position as a credible
+partner and a security provider. The isolationist tendency in certain European countries could confirm
+the image of Europe vacating certain parts of its neighbourhood and embolden others to fill the potential
+void.
+
+While European defence spending has decreased, the spending levels of our neighbours have increased.
+Consequently, while European countries are experiencing more difficulties in contributing to operations
+in the neighbourhood, other powers are using their military power more assertively – inside, around,
+and beyond their borders. As Europe’s capabilities of projecting military force have decreased, external
+powers such as China have stated the objective of increasing their presence in Europe's neighbourhood,
+especially in the Mediterranean, but also in the Atlantic Basin, potentially via the Arctic Sea.
+
+
+-----
+
+**The north-east**
+
+The Artic Sea is transforming from a strategic backwater into a key arena of competition. Efforts towards
+multilateral cooperation have had modest results. With the melting of the ice, the Arctic Sea will become
+an important gateway to the Atlantic Basin, both for traders and for soldiers. The Arctic is important for
+the security of satellite communication, nuclear deterrence, and conventional force projection. In
+addition, it plays a role for powers, such as China and Japan, to diversify maritime shipping. In fact, a
+new competition seems to have started for dominance in the whole maritime belt around Eurasia – thus
+including the Arctic.
+
+One of the countries that is rapidly increasing its military presence in the Arctic is Russia. By population,
+Russia remains Europe's largest country and biggest military spender. But its economy only ranks fifth
+and its population is stagnant. The strategy of the Russian government is to protect sovereignty and to
+advance its influence with a combination of relatively low-cost anti-access and area-denial measures, the
+use of proxies in other states, robust strategic deterrence, and other means. While it has long since
+abandoned the no-first-use principle in nuclear deterrence, it has created uncertainty about also using
+nuclear weapons to retaliate in conventional conflicts – "escalate-to-de-escalate" – and has developed
+several weapon systems that can be both tactical and strategic. This compels countries like ours to reflect
+upon the repercussions for the nuclear posture of NATO and partner countries. While tensions have
+somewhat abated since the Crimean Crisis and the downing of flight MH17, Russians are sceptical of a
+detente with the West and Russian public distrust of the US has increased significantly. The result is
+enduring ambivalence. While trade with Europe is significant, distrust and military competition remains.
+
+These tensions have repercussions for stability in our common neighbourhood, including the Baltic Sea,
+Belarus, Moldova, Ukraine, and the Black Sea. Most of these countries are poor and weak, and, as a result,
+nervously try to balance between Russia and the West. The balance of power remains precarious. Eastern
+European Member States are worried about Russian A2AD-bubbles (anti-access and area-denial) in the
+Baltic and Black Sea. From Crimea and Kaliningrad, sophisticated air-defence and anti-ship missile
+systems have been deployed. They can limit the freedom of movement of and threaten assets near Russia,
+above international waters, but also inside the borders of European Member States. Russia is also
+deploying a series of small new navy ships and aircraft equipped with advanced missiles. As a result,
+eastern European Member States are keen on a larger NATO presence, which in turn makes the security
+dilemma with Russia more pressing.
+
+
+-----
+
+-----
+
+**Eastern Mediterranean**
+
+Beyond the Black Sea, in the Balkans, the European Union has played a crucial role in stabilizing the
+region after the violent collapse of the Republic of Yugoslavia. Decades of European engagement have
+helped prevent violence from rekindling. But a combination of poverty, protracted ethnic tensions, and
+fragile democracy mean that stability in the region is far from firm. Despite progress, for instance, in
+relations between Greece and the newly renamed Republic of North Macedonia, the situation remains
+sensitive in Bosnia-Herzegovina, Kosovo, and between Kosovo and Serbia. Against the backdrop of
+relatively young, fragile states, organized crime is widespread and so is competition for influence by
+regional powers.
+
+Onwards, in the eastern Mediterranean, Turkey is an ambitious yet vulnerable regional power. Its
+population is growing, but it is marred by economic fragility and internal tensions. Despite its role in
+managing refugee flows, its strategic importance as a gateway to Asia, and large trade volumes, Turkey
+has been diplomatically estranged from Europe and politically entrenched into strong presidential
+leadership. Moreover, in Turkish strategic thinking, Europe, as a result of its military weakening, does
+not figure as an important strategic actor. Hence, we should expect no improvement in the territorial
+disputes in the Aegean Sea, the Cyprus question, and the competition for energy reserves in the eastern
+Mediterranean seabed.
+
+In the Levant, Syria remains a smouldering conflict, with frequent eruptions of fierce violence, as a result
+of factionalism, the enduring presence or terrorist groups, and the interference of regional powers. As
+much as the Syrian War was driven by internal tensions, rivalry between regional powers make a new
+status quo improbable, with a risk that insecurity broadens into Lebanon, Turkey and other countries.
+The security situation is rapidly worsening in the Palestinian Territories; Israel’s attitude to defending
+its national security is hardening. Islamic terrorism is far from vanquished.
+
+
+-----
+
+**Southern Mediterranean**
+
+In the Mediterranean, Europe has been focused on the flows of migration and refugees. These flows will
+not disappear, as conflicts around the Mediterranean remain rife, large numbers of people live in poverty,
+and climate change makes living conditions more difficult. Without major mitigation measures, climate
+change and urbanization will lead to agricultural output in the southern part of the Mediterranean
+stagnating or decreasing. At the same time, the Mediterranean is again a theatre of great power
+competition, with, besides the traditional US presence, Russia seeking to maintain is military facilities in
+Syria and China readying to back its New Silk Road with more frequent naval deployments and other
+military engagements. While challenges grow and external powers are moving in, southern European
+Member States see their security capabilities constrained by economic difficulties.
+
+Egypt is the pivot between Africa and the Levant, and its Suez Canal is a vital trade route on which our
+energy security and maritime trade depends. With a population set to rise to 160 million by 2050 and
+considerable energy deposits found offshore, it has the potential to become a regional power. Stability
+has largely returned after the 2011 uprising, but at the expense of political liberty and masking economic
+problems, like high inflation, water scarcity, and worsening conditions for millions of small farmers. The
+fundaments of Egypt's apparent success are not solid. At the same time, the government is developing
+ever closer ties with Russia and China, including in defence.
+
+Egypt is surrounded by insecurity, the Sinai Desert, where armed groups operate, and Libya. Since the
+2011 allied intervention and the death of strongman Gaddafi, the state structure in Libya has almost
+disappeared, turning the area into a corridor of crime, including human trafficking and slave trading,
+between the Sahel and the Mediterranean and, increasingly, a sanctuary for terrorist groups, including
+ISIS. Besides the domestic casualties, this situation imperils neighbouring countries and maritime trade.
+More incidents of piracy and cross-border operation of terrorist groups are likely.
+
+Tunisia is one of the possible targets. This small country is the only remaining democracy in northern
+Africa, but very prone to radicalism and economically weak. A vast country, Algeria could become one
+of the main flashpoints in the region. A difficult political transition looms as the incumbent president
+holds on to power, despite growing opposition, rallying for influence in his own entourage, and there
+are severe economic problems. Of all the north African countries, Morocco appears the most stable, but
+with insecurity almost all around its borders.
+
+
+-----
+
+**The Atlantic Ocean**
+
+As the North Sea is a marginal sea of the Atlantic Ocean, Belgium is an Atlantic country. For many
+decades, we have considered security in the Atlantic Ocean as a given. The ocean was a highway for
+trade; not a security issue. Today, however, there is growing uncertainty about the intentions of the main
+Atlantic power, the United States of America, but also about the strength and position of the United
+Kingdom. Whatever the status of the UK might be with regard to the European Union, the country faces
+important internal economic and political challenges and could therefore be held back in its aspirations
+to be a global military actor.
+
+Against that backdrop, Russia is making its return to the Atlantic Ocean and the North Sea. Its navy and
+air force are again more present, up to our national border. As the military capabilities of the Atlantic
+countries are strained, it is less self-evident that Russian submarines and intelligence collection ships
+will be kept track of. Moreover, China too is dispatching its navy more frequently into the Atlantic,
+where it has done joint exercises with Russia. On the other side of the Atlantic Basin, both Russia and
+China are challenging American dominance by establishing closer ties with various Latin American
+countries.
+
+Poverty and political instability affect several countries around the Caribbean Sea. This includes
+European countries with overseas territory and exacerbates security threats such as drug trafficking to
+Belgian ports, but also indirectly by ship or plane via Highway 10 to western Africa. There, littoral
+countries are often incapable of preserving security at sea. Transatlantic trade in drugs, slaves, and arms
+coincides with piracy, enriches armed groups, provides an incentive to sustain conflict economies and
+undermines statehood.
+
+
+-----
+
+**The southern belt**
+
+European and US troops have prevented a terrorist takeover in the Sahel, the belt that runs from the
+Atlantic to the Red Sea, just south of the Sahara. They have pushed back terrorist groups including the
+Islamic State and Al-Qaida in various countries and halted rebel groups marching towards the capital
+of Mali. The presence of these troops remains crucial, but operating in this vast sea of sand is taxing.
+Without structural political and economic progress, it risks becoming a long-term burden, particularly
+because climate change risks agricultural production diminishing rapidly.
+
+The Red Sea is the maritime gateway between Europe and Asia, channelling over half of Belgium's
+seaborne trade. The security situation in this sea is deteriorating. In the last few years, there have been
+several incidents of piracy. In Yemen, rebels respond to the superior military power of Saudi Arabia by
+disturbing shipping through Bab-el-Mandeb. Using anti-ship missiles, naval mines, and other weapons,
+even very large oil tankers are targeted. Peace in Yemen is unlikely to return soon. On the other side,
+littoral states like Eritrea and Somalia will continue to struggle with instability. While it is in the interest
+of the international community to jointly address this situation, competition between great powers
+around the Red Sea is growing, with China, Russia, Japan, and others developing military strongholds.
+
+Large countries, including Saudi Arabia and Iran, have become more assertive, partly as a result of their
+ability to diversify partnerships among the main powers and partly to propagate nationalism to preserve
+the legitimacy of political elites against the backdrop of economic difficulties. If Saudi Arabia is by far
+the biggest military spender, Iran responds by means of asymmetric warfare, including missiles,
+weapons that threaten shipping through the Strait of Hormuz, and financing rebel groups throughout
+the region. As the West is winding down its presence in the Middle East, those regional powers, as well
+as Turkey, Russia, and China, are advancing. Countries like Iraq, Syria, and Yemen remain arenas of
+competition yet with different protagonists.
+
+
+-----
+
+-----
+
+###### Sub-Saharan Africa and southern Asia
+
+Beyond this, one of the most rapidly transforming regions consists of sub-Saharan Africa and southern
+Asia. The population in this area is growing by 5 million each year in a most difficult economic and
+environmental context. Despite some optimism, sub-Saharan Africa fails to catch up. In the last ten years,
+income per capita in this region has barely grown, unemployment has not decreased and key sectors
+that drive productivity, like manufacturing, have scarcely expanded. At the same time, the number of
+armed conflicts increased and the number of refugees in the region grew from 2 million in 2008 to over
+6 million last year, with a very high risk of more instability in several countries.
+
+In comparison, southern Asia has achieved somewhat more positive economic results, although income
+per capita remains very low, manufacturing growth remains a long way behind, and infrastructure is
+poor. India has the potential to become a major power, but its economy remains fragile, its political
+system fractured, and its society again more and more impaired by ethnic and religious divisions.
+Militarily, India is severely constrained by limited budgets. The situation in other countries, including
+Afghanistan, Pakistan, Nepal, and Bangladesh is and will remain unstable. Despite economic constraints,
+the military build-up in southern Asia continues. Competition between India and Pakistan, two
+countries that possess nuclear weapons, will persist.
+
+Complicating the strategic landscape is the rivalry in and around the Indian Ocean, also an important
+transit zone for the maritime trade of our ports. If countries around the Indian Ocean have barely
+profited from globalization, external powers seek to secure their growing commercial interests. China is
+rapidly expanding its footprint all around the Indian Ocean Basin, including eastern Africa. Its navy has
+become more present and military cooperation with several countries is deepening. As the United States
+and Europe find it less and less obvious to preserve their military presence along strategically important
+sea lanes, such as the Gulf of Aden and the Bay of Bengal, China could emerge as a key new military
+power, sparking tensions with India.
+
+Both sub-Saharan Africa and southern Asia will be hit very hard by climate change. Agricultural
+production could drop by 10 to 30 percent as soon as 2030.[20] This could lead to about 110 million climate
+refugees, on top of a regional internal migration that already involves around 30 million people.[21]
+Governments and the international community are aware, but mitigation measures are only slowly
+being implemented. Consequently, famine could again spread. The population driven to impoverished
+and insecure urban slums in this region could reach 1.5 billion people by 2050.[22] This will inevitably add
+to the migration pressure on Europe and undermine efforts to build stable states.
+
+
+-----
+
+_Figure: Security issues in the global south._
+
+
+_Figure: Security issues in the global south._
+
+
+-----
+
+##### Asia-Pacific
+
+Looking eastward, the rise of China as Asia's leading power has far-reaching consequences for the
+regional and global security outlook. In many ways, China remains a fragile power. A significant part
+of its population remains poor, its economy unbalanced, and the environmental challenges significant.
+Yet, most of its neighbours are either growing more slowly or are marred by more severe domestic
+challenges. China's share of Asia's economic production has grown from 14 percent in 2000 to 49 percent
+in 2018, and at the current growth rate could reach 57 percent in the next ten years.[23] China's share of
+Asia's defence spending is now 51 percent, meaning that it spends more on defence than its neighbours
+combined.
+
+The security repercussions of China's ascent are manifold. China asserting its claims on Taiwan, adjacent
+seas and the contested border with India more assertively could lead to incidents and possibly armed
+conflicts. It remains to be seen how the United States will respond to China's challenge to its leadership.
+Growing distrust between the two powers already complicates international cooperation. It is clear that
+a new military arms race between the two is unfolding. This involves competition for military supremacy
+in the Pacific, exacerbates rivalry in space and cyberspace, and accelerates the development of new
+weapons, including all sorts of missile systems and unmanned combat vehicles. For the first time since
+the fall of the Soviet Union, countries must consider the prospect of a new major power war.
+
+We are seeing the formation of a long Pacific front line, with lesser powers attempting to preserve their
+sovereignty and influence in between China and the United States. Regional tensions and great power
+politics are intertwined. From north to south, there is the territorial dispute between Russia and Japan,
+the uncertain outlook of North Korea as a nuclear power, tensions between China, Japan, and South
+Korea, partially over the East China Sea, Taiwan's struggle for autonomy, and the territorial conflicts in
+the South China Sea.
+
+Unchecked, a rising China will also advance its interests more assertively beyond the Asia-Pacific region.
+The whole of Eurasia could turn into a single arena of great power competition. Countries like China,
+Russia, and Iran, despite mutual distrust, work together from the geographic centre, and are also
+challenging Western dominance in the maritime belt around Eurasia – from the Indian Ocean to the
+Arctic, and from the Atlantic to the Pacific. China also challenges some of our constitutional values.
+While China's leadership initially insisted that all politics should remain domestic, the current leadership
+suggests that its authoritarian system offers a new option for other countries.[24] This new competition
+blends geo-economics and geopolitics. It is about economic means to advance political power, and vice
+versa.
+
+
+-----
+
+-----
+
+##### The United States
+
+China's transition challenges the bedrock of US strategy, namely that the best way to preserve security
+is to preserve supremacy.[25] The challenge to American supremacy does not only come from outside,
+though. The US has significant advantages, like the world's most formidable military, a large economy,
+abundant natural resources, and technological leadership. But compared to those economic and military
+capabilities, the country suffers from social and political tension, including income inequality, racial
+discord, the proliferation of firearms, partisan tensions, and low levels of political trust. The American
+golden age of confidence that followed the defeat of the Soviet Union seems to have paused.
+
+In terms of foreign policy, America has become more reluctant to engage internationally, to sacrifice
+freedom of action to sustain international rules, and to invest in its alliances. As the strategic focus is also
+shifting to the Asia-Pacific region, Europe is often left disorientated. Europe remains dependent on
+American military assets and it would be incapable nowadays of sustaining large military operations
+without American support. Yet there is uncertainty about America's intentions towards NATO,
+economic relations, Russia, the fight against terrorism and arms control.
+
+Is America's insistence on larger European contributions to NATO and more balanced trade part of a
+transition period that will lead to a new beginning of a more resilient partnership, or will it be the
+beginning of the end of that partnership? Either way, it confirms the need for small countries like ours
+to be alert, to step up their own capability to keep track of changes in the world, to articulate their
+interests, and to indeed contribute more to making the transatlantic partnership balanced and strong.
+European countries need to respond to the fact that the Pacific will become more important to the United
+States and that Sino-American rivalry will only accelerate the race for economic and military innovation,
+with Europe in danger of being caught fragmented and weakened between these two giants.
+
+This could be particularly manifest in more recent spheres of warfare, such as cyber and space. While
+the US has led the Internet revolution, China is working hard to reduce its reliance on American servers,
+chips, and software, but at the same time is rolling out its own Digital Silk Road. As regards cyberwar,
+the US government spends over US$ 5 billion on military capabilities; and US$15 billion on overall
+cybersecurity. In space, China now runs its own global navigation satellite network and competes with
+the US for new technologies like quantum communication, anti-satellite weapons, and space-based
+missile defence. The US spends at least US$ 40 billion on space each year, of which around US$ 11 billion
+is for military purposes (MFP-12); China spends around US$ 14 billion and Europe around US$ 13 billion.
+
+
+-----
+
+##### Cyber and space
+
+If power at first depended on the ability to control land, it became more dependent on seas, airspace,
+and, more recently, on space and cyber. New spheres of competition do not replace others, but come on
+top of them. Cyber and space have become the focus of intense economic competition. While major
+powers advance connectivity through cyber and space, they also aspire to control and domination. On
+the one hand they support relevant companies, networks, and technical standards in the sphere of cyber
+and space to become global. On the other hand they pursue independence in terms of critical technology
+through protectionism and industrial policy.
+
+In space, the European countries, together with the United States, enjoyed almost unrivalled leadership
+after the Cold War, but this position is slowly eroding. Other powers have developed their own systems
+for global navigation, communication, and intelligence gathering. Weaknesses exist in terms of the
+coverage, accuracy, and security of European satellites for government communication and intelligence.
+Countries like Belgium rely almost exclusively on commercial or partner countries' satellites, and the
+European Union as a whole still has significant dependence on American satellites. Concerns are
+growing about capabilities being developed to destroy, disturb, jam, or spoof the functioning of
+European satellites. In recent years, European satellites have been the target of hostile espionage and
+jamming activities.
+
+While the European Union has been a trailblazer in rules for data security and the protection of data
+privacy, implementation and enforcement are not a given because of its very open market, the
+dominance of large external companies, the dependence on external technology, the fragmentation
+between governmental agencies, the fact that much of Europe’s data is transferred via intercontinental
+cables to data centres abroad, and the enormous volume of such data. This is further complicated by the
+continued digitization of key commercial and governmental services, the promise of powerful 5G
+networks, and the expansion of the cloud. A lot of the information belonging to European companies
+and citizens is stored in overseas data centres and transferred through networks that are built or
+operated by foreign companies that have the duty to cooperate with the intelligence services of their
+home country.
+
+A primary challenge for the protection of data security in the cybersphere is thus again a dependency
+on external suppliers and the difficulty of monitoring the entire network. There are numerous threats to
+our cybersecurity. Cyber-attacks can be active, with the aim of influencing or damaging systems, or
+passive, with the aim of collecting information. Attacks can be prepared in advance, by secretly building
+backdoors in the hardware or software, or through intrusion afterwards. The focus of such attacks ranges
+
+
+-----
+
+from the smallest computer chip to circuit boards, servers, data centres, large networks, and the entire
+global internet. Every part is vulnerable, and the vast volumes of data makes attacks harder to detect.
+Even highly secured data centres have been infiltrated by means of infected computer chips. Systems
+that are physically isolated from unsecured networks, through what is known as an “air gap”, have
+proved vulnerable to attacks through USB sticks, sensors that are connected to them, by the capturing
+and transmitting of radio waves, sound waves, and electromagnetic signals. Cyber-attacks against
+protected, air-gapped systems can now literally happen wirelessly from the sky or any device near them,
+like an air-conditioning system or a basic telephone.
+
+As it is increasingly difficult to protect and isolate data, it is also harder to encrypt them. Some countries
+require companies to have backdoors in their encryption as a condition of operating in their market.
+Artificial intelligence is used to crack encrypted data. As a result, countries are attempting to defend
+themselves against such attacks by means of quantum encryption. China has tested the first quantum
+communications satellite and has built a fibre-optic cable link for quantum communication between
+Shanghai and Beijing. The mastery of quantum technology will likely be decisive for cybersecurity.
+
+The weaponization of the cybersphere casts a permanent shadow over our national security. National
+security is threatened indirectly through economic weakening. While cyber-espionage targets our
+valuable know-how, the failure to commercialize relevant know-how could render our country less well
+placed to spearhead future productivity gains. Cyber-espionage complicates our ability to influence
+external partnerships because counterparts might know more about our agenda than we know about
+theirs. Information wars through the cybersphere can also discredit the functioning of democracy by delegitimizing governments and distorting elections. Cyber-attacks can disturb social life and cause unrest,
+for instance through hate campaigns or by disturbing the functioning of government services and key
+economic assets such as airports, banks, and so forth.
+
+Cyber-vulnerability also compromises the capability of the armed forces to defend the country. Just in
+the last few years, various incidents around the world have revealed how cyber-attacks can block or
+change the signals of radar systems, halt and distort the signal of global positioning, interfere with other
+military satellites, infiltrate into combat aircraft, steal sensitive data from warships, incapacitate army
+vehicles, hack into highly secured networks for military planning and missile defence, and so forth. The
+challenge is immense, with on the one hand the need for the armed forces to continue to contribute to
+the overall cybersecurity of our country and on the other hand the necessity to deter, prevent, detect,
+attribute, block, handle, and rapidly recover from cyber-attacks against specific weapon systems. This
+implies a permanent effort to be innovative and to aim for maximum efficiency through synergy with
+both domestic and external partners.
+
+
+-----
+
+-----
+
+##### Complex security
+
+Emerging from this global survey, first of all, are three important geographic vectors of uncertainty. One
+vector concerns the future of the global South, where a combination of rapid population growth against
+a backdrop of economic and political fragility will continue to cause severe challenges for Europe. A
+second vector concerns the transition of China. Despite its vulnerability, China's transition and
+initiatives like the New Silk Road once again turns Eurasia into a large arena of power politics. In this
+arena, Europe will find it less easy to secure its interests and will see countries like Russia hedge more
+assertively between the Eastern and Western ends of Eurasia. A third vector concerns the Atlantic
+community itself, in which the strategic reorientation of the United States, the uncertainty about the
+future course of the United Kingdom, and the fragility of the European project are challenging some of
+the bedrocks of Belgian security policy.
+
+To none of these vectors of uncertainty will our country be immune, especially given that our own
+country is institutionally divided, faces economic challenges, and is looked at rather critically from
+outside. We are a fragmented country in a fragmenting world.
+
+This is a security environment in which the non-state challenges, like migration, terrorism, and piracy,
+are unlikely to disappear. As the consequences of climate change come to be felt more widely and as the
+economic growth model seems to provide fewer benefits in terms of jobs and purchasing power, more
+states could face social unrest, political fragmentation, and radicalism. This is true for many countries
+surrounding Europe and for many countries inside Europe – including ours.
+
+But how we address these challenges will be conditioned by the beginning of a new era of complex
+competition between major powers. It is complex because it often remains covert to our society as states
+compete quietly for economic and technological power and the first visible violent incidents have
+remained rather distant. It is also complex because it is capricious. Sometimes it looks as if states are
+becoming increasingly fragile; at other times they seem to be getting stronger. Sometimes we see
+populism and the politics of emotion; at other times we observe measured moves and counter-moves.
+
+It is complex also because it is comprehensive. Security does not just entail military strength, but also
+technology, manufacturing, information, propaganda, and political legitimacy. It is complex, finally,
+because it does not seek to stop connectivity and communication, but to dominate it, in the digital
+domain, in space, but also in traditional continental, maritime, and airborne connections.
+
+
+###### "We are a fragmented country
+
+ in a fragmenting world."
+
+
+-----
+
+-----
+
+This poses small European countries like ours a number of difficult and fundamental choices. To begin
+with, our democracy seems to be at a disadvantage compare to authoritarian states when it comes to
+coordinating the different tools of comprehensive competition. The first need is thus to demonstrate that
+Western democracy can remain competitive without sacrificing its core constitutional values.
+
+A second dilemma exists with regard to the growing need to preserve our security and all other
+necessities to preserve a cohesive, resilient, and dignified society. The challenge in this regard is not to
+prioritize, for instance, either security or schools, but to find the means to do the two at the same time,
+as growing the next generations depends as much on security as security depends on the education of
+the next generations. Statecraft is about doing many things effectively at the same time.
+
+A third choice concerns international cooperation. Small countries like ours have a large stake in
+international cooperation and openness. Yet today's world shows that neither alliances nor
+organizations are immune to the consequences of nationalism and rivalry. This poses our country the
+challenge of continuing to invest in international cooperation, but also doing so through our own
+strength instead of just utilising the strength of others. What matters in international cooperation is not
+only the pursuit of strength, but how responsibly you use it.
+
+A fourth quandary: geographic scope. Through trade, challenges, and partnerships, our interests are
+global and require the capacity of long-range power projection. But regional threats are imposing
+themselves much more pressingly in our neighbourhood and so there is a greater need to prioritize
+challenges closer to home. So, from that viewpoint, small countries have to find ways to contribute to
+robust capabilities for Europe to secure its extended neighbourhood and the main passages to that area,
+and by doing so to make itself more reliable and capable as an international actor, partner, and ally.
+
+A fifth difficulty concerns the growing spectrum of security threats. On the one hand, states are
+deploying more lethal weapons. On the other hand, non-state actors, from terrorists to pirates, remain
+active. In the training of our military personnel, the acquisition of equipment, the development of our
+strategy, and the pursuit of international cooperation we need to guarantee sufficient adaptability to
+combine those tasks. One unavoidable discussion concerns the very top end of the spectrum of threats:
+nuclear warfare. As major powers modernize their nuclear weapons, Belgium will have to take a position
+on nuclear posture debates inside NATO, as well as on possible arms limitation initiatives.
+
+A sixth tension: lethality versus the means of delivery. As technology advances rapidly, more emphasis
+is put on factors such as speed, range, accuracy, stealth, unmanned vehicles, autonomy, the degree to
+which platforms are networked, and so forth. These are certainly important. But defence, deterrence,
+
+
+-----
+
+and war also remain a matter of being lethal and maintaining the capability of inflicting damage on
+aggressors. Our capabilities have to strike the right balance.
+
+The new world order leaves us no choices. However pressing and complicated many of the dilemmas
+might look, security requires us to oversee, coordinate, and strengthen many things at the same time. It
+is integral and comprehensive by default. The baseline, however, remains that any country, however
+large or small, can shape its future better, that it remains more effective, when it is cohesive and well
+organized, when its citizens are encouraged to give it their best, and when it maintains the ability to
+shape its own future. When it does these things it will also maintain the resilience to respond wisely to
+new security challenges.
+
+Today, the position of our country remains rather fragile and many uncertainties for the future remain,
+in a time when the world as a whole is also becoming more turbulent. Peace and security cannot be taken
+for granted. But in those challenges we can also find, as part of the government, as soldiers, and as
+individual citizens, a unique opportunity to defend what is dear to us, to safeguard the fruits of the
+sacrifices of previous generations, to build on them, to uphold the values that were fought for in the past
+and that are enshrined today in our constitution, and to make this small country secure, prosperous, and
+benevolent.
+
+
+###### We should consider the many
+
+ challenges as opportunities to
+
+ defend what is dear to us and
+
+ to safeguard the fruits of the
+
+ sacrifices of previous
+
+ generations 
+
+ - and to build on them.
+
+
+-----
+
+##### Notes and references
+
+1 United Nations, Department of Economic and Social Affairs, Population Division, 2017. Population Prospects: The 2017 Revision.
+New York: UN. Note concerns zero-migration scenario.
+2 Plurilateral means one, often large, country taking the lead in advancing cooperation with a group of other states.
+3 European Commission, 2018. Spring 2018 Standard Eurobarometer. Brussels: European Commission, 14 June 2018.
+
+4 International resilience means the ability to limit and handle exposure to external vulnerabilities, such as dependence on
+supplies of goods, energy, and so forth.
+5 Globalization Index.
+6 Eurostat Statistical Database.
+
+7 Eurostat Statistical Database.
+8 World Bank, 2018. Worldwide Governance Indicators.
+9 The OECD stated that the "complex political and institutional setting means that a consensus on economic issues is difficult
+to achieve", while the European Commission stressed the complexity of the Belgian Tax System. See: OECD, 2017. OECD
+Economic Survey Belgium. Paris: OECD, June 2017, p. 11; European Commission, 2018. Commission Staff Working Document:
+Country Report Belgium. Brussels: European Commission, 7 March 2018, p.3
+10 International Monetary Fund, 2018. Article IV Consultation Conclusions. Washington: International Monetary Fund, 8 March
+2018; International Monetary Fund, 2018. _Article IV Consultation Conclusions. Washington: International Monetary Fund, 14_
+December 2018; OECD, 2017. OECD Economic Survey Belgium. Paris: OECD, June 2017; European Commission, 2018.
+Commission Staff Working Document: Country Report Belgium. Brussels: European Commission, 7 March 2018.
+
+11 Economische Vooruitzichten 2018-2023.
+12 European Commission, 2018. Spring 2018 Standard Eurobarometer. Brussels: European Commission, 14 June 2018.
+13 Subjective poverty
+14 Gokken is een miljardenbusiness in ons land, VRT, 10 January 2018.
+15 Roosens, Edward, 2016. Economische impact terreuraanslagen. Brussels: VBO.
+
+16 Leigh, Jennifer, 2018. Global epidemics: how well can we cope? _BMJ, 362; World Health Organization, 2018._ _Managing_
+_Epidemics. Geneva: World Health Organization._
+17 World Health Organization, 2017. Joint External Evaluation of IHR Core Capacities of the Kingdom of Belgium. Geneva: World
+Health Organization.
+18 Kepe, Marta, et al. Exploring Europe’s Capability Requirements for 2035 and Beyond. Brussels: EDA
+
+19 European Cyber Security Organisation, 2016. _European Cybersecurity Industry Proposal for a Contractual PPP, June 2016;_
+European Commission, ESA, EDA, 2017. Technologies for European Non-Dependence and Competitiveness Critical Space
+Technologies. Brussels: European Commission.
+20 UNEP, 2015. Africa's Adaptation Gap. New York: UNEP; FAO, 2016. Climate change predictions in Sub-Saharan Africa: impacts and
+_adaptations. Rome: FAO; Laborde, David, et al. 2012. Climate Change and Agriculture in South Asia. Washington: World Bank;_
+CDKN, 2018. The IPCC’s Fifth Assessment Report: What’s in it for South Asia? Delhi: CDKN.
+21 World Bank, 2018. _Internal climate migration in Sub-Saharan Africa. Washington: World Bank; UNCTAD, 2018._ _Economic_
+_Development in Africa Report 2018. Geneva: UNCTAD, chapter 2, pp 41-63._
+22 UN HABITAT, 2014. UN Habitat Annual Report 2014. New York: UN, p. 15.
+
+23 World Bank, 2019. World Development Indicators. Note: Asia includes Southern and Eastern Asia.
+24 Xi Jinping at the 19th CPC National Congress, October 2017.
+25 White House, 2017. National Security Strategy of the United States of America. Washington: White House, p. 2-3.
+
+
+-----
+
+###### Verantwoordelijke uitgever: Kolonel stafbrevethouder Guido Hart Éditeur responsable : Colonel breveté d’état major Guido Hart
+
+
+## “ Le bonheur est notre destin véritable.”
+#### Jacques Brel
+
+
+-----
+

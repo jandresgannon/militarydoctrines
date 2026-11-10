@@ -1,0 +1,607 @@
+# Defence Test & Evaluation (T&E) Strategy
+
+##### Vision: T&E across Defence supports risk-based capability decisions and is actively supported by a strong sovereign base.
+
+
+-----
+
+## Introduction
+
+The Defence Test and Evaluation (T&E) Strategy
+provides a vision for T&E across Defence, and
+articulates the desired 2030 future state of the
+capability. The Strategy also:
+
+      - summarises the current state of T&E in Defence
+
+      - outlines the strategic drivers, and the needs for
+change that Defence must address as part of a
+wider sovereign T&E capability
+
+      - summarises the 2030 future state
+
+      - provides short, medium and longer term
+horizon-based objectives along four priority lines
+of effort, to improve the T&E capability to meet
+Defence’s future requirements. The lines of effort
+are:
+
+º Governance and Assurance
+
+º Workforce
+
+º Defence Training and Test Environment
+
+º Technology
+
+      - provides achievable outcomes that can be **Implementation. The T&E Strategy will**
+assigned to Defence be implemented via a horizon-based
+
+plan that outlines objectives, tasks and
+
+      - informs industry, other Government
+
+responsibilities assigned within Defence.
+
+Departments, academia and the wider Defence
+community, offering opportunities to contribute        - Horizon 1 (Consolidate): 2021-2023,
+to the development of a sovereign T&E T&E policy updated and T&E is used
+capability to assure joint force realisation.
+
+      - supports achievement of key initiatives within the       - Horizon 2 (Modernise): 2024-2026,
+Defence Transformation Strategy. Modern Defence and sovereign T&E
+
+capabilities.
+
+The T&E Strategy should be read in conjunction
+with the Sovereign Industrial Capability Priority       - Horizon 3 (Enhance): 2027-2030,
+Plan – Test, Evaluation, Certification and Systems T&E as an assurance function
+Assurance (SICPs − TECSA) released in December supports risk-based capability
+2020. The T&E Strategy will be reviewed by decisions for the joint force.
+Defence and industry every two years and updated
+accordingly.
+
+
+-----
+
+## Test and Evaluation in 2021
+
+Whilst T&E is applied effectively at the project level, investment in T&E
+
+**Today’s T&E Challenge**
+
+facilities, test ranges and equipment is predominantly tied to
+platform-centric funding, and there is limited Defence level coordination      - platform centric
+or prioritisation. Defence and industry are making limited collaborative
+
+                                                   - no systemic approach to
+
+use of T&E facilities, and there is no systemic approach to address
+
+emerging technologies
+
+the challenges or leverage the opportunities emerging technologies
+
+                                                   - workforce fragility
+
+present for T&E. New approaches to T&E are required and this demands
+a different mix of competent and skilled personnel to undertake the      - limited agility and adaptability
+demands of T&E now and into the future.
+
+                                                   - limited leveraging of T&E
+outside of Defence.
+
+## Drivers for Change
+
+**Drivers for Change**
+
+**The geo-strategic environment and technology. Australia faces**      - changing geo-strategic
+an environment characterised by increasing strategic competition environment
+and more capable military systems enabled by technological change.
+Rapid advances in technology has seen an increase in capabilities      - modern joint force
+and networked systems that deliver effects across the five warfighting comprised of high levels
+domains.[1] of interoperability between
+
+systems and domains
+
+**Modern joint force. Interoperability across the warfighting domains**
+will give the relatively small Australian Defence Force (ADF) a      - emerging technologies
+competitive advantage. Activities such as T&E must continue to demanding new approaches.
+ensure they meet the demands of a joint force commander.
+
+**Competition for workforce. The scale of recapitalisation of Defence capability has placed increased**
+pressure and competition on Australia’s small, highly skilled T&E workforce. A sustainable T&E Workforce
+Plan is required that equally supports current and future needs.
+
+**Leverage physical and synthetic environments. To meet the demands of the joint force, Defence must**
+optimise training opportunities for testing of capability systems. This requires infrastructure investment that
+integrates physical and synthetic capabilities, as part of a modern training and test environment.
+
+**Industry and government capacity. Defence must better coordinate and manage its T&E resources and**
+workforce, and engage across Government, industry and academia to build a more resilient sovereign T&E
+capability.
+
+**Emergence of new approaches to T&E. Verification and validation of emerging technologies requires**
+new approaches to T&E. This includes not just the conduct of T&E, but also the application of new
+technology to support it. This includes artificial intelligence, data analytics, robotics and synthetic
+representations.
+
+1 Maritime, Land, Air, Space, and Information and Cyber.
+
+
+-----
+
+# Defence Test & Evaluation (T&E) Strategy
+
+#### Vision: T&E across Defence supports risk-based capability decisions and is actively supported by a strong sovereign base.
+
+##### CONSOLIDATING
+
+### Horizon 1:  2021 – 2023
+
+##### T&E policy and process supports assurance of the joint force.
+
+###### • All recommendations from previous audits and plans completed.
+
+ • A joint force interoperability assurance process established.
+
+### Needs
+
+###### Sovereign T&E • Defence and Industry T&E workforce capabilities and plan implemented (skilling courses and networks that support competency framework established, and the delivery of effects mapping between Defence and Industry across the warfighting completed). domains.
+
+ New approaches to T&E.
+
+ • Sovereign T&E infrastructure gaps
+ Skilled & competent (physical and synthetic) to be addressed T&E workforce to as part of the Defence Training & Test address emerging Environment identified and costed. technologies.
+
+ • Methods for T&E of emerging technologies identified and analysed.
+
+ • Opportunities to apply new methods of T&E identified and explored.
+
+**2 0 2 1** **2 0 2 2** **2 0 2 3**
+
+
+-----
+
+##### MODERNISING
+
+### Horizon 2: 
+
+##### ENHANCING
+
+### 2024 – 2026
+ Horizon 3: 
+
+##### Modern Defence and sovereign T&E capabilities. 2027 – 2030
+ T&E as a joint force assurance function
+
+###### • T&E incorporation into Defence’s
+
+##### supports risk-based
+
+###### decision support and knowledge system is normalised. capability decisions.
+
+### 2030  Future State
+
+###### • A modern and accredited T&E
+
+ • T&E workforce diversified and Modern and
+ workforce meets Defence and
+ technologically enabled. networked T&E
+ industry needs and is sustainable.
+ supported by a sustainable and fit for purpose workforce.
+
+ • Plan for realising the Defence  • Sole reliance on Defence T&E Training & Test Environment agreed. infrastructure reduced. Dynamic virtual
+
+ • Sovereign T&E capabilities supported • Shared use of T&E facilities is visualisation of joint by Defence developed. business as usual. force T&E.
+
+ • Synthetic representations of major • Defence Training & Test platforms and systems standardised. Environment realised.
+
+ • Defence and Industry collaboration on use of emerging technologies  in the conduct of T&E the norm.
+
+**2 0 2 4** **2 0 2 5** **2 0 2 6** **2 0 2 7** **2 0 2 8** **2 0 2 9** **2 0 3 0**
+
+
+-----
+
+#### LINE OF EFFORT 1 - Horizon 1 (2021 – 2023) - GOVERNANCE  CONSOLIDATING AND ASSURANCE • All recommendations from previous audits
+
+and plans completed.
+
+###### Aim • T&E Policy revised as new T&E guidance
+
+document, within the One Defence
+
+The governance and assurance[2] line of effort provides Capability System, and released.
+and maintains the common framework within which T&E
+
+                                         - Joint force interoperability assurance
+
+in Defence is conducted. It supports the Joint Force
+
+process implemented.
+
+Authority (the Vice Chief of the Defence Force) through
+assurance of joint interoperability to meet government      - T&E module within Defence’s decision
+requirements. support and knowledge system established.
+
+                                         - Need for centralised coordination of priorities
+
+###### Toward the 2030 Future State
+
+and investment explored.
+
+A new baseline for T&E governance and assurance
+
+                                         - Annual T&E Conference initiated.
+
+will be established. This will occur by completing all
+recommendations from previous audits (ANAO and
+Defence) and the Defence T&E Improvement Plan.
+
+T&E responsibilities will be aligned with the One **Horizon 2 (2024 – 2026) -**
+Defence Capability System, including the development **MODERNISING**
+of a new T&E guidance document. This will align T&E
+
+                                         - Centralised coordination of priorities and
+
+procedures across Defence, support their development
+
+investment established.
+
+where not already established, and ensure best
+practice is shared and reinforced.      - T&E requirements incorporation within the
+
+decision support and knowledge system is
+
+A T&E data module will be incorporated into Defence’s normalised
+decision support and knowledge capture system.
+
+                                         - Expanded joint force interoperability
+
+This will provide visibility and reporting functionality for
+
+assurance process, with government
+
+Defence T&E key performance indictators regarding
+
+agencies, allies and other partners
+
+T&E policy, planning and governance.
+
+incorporated.
+
+An annual T&E conference will be initiated.
+
+The need for a strategic, centralised coordination
+function for T&E will be explored. This will support
+
+###### Horizon 3 (2027 – 2030) - ENHANCING
+
+the development of priorities for investment
+and management of the physical and synthetic     - T&E priorities and investment is centrally
+environments within which T&E is conducted. coordinated, agile and responsive.
+
+                                         - Joint force interoperability assurance
+process reviewed and revised.
+
+2 **Joint force comprises force elements assigned from Defence Groups and Services operating under a single joint force commander (Australian Defence Glossary). Assurance is**
+the objective examination of evidence for the purpose of providing an independent assessment on governance, risk management and control processes for an organisation (Institute
+of Internal Auditors)
+
+
+-----
+
+###### Horizon 1 (2021 – 2023) -
+
+#### LINE OF EFFORT 2 –
+
+###### CONSOLIDATING
+
+#### WORKFORCE
+
+                                         - Gaps in Defence and industry T&E workforce
+mapped.
+
+###### Aim
+
+                                         - Options for centralised coordination of
+
+This line of effort looks to resolve the demands for priorities and investment in T&E workforce
+a different mix of competent and skilled personnel explored.
+to undertake the demands of T&E now and into the
+
+                                         - T&E competency framework expanded to
+
+future. This includes upskilling and retention of a T&E
+
+include industry.
+
+workforce integrated across Defence and industry.
+
+                                         - Reciprocal participation in training across
+
+It will be a workforce with expertise to develop and
+
+Defence and industry commenced.
+
+apply new T&E approaches.
+
+                                         - T&E secondments between Defence and
+
+###### Toward the 2030 Future State industry explored.
+
+A T&E workforce plan will be developed and     - Training and secondments supported
+**implemented. This will seek to foster a skilled T&E** by targeted investment by Defence and
+workforce, capable of addressing the challenges and industry.
+opportunities posed by emerging technologies and
+the requirements of a sovereign T&E capability. Key
+elements of the plan will include:
+
+###### Horizon 2 (2024 – 2026) -
+
+      - mapping gaps in the T&E workforce **MODERNISING**
+
+      - review of the Defence T&E competency
+
+                                         - Managed T&E career pathways within
+
+framework Defence and industry established.
+
+      - requirements for skilling courses across Defence      - Accreditation of workforce expertise against
+and industry expanded T&E competency framework
+
+implemented.
+
+      - review and expansion of Defence secondments
+
+                                         - T&E secondments between Defence and
+
+within industry to include T&E roles.
+
+industry established.
+
+Expertise accredited through the Defence T&E     - Training development and skilling leverages
+competency framework. This provides assurance of ongoing collaboration across Defence and
+workforce competency, ensuring a workforce that is industry on innovative T&E approaches.
+suitably trained, skilled and experienced.
+
+Managed career pathways introduced. This will
+leverage secondments and training across Defence
+
+###### Horizon 3 (2027 – 2030) - ENHANCING
+
+and industry to support growth and retention.
+
+                                         - Integrated generation of competent T&E
+
+An integrated Defence and industry T&E workforce
+
+workforce across Defence and industry,
+
+is normalised. This workforce comprises industry, achieving sovereign workforce resilience.
+Defence (APS, ADF and contractors) with assured
+
+                                         - Parallel line of efforts enabled by integrated
+
+expertise to develop and apply innovative
+
+T&E workforce.
+
+approaches to T&E. This workforce will leverage
+parallel initiatives, including the Defence Training and
+Test Environment.
+
+
+-----
+
+###### Horizon 1 (2021 – 2023) - 
+
+#### LINE OF EFFORT 3 –
+
+###### CONSOLIDATING
+
+#### DEFENCE TRAINING AND TEST ENVIRONMENT • Gaps in Defence’s physical and synthetic
+
+T&E infrastructure identified, assessed and
+costed.
+
+###### Aim
+
+                                          - Gaps in industry T&E capabilities identified
+
+The Defence Training and Test Environment and investigated. Mitigation options
+will establish and maintain the requirements explored for investment by Defence and
+
+industry.
+
+for T&E facilities, physical and synthetic
+environments to address the challenges     - The need for non-Defence T&E facilities
+and exploit the opportunities of emerging (including ranges) in support of industry,
+technologies. It will enable the competent, and the feasibility of non-Defence access
+skilled T&E workforce to apply best practice and to Defence facilities and shared use
+innovative approaches to T&E to both current facilities is explored.
+and future capabilities.     - Options for capability programs to provide
+
+synthetic representations (models)
+
+###### Toward the 2030 Future State
+
+of constituent platforms and systems
+explored.
+
+Identification and assessment of gaps
+in Defence’s physical and synthetic T&E     - Options for coordination of priorities
+infrastructure identified. and investment in facilities, physical and
+
+synthetic environments are explored.
+
+Options developed and assessed for
+investment by Defence and industry to remediate
+gaps.
+
+Planning approved for realisation of the Defence **Horizon 2 (2024 – 2026) -**
+Training and Test Environment. **MODERNISING**
+
+                                          - Plan for realising the Defence Training and
+
+Synthetic representations (models) of major
+
+Test Environment agreed.
+
+Defence systems and platforms provided and
+**normalised as part of delivery of capability and**     - Capability programs provide synthetic
+T&E. representations of major platforms and
+
+systems as a standard function.
+
+The Defence Training and Test Environment
+
+                                          - Defence and industry investment supports
+
+**established as an operational capability.**
+
+development of sovereign T&E facilities.
+
+This includes modern T&E facilities, physical
+and synthetic environments, ranges and test
+equipment that are networked.
+
+Leveraging the Defence Training and Test **Horizon 3 (2027 – 2030) -**
+Environment, collaboration on T&E across **ENHANCING**
+Defence, industry and academia is business as
+
+                                          - Sole reliance on Defence T&E
+
+**usual. This supports the evolution of enhanced**
+
+infrastructure reduced.
+
+risk-based capability decisions informed by best
+
+                                          - Shared use of T&E facilities is a business
+
+practice T&E.
+
+as usual function.
+
+                                          - Defence Training and Test Environment
+realised.
+
+
+-----
+
+###### Horizon 1 (2021 – 2023) -
+
+#### LINE OF EFFORT 4 –
+
+###### CONSOLIDATING
+
+#### TECHNOLOGY
+
+                                          - Engagement with Government agencies,
+industry and academia on the development
+
+###### Aim
+
+of new approaches to T&E of emerging
+technologies increased.
+
+The technology line of effort will collaborate
+with industry and academia to develop new     - Industry developments in the use of
+approaches to T&E. This will focus on developing synthetic representations to support testing
+and adopting the methods required to conduct leveraged.
+T&E on emerging technologies.
+
+###### Toward the 2030 Future
+
+ Horizon 2 (2024 – 2026) -
+
+Defence will expand its T&E working groups and
+
+###### MODERNISING
+
+communities of practice to focus on opportunities
+and challenges posed by emerging technologies.
+
+                                          - Defence and industry collaboration on use
+
+This will include expanded engagement within of emerging technologies in the conduct of
+government, industry and academia. T&E the norm.
+
+Defence will collaborate with non-Defence
+sectors to leverage development in the use of
+synthetic representation to support testing.
+
+Broad industry (Defence and non-Defence) T&E
+collaboration on the use of emerging technologies
+is business as usual.
+
+
+-----
+
+#### 2030 Future State
+
+###### Modern T&E, integrated and assured, conducted by a workforce  supported by technology, and the training and test environment.
+
+ T&E in Defence is centrally coordinated, agile and responsive to support a more  capable joint force, and enabled by the dynamic virtual realisation of joint force T&E.
+
+##### T&E across the One Defence Capability System
+
+**Strategy and concepts** **Risk mitigation and requirements setting** **Acquisition** **In service and disposal**
+
+Developmental T&E Acceptance T&E
+
+Preview T&E Operational T&E
+
+In-service T&E
+
+Experimentation
+
+Joint Force Assurance
+
+
+#### 2030 Future State
+
+###### Modern T&E, integrated and assured, conducted by a workforce  supported by technology, and the training and test environment.
+
+ T&E in Defence is centrally coordinated, agile and responsive to support a more  capable joint force, and enabled by the dynamic virtual realisation of joint force T&E.
+
+##### T&E across the One Defence Capability System
+
+**Strategy and concepts** **Risk mitigation and requirements setting** **Acquisition** **In service and disposal**
+
+Developmental T&E Acceptance T&E
+
+Preview T&E Operational T&E
+
+In-service T&E
+
+Experimentation
+
+Joint Force Assurance
+
+
+-----
+
+© Commonwealth of Australia 2021
+
+This work is copyright. Apart from any use as permitted under the Copyright Act 1968 (Cwth),
+no part may be reproduced by any process without prior written permission from the Department of Defence.
+
+
+-----
+
+DEVELOPED BY: CAPABILITY INTEROPERABILITY, TEST AND EVALUATION BRANCH
+
+RELEASED BY: VICE CHIEF OF THE DEFENCE FORCE
+
+RELEASED: 24 AUGUST 2021
+
+Scan the QR code for more information
+
+www1.defence.gov.au/about/publications/defence-test-evaluation-strategy
+
+
+-----
+

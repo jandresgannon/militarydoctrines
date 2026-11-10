@@ -1,0 +1,2020 @@
+First Edition : October 2004
+
+Published By : Headquarters Army Training Command
+
+Copyright Reserved : Headquarters Army Training Command
+
+Shimla – 171003
+India
+
+#    PART - I
+
+
+-----
+
+## PROMULGATION
+
+1. The Indian Army Doctrine is structured as a two-part
+document. The main part contains subjects for widespread
+dissemination in the Army, the second part is the classified
+adjunct to it and is intended for very restricted circulation.
+
+2. Having been approved by Army Headquarters, the main
+part of the Indian Army Doctrine is hereby promulgated for
+information, guidance and implementation by all concerned.
+
+3. Part I will be reviewed every five years and updated, as
+necessary. The Doctrine will be re-issued every ten years.
+
+**Shimla** **(K Nagaraj)**
+
+**Lt Gen**
+
+**October 2004** **GOC-in-C ARTRAC**
+
+
+-----
+
+**_– The Bhagawad Gita_**
+
+
+**CODE OF THE WARRIOR**
+
+**_“I am a Warrior; defending my Nation is my dharma._**
+
+**_I will train my mind, body and spirit to fight,_**
+
+**_Excel in all devices and weapons of war –_**
+
+**_present and future,_**
+
+**_Always protect the weak,_**
+
+**_Be truthful and forthright,_**
+
+**_Be humane, cultured and compassionate,_**
+
+**_Fight and embrace the consequences willingly._**
+
+**_God, give me strength that I ask nothing of you”_**
+
+**_– The Bhagawad Gita_**
+
+
+-----
+
+General NC Vij
+
+PVSM, UYSM, AVSM, ADC
+
+## FOREWORD 
+
+**_“How can man die better, than facing fearful odds,_**
+
+**_for the ashes of his fathers and the temples of his Gods.”_**
+
+Like all other modern armed forces, the Indian Army has
+been considerably influenced by the Revolution in Military
+Affairs and the great strides being made in technology
+development. This has necessitated a transformation in
+strategic thinking along with a paradigm shift in organization
+and conduct of operations. As a consequence, military
+doctrines, weapon systems and force structures need to
+undergo a review. Our vision for the twenty-first century is to
+have a well equipped and optimally structured army, enabling
+it to respond effectively to varied situations and demands
+whilst it continually adapts itself to meet future challenges.
+
+Such a vision places emphasis on the ability to augment
+existing strengths, develop new skills, think imaginatively and
+attempt innovative approaches to cope with the emerging
+environment. The challenges that we will be confronted with
+require us to visualize what our Army of the future should look
+like and accordingly develop suitable approaches to structures,
+equipping and training to emerge with flying colours in future
+conflict situations. The impetus for change must come from
+within and flow through the entire Army.
+
+
+-----
+
+The Indian Army has to maintain a high level of readiness
+for war in varied terrain conditions and should have the
+capability to operate in the complete spectrum of conflict. The
+Indian Army Doctrine (hereinafter referred to as the ‘Doctrine’)
+outlines a framework for a better understanding of the
+approach to warfare and provides the foundation for its
+practical application.
+
+Funds scarcity or shortfall is a challenge faced by all
+armies of the world and hence there is a need for improved
+operating cultures and optimization of resources. The winning
+armies of the future will not necessarily be the ones that have
+greater combat power but ones that can visualize and
+comprehend battles more clearly. There will invariably be
+technological gaps between the systems that we possess and
+those developed up to that point in time. Notwithstanding this
+gap we have to continuously utilize all available resources
+imaginatively and effectively.
+
+The emergence of Information Warfare as a major force
+multiplier points clearly towards the imperatives of networkcentric warfare. Additionally, present trends indicate a marked
+shift towards the manoeuvre style of warfare and directive
+style of command. Concurrently, the requirement for joint
+operations and the need for greater integration and interdependence amongst the three Services are viewed as being
+essential for success.
+
+This Doctrine emphasizes that the profession of arms is a
+calling. The hallmark of a good soldier entails having a sense
+of responsibility, professional expertise and loyalty to the
+Nation and the Army. The ethos and moral code set forth
+principles and ideals; these exhort every man in uniform to
+abide by his duty without regard to personal safety. This ethos
+forms the bedrock of the Army’s preparedness in peace and is
+the key to its effectiveness in war.
+
+Indian Army officers would do well to develop a broadbased, all-inclusive understanding of warfare and not become
+
+
+-----
+
+overly reliant on rigid adherence to prescriptive rules. The
+nature of this Doctrine is enduring and yet dynamic; it drives
+development of both, the art and science of war. In the Army it
+provides the focus for constructive debate within well-informed
+and professional circles and acts as a guide to the younger
+generation. Training in the Army should focus on management
+of change and operational adaptation to change. Towards this
+end, providing the kind of ambience that encourages and
+facilitates intellectual development should be an unceasing
+endeavour.
+
+**(NC Vij)**
+
+**October 2004** **General**
+
+**_“Not by action Not by progeny_**
+
+**_Not by wealth But by sacrifice alone_**
+
+**_Can Immortal Goal be achieved.”_**
+
+**– The Bhagawad Gita**
+
+
+**(NC Vij)**
+
+**General**
+
+
+-----
+
+**_“And speak not of those who are_**
+
+**_slain in Allah’s way as dead,_**
+
+**_Nay, (they are) alive but ye perceive not”._**
+
+– **Sureh Bacarah, Ayat 154,**
+
+**The Holy Quran**
+
+
+-----
+
+## TABLE OF CONTENTS
+
+**Chapter 1- Geo-Strategic Environment and**
+**The Indian Army** **2**
+
+Section  1 : Doctrine, Concept and Strategy 3
+
+Section  2 : Environment and Threat 5
+
+Section  3 : The Indian Army 9
+
+**Chapter 2 - Understanding War** **11**
+
+Section  4 : Peace, Conflict and War 12
+
+Section  5 : Types of Wars 15
+
+Section  6 : Principles of War 23
+
+**Chapter 3 - Operational Perspectives** **25**
+
+Section  7 : Elements for Operational Success 26
+
+Section  8 : Operational Readiness and Effectiveness 34
+
+Section  9 : Surprise and Deception 38
+
+Section 10 : Impact of Technology on Operations and 40
+
+the Revolution in Military Affairs
+
+**Chapter 4 - Conduct of Operations** **46**
+
+Section 11 : Offensive and Defensive Operations 47
+
+Section 12 : Special Forces Operations 57
+
+Section 13 : Joint Operations 60
+
+**Chapter 5 - Operations Other Than War** **67**
+
+Section 14 : Low Intensity Conflict Operations and        68
+Counter-Insurgency Operations
+
+Section 15 : Non-Combat Operations 77
+
+Section 16 : United Nations Peacekeeping Missions      81
+
+**Chapter 6 - Logistics** **84**
+
+Section 17 : Function, Principles and Logistic 85
+
+Support Systems
+
+Section 18 : Future Trends in Logistics 89
+
+**Chapter 7 - Preparing For War** **92**
+
+Section 19 : Force Structuring 93
+
+Section 20 : Training 97
+
+Section 21 : Professionalism and Military Ethos 103
+
+
+-----
+
+# CHAPTER 1
+
+ GEO-STRATEGIC ENVIRONMENT AND 
+ THE INDIAN ARMY
+
+## SECTION 1 : DOCTRINE, CONCEPT AND STRATEGY
+
+ SECTION 2 : ENVIRONMENT AND THREAT
+
+ SECTION 3 : THE INDIAN ARMY
+
+
+-----
+
+## SECTION 1 : DOCTRINE, CONCEPT AND
+ STRATEGY
+
+
+**_“Doctrine is indispensable to an army. Doctrine_**
+
+**_provides a military organisation with a common_**
+**_philosophy, a common language, a common purpose,_**
+**_and a unity of effort”._**
+
+**– General George H. Decker, 1960.**
+
+
+**Doctrine**
+
+1.1 Military doctrines have provided the basic approach to
+all important aspects related to war for armies of most nations
+over the past few centuries. Prevailing strategic realities,
+threats, challenges, visualised opportunities and national
+aspirations are the major factors which have a strong influence
+on the formulation of military doctrines. A doctrine is generally
+a written document; it could also be a widely accepted
+understanding without being specifically enunciated. In the
+Indian context the need for formulating and enunciating a
+comprehensive military doctrine has gained momentum with
+advancements in military technologies and the changing
+nature of war in our times. Military doctrine is neither dogma
+nor does it replace or take away the authority and obligation of
+the commander on the spot to determine a proper course of
+action under the circumstances prevailing at the time of
+decision.
+
+1.2 In simple words, military doctrine is a particular policy
+taught or advocated; a set of principles by which military forces
+guide their actions in support of national objectives. Military
+doctrine can be defined as ‘a formal expression of military
+knowledge and thought that an army accepts as being relevant
+at a given time, which covers the nature of current and future
+conflicts, the preparation of the army for such conflicts and the
+methods of engaging in them to achieve success’. It is
+authoritative but requires judgement in application. The
+illustration below depicts the inputs that traditionally contribute
+to the formulation of a military doctrine and outputs that flow
+from its enunciation.
+
+
+-----
+
+**Concept**
+
+1.3 A concept is defined as **‘a general notion or statement**
+of an idea, expressing how something might be done or
+accomplished, that may lead to an accepted procedure’. In the
+nascent stage a concept may be nebulous; however, it
+crystallises as it develops. In the Indian military context a
+concept is generally enunciated at the strategic and
+operational levels. It articulates, in very broad terms, a
+visualisation of the manner in which operations are to be
+conducted, and focuses on the principal elements which will
+drive them.
+
+**Strategy**
+
+1.4 Strategy is the art and science of developing and using
+elements of national power including political, economic,
+psychological, technological capabilities and military forces, as
+necessary, during peace and war to achieve national
+objectives. Military strategy is derived from the overall national
+or ‘grand’ strategy.
+
+**_“Winning Strategists are certain of triumph_**
+**_Before seeking a challenge._**
+**_Loosing Strategists are certain to challenge_**
+**_Before seeking a triumph”._**
+
+**– Sun Tzu, The Art of War.**
+
+
+-----
+
+## SECTION 2 : ENVIRONMENT AND THREAT
+
+
+**_“There can be four dangers to a state;_**
+**_That which is of external origin and of internal abetment;_**
+**_That which is of internal origin and of external abetment;_**
+**_That which is of external origin and of external abetment;_**
+**_and that which is of internal origin and of internal abetment”._**
+
+**_– Kautilya._**
+
+
+**General**
+
+1.5 India is a country of continental size with land borders
+shared with a large number of countries, 1197 islands and a
+coastline of 7516 kilometres with a vast Exclusive Economic
+Zone. Despite her historically developed racial, cultural,
+linguistic and religious diversity, India is a nation with an
+innately all-embracing, secular polity that has welcomed and
+assimilated various cultures into her existing milieu. Her
+modern values are rooted in democratic governance and
+profound respect for human life. We remain peaceful without
+being pacifists and have a vision for the future with a measure
+of confidence in ourselves as we strive for economic progress
+and integration in the global environment. Defending India
+calls for defending her physical, economic and cultural identity
+in the prevalent geo-political milieu.
+
+**The Geo-political Environment**
+
+1.6 The geo-political scenario is fast changing and is likely
+to continue to do so in the coming decades. Although the USA
+remains the only super power today, the world is witnessing
+the emergence of various centres of power, with India
+emerging as one of the leading global players. Each centre of
+power is attempting to achieve a ‘balance of interest’ as
+opposed to the erstwhile ‘balance of power’. Greater reliance
+is being placed on democracy as a factor contributing to
+conflict prevention and increasing emphasis on bilateral or
+multi-lateral groupings as a means to deter aggression against
+weak nations. There is also a growing concern about the
+
+
+-----
+
+proliferation of weapons of mass destruction and the spread of
+terrorism. Energy security and control of scarce resources are
+assuming trans-national proportions.
+
+1.7 As part of the Southern Asian Region, India has
+considerable interests in the areas stretching from West Asia
+through Central Asia and South Asia to South East Asia. The
+Indian Ocean region is of great importance to India and it
+assumes strategic significance due to the high volume of
+Indian and international trade transiting through the Indian
+Ocean. Existing and emerging regional groupings give rise to
+competitiveness with the attendant possibility of increasing
+instability due to inter and intra-regional conflicts. The region
+also includes a number of nuclear weapon or nuclear-capable
+states. In addition, this region is witnessing an unprecedented
+proliferation in small arms and narcotics trafficking which, in
+turn, threaten the stability of states and societies. Trans-border
+migration on economic grounds also raises serious security
+concerns.
+
+1.8 India is a member of the South Asian Association for
+Regional Cooperation (SAARC), the Association for South
+East Asian Nations Regional Forum (ARF) and the Indian
+Ocean Rim Association for Regional Cooperation (IOR-ARC).
+By virtue of her size and strategic location in the Indian Ocean
+region, India is expected to play her rightful role to ensure
+peace and stability in it.
+
+**The Economic Environment**
+
+1.9 With market forces playing an important role, economic
+strength is likely to become the currency of power. National
+economies are undergoing liberalisation to cater to
+globalisation. The dominance of the developed world over the
+global economy is, nonetheless, likely to continue. Even so,
+China and India have been acknowledged as emerging
+economic powers. Economic linkages and inter-dependence
+amongst countries are likely to result in mutual security
+becoming an important issue. Water, energy sources (mainly
+oil) and even environmental issues may emerge as causes of
+future conflict between states.
+
+
+-----
+
+**The Security Environment**
+
+1.10 The security challenges facing India are varied and
+complex. India has two unsettled borders. The country has
+experienced four major conventional border wars besides an
+undeclared war fought in Kargil in 1999. She is engaged in an
+externally abetted proxy war for the last several years in
+Jammu and Kashmir and has been combating terrorism
+perpetuated by militant and terrorist groups sponsored by a
+foreign State. At the same time, a number of insurgencies,
+spurred by tribal and ethnic aspirations in addition to left wing
+ideologies are being tackled in various parts of the country. A
+number of nuclear weapon states are in India’s
+neighbourhood; hostile, radical or fundamentalist elements
+gaining access to and posing a threat with weapons of mass
+destruction (WMD) is also a possibility. It is in such an
+environment that the Indian Army is required to fulfil its roles in
+varied operating conditions across the entire spectrum of
+conflict.
+
+**Nature of Future Warfare**
+
+1.11 Like terrorism today, the likelihood of ‘asymmetric wars’
+becoming the form of warfare of tomorrow is being discussed
+quite widely. Nonetheless, the fact that all countries continue
+to lay emphasis on preparedness for conventional war,
+underscores the predominant view that asymmetric wars
+cannot replace conventional wars, even though they can very
+much become an adjunct of and influence conventional wars
+themselves.
+
+1.12 Future wars are likely to be characterised by: 
+     - Emerging at short notice, being of short duration
+and being fought at high tempo and intensity.
+
+     - Non-linear conduct of operations.
+
+     - Deeper and wider combat zones due to increased
+reach of integral firepower and surveillance resources,
+including space-based systems.
+
+
+-----
+
+    - Added emphasis on the all-arms concept and need
+for increased jointmanship between the land, naval and
+air forces.
+
+    - Enhanced reliance on a variety of surveillance
+systems and, resultantly, greater availability of
+information contributing to increased transparency of
+the battlefield.
+
+    - Improved accuracy, lethality and stand-off capability
+of weapons leading to greater destructive capability.
+
+    - Ascendancy of Network Centric Warfare (NCW),
+Information Warfare (IW) and conduct of operations
+under the glare of the media.
+
+    - Threat from enemy special forces, insurgents and
+terrorists to rear areas which will necessitate
+earmarking of troops to provide security to lines of
+communication.
+
+**_“Let him who desires peace, prepare for war”._**
+
+**– Vegetius, De Re Militari,iii,378.**
+
+
+-----
+
+## SECTION 3 : THE INDIAN ARMY
+
+
+**_“My Indian Divisions after 1943 were among the best_**
+
+**_in the world. They go anywhere, do anything, go on doing_**
+**_it, and do it on very little”._**
+
+**– Field Marshal Sir William Slim, Defeat Into Victory, 1956.**
+
+
+1.13 **Role of the Indian Army.** The Indian Army is the
+
+land component of the Indian Armed Forces which exist to
+uphold the ideals of the Constitution of India. As a major
+component of national power, along with the Indian Navy and
+the Indian Air Force, the roles of the Indian Army are as
+follows :
+     - **Primary Role. Preserve national interests and**
+
+safeguard sovereignty, territorial integrity and unity of
+India against any external threats by deterrence or by
+waging war.
+
+     - **Secondary Role.** Assist Government agencies
+
+to cope with ‘proxy war’ and other internal threats and
+provide aid to civil authority when requisitioned for the
+purpose.
+
+1.14 **Command and Control of the Indian Armed Forces.**
+
+The President of India is the Supreme Commander of the
+Indian Armed Forces. As in all democracies, the Indian Armed
+Forces are controlled by the elected political leadership of the
+nation (Government of India). Executive control is exercised
+sequentially through the Union Cabinet, the Defence Minister,
+the Chiefs of Staff Committee (COSC) and the Chiefs of Army,
+Naval and Air Staff of their respective Services. The Ministry of
+Defence handles matters related to personnel, financial and
+resource management.
+
+1.15 **Tasks of the Indian Army.  The Indian Army serves**
+
+as the ultimate instrument for maintaining the unity and the
+integrity of the nation in  the face of external threats and
+
+
+-----
+
+internal unrest and disturbances. The major tasks of the Indian
+Army are as follows: 
+     - Effectively project deterrence and dissuasion
+through the medium of strong, well-structured combat
+capability.
+
+     - Be prepared to engage in and conduct all types of
+military operations, singly or jointly, in the entire
+spectrum of conflict.
+
+     - Provide the requisite land forces component of the
+Strategic Forces Command.
+
+     - Provide aid to civil authority when called upon to do
+so for maintenance of law and order, humanitarian aid
+and assistance during disasters and calamities or any
+other circumstances including maintenance of essential
+services.
+
+     - Participate in United Nations peacekeeping
+operations in consonance with India’s commitment to
+the United Nations Charter.
+
+     - Be prepared to render military assistance to friendly
+countries when required to do so.
+
+
+_“It is not big armies that win battles; it is the good_
+
+**_ones”._**
+
+– Maurice de Saxe, Mes Reveries, 1732.
+
+
+-----
+
+# CHAPTER 2
+
+ UNDERSTANDING WAR
+
+## SECTION 4 : PEACE, CONFLICT AND WAR
+
+ SECTION 5 : TYPES OF WAR
+
+ SECTION 6 : PRINCIPLES OF WAR
+
+
+-----
+
+## SECTION 4 : PEACE, CONFLICT AND WAR
+
+
+**_“There never was a good war or a bad peace”._**
+
+**– Benjamin Franklin, 1773.**
+
+
+**The States of Peace, Conflict and War**
+
+2.1 At any given point in time, a country will be in a state of
+peace, conflict or war or a combination of these. Nations act in
+their own self-interest which includes the pursuit of political,
+economic, ideological or cultural objectives. When the interests
+of nations or a group of nations are in harmony, or at least
+pose no real or perceived threat to each other, there is peace.
+However, when the actions or policies of one nation are
+viewed as a threat to the vital interests of another, a condition
+of conflict arises. Conflict may escalate to war. The illustration
+below depicts the entire spectrum of peace, conflict and war.
+
+**Nuclear War**
+
+Intensity or
+
+**Global War** Degree of Violence
+
+**Total War**
+
+**Regional War**
+
+**Note : Guerrilla War and**
+
+**Limited War** Terrorism may occur
+
+concurrently across the
+
+**Civil War/**
+
+entire Spectrum of Conflict.
+
+**Revolutionary War**
+
+**Proxy War**
+
+**Insurgency**
+
+Probability of
+
+**No War No Peace** Occurrence
+
+**Non Combat Operations**
+
+Violence/Occurrence
+
+|Col1|Nuclear War|Col3|Col4|
+|---|---|---|---|
+|Conventional War|Global War|||
+||Total War|||
+||Regional War|||
+||Limited War|||
+|Operations Other Than War|Sub-Conventional War|Civil War/ Revolutionary War||
+|||LICO|Proxy War|
+||||Insurgency|
+||||No War No Peace|
+||Non Combat Operations|||
+
+
+-----
+
+2.2 **Peace.  Peace is defined as the absence of violence –**
+
+direct or indirect, manifest or posed as a threat. Peace is often
+viewed as a temporary and fleeting condition. To be enduring
+and genuine, it must be based on mutual respect, shared
+interests and common values. Peace is most often the result of
+a balance of power and agreed political spheres of interest
+between nations or one nation manifesting a superior political
+will. This is invariably backed by preponderance of force which
+is militarily unchallenged by others. In either case, peace is
+ultimately sustained by, and is dependent upon, the
+willingness of states to use force to preserve it as well as
+restore it when lost.
+
+2.3 **Conflict.     The essence of conflict is a clash, usually**
+
+violent, between opposing human wills, each trying to impose
+itself on the other. In, both, inter-state and intra-state conflicts,
+the means to impose one’s will could include diplomatic,
+economic and political mechanisms as well as the application
+or threat of violence by military force. Military action is just one
+instrument, amongst several, which may be used to impose a
+nation’s will. Armed conflict is synonymous with war. Today
+international mechanisms, including the influence exercised by
+major powers, are in place to resolve or limit conflicts because
+of their potential to lead to undesired war.
+
+2.4 **The State of War.   War occurs when diplomatic and**
+
+other negotiation mechanisms for resolving conflict or
+achieving desired political objectives either fail or are not
+operative. In such circumstances political aims and strategies
+are pursued by the use of armed force. War is prosecuted by
+the employment of strategy which aims at breaking the
+enemy’s will to fight. Disengagement from war is difficult
+because it develops its own dynamics and pace, which in
+themselves are unpredictable and could spin out of control.
+While war is always to be avoided, democratic societies must,
+nonetheless, be prepared to engage in it to safeguard their
+national interests.
+
+
+-----
+
+**_“O friend, behold my chariot through which I am_**
+
+**_always decidedly victorious. Courage and tenacity are its_**
+**_wheels, immutable truth and character are its flags._**
+**_Strength, discrimination, self-control and charity are its_**
+**_horses. Forgiveness, mercy and equanimity are the reins_**
+**_and devotion to the Lord is its charioteer. O friend,_**
+**_whoever possesses such a chariot can never be_**
+**_defeated.”_**
+
+**– Lord Rama, Ramayana.**
+
+
+-----
+
+## SECTION 5 : TYPES OF WARS
+
+
+**_“War is an act of violence whose object is to_**
+
+**_constrain the enemy to accomplish our will”._**
+
+**– Clausewitz, On War, 1832.**
+
+
+**CONVENTIONAL WAR**
+
+2.5 Conventional war conforms to the traditional image of
+war and is fought to achieve strategic and military objectives. It
+does not include the use of Nuclear, Biological and Chemical
+(NBC) weapons. It may be total or limited in terms of duration,
+
+the range of weapon systems
+
+employed, scope, objectives and its
+ultimate outcome. Given the
+
+prohibitive costs in terms of human
+lives and material, as well as the
+rising lethality of modern weapons,
+conventional war may be of short
+duration. Regional wars arise out of
+regional issues. The Gulf War (1991)
+and the Kosovo conflict (1995) are
+two such examples even though they
+
+had repercussions at the international level. A global or
+general war is a major unrestricted conflict fought between
+major powers involving some or all their allies. Initially it is
+likely to employ conventional weapons but may then escalate
+to the use of weapons of mass destruction to deny victory to
+the opponent(s). An extended global war of the Second World
+War pattern is highly unlikely.
+
+**OPERATIONS OTHER THAN WAR**
+
+2.6 Operations Other Than War (OOTW) encompass a
+wide range of activities where military power is used for
+purposes other than large scale combat operations normally
+
+
+-----
+
+associated with war. These include sub-conventional and noncombat operations; they usually involve the combined and
+coordinated effort of government (civil and military) and nongovernment agencies. In essence, OOTW activities assist to
+deter war, resolve conflict and promote peace and well being
+with use or demonstrated threat of use of force.
+
+**Sub-Conventional War**
+
+2.7 **Low Intensity Conflict (LIC).  LIC is a generic term**
+
+encompassing all kinds of armed conflicts that are above the
+level of peaceful co-existence amongst states and below the
+threshold of war. These include proxy war, terrorism and
+insurgencies; border skirmishes also fall within this category. It
+involves protracted struggle of competing principles and
+ideologies. Low Intensity Conflict Operations (LICO) figures at the
+lower end of the spectrum of conflict and is characterised by one
+or all of the following conditions : 
+     - Asymmetry of force levels between the regular forces
+and the irregular opposition force.
+
+     - The force applied and the violence generated
+depends on the code of conduct and the capabilities of the
+weaker side.
+
+     - Laws of the land impose restrictions on the actions of
+security forces.
+
+2.8 **Proxy War.** Proxy war is a war conducted between
+
+nations utilising non-state players to fight on their behalf. At
+least one of them employs a third party to fight on its behalf.
+The extent and type of support provided by the states involved
+in proxy war will vary but financial and logistic support are
+normally always provided. An example of a proxy war is the
+foreign sponsored terrorism in Jammu & Kashmir.
+
+2.9 **Insurgency.  Insurgency is an organised armed**
+
+struggle by a section of the local population against the State,
+usually with foreign support. The many possible causes of an
+insurgency include nationalistic, ethnic, linguistic, religious or
+cultural separatism, poor governance, economic deprivation,
+corruption, discrimination and oppression. Its goals may be
+seizure of power and replacement of the existing regime or
+
+
+-----
+
+even liberation of a defined area. Employment of military force
+may not be able to stamp out an insurgency but may help to
+contain it. In most cases, it is a combination of military force
+backed by appropriate political and economic measures which
+can adequately resolve such situations. The latter part
+acquires even more importance than the use of force.
+
+2.10 **Irregular War.  Irregular war may take many forms of**
+
+which terrorism and guerrilla war are two important ones.
+Terrorism is the unlawful use or threatened use of force or
+violence against people or property to terrorise, coerce or
+intimidate governments or societies; this is most often resorted
+to with the aim of achieving political, religious, or ideological
+objectives. Terrorism thrives on a fear psychosis and could be
+achieved by arson, sabotage, hijacking, hoaxes, maiming,
+bombing, seizure, kidnapping, assassination, taking hostages,
+raids, ambushes and the threat to use or use of WMD.
+Guerrilla war is an irregular form of warfare which includes
+acts of subversion, assassination, attack on supply lines and
+terrorism. Terrorism and guerrilla warfare can be employed
+across the entire spectrum of conflict.
+
+**Non-Combat Operations and Aid to Civil Authorities**
+
+2.11 Non-combat operations are defined as military
+operations where the use of force may not be necessary but,
+at times, the most minimal use of force, or threat to use force,
+may be required. Non-combat operations include aid to civil
+authorities, disaster relief, humanitarian assistance and
+peacekeeping operations.
+
+**NUCLEAR CHEMICAL AND BIOLOGICAL WARFARE**
+
+2.12 **Nuclear Warfare. A conventional war may escalate to**
+
+a nuclear war when any of the belligerents decide to use
+nuclear weapons through any means of delivery to avoid
+defeat in the sphere of conventional warfare or to safeguard its
+vital national interests or even with the aim to bring the war to
+a decisive end. World opinion is against the use of such
+weapons. India is a nuclear weapon state and pursues a policy
+
+
+-----
+
+of ‘Credible Minimum Deterrence’ and ‘No First Use’. India’s
+nuclear policy clearly states that she will not use or use the
+threat of use of nuclear weapons against those states which
+do not possess nuclear weapons or are not aligned with
+nuclear weapon powers. India reserves the right to retaliate
+with nuclear weapons in case of a strike against her by
+adversaries with nuclear, chemical or biological weapons.
+
+2.13 **Biological and Chemical Warfare.** International
+
+conventions, to which India is a signatory, along with a large
+number of other countries, have banned the use of biological
+and chemical weapons. However, their use by adversaries and
+non-state actors cannot be ruled out. Chemical weapons are
+relatively easy to produce without any elaborate infrastructure.
+As a consequence, our forces must be prepared for operations
+in a biological and chemical weapons environment. Both,
+active and passive defensive measures are being instituted to
+cater to this requirement.
+
+
+**“Slain, you will obtain heaven;**
+**_Victorious, you will enjoy earth;_**
+**_Therefore, stand up, O son of Kunti,_**
+**_Resolved to fight”_**
+
+**_– The Bhagawad Gita._**
+
+
+-----
+
+**INFORMATION WARFARE**
+
+
+**_“Information Warfare, in its most fundamental sense,_**
+
+**_is the emerging ‘theatre’ in which future nation-against-_**
+**_nation conflict at the strategic level is most likely to_**
+**_occur”._**
+
+**– George J. Stein, Cyber War, 2000.**
+
+
+2.14 IW can be defined as actions taken to achieve
+‘information superiority by adversely affecting the adversary’s
+information, information-based processes, information
+systems, and computer-based networks whilst simultaneously
+protecting one's own information, information-based
+processes, information systems and computer-based
+networks’. Correct and timely information made available to
+commanders at all levels contributes directly to effective
+Command and Control (C[2]) and helps in shortening the
+Observe-Orient-Decide-Act (OODA) Cycle (also known as the
+OODA Loop). IW has a vital impact upon the first three
+activities of the OODA Loop by disrupting the enemy's
+observation and surveillance systems, corrupting his
+orientation and misguiding his perception and thereby inducing
+him to arrive at wrong decisions.
+
+2.15 **Objectives of IW. The basic ingredients of IW are**
+
+collection of data, sifting (to extract relevant information),
+analysis and assimilation of information to create intelligence
+which will help to achieve the objectives of IW. These
+objectives are:
+     - Develop and maintain a comprehensive information
+base of the capabilities of adversaries and forecast their
+likely actions.
+
+     - Deny information about own and friendly forces to
+adversaries.
+
+     - Influence perceptions, plans, actions and the will of
+adversaries to oppose own and friendly forces by
+offensive employment of IW techniques.
+
+
+-----
+
+     - Influence non-combatant and neutral organisations
+to support friendly missions or, at least, not to resist
+friendly activities.
+
+     - Protect friendly decision-making processes,
+information and information systems.
+
+     - Degrade the information systems of adversaries.
+
+**Forms of IW**
+
+2.16 The seven forms of IW are Command and Control
+Warfare (C[2]W), Intelligence Based Warfare (IBW), Electronic
+Warfare (EW), Psychological Warfare, Cyber Warfare,
+Economic Information Warfare and Network Centric Warfare
+(NCW). These are discussed in succeeding paragraphs.
+
+2.17 **Command and Control Warfare.  The aim of C[2]W is**
+
+to influence, deny information to, degrade or destroy enemy C[2 ]
+
+capabilities while protecting own C[2 ] systems against such
+actions. C[2]W is a dominant component of IW in the military
+arsenal. C[2]W operations integrate and synchronise the
+capabilities of EW, military deception, physical destruction,
+psychological operations and operational security.
+
+2.18 **Intelligence Based Warfare.    IBW is a traditional**
+
+component of IW and occurs when intelligence is directly fed
+into operations (notably targeting and battle damage
+assessment) to bring transparency to the battlefield rather than
+being used as an input for overall C[2]. IBW is the direct
+application of battlefield intelligence instantaneously into the
+battle and aims at creating an asymmetry in the level of
+transparency or situational awareness in relation to the enemy.
+
+2.19 **Electronic Warfare.  EW is a set of military actions**
+
+taken to deny the use of the electro-magnetic spectrum to
+hostile forces while retaining the ability to use it oneself. This
+basically implies that the endeavour is to deny, degrade, delay
+or disrupt information in order to create a false picture so that
+the enemy is duped into making incorrect assessments and
+taking wrong actions. EW involves the use of electro-magnetic
+and directed energy to control the electro-magnetic spectrum
+
+
+-----
+
+or to attack the enemy. One of the most important
+developments in the field of EW has been the introduction of
+automated and integrated EW systems, which provide a high
+degree of information in addition to interception, directionfinding and jamming activities.
+
+2.20 **Psychological Warfare.** Information is one of the
+
+several means to target the human mind. Psychological
+warfare is achieved through mass media such as newspapers,
+radio and television broadcasts and distribution of leaflets. The
+prevailing state of information technology allows effective
+psychological warfare to be conducted in a very subtle
+manner. In order to be effective, psychological operations
+need to be conducted in conjunction with other operations.
+During peace time and in LIC operations, this effort can be
+termed as “psychological initiatives”.
+
+2.21 **Cyber Warfare.** This entails techniques to destroy,
+
+degrade, exploit or compromise the enemy’s computer-based
+systems. Cyber warfare includes exclusive attacks, known as
+hacking, on enemy computer networks. Computer hacking has
+evolved to a stage wherein information stored or passing
+through computer networks is interfered with to degrade the
+adversary’s C[2 ]structure.
+
+2.22 **Economic Information Warfare.  This form of warfare**
+
+uses information as power to destabilise the economy of the
+adversary. Since all revenue-generating industries of a country
+such as aviation, transport, power, banking and the like use
+computer-based systems, IW at the strategic level can play
+havoc with the national economy of the adversary.
+
+2.23 **Network Centric Warfare.** NCW focuses on the
+
+combat power that can be generated by the effective linking or
+networking of the war-fighting machinery and organisations.
+The basic elements necessary to generate the requisite
+shared battle-space awareness that can be exploited through
+self-synchronisation to achieve the overall objective are given
+below: 
+     - A virtual sensors grid that would provide a ‘grid of
+capabilities’ overlaying the battle-space instead of
+
+
+-----
+
+series of independent single sensors. This grid is
+termed as the Surveillance Grid.
+
+- To leverage the strength of the worldwide
+telecommunications infrastructure, all communication
+networks could be viewed as virtual grids overlaying the
+tactical, operational and strategic areas. This grid is
+referred to as the Communications Grid.
+
+- An abstract grid that comprises weapons available,
+sorted by suitability and availability against a hostile
+order of battle is termed as the Tactical Grid.
+
+
+-----
+
+## SECTION 6 : PRINCIPLES OF WAR
+
+
+**_“There exists a small number of fundamental_**
+
+**_principles of war, which may not be deviated from_**
+**_without danger, and the application of which, on the_**
+**_contrary, has been in all times crowned with glory”._**
+
+**– Jomini, Precis de l’ Art de la Guerre, 1838.**
+
+
+2.24 The Principles of War are broad guidelines which
+influence the conduct of war at every level of military
+operations. They are based on past experience wherein their
+application with judgement led to victory. They are not rules;
+yet disregarding them involves risk and could result in failure.
+These principles are outlined briefly in succeeding paragraphs.
+
+2.25 **Selection and Maintenance of Aim. The aim is**
+
+expressed as an intention, purpose or end state. It should be
+selected carefully, defined clearly and stated simply and
+directly. Once selected, it must be maintained.
+
+2.26 **Maintenance of Morale.** Morale is one of the more
+
+important elements of war. High morale fosters the offensive
+spirit and the will to win.
+
+2.27 **Offensive Action.  Offensive action is the chief means**
+
+of achieving victory. It results from offensive spirit and helps in
+the seizure and maintenance of initiative.
+
+2.28 **Surprise.** Surprise implies catching the enemy off
+
+balance thereby forcing him to give battle in circumstances
+unfavourable to him.
+
+2.29 **Concentration of Force.  Concentration of superior**
+
+force at the chosen place and time ensures success in battle.
+
+2.30 **Security. Security relates to the physical protection of**
+
+ground, troops, equipment, material and documents. It also
+involves denial of information.
+
+
+-----
+
+2.31 **Economy of Effort.** Economy of effort connotes
+
+balanced deployment and judicious employment of forces to
+ensure success with minimum casualties.
+
+2.32 **Flexibility.** Flexibility is the capability to react
+
+appropriately to changing situations.
+
+2.33 **Cooperation.    All agencies involved have to work**
+
+jointly towards achievement of the overall aim to achieve
+success in war. Jointmanship leads to cooperation;
+cooperation produces synergy.
+
+2.34 **Administration.  Placing the resources required at the**
+
+right place and time to help commanders at all levels to
+achieve their respective objectives is the function of
+administration.
+
+2.35 **Intelligence.  This is an addition to the widely**
+
+accepted principles of war because of its pre-eminence in any
+future conflict. Military Intelligence involves acquisition and
+exploitation of information about the enemy. Informatics plays
+a major role in ensuring that intelligence is available in time
+and in the desired form.
+
+
+**_“War should be made methodically for it should_**
+
+**_have a definite object; and it should be conducted_**
+**_according to the principles and rules of the art”._**
+
+**– Napoleon, Maxims of War, 1831.**
+
+
+-----
+
+# CHAPTER 3
+
+ OPERATIONAL PERSPECTIVES
+
+**SECTION  7 : ELEMENTS FOR OPERATIONAL SUCCESS**
+
+**SECTION  8 : OPERATIONAL READINESS AND EFFECTIVENESS**
+
+**SECTION  9 : SURPRISE AND DECEPTION**
+
+**SECTION 10 : IMPACT OF TECHNOLOGY ON OPERATIONS**
+**AND THE REVOLUTION IN MILITARY AFFAIRS**
+
+
+-----
+
+## SECTION 7 : ELEMENTS FOR OPERATIONAL
+ SUCCESS
+
+**_“War is an art and as such is not susceptible of_**
+**_explanation by fixed formula.”_**
+
+**– General George S. Patton, Jr, War As I Knew It, 1947.**
+
+3.1 **Operational Success.  War is a national undertaking**
+
+that is coordinated from the highest levels of policy-making to
+the basic levels of execution. The objective of military forces
+in war is to achieve early and decisive victory over the
+opposing forces with minimum casualties to own forces. The
+major aspects that contribute towards operational success
+are: 
+     - Understanding the various perspectives of war.
+
+     - Employing operational art.
+
+     - Judicious application of combat power.
+
+     - Efficient exercise of C[2 ]in the battlefield.
+
+**Perspectives of War**
+
+3.2 The perspective of war varies based on which level it is
+viewed from even though the objectives to be achieved at
+strategic, operational and tactical levels would flow downwards
+from the top. For clarity of understanding of the complex
+nature of operational scenarios, it is imperative that the
+commanders at all levels recognize the fine differences
+between the three levels of perspective given in succeeding
+paragraphs. These perspectives are, however, not mutually
+exclusive and do tend to overlap at the fringes.
+
+3.3 **Strategic Perspective.   Viewed from the strategic**
+
+perspective, war is a continuum to secure national policy
+objectives in concert with defined or perceived national
+security goals. The end state of a war must provide the
+
+
+-----
+
+desired political advantage. Military activity at the strategic
+level will thus be clearly influenced by political and national
+considerations. At the strategic level, military power is one of
+the elements of national power available to a state to achieve
+its goals and enforce its policies. A military commander at the
+strategic level would be required to render advice to political
+leaders which should be in the form of strategic inputs through
+the established chain of command. Strategy itself has various
+levels. At the apex there is ‘grand’ or national strategy which
+coordinates the overall approach pertaining to each element of
+national power, such as national will, economic, political,
+geographic and military power. Whereas military strategy is
+only concerned with military operations, grand strategy must,
+of necessity, take a long-term view and therefore encompass
+all elements of national power. Military strategy has been
+defined as the art of distributing and applying military means to
+fulfil ends of national policy. A more modern definition could be
+‘the art and science of employing the armed forces of a nation
+to secure policy objectives by the application of force or threat
+of use of force’. In formulating military strategy it is important to
+note that it encompasses the following salient aspects: 
+     - Identifying aims and objectives in a theatre of war.
+
+     - Outlining the general course of major operations
+and campaigns.
+
+     - Understanding the restrictions placed on military
+operations based on national policy.
+
+     - Allocating adequate resources for successful
+conduct of operations.
+
+3.4 **Operational Perspective. The operational perspective**
+
+focuses on achieving military aims or objectives at the theatre
+level and coordinating the effort of the land, air and naval
+forces where and when applicable. The operational level uses
+tactical results to achieve strategic objectives. It involves
+planning of a campaign within the specified time and space to
+achieve desired strategic goals. Viewed in comparison to the
+tactical level, it covers larger areas of conflict, has a larger time
+and space horizon and has a more critical impact on theatre
+
+
+-----
+
+level operations. Major elements of the operational level of war
+are: 
+     - Substantial combat power is kept out of contact till
+the opportune time. This is in sharp contrast to the
+tactical perspective wherein opposing forces actually
+see and engage each other and is thus more narrowly
+focused on specific military objectives.
+
+     - The operational perspective provides a wide
+enough view for the commander to enjoy independent
+command of military forces but is narrow enough to be
+relatively free of having to coordinate with the other
+elements of national strategy.
+
+     - Nonetheless, there is a need for a clear
+understanding of the strategic perspective.
+
+     - An operational perspective prevents a commander
+from over-identification with tactical battles. It is
+concerned with translation of abstract strategic aims to
+achievable tactical objectives through the design,
+organisation and conduct of major operations.
+
+3.5 **Tactical Perspective.** The tactical perspective,
+
+having the narrowest view in the hierarchy of war, essentially
+concerns itself with optimising the application of military forces
+to achieve specified objectives. This level focuses on the
+application of combat power to defeat the enemy in combat at
+a particular time and place. It includes the employment of
+firepower and manoeuvre, the integration of different arms and
+the exploitation of success. Commanders at this level concern
+themselves with purely military objectives laid down for them,
+such as destroying enemy forces, seizing specific objectives or
+denying specific pieces of ground and so on. The means used
+in tactics are combined-arms formations and the ends are
+tactical victories. These engagements may be more than one,
+running concurrently in a theatre of operations spread over
+hundreds of kilometres. Seemingly disjointed in application of
+force, they are, nevertheless, bound to a common higher goal.
+A link is required to bring these various tactical pieces together
+to create the military conditions that can achieve strategic
+goals. That link is the operational level and it is for this reason
+
+
+-----
+
+that tactical battles are built and fought around an over-arching
+operational design.
+
+3.6 **Level of Conduct.  In our context, the operational level**
+
+of war is generally at the Theatre or the Command level, while
+tactical level operations are conducted at Corps and lower
+levels. However, in certain cases where a Corps has been
+allocated an operationally strategic objective, it would be
+deemed to be conducting operations at the operational level.
+At times, depending upon the spectrum of conflict such as in
+LICO, there could be situations where even commanders
+subordinate to Theatre (Command) and Corps will have to
+work on an operational perspective as their activities may
+directly influence the achievement of strategic objectives in a
+theatre of operations.
+
+3.7 **Operational Art.  In seeking to structure major**
+
+operations, battles and engagements in pursuit of objectives,
+the operational level commander should design his campaign
+plans around a number of building blocks which help him to
+visualise as to how the operation would unfold. His skills at this
+stage form the essence of operational art. Based on the
+desired end state, he derives operational objectives, decides
+upon the ‘centres of gravity’, ‘lines of operation’ and ‘decisive
+points’ and analyses the options thrown up by the conclusions
+drawn from these. He must also keep in mind the importance
+of ‘shaping the battlefield’ by the employment of firepower and
+manoeuvre, maintaining the tempo and factoring in operational
+pauses when drawing up plans.
+
+**End States**
+
+3.8 **Conflict Termination.** Conflict is either resolved or
+
+terminated; military force contributes by the defeat of an
+opposing force. Defeat is defined as ‘diminishing the
+effectiveness of the enemy to the extent that he is either
+unable to participate in combat or, at least, not being able to
+fulfil his intention’. Conflict termination describes the point at
+which the principal means of conflict shifts from the use of
+force to other means of persuasion. Conflict termination may
+take several forms; for example, the adversary may surrender,
+withdraw or negotiate an end to the conflict. Commanders and
+
+
+-----
+
+staff must plan for conflict termination requirements when
+developing campaign plans.
+
+3.9 **Exit Policy. Victory may not always be an appropriate**
+
+term to describe the desired outcome of an operation; it may
+have to be defined in other terms such as reconciliation,
+stabilisation (acceptance of the status quo) or acceptance of
+an agreed peace plan. Where such acceptance is hesitant or
+reluctant, the prospect is of protracted involvement. While
+planning conflict termination it will be prudent to plan a suitable
+‘exit policy’ which should cater to various contingencies related
+to politico-military aims.
+
+**Application of Combat Power**
+
+3.10 **Combat Power.** Combat power defines an army’s
+
+ability to fight. It’s three basic components – conceptual, moral
+and physical – have been dilated upon in Section 8.
+Overwhelming combat power is achieved when all combat
+elements are brought to bear simultaneously with violence,
+giving the enemy no opportunity to respond in a coordinated or
+cohesive manner, and thereby achieve victory at least cost.
+
+3.11 **Modes of Application of Combat Power.   In combat**
+
+the intention is to bring about strategic dislocation of the
+adversary by causing psychological paralysis amongst its
+decision-makers. In the physical and logistical planes this is
+produced by a combination of IW, securing or isolation of
+critical objectives, threatening other objectives, capture of high
+value territory and selective destruction of the adversary’s
+combat potential. The means to achieve such a state include
+the following: 
+     - **Destruction.** Physical destruction of the enemy’s
+
+capability to fight is but one of a number of means to
+defeat him. This would require focused and coordinated
+application of decisive combat power.
+
+     - **Attacking the Enemy’s Will.  Conflict is subject**
+
+to political, economic, ethical and moral constraints.
+These limit the freedom of military action. In this
+context, attempting to destroy the enemy’s will solely by
+direct attack on his forces may be, both, costly and, at
+
+
+-----
+
+times, counter-productive. He must be made to feel
+constantly off-balance by one or more of the means
+enumerated below: 
+   - **Pre-emption.** To pre-empt the enemy is to seize
+
+an opportunity, often fleeting, before he does, in order
+to deny him an advantageous course of action. Its
+success lies in the speed with which the situation is
+subsequently exploited. Pre-emptive operations rely
+on rapid decision-making and surprise rather than
+ponderous preparation.
+
+   - **Dislocation.** To dislocate the enemy is to deny
+
+him the ability to bring to bear his strengths. Unlike
+pre-emption, dislocation is a deliberate act, and is
+critically dependent on sound intelligence rather than
+intuition. Its purpose is much wider than the frustration
+of the enemy’s plan; it is to render his strength
+irrelevant. It seeks to avoid fighting the enemy on his
+terms and can be achieved by either avoiding his
+strengths or by so fixing them that they cannot be
+used effectively. ‘Posturing,’ deep penetration thrusts
+and envelopment are classic forms of dislocation.
+
+   - **Disruption.  To disrupt is to attack the enemy**
+
+selectively, to break apart and throw into confusion
+the assets which are critical to the employment and
+coherence of his fighting power. Its purpose is to
+rupture the integrity of the enemy’s fighting potential
+and to reduce it to less than the sum total of its
+constituent parts. The enemy’s moral and physical
+cohesion can be shattered by manoeuvring in a
+manner which surprises him, using firepower
+selectively to attack targets that contribute to his
+cohesion and by imposing on him the effects of tempo
+and simultaneity.
+
+**Command and Leadership**
+
+3.12 Command is the legal authority exercised by the
+commander over his troops to accomplish his mission. It
+carries with it the responsibility for planning, organising,
+
+
+-----
+
+training, directing, coordinating and controlling military forces
+to accomplish assigned, implied or inherent missions together
+with administrative responsibility for supply, health, welfare,
+morale, discipline, assignment and relief of personnel.
+
+3.13 **Exercise of Command in Battle.  The art of command**
+
+lies in conscious and skilful exercise of authority through
+visualisation, decision-making and leadership. Effective battle
+command demands timely and correct decisions based on the
+accurate and skilful judgement of battle situations. Effective
+decision-making combines judgement with information as an
+element of combat power. The commander must be able to
+perceive the plan being implemented and the critical junctures
+where his personal decision-making will facilitate success.
+Clear thinking and level-headedness in trying situations greatly
+help in recognising the practicability of possible courses of
+action before embarking upon one of them.
+
+3.14 **Leadership in Battle.  Yet another essential quality of**
+
+a commander is effective and enlightened leadership. He
+should be fully cognizant of the strengths and vulnerabilities of
+the force that he commands. Closely overseeing and
+monitoring critical junctures in battle, being up forward to read
+the situations, offering encouragement and making on-the-spot
+decisions, particularly in adverse situations are the hallmarks
+of good leadership. Military history is replete with excellent
+instances of how great battles were won because of inspiring
+and decisive leadership.
+
+3.15 **Command and Control.** Command has two
+
+components – the commander and the C2 systems.
+Communication systems, surveillance systems and computer
+networks form the backbone of C2 systems and enable
+commanders to lead from any point on the battlefield. Reliable
+communications are central to such systems. Sound C[2 ]should
+ensure unity of effort, provide for centralised direction and decentralised execution, provide an environment for applying
+common doctrine and ensure inter-operability. Centralised
+direction and de-centralised execution are two key
+prerequisites for successful C[2]. Centralised direction is
+provided by the national leadership at the national-strategic
+level. This is then converted to a joint-services plan cojointly by
+
+
+-----
+
+the three Services and following which directives are
+transmitted to theatre commanders for execution. Informationgathering and decision-making must be centralised to enhance
+coordination and control over subordinate forces albeit with
+requisite freedom of action for subordinate commanders.
+
+**_“War is a science which depends on art for its_**
+
+**_application.”_**
+
+**– Captain Sir Basil Liddell Hart, Strategy in**
+**_Encyclopaedia Britannica, 1929._**
+
+
+-----
+
+## SECTION 8 : OPERATIONAL READINESS AND
+ EFFECTIVENESS
+
+**_“The sword drawn to prevent the drawing of swords”._**
+
+**– Samuel Purchas, Purchas His Pilgrimage, 1612.**
+
+3.16 Operational readiness is the state of preparedness of
+an organisation to perform the mission for which it is organised
+or designed. Military effectiveness is the standard by which the
+Army, from the platoon to the highest levels, is judged in peace
+and war. The efficiency with which operational readiness and
+effectiveness is achieved also needs to be optimised to ensure
+availability of maximum possible combat power when and
+where required. The level of operational readiness and
+effectiveness of a force has a major bearing on its ability to
+launch and successfully conduct operations. Ensuring
+operational readiness and effectiveness is a command
+responsibility.
+
+
+-----
+
+**Combat Power**
+
+3.17 The term ‘combat power’ defines an army’s ability to
+fight. Combat power has three basic components and their
+inter-relationship is shown in the figure below :
+**COMBAT POWER**
+
+(Ability to Fight)
+
+**CONCEPTUAL COMPONENT**
+
+(Thought Process)
+
+**Principles of War  Military Doctrine**
+
+**Development**
+
+**MORAL COMPONENT** **PHYSICAL COMPONENT**
+
+(Ability to get People to Fight) (Means to Fight)
+
+**Manpower          Equipment**
+
+**Leadership          Motivation**
+
+**Logistics      Training**
+
+**Basic Morality     Management**
+
+**National Assets and Infrastructure**
+
+3.18 **The Conceptual Component.** This can be
+
+described as the thought process behind the ability to fight. It
+is a vital component in that, commanders at various levels
+have the benefit of the concepts and doctrines evolved over a
+period of time as well as the experience of their predecessors.
+It also helps commanders to imbibe a common understanding
+of principles and yet allows the freedom of exercising
+individual styles of command. The conceptual component
+comprises principles of war, military doctrine and development.
+The contribution of principles of war and military doctrine
+towards accomplishing operational readiness and
+effectiveness has already been amplified in earlier sections of
+this book. Development requires knowledge, an innovative
+approach and a mind open to all aspects of warfare; this
+includes force organisation, structuring and equipping of
+
+|MORAL COMPONENT (Ability to get People to Fight) Leadership Motivation Basic Morality Management|PHYSICAL COMPONENT (Means to Fight) Manpower Equipment Logistics Training National Assets and Infrastructure|
+|---|---|
+
+
+-----
+
+various types of units. Commanders also need to keep abreast
+of developments taking place in the environment and should
+have adequate knowledge of management of change so that
+they can work as facilitators. The higher the level of a
+commander, the wider should be his knowledge horizon so
+that he can understand the necessity to implement the desired
+change.
+
+3.19 **The Moral Component.   The** moral component
+
+concerns the ability to get people to fight. Maintenance of
+morale is a principle of war and, as such, embraces the moral
+and physical aspects of combat power. High morale stems
+from sound training, confidence in equipment and good
+administration as well as confidence in commanders,
+discipline, self-respect and clear knowledge of what is going
+on and what is required. Yet the ability to get people to fight is
+not just a question of morale; it also involves the following
+aspects:
+   - **Basic Morality. It is extremely important that the basic**
+morality of individuals in the Indian Army is always above
+board. Professional honesty, courage of conviction,
+integrity, tolerance to accept reality and differing points of
+view are some of the essential qualities which should
+always be encouraged. The higher the position in the
+hierarchy, the greater should be the commitment to moral
+values. In addition, a commander should posses the
+courage to take hard decisions.
+
+   - **Motivation.  Soldiers who are well motivated, and well**
+led work as a team. Teamwork breeds comradeship which,
+in turn, leads to pride in belonging to a team and fosters
+_esprit de corps._ Motivation thrives on a continuing sense of
+purpose and it is the job of the commander to instil this
+purpose. Although national will, reflected in Government
+directives, serves to give the soldier this sense of purpose,
+it is the responsibility of the commander to make soldiers
+fully identify with these. It must be clearly understood that
+leading soldiers in pursuit of causes that they do not
+understand is a daunting task.
+
+
+-----
+
+   - **Leadership.** There are many definitions of military
+
+leadership. However, most simply defined, military leadership
+is the projection of personality and character by the leader to
+get soldiers to do what is required of them. Skill in the
+techniques of leadership is the foremost quality in the art of
+command and contributes very largely to success at all levels
+of war.
+
+   - **Management.** Good management can have considerable
+bearing upon morale and on military effectiveness. It involves
+making the best use of available resources in accomplishment
+of the mission. Management skills are essential elements of
+good and efficient military leadership.
+
+3.20 **The Physical Component.  The physical component is**
+the means to fight. It is defined as the total means of destructive
+or disruptive force which a military unit or formation can apply
+against the opponent at a given time. The ‘total means’ include
+the organising and provisioning of the main elements of combat
+power which are manpower, equipment, logistics, training and
+national assets.
+
+**Operational Readiness**
+
+3.21 Readiness of the Indian Armed Forces to meet national
+emergencies is a facet of national level endeavour. It calls for a
+synergised effort by all instruments of the Government to ensure
+that these forces are moved to their areas of operations, fullyequipped and within an acceptable timeframe. The Government,
+on its part, would indicate and maintain a clear and strong resolve
+to go to war when it orders a general mobilisation. There may
+also be other methods of preparation for war even without
+ordering general mobilisation. On the part of the Armed Forces,
+they are responsible for ensuring that they are operationally
+ready, troops are in a high state of morale and units are
+appropriately trained to execute the missions assigned to them.
+
+3.22 Military mobilisation in the Indian context involves
+considerable effort because of the wide geographical spread of
+the peacetime locations of our units and formations, the
+considerable extent of our borders and the multiplicity of agencies
+that need to coordinate their actions in order to make it effective.
+
+
+-----
+
+## SECTION 9 : SURPRISE AND DECEPTION
+
+**_“Generally, in a conflict,_**
+**_The Straightforward will lead to engagement and_**
+**_The Surprising will lead to triumph”._**
+
+**– Sun Tzu, The Art of War.**
+
+**Surprise**
+
+3.23 Surprise in war is a potent force multiplier. The payoffs
+of surprise are almost always in geometric proportions and it
+multiplies the chances of achieving quick and decisive military
+victory. As a decisive factor at all levels of warfare, and duly
+acknowledged as an autonomous principle of war, surprise
+allows the side that achieves it to concentrate superior forces
+unnoticed at the point of decision and to beat the opponent in
+terms of time, place, method or new technologies. The
+purpose of surprise, in essence, is to make the enemy react in
+an irrational and uncoordinated manner.
+
+3.24 Strategic surprise can herald both the beginning and
+the end of a war. Considering the scope of its effects and the
+level at which it is planned, the phenomenon of military
+surprise can be classified as strategic, operational or tactical.
+However, in practice, the distinction between the strategic and
+operational and operational and tactical surprise is often hazy
+and they invariably tend to overlap. With battlefield
+transparency improving by the day, the ability to effect true
+surprise is progressively reducing. Military planners, therefore,
+need to concentrate more on deception, as a good and wellcoordinated deception plan would help to achieve surprise.
+
+**Deception**
+
+3.25 Deception needs to be developed as an integral
+component of peacetime and wartime national security policy.
+Deception is intentional, purposeful, calculated and deliberate.
+The target of deception should be the adversary’s decisionmaking system. Deception should create perceptions and
+thereafter reinforce them. Deception should aim at misleading
+an adversary with regard to detectable information, whether
+
+
+-----
+
+actual or notional, by obscuring it. Often, the best and simplest
+deception is the presentation of the truth but in such a form
+that the adversary disbelieves it.
+
+3.26 It must be clearly understood that given today’s
+battlefield transparency, deception, in addition to surprise will
+be very difficult to achieve in the first instance; retaining the
+advantage that flows from it for an appreciable period of time
+will be even more difficult. For that reason alone this is one
+aspect which will require very thorough study, preparation and
+conceptualization.
+
+3.27 Military deception operations are an inherent and
+expected responsibility of command at division level and
+above. It needs to be coordinated at the highest level to be
+effective and, should therefore, be indivisible from all other
+parts of the conception, planning and execution of military
+operations in peace and war. Deception ought to be intrinsic to
+and inseparable from all military thought and action, rather
+than a mere annexure, afterthought or an adjunct. The
+planning and practice of deception must be systematically
+integrated into devising a military strategy.
+
+3.28 The process of deception is interactive and follows the
+sequential steps of planning, evaluation, coordination,
+integration, approval and execution. On completion of the last
+step of execution the situation needs to be re-analysed and
+process repeated, if required. The advent of IW offers
+unprecedented opportunities for deception operations in
+scope, effect and imagination. It is imperative that deception
+operations are planned as meticulously as actual operations, if
+not more. Deception plans may even be implemented by
+designated headquarters, supported by suitable allocation of
+resources. Nothing should be left to chance as an unfounded
+or unacknowledged assumption, supposition or assertion.
+Those charged with planning, approving, and executing
+deception operations, as well as the operators, must be
+absolutely adept in all the processes that these involve.
+Training and exercises should integrate the aspect of
+deception and appropriate resources should be instituted to
+develop and refine the art.
+
+
+
+**_[“Modern technology provides battlefield transparency ]_**
+
+**_and hinders concealment; audacity of plans and speed of_**
+**_operations could be potent instruments to gain surprise”._**
+
+**– General NC Vij.**
+
+
+-----
+
+## SECTION 10 : IMPACT OF TECHNOLOGY ON
+ OPERATIONS AND THE REVOLUTION IN
+ MILITARY AFFAIRS
+
+
+“Information Warfare has the potential not only, to
+**_be a force multiplier, but also to be a force equaliser”._**
+
+**– Michael Loescher, Cyber War, 2000.**
+
+
+**Impact of Technology on Operations**
+
+3.29 **Emphasis on IW.  With** the induction of better
+
+communication systems and the creation of a networked
+environment, our ability to collect, collate and analyse diverse
+inputs received from various agencies has been greatly
+enhanced. However, the vulnerabilities of such systems to
+disruption by the enemy have also increased and its resultant
+impact on conduct of operations would be magnified in
+proportion to the dependence on it. Due to the dependence of
+military forces on such systems, the role of technology in
+future warfare has expanded considerably, thereby enlarging
+our earlier concept of EW to C[2]W, which incorporates all
+functions of command dependent on communications and
+computers. Thus in a network-centric environment, the
+emphasis will shift to IW and the various active and passive
+measures which form part of it.
+
+3.30 **Increased Battlefield Transparency and Situational**
+
+**Awareness.** Today newer and better systems are available
+
+for the conduct of surveillance, identification and monitoring of
+the enemy and these have improved situational awareness.
+The nature of sensors and their platforms have extended the
+range of observation and enhanced the resolution thereby
+providing greater accuracy and detail in a shorter timeframes.
+The overall aim is to create a technological asymmetry so as
+to be in a better position to see, locate and monitor enemy
+forces and to plan for their destruction, degradation or
+disruption. In such an environment newer techniques or
+methods would be required to achieve surprise and deception.
+
+
+-----
+
+Increased reconnaissance and surveillance capability will
+enable manoeuvre force commanders to concentrate superior
+combat power at points of decision.
+
+3.31 **Enhancement in Degradation Capability. The range,**
+
+precision and throw-weight of weapon systems have increased
+substantially and have greatly enhanced the degradation
+capability of all forces. These weapon systems, coupled with
+
+air power, will be used in exploiting gains in battlefield
+transparency to shape the battlefield. Enhanced precision and
+stand-off engagement capability, along with transparency
+sensors, will act as force multipliers.
+
+3.32 **Reduced Reaction Time. The time required for**
+
+passage of information and orders will be reduced due to
+improved communications and networking. Accordingly,
+greater emphasis will have to be placed on directive style of
+command. The use of Command, Control, Communication,
+Computers, Intelligence, Information, Surveillance and
+Reconnaissance (C[4]I[2]SR) systems will result in expansion of
+the battle-space and compression of the time dimension.
+However, the adverse impacts of ‘information overload’ on the
+decision-making process of own forces need to be borne in
+mind and avoided.
+
+
+-----
+
+3.33 **Night Fighting.** Technology has significantly
+
+improved night fighting capability. The ever increasing
+availability of new generation night vision devices will impact
+beneficially on tactical concepts.
+
+3.34 **Deception.** Enhanced battlefield transparency will
+
+demand greater emphasis on deception so as to confuse or
+deceive the enemy about own movement, concentration, aim
+and intended area of operations. Management of the enemy’s
+perceptions through C[2]W would become important in the
+future. This could well be achieved with modern technology by
+attempting to reinforce the enemy’s beliefs and thereafter
+employ the tools of IW to blind or mislead enemy surveillance
+as part of a well coordinated plan.
+
+3.35 **Enhanced Mobility.** Mobility of ground forces,
+
+especially in the plains and deserts has improved
+considerably. Enhanced battlefield transparency will facilitate
+and even require a shift from the existing attrition-based or
+positional concept of operations to that based predominantly
+on manoeuvre in offensive as well as defensive operations.
+
+3.36 **Enlarged Battle Area.  Better surveillance capabilities,**
+
+enhanced mobility of forces in the tactical battle area, longer
+ranges of weapon systems, state-of-art communication
+systems, information technology enabling effective C[2 ]of forces
+over vastly extended areas have enlarged the battle-space.
+The ability to conduct non-linear and simultaneous operations
+at greater depths adds to the battle-space over which a
+commander needs to exercise C[2].
+
+**Revolution In Military Affairs (RMA)**
+
+3.37 Recent conflicts have highlighted the dramatic impact of
+technology on warfare. This has caused a significant shift in
+the very nature of war-fighting and is bringing about a RMA.
+Although we may not have the wherewithal to draw full
+benefits from it at present, the underlying message is
+unambiguous – technology gives a clear edge and needs to be
+exploited to our advantage. We need to conceive and work
+towards a ‘homespun’ RMA that meets our needs and gives us
+an edge over our potential adversaries. Towards this end it will
+
+
+-----
+
+be essential to institutionalise methods for assimilating
+technology and adapting, and even anticipating, changes in
+doctrine, tactics and organisations. In so doing, special
+attention needs to be paid to the impact of RMA on LIC and
+asymmetric warfare waged by non-state actors.
+
+3.38 RMA is termed as ‘a major change in the nature of
+warfare brought about by the innovative application of new
+technologies, which, combined with the dramatic changes in
+military doctrine, operational concepts and operations,
+fundamentally alters the character and conduct of military
+operations’.
+
+3.39 The main constituents of RMA are doctrine, technology,
+tactics and training. Although the revolution is driven by
+technology, changes in doctrine, tactics and training are
+equally if not more important. Thus, the RMA, apart from the
+aspect of routine evolution that an Army undergoes in the
+process of modernisation, involves a transformation in the
+nature and conduct of military operations. It is the synergetic
+outcome of advances in technology suitably absorbed and
+applied by armed forces. There is a need, therefore, to focus
+on emerging technologies available to the armed forces to
+meet the strategic, operational and tactical requirements of the
+future and analyse the effect of cutting-edge technologies on
+future requirements. While doing so, aspects relating to
+orchestration of human resources and re-orientation of
+training, which are imperative for unleashing the full potential
+of emerging technologies, must be factored in as technology
+alone can not influence the course of war unless there is a
+transformation in the manner armed forces think, train and
+fight.
+
+3.40 The backbone of RMA is a C[4]I[2]SR system which
+facilitates dominant battle-space awareness and will therefore
+constitute a major thrust area. Five major components of RMA
+are IW, dominant manoeuvre, precision engagement, full
+dimensional protection and focused logistics. Advances in
+C[4]I[2]SR also make possible a new concept in war fighting viz
+NCW.
+
+
+-----
+
+3.41 Analysis of major components of RMA indicates that
+they have great applicability in our context. We may however,
+have to follow an incremental approach in embracing these
+principles and acquiring the relevant technology. IW will form a
+key component of our war fighting doctrine. The excellent
+support base and infrastructure in information technology that
+is available in the country should be optimally exploited.
+
+3.42 NCW has great potential in our context. We need to
+evolve our concept based on our security compulsions.
+Investment in ‘infostructure’ is an absolute imperative. This
+must be done jointly in conjunction with other Services so that
+seamless operations can be undertaken. As we progress to
+higher levels of technology, our ability to undertake NCW
+operations can be further refined. The advantages of operating
+with geographically dispersed forces must be fully exploited
+particularly in the backdrop of a nuclearised environment.
+
+3.43 Meeting the challenge of RMA may demand substantial
+changes in our concepts, organisational philosophies and,
+most of all, attitudes. Concepts and organisational structures
+for exploitation of RMA would need to be evolved as the
+inevitable move towards greater use of high technology takes
+place.
+
+3.44 RMA will have a dramatic effect on the Army and
+conduct of warfare through trends like lethality and dispersion,
+volume and precision of fires and their effects, processing and
+use of information, invisibility and detectability. Technologies
+that would need to be invested in are in the spheres of
+projecting and protecting the force, decisive operations,
+shaping of the battlefield and integrated logistics. Indigenous
+development of technologies to achieve self reliance will need
+sufficient investment to keep pace with RMA.
+
+3.45 The impact of RMA on LIC is not as dramatic as in the
+field of conventional conflict. This does not imply that RMA has
+little to do in LIC; on the contrary, technology can play a
+significant role in LIC. We need to constantly refine our
+doctrines, concepts, organisations and tactics so as to
+optimise the effect of RMA in LIC.
+
+
+-----
+
+**_“The instruments of battle are valuable only if one_**
+
+**_knows how to use them”._**
+
+**- Ardant du Picq, Battle Studies,1821-1870.**
+
+
+-----
+

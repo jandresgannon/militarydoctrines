@@ -1,0 +1,538 @@
+Apstiprināta Ministru kabinetā 2020. gada Pieņemta Saeimā 2020. gada VALSTS AIZSARDZĪBAS KONCEPCIJA
+Rīga 2020
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | SATURS   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Ievads 4 1. Drošības vides raksturojums 5 1.1. Globālās tendences 5 1.2. Reģionālās tendences 6 2. Valsts aizsardzības stratēģiskie mērķi 8 2.1. Valsts aizsardzības mērķis 8 2.2. Valsts aizsardzības stratēģija 8 3. Valsts aizsardzības stratēģiskie pamatprincipi 10 3.1. Nacionālie bruņotie spēki 10 3.1.1. Konvencionāla aizsardzība 10 3.1.1.1. Agrā brīdināšana 10 3.1.1.2. Komandvadības un sakaru sistēmas 10 3.1.1.3. Ātrā reaģēšana 11 3.1.1.4. Robežsardzes un Latvijas Bankas Aizsardzības pārvaldes  integrēšana 11 3.1.1.5. Kaujas gatavības uzturēšana 11 3.1.1.6. Decentralizēta aizsardzība 12 3.1.1.7. Infrastruktūra 12 3.1.1.8. Pretmobilitāte 12 3.1.1.9. Miera un kara laika nodrošinājuma pamatprincipi 12 3.1.1.10. Uzņemošās valsts atbalsts 13 3.1.1.11. Sadarbība ar civilajām struktūrām 13 3.1.2. Aizsardzība pret hibrīdapdraudējumu 13 3.1.3. Pretošanās kustība 14 3.2. Visaptveroša valsts aizsardzība 14 3.2.1. Valsts varas nepārtrauktība 15 3.2.2. Sabiedrības noturība 15 3.2.3. Informācijas telpas aizsardzība 15 3.2.4. Tautsaimniecības noturība 16 3.2.5. Nevalstiskās organizācijas 16 3.2.6. Baznīca 17 3.2.7. Civilā pretošanās 17 |          |
+
+| 3.2.8.     Kiberdrošība                                          |                              |
+|------------------------------------------------------------------|------------------------------|
+| 3.2.9.    Jauniešu audzināšana.                                  |                              |
+| 3.3.                                                             |                              |
+| 3.3.1.    Reģionālā klātbūtne.                                   |                              |
+| 3.3.2.     NATO ticamība .                                       |                              |
+| 3.3.3. Gatavība reaģēt                                           |                              |
+| 3.4.                                                             | Starptautiskā sadarbība      |
+| 3.4.1. ASV kā stratēģiskais partneris                            |                              |
+| 3.4.2. Baltijas valstu sadarbība.                                |                              |
+| 3.4.3. Kanāda.                                                   |                              |
+| 3.4.4. Apvienotā Karaliste .                                     |                              |
+| 3.4.5. Polija.                                                   |                              |
+| 3.4.6.   NATO paplašinātās klātbūtnes kaujas grupas dalībvalstis |                              |
+| 3.4.7. Vācija.                                                   |                              |
+| 3.4.8. Francija                                                  |                              |
+| 3.4.9. Ziemeļvalstis .                                           |                              |
+| 3.4.10. Ukraina un Gruzija .                                     |                              |
+| 3.4.11. Bruņojuma kontrole                                       |                              |
+| 3.4.12. NBS dalība miera uzturēšanas operācijās.                 |                              |
+| 3.5.                                                             | Eiropas Savienība            |
+| 3.6.                                                             | Valsts aizsardzības resursi. |
+| 3.6.1. Budžets .                                                 |                              |
+| 3.6.2. Personāls                                                 |                              |
+| 3.6.3. Piegādes drošība                                          |                              |
+| 3.6.4.   Nozaru materiāltehnisko līdzekļu rezerves               |                              |
+| 3.6.5. Industrija                                                |                              |
+| 3.6.6.                                                           | Stratēģiskā partnerība       |
+| 3.6.7. Inovācijas                                                |                              |
+| 3.6.8.                                                           | Mobilizācijas resursi        |
+| 4.                                                               | Noslēguma uzdevumi .         |
+
+# Ievads
+
+Valsts aizsardzības koncepcija ir politikas plānošanas dokuments, kas nosaka valsts aizsardzības stratēģiskos mērķus un darbības pamatprincipus. 
+
+Valsts aizsardzība attiecas uz ikvienu Latvijas iedzīvotāju. Tāpēc valsts aizsardzības garantēšana ir ne vien valsts varas un pārvaldes institūciju pienākums, bet arī katra indivīda atbildība. Ja ikviens pret savu un valsts drošību izturēsies un rīkosies atbildīgi, tiks sasniegts valsts aizsardzības mērķis un sabiedrība būs sagatavota pārvarēt krīzes un citus satricinājumus.
+
+Valsts aizsardzības koncepcija tiek izstrādāta, ņemot vērā Militāro draudu analīzi un Latvijas ģeopolitisko un iekšpolitisko situāciju. Atbilstoši Nacionālās drošības likumam, pamatojoties uz Valsts aizsardzības koncepcijā noteiktajiem mērķiem un principiem, tiek izstrādāts Valsts aizsardzības plāns, kas ietver konkrētus pasākumus mērķu īstenošanai. Informācija par Valsts aizsardzības plāna saturu sabiedrībai nav publiski pieejama drošības apsvērumu dēļ.
+
+Valsts aizsardzības koncepcija ir rakstīta laikā, kad sabiedrība cieš no dažāda veida nemilitāriem apdraudējumiem. Pandēmijas, ekonomikas krīzes, dabas katastrofas un citi satricinājumi būtiski ietekmē ne tikai sabiedrības drošību, veselību un labklājību, bet arī valsts stabilitāti kopumā. Valstij, risinot šo izaicinājumu radītās sekas, ir svarīgi saglabāt militāro modrību un bruņoto spēku kaujas gatavību. Iepriekšējās krīzes laikā, kad aizsardzības jautājumi tika atstāti novārtā, tika apturēta bruņoto spēku spēju attīstība. Tādēļ, apzinoties reģionālo drošības situāciju, tikai konsekventi un pragmatiski stiprinot valsts aizsardzību, spēsim pretoties ārējai ietekmei un ātri atjaunoties pēc krīzēm.
+
+# 1. Drošības Vides Raksturojums
+
+## 1.1. Globālās Tendences
+
+Daudzpusējā starptautiskā pasaules kārtība, kas veidojusies un institucionāli nostiprinājusies pēc Aukstā kara beigām, lai ar starptautisko organizāciju un režīmu palīdzību veidotu savstarpēji saistošus noteikumus un mazinātu starpvalstu konfliktu iespējamību, piedzīvo būtiskas pārmaiņas. Neskatoties uz spēkā esošām un juridiski saistošām konvencijām, politiskiem līgumiem, funkcionējošām drošības institūcijām un instrumentiem, dažas valstis klaji ignorē starptautiskās normas un valstu suverenitāti. Šāda tendence liecina par starptautisko organizāciju efektivitātes trūkumu drošības garantēšanā un daudzpusējās pieejas mazināšanos drošības pārvaldībā.
+
+Pastāvošās starptautiskās kārtības tendences raksturo spēka politika, un izmaiņas starptautiskajā drošības vidē aizvien ir grūti prognozējamas. Drošības izaicinājumu dažādība, t.sk. jauno tehnoloģiju attīstība, terorisms, privātās militārās un drošības kompānijas, klimata pārmaiņas, pandēmijas, rada nopietnus draudus daudzpusējam pasaules attīstības modelim.
+
+Globālās sistēmas fragmentācijas iespaidā daudzpusējo pieeju pakāpeniski aizstāj unilaterālisms, kurā domstarpības tiek risinātas no spēka pozīcijām. Šim procesam turpinoties, pieaugs konfrontāciju un konfliktu risks, tādēļ valstu bruņotajiem spēkiem būs pieaugoša nozīme starptautiskajās attiecībās. Spēka politika kļūst potenciāli bīstama valstīm, kuras atrodas ģeogrāfiski tuvu ambiciozajām reģionālajām lielvarām, tai skaitā - Latvijai, radot nepieciešamību vēl vairāk stiprināt NATO valstu vienotību un militārās spējas.
+
+Eiropas valstu nepietiekamie militārie izdevumi turpina ietekmēt spējas adekvāti reaģēt gan uz Eiropas valstu militāro apdraudējumu, gan uz krīzēm ārpus to teritorijām. Kaut arī mazinās ASV politiskā griba uzturēt pasaules kārtību, Eiropas valstu militārā atkarība no ASV saglabājas gan kolektīvās aizsardzības, gan starptautisko operāciju jomā. 
+
+Ceturtās industriālās revolūcijas ietekmē rodas jaunas tehnoloģijas, kurām ir nozīmīga loma ne tikai valsts aizsardzībā, bet visas sabiedrības dzīvē. Jaunās tehnoloģijas, sociālo tīklu attīstība un pieaugošā sabiedrības tehnoloģiskā atkarība jau šobrīd maina sabiedrības informatīvās telpas lietošanas paradumus un atklāj arvien jaunas ievainojamības, paverot plašas manipulācijas iespējas. Tas nākotnē vairāk apdraudēs demokrātiskas valstis nekā autoritāros režīmus, kas ne tikai pārrauga sociālos tīklus un internetu, bet arī izmanto jaunās tehnoloģijas savu pilsoņu kontrolei un ietekmēšanai.
+
+Teroristiskie grupējumi un organizācijas turpina ietekmēt valstu iekšpolitiskās norises un starptautiskās attiecības. Eiropā, Tuvajos Austrumos un Ziemeļāfrikā ir būtiski palielinājies teroraktu skaits. Pieaug risks, ka teroristiskās organizācijas aizpildīs ekonomiski un politiski vāji attīstītu valstu radīto varas vakuumu, piedāvājot alternatīvu tradicionālajai valsts pārvaldības struktūrai.
+
+Privātās militārās un drošības kompānijas ir kļuvušas par mūsdienu bruņoto konfliktu daļu. Atsevišķas valstis *de facto* izmanto privātās militārās un drošības kompānijas, lai sasniegtu nacionālās ambīcijas, vienlaikus noliedzot tiešu saistību ar algotņiem. Šīs kompānijas ir instruments, kas sniedz pakalpojumus, piemēram, loģistiku un izlūkošanu, spēku aizsardzību un apmācību, ko tradicionāli nodrošina valsts. Nākotnē var pieaugt privāto militāro un drošības kompāniju loma starptautiskās intervencēs un radīt drošības riskus, iejaucoties suverēnu valstu lietās.
+
+Globālās klimata pārmaiņas padara daudzus pasaules reģionus neapdzīvojamus, veicinot jaunus konfliktus un cilvēku migrāciju, kas tiešā vai netiešā veidā ietekmē arī Eiropas drošību. Pandēmijas, tehnogēnās krīzes un dabas katastrofas var īpaši smagi skart ne tikai Latviju, bet arī citas tehnoloģiski un sociāli augsti attīstītas valstis.
+
+Pandēmija "COVID19" apliecina ne tikai globalizētās pasaules ievainojamību, bet arī atklāj nopietnus riskus globālajā ekonomikā. Vitāli svarīgo preču ražošanas koncentrācija krīzes situācijās rada nopietnas piegāžu drošības problēmas un mazina vitāli svarīgo preču pieejamību tirgū. Vienlaikus ir skaidrs, ka mūsdienās pat pandēmija tiek izmantota, lai īstenotu valstu ģeopolitiskās ambīcijas gan ar konvencionāliem, gan asimetriskiem līdzekļiem. 
+
+Globālās tendences liecina, ka līdzšinējais spēku līdzsvars ir mainījies un ka saglabāt mieru un stabilitāti tikai ar diplomātiskiem un ekonomiskiem līdzekļiem kļūst arvien sarežģītāk. Pakāpeniski samazinoties Eiropas un Ziemeļamerikas militārajām un tehnoloģiskajām priekšrocībām, lielāku lomu iegūs reģionālās varas centri, kas sacentīsies par dominanci starptautiskajās attiecībās. Starptautiskās kārtības pārmaiņu radītie izaicinājumi liek ne vien turpināt uzturēt sabiedroto valstu vienotību, bet arī stiprināt nacionālās aizsardzības spējas, demonstrējot solidaritāti un ticamu atturēšanas un aizsardzības politiku.
+
+## 1.2. Reģionālās Tendences
+
+Kopš 2014. gada Krievijas iebrukuma Ukrainā drošības situāciju Baltijas jūras reģionā lielā mērā ietekmē Krievijas izaicinošās un agresīvās militārās un hibrīdās aktivitātes. Krievija ir plaši ietekmējusi vēlēšanas, sabiedrisko domu un politiķus, izmantojot informatīvā kara un kiberuzbrukuma metodes. Pieaug disidentu vajāšana, notiek slēptas un atklātas militārā spēka demonstrācijas, kas vēl pirms neilga laika tika uztvertas kā Aukstā kara relikts. Krievijas rīcībā ir skaidri saskatāms nākotnes starptautisko attiecību modelis - viss, par ko nevar saņemt sodu vai atbildes reakciju, ir atļauts.
+
+Krievija turpina attīstīties kā autoritāra valsts, kuras galvenais spēks ir tās militārās spējas. Nesen ierosinātās izmaiņas Krievijas konstitūcijā tikai nostiprina esošos procesus: ekonomisko stagnāciju, valsts atkarību no dabas resursu cenām un sabiedrības dzīves līmeņa samazināšanos. Ekonomiskā atpalicība tiek kompensēta ar 2. pasaules kara un 9. maija kulta stiprināšanu, militārās varenības demonstrēšanu, kā arī slēptu demokrātisko valstu iekšpolitisko procesu ietekmēšanu. 
+
+Izplatītais stāsts Krievijas iedzīvotājiem, ka Krievija ir ienaidnieku "ielenkts cietoksnis", turpinās būt svarīgs arguments, lai attaisnotu iedzīvotāju sociālekonomiskās problēmas. Karš Ukrainā, kā arī mēģinājumi mazināt Baltkrievijas neatkarību norāda uz augošajām Krievijas ambīcijām. Nākotnē iezīmēsies arvien nopietnāki mēģinājumi mainīt ģeopolitisko situāciju Eiropā, neizslēdzot iespēju lietot militāru spēku. 
+
+Krievijas valsts kontrolētie mediji apzināti kultivē negatīvu Latvijas tēlu, kur latvieši un Latvijas valsts pārvalde tiek atainoti kā rusofobiski un nacistiski. Rezultātā, kā liecina sabiedriskās domas aptaujas, Krievijas sabiedrībā jau ilgstoši Latvija tiek uztverta kā viens no galvenajiem Krievijas ienaidniekiem. Krievijas Federācijā apzināti tiek uzturēta piemērota augsne, kas attaisno agresiju pret Latviju.
+
+Pēc Padomju Savienības sabrukuma Latvija, kam nav ne bagātu naftas, ne dabas gāzes resursu, kā demokrātiska valsts ir sasniegusi augstāku dzīves līmeni nekā Krievija ar savu dabas resursu pārpilnību. Tādēļ sagaidāms, ka Krievija arī turpmāk centīsies rādīt Latviju kā neizdevušos valsti, lai maskētu gan vēsturisko sociāli ekonomisko kaitējumu, ko Padomju Savienība nodarījusi okupētajām valstīm, gan nespēju mūsdienās nodrošināt sabiedrībai augstu dzīves līmeni.
+
+Pēdējos gados Krievija ir ieguldījusi milzu līdzekļus un attīstījusi militārās spējas rietumu stratēģiskajā virzienā, veidojot jaunas vienības, ieviešot modernu bruņojumu, kā arī pastiprinot Kaļiņingradas apgabalā izvietotās militārās vienības. Militārajās mācībās un spēju attīstībā liels uzsvars tiek likts uz spēku mobilitāti, augstas gatavības vienībām un Baltijas jūras un gaisa ceļu bloķēšanu. Vienlaikus Krievija nevar atļauties pilna mēroga globālu konvencionālu karu ar NATO. Tādēļ tās reālākā iespēja ir hibrīdkarš un pārsteidzošs uzbrukums, lai sagrābtu kādu teritoriju, kā tas jau tika īstenots Gruzijā un Ukrainā. Nepieciešamības gadījumā varētu sekot draudi lietot taktiskos kodolieročus.
+
+Lai arī karš Ukrainas austrumos nav beidzies, pamazām iezīmējas "nogurums" neatrisināto problēmu dēļ, ko karš ir radījis. Šajā sakarā atsevišķas Eiropas valstis arvien biežāk izrāda vēlmi dot priekšroku ekonomiskiem labumiem iepretim demokrātijas principiem, tā demonstrējot vēlmi atjaunot attiecības ar Krieviju, kādas tās bijušas pirms 2014. gada. Par to liecina arī "COVID 19" krīzes izraisītās starptautiskās sadarbības tendences, tādēļ varētu pieaugt Krievijas aktivitātes, lai veicinātu Rietumvalstu iniciatīvu ātrāk atjaunot sadarbību. 
+
+Kopš 2014. gada atturēšanas pasākumi Baltijas reģionā, gan attīstot nacionālās spējas, gan izvietojot NATO spēkus, ir mazinājuši apdraudējumu. Baltijas valstu drošība un aizsardzība lielā mērā būs atkarīga no spējas turpināt pilnveidot Nacionālos bruņotos spēkus un NATO kolektīvo aizsardzību, jo Krievijas iekšpolitiskā nestabilitāte un ārpolitiskās ambīcijas arī turpmāk liks meklēt vājos mērķus, pret kuriem vērst agresiju, tā novēršot uzmanību no iekšējām problēmām un apliecinot pasaulei Krievijas militāro potenciālu.
+
+# 2. Valsts Aizsardzības Stratēģiskie Mērķi
+
+## 2.1. Valsts Aizsardzības Mērķis
+
+Latvijas iedzīvotājus un Latvijas valsti nepārtraukti ir ietekmējuši Eiropas ģeopolitiskie notikumi. Latvijas tauta savā vēstures gaitā ne vienreiz vien ir piedzīvojusi eksistenciālus draudus, tāpēc valsts aizsardzība ir Latvijas valsts un tautas pastāvēšanas stūrakmens. 
+
+Valsts aizsardzības mērķis ir novērst un pārvarēt iespējamo valsts apdraudējumu, garantēt valstiskumu, valsts varas un iekārtas rīcībspēju un nepārtrauktību, kā arī sekmēt visu Latvijas iedzīvotāju atbildīgu attieksmi pret valsti un tās drošību.
+
+## 2.2. Valsts Aizsardzības Stratēģija
+
+Valsts aizsardzības stratēģijas mērķis ir padarīt Latvijas aizsardzību pietiekami spēcīgu, lai jebkurš uzbrukums radītu agresoram ievērojami lielākus zaudējumus, salīdzinot ar potenciālajiem ieguvumiem, tādā veidā atturot to no uzbrukuma veikšanas. 
+
+Neatkarīgi no spēku samēra Nacionālie bruņotie spēki ir gatavi aizsargāt Latviju militāra uzbrukuma gadījumā, un nevienam potenciālajam agresoram nav jādzīvo ilūzijās, ka Latvijas teritoriju var atņemt bez pretestības vai ievērojamiem zaudējumiem. Līdztekus kolektīvās aizsardzības garantijām Latvijas sabiedrībai ir jābūt skaidrai izpratnei par to, ka neviens cits neaizsargās Latviju, ja Latvijas sabiedrība pati nebūs gatava to darīt.
+
+Ņemot vērā moderno tehnoloģiju attīstību un sabiedrības ietekmēšanas metodes, izmantojot interneta un lielo datu palīdzību, atturēšana vairs nav nodrošināma tikai ar militāriem līdzekļiem. To veido arī sabiedrības griba aizsargāt valsti un savlaicīga sagatavotība visdažādākā veida satricinājumiem. Sabiedrības psiholoģiskā noturība miera laikā kļūst arvien nozīmīgāks faktors ārējās ietekmēšanas mazināšanā un atturēšanas nodrošināšanā. 
+
+Visaptveroša aizsardzība ir labākais instruments, kā veidot noturīgu sabiedrību.
+
+Visaptveroša aizsardzība ne tikai cels gatavību pārvarēt miera un kara laika satricinājumus, bet arī mazinās neuzticības plaisu starp iedzīvotājiem un valsts pārvaldi, kā arī vienos sabiedrību kopumā.
+
+Valsts aizsardzība balstās uz četriem galvenajiem darbības virzieniem:
+- **NACIONĀLIE BRUŅOTIE SPĒKI.** Nacionālo bruņotie spēku mērķis ir nodrošināt valsts varas nepārtrauktību, spēju pieņemt lēmumus un ātri reaģēt uz negaidītu uzbrukumu, ātri lokalizēt slēptu agresiju, identificēt apdraudējumu, izvērtēt un likvidēt to. Masīvas militārās agresijas gadījumā Nacionālajiem bruņotajiem spēkiem jānovājina un jāaizkavē pretinieks un jārada tam maksimāli zaudējumi. Valsts teritorijas okupācijas gadījumā Nacionālie bruņotie spēki organizē sabiedrības pretošanās kustību.
+
+- VISAPTVEROŠA **AIZSARDZĪBA.** Visaptverošas valsts aizsardzības mērķis ir nodrošināt, ka valsts institūcijas, sabiedriskās organizācijas un pilsoņi ir gatavi nodrošināt atbalstu Nacionālajiem bruņotajiem spēkiem un īstenot vitāli svarīgas funkcijas sabiedrības un tautsaimniecības pastāvēšanai, kā arī civilās aizsardzības darbību kara laikā. Sabiedrības noturība ir balstīta uz psiholoģisko noturību pret ārējo iedarbību un savlaicīgu sagatavošanos, lai krīzes un kara laikā visi sabiedrības locekļi ir informēti, zina savus pienākumus un vēlamo rīcību.
+
+- **NATO KOLEKTĪVĀ AIZSARDZĪBA.** NATO vienotība, sabiedroto spēku klātbūtne Latvijā un Ziemeļatlantijas līguma 5. panta garantiju ticamība ir galvenie NATO kolektīvās aizsardzības elementi, kas nodrošina pret Latviju vērstas agresijas atturēšanu. 
+
+- **STARPTAUTISKĀ SADARBĪBA.** Lai nodrošinātu pilnvērtīgu atturēšanu un valsts gatavību ārējai agresijai, būtiski ir stiprināt arī divpusējo militāro sadarbību, primāri - ar ASV un Baltijas jūras reģiona valstīm. Ir jāveicina Eiropas Savienības loma drošības politikā un tās sadarbība ar NATO. Šīs sadarbības mērķis ir veicināt informācijas apmaiņu, aizsardzības partnerību starp reģiona valstīm, kopīgu dalību starptautiskajās operācijās, kā arī atbalstu partnervalstīm, kuras jau ir cietušas no ārējā uzbrukuma, piemēram, Gruzija un Ukraina.
+
+## 3. Valsts Aizsardzības Stratēģiskie Pamatprincipi 3.1. Nacionālie Bruņotie Spēki
+
+Nacionālie bruņoto spēki (turpmāk - NBS) ir valsts aizsardzības stūrakmens. 
+
+NBS attīstība ir jāveido tā, lai tā nodrošinātu efektīvāko aizsardzību pret potenciālajiem uzbrukuma scenārijiem. Aizsardzības sistēmai jāspēj laikus pamanīt apdraudējuma pazīmes. 
+
+Lai veiksmīgi īstenotu valsts aizsardzības uzdevumus, nepieciešams izmantot Latvijas teritorijas priekšrocības, kavējot pretinieku un nodarot tam maksimāli lielus personāla zaudējumus, traucējot un iznīcinot pretinieka komandvadību un apgādes sistēmu, kā arī nodrošinot sabiedroto papildspēku uzņemšanu. 
+
+Nacionālo bruņoto spēku operacionālo kodolu veido Sauszemes spēki, ieskaitot Zemessardzi un Speciālo uzdevumu vienību. NBS attīstība vērsta uz to, lai vienības ir:
+- mobilas;
+- ar augstu komandvadības un apgādes decentralizāciju;
+- ar augstu izdzīvošanas spēju; - savstarpēji integrētas; - ar augstu uguns jaudu; - noturīgas pret elektroniskās karadarbības uzbrukumiem; - spējīgas uzturēt to rīcībā esošo ekipējumu;
+- tehnoloģiski attīstītas.
+
+Esošā aizsardzības finansējuma ietvaros iespējams attīstīt tikai visnepieciešamākās spējas. Tādēļ tādu spēju kā vidējās darbības pretgaisa aizsardzība, aktīva jūras akvatorijas aizsardzība un tālās darbības netiešās uguns atbalsts attīstību būs iespējams uzsākt tikai ilgtermiņā. Līdz ar to būtisks ir mūsu sabiedroto valstu atbalsts, mazinot šos iztrūkumus, tai skaitā finansiālais atbalsts spēju attīstībai. 
+
+## 3.1.1.Konvencionāla Aizsardzība 3.1.1.1. Agrā Brīdināšana
+
+Ņemot vērā Krievijas militāro attīstību, kur uzsvars tiek likts uz augstas gatavības un mobilitātes vienību uzturēšanu, ir jāpilnveido Latvijas aizsardzības agrās brīdināšanas sistēmas, lai maksimāli samazinātu pēkšņuma elementu un nodrošinātu lēmuma pieņēmējus ar savlaicīgu informāciju.
+
+Valsts drošības dienesti un NBS ir primāri atbildīgi, lai informācija tiktu savlaicīgi iegūta, izanalizēta un nodota lēmumu pieņēmējiem. Būtiski ir, ka vienotajā agrās brīdināšanas sistēmā tiek integrētas Valsts robežsardzes sistēmas un modernizēta austrumu robežas novērošanas sistēma. Agrās brīdināšanas efektivitāti veido:
+- spēja konstatēt situācijas izmaiņas;
+- spēja ātri nodot informāciju lēmuma pieņēmējiem;
+- priekšlaicīgi sagatavoti reaģēšanas plāni potenciālajiem scenārijiem.
+
+## 3.1.1.2. Komandvadības Un Sakaru Sistēmas
+
+Kaujas lauka situācijas izpratne, ātra, efektīva informācijas apmaiņa starp stratēģisko, operacionālo un taktisko līmeni ir būtisks priekšnoteikums, lai veiksmīgi nodrošinātu aizsardzības operācijas. Komandvadības un sakaru sistēmām ir jābūt veidotām tā, lai tās spētu darboties dažādās vidēs, tai skaitā situācijās, kad sistēmas ir pakļautas dažādai sakaru slāpēšanai, GPS signālu zudumiem un citiem elektroniskās karadarbības uzbrukuma veidiem. Vienlaikus komandvadības sistēmai jānodrošina informācijas drošība pret pārtveršanu un citāda veida manipulācijām. 
+
+## 3.1.1.3. Ātrā Reaģēšana
+
+Nacionālo bruņoto spēku vienību, tai skaitā Zemessardzes, ātra reaģēšanas spēja ir sevišķi nozīmīga. Valsts aizsardzībai nepieciešams uzturēt noteiktu skaitu vienību, kas spēj reaģēt nekavējoties, un arī tādas vienības, kas ir ar ļoti augstu gatavību. 
+
+Šādu reaģēšanas kodolu primāri veido Sauszemes spēku Mehanizētā kājnieku brigāde un Zemessardzes brigādes. Zemessardzes bataljoniem jānokomplektē rotas lieluma paaugstinātas gatavības vienības ar kaujas atbalsta elementiem (netiešais uguns atbalsts, prettanku spēja, pretgaisa spēja u. c.). Nacionālajiem bruņotajiem spēkiem ir jāspēj nekavējoties reaģēt uz apdraudējumu, kā arī jābūt gataviem atbildēt uz pārsteidzošu uzbrukumu. Lai reaģēšanas spējas turpinātu uzlabot, svarīgi pilnveidot un pastiprināt teritoriālās vienības, integrējot Vidzemes un Latgales Zemessardzes brigādēs profesionālā dienesta apakšvienības.
+
+## 3.1.1.4. Robežsardzes Un Latvijas Bankas Aizsardzības Pārvaldes Integrēšana
+
+Militāra uzbrukuma gadījumā Valsts robežsardze un Latvijas Bankas Aizsardzības pārvalde iekļaujas NBS sastāvā, tādējādi stiprinot valsts aizsardzības spējas. Lai veiksmīgi pildītu aizsardzības uzdevumus, būtiski ir veicināt Valsts robežsardzes un Latvijas Bankas Aizsardzības pārvaldes ciešāku integrāciju un savstarpējo savietojamību ar NBS. To var panākt, nodrošinot šo institūciju atbilstību vienotajiem NATO standartiem un veicot personāla militāro pamatapmācību. 
+
+## 3.1.1.5. Kaujas Gatavības Uzturēšana
+
+Lai uzturētu augstas NBS kaujas gatavības spējas, pastāvīgi jāorganizē dažāda līmeņa militārās mācības. Vismaz reizi četros gados jāorganizē Nacionālo bruņoto spēku mācības "NAMEJS", kurās ir iesaistīts viss NBS personālsastāvs. Mācībās ir jāizmanto reāla potenciālās karadarbības vide, tādēļ mācības biežāk jāorganizē ārpus militārajiem poligoniem, īpaši - katras vienības atbildības reģionos. 
+
+Nepieciešams aktivizēt NBS kara laika struktūrvienības, īstenojot pilnu personālsastāva un materiāltehnisko līdzekļu mobilizāciju, tai skaitā iesaistot privāto sektoru un civilās aizsardzības sistēmu. Vienlaikus jāorganizē visu triju Baltijas valstu kopīgas mācības, koordinējot tās ar NATO militārajām struktūrām un veicinot spēku koordināciju un spēju sinhronizēti pildīt uzdevumus vienotā operacionālajā vidē.
+
+Lai pārbaudītu vienību apmācību, sagatavotību un kaujas spējas, regulāri jāorganizē pēkšņas kaujas gatavības pārbaudes. Šo pārbaužu mērķis ir izvērtēt gan vienību reaģēšanas plānus, gan personāla spēju reaģēt valsts apdraudējuma situācijā, gan vienību gatavību noteiktā laikā izvērsties un sākt pildīt militāros uzdevumus. 
+
+Tāpat regulāri, bet ne retāk kā reizi gadā jāorganizē stratēģiska līmeņa mācības 
+"KRISTAPS", pārbaudot Ministru kabineta, ministriju un citu valsts pārvaldes institūciju krīzes plānus un spējas darboties krīzes un kara laika apstākļos. 
+
+## 3.1.1.6. Decentralizēta Aizsardzība
+
+Latvijai ir liela teritorija, tādēļ, lai NBS spētu efektīvi pretdarboties agresoram visā valsts teritorijā, NBS vienībām ir jāspēj decentralizēti un koordinēti veikt operacionālos uzdevumus.
+
+Lai to īstenotu, svarīgi ir attīstīt mazo vienību taktiku. Vienību komandieriem no augstākā līdz pat nodaļas līmenim ir jāspēj uzņemties iniciatīvu un pildīt vienotus stratēģiskos, operacionālos un taktiskos uzdevumus. Lai šos uzdevumus veiktu, liela nozīme ir pilnvērtīgai informācijas ieguvei par pretinieka vienībām un nodrošinātām saziņas iespējas starp vienībām.
+
+Vienību komandieriem ir jābūt apmācītiem un gataviem īstenot valsts aizsardzības uzdevumus bez augstāko komandieru pavēles, atbilstoši izstrādātajiem operacionālajiem plāniem, kā to nosaka Nacionālās drošības likums. 
+
+## 3.1.1.7. Infrastruktūra
+
+Nacionālo bruņoto spēku un uzņemošās valsts atbalsta nodrošināšanas vajadzībām ir jāattīsta reģionālā mācību infrastruktūra, apmācību poligoni un šautuves, kā arī prioritāri jānodrošina visa veida noliktavu infrastruktūras izbūve.
+
+Pakāpeniski jāuzlabo Zemessardzes bataljonu infrastruktūra, kas veicina decentralizētu uzdevumu izpildi un apgādi. Lai būvniecību padarītu efektīvāku un atvieglotu infrastruktūras uzturēšanu, jāturpina standartizēt militārajām vajadzībām nepieciešamo infrastruktūru, vienlaikus veicinot videi draudzīgu un Latvijas apstākļiem atbilstošu koka konstrukciju plašāku izmantošanu.
+
+## 3.1.1.8. Pretmobilitāte
+
+Pretmobilitātes sistēma ir jāattīsta miera laikā, identificējot sadarbības partnerus, savlaicīgi pielāgojot infrastruktūru, plānojot un apmācot personālu, kā arī organizējot vingrinājumus. NBS turpinās attīstīt sadarbību ar privāto sektoru pretmobilitātes jomā, regulāri testējot aizkavēšanas operācijas militāro mācību laikā, tostarp mobilizējot nepieciešamos resursus. 
+
+Jāveicina tādas sistēmas izveide, lai NBS spētu izvietot šķēršļus un aizsardzības pozīcijas jau krīzes sākumstadijā vai pat miera laikā. Kara laikā aizsardzības ministrs var lemt par civilo infrastruktūras objektu iznīcināšanu, lai nodrošinātu nepieciešamos operacionālos pretmobilitātes pasākumus. 
+
+## 3.1.1.9. Miera Un Kara Laika Nodrošinājuma Pamatprincipi
+
+Nacionālos bruņotos spēkus, Zemessardzi un Jaunsardzi ikdienā miera laikā centralizēti nodrošina profesionāls kompetences centrs, kas uz civilās iestādes bāzes pakāpeniski konsolidē aizsardzības resora iepirkumus, nodrošina vienotu materiāltehnisko līdzekļu uzglabāšanu, sadali, kvalitātes kontroli,sekmē standartizāciju un attīsta tehnisko un apgādes pārvaldības kompetenci. 
+
+Nodrošinājuma jomā Nacionālo bruņoto spēku primārais uzdevums ir attīstīt kaujas nodrošinājuma, apgādes un uzturēšanas vienības.
+
+## 3.1.1.10.Uzņemošās Valsts Atbalsts
+
+Latvija ir atbildīga par uzņemošās valsts atbalstu sabiedroto spēkiem miera laikā un krīzes sākumā, nodrošinot tos ar nepieciešamajiem resursiem, infrastruktūru, teritorijām, kā arī organizējot to pārvietošanos un piekļuvi prioritāri valsts lidostām, ostām un ceļiem. Lai nodrošinātu sabiedroto spēku ātru pārvietošanos NATO un ES ietvaros jau miera laikā, līdz minimumam jāsamazina birokrātiskie šķēršļi, tai skaitā ES līmenī. Tāpat infrastruktūru nepieciešams pielāgot militārajām prasībām. 
+
+Uzņemošās valsts atbalsta vajadzībām sevišķi svarīgi ir turpināt attīstīt Liepājas ostu un Lielvārdes lidlauku. Tādus jaunos infrastruktūras projektus kā, piemēram, "Rail Baltic" nepieciešams pielāgot arī militārajām vajadzībām, tai skaitā - izbūvējot dzelzceļa atzaru uz Ādažu militāro bāzi. Attīstot vai remontējot ceļus un tiltus, jāņem vērā militārās mobilitātes parametri, par kuriem ir vienojušās NATO un ES dalībvalstis.
+
+## 3.1.1.11.Sadarbība Ar Civilajām Struktūrām
+
+Lai nodrošinātu NBS funkcijas un sabiedrības pamatvajadzības kara laikā, jāveido ciešāka pastāvīgā sadarbība ar civilajām institūcijām. 
+
+Jāstiprina militārās medicīnas spēja NBS, sadarbība ar Latvijas universitātēm, lai integrētu militāro medicīnu mācību programmās, kā arī jāsadarbojas ar veselības nozari krīzes mācību un reaģēšanas plānu izstrādē atbilstoši potenciālajiem agresijas scenārijiem.
+
+Regulāri jātestē Valsts robežsardzes, Latvijas Bankas Aizsardzības pārvaldes, Informācijas tehnoloģiju drošības incidentu novēršanas institūcijas, Latvijas Vides, ģeoloģijas un meteoroloģijas centra, A/S "Latvijas Gaisa satiksme" un Civilās aviācijas aģentūras integrācija NBS, iesaistot minētās iestādes plānošanas pasākumos un vingrinājumos.
+
+Kara laikā civilās aizsardzības pasākumus organizē Civilās aizsardzības operatīvais vadības centrs, kura darbība ir regulāri jātestē krīzes vadības mācībās. Centram ir jāsadarbojas ar NBS, iesaistot arī pašvaldību civilās aizsardzības komisijas.
+
+## 3.1.2.Aizsardzība Pret Hibrīdapdraudējumu
+
+Latvijas hibrīdapdraudējuma līmenis pastāvīgi ir paaugstināts, tādēļ būtiski ir stiprināt sabiedrības noturību un reaģēšanas spējas kā ikdienā, tā agresijas gadījumā. 
+
+Ņemot vērā neierobežotās iespējas īstenot ietekmes operācijas un sociālo inženieriju ar plaši pieejamo tehnoloģiju palīdzību, sabiedrībai ir jābūt gatavai jauniem apdraudējuma veidiem. Šajā kontekstā Nacionālajiem bruņotajiem spēkiem, valsts drošības iestādēm un citām atbildīgajām institūcijām ir jāattīsta spējas identificēt, dokumentēt un pierādīt pret valsti īstenotās hibrīdkara aktivitātes. 
+
+Hibrīdapdraudējuma gadījumā Latvijas valstiskuma saglabāšanai izšķirīga ir valsts augstāko amatpersonu lēmumu pieņemšanas efektivitāte un reaģēšanas ātrums. Tādēļ regulāri jāpilnveido krīzes vadības procedūras un amatpersonu zināšanas, lai valsts augstākās amatpersonas spētu pieņemt ātrus un izsvērtus lēmumus apdraudējuma ierobežošanai vai pilnīgai tā novēršanai. 
+
+## 3.1.3.Pretošanās Kustība
+
+Katra pilsoņa līdzatbildība ir aizstāvēt valsti un aktīvi vai pasīvi pretoties agresoram. Pēkšņa militārā iebrukuma gadījumā katra NBS vienība un civilā institūcija rīkojas saskaņā ar Valsts aizsardzības plānu, negaidot atsevišķu lēmumu par aizsardzības uzsākšanu.
+
+Arī situācijā, ja karadarbības rezultātā īslaicīgi tiktu zaudēta kontrole pār daļu no valsts teritorijas, NBS un atbildīgie dienesti turpinās valsts aizsardzību, izrādot pretestību tik ilgi, kamēr tiks pilnībā atjaunota Latvijas teritoriālā suverenitāte. Normatīvie akti un aizsardzības plānošanas dokumenti skaidri definē NBS un dienestu uzdevumus, vienlaikus nosakot arī iedzīvotāju pienākumus militārā apdraudējuma gadījumā. 
+
+Šajā kontekstā Nacionālajiem bruņotajiem spēkiem ir pienākums savlaicīgi plānot un gatavot pretošanās pasākumus, kuros pretmobilitātes un pretošanās sagatavošanā brīvprātīgi un uz savstarpējas uzticības pamata tiek iesaistīti civiliedzīvotāji. Lai to īstenotu, miera laikā ir jānodrošina iedzīvotāju apmācība, jāveido organizatoriskā struktūra un nepieciešamā atbalsta infrastruktūra. 
+
+## 3.2. Visaptveroša Valsts Aizsardzība
+
+Ja sabiedrība nav gatava pastāvēt par sevi, valsts var tikt zaudēta arī bez kaujas. 
+
+Sabiedrības izglītība, noturība pret manipulācijām, praktiska gatavība pārvarēt krīzes un pilsoniskā līdzdalība ir pamats sabiedrības stabilitātei un drošībai. Latvijas ilgtspējīga attīstība nav iespējama bez valsts aizsardzības un sabiedrības noturības.
+
+Lai spētu sagatavoties, pārvarēt un atjaunoties, nepieciešamas zināšanas un aktīva individuāla rīcība. Visaptverošai valsts aizsardzībai ir jāveicina gatavības kultūra, lai iedzīvotāji mērķtiecīgi sagatavotos arī vissliktākajiem iespējamajiem scenārijiem, kā arī savā personīgajā un sabiedrības dzīvē būtu gatavi atbalstīt viens otru, tādējādi sniedzot lielāku drošības sajūtu un no tās izrietošo psiholoģisko noturību. Šajā kontekstā jāturpina stiprināt Zemessardzi un Jaunsardzi, jo šīs struktūras piedāvā iespēju katram pilsonim sagatavoties potenciālajam apdraudējumam, vienlaikus neatsakoties no civilās dzīves.
+
+Visaptverošajai aizsardzībai ir divi galvenie mērķi - sabiedrības noturība miera laikā un valsts aizsardzība kara laikā. Krīzes un kara laikā visaptverošajai aizsardzībai ir šādi galvenie uzdevumi:
+1) sabiedrības atbalsts Nacionālajiem bruņotajiem spēkiem valsts aizsardzības nodrošināšanā:
+- iesaistīšanās Nacionālajos bruņotajos spēkos un bruņotas pretošanās organizēšana;
+- uzņemošās valsts atbalsts sabiedroto spēkiem;
+- pretmobilitātes pasākumu īstenošana;
+- jebkāda veida atbalsts NBS, sabiedrotajiem (piemēram, informācijas apmaiņa, apgāde un citas darbības un pasākumi);
+- pretošanās kustība un atbalstītāju tīkls, kā arī pasīvā pretošanās (piemēram, nesadarbošanās ar agresora bruņoto spēku vienībām, pilsoniskā nepakļaušanās);
+2) sabiedrības un tautsaimniecības spēja nodrošināt vitāli svarīgās funkcijas un pārvarēt jebkādus satricinājumus, tostarp militāro konfliktu:
+- valsts varas rīcībspēja, efektīva tās funkcionēšana un nepārtrauktība;
+- katras iestādes un pašvaldības skaidri uzdevumi un loma kara laikā, definējot kritisko personālu un funkcijas;
+- vitāli svarīgo funkciju (piemēram, elektrība, sakari, finanšu pakalpojumi, pārtika, kritiskās infrastruktūras un personāla drošība) nodrošināšana jebkādos apstākļos;
+- vitāli svarīgo resursu un izejvielu rezervju savlaicīga veidošana un uzglabāšana;
+- savlaicīga gatavība rīkoties krīzes un kara situācijās dažādos sabiedrības līmeņos, ieskaitot individuālo pilsonisko gatavību.
+
+## 3.2.1.Valsts Varas Nepārtrauktība
+
+Lai nodrošinātu valsts pamatfunkciju nepārtrauktu darbību iespējamo krīžu un kara laikā, ir jāīsteno iepriekš sagatavotie mehānismi visos institucionālajos līmeņos. Tas ietver gan Ministru kabineta darbības nepārtrauktību, gan ministriju, gan atbildīgo dienestu un pašvaldību spējas īstenot sabiedrības funkcionēšanai būtiskus uzdevumus. 
+
+Ņemot vērā valsts pārvaldes institūciju un sabiedrības kopējo atkarību no tehnoloģiju un datu pieejamības, būtisks faktors valsts spējai turpināt darbu krīzes un kara laikā ir rezerves kopiju veidošana datu bāzu sistēmām ārvalstīs, lai spētu atjaunot svarīgākos valsts datus.
+
+Visbeidzot, katrai valsts institūcijai ir jānosaka konkrēti uzdevumi un loma valsts aizsardzībā, definējot visbūtiskākās funkcijas un nepieciešamo iestādes personālu, lai spētu nodrošināt tās darbību jebkādos apstākļos. 
+
+## 3.2.2.Sabiedrības Noturība
+
+Visaptveroša valsts aizsardzība ir iespējama tikai ar visas sabiedrības iesaisti, tādēļ īpaši svarīga ir Latvijas iedzīvotāju pilsoniskā aktivitāte, pilsoņu lielāka atbildības uzņemšanās par valstī notiekošajiem procesiem, tostarp valsts aizsardzību.
+
+Ir jāveido gatavības kultūra, kur katra Latvijas privātā un publiskā organizācija kā obligātu pieņem sagatavotību potenciālajiem krīzes scenārijiem. Tādēļ ir jāveicina sabiedrības noturība, kas balstās uz savlaicīgu izglītošanu un sagatavošanos rīcībai kara laikā, tai skaitā iedzīvotāju spēja izdzīvot un noturēties pašu spēkiem pēc iespējas ilgāk, bet vismaz 72 stundas. Jānodrošina daudz aktīvāka informācijas izplatīšana un apmācība par ieteicamo rīcību apdraudējuma gadījumā, nodrošinot regulārus seminārus, apmācības un lekcijas dažādām sabiedrības grupām. Jātiecas nodrošināt arī praktiskās apmācības dažādām iedzīvotāju grupām un kopienām.
+
+Ikviens var sniegt atbalstu valsts aizsardzībā ar savām zināšanām un prasmēm, materiāltehniskajiem līdzekļiem un resursiem vai sniegt psiholoģisko atbalstu cietušajiem, atbalstot ģimenes, kuru locekļi iesaistīti krīžu pārvarēšanā vai to seku likvidēšanā.
+
+## 3.2.3.Informācijas Telpas Aizsardzība
+
+Valstij ar dažādiem tās rīcībā esošajiem līdzekļiem ir aktīvāk jānodrošina informācijas telpas aizsardzība. Katram Latvijas iedzīvotājam ir jāapzinās, ka sava un pārējās sabiedrības aizsardzība pret ietekmes operācijām un uzbrukumiem informācijas telpā ir pastāvīgs process.
+
+Tādēļ nepieciešams turpināt sabiedrības izglītošanu medijpratības jomā gan skolu mācību priekšmetu programmās, gan dažādu sabiedrības grupu izglītošanā. Tāpat jāturpina aktīva komunikācija ar dažādām sabiedrības grupām, skaidrojot pašreizējos informatīvās telpas izaicinājumus un apdraudējumus, tādējādi veicinot kritisko domāšanu un psiholoģisko noturību pret ietekmes operācijām. 
+
+Papildus tam aizsardzības nozarē jāattīsta stratēģiskā komunikācija kā dažādu komunikācijas disciplīnu kopums, lai valsts militārā apdraudējuma gadījumā stratēģiskā komunikācija un aktivitātes informācijas telpā veicinātu valsts rīcībspēju pretdarboties informācijas un psiholoģiskajām operācijām, kas ir neatņemama militāro konfliktu sastāvdaļa. 
+
+Latvijā jānostiprina skaidra izpratne visos valsts līmeņos, ka ārvalstu ietekmes operācijas nav pieļaujamas. Latvijai ir jāsagatavo instrumenti, ar kuriem pretdarboties jebkuram, kas izvērš ietekmes operācijas pret Latviju. Šāda nostāja pati par sevi veido stratēģisko vēstījumu potenciālajam agresoram, ka attiecībā uz ietekmes operācijām nav sagaidāma iecietība kā miera laikā, tā militārā apdraudējuma gadījumā. 
+
+## 3.2.4.Tautsaimniecības Noturība
+
+Katram komersantam ir svarīga loma valsts aizsardzībā. Tomēr svarīgākie ir komersanti, kuru uzņēmējdarbība krīzes situācijā kļūst par neatņemamu daļu no valsts aizsardzības sistēmas, jo nodrošina vitāli svarīgus pakalpojumus. Šo pakalpojumu sniedzējiem un lielajiem uzņēmumiem, kas nodarbina vairāk par 250 cilvēkiem, jānodrošina uzņēmuma pamatfunkcijas krīzes un kara gadījumā, turpinot nodrošināt valsts ekonomikas funkcionēšanu, nepieciešamo preču ražošanu un pakalpojumu sniegšanu. Šajā kontekstā, plānojot uzņēmējdarbību, jāņem vērā arī piegāžu drošības jautājumi, kā arī ekonomiskā un tehnoloģiskā atkarība no valstīm, kuras nav NATO vai ES dalībvalstis.
+
+Lai nodrošinātu iepriekšminēto, valstij ir jāveido rezervju sistēma, kas paredz, ka, reaģējot uz pirmajām apdraudējuma pazīmēm, tiek slēgti atlikto piegāžu līgumi, kā arī ierobežots pārtikas, medikamentu un svarīgāko izejvielu eksports. Mobilizācijas uzdevumu uzdošana uzticamiem komersantiem jau miera laikā ir efektīvs mehānisms, kā strukturēt privātā sektora iesaisti valsts aizsardzībā.
+
+Savukārt miera laikā komersanti var stiprināt valsts aizsardzību, veicinot darbinieku dalību Zemessardzē un Nacionālo bruņoto spēku rezervē, veidojot Zemessardzes apakšvienības savos uzņēmumos un šādi atvieglojot arī iespējamo objektu fiziskās drošības nodrošināšanu krīzes gadījumā. 
+
+## 3.2.5.Nevalstiskās Organizācijas
+
+Valsts politiku veido katrs Latvijas pilsonis. Vēlēšanas nav vienīgais brīdis, kad pilsoņi var iesaistīties valsts politikas veidošanā. Demokrātiskā valsts iekārtā pilsoņiem ir jāspēj patstāvīgi organizēties savu interešu pārstāvībai, lai palīdzētu uzlabot ikdienas dzīvi un valsts institūciju darba efektivitāti. Patstāvīga organizēšanās ir īpaši nozīmīga mūsdienu sarežģītajos komunikācijas un manipulāciju apstākļos. Tikai savstarpēji sadarbojoties, cilvēki var labāk izprast, kas notiek ārpus to sociālās vides, kā arī atšķirt būtisko no nesvarīgā krīzes situācijā. 
+
+Iedzīvotāju savstarpējā uzticēšanās un uzticība valsts pārvaldei ir sevišķi svarīga valsts drošībai un attīstībai. Krīzes gadījumā uzticība starp sabiedrību un valsts pārvaldi ir īpaši vajadzīga, lai spētu kopīgi pārvarēt apdraudējumu.
+
+Šajā sakarā būtiska loma ir nevalstiskajām organizācijām, kuras ir jāiesaista aizsardzības plānošanas procesā, organizējot mācības un praktiskus vingrinājumus. Savukārt no valsts interešu viedokļa ir svarīgi skaidri definēt nevalstisko organizāciju lomu un atbildību par tām noteiktajām funkcijām un uzdevumiem. 
+
+Visbeidzot, nevalstisko organizāciju loma miera laikā ir iedzīvotāju izglītošana un praktisko iemaņu apguve, kā arī sabiedrības informēšana par rīcību krīzes gadījumos. Savukārt krīzes situācijā šo organizāciju loma ir sniegt atbalstu iedzīvotājiem un nodrošināt ticamas informācijas nodošanu, tostarp maksimāli izmantojot tautiešu diasporas organizācijas ārvalstīs. 
+
+## 3.2.6.Baznīca
+
+Krīzes un kara laikā kļūst svarīga baznīcas loma ticīgo iedzīvotāju psiholoģiskās noturības stiprināšanā, lai palīdzētu ticīgajiem pārvarēt grūtības un motivētu viņus atbalstīt sabiedrību. Tāpat svarīga ir reliģisko organizāciju loma krīzes un kara laikā, atbalstot valsti ticamas informācijas nodošanā, palīdzot cietušajiem un stiprinot tos indivīdus, kuri ir saskārušies vai piedzīvojuši krīzes, īpaši - kara izraisītās traģēdijas.
+
+## 3.2.7.Civilā Pretošanās
+
+Hipotētiskās valsts apdraudējuma situācijās, kad īslaicīgi tiek zaudēta kontrole pār daļu teritorijas, civiliedzīvotājiem iespēju robežās ir jāevakuējas uz to valsts daļu, kuru joprojām kontrolē Nacionālie bruņotie spēki un sabiedroto spēki.
+
+Vienlaikus iedzīvotājiem ir pienākums nesadarboties ar nelikumīgi izveidotām pārvaldes institūcijām, okupācijas varu un agresora bruņotajām vienībām, īstenojot pasīvo pretošanos. Tas iespējams, norobežojoties no okupācijas varas lēmumiem un darbībām, nepiedaloties okupantu organizētajos, publiskajos pasākumos, nesniedzot informāciju, kā arī nepiedaloties okupantu organizētajās, nelikumīgajās vēlēšanās, referendumos vai tautas nobalsošanā.
+
+Pretošanās kustības panākumi ir atkarīgi no iedzīvotāju slēptā atbalsta 
+(piemēram, nodrošinājuma, medicīniskās aprūpes, informācijas, finanšu, sakaru, apmācības, rekrutēšanas, izlūkošanas) pilsoniskās nepakļaušanās dalībniekiem, bruņotās pretošanās dalībniekiem, NBS un sabiedroto spēkiem. Katrs Latvijas iedzīvotājs var piedalīties pretošanās kampaņā dažādos veidos, vienlaikus apzinoties un rēķinoties ar drošības riskiem.
+
+## 3.2.8.Kiberdrošība
+
+Kiberdrošība un informācijas tehnoloģiju sistēmu noturība ir neatņemama visaptverošas valsts aizsardzības daļa. Lai mazinātu valsts institūciju, sabiedrības un komersantu riskus (ievainojamību) un nodrošinātu to darbības nepārtrauktību, nepieciešams koncentrēties uz kiberdrošības apmācību (kiberhigiēnu) un minimālo drošības standartu ieviešanu. Vienlaikus nepieciešams mazināt tehnoloģisko atkarību no valstīm, kuras nav NATO vai ES dalībvalstis vai to oficiālie partneri. 
+
+Līdz ar piektās paaudzes mobilo datu pārraides tīklu izveides uzsākšanu 5G tīklu drošības garantēšana ir kļuvusi par stratēģiskās drošības jautājumu ikvienas valsts dienaskārtībā, kur jāņem vērā gan tehniskie, gan tehnoloģiskie, gan politiskie faktori.
+
+Tāpat ir jāmaina sabiedrības un katra indivīda paradumi, mazinot tādas digitālās ievainojamības kā personas datu glabāšana nedrošos serveros, nepārbaudītu lietotņu izmantošana personas ierīcēs, kā arī jāveido kritiska attieksme pret to, kādus personiskos datus publicēt publiski pieejamās vietnēs. 
+
+Kiberdrošības jautājumi ir jāiekļauj izglītības iestāžu programmās, valsts aizsardzības mācības priekšmetā, kā arī valsts un pašvaldības iestāžu ikgadējās apmācībās. Papildus nepieciešams veicināt Kiberjaunsardzes un Zemessardzes Kiberaizsardzības vienības reģionālo apakšvienību izveidi.
+
+Informācijas un kibertelpas aizsardzība krīzes un kara laikā jānodrošina, izmantojot aktīvos un pasīvos aizsardzības pasākumus, lai nepieļautu iedzīvotāju ārēju ietekmēšanu un rīcībspējas paralizēšanu. 
+
+Ļoti svarīgi ir nodrošināt svarīgu datu glabāšanu Latvijā, lai nodrošinātu datu apmaiņu un kritisko pakalpojumu darbības nepārtrauktību valsts apdraudējuma gadījumā.
+
+## 3.2.9.Jauniešu Audzināšana
+
+Jauniešu izglītībai un audzināšanai ir liela nozīme, veidojot nākotnes sabiedrību Latvijā. Izglītības kvalitāte noteiks to, cik noturīga būs Latvijas sabiedrība pret ārējo apstākļu iedarbību, arvien pieaugošajiem tehnoloģiskajiem izaicinājumiem un ievainojamību, ko tai spēj nodarīt tehnoloģijas.
+
+Tādēļ Jaunsardzes kustībai un valsts aizsardzības mācības ieviešanai skolās ir būtiska loma, lai sasniegtu šos mērķus un pilnvērtīgi ieviestu visaptverošas valsts aizsardzības sistēmu. Pārdomāta jaunatnes izglītošana valsts aizsardzības jomā, jaunatnes patriotisma, pilsoniskās apziņas, saliedētības, līderības un fizisko spēju attīstīšana nākotnē veicinās arī augstāku Latvijas starptautisko konkurētspēju.
+
+Ņemot vērā, ka Latvijas skolās tiek ieviests kompetencēs balstīts mācību saturs, visaptverošās valsts aizsardzības sistēmas un Jaunsardzes kustības attīstības kontekstā vairāk ir jāorientējas uz līderības kvalitāšu izkopšanu jauniešos. Līdz laikam, kad valsts aizsardzības mācība tiks ieviesta visās Latvijas izglītības iestādēs, Jaunsardze turpinās darboties kā brīvprātīga Latvijas skolu jaunatnes kustība, kas sniedz interešu izglītību skolēniem no 5. līdz 9. klasei, apvienojot 8000 skolēnu visā Latvijā. 
+
+Patlaban valsts aizsardzības mācība tiek ieviesta vidusskolās (10. un 11. klasē), 
+tur jaunieši apgūst valsts aizsardzībai nepieciešamās prasmes, rīcību krīzes situācijās, kritisko domāšanu un pilsonisko patriotismu. Papildus šie jaunieši var piedalīties brīvprātīgajās valsts aizsardzības vasaras nometnēs, kur padziļināti praksē tiek nostiprinātas mācību gada laikā iegūtās zināšanas un uzlabota jauniešu fiziskā veselība. 2024./2025. mācību gadā valsts aizsardzības mācība būs obligātais mācību priekšmets visās Latvijas vidusskolās. Tas nozīmē, ka ik gadu to apgūs ap 30 000 tūkstošiem skolēnu (vecumā vidēji no 15 līdz 17 gadiem). 
+
+Savukārt brīvprātīgajās vasaras nometnēs svarīgi ir iesaistīt ne mazāk kā 2000 jauniešu ik gadu, vairojot valstī militāri apmācītu pilsoņu skaitu. Tas ļaus papildināt ne tikai profesionālā militārā dienesta karavīru rindas, bet arī veicinās jauniešu interesi par dienestu Zemessardzē, rezervē vai kādā no citiem valsts dienestiem. Pat ja nometni apmeklējušie jaunieši neiesaistīsies aktīvajā dienestā, militārajās nometnēs tiks apmācīti pret apdraudējumu noturīgi un kritiskā situācijā mobilizēties spējīgi rezervisti. Krīzes gadījumā šī būs sabiedrības aktīvākā, mobilākā, rīkoties spējīgākā daļa, kas spēs aizstāvēt sevi un līdzcilvēkus. 
+
+Valsts aizsardzības mācība ir moderna pieeja jaunajiem drošības vides izaicinājumiem, jo aptver daudz plašāku mērķauditoriju nekā obligātais militārais dienests, kurā iesaistīta tikai daļa sabiedrības, turklāt tradicionāli tikai vīrieši. Ieviešot valsts aizsardzības mācību, strauji pieaugs pilsoņu skaits, kas ir izglītoti par valsts aizsardzības jautājumiem, desmit gadu laikā sasniedzot teju trešdaļu no visiem Latvijas iedzīvotājiem.
+
+Lai mērķtiecīgi sagatavotu nākotnes militāros komandierus un stiprinātu Latvijas virsniecības līderību, Aizsardzības ministrija savā pakļautībā dibinās profesionālās vidējās izglītības iestādi, kur vispārizglītojošo priekšmetu mācības tiks apvienotas ar tādu prasmju un vērtību apguvi, kas attīstīta skolēnus kā intelektuālas personības ar izteiktām līdera dotībām, augstu atbildības sajūtu, pilnveidojot nepieciešamās spējas izturēt paaugstinātu fizisko un psiholoģisko slodzi. Profesionālās vidusskolas vispārizglītojošā mācību programma būs orientēta uz eksaktajiem mācību priekšmetiem - matemātiku, fiziku, ķīmiju un tehnoloģijām, lai spētu apgūt un lietot moderno kaujas tehniku. 
+
+## 3.3. Nato Kolektīvā Aizsardzība
+
+Lai gan reģionāli Latvija saskaras ar militāru pārspēku, NATO ietvaros Latvija ir daļa no militāri spēcīgākās alianses pasaules vēsturē, kas stiprina atturēšanas un aizsardzības politiku. Tādēļ NATO kā kolektīvās aizsardzības organizācijai ir liela nozīme gan Latvijas drošības, gan miera nodrošināšanā Eiropā.
+
+## 3.3.1.Reģionālā Klātbūtne
+
+Sabiedroto spēku klātbūtne Latvijā ir tiešākais apliecinājums sabiedroto valstu gatavībai atbalstīt Latviju. Tas ir nepārprotams atturēšanas signāls potenciālajam agresoram. Sabiedroto klātbūtnei ir stratēģiska nozīme, un arī turpmāk jādara viss iespējamais, lai NATO valstu bruņoto spēku vienības Latvijā paliktu pastāvīgi. Sabiedroto vienībām ir jāatbalsta NBS aizsardzības operācijās, tādēļ tās tiek integrētas vienotā NBS komandvadībā un nodrošinātas ar uzdevumam atbilstošām spējām. Sabiedroto klātbūtne var tikt īstenota arī ārpus NATO aizsardzības mehānismiem, pamatojoties uz divpusēju vai daudzpusēju vienošanos ar Latviju. 
+
+Ir jāstiprina Latvijā izvietotā paplašinātā sabiedroto spēku kaujas grupa, lai pilnveidotu šīs vienības spēju atbalstīt Latvijas aizsardzību un celtu tās atturošo efektu. Īpaši būtiski ir pastiprināt sabiedroto klātbūtni ar tālās darbības spējām, kā uguns atbalsts, pretgaisa aizsardzība un krasta un ostu aizsardzība. Latvijā esošās sabiedroto vienības ir svarīgākais klātbūtnes elements. Savukārt atturēšanai nozīmīgas ir arī:
+- regulāras starptautiskās militārās mācības Latvijā;
+- Latvijā esošie NATO komandvadības elementi, īpaši Daudznacionālais divīzijas štābs "Ziemeļi";
+- bruņutehnikas un militāro materiāltehnisko krājumu izvietošana Latvijā.
+
+## 3.3.2.Nato Ticamība
+
+NATO atturēšana balstās uz principu, ka pret uzbrukumu vienai NATO valstij tiks atbildēts kā pret uzbrukumu visām NATO valstīm. NATO ticamības būtiskākie elementi ir:
+- gatavība politiski un militāri sniegt atbalstu pret uzbrukumu;
+- militāru spēku klātbūtne apdraudētākajās dalībvalstīs; - spēja nodrošināt papildspēku nosūtīšanu;
+- dalībvalstu spēju attīstība, investējot vismaz 2% no IKP aizsardzībai.
+
+Latvijai ir pastāvīgi jāpilnveido šie elementi, lai NATO militārais pārākums arī turpmāk nodrošinātu mieru un stabilitāti Latvijai un mūsu sabiedrotajām valstīm. 
+
+## 3.3.3.Gatavība Reaģēt
+
+Spēku klātbūtne automātiski nenozīmē šo spēku gatavību reaģēt. NATO ir jāspēj militāri reaģēt tik ātri, lai uzbrucējs nevarētu sasniegt *fait accompli* jeb neatgūstamus ieguvumus. Militārā saspīlējuma gadījumā NATO ir jāspēj preventīvi pastiprināt dalībvalstu aizsardzību, lai deeskalētu situāciju. Mūsdienu karadarbības tempi ir ievērojami pieauguši, kas apgrūtina agro brīdināšanu, tādēļ NATO ir jāspēj reaģēt arī īslaicīga brīdinājuma vai bez brīdinājuma scenārijos. Gatavībai pietiekami ātri reaģēt ir šādi pamatelementi:
+Latvijai ir jāstiprina visi šie elementi. Latvijā izveidotais daudznacionālais divīzijas štābs "Ziemeļi" ir jāizmanto, lai pilnveidotu NATO spēku spēju ātri un koordinēti reaģēt uz krīzes scenārijiem.
+
+## 3.4. Starptautiskā Sadarbība 3.4.1.Asv Kā Stratēģiskais Partneris
+
+Latvijas galvenais stratēģiskais sabiedrotais ir Amerikas Savienotās Valstis 
+(turpmāk –ASV), ar kuru ilgstošu atbalstu jau kopš neatkarības atjaunošanas ir ievērojami stiprināta Latvijas aizsardzība. Latvija augstu novērtē ASV sniegto atbalstu, īpaši izceļot ASV karavīru klātbūtni Latvijā, atbalstu NBS spēju attīstībā un kopīgu mācību organizēšanā. 
+
+Latvijai ir jāturpina padziļināta sadarbība ar ASV, strādājot pie reģionālajiem aizsardzības plāniem, militāro spēju stiprināšanas, kā arī pastāvīgi apmainoties ar 
+- preventīva sabiedroto spēku klātbūtne apdraudētajās dalībvalstīs;
+- pieejamas, pietiekami jaudīgas, nodrošinātas un ātri izvēršamas vienības;
+- sagatavoti operacionālie aizsardzības plāni papildspēku nosūtīšanai;
+- efektīva politiskā un militārā vadība;
+- ātra militārā mobilitāte.
+
+informāciju par drošības situāciju reģionā. Būtiska atturēšanas spējas sastāvdaļa ir ASV militārā klātbūtne Latvijā, līdz ar to nepieciešams strādāt, lai pastiprinātu šo klātbūtni un nodrošinātu ASV bruņu tehnikas un militārā materiāltehnisko krājumu izvietošanu Latvijā un Baltijas reģionā.
+
+Latvijai ir jāturpina sadarboties ar ASV starptautiskajās operācijās. NBS jāturpina sadarbība ar ASV Mičiganas Nacionālo gvardi, kura jau 30 gadus ir atbalstījusi NBS attīstību.
+
+## 3.4.2.Baltijas Valstu Sadarbība
+
+Latvijai vēsturiski, politiski un ģeogrāfiski vistuvākās sabiedrotās valstis ir Igaunija un Lietuva. Mērķtiecīga Baltijas valstu sadarbība aizsardzības jomā ir svarīgs faktors reģiona drošībai, stabilitātei un apdraudējuma mazināšanai. Latvijas interesēs ir veicināt Baltijas valstu vienotību gan esošajos militārās sadarbības formātos, gan pārstāvēt Baltijas valstu vienotību drošības un aizsardzības politikas jautājumos dažādos starptautiskajos formātos un forumos. Sadarbība ir jābalsta uz savstarpēju uzticību, saskaņotu militāro spēju attīstību, bruņoto spēku savietojamības celšanu un koordinētas komandvadības attīstīšanu.
+
+## 3.4.3.Kanāda
+
+Kanāda ir NATO paplašinātās klātbūtnes kaujas grupas ietvarnācija un izcila Latvijas sabiedrotā, nodrošinot kaujas grupas vadību. Latvijai jāturpina stiprināt divpusējās attiecības ar Kanādu. Kopīgi jāturpina kaujas grupas attīstība, tai skaitā - meklējot risinājumus nodrošināšanā ar kaujas atbalsta spējām. Lai veicinātu dziļāku sadarbību ar Kanādu, svarīgi vērtēt NBS dalību kopā ar Kanādu starptautiskajās operācijās, kā arī sadarbības veidošanu dažādās civilās dzīves jomās.
+
+## 3.4.4.Apvienotā Karaliste
+
+Apvienotā Karaliste ir viena no svarīgākajām Latvijas sabiedrotajām Eiropā, kas konsekventi ir iestājusies par NATO kolektīvās aizsardzības stiprināšanu un kuras izpratne par drošības izaicinājumiem reģionā atbilst Latvijas redzējumam. Latvijai jāturpina sadarbība ar Apvienoto Karalisti aizsardzības jomā neatkarīgi no tā, kā mainīsies Apvienotās Karalistes attiecības ar Eiropas Savienību. Latvijai jāturpina piedalīties dažādos Apvienotās Karalistes uzturētajos militārās sadarbības formātos, īpaši - Apvienoto reaģēšanas spēku ietvarā.
+
+## 3.4.5.Polija
+
+Polija ir viena no militāri spēcīgākajām NATO valstīm Baltijas reģionā un Eiropā. Polijas izpratne par Eiropas ģeopolitisko situāciju, kā arī tās ģeogrāfiskais tuvums ļauj Poliju ierindot Baltijas jūras reģiona valstu vidū un izraudzīties par Latvijas stratēģisko partneri aizsardzības politikas jomā. Tādējādi ir jāturpina ciešāka divpusējā sadarbība ar Poliju, vienlaikus stiprinot sadarbību Baltijas jūras valstu sadarbības formātos.
+
+## 3.4.6.Nato Paplašinātās Klātbūtnes Kaujas Grupas Dalībvalstis
+
+Latvijai ievērojumu atturēšanas un aizsardzības pienesumu sniedz visas Latvijā izvietotās NATO paplašinātās klātbūtnes kaujas grupas dalībvalstis - Kanāda, Albānija, Čehija, Islande, Itālija, Melnkalne, Polija, Slovākija, Slovēnija, Spānija. Latvija ir pateicīga par valstu sniegto ieguldījumu, tāpēc ir būtiski vēl vairāk ar tām stiprināt divpusējās attiecības. Latvija arī turpmāk atbalstīs šo valstu draudu novēršanu - gan dienvidu flangā, gan Arktikā, gan Centrāleiropā.
+
+## 3.4.7.Vācija
+
+Pēc Apvienotās Karalistes izstāšanās no ES Vācijas loma aizsardzības un ārpolitikas jautājumos ir būtiski pieaugusi. Latvijai ir jāveicina sadarbība ar Vāciju, lai veidotu vienotu izpratni un risinājumus par Eiropas stratēģiskajiem un militārajiem apdraudējumiem. Vācijai ir būtiska loma Baltijas jūras reģiona aizsardzības un drošības stiprināšanā. Latvijas interesēs ir politiski un militāri stipra Vācija, lai nodrošinātu mieru un stabilitāti Eiropas kontinentā. Tādēļ jāstiprina divpusējā sadarbība, īpaši militārās industrijas jomā un militāro mācību organizēšanā. Jāturpina sadarbības stiprināšana arī reģiona daudzpusējos formātos.
+
+## 3.4.8.Francija
+
+Ņemot vērā Francijas nozīmi Eiropas drošības un aizsardzības politikas veidošanā, nepieciešams turpināt iesākto politiski militāro dialogu un sadarbību ar Franciju aizsardzības jomā. Jāturpina meklēt kopsaucējus Baltijas reģiona aizsardzībai un sekmīgas NATO atturēšanas politikas īstenošanai.
+
+## 3.4.9.Ziemeļvalstis
+
+Jāpadziļina sadarbība starp Baltijas un pārējām Ziemeļvalstīm, ņemot vērā mūsu ģeogrāfisko tuvumu, kopīgo draudu izpratni un kultūrvēsturiskās līdzības. 
+
+Latvijai ir jāizmanto Ziemeļu grupas, Ziemeļvalstu–Baltijas valstu un citi Baltijas jūras reģiona sadarbības ietvari, lai veicinātu politisko un militāro sadarbību, kā arī solidaritāti reģiona valstu starpā.
+
+## 3.4.10. Ukraina Un Gruzija
+
+Demonstrējotsolidaritāti ar Gruziju un Ukrainu, neatzīstot vardarbīgu to teritoriju okupāciju, Latvija turpinās atbalstīt šo valstu centienus mierīgā ceļā atgūt okupētās teritorijas likumīgās varas rokās. Latvija arī turpmāk stiprinās divpusējo sadarbību aizsardzības jomā, kā arī atbalstīs Ukrainas un Gruzijas dalību NATO un Eiropas Savienībā.
+
+## 3.4.11. Bruņojuma Kontrole
+
+Latvijas interesēs ir atbalstīt miermīlīgu starpvalstu domstarpību risināšanu, kas balstās uz starptautiskajiem līgumiem un savstarpējās uzticības mehānismiem. Bruņojuma kontrole ir būtisks instruments, kas var nodrošināt militāro spēju caurskatāmību un veicināt stabilitāti starpvalstu attiecībās. 
+
+Pēdējo desmit gadu laikā bruņojuma kontroles mehānismi arvien mazāk spēj nodrošināt militāru spēku līdzsvaru un pārskatāmību, jo netiek pilnvērtīgi ievērotas iepriekšējās vienošanās. Latvijai jāveicina sabiedroto valstu izpratne, ka bruņojuma kontrole var funkcionēt tikai tad, ja abas puses ievēro savas saistības. 
+
+Latvijai kopā ar sabiedrotajiem jābūt gatavai ar militāriem līdzekļiem garantēt savu suverenitāti, gadījumā ja bruņojuma kontroles sadarbības partneri nolemj pārkāpt līdzšinējās vienošanās.
+
+## 3.4.12. Nbs Dalība Miera Uzturēšanas Operācijās
+
+Latvija turpinās sniegt ieguldījumu starptautiskajās operācijās un spēku struktūrās, tādējādi stiprinot kopējo drošību un organizāciju rīcībspēju, kā arī uzturot un paaugstinot NBS vienību kaujas gatavību. 
+
+Dalības apjoms operācijās, kā vienmēr, tiks izvērtēts atbilstoši Latvijas aizsardzības operacionālajām vajadzībām. NBS jāattīsta spējas nosūtīt vienu bataljona lieluma vienību uz kādu no miera uzturēšanas operācijām, uz laiku ne mazāku par divām rotācijām.
+
+## 3.5. Eiropas Savienība
+
+Latvija aktīvi piedalās ES Kopējā drošības un aizsardzības politikā kopš 2004. 
+
+gada. Mūsu karavīri turpina sniegt ieguldījumu drošības reformu īstenošanā un miera uzturēšanā ES kaimiņu reģionos, apliecinot solidaritāti ar ES dalībvalstīm.
+
+Tāpat tiek veicināta mūsu kaimiņu reģionu noturība pret dažāda veida drošības apdraudējumiem. Vēsturiski ES spēks ir bijis nemilitāro instrumentu kopumā, lai apkarotu asimetriskās karadarbības elementus. Taču kopš 2017. gada ES dalībvalstis ir pastiprinājušas sadarbību aizsardzības jautājumos, uzsākot vairākas iniciatīvas (Pastāvīgā strukturētā sadarbība (PESCO), Eiropas aizsardzības fonds (EDF)), lai veicinātu ES līmeņa militārās spējas, harmonizētu aizsardzības plānošanas procesus, attīstītu aizsardzības tehnoloģijas un atbalstītu Eiropas uzņēmumus.
+
+Militārā sadarbība ES ietvaros var stiprināt valstu gatavību pretoties un atturēt ārējo agresiju. Tomēr tam ir nepieciešams atbilstošs ES dalībvalstu aizsardzības nozares finansējums, kura trūkums turpina negatīvi ietekmēt ES dalībvalstu militāro spēju attīstību. 
+
+Latvijas interesēs ir turpināt pragmatiski iesaistīties ES aizsardzības iniciatīvās. 
+
+Tas ļaus stiprināt esošās un meklēt jaunas iespējas nacionālo spēju, pētniecības un tehnoloģiju un vietējo uzņēmumu attīstībai. Vienlaikus nevaram atļauties, ka ES iniciatīvas pārklātos ar NATO, un turpināsim uzsvērt abu organizāciju sadarbību tādās jomās kā militārā mobilitāte, krīzes vadības un militārās mācības, aizsardzība pret nemilitāro apdraudējumu, dezinformācijas novēršana un stratēģiskā komunikācija, nepārprotami norādot, ka kolektīvās aizsardzības nodrošinātāja Latvijai ir tikai NATO.
+
+## 3.6. Valsts Aizsardzības Resursi 3.6.1.Budžets
+
+Valsts aizsardzības spēju attīstības priekšnoteikums ir atbilstoša aizsardzības budžeta nodrošināšana. Spēja ieguldīt aizsardzībā liecina ne tikai par starptautisko saistību izpildi, bet galvenokārt demonstrē valsts gribu uzņemties atbildību par savas valsts aizsardzību.
+
+Saskaņā ar NATO Velsas samitā 2014. gada septembrī panākto vienošanos sasniegt aizsardzības izdevumu līmeni, kas nav mazāks par 2% no iekšzemes kopprodukta, un turpmāk nepieļaut aizsardzības izdevumu lejupslīdi, Latvija ar Valsts aizsardzības finansēšanas likumu ir apstiprinājusi aizsardzības izdevumu apmēru - ne mazāk kā 2% no iekšzemes kopprodukta. 
+
+Atbilstoši NATO definīcijai šie resursi var tikt izmantoti vienīgi aizsardzības vajadzībām. Finansējums, kas tiek novirzīts ar valsts aizsardzību nesaistītiem projektiem, netiek uzskatīts par aizsardzības finansējumu.
+
+Koncepcijas darbības laikā Latvijai jāturas pie sabalansētas aizsardzības izdevumu struktūras, attiecīgi atvēlot mazāk nekā 50% personāla un administratīvajiem izdevumiem, 30% - uzturēšanas izdevumiem un vismaz 20% - investīcijām.
+
+## 3.6.2.Personāls
+
+Ir jāturpina palielināt NBS skaitlisko sastāvu, vienlaikus reāli apzinoties Latvijas ierobežoto darba tirgu. Palielinot aizsardzībai pieejamo karavīru skaitu, Latvija būtiski palielina uzbrukuma izmaksas potenciālajam agresoram.
+
+Lai aizpildītu NBS vienību karavīru sastāvu un nodrošinātu spēju attīstībai nepieciešamo personālu, šīs koncepcijas darbības laikā ir jāsasniedz 8000 liels profesionālā dienesta karavīru skaits. Turpmāko gadu laikā turpināsies jaunu spēju un ekipējuma apguve bruņotajos spēkos, tādēļ profesionālā dienesta karavīri, kas ir izglītoti, trenēti, augsti motivēti un savas jomas eksperti, veidos NBS kodolu. 
+
+Izšķirīga loma Latvijas valsts teritoriālajā aizsardzībā ir Zemessardzei. Līdz 2024. gadam Zemessardzes skaitam jāsasniedz 10000 zemessargi, bet līdz 2027. gadam - 12 000 zemessargi. 
+
+Jāturpina piesaistīt jauni zemessargi, lai valsts aizsardzībā iekļautos jaunā paaudze, kas ir apņēmības pilna apgūt militāro pamatapmācību un veidot zemessarga militāro karjeru, to apvienojot ar civilo dzīvi. Jāturpina aktīvi sadarboties ar darba devējiem, lai tie atbalstītu zemessargu vēlmes piedalīties militārajās mācībās, pildīt dienesta uzdevumus un apgūt vajadzīgās specialitātes. 
+
+Lai nodrošinātu dažādu profesiju zemessargu piesaisti, tai skaitā atbalsta speciālistus, Zemessardzei ir jāstrādā pie modulārās apmācības un tālmācības, radot zemessargiem iespējas pakāpeniski un pastāvīgi papildināt zināšanas un celt kvalifikāciju, elastīgi piemērojot apmācību grafiku katra iespējām un brīvajam laikam.
+
+Sabiedrībā jāpopularizē brīvprātīga iesaiste savas valsts aizsardzībā, lai šāda pilsoniskā rīcība būtu plaši izplatīta un cienījama. Būtisks priekšnoteikums ir lauzt līdzšinējo sabiedrības pasīvo attieksmi pret Zemessardzi. Tādēļ politiķiem un sabiedrības līderiem ar personīgo piemēru daudz aktīvāk ir jāiesaistās Zemessardzē, kā arī publiskajās kampaņās, uzsverot, ka dienests Zemessardzē ir goda lieta, kam jākļūst par sabiedrības ikdienas pašsaprotamu sastāvdaļu.
+
+Tāpat jāturpina palielināt apmācīto rezerves karavīru skaitu, kas sastāv no profesionālā dienesta atvaļinātajiem karavīriem, neaktīvajiem zemessargiem un tiem, kas apguvuši Jaunsardzes 4. līmeņa apmācības programmu un valsts aizsardzības mācības nometnes apmācību un devuši rezerves karavīra zvērestu, kā arī pabeiguši brīvprātīgo rezerves karavīru militāro apmācību. Balstoties uz šīm iespējām, apmācīto un iesaucamo rezerves karavīru skaitam valsts aizsardzības koncepcijas darbības periodā jāsasniedz 6000.
+
+Vienlaikus būtiski ir ieviest pilnvērtīgu rezerves karavīru apmācības sistēmu, kur par rezerves karavīru efektīvu iesaisti un operacionālo gatavību primāri atbild vienības, tādējādi izveidojot divpakāpju personāla rezervju sadalījumu: aktīvā rezerve (vienību atbildība) un pastāvīgā rezerve (centralizēta vadība un pārraudzība). Pilnas mobilizācijas gadījumā Jaunsardzes centram ir uzdevums veikt rezervistu apmācību. 
+
+Kopējās sistēmas ilgtspējas un efektivitātes noturēšanā būtiska loma ir aizsardzības nozarē strādājošajiem civilajiem darbiniekiem. Lai arī sistēmiski tiek nodalītas militārās funkcijas no civilajām, aizsardzības nozares civilajiem darbiniekiem, kas pilda nozarei svarīgas funkcijas, ir jābūt vismaz minimālajām militārajām zināšanām.
+
+Lai valsts un sabiedrība varētu funkcionēt arī apdraudējuma un uzbrukuma gadījumā, ir jādefinē svarīgākās specialitātes arī ārpus aizsardzības resora. Šiem speciālistiem darbs jāturpina arī krīzes un kara laikā. 
+
+## 3.6.3.Piegādes Drošība
+
+Jāturpina darbs pie NBS kaujas spējām nepieciešamo materiāltehnisko līdzekļu piegādes drošības nostiprināšanas, kam ir izšķirīga nozīme krīzes laikā, kad nepārtraukta, uzticama, droša un savlaicīga preču un pakalpojumu piegāde ir vitāli svarīga valsts aizsardzībai. 
+
+## 3.6.4.Nozaru Materiāltehnisko Līdzekļu Rezerves
+
+Visaptverošas valsts aizsardzības sistēmas ietvarā katra resora noturība un funkcionēšanas kontinuitāte ir skatāma caur valsts aizsardzības prizmu. Krīzes situācijās izšķirīga nozīme ir kritisko materiāltehnisko līdzekļu pieejamībai krīzes sākuma posmā, lai nodrošinātu vitālās sabiedrības funkcijas un spējas pārvarēt valsts apdraudējumu. Katram resoram ir jādefinē to nozaru apdraudējuma pārvarēšanas plāna īstenošanai nepieciešamās preces un pakalpojumus, veidojot materiālās rezerves vai arī nodrošinot to piegādes drošību, attīstot atbilstošu industriālo kapacitāti Latvijā . 
+
+## 3.6.5.Industrija
+
+Jāturpina nacionālās aizsardzības un drošības industrijas attīstības atbalsta politikas īstenošana. Tās primārie mērķi ir sekmēt NBS uzdevumu izpildei paredzēto materiāltehnisko līdzekļu piegāžu drošību, atbalstīt materiāltehnisko līdzekļu uzturēšanai nepieciešamo zināšanu ieguvi, kā arī paplašināt NBS vajadzībām atbilstošo mobilizācijas resursu bāzi nacionālās tautsaimniecības ietvaros.
+
+Mērķtiecīgu un efektīvu industrijas attīstības atbalstu nodrošina nacionālo atbalsta prioritāšu noteikšana. Tā tiek veikta, balstoties uz pastāvīgu nacionālās tautsaimniecības potenciāla un NBS spēju attīstības prioritāšu analīzi. 
+
+Nacionālā prioritāte šobrīd ir bezpilota sistēmu attīstība, bruņojums, NBS atbalsta un kaujas tehnikas uzturēšana, karavīru individuālā ekipējuma sistēmas un to sastāvdaļas, kiberdrošība, kā arī informācijas un komunikāciju tehnoloģijas.
+
+## 3.6.6.Stratēģiskā Partnerība
+
+Atbilstoši nacionālajām prioritātēm, lai veicinātu mērķtiecīgu un koordinētu mobilizācijas resursu bāzes paplašināšanu, kā arī Nacionālo bruņoto spēku uzdevumu izpildei nepieciešamo materiāltehnisko līdzekļu un pakalpojumu piegāžu drošību, aizsardzības nozares un industrijas sadarbība tiek organizēta, balstoties uz stratēģiskās partnerības konceptu. 
+
+Stratēģiskās partnerības izveides prioritārās jomas ir NBS kaujas tehnikas uzturēšana un munīcijas ražošana Latvijā, lai nodrošinātu piegāžu drošību krīzes un kara apstākļos. 
+
+Šī koncepta ieviešanas priekšnosacījumi balstās uz industrijas līdzšinējās darbības rādītājiem sadarbībā ar aizsardzības nozari, nepieciešamajām zināšanām, tehniskajām spējām un investīciju pieejamību, kā arī atbilst likumā noteiktajām prasībām komercdarbībai ar stratēģiskas nozīmes precēm.
+
+Attīstot stratēģiskās partnerības konceptu, vienlaikus tiek ņemti vērā tādi principi kā sadarbības projektu pakāpeniskums, iesaiste NBS rezerves, mobilizācijas un visaptverošas valsts aizsardzības sistēmā, iesaiste Zemessardzē, peļņas īpatsvara ierobežojumi, neierobežotas audita iespējas, kā arī apņemšanās investēt turpmākajā attīstībā. 
+
+## 3.6.7.Inovācijas
+
+Inovācijas ir būtiska nacionālās industrijas attīstības un konkurētspējas sastāvdaļa. Efektīvi pārņemot un ieviešot inovatīvās tehnoloģijas, iespējams ievērojami kāpināt NBS veiktspēju valsts aizsardzībai pieejamās, ierobežotās resursu bāzes ietvaros.
+
+Latvijai ir jāstiprina aizsardzības nozares inovāciju vide, ieviešot un īstenojot atbilstošus nacionālā līmeņa inovāciju atbalsta mehānismus, veicinot nacionālā zinātniski pētnieciskā kapitāla pārrobežu integrāciju ES un NATO pētniecības struktūrās un vienlaikus uzņemoties iespējamos finanšu riskus, kas var rasties pētnieciskajā procesā un izstrādāto tehnoloģiju ieviešanā. 
+
+Inovāciju vidē balstītie atbalsta pasākumi tiek īstenoti gan noteiktajās nacionālo prioritāšu jomās, gan jauno, revolucionāro tehnoloģiju jomās, kur vērojams nacionālā zinātniski pētnieciskā kapitāla zināšanu uzkrājums.
+
+## 3.6.8.Mobilizācijas Resursi
+
+Katru gadu NBS jāaktualizē Mobilizācijas plāns, identificējot iztrūkstošās spēju vajadzības un resursus, kurus mobilizācijas gadījumā, lai pildītu NBS uzdevumus, jāpārņem no civilā sektora. Tāpat NBS un sabiedroto vajadzībām kara laikā nepieciešams pārņemt teritorijas un īpašumus, lai nodrošinātu vienību apmācību, spēku integrāciju, uzturēšanu un manevru veikšanu. Būtiski ir savlaicīgi identificēt trūkstošos resursus un izsniegt mobilizācijas pieprasījumus.
+
+Lai noteiktu Nacionālo bruņoto spēku gatavību mobilizācijai, nepieciešams organizēt mobilizācijas gatavības pārbaudes bez mobilizācijas izsludināšanas, savukārt, lai sagatavotos mobilizācijai un apmācītu mobilizācijas īstenošanā iesaistīto personālu, plānot un organizēt mobilizācijas mācības, iesaistot komersantus, kuriem ir izsniegti mobilizācijas pieprasījumi.
+
+Krīzes laikā NBS un sabiedroto spēkiem tautsaimniecība nodrošina atbalstu –
+apgādi ar energoresursiem, ārstniecības pakalpojumiem, civilajiem sakariem, ēdināšanu un citiem pakalpojumiem, kas nepieciešami valsts aizsardzības īstenošanai. Nepieciešams regulāri vingrināties un testēt gatavību tautsaimniecības mobilizācijai, nodrošinot komersantu apmācību un sagatavošanu noteikto uzdevumu izpildei, kā arī plānojot atliktās piegādes.
+
+# 4. Noslēguma Uzdevumi
+
+Aizsardzības ministrija Valsts aizsardzības koncepciju īstenos tai piešķirto valsts budžeta līdzekļu ietvaros. 
+
+Valsts aizsardzības koncepcija un NBS attīstības plāns ir pamats vidēja termiņa plānošanas dokumentu izstrādē, tostarp aizsardzības ministra izdotajām vadlīnijām valsts aizsardzības sistēmas attīstībai un nākamā gada budžeta plānošanai.
+
+Nacionālo bruņoto spēku attīstības plānošanas procesam ir jānodrošina koncepcijas īstenošanas pēctecība. Šī procesa ietvaros ir būtiski identificēt valsts aizsardzības pamatuzdevumu izpildei nepieciešamās sevišķi svarīgās NBS spējas.
+
+Valsts aizsardzības koncepcijas ieviešanu nodrošina valsts institūcijas atbilstoši savai kompetencei un normatīvajos aktos noteiktajiem uzdevumiem.
+
+Aizsardzības ministrs, pamatojoties uz koncepciju, izdod vadlīnijas NBS 
+komandierim par galvenajiem valsts aizsardzības operatīvā darba plānošanas principiem.
+
+Saskaņā ar Nacionālās drošības likumu Saeima Valsts aizsardzības koncepciju apstiprina ne retāk kā reizi katrā sasaukumā līdz savas darbības otrā gada 1. oktobrim.
+
+Ministru prezidenta biedrs, aizsardzības ministrs Dr. A. Pabriks

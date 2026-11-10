@@ -1,0 +1,1710 @@
+# STRATEGIC DEFENCE REVIEW 2017-2020
+
+
+-----
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION 48
+
+2. DEFENCE PLANNING SYSTEM 51
+
+2.1. Strategic Planning Documents 51
+
+2.2. Strategic Planning Process 52
+
+3. GEORGIA’S SECURITY ENVIRONMENT 53
+
+3.1. Security Environment 53
+
+3.1.1. Local 53
+
+3.1.2. Regional 53
+
+3.1.3. Global 53
+
+3.2. Planning Assumptions 54
+
+3.2.1. Georgia 54
+
+3.2.2. The Russian Federation 54
+
+3.2.3. United States of America 55
+
+3.2.4. NATO 55
+
+3.2.5. European Union 58
+
+3.2.6. Regional Conditions 58
+
+3.2.7. Transnational Threats 58
+
+3.3. Threat Assessment 58
+
+3.4. Planning Scenarios 58
+
+4. CAPABILITY ASSESSMENT 59
+
+4.1. Mission and Task Requirements 59
+
+4.2. Assessment of Current GAF Capabilities 59
+
+4.3. Analysis of Current Capability Deficiencies 59
+
+5. FORCE OPTIMISATION 60
+
+5.1. Force Optimisation Aims and Principles 60
+
+5.2. Resource Allocation Objectives and Budget Projection 61
+
+5.3. Force Structure Option 62
+
+5.4. Implementation of Recommendations 63
+
+5.5. Objective Force 2020 63
+
+5.5.1. MoD Civilian Office 63
+
+5.5.2. Georgian Armed Forces 66
+
+5.5.3. General Staff 67
+
+5.5.4. Land Force East and West Commands 68
+
+
+-----
+
+5.5.5. Special Operation Force 68
+
+5.5.6. Aviation and Air Defence Command 69
+
+5.5.7. The National Guard 70
+
+5.5.8. Logistic Support Command 71
+
+5.5.9. Training and Military Education Command 72
+
+6. IMPLEMENTATION OF SDR RECOMMENDATIONS 73
+
+6.1. SDR Implementation Plan 73
+
+6.2. Execution Priorities 73
+
+6.3. MoD Decision-Making Process 74
+
+6.4. Standard Methodology for Analysis of SDR Recommendations 75
+
+6.5. Institutional reforms for implementing SDR 2017-2020 recommendations 75
+
+6.5.1. Strategic Directions and Management 76
+
+6.5.2. Force Optimisation 76
+
+6.5.3. Force Readiness 76
+
+6.5.4. Institutional Reforms 77
+
+6.5.5. Multinational and Bilateral Engagement 80
+
+7. CONCLUSION 82
+
+
+-----
+
+## 1. INTRODUCTION
+
+The Strategic Defence Review (SDR) determines the structure and directions for the
+development of institutional and operational capabilities of the Ministry of Defence (MoD)
+and the Georgian Armed Forces (GAF). The document also describes the current security
+environment, reviews the threats and challenges facing Georgia and serves the purpose
+of creating a reliable, capable, NATO interoperable and task-oriented Armed Forces. The
+SDR takes the limited resources into the account and provides a set of time-phased and
+incremental development recommendations.
+
+In view of the volatile security environment, Russia’s aggressive foreign policy agenda
+represents a major threat to Georgia’s national security. The SDR 2017-2020 provides
+recommendations for transforming the GAF and determines how the GAF structure will be
+reshaped by 2020 (Objective Force 2020).
+
+Given existing threats and limited resources, the MoD focuses on coordinated management
+of resources and deepening of interagency cooperation to ensure effective organisation of
+national defence. Effective defence planning must be based on the “Total Defence” approach,
+which implies ensuring the defence of the entire territory with full national efforts, using
+both military and civilian resources. This approach takes into account both conventional and
+unconventional methods of warfare. The successful implementation of this approach will
+require the formation of civil defence system, development of relevant infrastructure and
+creation of effective Reserve and Mobilisation System. Following measures must be taken
+within the framework of the “Total Defence” approach:
+
+      - Enhanced coordination and cooperation within interagency processes to consolidate
+
+national capabilities in times of crisis and war;
+
+      - Development of a more mobile, lethal and capable Armed Forces based on the balance
+
+of active and reserve forces for ensuring national defence;
+
+      - In case of relevant resource allocation, the MoD will provide the Basic Combat Training
+
+for conscripts called up by different agencies;
+
+       - Formation of the new Reserve and Mobilisation System, which will be directed at preparing
+
+reservists, improving their level of Command and Control and increasing population’s
+wider engagement in ensuring national defence. The cooperation with partner countries
+and sharing their experience is important for the development of Reserve and Mobilisation
+System;
+
+      - Mobilisation of the reserve force in times of war, including the use of conscripts to
+
+augment the combat capabilities of the Armed Forces;
+
+      - Sustainment of an unwavering commitment to international missions for ensuring
+
+international security and stability, which also aims at developing the GAF and its military
+interoperability with NATO;
+
+      - Supporting the Substantial NATO-Georgia Package (SNGP) through consolidation of
+
+bilateral and multilateral security assistance programmes for the purpose of Georgia’s
+integration into NATO.
+
+The GAF is an important component for deterrence and defence. In case of aggression against
+Georgia, the GAF must be ready for using trained reserve to support professional combat
+units. Sustaining a pool of trained reservists and conscription system are key components
+of the “Total Defence” approach. The Ministry of Defence introduced the new conscription
+system within the framework of the “Total Defence” approach. Further sustainment of the
+use of conscripts also allows better utilisation of professional personnel in critical warfighting
+
+
+-----
+
+positions. Continued use of conscripts requires changes in legacy practices. In the future,
+all conscripts will attend the Basic Combat Training, be treated more equitably and receive
+increased financial and social compensation.
+
+The GAF transformation, modernisation and enhancement of its combat readiness level are
+the basis for the development of a comprehensive defence system. Improving the GAF’s
+combat readiness level (see the diagram N1) requires the allocation of additional recourses
+and renewal of existing policy and practice.
+
+Diagram N1
+
+The Ministry of Defence is continuing the development of effective resource and force
+management systems and improvement/modernisation of operational capabilities and
+equipment, the main challenge of which remains limited defence resources. In order to respond
+to these challenges, it is important to elaborate a long-term strategic plan for the development
+of defence capabilities with the relevant financial estimates, supporting the development of the
+country’s defence industry and improvement of existing bilateral and multilateral cooperation.
+To assess the force structure, the Ministry of Defence, is elaborating its third Strategic Defence
+Review, which is taking into account the previous experience into account.
+
+An initial SDR was completed in 2007, using a capabilities-based methodology that addressed
+a wide range of potential threats. Due to the 2008 August War, few of these recommendations
+were implemented. Following this conflict, Georgia’s national security environment has radically
+changed and a SDR 2013-2016 was completed in 2012, which followed a threat-based
+methodology, focusing primarily on the threats posed by Russia’s occupation of Abkhazia and
+Tskhinvali region.
+
+
+-----
+
+Since Georgia now faces an emboldened Russian foreign policy, the SDR 2017-2020 also
+follows a similar threat-based approach. Georgia must now be prepared for responding to the
+full spectrum of threats, including hybrid conflict scenarios.
+
+Throughout the next four years, the implementation of SDR recommendations will represent
+the top priority for the Ministry of Defence. The implementation of these recommendations will
+ensure the formation of mobile, adequately equipped, capable, NATO interoperable Armed
+Forces, with effective management and structure, which will also be capable of defending
+Georgia’s independence, sovereignty and territorial integrity, will take part in international
+missions and provide help to the government during natural and manmade disasters.
+
+Within the framework of the “Total Defence” approach, the MoD recognises the importance
+of actively participating in all efforts to improve interagency coordination and cooperation with
+the President and the Prime Minister’s offices to enhance the whole-of-government approach
+to defence planning. The MoD will elaborate specific measures to energise the interagency
+process.
+
+According to the “Law of Georgia on National Security Policy Planning and Coordination”,
+a wider SDR working group was created, that included representatives from different state
+agencies, international experts and partners. The draft copy of the SDR was introduced to
+the Permanent Coordinating Interagency Commission for the Implementation of Georgia’s
+National-level Conceptual Documents operating within the Council for State Security and
+Crisis Management. Following the specific procedures, the document was approved.
+
+
+-----
+
+## 2. DEFENCE PLANNING SYSTEM
+
+2.1. Strategic Planning Documents
+
+The Constitution and legislation of Georgia represent the foundation for defence system
+management and determine the key principles and mechanisms for defence planning.
+Collectively, the Constitution and laws provide the foundation for civilian and military leaders
+to Command and Control the force, and establish specific principles, policies and procedures
+that must be followed in planning and managing defence institution. The MoD is an active
+participant in the interagency working group process that collaboratively produces key
+strategic guidance, prescribed by the Law of Georgia on National Security Policy Planning
+and Coordination. According to the Law, national security policy planning is implemented by
+means of national and agency-level conceptual and organisational documents.
+
+     - National Strategic Planning Documents:
+
+o An Agency-Level Concept
+o The Threat Assessment document of Georgia
+o National security strategies[1]
+
+     - Agency-Level Conceptual Documents:
+
+o An Agency-level concept
+o An Agency-level strategy
+o A Doctrine
+o A Programme
+
+Diagram N2
+
+1. National security strategies:  National Military Strategy, Strategic Defence Review (SDR) and other strategic documents
+
+
+-----
+
+2.2. Strategic Planning Process
+
+The National Security Concept addresses the fundamental values and interests of the country.
+It also provides key directions for national security policy as well as its foreign, social and
+economic policy priorities. Considering the values and interests highlighted in the National
+Security Concept, Threat Assessment document identifies the threats and risks that threaten
+or may threaten state interests. In response to the threats and risks facing Georgia’s national
+values and interests, the National Military Strategy provides the strategic military objectives
+for the GAF and required capabilities that are necessary to accomplish those objectives.
+
+To achieve the goals and tasks set by the National Military Strategy, the SDR 2017-2020
+determines four key directions for the development of the Ministry of Defence and Georgian
+Armed Forces, Objective Force structure, as well as means for enhancing GAF interoperability
+with NATO.
+
+The SDR 2017-2020 provides the recommendations for the GAF transformation, modernisation
+and improvement of its combat readiness level and elimination of its capacity shortfalls.
+
+Accomplishment of these objectives will adhere to several principles:
+
+      - Improving the integration of defence planning, management and internal coordination
+
+mechanisms;
+
+      - Implementing measurable policies, procedures and systems that directly contribute to
+
+substantially improving force readiness;
+
+      - Determining through the ongoing SDR 2017-2020 an affordable GAF structure that best
+
+optimises the balance of forces, resources and capabilities necessary for territorial defence;
+
+      - Developing programmes that improve the skills, knowledge and competencies of our
+
+military and civilian personnel that contribute to improving institutional stability, resilience
+and efficiency;
+
+       - Effective use of cooperation formats with NATO (ANP, PARP, SNGP etc.) for the development
+
+of defence capabilities and enhancing NATO interoperability;
+
+      - Integrating the Substantial NATO-Georgia Package (SNGP) initiatives within the
+
+development/reform process;
+
+      - Synchronising the cooperation mechanisms with NATO and bilateral formats.
+
+The White Paper sets the key defence development strategic directions for the MoD and GAF
+and translates values, interests, threats and tasks from the key national strategic planning
+documents.
+
+The White Paper’s strategic directions are:
+
+      - Strategic Directions and Management – actions designed to increase the interagency
+
+cooperation and quality of integration of defence planning and management systems to
+effectively address and allocate resources on the basis of priorities;
+
+       - Force Optimisation – aims to create the optimal balance in military capabilities
+
+       - Force Readiness – initiatives designed to improve the systemic development of personnel,
+
+equipment, education/trainings and readiness functions;
+
+      - Institutional Foundation – actions related to improving MoD management mechanisms in
+
+order to ensure the effective support for the operational requirements of the Armed Forces;
+
+       - Multilateral/Bilateral Engagement – initiatives related to enhancing interoperability and
+
+cooperation with NATO and partner countries and accomplishment of Georgia’s commitment
+to international missions.
+
+
+-----
+
+The execution of many recommendations determined by the SDR 2017-2020 requires
+financial resources that must be planned, programmed and budgeted within the Defence
+Program Guidance (DPG) document. The following document provides guidance covering the
+upcoming budgetery year and three future programme years.
+
+## 3. GEORGIA’S SECURITY ENVIRONMENT
+
+For the development Force 2020 military capability requirements and assumptions are
+necessary to hypothesise the political and military environment, within which the GAF will
+have to operate. These assumptions are based on expert analysis and predict future political
+and military factors upon which force options and risks can be assessed. The assumptions
+addressed in this chapter are based on the National Threat Assessment 2015-2018 document.
+This process lays the foundation for military planners to develop the most dangerous and
+most likely threat scenarios facing Georgia’s national security.
+
+3.1. Security Environment
+
+Georgia’s security environment has become increasingly complex and dynamic and is therefore
+facing a number of direct and indirect challenges, impacting country’s further development. In
+order to evaluate and determine the security environment, it is necessary to take into account
+current local, regional and global dimensions to security environment.
+
+3.1.1. Local
+In August 2008, military aggression by the Russian Federation, occupation of Abkhazia and
+Tskhinvali region and permanent deployment of the Russian troops and military infrastructure
+on Georgian territories, considerably worsened Georgia’s security environment. Russia’s
+recognition of Abkhazia and Tskhinvali region’s independence, followed by the “creeping
+occupation” of Georgia, represents a violation of Georgia’s sovereignty, international law and
+the fundamental rights of the local population.
+
+Active cooperation between the de facto governments of occupied territories (Abkhazia and
+Tskhinvali region and the Russian Federation – including the growing militarisation, ratification
+of the so-called Alliance and Integration Treaties and absence of international peacekeeping
+forces – increases the risk of renewed military aggression. In addition to military threats,
+the current developments in the occupied territories create a fertile ground for the spread of
+transnational/organised crime.
+
+Furthermore, the use of elements of “soft power” and economic tools by the Kremlin against
+Georgia’s national security represents the challenge for its security environment.
+
+3.1.2. Regional
+The complex and unstable security environment in the Black Sea region, annexation of
+Crimea and developments in eastern Ukraine, instability in the North Caucasus and the
+unresolved conflict in Nagorno-Karabakh have a negative implication on regional and Georgian
+security environment. Instability created by these security challenges also impacts sustainable
+economic development of all states in the region.
+
+3.1.3. Global
+In the context of globalisation, climate change, migration, transnational terrorism and cyber
+threats have a negative impact on Georgia’s security environment. Furthermore, Russia’s
+growing international ambitions have fostered increasingly hostile confrontations with the
+West, including actions, which challenge both European and Georgia’s national security.
+
+
+-----
+
+3.2. Planning Assumptions
+
+3.2.1. Georgia
+
+Georgia will continue further development of democratic institutions and remain committed to
+its European and Euro-Atlantic aspirations.
+
+The Georgian Government will continue to support the development and transformation of the
+GAF. Within the framework of the whole-of-government approach, the MoD will strengthen
+interagency cooperation to effectively manage country’s defence capabilities.
+
+The whole-of-government approach and ongoing reforms within the MoD is aimed at enhancing
+Given the key economic trends, no considerable changes in the defence budget are expected,
+with the budget assumed to be sustained at around 2% of the GDP. This may include national
+funding for selected financing of new acquisition projects (air defence, reserve and mobilisation,
+anti-armour systems, engineer etc.).
+
+In response to present challenges, the MoD will continue its ongoing defence transformation
+process and elaboration of innovative approaches. As a result of structural optimisation,
+additional resources will be re-allocated to higher priority readiness and modernisation areas.
+Georgia’s partner nations and international organisations will continue to support the country’s
+defence transformation process.
+
+3.2.2. The Russian Federation
+Russia’s willingness to disregard international law, violate the sovereignty of its neighbouring
+countries through open military aggression and the use of hybrid warfare, remain key
+challenges. Russia’s growing militarisation, modernisation of its Armed Forces and attempts to
+strengthen its influence over the region will continue to create more favourable conditions for
+the continuation of the Kremlin’s aggressive behaviour, as it has done in Crimea and eastern
+Ukraine.
+
+Given the military presence of the Russian troops in the occupied territories and the violation
+of the ceasefire agreement signed on 12 August 2008, Russia continues its attempts to call
+Georgia’s peace order into question, thus, the renewal of a large-scale aggression remains
+possible. In addition to the stationing of substantial military forces in the occupied territories,
+Russia continues its efforts to create a legal basis for its presence by violating the international
+law. Furthermore, there is a risk of occupation of territories around the occupation line,
+seizure of strategic infrastructure and escalation of other provocations by Russia. Instability
+on Georgia’s occupied territories is fostering regional volatility and an environment that
+encourages terrorists, organised crime and traffickers to operate freely.
+
+Russia will strengthen its efforts to undermine Georgia’s national unity and attempt to initiate
+conflict among ethnic and religious groups to create managed destabilisation. The Kremlin
+will particularly focus on reinforcing the elements of its soft power to ensure the weakening
+of state institutions, strengthening of pro-Russian civil and political movements and discredit
+pro-Western foreign policy agenda.
+
+Using political, economic and information tools, Russia continues its attempt to limit international
+political support for Georgia and weaken cooperation directed at strengthening Georgia’s
+defence capabilities.
+
+
+-----
+
+3.2.3. United States of America
+Strategic partnership between the United States and Georgia and the firm political support of
+the U.S. will remain as a main deterrent to Russian aggression against Georgia’s sovereignty
+and territorial integrity.
+
+The U.S. will continue to support Georgia’s independence, sovereignty, territorial integrity
+and inviolability of its borders within the framework of the U.S.-Georgia Charter on Strategic
+Partnership and Memorandum on Deepening the Defence and Security Partnership between
+the United States and Georgia. Continuous military cooperation with the U.S. will facilitate
+further development of Georgia’s defence institutions. The successful implementation of the
+Georgian Defence Readiness Program (GDRP) will ensure the enhancement of GAF’s combat
+capabilities and increase its combat readiness level.
+
+3.2.4. NATO
+Georgia obtains all practical tools to prepare for joining NATO and successfully continues
+its cooperation with the Alliance. Successful implementation of NATO-Georgia cooperation
+mechanisms (NATO-Georgia Commission, Annual National Programme, Substantial NATO-
+Georgia Package etc.) and strengthening of bilateral and multilateral relations with NATO
+member states will facilitate Georgia’s integration into the Alliance. In case of reaching a
+political consensus, Georgia is preparing for its full NATO membership
+
+Georgia will continue to actively participate in international missions, exercises and other
+activities led by NATO. In 2017-2018, the Georgian infantry company will continue its
+participation in NATO Response Force (NRF). This will contribute to the strengthening of
+GAF’s defence capabilities and enhancing its interoperability with NATO and will demonstrate
+that Georgia is a reliable partner and an important contributor to international security.
+
+As an enhanced opportunity partner of NATO, Georgia aims to continue to develop mutually
+beneficial partnership on a broad range of issues in the Black Sea region.
+
+
+-----
+
+-----
+
+-----
+
+3.2.5. European Union
+Further political-economic integration with the EU is positively reflected on Georgia’s stable
+development. Georgia’s participation in the EU missions and its close cooperation within
+the framework of EU’s Common Security and Defence Policy (CSDP) will create additional
+preconditions for ensuring regional stability. Georgia will continue its active participation in
+international missions led by the EU (EUTM RCA, EUTM MALI), as well as the bilateral and
+multilateral cooperation with the EU within the framework of CSDP.
+
+The European Union Monitoring Mission (EUMM) continues to exercise its mandate in Georgia
+and will act as the only effective monitoring mechanism in the nearest future.
+
+3.2.6. Regional Conditions
+Russia’s growing potential on NATO’s Southern military flank and development of its naval
+capabilities in the Black Sea region will weaken the West’s access to the Caucasian region,
+consequently reducing its ability to balance Russia.
+
+Russia’s key strategic objective remains to gain and maintain control over regional energy
+sources and distribution networks. Ensuring energy security and maintaining its transit
+function for energy supplies will remain the main challenge for Georgia. Therefore, Georgia is
+committed to deepening its cooperation with regional partners over energy, political, economic
+and military issues.
+
+3.2.7. Transnational Threats
+Cyber and international crime, transnational terrorism and natural and manmade disasters
+will remain a significant challenge to the international community, requiring close cooperation.
+The GAF will continue to have a supporting role in responding the above-mentioned threats
+on Georgian territories.
+
+3.3. Threat Assessment
+
+The development of the SDR 2017-2020 is based on a comprehensive analysis of Georgia’s
+security threats. While Georgia cannot ignore the global threats potentially impacting the
+nation, the dangers posed by Russia must dominate Georgia’s national security and defence
+planning.
+
+Given the large-scale military aggression by the Russian Federation, during the August War of
+2008 and developments in Ukraine, a threat-based approach was applied to the SDR 2017-
+2020.
+
+During the elaboration of the Risk and Threat Assessment diagram, the Threat Assessment
+document 2015-2018 and above-mentioned military and political assumptions were taken into
+the consideration.
+
+3.4. Planning Scenarios
+
+To determine the necessary GAF capabilities for the provision of effective response to the
+existing threats and challenges, the GAF defence planners developed hypothetical planning
+scenarios for wargaming, based on existing doctrines. The wargaming was conducted following
+the two specific scenarios – the worst case scenario and most likely case scenario.
+Based on the wargaming process, the GAF experts developed specific military capability
+requirements necessary to adequately respond to each contingency. As a result of this
+process, the analysis of required capabilities was used as the basis for the SDR document.
+
+
+-----
+
+While this report focuses on the most dangerous (large-scale military operation) and most
+likely (limited military operation) threat scenarios, it is fully recognised that the development
+of other requirements need to be considered.
+
+## 4. CAPABILITY ASSESSMENT
+
+As a result of the wargaming process based on the planning scenarios, the GAF’s required
+capabilities for the existing structure and the Objective Force 2020, were identified in detail.
+
+During the wargaming process, results from the analysis were recorded using a template
+of doctrinal warfighting functions – Command and Control, intelligence, movement and
+manoeuvre, fire, force protection and sustainment. In addition to these warfighting functions,
+considerations related to institutional training and education implications were also analysed.
+As a result of the analysis conducted against both scenarios, specific capability requirements
+and shortfalls were identified for GAF’s organisations – General Staff, Land Force Commands,
+Aviation and Air Defence Command, Special Forces, Logistic Support Command, Military
+Intelligence Department, Military Police Department and National Guard Department and the
+Training and Military Education Command.
+
+4.1. Mission and Task Requirements
+As a result of the analysis, critical tasks and requirements were identified that each organisation
+must fulfil in respect to each planning scenario. The following process provides the basis for
+further capability assessment.
+
+4.2. Assessment of Current GAF Capabilities
+Following the identification of required capabilities for the GAF’s major organisational units,
+further analysis was conducted to determine whether each organisation had an acceptable
+capacity to perform the specified mission or task. Acceptable capability is defined as having
+an adequate number of qualified personnel with proper equipment and training.
+
+4.3. Analysis of Current Capability Deficiencies
+An integrated list of capability deficiencies was compiled following the assessment of GAF’s
+major organisational units, missions, tasks and current capabilities
+
+A comprehensive action plan will be needed for the Implementation of the necessary actions
+to address the identified deficiencies. Details concerning these implementation actions will
+require an analysis using the DOTLMPF framework (D – doctrine, O – organization, T –
+training, L – leadership, M – materiel, P – personnel, and F – facilities). Additional details
+on the above-mentioned actions will be addressed in Chapter 6: Implementation of SDR
+Recommendations.
+
+
+-----
+
+## 5. FORCE OPTIMISATION
+
+This chapter provides recommendations that collectively define Objective Force 2020. The
+SDR 2017-2020 provides the basis for the reorganisation of each component of the MoD’s
+civilian office and the General Staff, which serves the purpose of optimal resource allocation
+and significant enhancement of GAF’s force readiness. As the SDR recommendations are
+incrementally implemented, senior leadership will carefully monitor readiness impacts and
+adjust planning when required.
+
+5.1. Force Optimisation Aims and Principles
+In order to respond to the traditional threats and new challenges, the GAF must be adequately
+trained, well organised and possess a high readiness level. One of the main preconditions
+to accomplish the enhancement and maintenance of structural units’ readiness level is
+transformation of existing forces into more mobile Armed Forces, capable of defending local
+population, ensuring territorial defence and providing help to the government during crisis.
+
+Enhancement of GAF’s combat capability, improvement of Command and Control, creation of
+personnel management system and logistic support, formation of Mobilisation and Reserve
+System, provision of adequate equipment and enhancement of NATO interoperability are
+necessary to accomplish the abovementioned requirements. Comprehensive allocation of
+limited resources remains the main challenge for meeting these requirements.
+
+Principles and approaches were elaborated based on the analysis of the GAF’s readiness
+level. Necessary actions for achieving optimisation within the framework of the SDR 2017-
+2020 and relevant recommendations for accomplishing GAF’s transformation and forming
+future structure were identified, taking the principles and approaches into the consideration,
+that were elaborated based on the analysis of the GAF’s readiness level.
+
+
+-----
+
+The necessary principles and conditions that have to be taken into the consideration during
+the optimisation process are as follows:
+
+      - Similar structural organisation of the GAF in peacetime and war;
+
+      - Centralised planning with decentralised execution – delegation of authority to lower level
+
+commanders to increase flexibility and freedom of action;
+
+     - Enhance combat readiness of the Armed Forces with a mobile and more capable force
+
+and modern equipment capable of responding to regional threats;
+
+      - Optimise balance in the allocation of limited defence resources;
+
+      - GAF transformation for enhancing its effective response capability to existing threats and
+
+challenges;
+
+      - Sustain Georgia’s commitment in Afghanistan and other international missions;
+
+     - Further enhancement of NATO interoperability and assistance offered through the
+
+Substantial NATO-Georgia Package (SNGP);
+
+     - Support GDRP objectives.
+
+5.2. Resource Allocation Objectives and Budget Projection
+
+In optimisation process, fulfilment of the aims related to reduction of the amount of defence
+budget resources allocated to personnel costs and reallocation of funds to Operations &
+Maintenance, the GAF modernisation and acquisition of major systems to increase its combat
+readiness level, represent a significant challenge.
+
+The calculation of the defence budget projections adopted a conservative approach (see the
+diagram). Using data drawn from the annual Ministry of Finance Basis Direction and Data
+2017-2020 document, defence experts determined the relative accuracy of future defence
+budget estimates and extrapolated a conservative growth rate for future defence budget
+growth. In addition, budget projections presented in the appendix of Georgian Law on 2017
+fiscal year budget (“Main Economic and Financial Indicators”) takes into the consideration the
+ratio of existing data on the nominal GDP with percentage indicators of defence expenditure.
+Should the defence budget exceed the projected conservative budget indicators, additional
+funds will be allocated for GAF modernisation.
+
+Diagram N3
+
+
+-----
+
+5.3. Force Structure Options
+
+Force readiness, NATO interoperability and security cooperation as well as interagency
+cooperation are required for the GAF to successfully accomplish its tasks. Force readiness
+can be achieved through developing capable, adequately manned, equipped and trained
+Armed Forces.
+
+Land Forces represent the main component of the GAF, whereas Manoeuvre Brigades are
+the main combat elements that consist of 70% of total Armed Forces and main component of
+armament and equipment. Manoeuvre Units’ requirements determine the Table of Organisation
+and equipment, personnel manning of all other combat support and combat service support
+units. Therefore, during the Strategic Defence Review, Table of Organisation of Manoeuvre
+brigades was emphasised, which determines the structure of Land Forces and the GAF.
+
+The analysis below is based on the following criteria/indicators:
+
+       - Projected defence budget ceiling for 2020;
+
+      - Desired manning level of Combat Units, Combat Supporting Units and Other Supporting
+
+Elements;
+
+      - Appropriate reallocation of defence resources in accordance with resource allocation
+
+objectives – personnel, operations and maintenance, construction, equipment, research
+and development.
+
+Three functional components of the Armed Forces have been analysed for the force
+optimisation assessment: Combat Units, Combat Support Units and other units. Unit manning
+is determined by different doctrinal requirements.
+
+Budget allocation objective – personnel cost (no more than 50%) and equipment acquisition
+(no more than 20%) – meets with target set by NATO, which is non-binding. Taking the limited
+resources into consideration, meeting with these targets became a priority of force options
+assessment. It is worth mentioning that these realities are not isolated to Georgia; all NATO
+countries have suffered from significant cuts over the last decade and have dramatically
+reduced their overall capabilities, size and readiness. Only a few NATO countries are funding
+their defence budget at or above the 2% level desired by the Alliance.
+
+Three force structure options have been elaborated based on the abovementioned criteria/
+indicators, existing force structure and equipment status, brigade tasks, doctrinal requirements
+and directions from the General Staff.
+
+**Risk Assessment**
+Reliable Armed Forces are necessary to ensure deterrence and defence, as well as adequately
+respond to any aggression. Implementation of SDR 2017-2020 recommendations will result
+in formation of adequately trained and equipped Armed Forces, which will be ready to defend
+the country and prevent the enemy from reaching desired goals.
+
+The expansion of major NATO and bilateral exercises to some extent will ensure the mitigation
+of the risks for every option. Exercises such as: Agile Spirit, Noble Partner and NATO-GEO
+EX16, highlights the readiness of Georgia’s partners to place boots-on-the-ground while
+further contributing to Alliance interoperability.
+
+
+-----
+
+5.4. Implementation of Recommendations
+
+The successful implementation of the SDR recommendations relies on efficient functioning
+of two defence management systems - the force management system and the personnel
+management system.
+
+The force management system includes the development of unit organisational structures
+and required equipment designed to optimise and prioritise the allocation of personnel and
+equipment reflected on Tables of Organisation (TO) and Tables of Equipment (TE).
+
+The key measures taken to optimise TOs and TEs include the following:
+
+      - Improve mobility of infantry units by optimising elements and equipment;
+
+     - Eliminate obsolete equipment and replace with NATO compatible systems;
+
+      - Streamline headquarters, administrative staff and supporting structures;
+
+      - Define priorities for force modernisation (see paragraph 6.2) and provide with relevant
+
+resources (see paragraph 5.2);
+
+      - Optimise the allocation of current equipment.
+
+Implementation of the SDR 2017-2020 recommendations will also depend on the effective
+functioning of the civilian and military personnel management system to recruit, develop
+and retain the most qualified individuals.
+
+A number of steps were taken and will be taken till the end of 2020, to implement the
+requirements of personnel (military and civilian) management system:
+
+     - Optimise all TO to support and develop hierarchical management of officers and NCOs;
+
+     - Rebalance officer and NCO rank/grade structures to promote effective career management;
+
+     - Professional development of civilian personnel and merit-based career management;
+
+     - Optimise the number of civilian positions within the GAF and standardise management of
+GAF’s civilian personnel (recruitment, career management and development);
+
+     - Prioritise manning of Combat Units, Combat Support Units and other supporting structural
+units at desired manning proportions;
+
+     - Elaborate new conscription approach to ensure cost effectiveness, the support of professional
+army with conscripts and availability of personnel for reserve force.
+
+5.5. Objective Force 2020
+
+This paragraph addresses specific recommendations concerning each component of the MoD
+and GAF. It provides the current structure, a brief rationale describing the recommended
+changes and proposed final organisational diagram.
+
+5.5.1. MoD Civilian Office
+Aiming to further develop the GAF and force readiness capabilities, the MoD is responsible
+for developing and supervising implementation of defence policies that provide democratic
+control over the Armed Forces. Furthermore, the MoD determines the strategic-operational
+organisation of the GAF and ensures the execution of military cooperation in accordance with
+international agreements signed by Georgia.
+
+**Rationale for Reorganisation**
+The structural reorganisation of the MoD was implemented aiming to achieve the elimination of
+functional duplication and increased structural effectiveness. Force optimisation, development
+of organisational and personnel management systems are required for the effective functioning
+of the MoD and accomplishment of its aims and objectives.
+
+
+-----
+
+**Implemented Actions:**
+
+      - Merging of the MoD Wounded Warriors Supporting Department with General Staff’s
+
+Psychological Selection and Monitoring Department, and creating Social Issues and
+Psychological Support Department;
+
+      - Merging of Public Affairs Division with Strategic Communications Department;
+
+      - Merging of Defence Policy and Planning Department, Analytical Department and Reforms
+
+Coordination and Monitoring Division and formation of a new Department of Defence
+Policy and Development;
+
+      - Merging of Quality Control Department with Financial Management Department;
+
+       - Integrating Legal Support Division of the Administration into the Legal Department;
+
+       - Integrating International Law Division into the International Relations and Euro-Atlantic
+
+Integration Department;
+
+      - Coordination and Monitoring of the Substantial NATO-Georgia Package Section was added
+
+to International Relations and Euro-Atlantic Integration Department;
+
+       - Creation of Public Information Division within the Administration
+
+       - Reform of star positions, as a result of functional analysis, a part of star positions were
+
+transformed into military positions, while another part into civilian positions;
+
+      - Transfer of administrative functions of civilian personnel into the Human Resources and
+
+Professional Development Department of the Ministry;
+
+       - Separation of technical and functional position
+
+Diagram N4
+
+Ministry of Defence
+
+
+-----
+
+**Recommendations:**
+
+      - Regularly conduct and institutionalise organisational analysis to ensure the accomplishment
+
+of MoD’s aims and objectives and increase its organisational effectiveness and efficiency;
+
+      - Standardise and institutionalise the research of organisational environment to improve
+
+MoD’s functional efficiency;
+
+     - Use the decision making mechanisms of the Decision Making Board, Management Team
+
+and Permanent Working Groups to improve defence planning and management systems
+and institutionalise reforms;
+
+      - Use effective mechanisms for internal reporting to increase transparency and accountability
+
+at the MoD;
+
+      - Elaborate, implement and institutionalise the personnel management policy in accordance
+
+with the best international practices and in line with the Civil Service Bureau reform;
+
+     - Develop electronic data management systems to support defence management
+
+requirements - personnel, logistics, financial and training - in line with a long-term
+institutional requirements;
+
+      - Transfer operational and investigative functions from the Military Police to the designated
+
+MoD structure in conjunction with implementation of Military Police reforms.
+
+Diagram N5
+
+Georgian Armed Forces
+
+
+-----
+
+5.5.2. Georgian Armed Forces
+The key aims of the Georgian Armed Forces are: defending country’s independence,
+sovereignty, territorial integrity and accomplishment of international obligations (including
+participation in the international peacekeeping missions), support of civilian government during
+natural disasters.
+
+**Rationale for Reorganisation**
+
+Within the framework of the Strategic Defence Review, the GAF’s structural reorganisation
+was implemented. The aim of the reorganisation is the formation of flexible and combat
+capable structural units, enhancement of combat readiness and optimal resource allocation. In
+consequence of reorganisation, functional duplication was eliminated, the level of manning and
+equipment was increased, Command and Control was improved and structural reorganisation
+and elimination of unnecessary administrative units were implemented.
+
+Diagram N6
+
+Proposed Structure of GAF
+
+
+-----
+
+**Recommendations:**
+
+      - Continue structural reorganisation for creating flexible, mobile and NATO interoperable
+
+and task-oriented Armed Forces ;
+
+      - Ensure the support of GAF’s critical force readiness requirements through General Staff’s
+
+organisational structures;
+
+     - Review and update the GAF Command and Control Concept;
+
+     - Review and update the existing Reserve Concept;
+Create the Army Reserve, Territorial Reserve and Specialists Reserve for the support and
+
+enhancement of Armed Forces personnel;
+
+     - Following the approval of the Reserve Concept and allocation of relevant financial
+
+resources, the MoD will start executing relevant actions related to reserve training;
+
+     - Improve Command and Control system in order to enhance operational command
+
+effectiveness;
+
+     - Elaborate and develop doctrines and lessons learned system based on the GAF
+
+requirements;
+
+      - Create and develop sustainable combat readiness enhancement training capabilities for
+
+GAF’s Tactical Level Units;
+
+      - Improve the GAF’s logistic capabilities and develop Logistic Concept for enhancing the
+
+logistic operations.
+
+5.5.3. General Staff
+The tasks of the General Staff are: strategic-operational Command and Control of subordinate
+units; interagency coordination; planning; conducting and monitoring of the joint operations;
+determination of necessary demands for capability developments.
+
+**Rationale for Reorganization:**
+
+In ongoing process of the Strategic Defence Review, structural reorganisation of the General
+Staff was implemented. Objectives of the reorganisation are: staff optimisation, structural
+optimisation, elimination of functional duplications, reduction of high rank officer positions and
+enhancement of necessary capabilities for fulfilment of combat functions.
+
+**Implemented Actions**
+
+      - Eliminate Board of advisers at the General Staff;
+
+      - Eliminate the Naval Planning Department and create a naval capability planning cell within
+
+the J-3 Planning Department;
+
+      - Eliminate the Psychological Recruitment and Monitoring Department and distribute its
+
+functions among other MoD and GAF structural units;
+
+      - Logistic Support Centre - Provision of logistic support and planning of Sports activities,
+
+distribution between Logistical Support Command and Administrative Department of the
+General Staff;
+
+      - Reshape J-5/9 Strategic Planning, Military Policy and CIMIC Department as J-5 Strategic
+
+Planning Department. CIMIC functions were transferred to J-3 Operative Planning
+Department;
+
+      - Transform J-4/8 Logistic and Resources Planning Department into J-4 Logistical Planning
+
+Department;
+
+     - Eliminate Medical Supply Base and create Medical Supply Service within the Medical
+
+Department;
+
+      - Establish standardised Table of Organisations of departments and divisions at the General
+
+Staff.
+
+
+-----
+
+**Recommendations:**
+
+       - Continue structural reorganisation of the General Staff in accordance with doctrinal and
+
+operational requirements to ensure formation of effective and flexible organisational
+structure that will provide effective Command and Control of the armed forces during
+crisis and war;
+
+      - Enhance the General Staff’s capabilities in unit formation, supply and maintenance
+
+system institutionalisation and capability development;
+
+       - Structural reorganisation of existing military police battalions.
+
+5.5.4. Land Force East and West Commands
+The tasks of Land Forces East and West Commands are: conducting a full spectrum of
+defence operations in their respective areas of responsibilities; Command and Control of the
+subordinate units; sustainment of combat readiness high level; training of own reserve.
+
+**Rationale of Reorganisation**
+
+During the Strategic Defence Review process, the number of infantry brigades was reduced
+from five to four and their internal structures were modified. Armour and mechanised infantry
+assets were also realigned. Standardised battalion and company structures were implemented.
+These changes have collectively optimised the Land Force Commands’ capability to execute
+their General Defence Plan requirements. As a result of structural changes, equally manned,
+equipped, and task–oriented combat, combat support and combat service support units were
+created.
+
+**Recommendations:**
+
+      - Eliminate the Support Centre and integrate Guard Company into Military Police force
+
+structure;
+
+       - Create a plan for infrastructure development in line with operational requirements;
+
+      - Elaborate vision for enhancement of intelligence, mobility, fire support and logistic
+
+capabilities in East and West Commands;
+
+       - Implement structural optimisation of artillery units and maintenance/modernisation of the
+
+existing equipment;
+
+      - Equip manoeuvre units with modern engineering (counter-mobility) equipment.
+
+5.5.5. Special Operation Forces
+This unit provides the GAF with unique strategic reconnaissance and direct action capabilities
+needed for defence operations as well as for the threats posed by hybrid warfare. SOF can
+also provide support to various military units, government bodies and international partners
+in military and civilian formats. SOF combat personnel require special skills and intensive
+trainings for sustainment experience and capabilities that are needed for adequate actions in
+various circumstances.
+
+SOF should be developed based on the “Special Operation Forces Development Strategy
+2015-2020”. This targets substantial capability enhancement of SOF in the unified system of the
+Georgian Armed Forces, hence to enable fulfilment of tasks in the full spectrum environment
+by 2020. SOF development is also important for enhancement of interoperability with NATO
+and successful participation in the international operations.
+
+
+-----
+
+**Rational for Reorganisation**
+
+During the Strategic Defence Review process, the recommendations were determined for
+SOF’s structural optimisation. The aim of recommendations: SOF optimisation to better
+allocate financial resources in accordance with operational requirements. Structural changes
+considerably decreased the costs for successful execution of tasks, required manning, training
+and equipment.
+
+**Implemented Actions:**
+
+      - Structural optimisation;
+
+      - Eliminate Administration of SOF;
+
+     - Transfer of TMEC Sniper and Ranger School to SOF Training Center.
+
+**Recommendations:**
+
+     - Optimise and standardise SOF Command and Control system in accordance with GAF
+
+and NATO requirements;
+
+      - Personnel reorganisation of SOF combat unites’ (special operations battalion, special
+
+naval operations group);
+
+      - Personnel reorganisation of SOF Combat Support unit (Ranger Battalion) to support the
+
+execution of special missions operations and tasks;
+
+     - Organise SOF support elements of manoeuvre units within the structural unit of the
+
+support battalion;
+
+      - Personnel and structural reorganisation of Special Operations Training Centre to develop
+
+special schools and courses.
+
+5.5.6. Aviation and Air Defence Command
+This aim of the Aviation and Air Defence Command is to ensure Command and Control of
+airspace, air defence of strategic units, provide close air support of Manoeuvre Brigades,
+Combat Service support, MEDEVAC, search and rescue and reconnaissance.
+
+
+-----
+
+**Rationale for Reorganisation**
+
+The importance of having an adequate air defence system was underscored during the August
+2008 War. Georgian Armed forces do not obtain Air Defence systems, capable of adequate
+response to the existing challenges; its air support cannot meet operational requirements in
+case of a large-scale aggression.
+
+Therefore, acquisition of the new air defence systems will significantly improve Georgia’s air
+surveillance and short-range and mid-range Air Defence systems.
+
+**Implemented Actions:**
+
+      - Structural reorganisation;
+
+      - Eliminate Aviation Brigade;
+
+     - Eliminate Guard and support battalion;
+
+     - Reorganisation of Mixed Aviation Squadron.
+
+**Recommendations:**
+
+**Air Defence:**
+
+      - Unify Radar Battery/company under division/battalion level unit for Command and Control
+
+enhancement;
+
+      - Effective exploitation of NATO interoperable complex to be ensured through new air
+
+defence capabilities;
+
+       - Ensure the preparation of required personnel and infrastructure for arrival of the new air
+
+defence systems;
+
+      - Establish NATO interoperable Air Operation Centre as a result of Central Command Post’s
+
+reorganisation;
+
+       - Allocation of resources for trainings to ensure the maintenance of high level force readiness
+
+and adoption of new combat skills within GAF’s Air Defence units.
+
+**Aviation:**
+
+      - Detailed assessment of Rotary and Fixed Wing’s life cycle and modernisation of aerial
+
+vehicles, which are needed for Armed Forces to complete tasks set by the General
+Defence Plan;
+
+       - Retrain personnel after the reorganisation of Aviation Brigade;
+
+      - Elaboration of UAVs capability development concept and initiation of new systems
+
+acquisition;
+
+       - Elaboration of combat helicopters’ capability development vision and concept.
+
+5.5.7. The National Guard
+This National Guard has a number of tasks including participation in military operations and
+supporting active force during crisis/war, coordination of military support to civil authorities
+during manmade or natural disaster preparation of the population for civil defence and
+execution of various ceremonies. In peacetime, the National Guard is training its own reserve.
+Rationale for Reorganisation
+
+Restructuring of the National Guard Department will be based on an approved Reserve
+Concept that stipulates rational, affordable and realistic operational tasks.
+
+
+-----
+
+During the Strategic Defence Review process, structural optimisation of the National Guard
+was executed. However, further effective reorganisation of existing structure is necessary to
+transform NG as a Combat and Combat Support capable unit.
+
+**Implemented Actions:**
+
+     - Eliminate National Guard’s administration;
+
+     - Eliminate G-2 section and transfer of its functions to G-3 section;
+
+     - Establish the Civil Defence section as a result of Civil Defence Service reorganisation;
+
+     - Training centre “Bazaleti” joined the NG school.
+
+**Recommendations:**
+
+     - Establish NG as a key supporting element for government during natural and man-made
+
+disasters;
+
+      - Support the Government in ensuring civil defence during emergency situations and war;
+
+     - Perform structural reorganisation of NG; refine Administration, Command and Control
+
+system;
+
+      - Gradual formation of NG’s reserve units for structural reorganisation and creation of
+
+material and technical base;
+
+      - Following the approval of Reserve and Mobilisation Concept, plan and implement relevant
+
+activities for formation, training and use of Army Reserve.
+
+5.5.8. Force Logistic Support Command
+This organisation provides logistic support to the GAF during peace, crisis and war by providing
+supply, services, transportation, maintenance and topography and polygraph capabilities. It
+also supports peacetime training, exercises and professional military education requirements.
+
+**Rationale for Reorganisation**
+
+During the Strategic Defence Review process, structural reorganisation of the Logistic Support
+Command was executed, that resulted in reduction of bureaucracy and increase of structural
+unit. It is recommended to continue the following process to create effective and flexible
+organisation that will ensure support of GAF’s Combat Units in peacetime and war.
+
+
+-----
+
+**Implemented Actions:**
+
+      - Eliminate Planning, Programming and Budgeting division;
+
+       - Eliminate Construction Projects Bureau;
+
+       - Create G-4 at the General Staff.
+
+**Recommendations:**
+
+      - Relevant structure of the Logistic Support Command must be based on doctrinal and
+
+operative requirements, that will provide support to the Land Forces Commands during
+war and crisis;
+
+       - Establish effective logistic support system and improve logistic support capabilities;
+
+      - Optimise administrative management by merging structural units;
+
+       - Establish logistic data tracking system (electronic database).
+
+5.5.9. Training and Military Education Command
+The mission of the Training and Military Education Command is to develop professional
+military education courses; provide training and re-training to Georgian personnel/units;
+training and evaluation of Georgian and partner countries’ units; pre-deployment training/
+retraining of units participating in international missions within the framework of Partnership
+for Peace (PfP) programme and bilateral and multilateral cooperation; elaboration of operation
+and tactical level field manuals, Basic Combat Training; and support to planned GAF trainings
+and exercises with technical and simulation facilities and equipment.
+
+
+-----
+
+**Rationale for Reorganisation**
+
+During the Strategic Defence Review process, internal structural optimisation was conducted,
+as a result of which, current structure was refined and human and technical resources were
+distributed in an optimal way among subordinate structural elements.
+
+**Implemented Actions:**
+
+     - Eliminate training and Military Education Command’s Administration;
+
+     - Eliminate Special Training Centre;
+
+    - Merge existing courses at the Armour Training Centre with course at Combined Armed
+Training Centre’s Manoeuvre school.
+
+**Recommendations:**
+
+     - Consolidation of professional development courses for officers at the Combined Arms
+
+Training Centre to achieve greater synergy and reduce overhead expenses;
+
+      - Continue transformation of all programmes of instruction based on ADDIE principles to
+
+meet SNGP standards;
+
+      - Leverage the use of the Doctrine Development Centre to produce critical, GAF tailored
+
+readiness doctrine;
+
+      - Develop necessary combat training capabilities (personnel, infrastructure and manning) at
+
+JTEC for successful implementation of GDRP;
+
+      - Eliminate Armour Training Centre.
+
+## 6. IMPLEMENTATION OF SDR RECOMMENDATIONS
+
+The implementation of SDR recommendations will require:
+
+    - SDR Implementation Plan;
+
+     - Clearly identified execution priorities;
+
+     - Institutionalised decision-making process;
+
+     - Integrated execution methodology;
+
+     - Institutional reforms
+
+6.1. SDR Implementation Plan
+The development of the SDR IP will include specific responsibilities, milestones and anticipated
+outcomes for each recommendation. The MoD Defence Policy and Development Department
+will be responsible for monitoring overall execution of the IP and providing periodic reports to
+senior MoD and General Staff leadership. The development of this document is scheduled for
+approval by the end of March 2017. Development of this IP will be coordinated with SNGP
+experts, foreign advisors and NATO.
+
+6.2. Execution Priorities
+
+Due to financial constraints, execution of the SDR 2017-2020 recommendations will require
+a clear set of priorities. Criteria for establishing these priorities will be driven by each
+recommendation’s contribution to improve the GAF readiness. The following set of priorities
+provides the basis for aligning defence funding and acquisition requirements for enhancing
+the following GAF capabilities:
+
+
+-----
+
+      - Manoeuvre (infantry, mechanised infantry and armour) units;
+
+       - Air defence;
+
+       - Anti-armour;
+
+       - Engineer (counter-mobility);
+
+        - Artillery;
+
+       - Intelligence.
+
+6.3. MoD Decision-Making Process
+
+The accomplishment of the SDR objectives requires the monitoring of the implementation
+process of SDR Recommendations, strategic decisions for readjusting the plans if needed
+and better optimisation in the allocation of limited MoD resources – both personnel and
+financial. Managing this process is structured around a tiered decision-making mechanism
+as depicted in the diagram. The Decision Making Board (DMB) is chaired by the Minister of
+Defence and comprises all Deputy Ministers, the CHOD and all DCHODS.
+
+Diagram N7
+
+The Management Team (MT) is directly subordinated to the DMB, is chaired by a designated
+Deputy Minister and contains key senior management supervisors at the Head of Department
+level. The MT supervises six permanent Working Groups, responsible for reassessing
+proposals scheduled for review by the MT prior to submission to the DMB for approval.
+
+
+-----
+
+6.4. Standard Methodology for Analysis of SDR Recommendations
+The execution of each recommendation will require a comprehensive analysis of all DOTLMPF-
+related requirements. The SNGP experts, foreign advisors and other relevant agencies will be
+engaged in the analysis process.
+
+The diagram illustrates the actions that are based on the White Book’s strategic directions. As an
+example of the actions necessary to implement SDR recommendations, the following diagram
+provides a few of the major DOTMLPF-related requirements to execute a reorganisation of
+the Military Police Department.
+
+Diagram N8
+
+6.5. Institutional reforms for implementing SDR 2017-2020 recommendations.
+
+The following provides institutional foundation for an effective implementation of the SDR
+2017-2020 recommendations. The implementation of this SDR recommendations will require
+considerable improvements in virtually all defence management systems to accomplish the
+objectives.
+
+Significant improvement in the GAF readiness and increasing resources for modernisation
+will be achieved by improving personnel, equipment, training and sustainment processes that
+will facilitate the re-allocation of defence resources to more critical requirements and support
+the ‘Total Defence’ approach. Accomplishing these objectives will require unity of effort and
+sustained engagement of senior MoD and General Staff leadership over the next four years.
+Execution of this ambitious programme relies on leveraging the expertise of SNGP experts,
+external advisors and NATO agencies.
+
+
+-----
+
+6.5.1. Strategic Directions and Management
+
+       - Interagency LoS
+
+o Determining interagency cooperation mechanisms, as well as concrete actions during
+
+crisis (in peacetime and war);
+
+o General Defence Plan Approval – provides the basis for improving interagency national
+
+defence coordination as well as internal MoD defence planning process and defence
+development directions;
+
+o Intensification of Inter-agency exercises (Didgori, Info, Fari etc.) and elaboration of
+
+new formats for trainings and exercises.
+
+      - MoD Guidance LoS
+
+o The review of the “Law of Georgia on the Defence of Georgia”;
+o MoD Acquisition Strategy – development of a comprehensive strategy supports
+
+execution of priorities identified by the SDR and provides a basis for integrated defence
+planning and management systems support;
+
+o Defence Program Guidance – provides clear, prioritised direction for the development
+
+of the Defence 2018 Budget and following three Years Program.
+
+6.5.2. Force Optimisation
+
+      - Force Management LoS
+
+o Force Management System (FMS) – ensures the implementation of SDR force
+
+optimisation recommendations in accordance with the policies and procedures of the
+system that disciplines GAF force structure management;
+
+o Reserve and Mobilisation Concept – provides a basis for refining GAF force generation
+
+capabilities in the rapid call-up and deployment in support of operational requirements.
+The concept provides the reserve system with a flexible organisation tools and easy
+access to material, financial and human resources, as well as interoperability of
+reserve’s C2 with the GAF.
+
+      - Resource Requirements LoS
+
+o SDR Personnel and Financial Reallocation Objectives – ensure sufficient financial
+
+resources are allocated to accomplish the goals reflected in paragraph 5.3;
+
+o SDR IP Resource Requirements – ensure required financial resources are considered
+
+during all steps in the development of the MoD defence Budget;
+
+o Program based budget elaboration and further development of the defence system.
+
+6.5.3. Force Readiness
+
+       - Unit Status and Evaluation Reporting System (USERS) LoS
+
+o USERS Regulation – refines/updates reporting criteria for personnel, maintenance and
+
+training;
+
+o Special Georgia Defence Readiness Program (GDRP) Unit Reporting – identifies
+
+parameters for submission of special reports for units nominated for GDRP participation.
+
+       - Unit Readiness LoS
+
+o Readiness Policies – identify policies relevant to units preparing to participate in the
+
+Georgian Readiness Program (GDRP);
+
+o Readiness Policies – refine/update in accordance with lessons learned following
+
+initiation of the GDRP;
+
+o SOF Unit Readiness – developing the capabilities of SOF Units for the accomplishment
+
+of special tasks.
+
+
+-----
+
+      - Georgia Readiness Program Implementation Planning LoS
+
+o GDRP Implementation Plan – provides a comprehensive set of policies, responsibilities,
+
+milestones and objectives for preparing GAF units for participation in GDRP;
+
+o GDRP Unit Reports – provide special reports for units nominated for participation in the
+
+programme designed to confirm the accomplishment of all precondition requirements.
+
+      - Georgia Defence Readiness Program Resource Requirements LoS
+
+o 2018 GDRP Budget Requirements – ensure the identification of adequate funds to
+
+support readiness training for GDRP designated units;
+
+o Budgeted GDRP Resources – validates that the necessary financial resources are
+
+considered during all steps in the development of the MoD defence Budget.
+
+6.5.4. Institutional Reforms
+
+      - Personnel LoS
+
+o Military Personnel Management System – further development and improvement
+
+of the system, which includes a transparent and objective recruitment, selection,
+appointment, professional development, maintenance, reintegration into the civil sector
+after retirement and provision of social care;
+
+o Civilian Personnel Management System - further development and improvement
+
+of the system, which includes a transparent and objective recruitment and job
+execution management, as well as merit-based professional development and career
+management (elaboration of individual professional development plan based on job
+execution evaluation, regular professional development courses are available for
+civilian personnel);
+
+o GDRP Personnel Fill Plan – determines when units designated for participation in the
+
+GDRP should be filled in accordance with the GDRP Implementation Plan guidance;
+
+o Tables of Organization (TO) – following the approval of the SDR, virtually all TO will
+
+need to be updated, to include standardisation of rank structures at all levels of the
+GAF;
+
+o Conscription Concept – document that describes the new programme and objectives
+
+of the conscription system. The Concept will be based on three key changes: 1.
+Each conscript will attend Basic Combat Training; 2.Conscripts will have free weekend
+privilege; 3. The salary will increase;
+
+The new conscription system will further contribute to the integration of ethnic and
+
+religious minorities. The concept will be elaborated within the framework of the inter-
+agency working group, which will become a part of SDR 2017-2020 IP and will take into
+consideration the requirements of all those state agencies, where Georgian citizens
+are undergoing compulsory military service.
+
+      - Intelligence LoS
+
+o Intelligence Transformation Plan – provides a DOTMLPF-based document as a
+
+foundation for improving intelligence capabilities;
+
+o Doctrine Development– supports the elaboration of two critical manuals – the Scout
+
+Platoon Manual and Reconnaissance Company Manual.
+
+      - Training LoS
+
+o Improving the quality of training, provision of relevant infrastructure, development of
+
+doctrines in accordance with the requirements of METL and GAF;
+
+o Standard Infantry METL –provides a basis for territorial defence-focused training as
+
+well as an initial proposal for structuring the GDRP;
+
+
+-----
+
+o JTEC – supports the integration of live, virtual and constructive training simulation
+
+technologies during training and exercises to enhance GAF readiness;
+
+o Doctrine Development– supports the elaboration of three critical manuals – the Infantry
+
+Squad and Platoon Manual, Infantry Company and Battalion Manual, as well as the
+Direct Support Artillery Battalion Manual.
+
+       - Education LoS
+
+o Professional Military Education Improvement Plan – provides initiatives and specific
+
+benchmarks for improving leadership training across the GAF. Ensures the development
+of professional and career development programmes for sergeants and officers in
+accordance with NATO standards;
+
+o David Agmashenebeli National Defence Academy of Georgia (NDA)– in coordination
+
+with the MoD and the General Staff, NDA provides first level of higher education
+programmes, determines priority areas for officers’ preliminary military education and
+provides planning and management of education process. It also provides further
+development of officers’ intermediate and higher education programmes and ensures
+its interoperability with GAF requirements. NDA develops second cycle of higher
+education programmes and provides further optimisation of foreign languages training
+system in line with GAF requirements. NDA aims to create a foundation for research
+activities;
+
+o Combined Arms Training Centre – facilitates the overall improvement and standardisation
+
+of educational curricula;
+
+
+-----
+
+o Defence Institution Building School – provides professional development courses for
+
+enhancing the skills and knowledge of our military and civilian personnel.
+
+      - Logistic & Medical LoS
+
+o Doctrine Development - supports the elaboration of three critical documents – a Logistic
+
+Concept, GAF Joint Publication 4.0 Logistics as well as the Infantry Support Battalion
+Manual;
+
+o SNGP Logistic Capability Development Project – provides the framework for improving
+
+Georgia’s Host Nation Support capabilities and identifying future requirements to
+improve Reception, Staging and Onward Movement capacity;
+
+o Infrastructure Master Plan – annually prioritises and directs financial resources to the
+
+garrisons and MOD facilities;
+
+o Medical Care plan of the GAF – describes how all MOD and GAF capabilities will be
+
+integrated into the established and internationally proven medical care of civilian and
+military personnel, wounded warriors and their families.
+
+      - Information System, Communications and Cyber Security LoS
+
+o MOD INFOSYS Enhancement Plan – provides a baseline for resource allocation to the
+
+highest priority requirements;
+
+o Cyber-security – identifies important security hardware/software requirments for the
+
+procurement and installation throughout MOD and the GAF.
+
+
+-----
+
+      - Command and Control LoS
+
+o Strategic Command and Control Concept;
+o Command & Control Command Posts – identify requirements for General Staff command
+
+posts (primary and alternates) including redundant C3I communication capabilities.
+
+      - Resource Management LoS
+
+o Defence Resource Management System (DRMS) – continues to mature current policies
+
+and procedures to further improve transparency and accountability for the allocation
+and use of defence resources;
+
+o Budget Review – periodically assesses the accuracy of budget planning and actual
+
+execution to improve leader awareness and experience in dealing with resource issues.
+
+6.5.5. Multinational and Bilateral Engagement
+
+       - International LoS
+
+o International Operations – participation in NATO and EU-led missions, including
+
+continued participation in NATO Response Force (NRF);
+
+o Partnership Goals – Fulfilling the specific requirements within the framework of NATO-
+
+Georgia cooperation mechanisms, including Partnership Goals and other commitments
+with partner countries to enhance interoperability;
+
+o Improving GAF capabilities at strategic, tactical and operational levels through
+
+implementation of SNGP initiatives.
+
+
+-----
+
+      - Multinational/Bilateral Engagement
+
+o Exercise Participation – balances the benefits of continued participation in multinational
+
+and bilateral exercises against competing SDR IP requirements to optimise the
+allocation of limited resources;
+
+o Exercise Design – emphasises exercise objectives that contribute to territorial defence
+
+capacity building (annual field and command post exercises at tactical, strategic and
+operational levels);
+
+o Bilateral Relations – deepening cooperation with partner and neighbouring states;
+o Close cooperation with NATO allies and partner countries – to ensure security and
+
+stability in South Caucasus and the Black Sea region.
+
+
+-----
+
+## 7. CONCLUSION
+
+In order to respond to the security challenges, it is imperative to transform the defence
+system, which, together with economic, diplomatic and information deterrence factors, will
+develop military capabilities, as this will ensure that Georgia’s vital interests are protected.
+The Georgian Armed Forces must represent the main component for deterrence against
+aggression and an important factor for the prevention of war to ensure Georgia’s peaceful
+development and protect its sovereignty and independence.
+
+The assessment of GAF’s existing capabilities was conducted during the elaboration of the
+Strategic Defence Review 2017-2020 (SDR). Optimal and rational organisational structure of
+GAF’s combat and supporting elements was formed based on the security environment and
+existing resources.
+
+The leadership of the Ministry of Defence of Georgia is fully responsible for the abovementioned
+process and acknowledges the difficulties and challenges that accompany the transformation
+process of the defence system. The MoD expressed its readiness to implement SDR
+recommendations through close cooperation with the defence and security sector. The
+successful implementation of SDR recommendations will ensure the transformation of defence
+system, creation of modern, ready and affordable armed forces capable of adequately
+responding to country’s security threats.
+
+
+-----
+

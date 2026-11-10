@@ -1,0 +1,2930 @@
+[Provisional Translation as of January 17, 2023]
+
+# DEFENSE BUILDUP PROGRAM
+
+December 16, 2022
+
+Table of Contents
+
+I Program Guidelines
+II Major Programs Regarding SDF’s Capabilities
+
+1 Stand-off Defense Capabilities
+2 Integrated Air and Missile Defense Capabilities
+3 Unmanned Defense Capabilities
+4 Cross-domain Operation Capabilities
+(1) Capabilities in the Space Domain
+(2) Capabilities in the Cyber Domain
+(3) Capabilities in the Electromagnetic Domain
+(4) Capabilities in the Ground, Maritime, and Air Domains
+
+5 Command and Control / Intelligence-related Functions
+
+(1) Enhancing Command and Control Functions
+(2) Enhancing Information Gathering and Analysis Functions
+(3) Responses to Integrated Information Warfare With Special Regard to the
+
+Cognitive Dimension
+
+6 Mobile Deployment Capabilities / Civil Protection
+
+7 Sustainability and Resiliency
+
+(1) Procurement of Various Ammunitions
+(2) Securing Fuel
+(3) Improving the Operational Availability of Defense Equipment
+(4) Facilities Improvement
+Ⅲ Organization of Self-Defense Forces (SDF)
+1 Joint Operation Structure
+2 Japan Ground Self-Defense Force (GSDF)
+(1) Level of Defense Capability to Possess
+(2) Reorganization of the Major Units
+3 Japan Maritime Self-Defense Force (MSDF)
+(1) Level of Defense Capability to Possess
+(2) Reorganization of the Major Units
+
+4 Japan Air and Space Self-Defense Force (ASDF)
+
+1
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(1) Level of Defense Capability to Possess
+(2) Reorganization of the Major Units
+5. Optimizing Organizational Capacity
+IV Strengthening the Japan-U.S. Alliance
+1 Strengthening Japan-U.S. Defense Cooperation
+2 Steady Implementation of Measures to Support Stationing of U.S. Forces in Japan
+V Collaboration with Like-minded Countries and Others
+1 Bilateral/Multilateral Training and Exercises
+
+2 Equipment and Technology Cooperation
+3 Capacity Building Assistance
+VI Elements Supporting Defense Capabilities
+
+1 Training and Exercises
+2 Reinforcing Collaboration and Cooperation with the Japan Coast Guard
+3 Collaboration with Local Communities
+4 Reinforcing Policy Making Functions
+
+VII Protection of Life, Person and Property of Japanese Nationals / Utilizing Defense
+
+Capability and Measures for Global Security Cooperation
+
+1 Measures to Large-Scale Disasters
+
+2 Efforts for Maritime Security and Use of the Airspace based on Existing
+
+International Rules
+
+3 International Peace Cooperation Activities
+
+Ⅷ New Measures for Early Deployment of Defense Equipment
+
+Ⅸ Defense Production and Technological Base as Virtually Integral Part of a Defense
+
+Capability
+
+1 Reinforcing Defense Production Base
+2 Reinforcing Defense Technological Base
+
+(1) Stand-Off Defense Capabilities
+(2) Capabilities to Respond to HGVs, etc.
+(3) Capabilities to Respond to Drones and Swarm Attacks
+(4) Measures for Unmanned Assets
+(5) Measures for Next-Generation Fighter Aircraft
+(6) Reinforcing Other Deterrence and Response Capabilities
+
+3 Promoting Transfer of Defense Equipment and Technology
+
+4 Promotion of Various Measures and Institutional Development
+Ⅹ Reinforcing the Foundation for SDF Personnel, to Fulfill Abilities as Core of Defense
+
+Capabilities
+
+2
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+1 Reinforcing Human Resource Base
+(1) Reinforcement of Recruitment Measures
+(2) Utilization of SDF Reserve Personnel and Others
+(3) Effective Use of Human Resources
+(4) Improvement of Living and Working Environment, etc.
+(5) Human Resource Development
+(6) Improving Treatment and Reemployment
+2 Transformation of Medical Functions
+
+XI Optimization Efforts
+1 Equipment
+2 Personnel
+XII Quantities of Major Procurement
+XIII Expenditures
+XIV Notes
+Appendix 1
+Appendix 2
+Appendix 3
+
+3
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+**I. Program Guidelines**
+
+In accordance with the “National Defense Strategy” (approved by the
+
+National Security Council and Cabinet on December, 16, 2022), Japan will
+fundamentally reinforce its “Multi-Domain Defense Force,” through the
+synergy of organically integrated capabilities including space, cyber, and
+electromagnetic domains, and is capable of sustained conduct of flexible
+and strategic activities during all phases from peacetime to armed
+contingencies, focusing on the capabilities of our opponents and new ways
+
+of warfare. By FY 2027 or by five years from now, Japan will strengthen its
+defense capabilities to the point at which Japan is able to take the primary
+responsibility for dealing with invasions against its nation, and disrupt and
+defeat such threats while gaining support of its ally and others. Furthermore,
+in approximately 10 years from now, Japan will make further efforts to
+better attain this defense objective and will reinforce its defense capabilities
+to the point at which it will be possible to disrupt and defeat invasions
+against its nation much earlier and at a further distance.
+
+Given the guiding thoughts above, Ministry of Defense/Self-Defense
+
+Forces (hereinafter referred to as “MOD/SDF”) will effectively and
+efficiently build, maintain and operate defense capabilities based on the
+following program guidelines.
+
+1 The functions and capabilities required for the defense of Japan are,
+
+firstly, Japan needs capabilities with which to disrupt and defeat invading
+
+forces over long distances, thereby defending invasion itself. Japan
+therefore will reinforce “stand-off defense capabilities” and “integrated
+air and missile defense capabilities”.
+
+Secondly, should deterrence fail and invasion of Japan occur, Japan
+
+would need to ensure asymmetric advantage by leveraging, in addition to
+these capabilities, manned as well as unmanned assets and gain
+superiority across domains such as underwater, surface, and air. To this
+end, Japan will reinforce “unmanned defense capabilities,” “crossdomain operation capabilities,” and “command and control/intelligence
+related functions”.
+
+Lastly, Japan would also need to operate in a swift as well as persistent
+
+manner so as to force the opponent to give up invasion. For this, Japan
+
+will reinforce “mobile deployment capabilities/civil protection” and
+
+4
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+“sustainability and resiliency.”
+Additionally, Japan will also place emphasis on the defense production
+and technology base, characterized as virtually integral part of a defense
+capability, as well as areas such as the human resource base that supports
+our defense capability.
+
+2 In procuring equipment, by properly combining the introduction of new,
+
+high performance equipment, along with life extension and improvement
+
+of existing equipment, MOD/SDF will efficiently secure necessary and
+sufficient quality and quantity of defense capability. In this regard,
+MOD/SDF will strengthen its project management throughout its
+equipment life-cycle, including during its research and development
+activities, and reduce the life-cycle costs to improve cost-effectiveness.
+In addition, MOD/SDF will steadily realize acceleration of defense
+equipment deployment which is particularly urgent and significant from
+a policy perspective of the areas that could directly affect the SDF's
+current and future ways of warfare by incorporating advanced civilian
+technologies.
+
+3 In the face of Japan’s aging population with a declining birth rate, and
+
+with no prospect of an increase in the number of recruits, MOD/SDF will
+comprehensively promote various measures to reinforce human resource
+base such as strengthening recruitment efforts, utilizing SDF Reserve
+
+Personnel and others, promoting women’s participation, raising the
+retirement age for uniformed SDF personnel, utilizing diverse and
+distinguished personnel including retired uniformed SDF personnel,
+improving living and working environment, developing the human
+resources, improving treatments, and supporting reemployment, etc.
+
+4 To further reinforce the joint deterrence capabilities of Japan and the
+
+United States in an integrated manner, Japan will promote cooperation,
+etc. related to cross-domain operations, including space, cyber, and
+electromagnetic domains. In addition, in order to reinforce the
+infrastructure to support effective joint response capabilities in all phases,
+Japan will reinforce efforts related to information security and
+
+cybersecurity, as well as equipment and technology cooperation to
+
+5
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+promote information sharing between Japan and the United States. In
+addition, measures to support the stationing of U.S. Forces in Japan will
+be steadily implemented.
+
+In line with the vision of the Free and Open Indo-Pacific (FOIP), to
+
+strategically promote multifaceted and multilayered security operations,
+Japan will further promote establishing policy frameworks such as
+Reciprocal Access Agreement (RAA), Acquisition and Cross Servicing
+Agreement (ACSA), General Security of (Military) Information
+
+Agreement (GSOMIA/GSOIA), and transfer of defense equipment and
+technology agreement, while also promoting defense cooperation and
+exchanges including bilateral/multilateral training and exercises, defense
+equipment and technology cooperation, capacity building, and
+
+interchanges among military branches.
+
+5 In fundamentally reinforcing defense capabilities, Japan will, while
+
+adhering to scrap-and-build approach, optimize SDF’s organization and
+authorized strength as well as equipment. We will also further our
+ongoing efforts toward more efficient procurement, which have achieved
+significant cost reductions. In addition, to account for Japan’s aging
+population with a declining birth rate, Japan will robustly promote
+automation, labor-saving and optimization.
+
+**Ⅱ Major Programs regarding SDF’s Capabilities**
+
+In order for Japan to buildup defense capabilities to the point at which
+
+Japan is able to take the primary responsibility for dealing with invasions
+against its nation, and disrupt and defeat such threats while gaining support
+of its ally and others by FY 2027. Japan will place emphasis on
+implementing the following major programs listed from 1 to 7 in
+fundamentally reinforcing defense capabilities.
+
+1 Stand-Off Defense Capabilities
+
+In order to reinforce capabilities to conduct diverse responses from
+
+outside of the threat envelope and against vessels and landing forces
+invading Japan, MOD/SDF will continue development and production
+of the prototype of upgraded Type-12 surface-to-ship missile
+
+(develop surface-, ship-, and air-to-ship models), upgraded Hyper
+
+6
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+Velocity Gliding Projectile and hypersonic missiles. MOD/SDF will
+extend the ranges of its various missiles, such as by upgrading Hyper
+Velocity Gliding Projectile and hypersonic missiles. In order to
+fundamentally reinforce defense capability as soon as possible,
+MOD/SDF will procure mass-produced rounds for the abovementioned standoff missiles, and will also continue to steadily
+procure foreign-made stand-off missiles, such as U.S.-made
+
+Tomahawks.
+
+In addition, MOD/SDF will proceed research and development for
+
+further diversifying launch platforms, and will develop and procure
+vertical missile launch system (VLS) that can be equipped on submarines
+and a system that can be equipped on transport aircraft, aiming to
+improve the operational capability of standoff missiles.
+
+In order to ensure the effectiveness of stand-off defense capabilities,
+
+MOD/SDF will enhance functions of information collection and analysis
+as well as command and control by acquiring imagery intelligence, etc.
+using satellite constellations and introducing unmanned aerial vehicles
+(UAV) and target observation rounds, from the perspective of effective
+collection of target information. Since the operation of these stand-off
+missiles requires a series of command and control including the
+collection of target information and the assignment of targets to each unit
+to be conducted in a unified manner, a posture based on joint operation
+will be established. In addition, a series of functions necessary for the
+
+development and operation of stand-off missiles will be established by
+building additional ammunition storage facilities for storing stand-off
+missiles and other equipment, as well as facilities necessary for testing
+and maintenance, including securing facilities that can be used for livefiring.
+
+2 Integrated Air and Missile Defense Capabilities
+
+In order to enhance capabilities to detect and track threats such as
+
+Hypersonic Glide Vehicles (HGV), MOD/SDF will procure and upgrade
+ground-based warning and control radars (FPS) etc., as well as procure a
+future warning and control radar. In addition, MOD/SDF will improve its
+capability to respond to HGVs and other such weapons with interceptor
+
+missiles with upgraded capabilities (PAC-3 MSE) by upgrading the
+
+7
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+surface-to-air guided missile PATRIOT system and introducing a new
+radar (LTAMDS).
+
+In order to respond more effectively to various situations, MOD/SDF
+
+will begin reviewing the organization and deployment of fire units and
+establish a multi-layered air defense system in key areas together with
+mid-range ground-to-air guided missile units, and conduct unit
+operations for deployment from peacetime. MOD/SDF will also promote
+the upgrade of base air defense surface-to-air missile (SAM). In addition,
+
+research and studies will be conducted on a guided missile system which
+is capable of responding to HGVs and other such weapons at the glide
+phase.
+
+In order to enhance the capability to respond to HGVs and other such
+
+weapons, MOD/SDF will upgrade the Type 03 medium-range surfaceto-air guided missile (modified), and also procure missiles such as
+interceptor missiles for ballistic missile defense (SM-3 Block IIA),
+interceptors with upgraded capabilities (PAC-3MSE), and long-range
+ship-to-air missiles (SM-6).
+
+To achieve effective and efficient response through networking,
+
+MOD/SDF will acquire a network system that enables fire control
+network between destroyers and other vessels (FC network) and will
+possess Cooperative Engagement Capability (CEC). In addition, by
+modifying the information coordination central (ICC) of the surface-toair guided missile PATRIOT system, various guided missile systems will
+
+be networked together.
+
+To strengthen Japan's air defense capabilities, MOD/SDF will
+
+procure Aegis System Equipped Vessels that will primarily conduct
+BMD operations.
+
+MOD/SDF will expeditiously develop capabilities to deal with small
+
+unmanned aircraft, etc., by non-kinetic means through a combination of
+directed energy weapons such as high-power lasers and high-power
+microwaves (HPMs).
+
+Counterstrike capabilities are SDF’s capabilities that leverage stand
+off defense capability and other capabilities. In cases where armed attack
+against Japan has occurred, and as part of that attack ballistic missiles
+and other means have been used, counterstrike capabilities enable Japan
+
+to mount effective counterstrikes against the opponent’s territory.
+
+8
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+Counterstrikes are done as a minimum necessary measure for self-defense
+and in accordance with the Three Conditions for Use of Force. Operation
+of this counterstrike capability will be conducted under unified command
+and control based on joint operations.
+
+3 Unmanned Defense Capabilities
+
+In order to accomplish missions while minimizing human loss, SDF will
+
+expeditiously procure various types of unmanned assets, promoting
+
+initiatives to optimize the existing equipment system and personnel
+deployment. In procuring these assets, MOD/SDF will aim to secure both
+safety and capability to effectively carry out our mission.
+
+To conduct seamless intelligence, surveillance, reconnaissance, and
+
+targeting (ISRT), SDF will procure long-endurance UAVs and ship-borne
+unmanned assets that contribute to maritime surveillance, reconnaissance
+UAVs that can continuously collect target information in the threat
+envelope of an opponent, as well as a variety of unmanned assets for
+ISRT. In addition, to implement rapid transport of supplies to widely
+dispersed deployed units, remote bases, and naval vessels, MOD/SDF
+will consider introducing transportation UAVs and take necessary
+measures.
+
+To disrupt and defeat an invasion against Japan, MOD/SDF will
+
+procure utility/attack UAVs and miniature attack UAVs that effectively
+retains various attack functions to enable itself to search and identify
+
+personnel, vehicles, naval vessels from the air and quickly respond to
+targets.
+
+MOD/SDF will develop and procure unmanned surface vehicles
+
+(USVs) that can be linked to naval vessels and effectively conduct
+various operational maneuvers. Various types of unmanned underwater
+vehicles (UUVs) will also be developed to gain underwater superiority.
+
+In addition, unmanned ground vehicles (UGVs) and UAVs will be
+
+effectively combined to improve the efficiency of security and protection
+systems at garrisons, bases, and critical facilities. MOD/SDF will also
+enhance collaboration between manned and unmanned aircraft, as well as
+strengthen its ability to operate multiple unmanned assets simultaneously.
+
+4 Cross-Domain Operation Capabilities
+
+9
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(1) Capabilities in the Space Domain
+
+In order to improve cross-domain capabilities, including the
+
+operation of stand-off missiles, various capabilities such as
+information gathering and communications utilizing the space domain
+will be further improved. Specifically, MOD/SDF will establish
+satellite constellation to improve the detection and tracking of target,
+with enhancing Japan-U.S. cooperation and using images from
+commercial satellites as supplementary endeavors. In addition,
+
+MOD/SDF will conduct required technological demonstrations to
+improve capabilities such as detection and tracking of HGVs using
+satellites, considering the possibility of cooperation with the U.S.
+Furthermore, in order to cope with the increasing demand for satellite
+communications, MOD/SDF will make efforts to establish multiple
+layers of communication band with higher resiliency in addition to the
+conventional X-band communications.
+
+In response to the space domain, SDF will further enhance
+
+capability to disrupt C4I and other capabilities of opponent. In
+addition, in order to enhance the capability for Space Domain
+Awareness (SDA), MOD/SDF will promote various efforts, including
+the development of SDA satellites scheduled for launch in FY2026, as
+well as further studies on the operation of multiple SDA satellites.
+Furthermore, in order to enhance the resilience of Japan's space system
+including satellites, MOD/SDF will promote the use of multiple
+
+positioning signals including Quasi-Zenith Satellite System (QZSS)
+and commercial satellites, and start development and demonstration of
+technology related to resilience of satellite communication.
+
+Regarding cooperation with other countries, in addition to
+
+promoting information sharing with the U.S. and other countries on
+SDA, MOD/SDF will strengthen cooperation such as multilateral
+shared use of communication waves with high resiliency.
+
+In order to strengthen the organizational structure and human
+
+resource base for the space domain, MOD/SDF will engage with
+relevant organizations such as JAXA, as well as allied and like-minded
+countries such as the U.S. to secure necessary human resources for
+space, such as by establishing a framework to effectively utilize
+
+knowledge and experience on space gained among relevant ministries.
+
+10
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(2) Capabilities in the Cyber Domain
+
+In line with the government-wide cybersecurity policy which will
+
+be comprehensively coordinated in a centralized manner, MOD/SDF
+will enhance its cybersecurity capability, while also promoting
+initiatives that contribute to strengthening cooperation with relevant
+ministries and agencies, critical infrastructure providers, and defense
+industry. MOD/SDF will establish a posture to secure command and
+
+control capabilities and high-priority equipment systems, to assure
+SDF’s ability to perform its mission, and to support the cyber defense
+of the defense industry even under cyberattacks.
+
+Therefore, considering the latest cyber threat situation, capability
+
+of MOD/SDF in the cyber domain will be strengthened, based on an
+assumption that there is no longer safe network, transitioning from
+the traditional idea that perimeter security is sufficient to maintain
+the network safety. Introducing security functions based on the "Zero
+Trust" concept will be considered. "Risk Management Framework
+(RMF)" based on a mindset that manages risks continuously, by
+analyzing, assessing and appropriately managing risks continuously
+after introduction of information systems, will be introduced.
+Protection posture of equipment systems and facility infrastructure
+systems will be strengthened. Based on an assumption that threats
+may have already intruded into our network, cyber threat hunting
+
+capability will be improved to detect the threats early. In addition,
+efforts will be made to support strengthening cybersecurity measures
+for defense industry, etc.
+
+In order to strengthen the cybersecurity posture of MOD/SDF,
+
+MOD/SDF will reorganize the GSDF Signal School into the GSDF
+System and Signal/Cyber School to expand the educational
+infrastructure to train cyber personnel. Furthermore, efforts to
+develop capability to disrupt opponent’s use of cyberspace for an
+attack against Japan, will be strengthened.
+
+In order to strengthen the capability to implement these initiatives
+
+as an organization as a whole, the number of cyber personnel
+belonging to cyber-related units such as the SDF Cyber Defense
+
+Command will be expanded to approximately 4,000 by the end of FY
+
+11
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+2027, and MOD/SDF will provide training to its personnel engaged
+in cyber-related tasks such as system procurement, maintenance, and
+operations. In addition to the increase of cyber personnel belonging
+to cyber-related units, these efforts will bring the total number of
+MOD/SDF cyber personnel to approximately 20,000 by around
+FY2027. Further reinforcement of cyber defense architecture is
+intended in the future.
+
+(3) Capabilities in the Electromagnetic Domain
+
+Along with reinforcing SDF’s communication and radar jamming
+
+capabilities, MOD/SDF will strengthen electronic warfare capabilities
+by enhancing ability to detect and identify electromagnetic waves and
+acquiring means of deception using electromagnetic waves. In addition,
+MOD/SDF will expand its use of electromagnetic waves to take
+countermeasures against small UAVs using lasers and other means.
+Furthermore, MOD/SDF will reinforce electromagnetic domain
+management functions which reasonably manage and coordinate
+SDF’s use of electromagnetic waves.
+
+To this end, MOD/SDF will make the following efforts: Procurement
+
+of network electronic warfare system (NEWS) with communication
+and radar jamming capabilities, development of stand-off electronic
+warfare aircraft to jam communications and other functions from
+outside of their threat envelope and stand-in jammers to use various
+
+types of electronic jamming within the threat envelope; Improvement
+of signal detection and identification capabilities of naval vessels and
+fixed-wing patrol aircraft by installing radio wave detection
+equipment; development of anti-aircraft electronic warfare equipment
+to jam radar from ground. Furthermore, MOD/SDF will verify the
+provision of jamming capabilities to fixed-wing patrol aircraft and
+take measures as necessary. In addition, MOD/SDF will start operation
+of vehicle-mounted laser devices for responding to small UAVs and
+take measures for early deployment of directed energy technologies
+such as high-power laser systems and high-power microwaves (HPM).
+Along with adding the functions to monitor and manage the use of
+electromagnetic domain in each SDF system, MOD/SDF will work
+
+closely with the relevant ministries and agencies to ensure SDF’s use
+
+12
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+of spectrum necessary for its activities.
+
+(4) Capabilities in the Ground, Maritime, and Air Domains
+
+MOD/SDF will accelerate the acquisition of equipment, etc. and
+
+capability improvement, etc. in each of the SDF services, and
+strengthen capabilities in the ground, maritime, and air domains that
+form the basis of cross-domain operations. MOD/SDF will actively
+utilize advanced technology to steadily upgrade equipment, etc. in each
+
+of the SDF services, and enhance advanced operational capabilities to
+collaborate with unmanned assets.
+
+5 Command-and-Control and Intelligence-related Functions
+
+(1) Enhancing Command-and-Control Functions
+
+In order to ensure a swift and reliable command and control,
+
+MOD/SDF will establish resilient communications, system network,
+and data infrastructure, establish a real-time command and control
+posture, conduct studies on command and control capabilities that
+enables unified command of each SDF service, and take measures as
+necessary.
+
+To this end, MOD/SDF will develop a cloud as a common
+
+infrastructure to reinforce information sharing function for crossdomain operations; upgrade the SDF central command system to
+strengthen the command and control function and its connection with
+
+related ministries and agencies; procure a future command and control
+system to strengthen GSDF’s autonomous operational capability;
+upgrade the command and control system to further speed up the
+decision-making cycle in the MSDF; upgrade Japan Aerospace Defense
+Ground environment (JADGE) to strengthen the resilience of the
+command and control function in the ASDF; and enhance the mobility
+and flexibility of command and control function ; procure a space
+operation command and control system which centrally commands and
+controls the operation of space-related equipment and reinforce
+resilience of the satellite use. Additionally, MOD/SDF will enhance the
+Defense Information Infrastructure (DII) necessary for sharing those
+information.
+
+13
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(2) Enhancing Information Gathering and Analysis Functions
+
+MOD/SDF will establish a seamless intelligence gathering and
+
+analysis scheme by persistently collecting information on military
+trends in the vicinity of Japan and fundamentally reinforcing our
+capability and posture to process, analyze, and disseminate such
+information, as well as establish a posture that can promptly provide
+information that contributes to policy decisions and SDF unit
+operations. In addition, MOD/SDF will examine the ideal state of
+
+information sharing with U.S. forces and joint operations for
+unmanned assets, and take necessary measures.
+
+To this end, the Defense Intelligence Headquarters (DIH), which
+
+plays a central role in intelligence functions for the defense of Japan,
+will strengthen the capabilities of each function, such as signal,
+imagery, human, and open-source intelligence (SIGINT, IMINT,
+HUMINT, and OSINT), while expanding the training base for
+analysts, etc., enhancing the system for intelligence collection and
+analysis, including the utilization of geospatial intelligence
+(GEOINT), and augmenting its defense attaché system. The SDF will
+build a satellite constellation for acquiring target detection and
+tracking capabilities, which will be complemented by various
+initiatives such as the strengthening of cooperation with the United
+States and the use of commercial satellites, as well as the
+strengthening of information gathering capabilities from space
+
+domain using information-gathering satellites and commercial
+satellites. In addition, various types of UAVs, etc. that are
+indispensable for effective ISR implementation will be procured.
+
+(3) Responses to Integrated Information Warfare with Special Regard to the
+
+Cognitive Dimension
+
+In the international community, emphasis is being placed on
+
+information warfare, which is an attempt to create a favorable security
+environment by influencing the public opinion and decision-making of
+other countries through disinformation and strategic communications,
+etc., and minimizing the impact to one's own decision-making, even
+when conflict has yet to arise. MOD/SDF will establish a system and
+
+posture that ensures the capability to cope with information warfare.
+
+14
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+To this end, the DIH, which plays a central role in responding to
+
+integrated information warfare, will strengthen the system for
+information collection, analysis, and communication. In addition, the
+following functions will be developed: automatic collection and
+analysis of open-source information using artificial intelligence (AI),
+which will enable continuous collection and analysis of information
+on trends in each country; automatic collection of information on
+social networking sites, etc., to determine the authenticity of
+
+information communicated by each country; and future forecasting
+functions for estimating the security situation.
+
+6 Mobile Deployment Capabilities / Civil Protection
+
+In order to secure capabilities for swift and reliable transportation
+
+of necessary units to defeat the invasion of islands to the southwest
+region, MOD/SDF will procure various transportation assets such as
+transport ships (LSVs, LCUs and maneuverable boats), transport
+aircraft (C-2), aerial refueling/ transport aircraft (KC-46A, etc.), and
+transport/ utility helicopters (CH-47J/JA, UH-2). In addition,
+MOD/SDF will secure additional private finance initiative (PFI)
+vessels specialized for mass transportation of vehicles and containers
+to supplement the maritime transportation capability.
+
+To enhance self-sufficiency in transportation to southwestern
+
+regions, MOD/SDF will procure transportation vehicles (container
+
+trailers) and cargo handling equipment (large cranes and large
+forklifts). In addition, MOD/SDF will conduct research and
+development of a landing support system to improve the efficiency of
+transportation toward islands where the size of seaports is limited. At
+the same time, MOD/SDF will make efforts to reduce transportation
+needs by stockpiling supplies in the southwestern region.
+
+In addition, in order to enhance the effectiveness of the SDF's mobile
+
+deployment and civil protection, the government as a whole will work
+on measures to develop and strengthen airports and seaports, and
+others, particularly in the southwestern region, and take necessary
+measures to enable SDF to use facilities such as existing airports and
+seaports, as operational infrastructure. Furthermore, the government as
+
+a whole will deepen collaboration with relevant organizations
+
+15
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+regarding the expansion of the use of civilian vessels and aircraft for
+SDF’s maneuver and deployment, and coordinate and cooperate to
+systematically implement civil protection measures employing various
+transport assets of the SDF, in addition to civilian vessels and aircraft.
+In doing so, the government as a whole will strengthen civil protection
+training for armed attack situations as well as secure various
+evacuation facilities. In addition, MOD/SDF will promote various
+measures such as reinforcing SDF units capable of also responding to
+
+civil protection, and utilizing SDF Reserve Personnel.
+
+7 Sustainability and Resiliency
+
+(1) Procurement of Various Ammunitions
+
+Procure required quantities of various ammunitions, including
+
+standoff missiles such as the Type 12 surface-to-ship guided missile,
+interceptor missiles for ballistic missile defense (SM-3 Block IIA),
+interceptor missiles with upgraded capabilities (PAC-3MSE), longrange ship-to-air missiles (SM-6), and Type 03 medium-range surfaceto-air guided missile (modified) promptly. In order to mass-produce
+ammunitions quickly and stably, MOD/SDF will encourage the defense
+industry to expand its domestic manufacturing capacity. Furthermore,
+MOD/SDF will strengthen maintenance posture for the various
+ammunitions.
+
+In addition, in order to meet the increasing storage requirements
+
+for ammunitions, MOD/SDF will promote the expansion of
+ammunition storage facilities and the disposal of unused ammunitions.
+
+(2) Securing fuel, etc.
+
+MOD/SDF will secure necessary amount of fuel for SDF operations.
+
+In addition, in order to secure fuel requirements quickly and stably,
+MOD/SDF will build new fuel tanks while also renting private fuel
+tanks. In addition, MOD/SDF will secure necessary quantities of food
+and clothing.
+
+(3) Improving the Operational Availability of Defense Equipment
+
+By securing necessary budget for maintenance and material, with
+
+lead time in consideration, while dealing with the increasingly
+
+16
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+sophistication and complexity of defense equipment, MOD/SDF will
+eliminate the number of non-mission capable equipment caused by
+material shortage and maximize the number of operationally available
+equipment by FY 2027. To this end, the supply warehouse will be
+renovated to improve the precision of supply and demand forecasts and
+to shorten the time it takes for units to receive parts. In increasing the
+number of operationally available units, MOD/SDF will promote the
+outsourcing of maintenance and other operations to outside parties in
+
+order to make effective use of limited resources. In addition,
+MOD/SDF will promote the introduction of digital transformation
+(DX) in the logistics support field to optimize maintenance and upkeep.
+In addition, MOD/SDF will expand comprehensive contracts,
+including Performance Based Logistics (PBL) where outcomes are
+acquired through performance-based arrangements that will deliver
+SDF’s requirements in maintenance.
+
+(4) Facility Improvement
+
+In conjunction with the acquisition of various types of ammunition,
+
+including standoff missiles, SDF will secure necessary ammunition
+storage facilities. In securing the ammunition storage facilities, SDF
+will pursue and promote efficient joint operations among the SDF
+services, joint use of U.S. ammunition storage facilities, and dispersed
+deployment to islands from the viewpoint of ensuring the resiliency of
+
+the ammunition.
+
+In order to protect major equipment and command posts, etc., and
+
+ensure a tenacious fighting posture, MOD/SDF will establish
+underground basing, reinforce facilities, take electromagnetic pulse
+(EMP) measures for command posts, construct dispersal pads for
+fighter aircraft, build hardened alert shelters, and establish redundant
+utility infrastructures. In addition, the base security function will be
+strengthened while reducing the number of personnel.
+
+In addition, MOD/SDF will develop facilities to enable efficient
+
+operation of new equipment such as unmanned assets.
+
+When renovating existing facilities, protective measures against
+
+explosives, nuclear, biological, and chemical weapons,
+
+electromagnetic waves, and guerrilla attacks shall be provided.
+
+17
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+Structural reinforcement of facilities in accordance with their
+functions and importance, and relocation and consolidation of
+facilities to ensure stand-off distance shall also be implemented.
+
+In order to prevent the functional decline of SDF facilities in the
+
+event of large-scale disaster, MOD/SDF will promote countermeasures
+against disasters such as tsunamis, starting from bases and camps that
+are expected to be damaged significantly and are important for
+operations. In the future, SDF will improve the resiliency of defense
+
+facilities and infrastructure in bases and camps in order to adapt and
+respond to various challenges associated with climate change, and to
+fulfill SDF’s missions and roles.
+
+MOD/SDF will smoothly execute facility improvements in a focused
+
+manner over a five-year period, while utilizing the knowledge of
+relevant ministries and agencies as well as private sector.
+
+**III Organization of Japan Self-Defense Forces**
+
+Based on the program guidelines, the structures of each SDF services
+
+shall be developed as described in 1 through 5.
+
+1 Joint Operation Structure
+
+(1) A Permanent Joint Headquarters will be established in order to build
+
+a system capable of seamlessly conducting cross-domain operations
+at all stages from peacetime to contingency, with the aim of
+
+strengthening the effectiveness of joint operations among each SDF
+services. In this regard, in light of the rapidly increasing severity of
+the security environment surrounding Japan, MOD/SDF will make
+every effort to pursue the establishment of a Permanent Joint
+Headquarters as soon as possible and, upon the new establishment of
+the Permanent Joint Headquarters, SDF will examine how each unit,
+including joint units, should be structured.
+
+(2) For further improvement of capabilities in the cyber domain,
+
+including constant and continuous monitoring of MOD/SDF's
+network and systems as well as the capability to disrupt opponent’s
+use of cyberspace for an attack against Japan, SDF will possess a
+cyber defense unit as a joint unit, in order to fundamentally reinforce
+
+cyber defense capability.
+
+18
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(3) In addition, a new maritime transport unit will be established as a
+
+joint unit to improve the mobile deployment capabilities to the
+southwestern region.
+
+2 Japan Ground Self-Defense Force
+
+(1) Level of Defense Capability to Possess
+
+(a) Regarding the basic operational units, the 15th Brigade will be
+
+reorganized into a division in order to strengthen the defense
+
+architecture in the southwestern region. The other eight divisions,
+five brigades, and one armored division will be operated on the
+basis of rapid deployment in order to deter and respond
+immediately to various situations effectively and rapidly. In
+addition, units with specialized functions such as airborne units,
+amphibious rapid deployment units and air rapid deployment units
+will be also operated on the basis of rapid deployment.
+
+In this regard, based on a favorable training environment, one
+
+division, two brigades, and one armored division that maintain a
+high level of proficiency will be placed in Hokkaido on the premise
+that they will be deployed and transported rapidly by the integrated
+transport capability.
+
+As a premise for the above measures, GSDF will thoroughly
+
+ensure optimizing organizational capacity, and will consider how to
+structure the posture in the mid- and long-term span.
+
+(b) In order to strengthen stand-off defense capabilities, surface-to
+ship missile units equipped with upgraded Type 12 surface-to-ship
+missiles will be retained. Furthermore, units equipped with Hyper
+Velocity Gliding Projectile, and a long-range guided missile unit
+equipped with upgraded Hyper Velocity Gliding Projectile and
+hypersonic missiles will be newly established.
+
+(c) In order to protect important bases, etc. from various airborne
+
+threats, surface-to-air missile units equipped with upgraded Type 03
+medium-range surface-to-air guided missiles (modified) will be
+retained.
+
+(2) Reorganization of the Major Units.
+
+(a) In order to strengthen cross-domain capabilities, GSDF will newly
+
+19
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+establish a new anti-aircraft, and the electronic warfare unit and
+reinforce the electronic warfare unit on islands. Furthermore, a new
+multi-purpose unmanned aerial vehicle unit that retains information
+gathering and attack capabilities, etc., will be established. In
+addition, a new unit will be established to ensure advantages in
+information warfare, including in the cognitive dimension, in
+coordination with cyber and electronic warfare.
+
+(b) In order to strengthen sustainability and resiliency, the logistics
+
+support system will be strengthened by establishing a new branch
+depot in the southwestern region, and reorganizing the Ground
+Material Control Command to centrally operate each logistic depot.
+
+(c) In order to secure the increased personnel necessary to strengthen
+
+stand-off defense capabilities, cyber capabilities, etc., MOD/SDF
+will abolish units mainly composed of the SDF Ready Reserve
+Personnel, and allocate the regular uniformed SDF personnel
+belonging to the units to fulfill the personnel requirements. In
+addition, MOD/SDF will manage SDF Ready Reserve Personnel as
+replacements.
+
+3 Japan Maritime Self-Defense Force
+
+(1) Level of Defense Capability to Possess
+
+(a) To conduct persistent and multilayered information gathering
+
+and surveillance in the waters around Japan in peace time, MSDF
+will possess surface units strengthened by the introduction of
+patrol vessels and other vessels so that it can persistently respond
+to an increasing volume of activities, such as ensuring security of
+maritime traffic, which is the foundation of stable economic
+activities, and conducting overseas deployment for security
+cooperation with other countries. And in a contingency, in order
+to secure Japan's territory and the waters around Japan and to
+ensure security of maritime traffic, MSDF will possess
+
+strengthened and increased destroyer units and minesweeper units,
+as well as strengthened patrol helicopter units to enable effective
+
+and sustained execution of various operations such as anti
+20
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+submarine warfare, anti-surface warfare, and anti-mine warfare. In
+addition, MSDF will procure Aegis System Equipped Vessels that
+will primarily conduct BMD operations
+
+(b) To conduct information gathering and surveillance in the waters
+
+around Japan continuously in peace time, and to gain and maintain
+underwater supremacy, a critical area for cross-domain operations,
+during contingency, MSDF will possess strengthened submarine
+
+units.
+
+(c) To conduct persistent and multi-layered information gathering
+
+and surveillance in the waters around Japan in peace time, and to
+conduct various operations including reconnaissance, targeting,
+and anti-submarine warfare in a contingency, MSDF will possess
+strengthened fixed-wing patrol aircraft units.
+
+(2) Reorganization of the Major Units
+
+(a) To enhance the capability of responding to integrated information
+
+warfare, including the cognitive dimension, and to develop a
+posture to enable swift decision-making, MSDF will conduct
+necessary research and development. In addition, MSDF will
+newly establish an Information Warfare major unit to carry out
+comprehensive information warfare through consolidating units
+
+with intelligence, cyber, communications, meteorology and
+oceanography functions.
+
+(b) To establish a multilayered surveillance posture, to secure
+
+underwater and maritime superiority, and to reduce loss of human
+resources, MSDF will introduce various unmanned assets, such as
+UAVs, USVs including the use of existing manned vessels, and UUV,
+as well as newly establishing unmanned asset units.
+
+(c) MSDF will establish a system that can sustainably carry out unit
+
+operations that require a high level of speed and volume of
+activities, under the joint operation system, through reorganizing
+
+the structure of the major units and establishing new units as
+
+21
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+necessary.
+
+(d) MSDF will improve the capability of Self-Defense Fleet
+
+Headquarters, etc. responsible for the operation of the Joint Task
+Force, to improve warfare sustainability. In addition, MSDF will
+initiate a review of logistics posture and take necessary measures
+to ensure the sustainability and robustness of MSDF.
+
+(e) Destroyers and Frigates (DDG, DD, FFM), and other vessels will
+
+be equipped with stand-off missiles, such as upgraded Type-12
+surface-to-ship missile.
+
+(f) In addition to (e) above, to gain underwater supremacy, MSDF will
+
+develop a submarine (SS) equipped with Vertical Launching System
+(VLS) with the aim of acquiring stand-off missiles carrying
+submarines.
+
+(g) MSDF will decommission vessels that have been in service for a
+
+considerable amount of years and have limitations in expandability,
+etc., and increase the number of labor-saving frigate (FFM), etc., at
+an early date. In addition, in order to enable diverse operations such
+as distributed maneuver operations, MSDF will increase the number
+of air defense destroyers and improve the air defense and electronic
+
+warfare capabilities of destroyers and frigates (DDG, DD, and FFM).
+Furthermore, to enhance mine warfare capabilities, the number of
+minesweepers that control unmanned minesweeping assets will be
+increased, and the number of replenishment ships will be increased
+to strengthen logistical support capabilities on the sea. In addition,
+in order to respond to air attacks in a contingency, etc., the
+modification of destroyers ("Izumo" type) will be promoted to
+enable the operation of fighter aircraft (F-35B).
+
+(h) MSDF will procure fixed-wing patrol aircraft (P-1) with
+
+enhanced capability and patrol helicopter (SH-60K (upgraded
+version)), and improve the electronic warfare, anti-ship attack,
+
+and other capabilities of fixed-wing patrol aircraft.
+
+22
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+4 Japan Air Self-Defense Force
+
+(1) Level of Defense Capability to Possess
+
+(a) ASDF will possess a warning and control unit equipped with a
+
+grounded-based warning and control radar to conduct persistent
+warning and surveillance of the airspace around Japan including
+the vast airspace over the Pacific Ocean, as well as to detect and
+track new airborne threats such as HGVs in addition to ballistic
+
+missiles flying toward Japan. In addition, ASDF will possess
+airborne warning and control units consisting of reinforced
+airborne warning units to effectively monitor and control the
+airspace around Japan for a longer period of time in times of
+heightened tensions such as the so-called gray-zone situations.
+
+(b) The ASDF will possess a greatly enhanced fighter aircraft unit
+
+in terms of both quality and quantity, where fighter aircraft and
+their supporting functions can work in unison to provide a
+comprehensive posture for Japan's air defense and other operations.
+In addition, to ensure fighter units can continue to fight
+tenaciously in various air operations of increasing intensity in the
+airspace around Japan, etc., ASDF will possess an enhanced aerial
+refueling/transportation unit and air rescue unit.
+
+(c). ASDF will possess an enhanced air transport unit to effectively
+
+conduct mobile deployment of troops, etc. and international peace
+cooperation activities, etc.
+
+(d) In addition to coordinating with the GSDF's surface-to-air
+
+missile units in conducting air defense in critical areas, ASDF will
+possess an enhanced fire unit to respond to increasingly diverse
+and complex airborne threats, with the capability to respond in the
+terminal phase, providing multi-layered protection to Japan from
+ballistic missile attacks.
+
+(e) ASDF will possess a specialized space domain unit with
+
+enhanced SDA capabilities to ensure the stable use of space.
+
+23
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(f) ASDF will possess an unmanned aircraft unit to collect
+
+information in areas relatively remote from Japan and to conduct
+persistent surveillance in the air when the situation becomes tense.
+
+(2) Reorganization of the Major Units.
+
+(a) In order to further refine and strengthen the quality and quantity
+
+of Japan's air capability, ASDF will accelerate the pace of
+
+replacement of fighter aircraft that are not suitable for
+modernization (F-15) with fighter aircraft (F-35A and F-35B). In
+addition, ASDF will continue to upgrade capabilities for
+modernized fighter aircraft (F-15), such as improving its
+electronic warfare capability, equipping stand-off missiles, and
+increasing the number of equipped missiles. Furthermore, with
+regard to fighter aircraft (F-2), from the viewpoint of
+strengthening stand-off defense capability, upgrade program will
+be promoted for a total of two squadrons for them to carry
+upgraded Type 12 surface-to-ship missile, etc. In addition, ASDF
+will conduct necessary studies by FY2027, and take necessary
+measures in order to further advance the quantitative
+
+enhancement of air capability. In this regard, studies on the
+possibility of utilizing unmanned aerial vehicles will be
+conducted.
+
+(b) Joint development of the next-generation fighter aircraft with
+
+the UK and Italy will be promoted, while ensuring freedom of
+modification and interoperability with the allied country, so that
+by the end of FY 2035, when fighter aircraft (F-2) are expected
+to start retiring, fighter aircraft capable of securing and
+maintaining air superiority in the future can be delivered. In
+addition to the fighter aircraft itself, development of systems
+including unmanned aerial vehicles, etc., will be undertaken with
+the possibility of international collaboration in sight.
+
+(c) Furthermore, for the sake of efficient training of pilots of
+
+cutting-edge fighter aircraft such as the F-35 and next-generation
+
+24
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+fighter aircraft, ASDF will take necessary measures after
+studying the ideal education system, including the integration of
+ground training and flight training by training aircraft as one
+education system.
+
+(d) In order to continue the battle tenaciously, a system for rapid
+
+development of deployment infrastructure, etc. will be
+
+established so that mobile and dispersed operations can be
+
+carried out at various locations. In addition, necessary studies
+will be conducted on operational concepts of air capability so
+that air capability can be flexibly concentrated and directed to
+the front of the aggression of Japan.
+
+(e) In order to respond to high-intensity air operations and from
+
+the viewpoint of persistent combat, the aerial refueling and
+transport aircraft (KC-46A, etc.) will be increased in order to
+strengthen the aerial refueling function and rescue aircraft (UH60J) will be replaced. In addition, in order to strengthen the air
+defense posture in the airspace around Japan, including the vast
+airspace over the Pacific, ASDF will promote the deployment of
+mobile warning and control radars, etc., on the islands on the
+Pacific side, as well as increase airborne early warning aircraft
+(E-2D). In order to implement rapid maneuvering deployment of
+
+ground units, etc., ASDF will procure transport aircraft (C-2).
+
+(f) In order to improve the operational capability of stand-off
+
+missiles, ASDF will introduce unmanned aerial vehicles that can
+persistently collect target information inside the opponent's
+threat envelope, and new operational intelligence units will be
+established to strengthen the intelligence function necessary for
+the execution of the unit's mission.
+
+(g) ASDF will continue to upgrade the capabilities of surface-to
+air missile PATRIOT system and others in order to respond to
+increasingly diverse and complex airborne threats.
+
+25
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(h) In order to strengthen the space operation capability,
+
+development of SDA posture will be promoted steadily, and a
+new specialized space domain missions unit commanded by a
+general will be established, and the "Air Self-Defense Force" will
+be renamed to "Air and Space Self-Defense Force".
+
+5 Optimizing Organizational Capacity
+
+The number of SDF personnel in the GSDF, MSDF, and ASDF will be
+
+reviewed as necessary to optimize organizational capacity, targeting the
+level at the end of FY2022. In addition, the capacity necessary to
+strengthen the joint operation system will be transferred from each SDF,
+and GSDF personnel will be transferred to MSDF and ASDF, to meet the
+increased personnel requirements of MSDF and ASDF. To this end,
+approximately 2,000 GSDF personnel will be transferred to joint unit,
+MSDF and ASDF, respectively.
+
+During the period of this plan, necessary measures will be taken to
+
+secure the necessary number of personnel without increasing the total
+number of SDF personnel.
+
+**IV Strengthening the Japan-U.S. Alliance**
+
+1 Strengthening Japan-U.S. Defense Cooperation
+
+In order to further reinforce deterrence capabilities of Japan and the
+United States in an integrated manner, Japan will establish a posture to work
+
+together with the United States on a regular basis and promote cooperation
+with the United States in cross-domain operations including space, cyber
+and electromagnetic domain and measures to improve interoperability,
+cooperation in the use of Japan’s counterstrike capabilities, air-defense,
+anti-surface warfare and anti-submarine warfare, mine warfare, amphibious
+operations, airborne operations, ISRT, protection of assets and facilities,
+and logistic support. In addition, Japan will improve its responsive
+capabilities, including the readiness and interoperability of the Alliance,
+through more advanced and practical exercises and training.
+
+In order to deter unilateral changes to the status quo by force and such
+
+attempts and occurrence of various situations, Japan will further expand and
+deepen joint Flexible Deterrent Options (FDO) and intelligence,
+
+surveillance and reconnaissance (ISR), and will on a regular basis increase
+
+26
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+joint/shared use of Japanese and U.S. facilities, and promote mutual
+deployment of both units to their respective facilities for training or other
+purposes. In addition, Japan will further develop coordination functions
+between Japan and the United States, and will realize closer operational
+coordination with like-minded countries and others with the Japan-U.S.
+Alliance as its core.
+
+In order to reinforce the infrastructure to support effective joint responses
+
+in all phases, Japan will reinforce measures related to information security
+
+and cybersecurity for facilitating information sharing between Japan and
+the United States, and will further enhance defense equipment and
+technology cooperation through joint analysis and joint research in cuttingedge technology, joint development and production of defense equipment,
+improvement in mutual interchangeability, sharing and reinforcing of
+various networks, expansion of production and maintenance capability of
+U.S. military equipment in Japan, and reinforcement of supply-chain.
+
+2 Steady Implementation of Measures to Support the Stationing of U.S.
+
+Forces in Japan
+
+From the perspective of not only supporting the stable presence of U.S.
+
+Forces in Japan but also strengthening deterrence and response capabilities
+of the Japan-U.S. Alliance, Japan will steadily secure funding for expenses
+related to the stationing of U.S. Forces in Japan, including Host Nation
+Support.
+
+**V. Collaboration with Like-minded Countries and Others**
+
+While guided by the vision of Free and Open Indo-Pacific (FOIP), Japan
+
+will further promote bilateral and multilateral defense cooperation and
+exchanges based on the recognition that creating a security environment
+that is desirable for Japan is an extremely important and essential
+initiative that contributes to Japan’s defense itself and also relates to its
+basic foundations. In particular, considering the policy on collaboration
+with like-minded countries and others indicated in the National Defense
+Strategy, in addition to high-level exchanges, policy dialogues, service-toservice exchanges and personnel exchanges such as liaison officers, Japan
+will appropriately combine, depending on characteristics of each SDF
+
+services, and strategically implement specific initiatives taking
+
+27
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+characteristics of the region as well as situation of each country into account,
+such as strategic port calls and air visits, bilateral/multilateral training and
+exercises, defense equipment and technology cooperation, capacity building,
+and International Peace Cooperation Activities, in order to improve
+interoperability among SDF and armed forces of like-minded countries and
+to strengthen Japan's presence.
+
+Based on such significance of defense cooperation and exchanges, in
+
+order to further collaborate mutually and conduct specific and
+
+thoroughgoing initiatives, Japan will proceed with the improvement of
+operation procedures, development of organizational systems, review of
+institutions including treatment, and establishment of infrastructure such as
+hotlines between countries including secure communications, and will
+further reflect needs concerning defense cooperation and exchanges in SDF
+operations. Japan will also strive to collaborate with relevant ministries and
+agencies as well as with other countries, nongovernmental organizations
+and the private sector, and strategically disseminate information on Japan’s
+initiatives. In doing so, Japan will particularly emphasize the following.
+
+1 Bilateral/Multilateral Training and Exercises
+
+Taking their significance as defense cooperation and exchanges into
+
+account, Japan will promote bilateral/multilateral training and exercises
+including logistics cooperation. Through this, Japan will demonstrate the
+intention and capability to create a desirable security environment and
+
+will also seek to improve interoperability with like-minded countries and
+strengthen cooperative relationships with them.
+
+2 Equipment and Technology Cooperation
+
+Considering that cooperation in defense equipment is an initiative that
+
+spans more than half a century from conception to retirement, Japan will
+strengthen initiatives for equipment and technology cooperation
+including overseas transfers of defense equipment and international joint
+development and strive to enhance our partners’ military capabilities and
+strengthen mid- and long-term relationships with those countries. In
+particular, these initiatives should be combined with other efforts such
+as defense cooperation and exchange, training and exercises, and
+
+capacity-building to be promoted effectively. In this regard, Japan will
+
+28
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+consider the transfer of equipment that has reached a considerable
+number of years in service and has limited expandability to like-minded
+countries through early decommissioning or early removal from service.
+
+3 Capacity Building
+
+Japan will further strengthen its efforts of capacity-building to armed
+
+forces and others of countries in the Indo-Pacific region, aiming to create
+a desirable security environment for Japan, while promoting the
+
+strengthening of relations with the countries to be assisted. In this regard,
+Japan will coordinate thoroughly with diplomatic policy, and work
+together with its ally and like-minded countries such as the United States
+and Australia, so as to maximize results. In addition to those for
+Southeast Asian countries, capacity-building for Pacific Island countries
+will be expanded
+
+**Ⅵ Elements Supporting Defense Capabilities**
+
+1 Training and Exercises
+
+To effectively respond to various contingencies and enhance the
+
+deterrence effectiveness, MOD/SDF will conduct bilateral and
+
+multilateral training and exercises with Australia, India, and European
+and Southeast Asian countries in addition to SDF’s joint training and
+exercises and Japan-U.S. bilateral training and exercises, in a planned
+and visible way to demonstrate Japan’s intention and capability that
+
+unilateral changes to the status quo by force and such attempts will not
+be tolerated. In doing so, MOD/SDF will seek to enhance and strengthen
+training and exercises as FDO which are flexibly implemented
+according to the situation, as well as enhance the content of training
+and conduct new training utilizing favorable training environments
+overseas, based on the development of Reciprocal Access Agreement
+(RAA) and other measures.
+
+In addition, to maximize the capabilities of SDF units in a
+
+contingency, MOD/SDF will expand the establishment and utilization
+of training areas and other facilities in Hokkaido and other areas in
+Japan, and steadily establish and enhance the necessary training
+infrastructure in Japan. In addition to expanding the joint/shared use of
+
+U.S. military facilities and areas by SDF and the use of civilian airport
+
+29
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+and seaport facilities, MOD/SDF will enhance training for rapid
+deployment of its units to islands such as those in the southwestern
+region, joint training, and civil protection training, etc., with relevant
+organizations such as the police, Japan Coast Guard, firefighting
+services and local governments to appropriately respond to
+
+infringements that do not amount to armed attacks from outside as well
+as armed attacks in the vicinity of remote islands.
+
+In order to expand such training, it is necessary to obtain the
+
+understanding and cooperation of related local governments and local
+residents. Therefore, while taking all possible measures to ensure the
+safety of training, MOD/SDF will give due consideration to the
+surrounding environments of training infrastructures, including training
+ranges in Hokkaido and other areas in Japan.
+
+2 Reinforcing Coordination and Cooperation with the Japan Coast Guard
+
+In order to appropriately respond to any types of contingencies,
+
+coordination and cooperation with Japan Coast Guard will be further
+strengthened. To this end, MOD/SDF will deepen the information
+sharing and coordination mechanism with Japan Coast Guard, as well as
+enhance various response procedures and training, including developing
+procedures to have the Minister of Defense control the Japan Coast
+Guard in an armed attack situation and conducting joint training.
+
+3 Collaboration with Local Communities
+
+To enable SDF and U.S. Forces in Japan to seamlessly and effectively
+
+conduct activities on a daily basis, Japan will strive to gain
+understanding and cooperation from local governments and residents
+around their facilities.
+
+Japan will actively engage in public relations activities regarding the
+
+policies and activities of MOD/SDF and also the role of U.S. Forces in
+Japan on a regular basis, and coordinate to accommodate the requests
+and situations of the local communities, while fulfilling accountability.
+At the same time, Japan will continue to promote measures to improve
+the living environment of areas around defense facilities including those
+against noise the perspective of promoting cooperation to the defense
+
+of Japan.
+
+30
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+In addition, in light of the fact that in some regions, the very
+
+existence of SDF units contribute greatly to the maintenance and
+revitalization of local communities, and the transportation of emergency
+patients by SDF support the local medical service, MOD/SDF will give
+due consideration to the characteristics of the regions and the
+contribution to the local economy in order to gain understanding of the
+local governments and residents upon reorganization of units as well as
+placement and operation of SDF camps and bases. In addition, based on
+
+the national government's policy on contracts concerning small and
+medium-sized enterprises (SMEs), MOD/SDF will promote various
+measures that contribute to local economies, such as securing
+opportunities for local SMEs to receive orders, while also taking
+efficiency into consideration.
+
+4 Reinforcing Policy-Making Functions
+
+In order for SDF to fully exert its capabilities and response to the
+
+increasingly severe, complex, and rapid-paced strategic environment,
+strategic and agile defense policy planning and making are required
+including such domains as space, cyber and electromagnetic spectrum
+and MOD/SDF will fundamentally reinforce its functions. In this regard,
+MOD/SDF will establish a consultation framework to obtain policy
+advice from experts. Also, MOD/SDF will strengthen its posture to
+comprehensively advance future way of “warfare” for SDF and how to
+
+utilize and nurture cutting-edge technologies as well as apply those
+technology to defense necessary for this from a strategic perspective,
+while closely cooperating with relevant ministries and agencies, private
+research institutions, and private companies particularly defense
+industry as their core. Furthermore, in order to promote such efforts and
+support the formulation of policies, MOD/SDF will review and reinforce
+its research system led by National Institute for Defense Studies and
+reinforce its functions as an intellectual base.
+
+In addition, MOD/SDF will contribute promoting security education
+
+by dispatching lecturers to educational institutions and enhancing
+public symposiums, etc., so that citizens can accurately recognize
+knowledge and information on security policy. MOD/SDF will also
+
+promote various measures to further utilize social networks, which are
+
+31
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+becoming increasingly diverse, and to enhance our ability to
+disseminate information, including in foreign languages. In addition, in
+order to further strengthen the research and education functions of
+MOD/SDF, centering on National Institute for Defense Studies,
+MOD/SDF will expand networks and organizational collaboration with
+domestic and foreign research and education institutions, universities,
+think tanks, and other organizations.
+
+**Ⅶ Protection of Life, Person and Property of Japanese Nationals and**
+**Measures for International Security Cooperation**
+
+1 Response to Large-Scale Disasters
+
+In the event of various types of disasters including natural disasters
+
+such as the Nankai Trough Earthquake, nuclear disasters, and other
+special disasters, MOD/SDF will take all possible measures to ensure
+initial response promptly by transferring and deploying units of
+sufficient scale, while maintaining joint operations as the basis of its
+operations.
+
+At the same time, measures will be taken to strengthen the response
+
+posture, such as the procurement of UAVs(near-field), helicopter
+satellite communication systems (helicopter SATs), lifesaving systems,
+and emergency power supplies.
+
+In addition, in close coordination and cooperation with related
+
+ministries and agencies, local governments, and the private sectors,
+
+MOD/SDF will promote various measures such as conducting various
+training and exercises, formulating plans, and securing alternative
+functions and deployment infrastructure in the event of a disaster.
+
+Furthermore, including in areas where many nuclear power plants are
+
+located, MOD/SDF will conduct training in cooperation with related
+organizations, verify coordination procedures, and take necessary
+measures after examining such issues as securing deployment
+infrastructure in the vicinity of nuclear power plants.
+
+2 Measures for Maritime Security and Use of the Airspace based on Existing
+
+International Rules
+
+Recognizing that open and stable seas and the use of the airspace
+
+based on existing international rules are the foundation of peace and
+
+32
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+prosperity of Japan as a maritime nation, and based on the vision of a
+FOIP, MOD/SDF will promote efforts such as port calls by naval vessels
+and aircraft on various occasions with other countries that share
+awareness of maritime security and the use of airspace based on existing
+rules such as through joint training and exercises, equipment and
+technologies cooperation, capacity building and information sharing. In
+this way, MOD/SDF will actively and visibly demonstrate our
+willingness and capability for the stability of the maritime order and
+
+the use of the airspace based on existing international rules.
+
+3 International Peace Cooperation Activities
+
+In line with the Legislation for Peace and Security, Japan will
+
+continue to promote international peace cooperation activities, while
+giving comprehensive consideration to such factors as purposes of
+mission, situation in host country, and political and economic relations
+between Japan and host countries. In particular, by making good use of
+accumulated experiences, Japan will actively promote activities such as
+dispatch of embedded personnel to mission headquarters, capacity
+building related to UN PKO such as the UN Triangular Partnership
+Program (TPP), and the dispatch of staff members to UN headquarters,
+etc., in order to contribute to the improvement of the security
+environment. In addition, in order to strengthen the systems concerning
+international activities including rescue or transportation of Japanese
+
+nationals overseas in the unstable international situation, the Central
+Readiness Regiment and the International Operations Training Unit will
+be integrated to form a new international operations force with high
+readiness and high technical capabilities in the field of facilities and
+unmanned aircraft operation, etc.
+
+MOD/SDF will expand curriculum of the Japan Peacekeeping
+
+Training and Research Center, and given the importance of cooperation
+with relevant ministries and agencies, foreign countries, and nongovernmental organizations, MOD/SDF will strengthen the cooperation
+with them through efforts such as providing educational opportunities
+to not only SDF personnel but also other personnel from various
+backgrounds.
+
+Regarding the SDF's operation facility in Djibouti for counter-piracy
+
+33
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+operations, MOD/SDF will promote renewal/upgrade to ensure its longterm and stable utilization for regional security cooperation, including
+the protection and transportation of Japanese nationals abroad in the
+Middle East and Africa.
+
+**Ⅷ New Measures for Early Deployment of Defense Equipment**
+
+MOD/SDF will steadily realize acceleration of defense equipment
+
+deployment which is particularly urgent and significant from a policy
+
+perspective of the areas that could directly affect the SDF’s current and
+future operations. Those areas include stand-off defense capabilities,
+maritime assets, soft kills, unmanned defense capabilities, AI, nextgeneration information and communications, space domain, DX, highpower energy and integrated information warfare. For acceleration of
+defense equipment deployment, MOD/SDF will receive proposals from the
+defense-related companies or incorporate advanced civilian technologies
+through start-up companies, domestic research institutes and other
+organizations.
+
+To this end, MOD/SDF will establish a new framework to deploy
+
+defense equipment within the next five years and to operate it with intensive
+iterations of operational verification, evaluation, and improvement, in
+addition to flexibly reviewing administrative procedures, contracting
+methods and other rules of MOD/SDF that might be obstacles to this
+acceleration of deployment efforts, and to realize its full-scale operation
+
+within approximately the next 10 years.
+
+**Ⅸ Defense Production and Technological Base as Virtually Integral Part**
+
+**of a Defense Capability**
+
+1 Reinforcing Defense Production Base
+
+While Japan's defense industry is responsible for each stage of the
+
+equipment life cycle, the equipment and defense industry are
+inseparable. In this context, the defense production and technological
+bases are virtually integral part of a defense capability.
+
+While the defense business requires a large investment of
+
+management resources to meet advanced performance requirements and
+maintenance measures, companies are facing diverse issues;
+
+34
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+profitability is lower than the level defined by the procurement system,
+the industry is currently considered as unattractive because sales
+channels are limited to SDF, and growth is not expected, and various
+risks, such as supply chain risks and cyberattacks, are apparent.
+
+In order to address these issues, MOD/SDF will make defense
+
+industry more attractive, by adopting method to evaluate each
+company's quality management, cost management and delivery
+management for defense business to calculate company’s costs and
+
+profits accurately. In addition, MOD/SDF will adopt a method of
+acquiring equipment that further emphasizes the viewpoint of
+maintaining and strengthening the domestic infrastructure while
+developing company’s predictability for projects, such as the plan-andproposal method. As for equipment to be procured under the Foreign
+Military Sales (FMS) procurement, efforts will be made to promote the
+participation of domestic companies, as well as to streamline and
+improve efficiency.
+
+In order to cope with various risks and maintain and strengthen the
+
+defense production bases, appropriate fiscal measures and financial
+support will be provided for companies’ initiatives such as upgrading
+manufacturing and other facilities, strengthening cybersecurity, making
+supply chains more resilient, and business succession.
+
+MOD/SDF will conduct supply chain surveys to identify supply chain
+
+risks and promote new entrants to the supply chain to strengthen the
+
+supply chain and incorporate advanced commercial/basic technologies.
+Furthermore, MOD/SDF will cooperate with defense authorities of
+allies and like-minded countries, etc., to mutually complement supply
+chains. In this way, the supply chain will be strengthened to contribute
+to stable procurement.
+
+Since the protection of information from intelligence activities and
+
+cyberattacks by foreign countries, or other cause, is a prerequisite for
+defense production and international equipment and technology
+cooperation, MOD/SDF will reinforce industrial security system while
+taking measures for steady implementation of Standards on
+
+Cybersecurity Measures for Defense Industry as well as for formulation
+and application of Defense Industrial Security Manual. In addition,
+
+MOD/SDF will implement sensitive technology security in conjunction
+
+35
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+with economic security measures such as the patent application nondisclosure system.
+
+2 Reinforcing Defense Technology Base
+
+MOD/SDF will realize acceleration of defense equipment
+
+development through various efforts concerning R&D by identifying
+specific projects necessary for future warfare and organizing the entire
+picture up to the acquisition. Based on the integrated equipment system,
+
+which is systematically organized for future battles from the viewpoint
+of joint operations, MOD/SDF will intensively invest in
+
+equipment/technology fields (1)-(6) that are directly linked to future
+battles. Furthermore, by improving the efficiency of the R&D process,
+including improving the capabilities of conventional equipment, and by
+introducing new methods, MOD/SDF will realize shortening the time
+required for R&D and lead to the acceleration of defense equipment
+deployment.
+
+At the same time, MOD/SDF will establish a mechanism to promptly
+
+abolish projects for research and development with low prospects for
+results.
+
+In order to secure technological superiority in the future, and realize
+
+advanced capabilities ahead of other countries, MOD/SDF will pursue
+and implement technological cooperation, including international joint
+research and development and research and development that
+
+incorporates a wide range of advanced commercial/basic technologies,
+and at the same time will invest heavily in technologies that can be
+directly linked to defense applications, aiming to acquire technologies
+at an early stage. In doing so, MOD/SDF will promote collaboration
+with projects in related ministries and agencies and actively utilize the
+results of those projects.
+
+Based on the above, the policy division, the operational division, and
+
+the technological division will work in unison to promote measures
+related to the study of future battle strategies and the utilization of
+advanced technologies.
+
+From the perspective of gathering Japan's scientific and technological
+
+capabilities, MOD/SDF will strategically release the information on
+
+technological fields and research and development prospects that it
+
+36
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+enhances predictability for companies and others. In addition, in order
+to fundamentally reinforce the functions to produce defense innovation
+and groundbreaking equipment, etc., a new research institute will be
+established in Acquisition, Technology and Logistics Agency (ATLA)
+after FY2024 through scrap-and-build, the R&D -related organizations
+of the agency, and the strengthening of the R&D system will be
+implemented. In addition, from the viewpoint of effective
+
+implementation of initiatives related to advanced technologies,
+
+MOD/SDF will strongly promote technological cooperation not only
+with domestic research institutes but also with allies and like-minded
+countries such as the United States, Australia, and the U.K.
+
+Promote the development of equipment that anticipates equipment
+
+transfer from the development stage and review of SDF's original
+specifications. In developing equipment, MOD/SDF will consider cost
+reductions in the mass production and maintenance phases. In addition,
+regarding conventional technologies such as ammunition and vehicles,
+measures would be taken to maintain the production and technological
+infrastructure.
+
+(1) Stand-Off Defense Capabilities
+
+Japan will acquire capabilities to deal with vessels and landing
+
+forces invading Japan, including its remote islands, from locations
+outside of threat zones.
+
+a. Continue development of upgraded Type-12 surface-to-ship
+
+missile (surface-, ship-, and air-to-ship missiles), aiming to
+complete development of the surface- type by the end of FY2025,
+the ship- type by the end of FY2026, and the air-type by the end
+of FY2028 for the air-type.
+
+b. Buildup submarine-type stand-off defense capabilities that can
+
+be launched from submarines that can operate in a highly covert
+manner.
+
+c. Continue research on Hyper Velocity Gliding Projectile
+
+(HVGP) for island defense that fly at high altitude and high
+speed to hit ground targets, aiming to complete the project for
+the early deployment by the end of FY2025. In addition,
+upgraded HVGP for island defense will be developed to defeat
+
+the opposing forces invading the islands, from more distant areas
+
+37
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+in the mainland, etc.
+
+d. Promote research on hypersonic weapons, which are difficult
+
+to be intercepted by traveling at hypersonic speeds, aiming to
+complete the project by FY2031, and consider the development
+of derivative types.
+
+e. Research on new anti-ship guided missile for island defense
+
+that has a longer-range, low radar cross section (RCS), and
+higher mobility, while having multiple functions through
+
+modularization.
+
+(2) Capabilities to Respond to HGVs, etc.
+
+MOD/SDF will acquire technologies to deal with Hypersonic
+
+Glide Vehicle (HGV) threats and others that are difficult to detect
+or intercept with existing equipment.
+
+a. Develop upgraded Type-03 Medium-Range SAM (modified)
+
+with capability of responding to HGV and ballistic missiles in
+addition to cruise missiles, etc.
+
+b. Conduct research and studies on guided missile systems for
+
+responding to HGV threats that travel at hypersonic speeds at
+high altitudes with high maneuverability.
+
+(3) Capabilities to Respond to Drones and Swarm Attacks
+
+MOD/SDF will aim to acquire and promptly equip technologies to
+
+economically and effectively respond to the rapidly growing
+airborne threat of drone swarms.
+
+a. Continue research on various types of high-energy lasers to
+
+intercept drones and other airborne threats.
+
+b. Continue research on technologies to intercept drones and other
+
+objects by radiating them with high-power microwaves (HPM).
+
+(4) Unmanned Assets
+
+In order to promote unmanned and labor-saving defense
+
+equipment, MOD/SDF will acquire technologies related to UUVs
+while reviewing existing equipment systems and personnel
+assignments.
+
+a. Conduct research on technologies such as UUV-UUV control to
+
+38
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+enhance operational capabilities in the underwater domain.
+
+b. Conduct research on operational support technology to control
+
+multiple unmanned combat vehicles (UGVs) from a manned
+vehicle, autonomous driving technology, etc.
+
+c. Conduct research on technologies related to USVs in order to
+
+further reduce personnel and achieve unmanned waterborne
+vessels.
+
+(5) Measures for Next-Generation Fighter Aircraft
+
+a. Steadily promote joint development of the next-generation
+
+fighter aircraft with the UK and Italy, aiming to complete
+development by the end of FY2035. Research and development
+will also be promoted for a combat support unmanned aircraft to
+be collaborating with manned aircraft such as the nextgeneration fighter aircraft.
+
+b. In conducting research and development of these technologies,
+
+Japan-led development will be realized by ensuring freedom of
+modification for timely and appropriate upgrade in the future
+and domestic production and technological bases for high
+readiness, etc. on the premise that the aircraft maintains the
+capability to effectively counter numerically superior opponents.
+
+(6) Reinforcing Other Deterrence and Response Capabilities
+
+a. Continue research on future railguns to improve the capability
+
+of intercepting various airborne threats.
+
+b. Conduct research on technology of jamming device that
+
+misleads radar and other radio wave equipment into believing
+that multiple threats exist by giving false information.
+
+c. Conduct research to reflect the technology to support
+
+commanders’ decision-making into equipment by analyzing the
+course of action using AI to cope with the complex and fast
+changing combat situations.
+
+d. Research and develop the next generation signal intelligence
+
+aircraft, which will be the successor to the multipurpose aircraft
+(EP-3), with improved target information collection capability,
+
+etc.
+
+39
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+e Develop new small mines that are compact and can be controlled
+
+remotely in order to lay mines quickly from naval vessels on
+alert watch, etc.
+
+f. Begin research and development of hypersonic surface-to-air
+
+guided missiles utilizing the results of elemental research on
+hypersonic guided missiles.
+
+3 Promotion of Defense Equipment Transfer
+
+Transfer of defense equipment and technology overseas is not only a
+
+strategic tool of foreign and defense policy to build effective
+partnerships with allied and like-minded countries and to deter
+unilateral changes to the status quo by force or invasion of Japan, but
+also effective in ensuring the growth of the defense industry through
+the expansion of defense equipment market. From this perspective, the
+government will take the lead in promoting appropriate overseas
+transfer of defense equipment and technology by further cooperation
+between the public and private sectors. The government will also
+establish a fund and provide corporate assistance as necessary.
+
+4 Promotion of Various Measures and Institutional Development
+
+In order to implement the above policies, necessary budgetary
+
+measures, etc., as well as necessary legislation and financing of projects
+with a high policy nature through the use of government financial
+
+institutions, etc., will be provided, and the status of their execution will
+be constantly verified and the system will be revised as necessary.
+
+**Ⅹ Strengthening the Foundation for SDF Personnel to Fulfill Abilities as**
+**Core of Defense Capabilities**
+
+1 Reinforcing Human Resource Base
+
+In order to fundamentally reinforce defense capabilities, MOD/SDF
+
+will reinforce the human resource base by securing necessary uniformed
+SDF personnel and civilian officials and others, and by conducting
+study of necessary systems, while paying attention to the facts that
+individual SDF personnel are required to have more knowledge, skills,
+and experience than ever before and that MOD/SDF needs to develop
+
+SDF personnel who have a background to reliably deal with cross
+40
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+domain operations, information warfare, and others. In this regard SDF
+personnel who work on research and development will be secured and
+their knowledge and skills will be developed. In addition, MOD/SDF
+will reinforce its education, especially focusing on domains such as
+cyber, and utilize civilian workforce in these domains. To this end, an
+environment will be created in which all SDF personnel can demonstrate
+their abilities even as they face life events such as childcare, childbirth,
+and nursing care, and MOD/SDF will take comprehensive measures
+
+focusing on the entire life cycle starting from recruitment, including
+reskilling of SDF personnel.
+
+(1) Enhancing Recruitment Efforts
+
+In order to stably secure excellent human resources in the severe
+
+recruiting environment with a declining number of people eligible
+for recruitment due to a declining birthrate, MOD/SDF will promote
+various recruiting measures such as digitalization of recruitment PR,
+and strengthen the functions of the Provincial Cooperation Offices
+and the cooperation with local governments and related
+
+organizations.
+
+In addition, from the viewpoint of improving the attractiveness of
+
+fixed-term SDF personnel, MOD/SDF will review the system of
+Candidates for SDF personnel and improve support for the reemployment and learning at universities, etc., after the completion
+
+of their term of service. Furthermore, in light of the declining
+birthrate and higher education level, measures to expand the
+recruitment of untenured officers and to broaden the recruitment
+base to include college graduates, etc., should be promoted. At the
+same time, MOD/SDF will secure high-quality human resources at
+an early stage through the expansion of the SDF scholarship student
+system.
+
+Furthermore, in order to incorporate human resources with
+
+specialized knowledge and skills who are expected to be active in
+fields such as cyber and space domains, a new SDF personnel system
+will be established to enable flexible recruitment and appointment,
+and necessary measures will be taken to utilize human resources
+
+from the private sector, including retired SDF personnel.
+
+41
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+(2) Utilization of SDF Reserve Personnel and Others.
+
+In order for SDF Reserve Personnel and others to effectively
+
+supplement regular SDF personnel in the changing operational
+environment and diversifying missions of SDF, MOD/SDF will not
+only improve their sufficiency rates but also fundamentally review
+and reinforce the system of SDF Reserve Personnel and others. To
+this end, after reviewing the roles of SDF Ready Reserve Personnel
+
+and SDF Reserve Personnel, MOD/SDF will expand the recruitment
+of them from civilians with no experience in the SDF and review the
+current system in light of their age limits and training periods, and
+other issues.
+
+(3) Effective Use of Human Resources
+
+MOD/SDF continues to actively recruit female SDF personnel and
+
+appoint them according to their motivation, ability, and aptitude, as
+well as develop an educational infrastructure that supports their
+activities, and systematically develop women's quarters in the
+military barracks and naval vessels with an eye to increasing the
+number of female SDF personnel.
+
+In addition, in order to further utilize human resources with
+
+abundant knowledge, skills, and experience, the retirement age for
+SDF personnel will be raised while paying attention to their military
+
+strength, and the duties in which re-enrolled SDF personnel can be
+engaged in will be greatly expanded.
+
+Curbing mid-career retirements is an urgent issue, therefore a
+
+survey on SDF personnel’s attitude towards mid-career retirement
+will be conducted in order to contribute to the consideration of
+effective measures to curb mid-career retirement. Taking into
+consideration the special nature of the missions and service
+environment, MOD/SDF will constantly review and implement
+necessary measures.
+
+(4) Improvement of Living and Working Environment, etc,
+
+Recognizing that there is no place for harassment which ruins the
+
+mutual trust among SDF personnel and shakes the very foundation
+
+42
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+of the entire organization, MOD/SDF will establish new measures
+based on the findings of the expert panel and other reviews on
+harassment prevention, and ensure that all SDF personnel are fully
+aware of them. In addition, MOD/SDF will develop an
+
+organizational environment of zero tolerance for harassment with
+continuous review of the measures taken to ensure that they are in
+line with the times.
+
+In addition, MOD/SDF will steadily develop housing necessary for
+
+introducing and reorganizing units as well as ensuring readiness.
+MOD/SDF will also systematically take measures against aging and
+earthquake of barracks and housing, including modernization and
+preventive maintenance. Furthermore, the living and working
+environment for personnel will be improved by ensuring the
+required number of living and working equipment, replacing aging
+equipment, and ensuring the required number of daily consumables.
+In doing so, Japan will place consideration on creating a comfortable
+working environment even in special environments such as naval
+vessels. Through these measures, MOD/SDF will aim to improve the
+morale of SDF personnel.
+
+In addition to promoting efforts to ensure work-life balance,
+
+including the development and dissemination of systems that
+support a good balance between family and work, MOD/SDF will
+promote measures such as the development of childcare facilities
+
+and temporary childcare for children during emergency visits for the
+office based on the needs of SDF personnel. In addition, MOD/SDF
+will expand measures to support families in cooperation with local
+governments and related organizations.
+
+(5) Human Resource Development
+
+In order to secure human resources who can contribute to more
+
+advanced cross-domain joint operations, MOD/SDF will strengthen
+the education on joint operations in the educational institutions such
+as the Joint Staff College and staff colleges of each service. Each
+SDF service, National Defense Academy, and National Institute for
+Defense Studies will strengthen their education and research
+
+contents and architecture for cyber domain and others for securing
+
+43
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+and providing skilled human resources who can become the core of
+SDF units. In addition, MOD/SDF will transform the Japan Ground
+Self-Defense Force High Technical School into a combined school
+of each service, as well as a coeducational school by accepting
+female students.
+
+In addition, in order to further promote mutual complementation
+
+between each service of the SDF, MOD/SDF will integrate their
+educational programs and promote effective and efficient education
+
+and research by utilizing state-of-the-art technologies.
+
+Furthermore, the 1st and 2nd Service Schools of the Maritime
+
+Self-Defense Force will be integrated in order to implement unified
+education and improve educational effects, and the T-7/T-4
+successor aircraft and related systems will be upgraded to optimize
+the flight education and training environment for the so-called 5th
+generation fighter pilot training.
+
+(6) Improving Treatment and Reemployment
+
+Through conducting a survey of SDF personnel's overtime work,
+
+etc., MOD/SDF will make salaries and allowances based on the
+special nature of their missions and work environment, and continue
+to give due treatment to personnel engaged in harsh missions,
+especially on naval vessels and radar sites. In addition, treatment
+will be improved given the fact that missions are increasing such as
+
+the counterstrike capability. MOD/SDF will conduct research on the
+salary systems of military personnel in other countries, and consider
+how SDF personnel should be paid in the future. MOD/SDF will
+promote measures concerning honors and privileges for those welldeserved for achievements through many years of diligent services
+for their duties as SDF personnel.
+
+In addition, given that it is the responsibility of the government
+
+to secure the livelihood of uniformed SDF personnel after retirement
+under the early retirement system or fixed-term service system,
+MOD/SDF will further improve and strengthen reemployment
+support by enhancing the career guidance and job training
+opportunities for SDF personnel scheduled for retirement, and by
+
+strengthening cooperation with local governments, relevant
+
+44
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+organizations, and private companies, etc.
+
+2 Transformation of Medical Functions
+
+In order to cope with various situations and respond to diverse
+
+missions in Japan and abroad, MOD/SDF will promote integrated
+medical operations by unifying medical functions common to all SDF
+units, build a posture that can mobilize the full strength of SDF’s
+medical force, including the National Defense Medical College, and
+
+promote fundamental reforms to improve the combat trauma care
+capabilities.
+
+In order to save the lives of personnel who are performing their duties
+
+in a contingency without regard for danger, it is necessary to establish
+a seamless medical care and evacuation posture from the front line to
+the destination hospital. For this purpose, it is necessary to strengthen
+the respective medical functions first aid at the front line, medical
+evacuation by utilizing various assets of each service to transport
+wounded personnel to the destination hospital, and the SDF hospitals.
+
+First, for the first aid at the front line, MOD/SDF will increase the
+
+number of frontline combat medics certified as assistant nurse and
+paramedic, and further strengthen the foundation for education and
+training. In addition, a new joint training course for damage control
+surgery following first aid at the frontline will be established to
+systematically train personnel. Furthermore, MOD/SDF plans to provide
+
+necessary education and training regarding surgical operations on board
+naval vessels for those who have completed the above course in order
+to strengthen onboard medical care capability.
+
+For aero medical evacuation, new training equipment will be
+
+introduced, and an education and training environment will be
+established to improve first-aid capabilities during transport of
+wounded and sick. In implementing these education and training
+programs, MOD/SDF will standardize, integrate and improve common
+knowledge and skills among each force.
+
+MOD/SDF considers enhancing the functions and survivability of the
+
+SDF Naha Hospital is an effective measure in strengthening medical
+capacity in the southwestern region. MOD/SDF will take measures for
+
+SDF Naha Hospital such as increasing the number of beds, adding
+
+45
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+medical departments, and building underground facilities. Other SDF
+hospitals that can be a destination will be strengthened similarly when
+they are reconstructed.
+
+Since most of medical functions are common to all SDF units,
+
+MOD/SDF will promote standardizing medical equipment and materials
+in consideration of interoperability between each SDF service. In
+addition, in order to enable Self-Defense Forces hospitals and other
+facilities to obtain the medical information of each SDF member in a
+
+timely manner without distinction between the SDF services, the
+medical record of each member would be digitized, and a system would
+be established to enable prompt retrieval and viewing of medical record
+for each member.
+
+Most deaths in war are due to exsanguination from bomb wounds,
+
+gunshot wounds, and other similar causes. To prevent such deaths, it is
+extremely important to secure blood products for transfusion, and
+MOD/SDF would consider establishing a system to autonomously secure
+and stockpile blood products. In addition, in order to secure medical
+oxygen, which is as important as blood products in war wound care,
+MOD/SDF will also acquire oxygen concentrators and other relative
+equipment.
+
+In addition, MOD/SDF will strengthen education and research,
+
+including combat trauma care capabilities improvement, at the National
+Defense Medical College in light of modern medical technology
+
+evolution. The National Defense Medical College Hospital, which is the
+clinical site, is to be strengthened to accommodate the acceptance of
+those wounded in war, in addition to advanced medical education for
+medical and nursing officers and skill improvement for the medical
+personnel of SDF. In order to accommodate the acceptance of those
+wounded in war, the hospital will undergo a drastic reform of its
+operation, and its functions will be strengthened by utilizing
+opportunities such as the reconstruction of the hospital. As a
+complement to these efforts, efforts will also be made to ensure that
+medical and nursing officers receive training outside the department.
+
+**Ⅺ. Optimization Efforts**
+
+1 Equipment
+
+46
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+For GSDF, in order to optimize the air structure, the air units of
+
+divisions and brigades will be abolished with some exceptions, and
+helicopter functions will be concentrated in each district unit, while the
+functions of anti-tank and combat helicopters (AH) and observation
+helicopters (OH) will be transferred to UAVs and UAVs for
+utility/attack and surveillance, etc. The functions of AHs and OHs will
+be transferred to UAVs and UAVs for reconnaissance and other purposes.
+In doing so, the minimum functions necessary will be maintained by
+
+arming existing helicopters, etc.
+
+For MSDF, the number of fixed-wing patrol aircraft (P-1) acquisitions
+
+will be partially reviewed in conjunction with the acquisition of a dwell
+UAV to enhance offshore surveillance capabilities over a wide area. The
+number of patrol helicopters (SH-60K (upgraded version)) acquired will
+be partially revised due to a review of the shipboard requirements,
+including the installation of fighter aircraft (F-35B) on destroyers
+(Izumo class). Proceed with the discontinuation of the use of multipurpose aircraft (U-36A).
+
+For ASDF, in order to optimize the aircraft types, it will move
+
+forward with the elimination of the use of rescue search aircraft (U125A) and other aircraft.
+
+Further efforts for effective and efficient acquisition of equipment
+
+include: cost reduction through planned and stable acquisition of
+equipment by expanding the application of long-term contracts,
+
+improving the predictability of companies and promoting efficient
+production, procurement in consideration of the supply-demand
+situation of equipment including that of other countries, and narrowing
+down SDF-unique specifications that cause costs to rise. In addition,
+the SDF's own unique procurement system, which takes into account the
+supply-demand situation of equipment, including that of other countries,
+and the narrowing of specifications, etc., will enhance the effectiveness
+of project management throughout the equipment life cycle.
+
+2 Personnel
+
+In addition to transferring the capacity necessary to strengthen the
+
+joint operation system from each of the SDF, GSDF personnel will be
+
+transferred to MSDF and ASDF to optimize the organizational capacity
+
+47
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+of the SDF, based on the increase of required personnel by MSDF and
+ASDF. To this end, approximately 2,000 GSDF personnel will be
+transferred to joint unit, MSDF and ASDF.
+
+In addition, the number of all SDF officers will not be increased, but
+
+rather a review of existing units and the use of outside labor force, such
+as private-sector contractors, will be promoted.
+
+**Ⅻ Quantities of Major Procurement**
+
+Targets to be achieved in five years and approximately in ten years
+
+for the defense capabilities to be fundamentally reinforced under this
+program are shown in Appendix 1.
+
+The specific scale of the major procurement of defense equipment
+
+listed in II and III above is shown in Appendix 2.
+
+In addition, the major formation quota and the specific scale of the
+
+major procurement of defense equipment, etc. in approximately 10 years
+are shown in Appendix 3.
+
+**XIII Expenditures**
+
+1 The expenditure aiming for the implementation of defense capability
+
+buildup described in this program for the next five years from FY2023
+to FY2027 amount to approximately ¥43 trillion.
+
+2 The annual defense budgets for FY2023 to FY2027 under this
+
+program amount to approximately ¥40,500 billion in total
+
+(approximately ¥8,900 billion in FY 2027), on the assumption that the
+following additional measures will be taken.
+
+(1) Based on the progress of each project, further accelerate the
+
+improvement of SDF facilities in an agile and flexible manner
+(approximately ¥1,600 billion);
+
+(2) Utilize the settlement surplus in the general account further
+
+when the surplus is larger than the expected settlement surplus in
+6 (approximately ¥900 billion).
+
+In light of the increasingly severe fiscal conditions and the
+
+significance of other budgets related to the lives of the people, in
+harmony with other measures taken by the Government, further
+
+optimization and rationalization of defense buildup will be
+
+48
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+thoroughly implemented, by means of suspending the use of
+equipment whose importance has decreased, reviewing projects of
+low cost-effectiveness, optimizing equipment procurement
+
+through cost management/reduction and long-term contracts, and
+securing other revenues. If the surplus does not increase to the
+above-mentioned level, MOD/SDF will secure financial resources
+virtually through these initiatives.
+
+In the budget formulation process of each fiscal year, MOD/SDF
+
+will take care to respond to unforeseen circumstances such as
+changes in the security environment. On top of that, MOD/SDF
+will examine the progress, effectiveness, and feasibility of each
+project, including the equipment procurement shown in Appendix
+2, and revise projects flexibly, if necessary.
+
+3 The expenses based on contracts (material expenses) to be newly
+
+concluded to implement this program amount to approximately
+¥43,500 billion (excluding the amount corresponding to payments for
+the period outside of the program that contribute to improving project
+efficiency, such as maintenance), and the future obligation for each
+fiscal year is to be managed appropriately.
+
+4 Since measures such as for equipment procurement and maintenance,
+
+facility maintenance, R&D, and system maintenance will be
+
+intensively implemented during the next five years from FY2023 to
+FY2027 under this program, MOD/SDF will make efforts to
+appropriately take these into account and proceed defense buildup in a
+stable and sustainable manner in the subsequent program based on the
+FY2027 standard.
+
+5 This program will be reviewed, if necessary, based on the medium
+
+to long-term defense and fiscal outlook, considering various factors at
+home and abroad such as the international environment at the time,
+trends in technological standards including Information and
+
+Communication Technology (ICT), and the situation of the economic
+power and fiscal bases supporting the reinforcement of defense
+
+capabilities.
+
+49
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+6 To secure financial resources for the stable sustainment of defense
+
+capabilities after FY2027 as well as for covering this program from
+FY2023 to FY2027, necessary measures will be implemented in both
+expenditure and revenue areas, such as reform of expenditures,
+utilization of settlement surplus, creation of defense capability
+reinforcement funds utilizing non-tax receipts, and tax measures.
+
+**ⅩⅣ Notes**
+
+In order to reduce the burden on Okinawa Prefecture and other local
+
+communities, specific measures regarding the review of the U.S.
+military force posture in Japan and SACO (Special Action Committee
+on Okinawa) related projects will be steadily implemented.
+
+50
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+**Appendix Table 1 Targets for Fundamentally Enhanced Defense**
+**Capabilities and Timeline for Achievement**
+
+Fields By 5 years until FY 2027*
+
+If an invasion of Japan occurs, Japan will
+respond with primary responsibility and
+buildup defense capabilities to disrupt and
+defeat the invasion while gaining support
+from its ally and others.
+
+location)
+
+           - cquire practical capability to operate
+stand-off missiles
+
+quantities
+
+Integrated Air and Missile - Reinforce capability to respond to
+
+Hypersonic Weapons capabilities
+
+           - einforce capability to respond to
+miniature Unmanned Aerial Vehicles (UAV) UAV countermeasures
+
+          - xpand the use of UAV to strengthen
+capabilities to practically operate multiple unmanned assets
+
+simultaneously, etc.
+
+Cross-Domain Operation - einforce Space Domain Awareness
+Capabilities/Civil Protection (SDA), cybersecurity capabilities, and capability
+
+electromagnetic domain capabilities, etc.
+
+           - Reinforce ground, sea, and air domain
+capabilities that become basis of cross- entities other than SDF
+domain operations
+
+UAV
+
+           - ccelerate decision-making through the
+
+Control/Intelligence-related use of Artificial Intelligence (AI), etc., while
+
+strengthening the resiliency of the network the use of AI, etc., while
+
+           - Strengthen information acquisition and enhancing the system for
+analysis in both strategic and tactic
+information, including responses in the and sharing
+cognitive dimension
+
+51
+
+|Fields|By 5 years until FY 2027*|Approx. 10 Years Later|
+|---|---|---|
+||If an invasion of Japan occurs, Japan will respond with primary responsibility and buildup defense capabilities to disrupt and defeat the invasion while gaining support from its ally and others.|Further efforts to ensure the defense concept described on the left (buildup defense capabilities to disrupt or to defeat invasion at an earlier and more distant location)|
+|Stand-Off Defense Capabilities|●Acquire practical capability to operate stand-off missiles|●Acquire capabilities to operate more advanced stand-off missiles ●Secure required sufficient quantities|
+|Integrated Air and Missile Defense Capabilities|● Reinforce capability to respond to Hypersonic Weapons ●Reinforce capability to respond to miniature Unmanned Aerial Vehicles (UAV)|●Reinforce wide-area air defense capabilities ●More efficient and effective UAV countermeasures|
+|Unmanned Defense Capabilities|●Expand the use of UAV to strengthen capabilities to practically operate|●Reinforce capability to control multiple unmanned assets simultaneously, etc.|
+|Cross-Domain Operation Capabilities/Civil Protection|●Reinforce Space Domain Awareness (SDA), cybersecurity capabilities, and electromagnetic domain capabilities, etc. ● Reinforce ground, sea, and air domain capabilities that become basis of cross- domain operations|●Further reinforce space operation capability ●Further reinforce cybersecurity capability to enable support for entities other than SDF ● Strengthen ground, maritime, and air capabilities to work with UAV|
+|Command and Control/Intelligence-related Functions|●Accelerate decision-making through the use of Artificial Intelligence (AI), etc., while strengthening the resiliency of the network ● Strengthen information acquisition and analysis in both strategic and tactic information, including responses in the cognitive dimension|●Reinforce information gathering and analysis capabilities through the use of AI, etc., while enhancing the system for persistent information gathering and sharing|
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+|Mobile Deployment Capabilities|● Reinforce the SDF's transportation and supply capabilities (deployment/civil protection), including enhancement of the SDF's transportation assets and use of PFI vessels, etc.|●Further enhancements of transportation capability ●Accelerate transportation and supply by improving supply centers, etc.|
+|---|---|---|
+|Sustainability and Resiliency|●Increase quantity of ammunitions and missiles ●Ensure maximum mobility of equipment except during maintenance ●Improve the resiliency of defense facilities for contingencies ●Secure required ammunition depots, etc.|●Maintain and ensure adequate inventory of ammunitions and guided missiles ●Maintain the mobility ratio ●Further strengthening of defense facilities ●Further securing of ammunition depots and other facilities c, etc. commensurate with ammunition requirements|
+|Defense Production and Technological Bases|●Establish strong defense production bases through measures to strengthen the supply chain, etc. ●Focused investment in equipment areas directly linked to future warfare, and a significant reduction in research and development periods ●Early deployment of defense equipment|●Realize innovative equipment ●Maintain strong defense production bases ●Maintain strong defense production bases|
+|Human Resource Base|●Secure the necessary number of high- quality human resources from a wide range of sources, including the private sector, by strengthening recruitment capabilities and establishing a new SDF personnel system. ●Reinforce education and research (cyber and other domains, joint operations, medical) ●Improvement of living and working environments and treatment by taking necessary measures against aging barracks and housing and eliminating equipment shortages|●Even amid a declining population eligible for recruitment, continuously and stably secure the necessary human resources, including those with specialized knowledge and skills. ●Further strengthen education and research ●Foster an organizational environment in which all members can demonstrate their individual abilities while maintaining high morale|
+
+
+※ Accelerate investment in improving mobility, securing ammunition, and fortifying key defense
+
+facilities to maximize the use of existing equipment, while focusing on fundamentally strengthening
+
+core areas of future defense capabilities, such as stand-off defense and unmanned asset defense
+
+52
+
+capabilities.
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+Equipment Type
+
+Upgraded Type-12 surface-to-ship missile
+(Surface-, Ship-, Air-ship) Units
+Hyper Velocity Gliding Projectile (HVGP)
+Hypersonic Guided Missile      Ship-to-surface cruise guided missile       (Tomahawk)      
+Type 03 Medium-Range Surface-to-Air
+Missile (modified)
+Aegis System-Equipped Vessels 2 ships
+Airborne Early Warning Aircraft(E-2D)
+Interceptor Missiles for Ballistic Missile       Defense (SM-3 Block IIA)
+Interceptor Missiles with Upgraded       Capabilities (PAC-3MSE)
+Long-Range Ship-to-Air Missiles SM-6      
+Various UAVs      USV     UGV     UUV     
+Destroyer 12 ships
+Submarine 5 ships
+Patrol Vessel
+Fixed-wing Patrol Aircraft (P-1)
+Fighter (F-35A)
+Fighter (F-35B)
+Fighter Upgrade (F-15)
+Stand-off Electronic Warfare Aircraft
+Network Electronic Warfare System 2 types
+(NEWS)
+
+Signals Intelligence Aircraft (RC-2)
+
+Transport Vessels 8 ships
+Transport Aircraft (C-2)
+Aerial Refueling and Transport Aircraft
+(KC-46A, etc.)
+
+53
+
+|Appendix Table 2|Col2|Col3|
+|---|---|---|
+|Classification|Equipment Type|Procurement Quantity|
+|(1) Stand-off Defense capabilities|Upgraded Type-12 surface-to-ship missile (Surface-, Ship-, Air-ship) Hyper Velocity Gliding Projectile (HVGP) Hypersonic Guided Missile Ship-to-surface cruise guided missile (Tomahawk)|Surface-type 12 Units - - -|
+|(2) Integrated Air and Missile Defense capabilities|Type 03 Medium-Range Surface-to-Air Missile (modified) Aegis System-Equipped Vessels Airborne Early Warning Aircraft(E-2D) Interceptor Missiles for Ballistic Missile Defense (SM-3 Block IIA) Interceptor Missiles with Upgraded Capabilities (PAC-3MSE) Long-Range Ship-to-Air Missiles SM-6|14 Units 2 ships 5 aircraft - - -|
+|(3) Unmanned Defense Capabilities|Various UAVs USV UGV UUV|- - - -|
+|(4) Cross-Domain Capabilities|Destroyer Submarine Patrol Vessel Fixed-wing Patrol Aircraft (P-1) Fighter (F-35A) Fighter (F-35B) Fighter Upgrade (F-15) Stand-off Electronic Warfare Aircraft Network Electronic Warfare System (NEWS)|12 ships 5 ships 10 aircraft 19 aircraft 40 aircraft 25 aircraft 54 aircraft 1 aircraft 2 types|
+|(5) Command and Control/ Intelligence-related Functions|Signals Intelligence Aircraft (RC-2)|3 aircraft|
+|(6) Mobile Deployment Capabilities and Civil Protection|Transport Vessels Transport Aircraft (C-2) Aerial Refueling and Transport Aircraft (KC-46A, etc.)|8 ships 6 aircraft 13 aircraft|
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+**Appendix Table 3 (approximately 10 years later)**
+
+Classification Future Posture
+
+Cyber Defense Units
+Joint Units
+Maritime Transport Units
+
+Active-Duty Personnel
+
+Basic Operational Units
+
+１
+
+１
+
+Airborne Units
+
+１
+
+Amphibious Units
+Air Transport Units
+
+１
+
+７
+
+Stand-off Missile Units Joint
+
+Self-Defense Major Units
+
+Units
+
+２
+
+Surface-to-Air Guided Missile
+８
+Units
+
+１
+
+Electronic Warfare Units
+(incl. anti-aircraft electronic
+
+warfare units)
+
+１
+Unmanned Vehicle Units
+
+Information Warfare Units
+
+Surface Vessels Units
+（Destroyers and Minesweeper
+vessels）
+
+Major Submarine Units
+
+Self-Defense
+
+Units Patrol aircraft Units（Fixed-wing
+
+Patrol aircraft Units）
+Unmanned Vehicle Units
+Information Warfare Units
+
+54
+
+|Classification|Future Posture|Col3|Col4|
+|---|---|---|---|
+|Joint Units|Cyber Defense Units Maritime Transport Units||1 squadron 1 group|
+|Ground Self-Defense Force|Active-Duty Personnel||149,000 people|
+||Major Units|Basic Operational Units|９ divisions ５ brigades １ armored division|
+|||Airborne Units Amphibious Units Air Transport Units|１ airborne brigade １ amphibious rapid deployment brigade １ helicopter brigade|
+|||Stand-off Missile Units Joint Units|７ surface-to-ship guided missile regiments|
+||||2 battalions (hyper velocity gliding projectile Intended for the defense of remote islands)|
+||||２long-range guided missile units|
+|||Surface-to-Air Guided Missile Units|８anti-aircraft artillery groups|
+|||Electronic Warfare Units (incl. anti-aircraft electronic warfare units)|１ electronic warfare operations unit (incl.1anti-aircraft electronic warfare unit)|
+|||Unmanned Vehicle Units|１ multi-purpose unmanned aerial vehicle unit|
+|||Information Warfare Units|１ unit|
+|Maritime Self-Defense Force|Major Units|Surface Vessels Units （Destroyers and Minesweeper vessels） Submarine Units Patrol aircraft Units（Fixed-wing Patrol aircraft Units） Unmanned Vehicle Units Information Warfare Units|6 groups (21 divisions) 6 divisions 9 divisions (4 divisions) 2 divisions 1 unit|
+
+
+-----
+
+[Provisional Translation as of January 17, 2023]
+
+Classification Future Posture
+
+Destroyers
+(Aegis-Equipped Destroyers)
+
+Major Aegis System Equipped Vessels
+Equipment Patrol Vessels
+
+Submarines
+Combat Aircraft Approx. 170
+
+Air Warning & Control Units 4 Aircraft Control & Warning
+
+Fighter Aircraft Units 1 AEW wing (3 squadrons)
+Aerial Refueling/Transport Units 13 squadrons
+
+Major Air Transport Units 2 squadrons
+Units Surface-to-Air Guided Missile 3 squadrons
+
+Self-Defense
+
+Units 4 groups (24 fire squadrons)
+Space Domain Mission Units 1 squadron
+Unmanned Aerial Vehicle Units 1 squadron
+Operational Intelligence Units 1 squadron
+
+Major Combat Aircraft Approx. 430
+Equipment Fighters Approx. 320
+
+Note 1: 14 out of the 15 divisions/brigades are operated on the basis of rapid
+
+deployment.
+
+Note2 `：` Regarding the number of fighter aircraft units and fighters, necessary
+
+studies will be conducted by FY 2027 and necessary measures will be taken
+
+in order to further advance the quantitative enhancement of air capability.
+
+In this regard, the possibility of utilizing unmanned aerial vehicles will be
+
+studied.
+
+55
+
+|Classification|Future Posture|Col3|Col4|
+|---|---|---|---|
+||Major Equipment|Destroyers (Aegis-Equipped Destroyers) Aegis System Equipped Vessels Patrol Vessels Submarines Combat Aircraft|54 (10) 2 12 22 Approx. 170|
+|Air Self-Defense Force|Major Units|Air Warning & Control Units Fighter Aircraft Units Aerial Refueling/Transport Units Air Transport Units Surface-to-Air Guided Missile Units Space Domain Mission Units Unmanned Aerial Vehicle Units Operational Intelligence Units|4 Aircraft Control & Warning Wings 1 AEW wing (3 squadrons) 13 squadrons 2 squadrons 3 squadrons 4 groups (24 fire squadrons) 1 squadron 1 squadron 1 squadron|
+||Major Equipment|Combat Aircraft Fighters|Approx. 430 Approx. 320|
+
+
+-----
+
