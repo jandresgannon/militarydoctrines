@@ -29,14 +29,15 @@ PDFs are too large for GitHub Pages. The site links to them in the shared Dropbo
 
    ```bash
    quarto render
-   quarto publish gh-pages
+   bash docs/02_publish.sh
    ```
 
    Freeze is off, so every render re-reads the data. Preview locally first: `.claude/launch.json` serves `_site/` on port 8765.
+   Do not use `quarto publish gh-pages` here: its temporary checkout sits inside Dropbox, where git refuses to delete old files, so removed pages stay online. `docs/02_publish.sh` builds the commit outside Dropbox and mirrors `_site/` exactly. If a GitHub Pages deploy hangs in "queued", request a fresh build with `gh api -X POST repos/jandresgannon/militarydoctrines/pages/builds`.
 
 ## Large files
 
-`content/data_copy/txt_files/`, `csv_files/` and the `*.zip` bulk downloads (about 500 MB) are gitignored on `main`. Step 2 regenerates them, and `quarto publish` commits them to `gh-pages`.
+`content/data_copy/txt_files/`, `csv_files/` and the `*.zip` bulk downloads (about 500 MB) are gitignored on `main`. Step 2 regenerates them, and `docs/02_publish.sh` commits them to `gh-pages`.
 
 ## DOI
 
