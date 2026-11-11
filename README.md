@@ -48,7 +48,5 @@ PDFs are too large for GitHub Pages. The site links to them in the shared Dropbo
   - a single full-text table
   - zips of the texts, the chunks, and the PDFs (in parts under Dataverse's 2.5 GB per-file limit)
   - a README with the codebook
-- `FORM_FIELDS.md`: suggested Dataverse metadata
-- `UPLOAD_NOTES.md`: upload steps, including why each zip is wrapped in another zip
 
-Run `docs/01_sync-corpus.R` first. After the dataset is published, add the DOI to `content/_citation.md`.
+Run `docs/01_sync-corpus.R` first. Upload the files as a new version of the existing dataset, https://doi.org/10.7910/DVN/OHOMP8; the DOI stays the same.

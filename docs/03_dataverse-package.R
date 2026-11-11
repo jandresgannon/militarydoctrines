@@ -4,15 +4,12 @@
 #   Rscript docs/03_dataverse-package.R 2026.11    # version = changelog / citation version
 #
 # Output goes OUTSIDE Dropbox (about 9.5 GB, which would otherwise sync):
-#   ~/militarydoctrines-dataverse/<version>/
-#     upload/          exactly the files to upload to the dataset
-#     FORM_FIELDS.md   what to type into the Dataverse metadata form
-#     UPLOAD_NOTES.md  how to upload without Dataverse unpacking the zips
+#   ~/militarydoctrines-dataverse/<version>/upload/   exactly the files to upload
 #
 # Every file in upload/ uses the metadata stem, so the PDF, text and chunked
-# text of a document always share a name. Zips in upload/ are wrapped once more
-# (a zip containing the zip), because Dataverse unpacks uploaded zips: it strips
-# the wrapper and stores the inner zip, which is what users then download.
+# text of a document always share a name. Zips are NOT double-wrapped: Harvard
+# Dataverse's uploader sends files straight to storage and stores zips as-is
+# (verified on release 2026.11, whose wrapped zips were published wrapped).
 
 args    <- commandArgs(trailingOnly = TRUE)
 version <- if (length(args)) args[1] else stop("Give the release version, e.g. 2026.11")
@@ -32,10 +29,9 @@ dir.create(stage)
 docs <- readRDS(here::here("data", "documents.rds"))
 data_copy <- here::here("content", "data_copy")
 
-# Wrap a finished zip in a second zip with the same name (see header).
-wrap_zip <- function(inner, dest) {
-  withr::with_dir(dirname(inner), utils::zip(dest, basename(inner), flags = "-q -0"))
-  unlink(inner)
+# Move a finished zip into upload/.
+wrap_zip <- function(inner, dest) {   # tempdir may be on another filesystem
+  stopifnot(file.copy(inner, dest)); unlink(inner)
 }
 
 # ---- Metadata ------------------------------------------------------------------
