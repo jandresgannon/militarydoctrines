@@ -24,7 +24,7 @@
     "href": "content/changelog.html#section",
     "title": "Changelog",
     "section": "2026.11",
-    "text": "2026.11\n\nCorpus synchronized with the project’s master document inventory; text and chunked-text files are now named exactly as in the metadata, which fixes links that previously failed for 36 documents.\nAdded New Zealand’s 2000 Government Defence Policy, Argentina’s 2018 National Defence Policy, and the English-language edition of Croatia’s 2018 Strategic Defence Review.\nRe-extracted text for Taiwan 2008, Bulgaria 2010, and Denmark 2010 to repair spacing and extraction errors.\nRemoved text files that did not correspond to a catalogued document.\nNew: one searchable table for all documents with per-document PDF, TXT, and CSV links; bulk zip downloads of all texts and all chunked texts; downloads of any search or filter result (metadata, texts, or chunked texts); a codebook; this changelog.\nThe headline document count now covers the full catalog, including documents outside the core corpus.",
+    "text": "2026.11\n\nArchived on Harvard Dataverse: https://doi.org/10.7910/DVN/OHOMP8.\nCorpus synchronized with the project’s master document inventory; text and chunked-text files are now named exactly as in the metadata, which fixes links that previously failed for 36 documents.\nAdded New Zealand’s 2000 Government Defence Policy, Argentina’s 2018 National Defence Policy, and the English-language edition of Croatia’s 2018 Strategic Defence Review.\nRe-extracted text for Taiwan 2008, Bulgaria 2010, and Denmark 2010 to repair spacing and extraction errors.\nRemoved text files that did not correspond to a catalogued document.\nNew: one searchable table for all documents with per-document PDF, TXT, and CSV links; bulk zip downloads of all texts and all chunked texts; downloads of any search or filter result (metadata, texts, or chunked texts); a codebook; this changelog.\nThe headline document count now covers the full catalog, including documents outside the core corpus.",
     "crumbs": [
       "Changelog"
     ]
@@ -134,7 +134,7 @@
     "href": "content/codebook.html#citation",
     "title": "Codebook",
     "section": "Citation",
-    "text": "Citation\nIf you use the corpus, please cite the dataset and the paper that introduces it:\n\nGannon, J Andrés. 2026. Military Doctrines: A Corpus of National Security Strategy Documents. Version 2026.11. https://militarydoctrines.com.\n\n\nGannon, J Andrés. “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.” Working paper.",
+    "text": "Citation\nIf you use the corpus, please cite the dataset and the paper that introduces it:\n\nGannon, J Andrés. 2026. Military Doctrines: A Corpus of National Security Strategy Documents. Version 2026.11. Harvard Dataverse. https://doi.org/10.7910/DVN/OHOMP8.\n\n\nGannon, J Andrés. “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.” Working paper.",
     "crumbs": [
       "Codebook"
     ]
@@ -154,7 +154,7 @@
     "href": "index.html#how-to-cite",
     "title": "Military Doctrines Dataset",
     "section": "How to cite",
-    "text": "How to cite\nIf you use the corpus, please cite the dataset and the paper that introduces it:\n\nGannon, J Andrés. 2026. Military Doctrines: A Corpus of National Security Strategy Documents. Version 2026.11. https://militarydoctrines.com.\n\n\nGannon, J Andrés. “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.” Working paper.",
+    "text": "How to cite\nIf you use the corpus, please cite the dataset and the paper that introduces it:\n\nGannon, J Andrés. 2026. Military Doctrines: A Corpus of National Security Strategy Documents. Version 2026.11. Harvard Dataverse. https://doi.org/10.7910/DVN/OHOMP8.\n\n\nGannon, J Andrés. “A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.” Working paper.",
     "crumbs": [
       "Home"
     ]
@@ -204,7 +204,7 @@
     "href": "content/data.html",
     "title": "Data",
     "section": "",
-    "text": "File\nContents\n\n\n\n\nMetadata (.csv)\nOne row per document: country, year, title, language, type, core-corpus flag. See the codebook.\n\n\nAll full texts (.zip, 54 MB)\nOne .txt file per document, plus the metadata.\n\n\nAll chunked texts (.zip, 54 MB)\nOne _chunks.csv file per document, plus the metadata.\n\n\nAll texts in one table (.csv, ~190 MB)\nPage-level text for every document in a single file.\n\n\nAll PDFs (.zip, ~10 GB) · PDF folder\nThe original documents as published.",
+    "text": "File\nContents\n\n\n\n\nMetadata (.csv)\nOne row per document: country, year, title, language, type, core-corpus flag. See the codebook.\n\n\nAll full texts (.zip, 54 MB)\nOne .txt file per document, plus the metadata.\n\n\nAll chunked texts (.zip, 54 MB)\nOne _chunks.csv file per document, plus the metadata.\n\n\nAll texts in one table (.csv, ~190 MB)\nPage-level text for every document in a single file.\n\n\nHarvard Dataverse archive\nThe versioned, citable release (2026.11): metadata, full texts, chunked texts, and PDFs, with a DOI.\n\n\nAll PDFs (.zip, ~10 GB) · PDF folder\nThe original documents as published.",
     "crumbs": [
       "Data"
     ]
@@ -214,7 +214,7 @@
     "href": "content/data.html#bulk-downloads",
     "title": "Data",
     "section": "",
-    "text": "File\nContents\n\n\n\n\nMetadata (.csv)\nOne row per document: country, year, title, language, type, core-corpus flag. See the codebook.\n\n\nAll full texts (.zip, 54 MB)\nOne .txt file per document, plus the metadata.\n\n\nAll chunked texts (.zip, 54 MB)\nOne _chunks.csv file per document, plus the metadata.\n\n\nAll texts in one table (.csv, ~190 MB)\nPage-level text for every document in a single file.\n\n\nAll PDFs (.zip, ~10 GB) · PDF folder\nThe original documents as published.",
+    "text": "File\nContents\n\n\n\n\nMetadata (.csv)\nOne row per document: country, year, title, language, type, core-corpus flag. See the codebook.\n\n\nAll full texts (.zip, 54 MB)\nOne .txt file per document, plus the metadata.\n\n\nAll chunked texts (.zip, 54 MB)\nOne _chunks.csv file per document, plus the metadata.\n\n\nAll texts in one table (.csv, ~190 MB)\nPage-level text for every document in a single file.\n\n\nHarvard Dataverse archive\nThe versioned, citable release (2026.11): metadata, full texts, chunked texts, and PDFs, with a DOI.\n\n\nAll PDFs (.zip, ~10 GB) · PDF folder\nThe original documents as published.",
     "crumbs": [
       "Data"
     ]
