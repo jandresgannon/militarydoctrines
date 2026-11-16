@@ -7,6 +7,9 @@
 # and published through the gh-pages branch; they are not tracked on main.
 /content/data_copy/txt_files/
 /content/data_copy/csv_files/
+/content/data_copy/translations/
+/content/data_copy/sentences/
+/content/data_copy/measure/
 /content/data_copy/*.zip
 
 /.quarto/
