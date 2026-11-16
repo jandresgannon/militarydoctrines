@@ -37,10 +37,11 @@ The `_noneng` suffix marks documents not written in English. The same stem names
 | `language` | `eng` for English-language documents, `noneng` otherwise. |
 | `keep` | `1` = core corpus: whole-of-government national security and defense strategy documents. `0` = catalogued but outside that scope, such as sectoral strategies (cyber, counterterrorism), corporate and investment plans, foreign-policy white papers, and duplicate editions. Both are available for download. |
 | `type` | Issue-specific strategies: `cyber` or `terrorism`; blank for general strategy documents. |
+| `measure_status` | Whether the document enters the dyad-year measure: `english` (measured from its English text), `translated` (measured from an English machine translation), or `not_measured` (outside the core corpus, a second document for the same state and year, or in a language the pipeline does not translate). |
 
 ## Full text (`.txt`)
 
-Text extracted from the PDF and saved as Markdown-flavored plain text. Documents with clean digital text were extracted with [pymupdf4llm](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/); scanned or difficult documents were processed with the OCR-based [Marker](https://github.com/datalab-to/marker) pipeline. The text keeps headings, tables, and page furniture as extracted, so it can contain OCR errors, image placeholders such as `![](...)`, and running headers. Non-English documents are provided in their original language.
+Text extracted from the PDF and saved as Markdown-flavored plain text. [pymupdf4llm](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) reads the text embedded in a PDF; the OCR-based [Marker](https://github.com/datalab-to/marker) pipeline reads documents with no usable embedded text and scanned documents whose embedded text came from the scanning software, which it OCRs afresh. For every document in the measure, this file is exactly the text the measure was computed from. The text keeps headings, tables, and page furniture as extracted, so it can contain OCR errors, image placeholders such as `![](...)`, and running headers. Non-English documents are provided in their original language; their English translations are in the next file.
 
 ## Chunked text (`_chunks.csv`)
 
@@ -54,6 +55,25 @@ Each document's text split into chunks of at most about 128 tokens within Markdo
 | `section_index` | Index of the document section the chunk belongs to. |
 | `source_file` | Text file the chunk was built from. |
 | `processed_date` | When the chunk was produced. |
+
+## English translation (`_en.txt`)
+
+For each non-English document in the measure, the English machine translation the measure reads. Translations were made sentence by sentence with open neural translation models at fixed versions (OPUS-MT for most languages, NLLB for Kyrgyz), so they can be reproduced exactly; they are machine output and have not been edited. Documents published officially in English are never translated.
+
+## Sentences (`_sentences.csv`)
+
+For each document in the measure, its English text (the original, or the translation) with Markdown removed and split into sentences by spaCy's `en_core_web_sm` model, the sentence splitter the measure uses.
+
+| Variable | Description |
+|---|---|
+| `doc_name` | File stem. |
+| `sentence_number` | Position of the sentence in the document, starting at 1. |
+| `sentence` | Sentence text, original case. |
+| `translated` | `1` if the text is a machine translation. |
+
+## Dyad-year measure (`nss_dyad_year_measure.csv`)
+
+Salience and affinity, the two measures introduced in the paper below: one row for each issuing state, year, and state its strategy names, with the source document (`doc_name`). Salience records how prominently the strategy treats the named state (how early and how often it names it); affinity records how warmly or coldly it describes it, from −1 to 1. The [codebook](data_copy/measure/CODEBOOK.md) that accompanies the file defines every column and the processing behind it.
 
 ## All texts in one table
 

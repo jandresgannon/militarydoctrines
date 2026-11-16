@@ -11,9 +11,16 @@
 #   measuring-asi/inst/extdata/txts/{marker_md,pymupdf,txt}/   full text
 #   measuring-asi/inst/extdata/txts/chunking_results_128/      chunked text
 #   measuring-asi/inst/extdata/pdfs/                           original PDFs
+#   measuring-asi/data/release_manifest.csv          written by measuring-asi/docs/37: the text
+#                                                    each document is measured on, its English
+#                                                    translation, its sentence file
+#   measuring-asi/inst/extdata/affective_salience.csv + CODEBOOK.md   the dyad-year measure
 # Outputs:
 #   content/data_copy/txt_files/<stem>.txt           one per metadata row
 #   content/data_copy/csv_files/<stem>_chunks.csv    one per metadata row
+#   content/data_copy/translations/<stem>_en.txt     English machine translation, translated documents
+#   content/data_copy/sentences/<stem>_sentences.csv sentence-segmented English text, measured documents
+#   content/data_copy/measure/                       the dyad-year measure and its codebook
 #   content/data_copy/nss_metadata.csv               public metadata download
 #   data/documents.rds                               page-ready index (links, names)
 #   data/sync_report.csv                             per-document status of this run
@@ -27,8 +34,10 @@ copy_pdfs  <- "--pdfs" %in% commandArgs(trailingOnly = TRUE)
 txts_dir <- file.path(upstream, "inst", "extdata", "txts")
 out_txt  <- here::here("content", "data_copy", "txt_files")
 out_csv  <- here::here("content", "data_copy", "csv_files")
-dir.create(out_txt, recursive = TRUE, showWarnings = FALSE)
-dir.create(out_csv, recursive = TRUE, showWarnings = FALSE)
+out_tr   <- here::here("content", "data_copy", "translations")
+out_sent <- here::here("content", "data_copy", "sentences")
+out_meas <- here::here("content", "data_copy", "measure")
+for (d in c(out_txt, out_csv, out_tr, out_sent, out_meas)) dir.create(d, recursive = TRUE, showWarnings = FALSE)
 dir.create(here::here("data"), showWarnings = FALSE)
 
 stopifnot(dir.exists(upstream), dir.exists(txts_dir))
@@ -45,6 +54,16 @@ meta <- readr::read_csv(file.path(upstream, "data", "raw", "nss_metadata.csv"),
   )
 
 stopifnot(!anyDuplicated(meta$stem), !anyNA(meta$year), all(meta$keep %in% 0:1))
+
+# Release manifest (measuring-asi/docs/37): one row per metadata row. Paths are relative to
+# measuring-asi; empty when a document has no such file.
+release <- readr::read_csv(file.path(upstream, "data", "release_manifest.csv"),
+                           col_types = readr::cols(.default = "c")) |>
+  dplyr::mutate(dplyr::across(c(text_file, translation_file, sentence_file),
+                              ~ dplyr::if_else(is.na(.x) | .x == "", NA_character_, file.path(upstream, .x))))
+stopifnot(setequal(release$stem, meta$stem))
+meta <- dplyr::left_join(meta, dplyr::select(release, stem, measure_status = status, text_file,
+                                             translation_file, sentence_file), by = "stem")
 
 # ---- File resolution --------------------------------------------------------
 # Upstream filenames drift from the Sheet's file_names in case, accents and the
@@ -95,6 +114,10 @@ resolve <- function(stems, dirs) {
 # else pymupdf4llm, else the legacy txt export.
 meta$txt_src <- resolve(meta$stem, stats::setNames(
   c(".md", ".md", ".txt"), file.path(txts_dir, c("marker_md", "pymupdf", "txt"))))
+# A document in the measure is published with the exact text the measure was computed from
+# (for scanned documents that is the fresh Marker OCR, txts/marker_reocr_md).
+measured_en <- meta$measure_status == "english" & !is.na(meta$text_file)
+meta$txt_src[measured_en] <- meta$text_file[measured_en]
 meta$csv_src <- resolve(meta$stem, stats::setNames(
   "_chunks.csv", file.path(txts_dir, "chunking_results_128")))
 meta$pdf_src <- resolve(meta$stem, stats::setNames(
@@ -130,6 +153,15 @@ meta$txt_file <- paste0(meta$stem, ".txt")
 meta$csv_file <- paste0(meta$stem, "_chunks.csv")
 meta$txt_status <- mapply(sync_file, meta$txt_src, file.path(out_txt, meta$txt_file))
 meta$csv_status <- mapply(sync_file, meta$csv_src, file.path(out_csv, meta$csv_file))
+meta$tr_file   <- paste0(meta$stem, "_en.txt")
+meta$sent_file <- paste0(meta$stem, "_sentences.csv")
+meta$tr_status   <- mapply(sync_file, meta$translation_file, file.path(out_tr, meta$tr_file))
+meta$sent_status <- mapply(sync_file, meta$sentence_file, file.path(out_sent, meta$sent_file))
+# The dyad-year measure and its codebook.
+meas_status <- c(
+  sync_file(file.path(upstream, "inst", "extdata", "affective_salience.csv"),
+            file.path(out_meas, "nss_dyad_year_measure.csv")),
+  sync_file(file.path(upstream, "inst", "extdata", "CODEBOOK.md"), file.path(out_meas, "CODEBOOK.md")))
 
 # Remove files no metadata row points to (old names, dropped documents).
 prune <- function(dir, keep_files) {
@@ -138,7 +170,9 @@ prune <- function(dir, keep_files) {
   orphans
 }
 orphans <- c(prune(out_txt, meta$txt_file[meta$txt_status != "missing"]),
-             prune(out_csv, meta$csv_file[meta$csv_status != "missing"]))
+             prune(out_csv, meta$csv_file[meta$csv_status != "missing"]),
+             prune(out_tr, meta$tr_file[meta$tr_status != "missing"]),
+             prune(out_sent, meta$sent_file[meta$sent_status != "missing"]))
 
 # ---- Display names and map codes --------------------------------------------
 
@@ -178,23 +212,27 @@ meta <- meta |>
     txt_url = dplyr::if_else(txt_status == "missing", NA_character_,
                              paste0("data_copy/txt_files/", utils::URLencode(txt_file))),
     csv_url = dplyr::if_else(csv_status == "missing", NA_character_,
-                             paste0("data_copy/csv_files/", utils::URLencode(csv_file)))
+                             paste0("data_copy/csv_files/", utils::URLencode(csv_file))),
+    tr_url = dplyr::if_else(tr_status == "missing", NA_character_,
+                            paste0("data_copy/translations/", utils::URLencode(tr_file))),
+    sent_url = dplyr::if_else(sent_status == "missing", NA_character_,
+                              paste0("data_copy/sentences/", utils::URLencode(sent_file)))
   )
 
 # ---- Write outputs -------------------------------------------------------------
 
 meta |>
-  dplyr::select(file_names, country_name, year, title, language, keep, type) |>
+  dplyr::select(file_names, country_name, year, title, language, keep, type, measure_status) |>
   readr::write_csv(here::here("content", "data_copy", "nss_metadata.csv"), na = "")
 
 meta |>
   dplyr::select(file_names, stem, country_name, country, iso3, year, title,
-                language, keep, type, pdf_url, txt_url, csv_url) |>
+                language, keep, type, measure_status, pdf_url, txt_url, csv_url, tr_url, sent_url) |>
   saveRDS(here::here("data", "documents.rds"))
 
 report <- meta |>
-  dplyr::transmute(stem, keep,
-                   pdf = !is.na(pdf_pub), txt_status, csv_status,
+  dplyr::transmute(stem, keep, measure_status,
+                   pdf = !is.na(pdf_pub), txt_status, csv_status, tr_status, sent_status,
                    txt_source = basename(dirname(txt_src)))
 readr::write_csv(report, here::here("data", "sync_report.csv"), na = "")
 
@@ -211,6 +249,10 @@ build_zip(out_txt, here::here("content", "data_copy", "nss_txt_all.zip"),
           any_change(meta$txt_status))
 build_zip(out_csv, here::here("content", "data_copy", "nss_chunks_all.zip"),
           any_change(meta$csv_status))
+build_zip(out_tr, here::here("content", "data_copy", "nss_translations_all.zip"),
+          any_change(meta$tr_status))
+build_zip(out_sent, here::here("content", "data_copy", "nss_sentences_all.zip"),
+          any_change(meta$sent_status))
 
 # ---- Validation summary ------------------------------------------------------
 
@@ -228,7 +270,10 @@ cat("\n== Corpus sync ==\n")
 cat(sprintf("Documents: %d (%d keep = 1) from %d countries, %d-%d\n",
             nrow(meta), sum(meta$keep), dplyr::n_distinct(meta$country_name),
             min(meta$year), max(meta$year)))
-for (k in c("txt", "csv")) {
+cat(sprintf("measure: %s documents in English, %s translated, %s not measured; measure file %s, codebook %s\n",
+            sum(meta$measure_status == "english"), sum(meta$measure_status == "translated"),
+            sum(meta$measure_status == "not_measured"), meas_status[1], meas_status[2]))
+for (k in c("txt", "csv", "tr", "sent")) {
   st <- table(factor(meta[[paste0(k, "_status")]],
                      levels = c("added", "updated", "unchanged", "missing")))
   cat(sprintf("%s: %s\n", k, paste(names(st), st, sep = " ", collapse = ", ")))

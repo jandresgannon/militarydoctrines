@@ -53,10 +53,14 @@ readr::write_csv(fulltext, gzfile(file.path(upload, "nss_fulltext.csv.gz")), na 
 
 # ---- Text and chunk zips (same files as the website's bulk downloads) ------------
 
-for (z in c("nss_txt_all.zip", "nss_chunks_all.zip")) {
+for (z in c("nss_txt_all.zip", "nss_chunks_all.zip", "nss_translations_all.zip", "nss_sentences_all.zip")) {
   invisible(file.copy(file.path(data_copy, z), file.path(stage, z)))
   wrap_zip(file.path(stage, z), file.path(upload, z))
 }
+# The dyad-year measure and its codebook, as the website serves them.
+for (f in c("nss_dyad_year_measure.csv", "CODEBOOK.md"))
+  invisible(file.copy(file.path(data_copy, "measure", f),
+                      file.path(upload, if (f == "CODEBOOK.md") "nss_dyad_year_measure_codebook.md" else f)))
 
 # ---- PDFs: split into parts under the upload limit, never splitting a country -----
 
@@ -118,6 +122,10 @@ readme <- c(
   "| `nss_fulltext.csv.gz` | The metadata plus a `text` column holding each document's full extracted text: the whole corpus in one table. |",
   "| `nss_txt_all.zip` | One `.txt` file per document, plus the metadata. |",
   "| `nss_chunks_all.zip` | One `_chunks.csv` file per document, plus the metadata. |",
+  "| `nss_translations_all.zip` | One `_en.txt` English machine translation per non-English document in the measure, plus the metadata. |",
+  "| `nss_sentences_all.zip` | One `_sentences.csv` file per document in the measure: its English text split into sentences, plus the metadata. |",
+  "| `nss_dyad_year_measure.csv` | The dyad-year salience and affinity measure: one row per issuing state, year and named state. |",
+  "| `nss_dyad_year_measure_codebook.md` | Column definitions and processing for the measure. |",
   pdf_parts,
   "",
   sprintf("PDFs are split into several zips to stay under the repository's per-file size limit; each country's documents are in a single zip. %d documents have no PDF in this release.",

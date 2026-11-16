@@ -12,12 +12,18 @@ Everything the site serves comes from the `measuring-asi` repository (expected n
 | Full text | `inst/extdata/txts/marker_md/` (preferred), else `txts/pymupdf/`, else `txts/txt/` |
 | Chunked text | `inst/extdata/txts/chunking_results_128/` |
 | PDFs | `inst/extdata/pdfs/` |
+| Release manifest: the text each document is measured on, its English translation, its sentence file | `data/release_manifest.csv`, written by `docs/37_release-files.py` |
+| English translations | `inst/extdata/txts/mt_<lang>/<stem>__mten.md` (via the manifest) |
+| Sentence files | `inst/extdata/txts/sentences_doc/<stem>_sentences.csv` (via the manifest) |
+| Dyad-year measure and codebook | `inst/extdata/affective_salience.csv`, `inst/extdata/CODEBOOK.md` |
+
+For documents in the measure, the full text the site serves is the file the manifest names, i.e. exactly what the measure read; for the rest, the Marker / pymupdf / txt order below applies.
 
 PDFs are too large for GitHub Pages. The site links to them in the shared Dropbox folder `00_Archive/03_Hopper/data/doctrines/`, with a 10 GB `doctrines.zip` next to it.
 
 ## Updating the site
 
-1. **Update upstream.** Add or edit rows in the Google Sheet, then in measuring-asi run `docs/00_sheets_to_raw.R` and produce the PDF, text and chunk files there. A document appears on the site only if it has a row in the Sheet.
+1. **Update upstream.** Add or edit rows in the Google Sheet, then in measuring-asi run `docs/00_sheets_to_raw.R` and produce the PDF, text and chunk files there, then run `~/venv/bin/python docs/37_release-files.py` to refresh the release manifest and sentence files. A document appears on the site only if it has a row in the Sheet.
 2. **Sync.** From this repo, run `Rscript docs/01_sync-corpus.R`. It copies changed text and chunk files into `content/data_copy/`, removes files with no metadata row, rebuilds the bulk zips, writes `data/documents.rds` (which the pages read) and `data/sync_report.csv`, and prints:
    - what was added or updated,
    - documents missing text or chunks,
