@@ -14,7 +14,7 @@
 #   measuring-asi/data/release_manifest.csv          written by measuring-asi/docs/37: the text
 #                                                    each document is measured on, its English
 #                                                    translation, its sentence file
-#   measuring-asi/inst/extdata/affective_salience.csv + CODEBOOK.md   the dyad-year measure
+#   measuring-asi/data/release_measure.csv + inst/extdata/CODEBOOK.md   the dyad-year measure
 # Outputs:
 #   content/data_copy/txt_files/<stem>.txt           one per metadata row
 #   content/data_copy/csv_files/<stem>_chunks.csv    one per metadata row
@@ -159,7 +159,9 @@ meta$tr_status   <- mapply(sync_file, meta$translation_file, file.path(out_tr, m
 meta$sent_status <- mapply(sync_file, meta$sentence_file, file.path(out_sent, meta$sent_file))
 # The dyad-year measure and its codebook.
 meas_status <- c(
-  sync_file(file.path(upstream, "inst", "extdata", "affective_salience.csv"),
+  # The public measure file (measuring-asi docs/37): the columns the paper uses plus the
+  # cross-country anchored affinity; documented in the codebook below.
+  sync_file(file.path(upstream, "data", "release_measure.csv"),
             file.path(out_meas, "nss_dyad_year_measure.csv")),
   sync_file(file.path(upstream, "inst", "extdata", "CODEBOOK.md"), file.path(out_meas, "CODEBOOK.md")))
 
