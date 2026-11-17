@@ -140,7 +140,7 @@ readme <- c(
   "",
   sprintf("Gannon, J Andrés. 2026. *Military Doctrines: A Corpus of National Security Strategy Documents*. Version %s. Harvard Dataverse. %s", version, doi),
   "",
-  "Gannon, J Andrés. \"A Text-as-Data Approach to Measuring Interstate Relations Using National Security Strategies.\" Working paper.",
+  "Gannon, J Andrés. \"Measuring Expressed Relations: Salience and Affinity in National Security Strategies.\" Working paper.",
   ""
 )
 writeLines(readme, file.path(upload, "README.md"))
