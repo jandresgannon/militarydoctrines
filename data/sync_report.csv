@@ -2,7 +2,7 @@ stem,keep,measure_status,pdf,txt_status,csv_status,tr_status,sent_status,txt_sou
 albania_2004_NationalSecurity,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 albania_2005_MilitaryStrategy,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 albania_2012_MilitaryReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
-albania_2013_MilitaryReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
+albania_2013_MilitaryReview,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
 albania_2014_DirektivaEmbrojtjes_noneng,0,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 albania_2014_NationalSecurity_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
 albania_2016_FletorjaZyrtare_noneng,0,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
@@ -277,12 +277,12 @@ georgia_2005_NationalSecurityConcept,1,english,TRUE,unchanged,unchanged,missing,
 georgia_2007_NationalMilitaryStrategy,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 georgia_2010_ThreatAssessment,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
 georgia_2012_NationalSecurityConcept,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
-georgia_2013_WhitePaper_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
+georgia_2013_WhitePaper_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 georgia_2014_NationalMilitaryStrategy,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
-georgia_2014_WhitePaper_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
+georgia_2014_WhitePaper_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 georgia_2017_StrategicDefenseReview,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
-georgia_2017_WhitePaper_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
-georgia_2020_NationalSecurityConcept_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
+georgia_2017_WhitePaper_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
+georgia_2020_NationalSecurityConcept_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 germany_1994_WhitePaper,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 germany_2003_DefencePolicyGuidelines,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 germany_2004_Streitkraeftekonzept_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
@@ -306,7 +306,7 @@ guatemala_2013_NationalDefensePolicy_noneng,1,translated,TRUE,unchanged,unchange
 guatemala_2015_NationalDefenseBook_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
 guatemala_2015_SecurityWhitePaper_noneng,0,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 guatemala_2017_NationalSecurityPolicy_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
-guatemala_2020_StrategicSecurityAgenda_noneng,1,translated,FALSE,added,added,added,added,marker_md
+guatemala_2020_StrategicSecurityAgenda_noneng,1,translated,FALSE,unchanged,unchanged,unchanged,unchanged,marker_md
 guiana_2017_LocalSecurityPlan_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 haiti_2015_WhitePaper_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
 honduras_2005_LibroDeLaDefensaNacional_noneng,1,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
@@ -882,8 +882,8 @@ switzerland_2017_SecuritySituationReport,1,english,FALSE,unchanged,unchanged,mis
 switzerland_2018_SecuritySituationReport,1,english,FALSE,unchanged,unchanged,missing,unchanged,pymupdf
 switzerland_2019_SecuritySituationReport,1,english,FALSE,unchanged,unchanged,missing,unchanged,pymupdf
 switzerland_2021_SecuritySituationReport,1,english,FALSE,unchanged,unchanged,missing,unchanged,pymupdf
-belarus_2024_NationalSecurityConcept_noneng,1,translated,FALSE,missing,missing,added,added,
+belarus_2024_NationalSecurityConcept_noneng,1,translated,FALSE,missing,missing,unchanged,unchanged,
 belarus_2024_MilitaryDoctrine_noneng,0,not_measured,FALSE,missing,missing,missing,missing,
-peru_2017_NationalSecurityAndDefensePolicy_noneng,1,translated,FALSE,missing,missing,added,added,
-norway_2001_LongTermDefencePlan,1,english,FALSE,added,added,missing,added,pymupdf
-netherlands_2022_DefenceWhitePaperSummary,1,english,FALSE,added,added,missing,added,pymupdf
+peru_2017_NationalSecurityAndDefensePolicy_noneng,1,translated,FALSE,missing,missing,unchanged,unchanged,
+norway_2001_LongTermDefencePlan,1,english,FALSE,unchanged,unchanged,missing,unchanged,pymupdf
+netherlands_2022_DefenceWhitePaperSummary,1,english,FALSE,unchanged,unchanged,missing,unchanged,pymupdf

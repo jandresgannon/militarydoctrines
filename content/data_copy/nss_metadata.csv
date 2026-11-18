@@ -2,7 +2,7 @@ file_names,country_name,year,title,language,keep,type,measure_status
 albania_2004_NationalSecurity.pdf,albania,2004,National Security,eng,1,,english
 albania_2005_MilitaryStrategy.pdf,albania,2005,Military Strategy,eng,1,,english
 albania_2012_MilitaryReview.pdf,albania,2012,Military Review,eng,1,,english
-albania_2013_MilitaryReview.pdf,albania,2013,Military Review,eng,1,,english
+albania_2013_MilitaryReview.pdf,albania,2013,Military Review,eng,0,,not_measured
 albania_2014_DirektivaEmbrojtjes_noneng.pdf,albania,2014,Direktiva Embrojtjes,noneng,0,,not_measured
 albania_2014_NationalSecurity_noneng.pdf,albania,2014,National Security,noneng,1,,translated
 albania_2016_FletorjaZyrtare_noneng.pdf,albania,2016,Fletorja Zyrtare,noneng,0,,not_measured
@@ -277,12 +277,12 @@ georgia_2005_NationalSecurityConcept.pdf,georgia,2005,National Security Concept,
 georgia_2007_NationalMilitaryStrategy.pdf,georgia,2007,National Military Strategy,eng,1,,english
 georgia_2010_ThreatAssessment.pdf,georgia,2010,Threat Assessment,eng,0,,not_measured
 georgia_2012_NationalSecurityConcept.pdf,georgia,2012,National Security Concept,eng,1,,english
-georgia_2013_WhitePaper_noneng.pdf,georgia,2013,White Paper,noneng,1,,translated
+georgia_2013_WhitePaper_noneng.pdf,georgia,2013,White Paper,noneng,1,,not_measured
 georgia_2014_NationalMilitaryStrategy.pdf,georgia,2014,National Military Strategy,eng,0,,not_measured
-georgia_2014_WhitePaper_noneng.pdf,georgia,2014,White Paper,noneng,1,,translated
+georgia_2014_WhitePaper_noneng.pdf,georgia,2014,White Paper,noneng,1,,not_measured
 georgia_2017_StrategicDefenseReview.pdf,georgia,2017,Strategic Defense Review,eng,0,,not_measured
-georgia_2017_WhitePaper_noneng.pdf,georgia,2017,White Paper,noneng,1,,translated
-georgia_2020_NationalSecurityConcept_noneng.pdf,georgia,2020,National Security Concept,noneng,1,,translated
+georgia_2017_WhitePaper_noneng.pdf,georgia,2017,White Paper,noneng,1,,not_measured
+georgia_2020_NationalSecurityConcept_noneng.pdf,georgia,2020,National Security Concept,noneng,1,,not_measured
 germany_1994_WhitePaper.pdf,germany,1994,White Paper,noneng,1,,not_measured
 germany_2003_DefencePolicyGuidelines.pdf,germany,2003,Defence Policy Guidelines,eng,1,,english
 germany_2004_Streitkraeftekonzept_noneng.pdf,germany,2004,Streitkraeftekonzept,noneng,1,,translated
