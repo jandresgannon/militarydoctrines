@@ -1,7 +1,7 @@
 stem,keep,measure_status,pdf,txt_status,csv_status,tr_status,sent_status,txt_source
 albania_2004_NationalSecurity,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 albania_2005_MilitaryStrategy,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
-albania_2012_MilitaryReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
+albania_2012_MilitaryReview,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
 albania_2013_MilitaryReview,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
 albania_2014_DirektivaEmbrojtjes_noneng,0,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 albania_2014_NationalSecurity_noneng,1,translated,TRUE,unchanged,unchanged,unchanged,unchanged,marker_md
@@ -750,7 +750,7 @@ ukraine_2018_WhiteBook,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymu
 ukraine_2020_NationalSecurityStrategy_noneng,0,not_measured,TRUE,unchanged,unchanged,missing,missing,marker_md
 ukraine_2021_WhitePaper,1,english,TRUE,unchanged,unchanged,missing,unchanged,marker_md
 unitedkingdom_1998_StrategicDefenceReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
-unitedkingdom_1999_StrategicDefenceReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
+unitedkingdom_1999_StrategicDefenceReview,0,not_measured,TRUE,unchanged,unchanged,missing,missing,pymupdf
 unitedkingdom_2002_StrategicDefenceReview,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 unitedkingdom_2003_DefenceWhitePaper,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf
 unitedkingdom_2004_FutureCapabilities,1,english,TRUE,unchanged,unchanged,missing,unchanged,pymupdf

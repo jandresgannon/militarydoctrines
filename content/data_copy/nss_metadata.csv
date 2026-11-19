@@ -1,7 +1,7 @@
 file_names,country_name,year,title,language,keep,type,measure_status
 albania_2004_NationalSecurity.pdf,albania,2004,National Security,eng,1,,english
 albania_2005_MilitaryStrategy.pdf,albania,2005,Military Strategy,eng,1,,english
-albania_2012_MilitaryReview.pdf,albania,2012,Military Review,eng,1,,english
+albania_2012_MilitaryReview.pdf,albania,2012,Military Review,eng,0,,not_measured
 albania_2013_MilitaryReview.pdf,albania,2013,Military Review,eng,0,,not_measured
 albania_2014_DirektivaEmbrojtjes_noneng.pdf,albania,2014,Direktiva Embrojtjes,noneng,0,,not_measured
 albania_2014_NationalSecurity_noneng.pdf,albania,2014,National Security,noneng,1,,translated
@@ -750,7 +750,7 @@ ukraine_2018_WhiteBook.pdf,ukraine,2018,White Book,eng,1,,english
 ukraine_2020_NationalSecurityStrategy_noneng.pdf,ukraine,2020,National Security Strategy,noneng,0,,not_measured
 ukraine_2021_WhitePaper.pdf,ukraine,2021,White Paper,eng,1,,english
 unitedkingdom_1998_StrategicDefenceReview.pdf,unitedkingdom,1998,Strategic Defence Review,eng,1,,english
-unitedkingdom_1999_StrategicDefenceReview.pdf,unitedkingdom,1999,Strategic Defence Review,eng,1,,english
+unitedkingdom_1999_StrategicDefenceReview.pdf,unitedkingdom,1999,Strategic Defence Review,eng,0,,not_measured
 unitedkingdom_2002_StrategicDefenceReview.pdf,unitedkingdom,2002,Strategic Defence Review,eng,1,,english
 unitedkingdom_2003_DefenceWhitePaper.pdf,unitedkingdom,2003,Defence White Paper,eng,1,,english
 unitedkingdom_2004_FutureCapabilities.pdf,unitedkingdom,2004,Future Capabilities,eng,1,,english
